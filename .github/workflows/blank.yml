@@ -16,7 +16,7 @@ env:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
   schedule:
-    - cron:  "* 12 * * *"  # Runs every minute of 12th hour
+    - cron:  "0 0/12 * * *" #"* 12 * * *" Runs every minute of 12th hour
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:

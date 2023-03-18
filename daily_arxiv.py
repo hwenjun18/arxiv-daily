@@ -201,7 +201,7 @@ def update_json_file(filename,data_dict):
     '''
     daily update json file using data_dict
     '''
-    if not os.path.exist(filename):
+    if not os.path.exists(filename):
         with open(filename, "w") as f:
             pass  
     with open(filename,"r") as f:

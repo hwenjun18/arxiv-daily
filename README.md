@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.19
+## Updated on 2023.03.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -42,7 +42,7 @@
 |**2022-11-21**|**Towards Live 3D Reconstruction from Wearable Video: An Evaluation of V-SLAM, NeRF, and Videogrammetry Techniques**|David Ramirez et.al.|[2211.11836](http://arxiv.org/abs/2211.11836)|null|
 |**2022-11-14**|**Controllable GAN Synthesis Using Non-Rigid Structure-from-Motion**|René Haas et.al.|[2211.07195](http://arxiv.org/abs/2211.07195)|null|
 
-<p align=right>(<a href=#Updated-on-20230319>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230320>back to top</a>)</p>
 
 ## GAN
 
@@ -53,7 +53,7 @@
 |**2023-03-16**|**SpectralCLIP: Preventing Artifacts in Text-Guided Style Transfer from a Spectral Perspective**|Zipeng Xu et.al.|[2303.09270](http://arxiv.org/abs/2303.09270)|null|
 |**2023-03-16**|**StylerDALLE: Language-Guided Style Transfer Using a Vector-Quantized Tokenizer of a Large-Scale Generative Model**|Zipeng Xu et.al.|[2303.09268](http://arxiv.org/abs/2303.09268)|null|
 |**2023-03-16**|**Generative Adversarial Network for Personalized Art Therapy in Melanoma Disease Management**|Lennart Jütte et.al.|[2303.09232](http://arxiv.org/abs/2303.09232)|null|
-|**2023-03-16**|**NLUT: Neuarl-based 3D Lookup Tables for Video Photorealistic Style Transfer**|Yaosen Chen et.al.|[2303.09170](http://arxiv.org/abs/2303.09170)|null|
+|**2023-03-17**|**NLUT: Neural-based 3D Lookup Tables for Video Photorealistic Style Transfer**|Yaosen Chen et.al.|[2303.09170](http://arxiv.org/abs/2303.09170)|null|
 |**2023-03-16**|**Taming Diffusion Models for Audio-Driven Co-Speech Gesture Generation**|Lingting Zhu et.al.|[2303.09119](http://arxiv.org/abs/2303.09119)|**[link](https://github.com/advocate99/diffgesture)**|
 |**2023-03-16**|**Self-Consistent Learning: Cooperation between Generators and Discriminators**|Tong Wu et.al.|[2303.09075](http://arxiv.org/abs/2303.09075)|null|
 |**2023-03-16**|**Exploring the Power of Generative Deep Learning for Image-to-Image Translation and MRI Reconstruction: A Cross-Domain Review**|Yuda Bi et.al.|[2303.09012](http://arxiv.org/abs/2303.09012)|null|
@@ -69,7 +69,7 @@
 |**2023-03-14**|**3D Face Arbitrary Style Transfer**|Xiangwen Deng et.al.|[2303.07709](http://arxiv.org/abs/2303.07709)|null|
 |**2023-03-13**|**AGTGAN: Unpaired Image Translation for Photographic Ancient Character Generation**|Hongxiang Huang et.al.|[2303.07012](http://arxiv.org/abs/2303.07012)|**[link](https://github.com/hellomystery/agtgan)**|
 
-<p align=right>(<a href=#Updated-on-20230319>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230320>back to top</a>)</p>
 
 ## Diffusion Model
 
@@ -80,11 +80,11 @@
 |**2023-03-16**|**$P+$ : Extended Textual Conditioning in Text-to-Image Generation**|Andrey Voynov et.al.|[2303.09522](http://arxiv.org/abs/2303.09522)|null|
 |**2023-03-16**|**LDMVFI: Video Frame Interpolation with Latent Diffusion Models**|Duolikun Danier et.al.|[2303.09508](http://arxiv.org/abs/2303.09508)|null|
 |**2023-03-16**|**DiffIR: Efficient Diffusion Model for Image Restoration**|Bin Xia et.al.|[2303.09472](http://arxiv.org/abs/2303.09472)|null|
-|**2023-03-16**|**DINAR: Diffusion Inpainting of Neural Textures for One-Shot Human Avatars**|David Svitov et.al.|[2303.09375](http://arxiv.org/abs/2303.09375)|null|
+|**2023-03-17**|**DINAR: Diffusion Inpainting of Neural Textures for One-Shot Human Avatars**|David Svitov et.al.|[2303.09375](http://arxiv.org/abs/2303.09375)|null|
 |**2023-03-16**|**Unified Multi-Modal Latent Diffusion for Joint Subject and Text Conditional Image Generation**|Yiyang Ma et.al.|[2303.09319](http://arxiv.org/abs/2303.09319)|null|
 |**2023-03-16**|**DIRE for Diffusion-Generated Image Detection**|Zhendong Wang et.al.|[2303.09295](http://arxiv.org/abs/2303.09295)|**[link](https://github.com/zhendongwang6/dire)**|
 |**2023-03-16**|**Taming Diffusion Models for Audio-Driven Co-Speech Gesture Generation**|Lingting Zhu et.al.|[2303.09119](http://arxiv.org/abs/2303.09119)|**[link](https://github.com/advocate99/diffgesture)**|
-|**2023-03-15**|**Stochastic Segmentation with Conditional Categorical Diffusion Models**|Lukas Zbinden et.al.|[2303.08888](http://arxiv.org/abs/2303.08888)|**[link](https://github.com/larsdoorenbos/ccdm-stochastic-segmentation)**|
+|**2023-03-17**|**Stochastic Segmentation with Conditional Categorical Diffusion Models**|Lukas Zbinden et.al.|[2303.08888](http://arxiv.org/abs/2303.08888)|**[link](https://github.com/larsdoorenbos/ccdm-stochastic-segmentation)**|
 |**2023-03-15**|**Highly Personalized Text Embedding for Image Manipulation by Stable Diffusion**|Inhwa Han et.al.|[2303.08767](http://arxiv.org/abs/2303.08767)|null|
 |**2023-03-16**|**ResDiff: Combining CNN and Diffusion Model for Image Super-Resolution**|Shuyao Shang et.al.|[2303.08714](http://arxiv.org/abs/2303.08714)|null|
 |**2023-03-15**|**Speech Signal Improvement Using Causal Generative Diffusion Models**|Julius Richter et.al.|[2303.08674](http://arxiv.org/abs/2303.08674)|null|
@@ -96,7 +96,7 @@
 |**2023-03-15**|**DiffBEV: Conditional Diffusion Model for Bird's Eye View Perception**|Jiayu Zou et.al.|[2303.08333](http://arxiv.org/abs/2303.08333)|**[link](https://github.com/jiayuzou2020/diffbev)**|
 |**2023-03-16**|**VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation**|Zhengxiong Luo et.al.|[2303.08320](http://arxiv.org/abs/2303.08320)|null|
 
-<p align=right>(<a href=#Updated-on-20230319>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230320>back to top</a>)</p>
 
 ## Image Edit
 
@@ -123,7 +123,7 @@
 |**2023-02-20**|**A Large Scale Homography Benchmark**|Daniel Barath et.al.|[2302.09997](http://arxiv.org/abs/2302.09997)|null|
 |**2023-02-19**|**LC-NeRF: Local Controllable Face Generation in Neural Randiance Field**|Wenyang Zhou et.al.|[2302.09486](http://arxiv.org/abs/2302.09486)|null|
 
-<p align=right>(<a href=#Updated-on-20230319>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230320>back to top</a>)</p>
 
 ## NeRF
 
@@ -132,7 +132,7 @@
 |**2023-03-16**|**PartNeRF: Generating Part-Aware Editable 3D Shapes without 3D Supervision**|Konstantinos Tertikas et.al.|[2303.09554](http://arxiv.org/abs/2303.09554)|null|
 |**2023-03-16**|**LERF: Language Embedded Radiance Fields**|Justin Kerr et.al.|[2303.09553](http://arxiv.org/abs/2303.09553)|null|
 |**2023-03-16**|**NeRFMeshing: Distilling Neural Radiance Fields into Geometrically-Accurate 3D Meshes**|Marie-Julie Rakotosaona et.al.|[2303.09431](http://arxiv.org/abs/2303.09431)|null|
-|**2023-03-16**|**NeRFtrinsic Four: An End-To-End Trainable NeRF Jointly Optimizing Diverse Intrinsic and Extrinsic Camera Parameters**|Hannah Schieber et.al.|[2303.09412](http://arxiv.org/abs/2303.09412)|**[link](https://github.com/hannahhaensen/nerftrinsic_four)**|
+|**2023-03-17**|**NeRFtrinsic Four: An End-To-End Trainable NeRF Jointly Optimizing Diverse Intrinsic and Extrinsic Camera Parameters**|Hannah Schieber et.al.|[2303.09412](http://arxiv.org/abs/2303.09412)|**[link](https://github.com/hannahhaensen/nerftrinsic_four)**|
 |**2023-03-16**|**Reliable Image Dehazing by NeRF**|Zheyan Jin et.al.|[2303.09153](http://arxiv.org/abs/2303.09153)|null|
 |**2023-03-15**|**Mesh Strikes Back: Fast and Efficient Human Reconstruction from RGB videos**|Rohit Jena et.al.|[2303.08808](http://arxiv.org/abs/2303.08808)|null|
 |**2023-03-15**|**Re-ReND: Real-time Rendering of NeRFs across Devices**|Sara Rojas et.al.|[2303.08717](http://arxiv.org/abs/2303.08717)|null|
@@ -150,5 +150,5 @@
 |**2023-03-10**|**Aleth-NeRF: Low-light Condition View Synthesis with Concealing Fields**|Ziteng Cui et.al.|[2303.05807](http://arxiv.org/abs/2303.05807)|null|
 |**2023-03-10**|**Self-NeRF: A Self-Training Pipeline for Few-Shot Neural Radiance Fields**|Jiayang Bai et.al.|[2303.05775](http://arxiv.org/abs/2303.05775)|null|
 
-<p align=right>(<a href=#Updated-on-20230319>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230320>back to top</a>)</p>
 

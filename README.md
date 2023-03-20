@@ -52,7 +52,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-03-17**|**DialogPaint: A Dialog-based Image Editing Model**|Jingxuan Wei et.al.|[2303.10073](http://arxiv.org/abs/2303.10073)|null|
-|**2023-03-17**|**Configurable EBEN: Extreme Bandwidth Extension Network to enhance body-conducted speech capture**|Julien Hauret et.al.|[2303.10008](http://arxiv.org/abs/2303.10008)|null|
+|**2023-03-17**|**Configurable EBEN: Extreme Bandwidth Extension Network to enhance body-conducted speech capture**|Julien Hauret et.al.|[2303.10008](http://arxiv.org/abs/2303.10008)|**[link](https://github.com/jhauret/eben)**|
 |**2023-03-17**|**Exploiting Semantic Attributes for Transductive Zero-Shot Learning**|Zhengbo Wang et.al.|[2303.09849](http://arxiv.org/abs/2303.09849)|null|
 |**2023-03-17**|**Style Transfer for 2D Talking Head Animation**|Trong-Thang Pham et.al.|[2303.09799](http://arxiv.org/abs/2303.09799)|null|
 |**2023-03-17**|**Diffusing the Optimal Topology: A Generative Optimization Approach**|Giorgio Giannone et.al.|[2303.09760](http://arxiv.org/abs/2303.09760)|null|
@@ -61,7 +61,7 @@
 |**2023-03-16**|**SpectralCLIP: Preventing Artifacts in Text-Guided Style Transfer from a Spectral Perspective**|Zipeng Xu et.al.|[2303.09270](http://arxiv.org/abs/2303.09270)|null|
 |**2023-03-16**|**StylerDALLE: Language-Guided Style Transfer Using a Vector-Quantized Tokenizer of a Large-Scale Generative Model**|Zipeng Xu et.al.|[2303.09268](http://arxiv.org/abs/2303.09268)|null|
 |**2023-03-16**|**Generative Adversarial Network for Personalized Art Therapy in Melanoma Disease Management**|Lennart Jütte et.al.|[2303.09232](http://arxiv.org/abs/2303.09232)|null|
-|**2023-03-17**|**NLUT: Neural-based 3D Lookup Tables for Video Photorealistic Style Transfer**|Yaosen Chen et.al.|[2303.09170](http://arxiv.org/abs/2303.09170)|null|
+|**2023-03-17**|**NLUT: Neural-based 3D Lookup Tables for Video Photorealistic Style Transfer**|Yaosen Chen et.al.|[2303.09170](http://arxiv.org/abs/2303.09170)|**[link](https://github.com/semchan/NLUT)**|
 |**2023-03-16**|**Taming Diffusion Models for Audio-Driven Co-Speech Gesture Generation**|Lingting Zhu et.al.|[2303.09119](http://arxiv.org/abs/2303.09119)|**[link](https://github.com/advocate99/diffgesture)**|
 |**2023-03-16**|**Self-Consistent Learning: Cooperation between Generators and Discriminators**|Tong Wu et.al.|[2303.09075](http://arxiv.org/abs/2303.09075)|null|
 |**2023-03-16**|**Exploring the Power of Generative Deep Learning for Image-to-Image Translation and MRI Reconstruction: A Cross-Domain Review**|Yuda Bi et.al.|[2303.09012](http://arxiv.org/abs/2303.09012)|null|

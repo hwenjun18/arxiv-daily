@@ -22,15 +22,19 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "SFM":
-        filters: ["SFM", "Structure from Motion"]
+    "Reshaping":
+        filters: ["Reshaping", "Shape", "Human-body Retouching", "Face Animation", "Flow", "Structure Editing"]
+    "Portrait ":
+        filters: ["Portrait ", "Face", "Enhance", "MakeUp", "Tone", "Relight", "Bokeh", "Harmonization", "Harmony"]
     "GAN":
-        filters: ["GAN","StyleGAN",
-                  "Style Transfer","Generative Adversarial Network"]
+        filters: ["GAN","StyleGAN", "Style Transfer","Generative Adversarial Network"]
+    "GPT":
+        filters: ["GPT","LLM"]   
+    "Transfomer":
+        filters: ["Transfomer"] 
     "Diffusion Model":
-        filters: ["Diffusion Model", "Diffusion", "DDPM"]
+        filters: ["Diffusion Model", "Diffusion", "DDPM", "Clip", "Text-to-Image"]
     "Image Edit":
-        filters: ["Image Matching", "Face Edit", 
-                  "Image Edit"]
+        filters: ["Image Retouching", "Face Edit", "Image Edit", "Retouch", "Image Restoration", "Inpainting"]
     "NeRF":
-        filters: ["NeRF"]
+        filters: ["NeRF", "MVS", "Neural Rendering", "Neus"]

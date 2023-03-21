@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.20
+## Updated on 2023.03.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -45,7 +45,7 @@
 |**2022-11-21**|**Towards Live 3D Reconstruction from Wearable Video: An Evaluation of V-SLAM, NeRF, and Videogrammetry Techniques**|David Ramirez et.al.|[2211.11836](http://arxiv.org/abs/2211.11836)|null|
 |**2022-11-14**|**Controllable GAN Synthesis Using Non-Rigid Structure-from-Motion**|René Haas et.al.|[2211.07195](http://arxiv.org/abs/2211.07195)|null|
 
-<p align=right>(<a href=#Updated-on-20230320>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230321>back to top</a>)</p>
 
 ## GAN
 
@@ -58,11 +58,11 @@
 |**2023-03-17**|**Diffusing the Optimal Topology: A Generative Optimization Approach**|Giorgio Giannone et.al.|[2303.09760](http://arxiv.org/abs/2303.09760)|null|
 |**2023-03-16**|**3D Masked Autoencoding and Pseudo-labeling for Domain Adaptive Segmentation of Heterogeneous Infant Brain MRI**|Xuzhe Zhang et.al.|[2303.09373](http://arxiv.org/abs/2303.09373)|null|
 |**2023-03-15**|**Copyright Protection and Accountability of Generative AI:Attack, Watermarking and Attribution**|Haonan Zhong et.al.|[2303.09272](http://arxiv.org/abs/2303.09272)|null|
-|**2023-03-16**|**SpectralCLIP: Preventing Artifacts in Text-Guided Style Transfer from a Spectral Perspective**|Zipeng Xu et.al.|[2303.09270](http://arxiv.org/abs/2303.09270)|null|
-|**2023-03-16**|**StylerDALLE: Language-Guided Style Transfer Using a Vector-Quantized Tokenizer of a Large-Scale Generative Model**|Zipeng Xu et.al.|[2303.09268](http://arxiv.org/abs/2303.09268)|null|
-|**2023-03-16**|**Generative Adversarial Network for Personalized Art Therapy in Melanoma Disease Management**|Lennart Jütte et.al.|[2303.09232](http://arxiv.org/abs/2303.09232)|null|
+|**2023-03-16**|**SpectralCLIP: Preventing Artifacts in Text-Guided Style Transfer from a Spectral Perspective**|Zipeng Xu et.al.|[2303.09270](http://arxiv.org/abs/2303.09270)|**[link](https://github.com/zipengxuc/spectralclip)**|
+|**2023-03-16**|**StylerDALLE: Language-Guided Style Transfer Using a Vector-Quantized Tokenizer of a Large-Scale Generative Model**|Zipeng Xu et.al.|[2303.09268](http://arxiv.org/abs/2303.09268)|**[link](https://github.com/zipengxuc/stylerdalle)**|
+|**2023-03-20**|**Generative Adversarial Network for Personalized Art Therapy in Melanoma Disease Management**|Lennart Jütte et.al.|[2303.09232](http://arxiv.org/abs/2303.09232)|null|
 |**2023-03-17**|**NLUT: Neural-based 3D Lookup Tables for Video Photorealistic Style Transfer**|Yaosen Chen et.al.|[2303.09170](http://arxiv.org/abs/2303.09170)|**[link](https://github.com/semchan/NLUT)**|
-|**2023-03-16**|**Taming Diffusion Models for Audio-Driven Co-Speech Gesture Generation**|Lingting Zhu et.al.|[2303.09119](http://arxiv.org/abs/2303.09119)|**[link](https://github.com/advocate99/diffgesture)**|
+|**2023-03-18**|**Taming Diffusion Models for Audio-Driven Co-Speech Gesture Generation**|Lingting Zhu et.al.|[2303.09119](http://arxiv.org/abs/2303.09119)|**[link](https://github.com/advocate99/diffgesture)**|
 |**2023-03-16**|**Self-Consistent Learning: Cooperation between Generators and Discriminators**|Tong Wu et.al.|[2303.09075](http://arxiv.org/abs/2303.09075)|null|
 |**2023-03-16**|**Exploring the Power of Generative Deep Learning for Image-to-Image Translation and MRI Reconstruction: A Cross-Domain Review**|Yuda Bi et.al.|[2303.09012](http://arxiv.org/abs/2303.09012)|null|
 |**2023-03-16**|**Conditional Synthetic Food Image Generation**|Wenjin Fu et.al.|[2303.09005](http://arxiv.org/abs/2303.09005)|null|
@@ -77,7 +77,7 @@
 |**2023-03-14**|**3D Face Arbitrary Style Transfer**|Xiangwen Deng et.al.|[2303.07709](http://arxiv.org/abs/2303.07709)|null|
 |**2023-03-13**|**AGTGAN: Unpaired Image Translation for Photographic Ancient Character Generation**|Hongxiang Huang et.al.|[2303.07012](http://arxiv.org/abs/2303.07012)|**[link](https://github.com/hellomystery/agtgan)**|
 
-<p align=right>(<a href=#Updated-on-20230320>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230321>back to top</a>)</p>
 
 ## Diffusion Model
 
@@ -87,7 +87,7 @@
 |**2023-03-17**|**Data-Centric Learning from Unlabeled Graphs with Diffusion Model**|Gang Liu et.al.|[2303.10108](http://arxiv.org/abs/2303.10108)|null|
 |**2023-03-17**|**DialogPaint: A Dialog-based Image Editing Model**|Jingxuan Wei et.al.|[2303.10073](http://arxiv.org/abs/2303.10073)|null|
 |**2023-03-17**|**GlueGen: Plug and Play Multi-modal Encoders for X-to-image Generation**|Can Qin et.al.|[2303.10056](http://arxiv.org/abs/2303.10056)|null|
-|**2023-03-17**|**Adversarial Counterfactual Visual Explanations**|Guillaume Jeanneret et.al.|[2303.09962](http://arxiv.org/abs/2303.09962)|null|
+|**2023-03-17**|**Adversarial Counterfactual Visual Explanations**|Guillaume Jeanneret et.al.|[2303.09962](http://arxiv.org/abs/2303.09962)|**[link](https://github.com/guillaumejs2403/ace)**|
 |**2023-03-17**|**DiffusionRet: Generative Text-Video Retrieval with Diffusion Model**|Peng Jin et.al.|[2303.09867](http://arxiv.org/abs/2303.09867)|null|
 |**2023-03-17**|**FreeDoM: Training-Free Energy-Guided Conditional Diffusion Model**|Jiwen Yu et.al.|[2303.09833](http://arxiv.org/abs/2303.09833)|**[link](https://github.com/vvictoryuki/freedom)**|
 |**2023-03-17**|**DiffusionSeg: Adapting Diffusion Towards Unsupervised Object Discovery**|Chaofan Ma et.al.|[2303.09813](http://arxiv.org/abs/2303.09813)|null|
@@ -118,7 +118,7 @@
 |**2023-03-15**|**DiffBEV: Conditional Diffusion Model for Bird's Eye View Perception**|Jiayu Zou et.al.|[2303.08333](http://arxiv.org/abs/2303.08333)|**[link](https://github.com/jiayuzou2020/diffbev)**|
 |**2023-03-16**|**VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation**|Zhengxiong Luo et.al.|[2303.08320](http://arxiv.org/abs/2303.08320)|null|
 
-<p align=right>(<a href=#Updated-on-20230320>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230321>back to top</a>)</p>
 
 ## Image Edit
 
@@ -129,14 +129,14 @@
 |**2023-03-16**|**HIVE: Harnessing Human Feedback for Instructional Visual Editing**|Shu Zhang et.al.|[2303.09618](http://arxiv.org/abs/2303.09618)|null|
 |**2023-03-16**|**DiffIR: Efficient Diffusion Model for Image Restoration**|Bin Xia et.al.|[2303.09472](http://arxiv.org/abs/2303.09472)|null|
 |**2023-03-16**|**A Framework for Real-time Object Detection and Image Restoration**|Rui-Yang Ju et.al.|[2303.09190](http://arxiv.org/abs/2303.09190)|**[link](https://github.com/rubbbbbbbbby/swinoir)**|
-|**2023-03-16**|**Contrastive Semi-supervised Learning for Underwater Image Restoration via Reliable Bank**|Shirui Huang et.al.|[2303.09101](http://arxiv.org/abs/2303.09101)|**[link](https://github.com/huang-shirui/semi-uir)**|
+|**2023-03-20**|**Contrastive Semi-supervised Learning for Underwater Image Restoration via Reliable Bank**|Shirui Huang et.al.|[2303.09101](http://arxiv.org/abs/2303.09101)|**[link](https://github.com/huang-shirui/semi-uir)**|
 |**2023-03-15**|**Highly Personalized Text Embedding for Image Manipulation by Stable Diffusion**|Inhwa Han et.al.|[2303.08767](http://arxiv.org/abs/2303.08767)|null|
 |**2023-03-15**|**RSFNet: A White-Box Image Retouching Approach using Region-Specific Color Filters**|Wenqi Ouyang et.al.|[2303.08682](http://arxiv.org/abs/2303.08682)|null|
 |**2023-03-15**|**Rethinking Optical Flow from Geometric Matching Consistent Perspective**|Qiaole Dong et.al.|[2303.08384](http://arxiv.org/abs/2303.08384)|**[link](https://github.com/dqiaole/matchflow)**|
 |**2023-03-14**|**Text-to-image Diffusion Model in Generative AI: A Survey**|Chenshuang Zhang et.al.|[2303.07909](http://arxiv.org/abs/2303.07909)|null|
 |**2023-03-13**|**Synthesizing Realistic Image Restoration Training Pairs: A Diffusion Approach**|Tao Yang et.al.|[2303.06994](http://arxiv.org/abs/2303.06994)|null|
 |**2023-03-13**|**Learning Distortion Invariant Representation for Image Restoration from A Causality Perspective**|Xin Li et.al.|[2303.06859](http://arxiv.org/abs/2303.06859)|**[link](https://github.com/lixinustc/casual-ir-dil)**|
-|**2023-03-12**|**DDS2M: Self-Supervised Denoising Diffusion Spatio-Spectral Model for Hyperspectral Image Restoration**|Yuchun Miao et.al.|[2303.06682](http://arxiv.org/abs/2303.06682)|null|
+|**2023-03-19**|**DDS2M: Self-Supervised Denoising Diffusion Spatio-Spectral Model for Hyperspectral Image Restoration**|Yuchun Miao et.al.|[2303.06682](http://arxiv.org/abs/2303.06682)|null|
 |**2023-03-12**|**CoT-MISR:Marrying Convolution and Transformer for Multi-Image Super-Resolution**|Mingming Xiu et.al.|[2303.06548](http://arxiv.org/abs/2303.06548)|null|
 |**2023-03-12**|**MetaUE: Model-based Meta-learning for Underwater Image Enhancement**|Zhenwei Zhang et.al.|[2303.06543](http://arxiv.org/abs/2303.06543)|**[link](https://github.com/duanlab123/metaue)**|
 |**2023-03-09**|**CoralStyleCLIP: Co-optimized Region and Layer Selection for Image Editing**|Ambareesh Revanur et.al.|[2303.05031](http://arxiv.org/abs/2303.05031)|null|
@@ -161,7 +161,7 @@
 |**2023-02-20**|**A Large Scale Homography Benchmark**|Daniel Barath et.al.|[2302.09997](http://arxiv.org/abs/2302.09997)|null|
 |**2023-02-19**|**LC-NeRF: Local Controllable Face Generation in Neural Randiance Field**|Wenyang Zhou et.al.|[2302.09486](http://arxiv.org/abs/2302.09486)|null|
 
-<p align=right>(<a href=#Updated-on-20230320>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230321>back to top</a>)</p>
 
 ## NeRF
 
@@ -207,7 +207,7 @@
 |**2022-12-30**|**NeRF-Gaze: A Head-Eye Redirection Parametric Model for Gaze Estimation**|Pengwei Yin et.al.|[2212.14710](http://arxiv.org/abs/2212.14710)|null|
 |**2022-12-18**|**Masked Wavelet Representation for Compact Neural Radiance Fields**|Daniel Rho et.al.|[2212.09069](http://arxiv.org/abs/2212.09069)|**[link](https://github.com/daniel03c1/masked_wavelet_nerf)**|
 
-<p align=right>(<a href=#Updated-on-20230320>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230321>back to top</a>)</p>
 
 ## Reshaping
 
@@ -234,7 +234,7 @@
 |**2022-05-13**|**F3A-GAN: Facial Flow for Face Animation with Generative Adversarial Networks**|Xintian Wu et.al.|[2205.06204](http://arxiv.org/abs/2205.06204)|null|
 |**2022-03-16**|**Efficient conditioned face animation using frontally-viewed embedding**|Maxime Oquab et.al.|[2203.08765](http://arxiv.org/abs/2203.08765)|null|
 
-<p align=right>(<a href=#Updated-on-20230320>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230321>back to top</a>)</p>
 
 ## Portrait 
 
@@ -261,7 +261,7 @@
 |**2023-03-01**|**DPE: Disentanglement of Pose and Expression for General Video Portrait Editing**|Youxin Pang et.al.|[2301.06281](http://arxiv.org/abs/2301.06281)|null|
 |**2023-01-03**|**StyleTalk: One-shot Talking Head Generation with Controllable Speaking Styles**|Yifeng Ma et.al.|[2301.01081](http://arxiv.org/abs/2301.01081)|**[link](https://github.com/fuxivirtualhuman/styletalk)**|
 
-<p align=right>(<a href=#Updated-on-20230320>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230321>back to top</a>)</p>
 
 ## Transfomer
 
@@ -288,5 +288,5 @@
 |**2012-01-21**|**Interior Static Stellar Model with Electric Charge as an Oscillator**|A. M. Baranov et.al.|[1201.4429](http://arxiv.org/abs/1201.4429)|null|
 |**2011-05-16**|**Exactness of the Euclidean algorithm and of the Rauzy induction on the space of interval exchange transfomations**|Tomasz Miernowski et.al.|[1104.3980](http://arxiv.org/abs/1104.3980)|null|
 
-<p align=right>(<a href=#Updated-on-20230320>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230321>back to top</a>)</p>
 

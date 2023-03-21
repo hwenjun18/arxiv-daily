@@ -51,6 +51,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-20**|**AnimeDiffusion: Anime Face Line Drawing Colorization via Diffusion Models**|Yu Cao et.al.|[2303.11137](http://arxiv.org/abs/2303.11137)|null|
+|**2023-03-20**|**Discovering Interpretable Directions in the Semantic Latent Space of Diffusion Models**|René Haas et.al.|[2303.11073](http://arxiv.org/abs/2303.11073)|null|
+|**2023-03-20**|**k-SALSA: k-anonymous synthetic averaging of retinal images via local style alignment**|Minkyu Jeon et.al.|[2303.10824](http://arxiv.org/abs/2303.10824)|**[link](https://github.com/hcholab/k-salsa)**|
+|**2023-03-19**|**Cross-GAN Auditing: Unsupervised Identification of Attribute Level Similarities and Differences between Pretrained Generative Models**|Matthew L. Olson et.al.|[2303.10774](http://arxiv.org/abs/2303.10774)|null|
+|**2023-03-19**|**StyleRF: Zero-shot 3D Style Transfer of Neural Radiance Fields**|Kunhao Liu et.al.|[2303.10598](http://arxiv.org/abs/2303.10598)|null|
+|**2023-03-17**|**Exploring contrast generalisation in deep learning-based brain MRI-to-CT synthesis**|Lotte Nijskens et.al.|[2303.10202](http://arxiv.org/abs/2303.10202)|null|
+|**2023-03-17**|**Unsupervised Domain Transfer with Conditional Invertible Neural Networks**|Kris K. Dreher et.al.|[2303.10191](http://arxiv.org/abs/2303.10191)|null|
 |**2023-03-17**|**DialogPaint: A Dialog-based Image Editing Model**|Jingxuan Wei et.al.|[2303.10073](http://arxiv.org/abs/2303.10073)|null|
 |**2023-03-17**|**Configurable EBEN: Extreme Bandwidth Extension Network to enhance body-conducted speech capture**|Julien Hauret et.al.|[2303.10008](http://arxiv.org/abs/2303.10008)|**[link](https://github.com/jhauret/eben)**|
 |**2023-03-17**|**Exploiting Semantic Attributes for Transductive Zero-Shot Learning**|Zhengbo Wang et.al.|[2303.09849](http://arxiv.org/abs/2303.09849)|null|
@@ -83,6 +90,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-20**|**Zero-1-to-3: Zero-shot One Image to 3D Object**|Ruoshi Liu et.al.|[2303.11328](http://arxiv.org/abs/2303.11328)|null|
+|**2023-03-20**|**Localizing Object-level Shape Variations with Text-to-Image Diffusion Models**|Or Patashnik et.al.|[2303.11306](http://arxiv.org/abs/2303.11306)|null|
+|**2023-03-20**|**SVDiff: Compact Parameter Space for Diffusion Fine-Tuning**|Ligong Han et.al.|[2303.11305](http://arxiv.org/abs/2303.11305)|null|
+|**2023-03-20**|**Cascaded Latent Diffusion Models for High-Resolution Chest X-ray Synthesis**|Tobias Weber et.al.|[2303.11224](http://arxiv.org/abs/2303.11224)|**[link](https://github.com/saiboxx/machex)**|
+|**2023-03-20**|**Cross diffusion models in complex frameworks From microscopic to macroscopic**|Diletta Burini et.al.|[2303.11210](http://arxiv.org/abs/2303.11210)|null|
+|**2023-03-20**|**AnimeDiffusion: Anime Face Line Drawing Colorization via Diffusion Models**|Yu Cao et.al.|[2303.11137](http://arxiv.org/abs/2303.11137)|null|
+|**2023-03-20**|**Positional Diffusion: Ordering Unordered Sets with Diffusion Probabilistic Models**|Francesco Giuliari et.al.|[2303.11120](http://arxiv.org/abs/2303.11120)|null|
+|**2023-03-20**|**Pluralistic Aging Diffusion Autoencoder**|Peipei Li et.al.|[2303.11086](http://arxiv.org/abs/2303.11086)|null|
+|**2023-03-20**|**Discovering Interpretable Directions in the Semantic Latent Space of Diffusion Models**|René Haas et.al.|[2303.11073](http://arxiv.org/abs/2303.11073)|null|
+|**2023-03-20**|**Leapfrog Diffusion Model for Stochastic Trajectory Prediction**|Weibo Mao et.al.|[2303.10895](http://arxiv.org/abs/2303.10895)|**[link](https://github.com/mediabrain-sjtu/led)**|
+|**2023-03-20**|**Object-Centric Slot Diffusion**|Jindong Jiang et.al.|[2303.10834](http://arxiv.org/abs/2303.10834)|null|
+|**2023-03-19**|**SKED: Sketch-guided Text-based 3D Editing**|Aryan Mikaeili et.al.|[2303.10735](http://arxiv.org/abs/2303.10735)|null|
+|**2023-03-19**|**DiffMIC: Dual-Guidance Diffusion Network for Medical Image Classification**|Yijun Yang et.al.|[2303.10610](http://arxiv.org/abs/2303.10610)|null|
+|**2023-03-18**|**Diff-UNet: A Diffusion Embedded Network for Volumetric Segmentation**|Zhaohu Xing et.al.|[2303.10326](http://arxiv.org/abs/2303.10326)|**[link](https://github.com/ge-xing/diff-unet)**|
 |**2023-03-17**|**A Recipe for Watermarking Diffusion Models**|Yunqing Zhao et.al.|[2303.10137](http://arxiv.org/abs/2303.10137)|**[link](https://github.com/yunqing-me/watermarkdm)**|
 |**2023-03-17**|**Data-Centric Learning from Unlabeled Graphs with Diffusion Model**|Gang Liu et.al.|[2303.10108](http://arxiv.org/abs/2303.10108)|null|
 |**2023-03-17**|**DialogPaint: A Dialog-based Image Editing Model**|Jingxuan Wei et.al.|[2303.10073](http://arxiv.org/abs/2303.10073)|null|
@@ -124,6 +145,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-20**|**SVDiff: Compact Parameter Space for Diffusion Fine-Tuning**|Ligong Han et.al.|[2303.11305](http://arxiv.org/abs/2303.11305)|null|
+|**2023-03-20**|**Inverse problem regularization with hierarchical variational autoencoders**|Jean Prost et.al.|[2303.11217](http://arxiv.org/abs/2303.11217)|**[link](https://github.com/jprost76/pnp-hvae)**|
+|**2023-03-20**|**I2Edit: Towards Multi-turn Interactive Image Editing via Dialogue**|Xing Cui et.al.|[2303.11108](http://arxiv.org/abs/2303.11108)|null|
+|**2023-03-20**|**Discovering Interpretable Directions in the Semantic Latent Space of Diffusion Models**|René Haas et.al.|[2303.11073](http://arxiv.org/abs/2303.11073)|null|
 |**2023-03-17**|**DialogPaint: A Dialog-based Image Editing Model**|Jingxuan Wei et.al.|[2303.10073](http://arxiv.org/abs/2303.10073)|null|
 |**2023-03-17**|**Star-Net: Improving Single Image Desnowing Model With More Efficient Connection and Diverse Feature Interaction**|Jiawei Mao et.al.|[2303.09988](http://arxiv.org/abs/2303.09988)|null|
 |**2023-03-16**|**HIVE: Harnessing Human Feedback for Instructional Visual Editing**|Shu Zhang et.al.|[2303.09618](http://arxiv.org/abs/2303.09618)|null|
@@ -213,6 +238,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-20**|**EmoTalk: Speech-driven emotional disentanglement for 3D face animation**|Ziqiao Peng et.al.|[2303.11089](http://arxiv.org/abs/2303.11089)|null|
 |**2023-03-17**|**MMFace4D: A Large-Scale Multi-Modal 4D Face Dataset for Audio-Driven 3D Face Animation**|Haozhe Wu et.al.|[2303.09797](http://arxiv.org/abs/2303.09797)|null|
 |**2023-02-14**|**VQ3D: Learning a 3D-Aware Generative Model on ImageNet**|Kyle Sargent et.al.|[2302.06833](http://arxiv.org/abs/2302.06833)|null|
 |**2023-02-09**|**Accurate and Interpretable Solution of the Inverse Rig for Realistic Blendshape Models with Quadratic Corrective Terms**|Stevo Racković et.al.|[2302.04843](http://arxiv.org/abs/2302.04843)|null|
@@ -240,6 +266,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-20**|**An analysis of $\mathbb{P}$ -invariance and dynamical compensation properties from a control perspective**|Akram Ashyani et.al.|[2303.10996](http://arxiv.org/abs/2303.10996)|null|
+|**2023-03-20**|**Bifurcation analysis of the Keynesian cross model**|Xinyu Li et.al.|[2303.10835](http://arxiv.org/abs/2303.10835)|null|
 |**2023-03-16**|**Cosmological implication of $f(T)$ gravity models through phase space analysis**|L. K. Duchaniya et.al.|[2303.09076](http://arxiv.org/abs/2303.09076)|null|
 |**2023-03-11**|**Phase space analysis of $f(Q)$ gravity accelerating cosmological models**|S. A. Narawade et.al.|[2303.06427](http://arxiv.org/abs/2303.06427)|null|
 |**2023-03-06**|**Data Portraits: Recording Foundation Model Training Data**|Marc Marone et.al.|[2303.03919](http://arxiv.org/abs/2303.03919)|null|
@@ -267,6 +295,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-17**|**CerviFormer: A Pap-smear based cervical cancer classification method using cross attention and latent transformer**|Bhaswati Singha Deo et.al.|[2303.10222](http://arxiv.org/abs/2303.10222)|null|
 |**2023-03-17**|**Transformer Encoder with Multiscale Deep Learning for Pain Classification Using Physiological Signals**|Zhenyuan Lu et.al.|[2303.06845](http://arxiv.org/abs/2303.06845)|**[link](https://github.com/zhenyuanlu/painattnnet)**|
 |**2023-01-31**|**Priors are Powerful: Improving a Transformer for Multi-camera 3D Detection with 2D Priors**|Di Feng et.al.|[2301.13592](http://arxiv.org/abs/2301.13592)|null|
 |**2022-12-29**|**Local Learning on Transformers via Feature Reconstruction**|Priyank Pathak et.al.|[2212.14215](http://arxiv.org/abs/2212.14215)|null|

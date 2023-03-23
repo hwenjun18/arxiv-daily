@@ -39,6 +39,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-22**|**Synthetic Health-related Longitudinal Data with Mixed-type Variables Generated using Diffusion Models**|Nicholas I-Hsien Kuo et.al.|[2303.12281](http://arxiv.org/abs/2303.12281)|null|
 |**2023-03-21**|**Generative AI for Cyber Threat-Hunting in 6G-enabled IoT Networks**|Mohamed Amine Ferrag et.al.|[2303.11751](http://arxiv.org/abs/2303.11751)|null|
 |**2023-03-21**|**Linking generative semi-supervised learning and generative open-set recognition**|Emile Reyn Engelbrecht et.al.|[2303.11702](http://arxiv.org/abs/2303.11702)|null|
 |**2023-03-21**|**CoopInit: Initializing Generative Adversarial Networks via Cooperative Learning**|Yang Zhao et.al.|[2303.11649](http://arxiv.org/abs/2303.11649)|null|
@@ -79,6 +80,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-22**|**Diffuse-Denoise-Count: Accurate Crowd-Counting with Diffusion Models**|Yasiru Ranasinghe et.al.|[2303.12790](http://arxiv.org/abs/2303.12790)|null|
+|**2023-03-22**|**Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions**|Ayaan Haque et.al.|[2303.12789](http://arxiv.org/abs/2303.12789)|null|
+|**2023-03-22**|**Pix2Video: Video Editing using Image Diffusion**|Duygu Ceylan et.al.|[2303.12688](http://arxiv.org/abs/2303.12688)|null|
+|**2023-03-22**|**Feature-Conditioned Cascaded Video Diffusion Models for Precise Echocardiogram Synthesis**|Hadrien Reynaud et.al.|[2303.12644](http://arxiv.org/abs/2303.12644)|null|
+|**2023-03-22**|**A Perceptual Quality Assessment Exploration for AIGC Images**|Zicheng Zhang et.al.|[2303.12618](http://arxiv.org/abs/2303.12618)|null|
+|**2023-03-21**|**Affordance Diffusion: Synthesizing Hand-Object Interactions**|Yufei Ye et.al.|[2303.12538](http://arxiv.org/abs/2303.12538)|null|
+|**2023-03-22**|**Multi-Task Diffusion Incentive Design for Mobile Crowdsourcing in Social Networks**|Jianxiong Guo et.al.|[2303.12460](http://arxiv.org/abs/2303.12460)|null|
+|**2023-03-22**|**EDGI: Equivariant Diffusion for Planning with Embodied Agents**|Johann Brehmer et.al.|[2303.12410](http://arxiv.org/abs/2303.12410)|null|
+|**2023-03-22**|**NUWA-XL: Diffusion over Diffusion for eXtremely Long Video Generation**|Shengming Yin et.al.|[2303.12346](http://arxiv.org/abs/2303.12346)|null|
+|**2023-03-22**|**LD-ZNet: A Latent Diffusion Approach for Text-Based Image Segmentation**|Koutilya Pnvr et.al.|[2303.12343](http://arxiv.org/abs/2303.12343)|null|
+|**2023-03-22**|**Synthetic Health-related Longitudinal Data with Mixed-type Variables Generated using Diffusion Models**|Nicholas I-Hsien Kuo et.al.|[2303.12281](http://arxiv.org/abs/2303.12281)|null|
+|**2023-03-21**|**SALAD: Part-Level Latent Diffusion for 3D Shape Generation and Manipulation**|Juil Koo et.al.|[2303.12236](http://arxiv.org/abs/2303.12236)|null|
+|**2023-03-21**|**Black-box Backdoor Defense via Zero-shot Image Purification**|Yucheng Shi et.al.|[2303.12175](http://arxiv.org/abs/2303.12175)|null|
 |**2023-03-21**|**Vox-E: Text-guided Voxel Editing of 3D Objects**|Etai Sella et.al.|[2303.12048](http://arxiv.org/abs/2303.12048)|null|
 |**2023-03-21**|**A Complete Survey on Generative AI (AIGC): Is ChatGPT from GPT-4 to GPT-5 All You Need?**|Chaoning Zhang et.al.|[2303.11717](http://arxiv.org/abs/2303.11717)|null|
 |**2023-03-21**|**DiffuMask: Synthesizing Images with Pixel-level Annotations for Semantic Segmentation Using Diffusion Models**|Weijia Wu et.al.|[2303.11681](http://arxiv.org/abs/2303.11681)|null|
@@ -139,6 +153,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-22**|**Pix2Video: Video Editing using Image Diffusion**|Duygu Ceylan et.al.|[2303.12688](http://arxiv.org/abs/2303.12688)|null|
+|**2023-03-22**|**The Prompt Artists**|Minsuk Chang et.al.|[2303.12253](http://arxiv.org/abs/2303.12253)|null|
 |**2023-03-21**|**Learning A Sparse Transformer Network for Effective Image Deraining**|Xiang Chen et.al.|[2303.11950](http://arxiv.org/abs/2303.11950)|**[link](https://github.com/cschenxiang/drsformer)**|
 |**2023-03-20**|**Inversion by Direct Iteration: An Alternative to Denoising Diffusion for Image Restoration**|Mauricio Delbracio et.al.|[2303.11435](http://arxiv.org/abs/2303.11435)|null|
 |**2023-03-22**|**SVDiff: Compact Parameter Space for Diffusion Fine-Tuning**|Ligong Han et.al.|[2303.11305](http://arxiv.org/abs/2303.11305)|**[link](https://github.com/phymhan/SVDiff)**|
@@ -186,6 +202,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-22**|**FeatureNeRF: Learning Generalizable NeRFs by Distilling Foundation Models**|Jianglong Ye et.al.|[2303.12786](http://arxiv.org/abs/2303.12786)|null|
 |**2023-03-21**|**NeAT: Learning Neural Implicit Surfaces with Arbitrary Topologies from Multi-view Images**|Xiaoxu Meng et.al.|[2303.12012](http://arxiv.org/abs/2303.12012)|**[link](https://github.com/xmeng525/NeAT)**|
 |**2023-03-21**|**NEMTO: Neural Environment Matting for Novel View and Relighting Synthesis of Transparent Objects**|Dongqing Wang et.al.|[2303.11963](http://arxiv.org/abs/2303.11963)|null|
 |**2023-03-16**|**PartNeRF: Generating Part-Aware Editable 3D Shapes without 3D Supervision**|Konstantinos Tertikas et.al.|[2303.09554](http://arxiv.org/abs/2303.09554)|null|
@@ -258,6 +275,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-21**|**A Visual Modeling Method for Spatiotemporal and Multidimensional Features in Epidemiological Analysis: Applied COVID-19 Aggregated Datasets**|Yu Dong et.al.|[2303.12092](http://arxiv.org/abs/2303.12092)|null|
 |**2023-03-20**|**An analysis of $\mathbb{P}$ -invariance and dynamical compensation properties from a control perspective**|Akram Ashyani et.al.|[2303.10996](http://arxiv.org/abs/2303.10996)|null|
 |**2023-03-20**|**Bifurcation analysis of the Keynesian cross model**|Xinyu Li et.al.|[2303.10835](http://arxiv.org/abs/2303.10835)|null|
 |**2023-03-16**|**Cosmological implication of $f(T)$ gravity models through phase space analysis**|L. K. Duchaniya et.al.|[2303.09076](http://arxiv.org/abs/2303.09076)|null|

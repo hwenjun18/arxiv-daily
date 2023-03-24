@@ -51,6 +51,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-23**|**Neural Preset for Color Style Transfer**|Zhanghan Ke et.al.|[2303.13511](http://arxiv.org/abs/2303.13511)|**[link](https://github.com/ZHKKKe/NeuralPreset)**|
+|**2023-03-23**|**Transforming Radiance Field with Lipschitz Network for Photorealistic 3D Scene Stylization**|Zicheng Zhang et.al.|[2303.13232](http://arxiv.org/abs/2303.13232)|null|
+|**2023-03-23**|**PanoHead: Geometry-Aware 3D Full-Head Synthesis in 360 $^{\circ}$**|Sizhe An et.al.|[2303.13071](http://arxiv.org/abs/2303.13071)|null|
+|**2023-03-23**|**Reimagining Application User Interface (UI) Design using Deep Learning Methods: Challenges and Opportunities**|Subtain Malik et.al.|[2303.13055](http://arxiv.org/abs/2303.13055)|null|
+|**2023-03-22**|**TSI-GAN: Unsupervised Time Series Anomaly Detection using Convolutional Cycle-Consistent Generative Adversarial Networks**|Shyam Sundar Saravanan et.al.|[2303.12952](http://arxiv.org/abs/2303.12952)|**[link](https://github.com/labsaint/tsi-gan)**|
+|**2023-03-22**|**NeRF-GAN Distillation for Efficient 3D-Aware Generation with Convolutions**|Mohamad Shahbazi et.al.|[2303.12865](http://arxiv.org/abs/2303.12865)|null|
 |**2023-03-22**|**Synthetic Health-related Longitudinal Data with Mixed-type Variables Generated using Diffusion Models**|Nicholas I-Hsien Kuo et.al.|[2303.12281](http://arxiv.org/abs/2303.12281)|null|
 |**2023-03-21**|**Generative AI for Cyber Threat-Hunting in 6G-enabled IoT Networks**|Mohamed Amine Ferrag et.al.|[2303.11751](http://arxiv.org/abs/2303.11751)|null|
 |**2023-03-21**|**Linking generative semi-supervised learning and generative open-set recognition**|Emile Reyn Engelbrecht et.al.|[2303.11702](http://arxiv.org/abs/2303.11702)|null|
@@ -94,6 +100,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-23**|**Ablating Concepts in Text-to-Image Diffusion Models**|Nupur Kumari et.al.|[2303.13516](http://arxiv.org/abs/2303.13516)|**[link](https://github.com/nupurkmr9/concept-ablation)**|
+|**2023-03-23**|**ReVersion: Diffusion-Based Relation Inversion from Images**|Ziqi Huang et.al.|[2303.13495](http://arxiv.org/abs/2303.13495)|**[link](https://github.com/ziqihuangg/reversion)**|
+|**2023-03-23**|**Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators**|Levon Khachatryan et.al.|[2303.13439](http://arxiv.org/abs/2303.13439)|**[link](https://github.com/picsart-ai-research/text2video-zero)**|
+|**2023-03-23**|**Medical diffusion on a budget: textual inversion for medical image generation**|Bram de Wilde et.al.|[2303.13430](http://arxiv.org/abs/2303.13430)|null|
+|**2023-03-23**|**Audio Diffusion Model for Speech Synthesis: A Survey on Text To Speech and Speech Enhancement in Generative AI**|Chenshuang Zhang et.al.|[2303.13336](http://arxiv.org/abs/2303.13336)|null|
+|**2023-03-23**|**Fourier Diffusion Models: A Method to Control MTF and NPS in Score-Based Stochastic Image Generation**|Matthew Tivnan et.al.|[2303.13285](http://arxiv.org/abs/2303.13285)|null|
+|**2023-03-23**|**MagicFusion: Boosting Text-to-Image Generation Performance by Fusing Diffusion Models**|Jing Zhao et.al.|[2303.13126](http://arxiv.org/abs/2303.13126)|null|
+|**2023-03-23**|**DiffPattern: Layout Pattern Generation via Discrete Diffusion**|Zixiao Wang et.al.|[2303.13060](http://arxiv.org/abs/2303.13060)|null|
+|**2023-03-23**|**Generative AI-aided Optimization for AI-Generated Content (AIGC) Services in Edge Networks**|Hongyang Du et.al.|[2303.13052](http://arxiv.org/abs/2303.13052)|null|
+|**2023-03-23**|**Controllable Inversion of Black-Box Face-Recognition Models via Diffusion**|Manuel Kansy et.al.|[2303.13006](http://arxiv.org/abs/2303.13006)|null|
 |**2023-03-22**|**Diffuse-Denoise-Count: Accurate Crowd-Counting with Diffusion Models**|Yasiru Ranasinghe et.al.|[2303.12790](http://arxiv.org/abs/2303.12790)|null|
 |**2023-03-22**|**Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions**|Ayaan Haque et.al.|[2303.12789](http://arxiv.org/abs/2303.12789)|null|
 |**2023-03-22**|**Pix2Video: Video Editing using Image Diffusion**|Duygu Ceylan et.al.|[2303.12688](http://arxiv.org/abs/2303.12688)|null|
@@ -169,6 +185,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-23**|**Multi-granularity Interaction Simulation for Unsupervised Interactive Segmentation**|Kehan Li et.al.|[2303.13399](http://arxiv.org/abs/2303.13399)|null|
+|**2023-03-23**|**SIEDOB: Semantic Image Editing by Disentangling Object and Background**|Wuyang Luo et.al.|[2303.13062](http://arxiv.org/abs/2303.13062)|**[link](https://github.com/wuyangluo/siedob)**|
 |**2023-03-22**|**Pix2Video: Video Editing using Image Diffusion**|Duygu Ceylan et.al.|[2303.12688](http://arxiv.org/abs/2303.12688)|null|
 |**2023-03-22**|**The Prompt Artists**|Minsuk Chang et.al.|[2303.12253](http://arxiv.org/abs/2303.12253)|null|
 |**2023-03-21**|**Learning A Sparse Transformer Network for Effective Image Deraining**|Xiang Chen et.al.|[2303.11950](http://arxiv.org/abs/2303.11950)|**[link](https://github.com/cschenxiang/drsformer)**|
@@ -220,6 +238,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-23**|**ENVIDR: Implicit Differentiable Renderer with Neural Environment Lighting**|Ruofan Liang et.al.|[2303.13022](http://arxiv.org/abs/2303.13022)|**[link](https://github.com/nexuslrf/ENVIDR)**|
 |**2023-03-22**|**FeatureNeRF: Learning Generalizable NeRFs by Distilling Foundation Models**|Jianglong Ye et.al.|[2303.12786](http://arxiv.org/abs/2303.12786)|null|
 |**2023-03-21**|**NeAT: Learning Neural Implicit Surfaces with Arbitrary Topologies from Multi-view Images**|Xiaoxu Meng et.al.|[2303.12012](http://arxiv.org/abs/2303.12012)|**[link](https://github.com/xmeng525/NeAT)**|
 |**2023-03-21**|**NEMTO: Neural Environment Matting for Novel View and Relighting Synthesis of Transparent Objects**|Dongqing Wang et.al.|[2303.11963](http://arxiv.org/abs/2303.11963)|null|
@@ -297,6 +316,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-22**|**LightPainter: Interactive Portrait Relighting with Freehand Scribble**|Yiqun Mei et.al.|[2303.12950](http://arxiv.org/abs/2303.12950)|null|
 |**2023-03-21**|**A Visual Modeling Method for Spatiotemporal and Multidimensional Features in Epidemiological Analysis: Applied COVID-19 Aggregated Datasets**|Yu Dong et.al.|[2303.12092](http://arxiv.org/abs/2303.12092)|null|
 |**2023-03-20**|**An analysis of $\mathbb{P}$ -invariance and dynamical compensation properties from a control perspective**|Akram Ashyani et.al.|[2303.10996](http://arxiv.org/abs/2303.10996)|null|
 |**2023-03-20**|**Bifurcation analysis of the Keynesian cross model**|Xinyu Li et.al.|[2303.10835](http://arxiv.org/abs/2303.10835)|null|
@@ -327,6 +347,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-22**|**Self-distillation for surgical action recognition**|Amine Yamlahi et.al.|[2303.12915](http://arxiv.org/abs/2303.12915)|null|
 |**2023-03-17**|**CerviFormer: A Pap-smear based cervical cancer classification method using cross attention and latent transformer**|Bhaswati Singha Deo et.al.|[2303.10222](http://arxiv.org/abs/2303.10222)|null|
 |**2023-03-17**|**Transformer Encoder with Multiscale Deep Learning for Pain Classification Using Physiological Signals**|Zhenyuan Lu et.al.|[2303.06845](http://arxiv.org/abs/2303.06845)|**[link](https://github.com/zhenyuanlu/painattnnet)**|
 |**2023-01-31**|**Priors are Powerful: Improving a Transformer for Multi-camera 3D Detection with 2D Priors**|Di Feng et.al.|[2301.13592](http://arxiv.org/abs/2301.13592)|null|

@@ -108,7 +108,7 @@
 |**2023-03-23**|**Fourier Diffusion Models: A Method to Control MTF and NPS in Score-Based Stochastic Image Generation**|Matthew Tivnan et.al.|[2303.13285](http://arxiv.org/abs/2303.13285)|null|
 |**2023-03-23**|**MagicFusion: Boosting Text-to-Image Generation Performance by Fusing Diffusion Models**|Jing Zhao et.al.|[2303.13126](http://arxiv.org/abs/2303.13126)|null|
 |**2023-03-23**|**DiffPattern: Layout Pattern Generation via Discrete Diffusion**|Zixiao Wang et.al.|[2303.13060](http://arxiv.org/abs/2303.13060)|null|
-|**2023-03-23**|**Generative AI-aided Optimization for AI-Generated Content (AIGC) Services in Edge Networks**|Hongyang Du et.al.|[2303.13052](http://arxiv.org/abs/2303.13052)|null|
+|**2023-03-23**|**Generative AI-aided Optimization for AI-Generated Content (AIGC) Services in Edge Networks**|Hongyang Du et.al.|[2303.13052](http://arxiv.org/abs/2303.13052)|**[link](https://github.com/lizonghang/agod)**|
 |**2023-03-23**|**Controllable Inversion of Black-Box Face-Recognition Models via Diffusion**|Manuel Kansy et.al.|[2303.13006](http://arxiv.org/abs/2303.13006)|null|
 |**2023-03-22**|**Diffuse-Denoise-Count: Accurate Crowd-Counting with Diffusion Models**|Yasiru Ranasinghe et.al.|[2303.12790](http://arxiv.org/abs/2303.12790)|**[link](https://github.com/dylran/diffusedenoisecount)**|
 |**2023-03-22**|**Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions**|Ayaan Haque et.al.|[2303.12789](http://arxiv.org/abs/2303.12789)|null|

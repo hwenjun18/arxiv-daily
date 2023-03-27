@@ -39,6 +39,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-24**|**Wave-U-Net Discriminator: Fast and Lightweight Discriminator for Generative Adversarial Network-Based Speech Synthesis**|Takuhiro Kaneko et.al.|[2303.13909](http://arxiv.org/abs/2303.13909)|null|
+|**2023-03-24**|**A Three-Player GAN for Super-Resolution in Magnetic Resonance Imaging**|Qi Wang et.al.|[2303.13900](http://arxiv.org/abs/2303.13900)|null|
+|**2023-03-24**|**Factor Decomposed Generative Adversarial Networks for Text-to-Image Synthesis**|Jiguo Li et.al.|[2303.13821](http://arxiv.org/abs/2303.13821)|null|
 |**2023-03-24**|**Neural Preset for Color Style Transfer**|Zhanghan Ke et.al.|[2303.13511](http://arxiv.org/abs/2303.13511)|**[link](https://github.com/ZHKKKe/NeuralPreset)**|
 |**2023-03-23**|**Transforming Radiance Field with Lipschitz Network for Photorealistic 3D Scene Stylization**|Zicheng Zhang et.al.|[2303.13232](http://arxiv.org/abs/2303.13232)|null|
 |**2023-03-23**|**PanoHead: Geometry-Aware 3D Full-Head Synthesis in 360 $^{\circ}$**|Sizhe An et.al.|[2303.13071](http://arxiv.org/abs/2303.13071)|null|
@@ -86,6 +89,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-24**|**Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior**|Junshu Tang et.al.|[2303.14184](http://arxiv.org/abs/2303.14184)|**[link](https://github.com/junshutang/Make-It-3D)**|
+|**2023-03-24**|**CoLa-Diff: Conditional Latent Diffusion Model for Multi-Modal MRI Synthesis**|Lan Jiang et.al.|[2303.14081](http://arxiv.org/abs/2303.14081)|null|
+|**2023-03-24**|**DisC-Diff: Disentangled Conditional Diffusion Model for Multi-Contrast MRI Super-Resolution**|Ye Mao et.al.|[2303.13933](http://arxiv.org/abs/2303.13933)|null|
+|**2023-03-24**|**Fantasia3D: Disentangling Geometry and Appearance for High-quality Text-to-3D Content Creation**|Rui Chen et.al.|[2303.13873](http://arxiv.org/abs/2303.13873)|**[link](https://github.com/Gorilla-Lab-SCUT/Fantasia3D)**|
+|**2023-03-24**|**AI-Generated 6G Internet Design: A Diffusion Model-based Learning Approach**|Yudong Huang et.al.|[2303.13869](http://arxiv.org/abs/2303.13869)|null|
+|**2023-03-24**|**CompoNeRF: Text-guided Multi-object Compositional NeRF with Editable 3D Scene Layout**|Yiqi Lin et.al.|[2303.13843](http://arxiv.org/abs/2303.13843)|null|
+|**2023-03-24**|**Conditional Image-to-Video Generation with Latent Flow Diffusion Models**|Haomiao Ni et.al.|[2303.13744](http://arxiv.org/abs/2303.13744)|**[link](https://github.com/nihaomiao/cvpr23_lfdm)**|
+|**2023-03-23**|**End-to-End Diffusion Latent Optimization Improves Classifier Guidance**|Bram Wallace et.al.|[2303.13703](http://arxiv.org/abs/2303.13703)|null|
+|**2023-03-23**|**Layered patterns in reaction-diffusion models with Perona-Malik diffusions**|Alessandra De Luca et.al.|[2303.13644](http://arxiv.org/abs/2303.13644)|null|
 |**2023-03-23**|**Ablating Concepts in Text-to-Image Diffusion Models**|Nupur Kumari et.al.|[2303.13516](http://arxiv.org/abs/2303.13516)|**[link](https://github.com/nupurkmr9/concept-ablation)**|
 |**2023-03-23**|**ReVersion: Diffusion-Based Relation Inversion from Images**|Ziqi Huang et.al.|[2303.13495](http://arxiv.org/abs/2303.13495)|**[link](https://github.com/ziqihuangg/reversion)**|
 |**2023-03-23**|**Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators**|Levon Khachatryan et.al.|[2303.13439](http://arxiv.org/abs/2303.13439)|**[link](https://github.com/picsart-ai-research/text2video-zero)**|
@@ -220,6 +232,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-24**|**NeuFace: Realistic 3D Neural Face Rendering from Multi-view Images**|Mingwu Zheng et.al.|[2303.14092](http://arxiv.org/abs/2303.14092)|**[link](https://github.com/aejion/neuface)**|
+|**2023-03-24**|**Deformable Model Driven Neural Rendering for High-fidelity 3D Reconstruction of Human Heads Under Low-View Settings**|Baixin Xu et.al.|[2303.13855](http://arxiv.org/abs/2303.13855)|**[link](https://github.com/xubaixinxbx/high-fidelity-3d-reconstruction-of-human-heads)**|
+|**2023-03-24**|**GM-NeRF: Learning Generalizable Model-based Neural Radiance Fields from Multi-view Images**|Jianchuan Chen et.al.|[2303.13777](http://arxiv.org/abs/2303.13777)|null|
 |**2023-03-23**|**ENVIDR: Implicit Differentiable Renderer with Neural Environment Lighting**|Ruofan Liang et.al.|[2303.13022](http://arxiv.org/abs/2303.13022)|**[link](https://github.com/nexuslrf/ENVIDR)**|
 |**2023-03-22**|**FeatureNeRF: Learning Generalizable NeRFs by Distilling Foundation Models**|Jianglong Ye et.al.|[2303.12786](http://arxiv.org/abs/2303.12786)|null|
 |**2023-03-21**|**NeAT: Learning Neural Implicit Surfaces with Arbitrary Topologies from Multi-view Images**|Xiaoxu Meng et.al.|[2303.12012](http://arxiv.org/abs/2303.12012)|**[link](https://github.com/xmeng525/NeAT)**|

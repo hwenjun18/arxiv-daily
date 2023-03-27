@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.26
+## Updated on 2023.03.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -39,7 +39,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-03-23**|**Neural Preset for Color Style Transfer**|Zhanghan Ke et.al.|[2303.13511](http://arxiv.org/abs/2303.13511)|**[link](https://github.com/ZHKKKe/NeuralPreset)**|
+|**2023-03-24**|**Neural Preset for Color Style Transfer**|Zhanghan Ke et.al.|[2303.13511](http://arxiv.org/abs/2303.13511)|**[link](https://github.com/ZHKKKe/NeuralPreset)**|
 |**2023-03-23**|**Transforming Radiance Field with Lipschitz Network for Photorealistic 3D Scene Stylization**|Zicheng Zhang et.al.|[2303.13232](http://arxiv.org/abs/2303.13232)|null|
 |**2023-03-23**|**PanoHead: Geometry-Aware 3D Full-Head Synthesis in 360 $^{\circ}$**|Sizhe An et.al.|[2303.13071](http://arxiv.org/abs/2303.13071)|null|
 |**2023-03-23**|**Reimagining Application User Interface (UI) Design using Deep Learning Methods: Challenges and Opportunities**|Subtain Malik et.al.|[2303.13055](http://arxiv.org/abs/2303.13055)|null|
@@ -53,7 +53,7 @@ layout: default
 |**2023-03-20**|**Discovering Interpretable Directions in the Semantic Latent Space of Diffusion Models**|René Haas et.al.|[2303.11073](http://arxiv.org/abs/2303.11073)|null|
 |**2023-03-20**|**k-SALSA: k-anonymous synthetic averaging of retinal images via local style alignment**|Minkyu Jeon et.al.|[2303.10824](http://arxiv.org/abs/2303.10824)|**[link](https://github.com/hcholab/k-salsa)**|
 |**2023-03-19**|**Cross-GAN Auditing: Unsupervised Identification of Attribute Level Similarities and Differences between Pretrained Generative Models**|Matthew L. Olson et.al.|[2303.10774](http://arxiv.org/abs/2303.10774)|null|
-|**2023-03-22**|**StyleRF: Zero-shot 3D Style Transfer of Neural Radiance Fields**|Kunhao Liu et.al.|[2303.10598](http://arxiv.org/abs/2303.10598)|null|
+|**2023-03-24**|**StyleRF: Zero-shot 3D Style Transfer of Neural Radiance Fields**|Kunhao Liu et.al.|[2303.10598](http://arxiv.org/abs/2303.10598)|null|
 |**2023-03-17**|**Exploring contrast generalisation in deep learning-based brain MRI-to-CT synthesis**|Lotte Nijskens et.al.|[2303.10202](http://arxiv.org/abs/2303.10202)|null|
 |**2023-03-17**|**Unsupervised Domain Transfer with Conditional Invertible Neural Networks**|Kris K. Dreher et.al.|[2303.10191](http://arxiv.org/abs/2303.10191)|null|
 |**2023-03-17**|**DialogPaint: A Dialog-based Image Editing Model**|Jingxuan Wei et.al.|[2303.10073](http://arxiv.org/abs/2303.10073)|null|
@@ -301,7 +301,7 @@ layout: default
 |**2023-03-16**|**Cosmological implication of $f(T)$ gravity models through phase space analysis**|L. K. Duchaniya et.al.|[2303.09076](http://arxiv.org/abs/2303.09076)|null|
 |**2023-03-11**|**Phase space analysis of $f(Q)$ gravity accelerating cosmological models**|S. A. Narawade et.al.|[2303.06427](http://arxiv.org/abs/2303.06427)|null|
 |**2023-03-06**|**Data Portraits: Recording Foundation Model Training Data**|Marc Marone et.al.|[2303.03919](http://arxiv.org/abs/2303.03919)|null|
-|**2023-03-05**|**HairStep: Transfer Synthetic to Real Using Strand and Depth Maps for Single-View 3D Hair Modeling**|Yujian Zheng et.al.|[2303.02700](http://arxiv.org/abs/2303.02700)|null|
+|**2023-03-24**|**HairStep: Transfer Synthetic to Real Using Strand and Depth Maps for Single-View 3D Hair Modeling**|Yujian Zheng et.al.|[2303.02700](http://arxiv.org/abs/2303.02700)|null|
 |**2023-03-01**|**Few-shots Portrait Generation with Style Enhancement and Identity Preservation**|Runchuan Zhu et.al.|[2303.00377](http://arxiv.org/abs/2303.00377)|**[link](https://github.com/zrc007/styleidentitygan)**|
 |**2023-02-26**|**Makeup Extraction of 3D Representation via Illumination-Aware Image Decomposition**|Xingchao Yang et.al.|[2302.13279](http://arxiv.org/abs/2302.13279)|null|
 |**2023-02-24**|**Effect of Lossy Compression Algorithms on Face Image Quality and Recognition**|Torsten Schlett et.al.|[2302.12593](http://arxiv.org/abs/2302.12593)|null|

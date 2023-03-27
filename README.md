@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.26
+## Updated on 2023.03.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -45,13 +45,13 @@
 |**2022-11-21**|**Towards Live 3D Reconstruction from Wearable Video: An Evaluation of V-SLAM, NeRF, and Videogrammetry Techniques**|David Ramirez et.al.|[2211.11836](http://arxiv.org/abs/2211.11836)|null|
 |**2022-11-14**|**Controllable GAN Synthesis Using Non-Rigid Structure-from-Motion**|René Haas et.al.|[2211.07195](http://arxiv.org/abs/2211.07195)|null|
 
-<p align=right>(<a href=#Updated-on-20230326>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230327>back to top</a>)</p>
 
 ## GAN
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-03-23**|**Neural Preset for Color Style Transfer**|Zhanghan Ke et.al.|[2303.13511](http://arxiv.org/abs/2303.13511)|**[link](https://github.com/ZHKKKe/NeuralPreset)**|
+|**2023-03-24**|**Neural Preset for Color Style Transfer**|Zhanghan Ke et.al.|[2303.13511](http://arxiv.org/abs/2303.13511)|**[link](https://github.com/ZHKKKe/NeuralPreset)**|
 |**2023-03-23**|**Transforming Radiance Field with Lipschitz Network for Photorealistic 3D Scene Stylization**|Zicheng Zhang et.al.|[2303.13232](http://arxiv.org/abs/2303.13232)|null|
 |**2023-03-23**|**PanoHead: Geometry-Aware 3D Full-Head Synthesis in 360 $^{\circ}$**|Sizhe An et.al.|[2303.13071](http://arxiv.org/abs/2303.13071)|null|
 |**2023-03-23**|**Reimagining Application User Interface (UI) Design using Deep Learning Methods: Challenges and Opportunities**|Subtain Malik et.al.|[2303.13055](http://arxiv.org/abs/2303.13055)|null|
@@ -65,7 +65,7 @@
 |**2023-03-20**|**Discovering Interpretable Directions in the Semantic Latent Space of Diffusion Models**|René Haas et.al.|[2303.11073](http://arxiv.org/abs/2303.11073)|null|
 |**2023-03-20**|**k-SALSA: k-anonymous synthetic averaging of retinal images via local style alignment**|Minkyu Jeon et.al.|[2303.10824](http://arxiv.org/abs/2303.10824)|**[link](https://github.com/hcholab/k-salsa)**|
 |**2023-03-19**|**Cross-GAN Auditing: Unsupervised Identification of Attribute Level Similarities and Differences between Pretrained Generative Models**|Matthew L. Olson et.al.|[2303.10774](http://arxiv.org/abs/2303.10774)|null|
-|**2023-03-22**|**StyleRF: Zero-shot 3D Style Transfer of Neural Radiance Fields**|Kunhao Liu et.al.|[2303.10598](http://arxiv.org/abs/2303.10598)|null|
+|**2023-03-24**|**StyleRF: Zero-shot 3D Style Transfer of Neural Radiance Fields**|Kunhao Liu et.al.|[2303.10598](http://arxiv.org/abs/2303.10598)|null|
 |**2023-03-17**|**Exploring contrast generalisation in deep learning-based brain MRI-to-CT synthesis**|Lotte Nijskens et.al.|[2303.10202](http://arxiv.org/abs/2303.10202)|null|
 |**2023-03-17**|**Unsupervised Domain Transfer with Conditional Invertible Neural Networks**|Kris K. Dreher et.al.|[2303.10191](http://arxiv.org/abs/2303.10191)|null|
 |**2023-03-17**|**DialogPaint: A Dialog-based Image Editing Model**|Jingxuan Wei et.al.|[2303.10073](http://arxiv.org/abs/2303.10073)|null|
@@ -94,7 +94,7 @@
 |**2023-03-14**|**3D Face Arbitrary Style Transfer**|Xiangwen Deng et.al.|[2303.07709](http://arxiv.org/abs/2303.07709)|null|
 |**2023-03-13**|**AGTGAN: Unpaired Image Translation for Photographic Ancient Character Generation**|Hongxiang Huang et.al.|[2303.07012](http://arxiv.org/abs/2303.07012)|**[link](https://github.com/hellomystery/agtgan)**|
 
-<p align=right>(<a href=#Updated-on-20230326>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230327>back to top</a>)</p>
 
 ## Diffusion Model
 
@@ -179,7 +179,7 @@
 |**2023-03-15**|**DiffBEV: Conditional Diffusion Model for Bird's Eye View Perception**|Jiayu Zou et.al.|[2303.08333](http://arxiv.org/abs/2303.08333)|**[link](https://github.com/jiayuzou2020/diffbev)**|
 |**2023-03-16**|**VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation**|Zhengxiong Luo et.al.|[2303.08320](http://arxiv.org/abs/2303.08320)|null|
 
-<p align=right>(<a href=#Updated-on-20230326>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230327>back to top</a>)</p>
 
 ## Image Edit
 
@@ -232,7 +232,7 @@
 |**2023-02-20**|**A Large Scale Homography Benchmark**|Daniel Barath et.al.|[2302.09997](http://arxiv.org/abs/2302.09997)|null|
 |**2023-02-19**|**LC-NeRF: Local Controllable Face Generation in Neural Randiance Field**|Wenyang Zhou et.al.|[2302.09486](http://arxiv.org/abs/2302.09486)|null|
 
-<p align=right>(<a href=#Updated-on-20230326>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230327>back to top</a>)</p>
 
 ## NeRF
 
@@ -282,7 +282,7 @@
 |**2022-12-30**|**NeRF-Gaze: A Head-Eye Redirection Parametric Model for Gaze Estimation**|Pengwei Yin et.al.|[2212.14710](http://arxiv.org/abs/2212.14710)|null|
 |**2023-03-21**|**Masked Wavelet Representation for Compact Neural Radiance Fields**|Daniel Rho et.al.|[2212.09069](http://arxiv.org/abs/2212.09069)|**[link](https://github.com/daniel03c1/masked_wavelet_nerf)**|
 
-<p align=right>(<a href=#Updated-on-20230326>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230327>back to top</a>)</p>
 
 ## Reshaping
 
@@ -310,7 +310,7 @@
 |**2022-05-13**|**F3A-GAN: Facial Flow for Face Animation with Generative Adversarial Networks**|Xintian Wu et.al.|[2205.06204](http://arxiv.org/abs/2205.06204)|null|
 |**2022-03-16**|**Efficient conditioned face animation using frontally-viewed embedding**|Maxime Oquab et.al.|[2203.08765](http://arxiv.org/abs/2203.08765)|null|
 
-<p align=right>(<a href=#Updated-on-20230326>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230327>back to top</a>)</p>
 
 ## Portrait 
 
@@ -323,7 +323,7 @@
 |**2023-03-16**|**Cosmological implication of $f(T)$ gravity models through phase space analysis**|L. K. Duchaniya et.al.|[2303.09076](http://arxiv.org/abs/2303.09076)|null|
 |**2023-03-11**|**Phase space analysis of $f(Q)$ gravity accelerating cosmological models**|S. A. Narawade et.al.|[2303.06427](http://arxiv.org/abs/2303.06427)|null|
 |**2023-03-06**|**Data Portraits: Recording Foundation Model Training Data**|Marc Marone et.al.|[2303.03919](http://arxiv.org/abs/2303.03919)|null|
-|**2023-03-05**|**HairStep: Transfer Synthetic to Real Using Strand and Depth Maps for Single-View 3D Hair Modeling**|Yujian Zheng et.al.|[2303.02700](http://arxiv.org/abs/2303.02700)|null|
+|**2023-03-24**|**HairStep: Transfer Synthetic to Real Using Strand and Depth Maps for Single-View 3D Hair Modeling**|Yujian Zheng et.al.|[2303.02700](http://arxiv.org/abs/2303.02700)|null|
 |**2023-03-01**|**Few-shots Portrait Generation with Style Enhancement and Identity Preservation**|Runchuan Zhu et.al.|[2303.00377](http://arxiv.org/abs/2303.00377)|**[link](https://github.com/zrc007/styleidentitygan)**|
 |**2023-02-26**|**Makeup Extraction of 3D Representation via Illumination-Aware Image Decomposition**|Xingchao Yang et.al.|[2302.13279](http://arxiv.org/abs/2302.13279)|null|
 |**2023-02-24**|**Effect of Lossy Compression Algorithms on Face Image Quality and Recognition**|Torsten Schlett et.al.|[2302.12593](http://arxiv.org/abs/2302.12593)|null|
@@ -341,7 +341,7 @@
 |**2023-03-01**|**DPE: Disentanglement of Pose and Expression for General Video Portrait Editing**|Youxin Pang et.al.|[2301.06281](http://arxiv.org/abs/2301.06281)|null|
 |**2023-01-03**|**StyleTalk: One-shot Talking Head Generation with Controllable Speaking Styles**|Yifeng Ma et.al.|[2301.01081](http://arxiv.org/abs/2301.01081)|**[link](https://github.com/fuxivirtualhuman/styletalk)**|
 
-<p align=right>(<a href=#Updated-on-20230326>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230327>back to top</a>)</p>
 
 ## Transfomer
 
@@ -370,5 +370,5 @@
 |**2012-01-21**|**Interior Static Stellar Model with Electric Charge as an Oscillator**|A. M. Baranov et.al.|[1201.4429](http://arxiv.org/abs/1201.4429)|null|
 |**2011-05-16**|**Exactness of the Euclidean algorithm and of the Rauzy induction on the space of interval exchange transfomations**|Tomasz Miernowski et.al.|[1104.3980](http://arxiv.org/abs/1104.3980)|null|
 
-<p align=right>(<a href=#Updated-on-20230326>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230327>back to top</a>)</p>
 

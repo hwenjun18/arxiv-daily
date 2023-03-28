@@ -51,6 +51,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-27**|**Training-free Style Transfer Emerges from h-space in Diffusion models**|Jaeseok Jeong et.al.|[2303.15403](http://arxiv.org/abs/2303.15403)|null|
+|**2023-03-27**|**How far generated data can impact Neural Networks performance?**|Sayeh Gholipour Picha et.al.|[2303.15223](http://arxiv.org/abs/2303.15223)|null|
+|**2023-03-27**|**CLIDiM: Contrastive Learning for Image Denoising in Microscopy**|Felix Fuentes-Hurtado et.al.|[2303.15214](http://arxiv.org/abs/2303.15214)|**[link](https://github.com/ffuhu/clidim-microscopy-image-denoising)**|
+|**2023-03-27**|**Data Augmentation for Environmental Sound Classification Using Diffusion Probabilistic Model with Top-k Selection Discriminator**|Yunhao Chen et.al.|[2303.15161](http://arxiv.org/abs/2303.15161)|null|
+|**2023-03-26**|**Query Generation based on Generative Adversarial Networks**|Weihua Sun et.al.|[2303.14777](http://arxiv.org/abs/2303.14777)|null|
+|**2023-03-25**|**Spatial Latent Representations in Generative Adversarial Networks for Image Generation**|Maciej Sypetkowski et.al.|[2303.14552](http://arxiv.org/abs/2303.14552)|null|
+|**2023-03-25**|**GANTEE: Generative Adversatial Network for Taxonomy Entering Evaluation**|Zhouhong Gu et.al.|[2303.14480](http://arxiv.org/abs/2303.14480)|null|
 |**2023-03-24**|**Wave-U-Net Discriminator: Fast and Lightweight Discriminator for Generative Adversarial Network-Based Speech Synthesis**|Takuhiro Kaneko et.al.|[2303.13909](http://arxiv.org/abs/2303.13909)|null|
 |**2023-03-24**|**A Three-Player GAN for Super-Resolution in Magnetic Resonance Imaging**|Qi Wang et.al.|[2303.13900](http://arxiv.org/abs/2303.13900)|null|
 |**2023-03-24**|**Factor Decomposed Generative Adversarial Networks for Text-to-Image Synthesis**|Jiguo Li et.al.|[2303.13821](http://arxiv.org/abs/2303.13821)|null|
@@ -103,6 +110,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-27**|**The Stable Signature: Rooting Watermarks in Latent Diffusion Models**|Pierre Fernandez et.al.|[2303.15435](http://arxiv.org/abs/2303.15435)|null|
+|**2023-03-27**|**Anti-DreamBooth: Protecting users from personalized text-to-image synthesis**|Thanh Van Le et.al.|[2303.15433](http://arxiv.org/abs/2303.15433)|**[link](https://github.com/vinairesearch/anti-dreambooth)**|
+|**2023-03-27**|**Debiasing Scores and Prompts of 2D Diffusion for Robust Text-to-3D Generation**|Susung Hong et.al.|[2303.15413](http://arxiv.org/abs/2303.15413)|null|
+|**2023-03-27**|**Training-free Style Transfer Emerges from h-space in Diffusion models**|Jaeseok Jeong et.al.|[2303.15403](http://arxiv.org/abs/2303.15403)|null|
+|**2023-03-27**|**Exploring Continual Learning of Diffusion Models**|Michał Zając et.al.|[2303.15342](http://arxiv.org/abs/2303.15342)|null|
+|**2023-03-27**|**Diffusion Models for Memory-efficient Processing of 3D Medical Images**|Florentin Bieder et.al.|[2303.15288](http://arxiv.org/abs/2303.15288)|null|
+|**2023-03-27**|**Text-to-Image Diffusion Models are Zero-Shot Classifiers**|Kevin Clark et.al.|[2303.15233](http://arxiv.org/abs/2303.15233)|null|
+|**2023-03-27**|**Revisiting the Chandra Observation on the Region of PSR J1809-1917: Indication of an X-ray Halo and Implication for the Origin of HESS J1809-193**|ChaoMing Li et.al.|[2303.14946](http://arxiv.org/abs/2303.14946)|null|
+|**2023-03-27**|**Seer: Language Instructed Video Prediction with Latent Diffusion Models**|Xianfan Gu et.al.|[2303.14897](http://arxiv.org/abs/2303.14897)|null|
+|**2023-03-26**|**PDPP:Projected Diffusion for Procedure Planning in Instructional Videos**|Hanlin Wang et.al.|[2303.14676](http://arxiv.org/abs/2303.14676)|null|
+|**2023-03-26**|**GestureDiffuCLIP: Gesture Diffusion Model with CLIP Latents**|Tenglong Ao et.al.|[2303.14613](http://arxiv.org/abs/2303.14613)|null|
+|**2023-03-25**|**Freestyle Layout-to-Image Synthesis**|Han Xue et.al.|[2303.14412](http://arxiv.org/abs/2303.14412)|**[link](https://github.com/essunny310/freestylenet)**|
+|**2023-03-25**|**DiracDiffusion: Denoising and Incremental Reconstruction with Assured Data-Consistency**|Zalan Fabian et.al.|[2303.14353](http://arxiv.org/abs/2303.14353)|null|
+|**2023-03-24**|**DiffuScene: Scene Graph Denoising Diffusion Probabilistic Model for Generative Indoor Scene Synthesis**|Jiapeng Tang et.al.|[2303.14207](http://arxiv.org/abs/2303.14207)|null|
 |**2023-03-24**|**Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior**|Junshu Tang et.al.|[2303.14184](http://arxiv.org/abs/2303.14184)|**[link](https://github.com/junshutang/Make-It-3D)**|
 |**2023-03-24**|**CoLa-Diff: Conditional Latent Diffusion Model for Multi-Modal MRI Synthesis**|Lan Jiang et.al.|[2303.14081](http://arxiv.org/abs/2303.14081)|null|
 |**2023-03-24**|**DisC-Diff: Disentangled Conditional Diffusion Model for Multi-Contrast MRI Super-Resolution**|Ye Mao et.al.|[2303.13933](http://arxiv.org/abs/2303.13933)|null|
@@ -197,6 +218,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-27**|**CLIDiM: Contrastive Learning for Image Denoising in Microscopy**|Felix Fuentes-Hurtado et.al.|[2303.15214](http://arxiv.org/abs/2303.15214)|**[link](https://github.com/ffuhu/clidim-microscopy-image-denoising)**|
+|**2023-03-25**|**Toward DNN of LUTs: Learning Efficient Image Restoration with Multiple Look-Up Tables**|Jiacheng Li et.al.|[2303.14506](http://arxiv.org/abs/2303.14506)|**[link](https://github.com/ddlee-cn/mulut)**|
+|**2023-03-25**|**DiracDiffusion: Denoising and Incremental Reconstruction with Assured Data-Consistency**|Zalan Fabian et.al.|[2303.14353](http://arxiv.org/abs/2303.14353)|null|
 |**2023-03-23**|**Multi-granularity Interaction Simulation for Unsupervised Interactive Segmentation**|Kehan Li et.al.|[2303.13399](http://arxiv.org/abs/2303.13399)|null|
 |**2023-03-23**|**SIEDOB: Semantic Image Editing by Disentangling Object and Background**|Wuyang Luo et.al.|[2303.13062](http://arxiv.org/abs/2303.13062)|**[link](https://github.com/wuyangluo/siedob)**|
 |**2023-03-22**|**Pix2Video: Video Editing using Image Diffusion**|Duygu Ceylan et.al.|[2303.12688](http://arxiv.org/abs/2303.12688)|null|
@@ -250,6 +274,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-26**|**Sat2Density: Faithful Density Learning from Satellite-Ground Image Pairs**|Ming Qian et.al.|[2303.14672](http://arxiv.org/abs/2303.14672)|null|
 |**2023-03-27**|**NeuFace: Realistic 3D Neural Face Rendering from Multi-view Images**|Mingwu Zheng et.al.|[2303.14092](http://arxiv.org/abs/2303.14092)|**[link](https://github.com/aejion/neuface)**|
 |**2023-03-24**|**Deformable Model Driven Neural Rendering for High-fidelity 3D Reconstruction of Human Heads Under Low-View Settings**|Baixin Xu et.al.|[2303.13855](http://arxiv.org/abs/2303.13855)|**[link](https://github.com/xubaixinxbx/high-fidelity-3d-reconstruction-of-human-heads)**|
 |**2023-03-24**|**GM-NeRF: Learning Generalizable Model-based Neural Radiance Fields from Multi-view Images**|Jianchuan Chen et.al.|[2303.13777](http://arxiv.org/abs/2303.13777)|null|
@@ -303,6 +328,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-27**|**Mind the Label Shift of Augmentation-based Graph OOD Generalization**|Junchi Yu et.al.|[2303.14859](http://arxiv.org/abs/2303.14859)|null|
 |**2023-03-20**|**EmoTalk: Speech-driven emotional disentanglement for 3D face animation**|Ziqiao Peng et.al.|[2303.11089](http://arxiv.org/abs/2303.11089)|null|
 |**2023-03-17**|**MMFace4D: A Large-Scale Multi-Modal 4D Face Dataset for Audio-Driven 3D Face Animation**|Haozhe Wu et.al.|[2303.09797](http://arxiv.org/abs/2303.09797)|null|
 |**2023-02-14**|**VQ3D: Learning a 3D-Aware Generative Model on ImageNet**|Kyle Sargent et.al.|[2302.06833](http://arxiv.org/abs/2302.06833)|null|
@@ -331,6 +357,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-26**|**OTAvatar: One-shot Talking Face Avatar with Controllable Tri-plane Rendering**|Zhiyuan Ma et.al.|[2303.14662](http://arxiv.org/abs/2303.14662)|null|
+|**2023-03-25**|**PAniC-3D: Stylized Single-view 3D Reconstruction from Portraits of Anime Characters**|Shuhong Chen et.al.|[2303.14587](http://arxiv.org/abs/2303.14587)|**[link](https://github.com/shuhongchen/panic3d-anime-reconstruction)**|
+|**2023-03-25**|**LPFF: A Portrait Dataset for Face Generators Across Large Poses**|Yiqian Wu et.al.|[2303.14407](http://arxiv.org/abs/2303.14407)|null|
+|**2023-03-24**|**AgileGAN3D: Few-Shot 3D Portrait Stylization by Augmented Transfer Learning**|Guoxian Song et.al.|[2303.14297](http://arxiv.org/abs/2303.14297)|null|
 |**2023-03-22**|**LightPainter: Interactive Portrait Relighting with Freehand Scribble**|Yiqun Mei et.al.|[2303.12950](http://arxiv.org/abs/2303.12950)|null|
 |**2023-03-21**|**A Visual Modeling Method for Spatiotemporal and Multidimensional Features in Epidemiological Analysis: Applied COVID-19 Aggregated Datasets**|Yu Dong et.al.|[2303.12092](http://arxiv.org/abs/2303.12092)|**[link](https://github.com/yudong5018/msrnaers)**|
 |**2023-03-20**|**An analysis of $\mathbb{P}$ -invariance and dynamical compensation properties from a control perspective**|Akram Ashyani et.al.|[2303.10996](http://arxiv.org/abs/2303.10996)|null|

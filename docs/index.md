@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.27
+## Updated on 2023.03.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -104,7 +104,7 @@ layout: default
 |**2023-03-23**|**Medical diffusion on a budget: textual inversion for medical image generation**|Bram de Wilde et.al.|[2303.13430](http://arxiv.org/abs/2303.13430)|null|
 |**2023-03-23**|**Audio Diffusion Model for Speech Synthesis: A Survey on Text To Speech and Speech Enhancement in Generative AI**|Chenshuang Zhang et.al.|[2303.13336](http://arxiv.org/abs/2303.13336)|null|
 |**2023-03-23**|**Fourier Diffusion Models: A Method to Control MTF and NPS in Score-Based Stochastic Image Generation**|Matthew Tivnan et.al.|[2303.13285](http://arxiv.org/abs/2303.13285)|null|
-|**2023-03-23**|**MagicFusion: Boosting Text-to-Image Generation Performance by Fusing Diffusion Models**|Jing Zhao et.al.|[2303.13126](http://arxiv.org/abs/2303.13126)|null|
+|**2023-03-25**|**MagicFusion: Boosting Text-to-Image Generation Performance by Fusing Diffusion Models**|Jing Zhao et.al.|[2303.13126](http://arxiv.org/abs/2303.13126)|null|
 |**2023-03-23**|**DiffPattern: Layout Pattern Generation via Discrete Diffusion**|Zixiao Wang et.al.|[2303.13060](http://arxiv.org/abs/2303.13060)|null|
 |**2023-03-23**|**Generative AI-aided Optimization for AI-Generated Content (AIGC) Services in Edge Networks**|Hongyang Du et.al.|[2303.13052](http://arxiv.org/abs/2303.13052)|**[link](https://github.com/lizonghang/agod)**|
 |**2023-03-23**|**Controllable Inversion of Black-Box Face-Recognition Models via Diffusion**|Manuel Kansy et.al.|[2303.13006](http://arxiv.org/abs/2303.13006)|null|
@@ -232,7 +232,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-03-24**|**NeuFace: Realistic 3D Neural Face Rendering from Multi-view Images**|Mingwu Zheng et.al.|[2303.14092](http://arxiv.org/abs/2303.14092)|**[link](https://github.com/aejion/neuface)**|
+|**2023-03-27**|**NeuFace: Realistic 3D Neural Face Rendering from Multi-view Images**|Mingwu Zheng et.al.|[2303.14092](http://arxiv.org/abs/2303.14092)|**[link](https://github.com/aejion/neuface)**|
 |**2023-03-24**|**Deformable Model Driven Neural Rendering for High-fidelity 3D Reconstruction of Human Heads Under Low-View Settings**|Baixin Xu et.al.|[2303.13855](http://arxiv.org/abs/2303.13855)|**[link](https://github.com/xubaixinxbx/high-fidelity-3d-reconstruction-of-human-heads)**|
 |**2023-03-24**|**GM-NeRF: Learning Generalizable Model-based Neural Radiance Fields from Multi-view Images**|Jianchuan Chen et.al.|[2303.13777](http://arxiv.org/abs/2303.13777)|null|
 |**2023-03-23**|**ENVIDR: Implicit Differentiable Renderer with Neural Environment Lighting**|Ruofan Liang et.al.|[2303.13022](http://arxiv.org/abs/2303.13022)|**[link](https://github.com/nexuslrf/ENVIDR)**|
@@ -286,8 +286,8 @@ layout: default
 |**2023-03-20**|**EmoTalk: Speech-driven emotional disentanglement for 3D face animation**|Ziqiao Peng et.al.|[2303.11089](http://arxiv.org/abs/2303.11089)|null|
 |**2023-03-17**|**MMFace4D: A Large-Scale Multi-Modal 4D Face Dataset for Audio-Driven 3D Face Animation**|Haozhe Wu et.al.|[2303.09797](http://arxiv.org/abs/2303.09797)|null|
 |**2023-02-14**|**VQ3D: Learning a 3D-Aware Generative Model on ImageNet**|Kyle Sargent et.al.|[2302.06833](http://arxiv.org/abs/2302.06833)|null|
-|**2023-02-09**|**Accurate and Interpretable Solution of the Inverse Rig for Realistic Blendshape Models with Quadratic Corrective Terms**|Stevo Racković et.al.|[2302.04843](http://arxiv.org/abs/2302.04843)|null|
-|**2023-02-09**|**High-fidelity Interpretable Inverse Rig: An Accurate and Sparse Solution Optimizing the Quartic Blendshape Model**|Stevo Racković et.al.|[2302.04820](http://arxiv.org/abs/2302.04820)|null|
+|**2023-03-27**|**Accurate and Interpretable Solution of the Inverse Rig for Realistic Blendshape Models with Quadratic Corrective Terms**|Stevo Racković et.al.|[2302.04843](http://arxiv.org/abs/2302.04843)|null|
+|**2023-03-27**|**High-fidelity Interpretable Inverse Rig: An Accurate and Sparse Solution Optimizing the Quartic Blendshape Model**|Stevo Racković et.al.|[2302.04820](http://arxiv.org/abs/2302.04820)|null|
 |**2023-01-20**|**Spatial Steerability of GANs via Self-Supervision from Discriminator**|Jianyuan Wang et.al.|[2301.08455](http://arxiv.org/abs/2301.08455)|null|
 |**2023-01-15**|**Learning Audio-Driven Viseme Dynamics for 3D Face Animation**|Linchao Bao et.al.|[2301.06059](http://arxiv.org/abs/2301.06059)|null|
 |**2022-12-09**|**Album cover art image generation with Generative Adversarial Networks**|Felipe Perez Stoppa et.al.|[2212.04844](http://arxiv.org/abs/2212.04844)|null|

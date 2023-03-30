@@ -51,6 +51,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-29**|**WordStylist: Styled Verbatim Handwritten Text Generation with Latent Diffusion Models**|Konstantina Nikolaidou et.al.|[2303.16576](http://arxiv.org/abs/2303.16576)|null|
 |**2023-03-28**|**Information-Theoretic GAN Compression with Variational Energy-based Model**|Minsoo Kang et.al.|[2303.16050](http://arxiv.org/abs/2303.16050)|null|
 |**2023-03-28**|**Physics-guided adversarial networks for artificial digital image correlation data generation**|David Melching et.al.|[2303.15939](http://arxiv.org/abs/2303.15939)|null|
 |**2023-03-28**|**fRegGAN with K-space Loss Regularization for Medical Image Translation**|Ivo M. Baltruschat et.al.|[2303.15938](http://arxiv.org/abs/2303.15938)|null|
@@ -116,6 +117,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-29**|**Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos**|Kun Su et.al.|[2303.16897](http://arxiv.org/abs/2303.16897)|null|
+|**2023-03-29**|**Diffusion Schrödinger Bridge Matching**|Yuyang Shi et.al.|[2303.16852](http://arxiv.org/abs/2303.16852)|null|
+|**2023-03-29**|**4D Facial Expression Diffusion Model**|Kaifeng Zou et.al.|[2303.16611](http://arxiv.org/abs/2303.16611)|**[link](https://github.com/zoukaifeng/4dfm)**|
+|**2023-03-29**|**WordStylist: Styled Verbatim Handwritten Text Generation with Latent Diffusion Models**|Konstantina Nikolaidou et.al.|[2303.16576](http://arxiv.org/abs/2303.16576)|null|
+|**2023-03-29**|**HOLODIFFUSION: Training a 3D Diffusion Model using 2D Images**|Animesh Karnewar et.al.|[2303.16509](http://arxiv.org/abs/2303.16509)|null|
+|**2023-03-29**|**Implicit Diffusion Models for Continuous Super-Resolution**|Sicheng Gao et.al.|[2303.16491](http://arxiv.org/abs/2303.16491)|**[link](https://github.com/ree1s/idm)**|
+|**2023-03-29**|**A Pilot Study of Query-Free Adversarial Attack against Stable Diffusion**|Haomin Zhuang et.al.|[2303.16378](http://arxiv.org/abs/2303.16378)|null|
+|**2023-03-28**|**Rethinking CycleGAN: Improving Quality of GANs for Unpaired Image-to-Image Translation**|Dmitrii Torbunov et.al.|[2303.16280](http://arxiv.org/abs/2303.16280)|null|
 |**2023-03-29**|**Your Diffusion Model is Secretly a Zero-Shot Classifier**|Alexander C. Li et.al.|[2303.16203](http://arxiv.org/abs/2303.16203)|**[link](https://github.com/diffusion-classifier/diffusion-classifier)**|
 |**2023-03-28**|**Visual Chain-of-Thought Diffusion Models**|William Harvey et.al.|[2303.16187](http://arxiv.org/abs/2303.16187)|null|
 |**2023-03-28**|**Cellular EXchange Imaging (CEXI): Evaluation of a diffusion model including water exchange in cells using numerical phantoms of permeable spheres**|Rémy Gardier et.al.|[2303.16112](http://arxiv.org/abs/2303.16112)|null|
@@ -230,6 +239,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-29**|**MDP: A Generalized Framework for Text-Guided Image Editing by Manipulating the Diffusion Path**|Qian Wang et.al.|[2303.16765](http://arxiv.org/abs/2303.16765)|**[link](https://github.com/qianwangx/mdp-diffusion)**|
+|**2023-03-29**|**Random Weights Networks Work as Loss Prior Constraint for Image Restoration**|Man Zhou et.al.|[2303.16438](http://arxiv.org/abs/2303.16438)|null|
 |**2023-03-28**|**VIVE3D: Viewpoint-Independent Video Editing using 3D-Aware GANs**|Anna Frühstück et.al.|[2303.15893](http://arxiv.org/abs/2303.15893)|null|
 |**2023-03-28**|**Make the Most Out of Your Net: Alternating Between Canonical and Hard Datasets for Improved Image Demosaicing**|Yuval Becker et.al.|[2303.15792](http://arxiv.org/abs/2303.15792)|null|
 |**2023-03-29**|**Generalizable Denoising of Microscopy Images using Generative Adversarial Networks and Contrastive Learning**|Felix Fuentes-Hurtado et.al.|[2303.15214](http://arxiv.org/abs/2303.15214)|**[link](https://github.com/ffuhu/clidim-microscopy-image-denoising)**|
@@ -371,6 +382,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-29**|**On the Design of Limit Cycles of Planar Switching Affine Systems**|Nils Hanke et.al.|[2303.16505](http://arxiv.org/abs/2303.16505)|null|
+|**2023-03-29**|**Dynamical Modularity in Automata Models of Biochemical Networks**|Thomas Parmer et.al.|[2303.16361](http://arxiv.org/abs/2303.16361)|null|
 |**2023-03-28**|**Pattern Recognition on Oriented Matroids: Symmetric Cycles in the Hypercube Graphs. VI**|Andrey O. Matveev et.al.|[2303.16135](http://arxiv.org/abs/2303.16135)|null|
 |**2023-03-28**|**Dynamical Behaviors of Small-scale Buoyant Diffusion Flame Oscillators in Externally Swirling Flows**|Tao Yang et.al.|[2303.15789](http://arxiv.org/abs/2303.15789)|null|
 |**2023-03-26**|**OTAvatar: One-shot Talking Face Avatar with Controllable Tri-plane Rendering**|Zhiyuan Ma et.al.|[2303.14662](http://arxiv.org/abs/2303.14662)|null|

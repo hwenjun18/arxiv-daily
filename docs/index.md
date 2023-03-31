@@ -39,6 +39,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-30**|**Semantic Image Translation for Repairing the Texture Defects of Building Models**|Qisen Shang et.al.|[2303.17418](http://arxiv.org/abs/2303.17418)|null|
+|**2023-03-30**|**Retrospective Motion Correction in Gradient Echo MRI by Explicit Motion Estimation Using Deep CNNs**|Mathias S. Feinler et.al.|[2303.17239](http://arxiv.org/abs/2303.17239)|null|
+|**2023-03-30**|**LatentForensics: Towards lighter deepfake detection in the StyleGAN latent space**|Matthieu Delmas et.al.|[2303.17222](http://arxiv.org/abs/2303.17222)|null|
+|**2023-03-30**|**SARGAN: Spatial Attention-based Residuals for Facial Expression Manipulation**|Arbish Akram et.al.|[2303.17212](http://arxiv.org/abs/2303.17212)|null|
+|**2023-03-30**|**KD-DLGAN: Data Limited Image Generation via Knowledge Distillation**|Kaiwen Cui et.al.|[2303.17158](http://arxiv.org/abs/2303.17158)|null|
+|**2023-03-29**|**A comparative evaluation of image-to-image translation methods for stain transfer in histopathology**|Igor Zingman et.al.|[2303.17009](http://arxiv.org/abs/2303.17009)|null|
 |**2023-03-29**|**WordStylist: Styled Verbatim Handwritten Text Generation with Latent Diffusion Models**|Konstantina Nikolaidou et.al.|[2303.16576](http://arxiv.org/abs/2303.16576)|null|
 |**2023-03-28**|**Information-Theoretic GAN Compression with Variational Energy-based Model**|Minsoo Kang et.al.|[2303.16050](http://arxiv.org/abs/2303.16050)|null|
 |**2023-03-28**|**Physics-guided adversarial networks for artificial digital image correlation data generation**|David Melching et.al.|[2303.15939](http://arxiv.org/abs/2303.15939)|null|
@@ -103,6 +109,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-30**|**AvatarCraft: Transforming Text into Neural Human Avatars with Parameterized Shape and Pose Control**|Ruixiang Jiang et.al.|[2303.17606](http://arxiv.org/abs/2303.17606)|null|
+|**2023-03-30**|**Token Merging for Fast Stable Diffusion**|Daniel Bolya et.al.|[2303.17604](http://arxiv.org/abs/2303.17604)|**[link](https://github.com/dbolya/tomesd)**|
+|**2023-03-30**|**Zero-Shot Video Editing Using Off-The-Shelf Image Diffusion Models**|Wen Wang et.al.|[2303.17599](http://arxiv.org/abs/2303.17599)|**[link](https://github.com/baaivision/vid2vid-zero)**|
+|**2023-03-30**|**Consistent View Synthesis with Pose-Guided Diffusion Models**|Hung-Yu Tseng et.al.|[2303.17598](http://arxiv.org/abs/2303.17598)|null|
+|**2023-03-30**|**Forget-Me-Not: Learning to Forget in Text-to-Image Diffusion Models**|Eric Zhang et.al.|[2303.17591](http://arxiv.org/abs/2303.17591)|**[link](https://github.com/shi-labs/forget-me-not)**|
+|**2023-03-30**|**DDP: Diffusion Model for Dense Visual Prediction**|Yuanfeng Ji et.al.|[2303.17559](http://arxiv.org/abs/2303.17559)|null|
+|**2023-03-30**|**PAIR-Diffusion: Object-Level Image Editing with Structure-and-Appearance Paired Diffusion Models**|Vidit Goel et.al.|[2303.17546](http://arxiv.org/abs/2303.17546)|**[link](https://github.com/picsart-ai-research/pair-diffusion)**|
+|**2023-03-30**|**LayoutDiffusion: Controllable Diffusion Model for Layout-to-image Generation**|Guangcong Zheng et.al.|[2303.17189](http://arxiv.org/abs/2303.17189)|**[link](https://github.com/zgctroy/layoutdiffusion)**|
+|**2023-03-30**|**Discriminative Class Tokens for Text-to-Image Diffusion Models**|Idan Schwartz et.al.|[2303.17155](http://arxiv.org/abs/2303.17155)|**[link](https://github.com/idansc/discriminative_class_tokens)**|
+|**2023-03-30**|**Deep Generative Model and Its Applications in Efficient Wireless Network Management: A Tutorial and Case Study**|Yinqiu Liu et.al.|[2303.17114](http://arxiv.org/abs/2303.17114)|null|
+|**2023-03-30**|**DiffCollage: Parallel Generation of Large Content with Diffusion Models**|Qinsheng Zhang et.al.|[2303.17076](http://arxiv.org/abs/2303.17076)|null|
+|**2023-03-29**|**HyperDiffusion: Generating Implicit Neural Fields with Weight-Space Diffusion**|Ziya Erkoç et.al.|[2303.17015](http://arxiv.org/abs/2303.17015)|null|
 |**2023-03-29**|**Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos**|Kun Su et.al.|[2303.16897](http://arxiv.org/abs/2303.16897)|null|
 |**2023-03-29**|**Diffusion Schrödinger Bridge Matching**|Yuyang Shi et.al.|[2303.16852](http://arxiv.org/abs/2303.16852)|null|
 |**2023-03-29**|**4D Facial Expression Diffusion Model**|Kaifeng Zou et.al.|[2303.16611](http://arxiv.org/abs/2303.16611)|**[link](https://github.com/zoukaifeng/4dfm)**|
@@ -223,6 +241,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-30**|**PAIR-Diffusion: Object-Level Image Editing with Structure-and-Appearance Paired Diffusion Models**|Vidit Goel et.al.|[2303.17546](http://arxiv.org/abs/2303.17546)|**[link](https://github.com/picsart-ai-research/pair-diffusion)**|
+|**2023-03-30**|**Hierarchical Fine-Grained Image Forgery Detection and Localization**|Xiao Guo et.al.|[2303.17111](http://arxiv.org/abs/2303.17111)|null|
 |**2023-03-30**|**MDP: A Generalized Framework for Text-Guided Image Editing by Manipulating the Diffusion Path**|Qian Wang et.al.|[2303.16765](http://arxiv.org/abs/2303.16765)|**[link](https://github.com/qianwangx/mdp-diffusion)**|
 |**2023-03-29**|**Random Weights Networks Work as Loss Prior Constraint for Image Restoration**|Man Zhou et.al.|[2303.16438](http://arxiv.org/abs/2303.16438)|null|
 |**2023-03-28**|**VIVE3D: Viewpoint-Independent Video Editing using 3D-Aware GANs**|Anna Frühstück et.al.|[2303.15893](http://arxiv.org/abs/2303.15893)|null|
@@ -281,6 +301,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-30**|**NeRF-Supervised Deep Stereo**|Fabio Tosi et.al.|[2303.17603](http://arxiv.org/abs/2303.17603)|**[link](https://github.com/fabiotosi92/nerf-supervised-deep-stereo)**|
+|**2023-03-30**|**SynBody: Synthetic Dataset with Layered Human Models for 3D Human Perception and Modeling**|Zhitao Yang et.al.|[2303.17368](http://arxiv.org/abs/2303.17368)|null|
 |**2023-03-26**|**Sat2Density: Faithful Density Learning from Satellite-Ground Image Pairs**|Ming Qian et.al.|[2303.14672](http://arxiv.org/abs/2303.14672)|null|
 |**2023-03-27**|**NeuFace: Realistic 3D Neural Face Rendering from Multi-view Images**|Mingwu Zheng et.al.|[2303.14092](http://arxiv.org/abs/2303.14092)|**[link](https://github.com/aejion/neuface)**|
 |**2023-03-24**|**Deformable Model Driven Neural Rendering for High-fidelity 3D Reconstruction of Human Heads Under Low-View Settings**|Baixin Xu et.al.|[2303.13855](http://arxiv.org/abs/2303.13855)|**[link](https://github.com/xubaixinxbx/high-fidelity-3d-reconstruction-of-human-heads)**|
@@ -360,6 +382,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-30**|**SARGAN: Spatial Attention-based Residuals for Facial Expression Manipulation**|Arbish Akram et.al.|[2303.17212](http://arxiv.org/abs/2303.17212)|null|
 |**2023-03-29**|**On the Design of Limit Cycles of Planar Switching Affine Systems**|Nils Hanke et.al.|[2303.16505](http://arxiv.org/abs/2303.16505)|null|
 |**2023-03-29**|**Dynamical Modularity in Automata Models of Biochemical Networks**|Thomas Parmer et.al.|[2303.16361](http://arxiv.org/abs/2303.16361)|null|
 |**2023-03-28**|**Pattern Recognition on Oriented Matroids: Symmetric Cycles in the Hypercube Graphs. VI**|Andrey O. Matveev et.al.|[2303.16135](http://arxiv.org/abs/2303.16135)|null|

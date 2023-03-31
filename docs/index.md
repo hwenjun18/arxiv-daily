@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.30
+## Updated on 2023.03.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -223,7 +223,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-03-29**|**MDP: A Generalized Framework for Text-Guided Image Editing by Manipulating the Diffusion Path**|Qian Wang et.al.|[2303.16765](http://arxiv.org/abs/2303.16765)|**[link](https://github.com/qianwangx/mdp-diffusion)**|
+|**2023-03-30**|**MDP: A Generalized Framework for Text-Guided Image Editing by Manipulating the Diffusion Path**|Qian Wang et.al.|[2303.16765](http://arxiv.org/abs/2303.16765)|**[link](https://github.com/qianwangx/mdp-diffusion)**|
 |**2023-03-29**|**Random Weights Networks Work as Loss Prior Constraint for Image Restoration**|Man Zhou et.al.|[2303.16438](http://arxiv.org/abs/2303.16438)|null|
 |**2023-03-28**|**VIVE3D: Viewpoint-Independent Video Editing using 3D-Aware GANs**|Anna Frühstück et.al.|[2303.15893](http://arxiv.org/abs/2303.15893)|null|
 |**2023-03-28**|**Make the Most Out of Your Net: Alternating Between Canonical and Hard Datasets for Improved Image Demosaicing**|Yuval Becker et.al.|[2303.15792](http://arxiv.org/abs/2303.15792)|null|
@@ -364,7 +364,7 @@ layout: default
 |**2023-03-29**|**Dynamical Modularity in Automata Models of Biochemical Networks**|Thomas Parmer et.al.|[2303.16361](http://arxiv.org/abs/2303.16361)|null|
 |**2023-03-28**|**Pattern Recognition on Oriented Matroids: Symmetric Cycles in the Hypercube Graphs. VI**|Andrey O. Matveev et.al.|[2303.16135](http://arxiv.org/abs/2303.16135)|null|
 |**2023-03-28**|**Dynamical Behaviors of Small-scale Buoyant Diffusion Flame Oscillators in Externally Swirling Flows**|Tao Yang et.al.|[2303.15789](http://arxiv.org/abs/2303.15789)|null|
-|**2023-03-26**|**OTAvatar: One-shot Talking Face Avatar with Controllable Tri-plane Rendering**|Zhiyuan Ma et.al.|[2303.14662](http://arxiv.org/abs/2303.14662)|null|
+|**2023-03-26**|**OTAvatar: One-shot Talking Face Avatar with Controllable Tri-plane Rendering**|Zhiyuan Ma et.al.|[2303.14662](http://arxiv.org/abs/2303.14662)|**[link](https://github.com/theericma/otavatar)**|
 |**2023-03-25**|**PAniC-3D: Stylized Single-view 3D Reconstruction from Portraits of Anime Characters**|Shuhong Chen et.al.|[2303.14587](http://arxiv.org/abs/2303.14587)|**[link](https://github.com/shuhongchen/panic3d-anime-reconstruction)**|
 |**2023-03-25**|**LPFF: A Portrait Dataset for Face Generators Across Large Poses**|Yiqian Wu et.al.|[2303.14407](http://arxiv.org/abs/2303.14407)|null|
 |**2023-03-24**|**AgileGAN3D: Few-Shot 3D Portrait Stylization by Augmented Transfer Learning**|Guoxian Song et.al.|[2303.14297](http://arxiv.org/abs/2303.14297)|null|

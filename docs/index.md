@@ -39,6 +39,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-31**|**One-shot Unsupervised Domain Adaptation with Personalized Diffusion Models**|Yasser Benigmim et.al.|[2303.18080](http://arxiv.org/abs/2303.18080)|null|
+|**2023-03-31**|**Exploiting Multilingualism in Low-resource Neural Machine Translation via Adversarial Learning**|Amit Kumar et.al.|[2303.18011](http://arxiv.org/abs/2303.18011)|null|
+|**2023-03-31**|**Unsupervised Anomaly Detection and Localization of Machine Audio: A GAN-based Approach**|Anbai Jiang et.al.|[2303.17949](http://arxiv.org/abs/2303.17949)|**[link](https://github.com/jianganbai/aegan-ad)**|
+|**2023-03-31**|**Comparing Adversarial and Supervised Learning for Organs at Risk Segmentation in CT images**|Leonardo Crespi et.al.|[2303.17941](http://arxiv.org/abs/2303.17941)|null|
+|**2023-03-31**|**CAP-VSTNet: Content Affinity Preserved Versatile Style Transfer**|Linfeng Wen et.al.|[2303.17867](http://arxiv.org/abs/2303.17867)|null|
 |**2023-03-30**|**Semantic Image Translation for Repairing the Texture Defects of Building Models**|Qisen Shang et.al.|[2303.17418](http://arxiv.org/abs/2303.17418)|null|
 |**2023-03-30**|**Retrospective Motion Correction in Gradient Echo MRI by Explicit Motion Estimation Using Deep CNNs**|Mathias S. Feinler et.al.|[2303.17239](http://arxiv.org/abs/2303.17239)|null|
 |**2023-03-30**|**LatentForensics: Towards lighter deepfake detection in the StyleGAN latent space**|Matthieu Delmas et.al.|[2303.17222](http://arxiv.org/abs/2303.17222)|null|
@@ -109,6 +114,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-31**|**$\infty$ -Diff: Infinite Resolution Diffusion with Subsampled Mollified States**|Sam Bond-Taylor et.al.|[2303.18242](http://arxiv.org/abs/2303.18242)|**[link](https://github.com/samb-t/infty-diff)**|
+|**2023-03-31**|**A Closer Look at Parameter-Efficient Tuning in Diffusion Models**|Chendong Xiang et.al.|[2303.18181](http://arxiv.org/abs/2303.18181)|null|
+|**2023-03-31**|**One-shot Unsupervised Domain Adaptation with Personalized Diffusion Models**|Yasser Benigmim et.al.|[2303.18080](http://arxiv.org/abs/2303.18080)|null|
+|**2023-03-31**|**Diffusion Action Segmentation**|Daochang Liu et.al.|[2303.17959](http://arxiv.org/abs/2303.17959)|null|
+|**2023-03-31**|**Pay Attention: Accuracy Versus Interpretability Trade-off in Fine-tuned Diffusion Models**|Mischa Dombrowski et.al.|[2303.17908](http://arxiv.org/abs/2303.17908)|null|
+|**2023-03-31**|**3D-aware Image Generation using 2D Diffusion Models**|Jianfeng Xiang et.al.|[2303.17905](http://arxiv.org/abs/2303.17905)|null|
+|**2023-03-31**|**CrossLoc3D: Aerial-Ground Cross-Source 3D Place Recognition**|Tianrui Guan et.al.|[2303.17778](http://arxiv.org/abs/2303.17778)|null|
 |**2023-03-30**|**AvatarCraft: Transforming Text into Neural Human Avatars with Parameterized Shape and Pose Control**|Ruixiang Jiang et.al.|[2303.17606](http://arxiv.org/abs/2303.17606)|null|
 |**2023-03-30**|**Token Merging for Fast Stable Diffusion**|Daniel Bolya et.al.|[2303.17604](http://arxiv.org/abs/2303.17604)|**[link](https://github.com/dbolya/tomesd)**|
 |**2023-03-30**|**Zero-Shot Video Editing Using Off-The-Shelf Image Diffusion Models**|Wen Wang et.al.|[2303.17599](http://arxiv.org/abs/2303.17599)|**[link](https://github.com/baaivision/vid2vid-zero)**|
@@ -301,6 +313,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-30**|**S-VolSDF: Sparse Multi-View Stereo Regularization of Neural Implicit Surfaces**|Haoyu Wu et.al.|[2303.17712](http://arxiv.org/abs/2303.17712)|null|
 |**2023-03-30**|**NeRF-Supervised Deep Stereo**|Fabio Tosi et.al.|[2303.17603](http://arxiv.org/abs/2303.17603)|**[link](https://github.com/fabiotosi92/nerf-supervised-deep-stereo)**|
 |**2023-03-30**|**SynBody: Synthetic Dataset with Layered Human Models for 3D Human Perception and Modeling**|Zhitao Yang et.al.|[2303.17368](http://arxiv.org/abs/2303.17368)|null|
 |**2023-03-26**|**Sat2Density: Faithful Density Learning from Satellite-Ground Image Pairs**|Ming Qian et.al.|[2303.14672](http://arxiv.org/abs/2303.14672)|null|

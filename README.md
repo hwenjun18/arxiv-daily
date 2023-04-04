@@ -51,6 +51,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-03**|**ViT-DAE: Transformer-driven Diffusion Autoencoder for Histopathology Image Analysis**|Xuan Xu et.al.|[2304.01053](http://arxiv.org/abs/2304.01053)|null|
+|**2023-04-03**|**Tunable Convolutions with Parametric Multi-Loss Optimization**|Matteo Maggioni et.al.|[2304.00898](http://arxiv.org/abs/2304.00898)|null|
+|**2023-04-03**|**CG-3DSRGAN: A classification guided 3D generative adversarial network for image quality recovery from low-dose PET images**|Yuxin Xue et.al.|[2304.00725](http://arxiv.org/abs/2304.00725)|null|
+|**2023-04-02**|**Improving RF-DNA Fingerprinting Performance in an Indoor Multipath Environment Using Semi-Supervised Learning**|Mohamed k. Fadul et.al.|[2304.00648](http://arxiv.org/abs/2304.00648)|null|
+|**2023-04-02**|**A Unified Compression Framework for Efficient Speech-Driven Talking-Face Generation**|Bo-Kyeong Kim et.al.|[2304.00471](http://arxiv.org/abs/2304.00471)|null|
+|**2023-04-02**|**Ideal Observer Computation by Use of Markov-Chain Monte Carlo with Generative Adversarial Networks**|Weimin Zhou et.al.|[2304.00433](http://arxiv.org/abs/2304.00433)|null|
+|**2023-04-02**|**Learning Dynamic Style Kernels for Artistic Style Transfer**|Xu Wenju et.al.|[2304.00414](http://arxiv.org/abs/2304.00414)|null|
+|**2023-03-31**|**Fides: A Generative Framework for Result Validation of Outsourced Machine Learning Workloads via TEE**|Abhinav Kumar et.al.|[2304.00083](http://arxiv.org/abs/2304.00083)|null|
 |**2023-03-31**|**One-shot Unsupervised Domain Adaptation with Personalized Diffusion Models**|Yasser Benigmim et.al.|[2303.18080](http://arxiv.org/abs/2303.18080)|null|
 |**2023-03-31**|**Exploiting Multilingualism in Low-resource Neural Machine Translation via Adversarial Learning**|Amit Kumar et.al.|[2303.18011](http://arxiv.org/abs/2303.18011)|null|
 |**2023-03-31**|**Unsupervised Anomaly Detection and Localization of Machine Audio: A GAN-based Approach**|Anbai Jiang et.al.|[2303.17949](http://arxiv.org/abs/2303.17949)|**[link](https://github.com/jianganbai/aegan-ad)**|
@@ -128,6 +136,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-03**|**Learning to Read Braille: Bridging the Tactile Reality Gap with Diffusion Models**|Carolina Higuera et.al.|[2304.01182](http://arxiv.org/abs/2304.01182)|null|
+|**2023-04-03**|**ReMoDiffuse: Retrieval-Augmented Motion Diffusion Model**|Mingyuan Zhang et.al.|[2304.01116](http://arxiv.org/abs/2304.01116)|null|
+|**2023-04-03**|**ViT-DAE: Transformer-driven Diffusion Autoencoder for Histopathology Image Analysis**|Xuan Xu et.al.|[2304.01053](http://arxiv.org/abs/2304.01053)|null|
+|**2023-04-03**|**DreamAvatar: Text-and-Shape Guided 3D Human Avatar Generation via Diffusion Models**|Yukang Cao et.al.|[2304.00916](http://arxiv.org/abs/2304.00916)|null|
+|**2023-04-03**|**AUDIT: Audio Editing by Following Instructions with Latent Diffusion Models**|Yuancheng Wang et.al.|[2304.00830](http://arxiv.org/abs/2304.00830)|null|
+|**2023-04-03**|**DiffuRec: A Diffusion Model for Sequential Recommendation**|Zihao Li et.al.|[2304.00686](http://arxiv.org/abs/2304.00686)|null|
+|**2023-04-02**|**Textile Pattern Generation Using Diffusion Models**|Halil Faruk Karagoz et.al.|[2304.00520](http://arxiv.org/abs/2304.00520)|null|
+|**2023-04-02**|**Parents and Children: Distinguishing Multimodal DeepFakes from Natural Images**|Roberto Amoroso et.al.|[2304.00500](http://arxiv.org/abs/2304.00500)|null|
 |**2023-03-31**|**$\infty$ -Diff: Infinite Resolution Diffusion with Subsampled Mollified States**|Sam Bond-Taylor et.al.|[2303.18242](http://arxiv.org/abs/2303.18242)|**[link](https://github.com/samb-t/infty-diff)**|
 |**2023-03-31**|**A Closer Look at Parameter-Efficient Tuning in Diffusion Models**|Chendong Xiang et.al.|[2303.18181](http://arxiv.org/abs/2303.18181)|null|
 |**2023-03-31**|**One-shot Unsupervised Domain Adaptation with Personalized Diffusion Models**|Yasser Benigmim et.al.|[2303.18080](http://arxiv.org/abs/2303.18080)|null|
@@ -269,6 +285,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-03**|**Burstormer: Burst Image Restoration and Enhancement Transformer**|Akshay Dudhane et.al.|[2304.01194](http://arxiv.org/abs/2304.01194)|null|
+|**2023-04-03**|**HyperThumbnail: Real-time 6K Image Rescaling with Rate-distortion Optimization**|Chenyang Qi et.al.|[2304.01064](http://arxiv.org/abs/2304.01064)|**[link](https://github.com/abnervictor/hyperthumbnail)**|
+|**2023-04-03**|**Robust Text-driven Image Editing Method that Adaptively Explores Directions in Latent Spaces of StyleGAN and CLIP**|Tsuyoshi Baba et.al.|[2304.00964](http://arxiv.org/abs/2304.00964)|null|
+|**2023-04-01**|**PrefGen: Preference Guided Image Generation with Relative Attributes**|Alec Helbling et.al.|[2304.00185](http://arxiv.org/abs/2304.00185)|**[link](https://github.com/helblazer811/prefgen)**|
 |**2023-03-30**|**PAIR-Diffusion: Object-Level Image Editing with Structure-and-Appearance Paired Diffusion Models**|Vidit Goel et.al.|[2303.17546](http://arxiv.org/abs/2303.17546)|**[link](https://github.com/picsart-ai-research/pair-diffusion)**|
 |**2023-03-30**|**Hierarchical Fine-Grained Image Forgery Detection and Localization**|Xiao Guo et.al.|[2303.17111](http://arxiv.org/abs/2303.17111)|null|
 |**2023-03-30**|**MDP: A Generalized Framework for Text-Guided Image Editing by Manipulating the Diffusion Path**|Qian Wang et.al.|[2303.16765](http://arxiv.org/abs/2303.16765)|**[link](https://github.com/qianwangx/mdp-diffusion)**|
@@ -331,6 +351,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-01**|**Multi-view reconstruction of bullet time effect based on improved NSFF model**|Linquan Yu et.al.|[2304.00330](http://arxiv.org/abs/2304.00330)|null|
 |**2023-03-30**|**S-VolSDF: Sparse Multi-View Stereo Regularization of Neural Implicit Surfaces**|Haoyu Wu et.al.|[2303.17712](http://arxiv.org/abs/2303.17712)|null|
 |**2023-03-30**|**NeRF-Supervised Deep Stereo**|Fabio Tosi et.al.|[2303.17603](http://arxiv.org/abs/2303.17603)|**[link](https://github.com/fabiotosi92/nerf-supervised-deep-stereo)**|
 |**2023-03-30**|**SynBody: Synthetic Dataset with Layered Human Models for 3D Human Perception and Modeling**|Zhitao Yang et.al.|[2303.17368](http://arxiv.org/abs/2303.17368)|null|
@@ -417,6 +438,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-03**|**Coincidental Generation**|Jordan W. Suchow et.al.|[2304.01108](http://arxiv.org/abs/2304.01108)|null|
 |**2023-03-30**|**SARGAN: Spatial Attention-based Residuals for Facial Expression Manipulation**|Arbish Akram et.al.|[2303.17212](http://arxiv.org/abs/2303.17212)|null|
 |**2023-03-29**|**On the Design of Limit Cycles of Planar Switching Affine Systems**|Nils Hanke et.al.|[2303.16505](http://arxiv.org/abs/2303.16505)|null|
 |**2023-03-29**|**Dynamical Modularity in Automata Models of Biochemical Networks**|Thomas Parmer et.al.|[2303.16361](http://arxiv.org/abs/2303.16361)|**[link](https://github.com/tjparmer/dynamical_modularity)**|

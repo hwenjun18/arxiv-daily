@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.04.03
+## Updated on 2023.04.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -44,7 +44,7 @@ layout: default
 |**2023-03-31**|**Unsupervised Anomaly Detection and Localization of Machine Audio: A GAN-based Approach**|Anbai Jiang et.al.|[2303.17949](http://arxiv.org/abs/2303.17949)|**[link](https://github.com/jianganbai/aegan-ad)**|
 |**2023-03-31**|**Comparing Adversarial and Supervised Learning for Organs at Risk Segmentation in CT images**|Leonardo Crespi et.al.|[2303.17941](http://arxiv.org/abs/2303.17941)|null|
 |**2023-03-31**|**CAP-VSTNet: Content Affinity Preserved Versatile Style Transfer**|Linfeng Wen et.al.|[2303.17867](http://arxiv.org/abs/2303.17867)|null|
-|**2023-03-30**|**Semantic Image Translation for Repairing the Texture Defects of Building Models**|Qisen Shang et.al.|[2303.17418](http://arxiv.org/abs/2303.17418)|null|
+|**2023-04-01**|**Semantic Image Translation for Repairing the Texture Defects of Building Models**|Qisen Shang et.al.|[2303.17418](http://arxiv.org/abs/2303.17418)|null|
 |**2023-03-30**|**Retrospective Motion Correction in Gradient Echo MRI by Explicit Motion Estimation Using Deep CNNs**|Mathias S. Feinler et.al.|[2303.17239](http://arxiv.org/abs/2303.17239)|null|
 |**2023-03-30**|**LatentForensics: Towards lighter deepfake detection in the StyleGAN latent space**|Matthieu Delmas et.al.|[2303.17222](http://arxiv.org/abs/2303.17222)|null|
 |**2023-03-30**|**SARGAN: Spatial Attention-based Residuals for Facial Expression Manipulation**|Arbish Akram et.al.|[2303.17212](http://arxiv.org/abs/2303.17212)|null|

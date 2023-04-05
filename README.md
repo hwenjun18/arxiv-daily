@@ -51,6 +51,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-04**|**FakET: Simulating Cryo-Electron Tomograms with Neural Style Transfer**|Pavol Harar et.al.|[2304.02011](http://arxiv.org/abs/2304.02011)|**[link](https://gitlab.com/deepet/faket)**|
+|**2023-04-04**|**Revisiting the Evaluation of Image Synthesis with GANs**|Mengping Yang et.al.|[2304.01999](http://arxiv.org/abs/2304.01999)|null|
+|**2023-04-04**|**A Practical Framework for Unsupervised Structure Preservation Medical Image Enhancement**|Quan Huu Cap et.al.|[2304.01864](http://arxiv.org/abs/2304.01864)|**[link](https://github.com/aillisinc/uspmie)**|
 |**2023-04-03**|**ViT-DAE: Transformer-driven Diffusion Autoencoder for Histopathology Image Analysis**|Xuan Xu et.al.|[2304.01053](http://arxiv.org/abs/2304.01053)|null|
 |**2023-04-03**|**Tunable Convolutions with Parametric Multi-Loss Optimization**|Matteo Maggioni et.al.|[2304.00898](http://arxiv.org/abs/2304.00898)|null|
 |**2023-04-03**|**CG-3DSRGAN: A classification guided 3D generative adversarial network for image quality recovery from low-dose PET images**|Yuxin Xue et.al.|[2304.00725](http://arxiv.org/abs/2304.00725)|null|
@@ -136,6 +139,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-04**|**viz2viz: Prompt-driven stylized visualization generation using a diffusion model**|Jiaqi Wu et.al.|[2304.01919](http://arxiv.org/abs/2304.01919)|null|
+|**2023-04-04**|**PODIA-3D: Domain Adaptation of 3D Generative Model Across Large Domain Gap Using Pose-Preserved Text-to-Image Diffusion**|Gwanghyun Kim et.al.|[2304.01900](http://arxiv.org/abs/2304.01900)|null|
+|**2023-04-04**|**Trace and Pace: Controllable Pedestrian Animation via Guided Trajectory Diffusion**|Davis Rempe et.al.|[2304.01893](http://arxiv.org/abs/2304.01893)|null|
+|**2023-04-04**|**CoreDiff: Contextual Error-Modulated Generalized Diffusion Model for Low-Dose CT Denoising and Generalization**|Qi Gao et.al.|[2304.01814](http://arxiv.org/abs/2304.01814)|null|
+|**2023-04-04**|**Denoising Diffusion Probabilistic Models to Predict the Density of Molecular Clouds**|Duo Xu et.al.|[2304.01670](http://arxiv.org/abs/2304.01670)|null|
+|**2023-04-04**|**A Survey on Graph Diffusion Models: Generative AI in Science for Molecule, Protein and Material**|Mengchun Zhang et.al.|[2304.01565](http://arxiv.org/abs/2304.01565)|null|
+|**2023-04-03**|**Fast Point Cloud Generation with Diffusion Models in High Energy Physics**|Vinicius Mikuni et.al.|[2304.01266](http://arxiv.org/abs/2304.01266)|null|
 |**2023-04-03**|**Learning to Read Braille: Bridging the Tactile Reality Gap with Diffusion Models**|Carolina Higuera et.al.|[2304.01182](http://arxiv.org/abs/2304.01182)|**[link](https://github.com/carolinahiguera/tactile-diffusion)**|
 |**2023-04-03**|**ReMoDiffuse: Retrieval-Augmented Motion Diffusion Model**|Mingyuan Zhang et.al.|[2304.01116](http://arxiv.org/abs/2304.01116)|null|
 |**2023-04-03**|**ViT-DAE: Transformer-driven Diffusion Autoencoder for Histopathology Image Analysis**|Xuan Xu et.al.|[2304.01053](http://arxiv.org/abs/2304.01053)|null|
@@ -285,6 +295,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-03**|**Generative Diffusion Prior for Unified Image Restoration and Enhancement**|Ben Fei et.al.|[2304.01247](http://arxiv.org/abs/2304.01247)|null|
 |**2023-04-03**|**Burstormer: Burst Image Restoration and Enhancement Transformer**|Akshay Dudhane et.al.|[2304.01194](http://arxiv.org/abs/2304.01194)|null|
 |**2023-04-03**|**HyperThumbnail: Real-time 6K Image Rescaling with Rate-distortion Optimization**|Chenyang Qi et.al.|[2304.01064](http://arxiv.org/abs/2304.01064)|**[link](https://github.com/abnervictor/hyperthumbnail)**|
 |**2023-04-03**|**Robust Text-driven Image Editing Method that Adaptively Explores Directions in Latent Spaces of StyleGAN and CLIP**|Tsuyoshi Baba et.al.|[2304.00964](http://arxiv.org/abs/2304.00964)|null|

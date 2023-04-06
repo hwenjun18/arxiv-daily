@@ -39,6 +39,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-05**|**Face Transformer: Towards High Fidelity and Accurate Face Swapping**|Kaiwen Cui et.al.|[2304.02530](http://arxiv.org/abs/2304.02530)|null|
+|**2023-04-05**|**A Diffusion-based Method for Multi-turn Compositional Image Generation**|Chao Wang et.al.|[2304.02192](http://arxiv.org/abs/2304.02192)|null|
 |**2023-04-04**|**FakET: Simulating Cryo-Electron Tomograms with Neural Style Transfer**|Pavol Harar et.al.|[2304.02011](http://arxiv.org/abs/2304.02011)|**[link](https://gitlab.com/deepet/faket)**|
 |**2023-04-04**|**Revisiting the Evaluation of Image Synthesis with GANs**|Mengping Yang et.al.|[2304.01999](http://arxiv.org/abs/2304.01999)|null|
 |**2023-04-04**|**A Practical Framework for Unsupervised Structure Preservation Medical Image Enhancement**|Quan Huu Cap et.al.|[2304.01864](http://arxiv.org/abs/2304.01864)|**[link](https://github.com/aillisinc/uspmie)**|
@@ -125,6 +127,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-05**|**Taming Encoder for Zero Fine-tuning Image Customization with Text-to-Image Diffusion Models**|Xuhui Jia et.al.|[2304.02642](http://arxiv.org/abs/2304.02642)|null|
+|**2023-04-05**|**GenPhys: From Physical Processes to Generative Models**|Ziming Liu et.al.|[2304.02637](http://arxiv.org/abs/2304.02637)|null|
+|**2023-04-05**|**Detection of extended gamma-ray emission around the Geminga pulsar with H.E.S.S**|H. E. S. S. Collaboration et.al.|[2304.02631](http://arxiv.org/abs/2304.02631)|null|
+|**2023-04-05**|**Generative Novel View Synthesis with 3D-Aware Diffusion Models**|Eric R. Chan et.al.|[2304.02602](http://arxiv.org/abs/2304.02602)|null|
+|**2023-04-05**|**Goal-Conditioned Imitation Learning using Score-based Diffusion Policies**|Moritz Reuss et.al.|[2304.02532](http://arxiv.org/abs/2304.02532)|null|
+|**2023-04-05**|**JPEG Compressed Images Can Bypass Protections Against AI Editing**|Pedro Sandoval-Segura et.al.|[2304.02234](http://arxiv.org/abs/2304.02234)|null|
+|**2023-04-05**|**EigenFold: Generative Protein Structure Prediction with Diffusion Models**|Bowen Jing et.al.|[2304.02198](http://arxiv.org/abs/2304.02198)|**[link](https://github.com/bjing2016/eigenfold)**|
+|**2023-04-05**|**A Diffusion-based Method for Multi-turn Compositional Image Generation**|Chao Wang et.al.|[2304.02192](http://arxiv.org/abs/2304.02192)|null|
+|**2023-04-04**|**Multimodal Garment Designer: Human-Centric Latent Diffusion Models for Fashion Image Editing**|Alberto Baldrati et.al.|[2304.02051](http://arxiv.org/abs/2304.02051)|**[link](https://github.com/aimagelab/multimodal-garment-designer)**|
 |**2023-04-04**|**viz2viz: Prompt-driven stylized visualization generation using a diffusion model**|Jiaqi Wu et.al.|[2304.01919](http://arxiv.org/abs/2304.01919)|null|
 |**2023-04-04**|**PODIA-3D: Domain Adaptation of 3D Generative Model Across Large Domain Gap Using Pose-Preserved Text-to-Image Diffusion**|Gwanghyun Kim et.al.|[2304.01900](http://arxiv.org/abs/2304.01900)|null|
 |**2023-04-04**|**Trace and Pace: Controllable Pedestrian Animation via Guided Trajectory Diffusion**|Davis Rempe et.al.|[2304.01893](http://arxiv.org/abs/2304.01893)|null|
@@ -279,6 +290,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-04**|**Multimodal Garment Designer: Human-Centric Latent Diffusion Models for Fashion Image Editing**|Alberto Baldrati et.al.|[2304.02051](http://arxiv.org/abs/2304.02051)|**[link](https://github.com/aimagelab/multimodal-garment-designer)**|
 |**2023-04-03**|**Generative Diffusion Prior for Unified Image Restoration and Enhancement**|Ben Fei et.al.|[2304.01247](http://arxiv.org/abs/2304.01247)|null|
 |**2023-04-03**|**Burstormer: Burst Image Restoration and Enhancement Transformer**|Akshay Dudhane et.al.|[2304.01194](http://arxiv.org/abs/2304.01194)|null|
 |**2023-04-03**|**HyperThumbnail: Real-time 6K Image Rescaling with Rate-distortion Optimization**|Chenyang Qi et.al.|[2304.01064](http://arxiv.org/abs/2304.01064)|**[link](https://github.com/abnervictor/hyperthumbnail)**|

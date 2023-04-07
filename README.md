@@ -51,6 +51,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-06**|**Zero-shot Generative Model Adaptation via Image-specific Prompt Learning**|Jiayi Guo et.al.|[2304.03119](http://arxiv.org/abs/2304.03119)|null|
+|**2023-04-06**|**Spritz-PS: Validation of Synthetic Face Images Using a Large Dataset of Printed Documents**|Ehsan Nowroozi et.al.|[2304.02982](http://arxiv.org/abs/2304.02982)|null|
+|**2023-04-06**|**A review of ensemble learning and data augmentation models for class imbalanced problems: combination, implementation and evaluation**|Azal Ahmad Khan et.al.|[2304.02858](http://arxiv.org/abs/2304.02858)|null|
+|**2023-04-05**|**Bengali Fake Review Detection using Semi-supervised Generative Adversarial Networks**|Md. Tanvir Rouf Shawon et.al.|[2304.02739](http://arxiv.org/abs/2304.02739)|null|
+|**2023-04-05**|**Learning Stage-wise GANs for Whistle Extraction in Time-Frequency Spectrograms**|Pu Li et.al.|[2304.02714](http://arxiv.org/abs/2304.02714)|null|
 |**2023-04-05**|**Face Transformer: Towards High Fidelity and Accurate Face Swapping**|Kaiwen Cui et.al.|[2304.02530](http://arxiv.org/abs/2304.02530)|null|
 |**2023-04-05**|**A Diffusion-based Method for Multi-turn Compositional Image Generation**|Chao Wang et.al.|[2304.02192](http://arxiv.org/abs/2304.02192)|null|
 |**2023-04-04**|**FakET: Simulating Cryo-Electron Tomograms with Neural Style Transfer**|Pavol Harar et.al.|[2304.02011](http://arxiv.org/abs/2304.02011)|**[link](https://gitlab.com/deepet/faket)**|
@@ -141,6 +146,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-06**|**Diffusion Models as Masked Autoencoders**|Chen Wei et.al.|[2304.03283](http://arxiv.org/abs/2304.03283)|null|
+|**2023-04-06**|**Inst-Inpaint: Instructing to Remove Objects with Diffusion Models**|Ahmet Burak Yildirim et.al.|[2304.03246](http://arxiv.org/abs/2304.03246)|null|
+|**2023-04-06**|**Face Animation with an Attribute-Guided Diffusion Model**|Bohan Zeng et.al.|[2304.03199](http://arxiv.org/abs/2304.03199)|null|
+|**2023-04-06**|**SketchFFusion: Sketch-guided image editing with diffusion model**|Weihang Mao et.al.|[2304.03174](http://arxiv.org/abs/2304.03174)|null|
+|**2023-04-06**|**Zero-shot Generative Model Adaptation via Image-specific Prompt Learning**|Jiayi Guo et.al.|[2304.03119](http://arxiv.org/abs/2304.03119)|null|
+|**2023-04-06**|**Linear, quasi-Linear and nonlinear radial transport in the Earth's radiation belts**|Adnane Osmane et.al.|[2304.03009](http://arxiv.org/abs/2304.03009)|null|
+|**2023-04-06**|**Benchmarking Robustness to Text-Guided Corruptions**|Mohammadreza Mofayezi et.al.|[2304.02963](http://arxiv.org/abs/2304.02963)|null|
+|**2023-04-06**|**DITTO-NeRF: Diffusion-based Iterative Text To Omni-directional 3D Model**|Hoigi Seo et.al.|[2304.02827](http://arxiv.org/abs/2304.02827)|null|
+|**2023-04-05**|**Zero-shot Medical Image Translation via Frequency-Guided Diffusion Models**|Yunxiang Li et.al.|[2304.02742](http://arxiv.org/abs/2304.02742)|null|
 |**2023-04-05**|**Taming Encoder for Zero Fine-tuning Image Customization with Text-to-Image Diffusion Models**|Xuhui Jia et.al.|[2304.02642](http://arxiv.org/abs/2304.02642)|null|
 |**2023-04-05**|**GenPhys: From Physical Processes to Generative Models**|Ziming Liu et.al.|[2304.02637](http://arxiv.org/abs/2304.02637)|null|
 |**2023-04-05**|**Detection of extended gamma-ray emission around the Geminga pulsar with H.E.S.S**|H. E. S. S. Collaboration et.al.|[2304.02631](http://arxiv.org/abs/2304.02631)|null|
@@ -306,6 +320,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-06**|**ImageEye: Batch Image Processing Using Program Synthesis**|Celeste Barnaby et.al.|[2304.03253](http://arxiv.org/abs/2304.03253)|null|
+|**2023-04-06**|**SketchFFusion: Sketch-guided image editing with diffusion model**|Weihang Mao et.al.|[2304.03174](http://arxiv.org/abs/2304.03174)|null|
+|**2023-04-06**|**Towards an Effective and Efficient Transformer for Rain-by-snow Weather Removal**|Tao Gao et.al.|[2304.02860](http://arxiv.org/abs/2304.02860)|**[link](https://github.com/chdwyb/rsformer)**|
+|**2023-04-05**|**Recovering Continuous Scene Dynamics from A Single Blurry Image with Events**|Zhangyi Cheng et.al.|[2304.02695](http://arxiv.org/abs/2304.02695)|null|
 |**2023-04-04**|**Multimodal Garment Designer: Human-Centric Latent Diffusion Models for Fashion Image Editing**|Alberto Baldrati et.al.|[2304.02051](http://arxiv.org/abs/2304.02051)|**[link](https://github.com/aimagelab/multimodal-garment-designer)**|
 |**2023-04-03**|**Generative Diffusion Prior for Unified Image Restoration and Enhancement**|Ben Fei et.al.|[2304.01247](http://arxiv.org/abs/2304.01247)|null|
 |**2023-04-03**|**Burstormer: Burst Image Restoration and Enhancement Transformer**|Akshay Dudhane et.al.|[2304.01194](http://arxiv.org/abs/2304.01194)|**[link](https://github.com/akshaydudhane16/burstormer)**|
@@ -374,6 +392,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-06**|**Implicit Anatomical Rendering for Medical Image Segmentation with Stochastic Experts**|Chenyu You et.al.|[2304.03209](http://arxiv.org/abs/2304.03209)|null|
 |**2023-04-01**|**Multi-view reconstruction of bullet time effect based on improved NSFF model**|Linquan Yu et.al.|[2304.00330](http://arxiv.org/abs/2304.00330)|null|
 |**2023-03-30**|**S-VolSDF: Sparse Multi-View Stereo Regularization of Neural Implicit Surfaces**|Haoyu Wu et.al.|[2303.17712](http://arxiv.org/abs/2303.17712)|null|
 |**2023-03-30**|**NeRF-Supervised Deep Stereo**|Fabio Tosi et.al.|[2303.17603](http://arxiv.org/abs/2303.17603)|**[link](https://github.com/fabiotosi92/nerf-supervised-deep-stereo)**|
@@ -432,6 +451,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-06**|**Face Animation with an Attribute-Guided Diffusion Model**|Bohan Zeng et.al.|[2304.03199](http://arxiv.org/abs/2304.03199)|null|
 |**2023-03-27**|**Mind the Label Shift of Augmentation-based Graph OOD Generalization**|Junchi Yu et.al.|[2303.14859](http://arxiv.org/abs/2303.14859)|null|
 |**2023-03-20**|**EmoTalk: Speech-driven emotional disentanglement for 3D face animation**|Ziqiao Peng et.al.|[2303.11089](http://arxiv.org/abs/2303.11089)|null|
 |**2023-03-17**|**MMFace4D: A Large-Scale Multi-Modal 4D Face Dataset for Audio-Driven 3D Face Animation**|Haozhe Wu et.al.|[2303.09797](http://arxiv.org/abs/2303.09797)|null|

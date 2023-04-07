@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.04.06
+## Updated on 2023.04.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -146,7 +146,7 @@ layout: default
 |**2023-04-03**|**Learning to Read Braille: Bridging the Tactile Reality Gap with Diffusion Models**|Carolina Higuera et.al.|[2304.01182](http://arxiv.org/abs/2304.01182)|**[link](https://github.com/carolinahiguera/tactile-diffusion)**|
 |**2023-04-03**|**ReMoDiffuse: Retrieval-Augmented Motion Diffusion Model**|Mingyuan Zhang et.al.|[2304.01116](http://arxiv.org/abs/2304.01116)|null|
 |**2023-04-03**|**ViT-DAE: Transformer-driven Diffusion Autoencoder for Histopathology Image Analysis**|Xuan Xu et.al.|[2304.01053](http://arxiv.org/abs/2304.01053)|null|
-|**2023-04-03**|**DreamAvatar: Text-and-Shape Guided 3D Human Avatar Generation via Diffusion Models**|Yukang Cao et.al.|[2304.00916](http://arxiv.org/abs/2304.00916)|null|
+|**2023-04-06**|**DreamAvatar: Text-and-Shape Guided 3D Human Avatar Generation via Diffusion Models**|Yukang Cao et.al.|[2304.00916](http://arxiv.org/abs/2304.00916)|null|
 |**2023-04-05**|**AUDIT: Audio Editing by Following Instructions with Latent Diffusion Models**|Yuancheng Wang et.al.|[2304.00830](http://arxiv.org/abs/2304.00830)|null|
 |**2023-04-04**|**DiffuRec: A Diffusion Model for Sequential Recommendation**|Zihao Li et.al.|[2304.00686](http://arxiv.org/abs/2304.00686)|null|
 |**2023-04-02**|**Textile Pattern Generation Using Diffusion Models**|Halil Faruk Karagoz et.al.|[2304.00520](http://arxiv.org/abs/2304.00520)|null|
@@ -292,7 +292,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-04-04**|**Multimodal Garment Designer: Human-Centric Latent Diffusion Models for Fashion Image Editing**|Alberto Baldrati et.al.|[2304.02051](http://arxiv.org/abs/2304.02051)|**[link](https://github.com/aimagelab/multimodal-garment-designer)**|
 |**2023-04-03**|**Generative Diffusion Prior for Unified Image Restoration and Enhancement**|Ben Fei et.al.|[2304.01247](http://arxiv.org/abs/2304.01247)|null|
-|**2023-04-03**|**Burstormer: Burst Image Restoration and Enhancement Transformer**|Akshay Dudhane et.al.|[2304.01194](http://arxiv.org/abs/2304.01194)|null|
+|**2023-04-03**|**Burstormer: Burst Image Restoration and Enhancement Transformer**|Akshay Dudhane et.al.|[2304.01194](http://arxiv.org/abs/2304.01194)|**[link](https://github.com/akshaydudhane16/burstormer)**|
 |**2023-04-03**|**HyperThumbnail: Real-time 6K Image Rescaling with Rate-distortion Optimization**|Chenyang Qi et.al.|[2304.01064](http://arxiv.org/abs/2304.01064)|**[link](https://github.com/abnervictor/hyperthumbnail)**|
 |**2023-04-03**|**Robust Text-driven Image Editing Method that Adaptively Explores Directions in Latent Spaces of StyleGAN and CLIP**|Tsuyoshi Baba et.al.|[2304.00964](http://arxiv.org/abs/2304.00964)|null|
 |**2023-04-01**|**PrefGen: Preference Guided Image Generation with Relative Attributes**|Alec Helbling et.al.|[2304.00185](http://arxiv.org/abs/2304.00185)|**[link](https://github.com/helblazer811/prefgen)**|

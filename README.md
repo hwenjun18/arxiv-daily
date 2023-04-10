@@ -51,6 +51,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-07**|**Leveraging GANs for data scarcity of COVID-19: Beyond the hype**|Hazrat Ali et.al.|[2304.03536](http://arxiv.org/abs/2304.03536)|null|
 |**2023-04-06**|**Zero-shot Generative Model Adaptation via Image-specific Prompt Learning**|Jiayi Guo et.al.|[2304.03119](http://arxiv.org/abs/2304.03119)|**[link](https://github.com/picsart-ai-research/ipl-zero-shot-generative-model-adaptation)**|
 |**2023-04-06**|**Spritz-PS: Validation of Synthetic Face Images Using a Large Dataset of Printed Documents**|Ehsan Nowroozi et.al.|[2304.02982](http://arxiv.org/abs/2304.02982)|null|
 |**2023-04-06**|**A review of ensemble learning and data augmentation models for class imbalanced problems: combination, implementation and evaluation**|Azal Ahmad Khan et.al.|[2304.02858](http://arxiv.org/abs/2304.02858)|**[link](https://github.com/sydney-machine-learning/review-classimbalanced-ensemblelearning)**|
@@ -146,6 +147,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-07**|**Exploring Collaborative Distributed Diffusion-Based AI-Generated Content (AIGC) in Wireless Networks**|Hongyang Du et.al.|[2304.03446](http://arxiv.org/abs/2304.03446)|null|
+|**2023-04-06**|**Towards Coherent Image Inpainting Using Denoising Diffusion Implicit Models**|Guanhua Zhang et.al.|[2304.03322](http://arxiv.org/abs/2304.03322)|**[link](https://github.com/ucsb-nlp-chang/copaint)**|
 |**2023-04-06**|**Diffusion Models as Masked Autoencoders**|Chen Wei et.al.|[2304.03283](http://arxiv.org/abs/2304.03283)|null|
 |**2023-04-06**|**Inst-Inpaint: Instructing to Remove Objects with Diffusion Models**|Ahmet Burak Yildirim et.al.|[2304.03246](http://arxiv.org/abs/2304.03246)|null|
 |**2023-04-06**|**Face Animation with an Attribute-Guided Diffusion Model**|Bohan Zeng et.al.|[2304.03199](http://arxiv.org/abs/2304.03199)|**[link](https://github.com/zengbohan0217/fadm)**|
@@ -481,6 +484,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-07**|**What does ChatGPT return about human values? Exploring value bias in ChatGPT using a descriptive value theory**|Ronald Fischer et.al.|[2304.03612](http://arxiv.org/abs/2304.03612)|null|
+|**2023-04-06**|**Interpretable statistical representations of neural population dynamics and geometry**|Adam Gosztolai et.al.|[2304.03376](http://arxiv.org/abs/2304.03376)|null|
 |**2023-04-03**|**Coincidental Generation**|Jordan W. Suchow et.al.|[2304.01108](http://arxiv.org/abs/2304.01108)|null|
 |**2023-03-30**|**SARGAN: Spatial Attention-based Residuals for Facial Expression Manipulation**|Arbish Akram et.al.|[2303.17212](http://arxiv.org/abs/2303.17212)|null|
 |**2023-03-29**|**On the Design of Limit Cycles of Planar Switching Affine Systems**|Nils Hanke et.al.|[2303.16505](http://arxiv.org/abs/2303.16505)|null|

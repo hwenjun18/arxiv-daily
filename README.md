@@ -51,6 +51,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-10**|**Reinforcement Learning-Based Black-Box Model Inversion Attacks**|Gyojin Han et.al.|[2304.04625](http://arxiv.org/abs/2304.04625)|null|
+|**2023-04-10**|**Sequential Recommendation with Diffusion Models**|Hanwen Du et.al.|[2304.04541](http://arxiv.org/abs/2304.04541)|null|
+|**2023-04-10**|**Modernizing Old Photos Using Multiple References via Photorealistic Style Transfer**|Agus Gunawan et.al.|[2304.04461](http://arxiv.org/abs/2304.04461)|null|
+|**2023-04-10**|**Generating Adversarial Attacks in the Latent Space**|Nitish Shukla et.al.|[2304.04386](http://arxiv.org/abs/2304.04386)|null|
+|**2023-04-10**|**ITportrait: Image-Text Coupled 3D Portrait Domain Adaptation**|Xiangwen Deng et.al.|[2304.04364](http://arxiv.org/abs/2304.04364)|null|
+|**2023-04-09**|**ForamViT-GAN: Exploring New Paradigms in Deep Learning for Micropaleontological Image Analysis**|Ivan Ferreira-Chacua et.al.|[2304.04291](http://arxiv.org/abs/2304.04291)|null|
+|**2023-04-09**|**Distributed Conditional GAN (discGAN) For Synthetic Healthcare Data Generation**|David Fuentes et.al.|[2304.04290](http://arxiv.org/abs/2304.04290)|null|
+|**2023-04-08**|**Towards Realistic Ultrasound Fetal Brain Imaging Synthesis**|Michelle Iskandar et.al.|[2304.03941](http://arxiv.org/abs/2304.03941)|**[link](https://github.com/budai4medtech/midl2023)**|
+|**2023-04-08**|**3D GANs and Latent Space: A comprehensive survey**|Satya Pratheek Tata et.al.|[2304.03932](http://arxiv.org/abs/2304.03932)|null|
+|**2023-04-07**|**Correcting Model Misspecification via Generative Adversarial Networks**|Pronoma Banerjee et.al.|[2304.03805](http://arxiv.org/abs/2304.03805)|null|
 |**2023-04-07**|**Leveraging GANs for data scarcity of COVID-19: Beyond the hype**|Hazrat Ali et.al.|[2304.03536](http://arxiv.org/abs/2304.03536)|null|
 |**2023-04-06**|**Zero-shot Generative Model Adaptation via Image-specific Prompt Learning**|Jiayi Guo et.al.|[2304.03119](http://arxiv.org/abs/2304.03119)|**[link](https://github.com/picsart-ai-research/ipl-zero-shot-generative-model-adaptation)**|
 |**2023-04-06**|**Spritz-PS: Validation of Synthetic Face Images Using a Large Dataset of Printed Documents**|Ehsan Nowroozi et.al.|[2304.02982](http://arxiv.org/abs/2304.02982)|null|
@@ -147,6 +157,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-10**|**A Cheaper and Better Diffusion Language Model with Soft-Masked Noise**|Jiaao Chen et.al.|[2304.04746](http://arxiv.org/abs/2304.04746)|**[link](https://github.com/amazon-science/masked-diffusion-lm)**|
+|**2023-04-10**|**Ambiguous Medical Image Segmentation using Diffusion Models**|Aimon Rahman et.al.|[2304.04745](http://arxiv.org/abs/2304.04745)|**[link](https://github.com/aimansnigdha/ambiguous-medical-image-segmentation-using-diffusion-models)**|
+|**2023-04-10**|**Reflected Diffusion Models**|Aaron Lou et.al.|[2304.04740](http://arxiv.org/abs/2304.04740)|null|
+|**2023-04-10**|**Sequential Recommendation with Diffusion Models**|Hanwen Du et.al.|[2304.04541](http://arxiv.org/abs/2304.04541)|null|
+|**2023-04-10**|**BerDiff: Conditional Bernoulli Diffusion Model for Medical Image Segmentation**|Tao Chen et.al.|[2304.04429](http://arxiv.org/abs/2304.04429)|null|
+|**2023-04-10**|**Towards Real-time Text-driven Image Manipulation with Unconditional Diffusion Models**|Nikita Starodubcev et.al.|[2304.04344](http://arxiv.org/abs/2304.04344)|**[link](https://github.com/quickjkee/eff-diff-edit)**|
+|**2023-04-09**|**HumanSD: A Native Skeleton-Guided Diffusion Model for Human Image Generation**|Xuan Ju et.al.|[2304.04269](http://arxiv.org/abs/2304.04269)|null|
+|**2023-04-09**|**A Comprehensive Survey on Knowledge Distillation of Diffusion Models**|Weijian Luo et.al.|[2304.04262](http://arxiv.org/abs/2304.04262)|null|
+|**2023-04-09**|**CCLAP: Controllable Chinese Landscape Painting Generation via Latent Diffusion Model**|Zhongqi Wang et.al.|[2304.04156](http://arxiv.org/abs/2304.04156)|null|
+|**2023-04-08**|**DiffDock-PP: Rigid Protein-Protein Docking with Diffusion Models**|Mohamed Amine Ketata et.al.|[2304.03889](http://arxiv.org/abs/2304.03889)|**[link](https://github.com/ketatam/diffdock-pp)**|
+|**2023-04-07**|**Harnessing the Spatial-Temporal Attention of Diffusion Models for High-Fidelity Text-to-Image Synthesis**|Qiucheng Wu et.al.|[2304.03869](http://arxiv.org/abs/2304.03869)|**[link](https://github.com/ucsb-nlp-chang/diffusion-spacetime-attn)**|
+|**2023-04-07**|**ChiroDiff: Modelling chirographic data with Diffusion Models**|Ayan Das et.al.|[2304.03785](http://arxiv.org/abs/2304.03785)|null|
 |**2023-04-07**|**Exploring Collaborative Distributed Diffusion-Based AI-Generated Content (AIGC) in Wireless Networks**|Hongyang Du et.al.|[2304.03446](http://arxiv.org/abs/2304.03446)|**[link](https://github.com/hongyangdu/distributeddiffusion)**|
 |**2023-04-06**|**Towards Coherent Image Inpainting Using Denoising Diffusion Implicit Models**|Guanhua Zhang et.al.|[2304.03322](http://arxiv.org/abs/2304.03322)|**[link](https://github.com/ucsb-nlp-chang/copaint)**|
 |**2023-04-06**|**Diffusion Models as Masked Autoencoders**|Chen Wei et.al.|[2304.03283](http://arxiv.org/abs/2304.03283)|null|
@@ -323,6 +345,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-10**|**Deep Image Matting: A Comprehensive Survey**|Jizhizi Li et.al.|[2304.04672](http://arxiv.org/abs/2304.04672)|**[link](https://github.com/jizhizili/matting-survey)**|
+|**2023-04-10**|**Towards Real-time Text-driven Image Manipulation with Unconditional Diffusion Models**|Nikita Starodubcev et.al.|[2304.04344](http://arxiv.org/abs/2304.04344)|**[link](https://github.com/quickjkee/eff-diff-edit)**|
+|**2023-04-09**|**HumanSD: A Native Skeleton-Guided Diffusion Model for Human Image Generation**|Xuan Ju et.al.|[2304.04269](http://arxiv.org/abs/2304.04269)|null|
 |**2023-04-10**|**ImageEye: Batch Image Processing Using Program Synthesis**|Celeste Barnaby et.al.|[2304.03253](http://arxiv.org/abs/2304.03253)|null|
 |**2023-04-06**|**SketchFFusion: Sketch-guided image editing with diffusion model**|Weihang Mao et.al.|[2304.03174](http://arxiv.org/abs/2304.03174)|null|
 |**2023-04-06**|**Towards an Effective and Efficient Transformer for Rain-by-snow Weather Removal**|Tao Gao et.al.|[2304.02860](http://arxiv.org/abs/2304.02860)|**[link](https://github.com/chdwyb/rsformer)**|
@@ -395,6 +420,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-10**|**Neural Residual Radiance Fields for Streamably Free-Viewpoint Videos**|Liao Wang et.al.|[2304.04452](http://arxiv.org/abs/2304.04452)|null|
 |**2023-04-06**|**Implicit Anatomical Rendering for Medical Image Segmentation with Stochastic Experts**|Chenyu You et.al.|[2304.03209](http://arxiv.org/abs/2304.03209)|null|
 |**2023-04-01**|**Multi-view reconstruction of bullet time effect based on improved NSFF model**|Linquan Yu et.al.|[2304.00330](http://arxiv.org/abs/2304.00330)|null|
 |**2023-03-30**|**S-VolSDF: Sparse Multi-View Stereo Regularization of Neural Implicit Surfaces**|Haoyu Wu et.al.|[2303.17712](http://arxiv.org/abs/2303.17712)|null|
@@ -484,6 +510,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-10**|**ITportrait: Image-Text Coupled 3D Portrait Domain Adaptation**|Xiangwen Deng et.al.|[2304.04364](http://arxiv.org/abs/2304.04364)|null|
+|**2023-04-08**|**Region-Aware Portrait Retouching with Sparse Interactive Guidance**|Huimin Zeng et.al.|[2304.04017](http://arxiv.org/abs/2304.04017)|**[link](https://github.com/zeldam1/interactive_portrat_retouching)**|
 |**2023-04-07**|**What does ChatGPT return about human values? Exploring value bias in ChatGPT using a descriptive value theory**|Ronald Fischer et.al.|[2304.03612](http://arxiv.org/abs/2304.03612)|null|
 |**2023-04-06**|**Interpretable statistical representations of neural population dynamics and geometry**|Adam Gosztolai et.al.|[2304.03376](http://arxiv.org/abs/2304.03376)|null|
 |**2023-04-10**|**Coincidental Generation**|Jordan W. Suchow et.al.|[2304.01108](http://arxiv.org/abs/2304.01108)|null|

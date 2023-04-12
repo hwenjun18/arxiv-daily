@@ -51,6 +51,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-11**|**Mask-conditioned latent diffusion for generating gastrointestinal polyp images**|Roman Macháček et.al.|[2304.05233](http://arxiv.org/abs/2304.05233)|null|
+|**2023-04-11**|**NeAT: Neural Artistic Tracing for Beautiful Style Transfer**|Dan Ruta et.al.|[2304.05139](http://arxiv.org/abs/2304.05139)|**[link](https://github.com/danruta/neat)**|
+|**2023-04-11**|**Diffusion Recommender Model**|Wenjie Wang et.al.|[2304.04971](http://arxiv.org/abs/2304.04971)|**[link](https://github.com/yiyanxu/diffrec)**|
+|**2023-04-10**|**DDRF: Denoising Diffusion Model for Remote Sensing Image Fusion**|ZiHan Cao et.al.|[2304.04774](http://arxiv.org/abs/2304.04774)|null|
 |**2023-04-10**|**Reinforcement Learning-Based Black-Box Model Inversion Attacks**|Gyojin Han et.al.|[2304.04625](http://arxiv.org/abs/2304.04625)|null|
 |**2023-04-10**|**Sequential Recommendation with Diffusion Models**|Hanwen Du et.al.|[2304.04541](http://arxiv.org/abs/2304.04541)|null|
 |**2023-04-10**|**Modernizing Old Photos Using Multiple References via Photorealistic Style Transfer**|Agus Gunawan et.al.|[2304.04461](http://arxiv.org/abs/2304.04461)|null|
@@ -157,6 +161,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-11**|**HRS-Bench: Holistic, Reliable and Scalable Benchmark for Text-to-Image Models**|Eslam Mohamed Bakr et.al.|[2304.05390](http://arxiv.org/abs/2304.05390)|**[link](https://github.com/eslambakr/HRS_benchmark)**|
+|**2023-04-11**|**Diffusion Models for Constrained Domains**|Nic Fishman et.al.|[2304.05364](http://arxiv.org/abs/2304.05364)|null|
+|**2023-04-11**|**Optimal Asset Allocation in a High Inflation Regime: a Leverage-feasible Neural Network Approach**|Chendi Ni et.al.|[2304.05297](http://arxiv.org/abs/2304.05297)|null|
+|**2023-04-11**|**Multi-scale Fusion Fault Diagnosis Method Based on Two-Dimensionaliztion Sequence in Complex Scenarios**|Weiyang Jin et.al.|[2304.05198](http://arxiv.org/abs/2304.05198)|null|
+|**2023-04-11**|**Modeling and design of heterogeneous hierarchical bioinspired spider web structures using generative deep learning and additive manufacturing**|Wei Lu et.al.|[2304.05137](http://arxiv.org/abs/2304.05137)|null|
+|**2023-04-11**|**SPIRiT-Diffusion: Self-Consistency Driven Diffusion Model for Accelerated MRI**|Zhuo-Xu Cui et.al.|[2304.05060](http://arxiv.org/abs/2304.05060)|null|
+|**2023-04-11**|**Diffusion Recommender Model**|Wenjie Wang et.al.|[2304.04971](http://arxiv.org/abs/2304.04971)|**[link](https://github.com/yiyanxu/diffrec)**|
+|**2023-04-11**|**Re-imagine the Negative Prompt Algorithm: Transform 2D Diffusion into 3D, alleviate Janus problem and Beyond**|Mohammadreza Armandpour et.al.|[2304.04968](http://arxiv.org/abs/2304.04968)|null|
+|**2023-04-10**|**Binary Latent Diffusion**|Ze Wang et.al.|[2304.04820](http://arxiv.org/abs/2304.04820)|null|
+|**2023-04-10**|**DDRF: Denoising Diffusion Model for Remote Sensing Image Fusion**|ZiHan Cao et.al.|[2304.04774](http://arxiv.org/abs/2304.04774)|null|
 |**2023-04-10**|**A Cheaper and Better Diffusion Language Model with Soft-Masked Noise**|Jiaao Chen et.al.|[2304.04746](http://arxiv.org/abs/2304.04746)|**[link](https://github.com/amazon-science/masked-diffusion-lm)**|
 |**2023-04-10**|**Ambiguous Medical Image Segmentation using Diffusion Models**|Aimon Rahman et.al.|[2304.04745](http://arxiv.org/abs/2304.04745)|**[link](https://github.com/aimansnigdha/ambiguous-medical-image-segmentation-using-diffusion-models)**|
 |**2023-04-10**|**Reflected Diffusion Models**|Aaron Lou et.al.|[2304.04740](http://arxiv.org/abs/2304.04740)|null|
@@ -345,6 +359,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-11**|**NeAT: Neural Artistic Tracing for Beautiful Style Transfer**|Dan Ruta et.al.|[2304.05139](http://arxiv.org/abs/2304.05139)|**[link](https://github.com/danruta/neat)**|
 |**2023-04-10**|**Deep Image Matting: A Comprehensive Survey**|Jizhizi Li et.al.|[2304.04672](http://arxiv.org/abs/2304.04672)|**[link](https://github.com/jizhizili/matting-survey)**|
 |**2023-04-10**|**Towards Real-time Text-driven Image Manipulation with Unconditional Diffusion Models**|Nikita Starodubcev et.al.|[2304.04344](http://arxiv.org/abs/2304.04344)|**[link](https://github.com/quickjkee/eff-diff-edit)**|
 |**2023-04-09**|**HumanSD: A Native Skeleton-Guided Diffusion Model for Human Image Generation**|Xuan Ju et.al.|[2304.04269](http://arxiv.org/abs/2304.04269)|null|
@@ -420,6 +435,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-11**|**One-Shot High-Fidelity Talking-Head Synthesis with Deformable Neural Radiance Field**|Weichuang Li et.al.|[2304.05097](http://arxiv.org/abs/2304.05097)|null|
 |**2023-04-10**|**Neural Residual Radiance Fields for Streamably Free-Viewpoint Videos**|Liao Wang et.al.|[2304.04452](http://arxiv.org/abs/2304.04452)|null|
 |**2023-04-06**|**Implicit Anatomical Rendering for Medical Image Segmentation with Stochastic Experts**|Chenyu You et.al.|[2304.03209](http://arxiv.org/abs/2304.03209)|null|
 |**2023-04-01**|**Multi-view reconstruction of bullet time effect based on improved NSFF model**|Linquan Yu et.al.|[2304.00330](http://arxiv.org/abs/2304.00330)|null|

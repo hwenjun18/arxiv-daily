@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.04.12
+## Updated on 2023.04.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -486,7 +486,7 @@ layout: default
 |**2023-01-20**|**Spatial Steerability of GANs via Self-Supervision from Discriminator**|Jianyuan Wang et.al.|[2301.08455](http://arxiv.org/abs/2301.08455)|null|
 |**2023-01-15**|**Learning Audio-Driven Viseme Dynamics for 3D Face Animation**|Linchao Bao et.al.|[2301.06059](http://arxiv.org/abs/2301.06059)|null|
 |**2022-12-09**|**Album cover art image generation with Generative Adversarial Networks**|Felipe Perez Stoppa et.al.|[2212.04844](http://arxiv.org/abs/2212.04844)|null|
-|**2022-12-01**|**Face Animation with Multiple Source Images**|Zhaoying Pan et.al.|[2212.00256](http://arxiv.org/abs/2212.00256)|null|
+|**2023-04-11**|**Face Animation with Multiple Source Images**|Zhaoying Pan et.al.|[2212.00256](http://arxiv.org/abs/2212.00256)|null|
 |**2023-03-13**|**SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation**|Wenxuan Zhang et.al.|[2211.12194](http://arxiv.org/abs/2211.12194)|**[link](https://github.com/winfredy/sadtalker)**|
 |**2022-11-14**|**Fast Text-Conditional Discrete Denoising on Vector-Quantized Latent Spaces**|Dominic Rampas et.al.|[2211.07292](http://arxiv.org/abs/2211.07292)|**[link](https://github.com/dome272/paella)**|
 |**2022-11-03**|**Haven't I Seen You Before? Assessing Identity Leakage in Synthetic Irises**|Patrick Tinsley et.al.|[2211.05629](http://arxiv.org/abs/2211.05629)|null|

@@ -51,6 +51,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-12**|**VidStyleODE: Disentangled Video Editing via StyleGAN and NeuralODEs**|Moayed Haji Ali et.al.|[2304.06020](http://arxiv.org/abs/2304.06020)|null|
+|**2023-04-12**|**ALADIN-NST: Self-supervised disentangled representation learning of artistic style through Neural Style Transfer**|Dan Ruta et.al.|[2304.05755](http://arxiv.org/abs/2304.05755)|**[link](https://github.com/danruta/aladin-nst)**|
+|**2023-04-12**|**Generative Adversarial Networks-Driven Cyber Threat Intelligence Detection Framework for Securing Internet of Things**|Mohamed Amine Ferrag et.al.|[2304.05644](http://arxiv.org/abs/2304.05644)|null|
+|**2023-04-12**|**Improving Diffusion Models for Scene Text Editing with Dual Encoders**|Jiabao Ji et.al.|[2304.05568](http://arxiv.org/abs/2304.05568)|null|
+|**2023-04-12**|**An End-to-End Network for Upright Adjustment of Panoramic Images**|Heyu Chen et.al.|[2304.05556](http://arxiv.org/abs/2304.05556)|null|
+|**2023-04-11**|**GraphGANFed: A Federated Generative Framework for Graph-Structured Molecules Towards Efficient Drug Discovery**|Daniel Manu et.al.|[2304.05498](http://arxiv.org/abs/2304.05498)|null|
 |**2023-04-11**|**Mask-conditioned latent diffusion for generating gastrointestinal polyp images**|Roman Macháček et.al.|[2304.05233](http://arxiv.org/abs/2304.05233)|null|
 |**2023-04-11**|**NeAT: Neural Artistic Tracing for Beautiful Style Transfer**|Dan Ruta et.al.|[2304.05139](http://arxiv.org/abs/2304.05139)|**[link](https://github.com/danruta/neat)**|
 |**2023-04-11**|**Diffusion Recommender Model**|Wenjie Wang et.al.|[2304.04971](http://arxiv.org/abs/2304.04971)|**[link](https://github.com/yiyanxu/diffrec)**|
@@ -161,6 +167,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-12**|**Continual Diffusion: Continual Customization of Text-to-Image Diffusion with C-LoRA**|James Seale Smith et.al.|[2304.06027](http://arxiv.org/abs/2304.06027)|null|
+|**2023-04-12**|**Probabilistic Human Mesh Recovery in 3D Scenes from Egocentric Views**|Siwei Zhang et.al.|[2304.06024](http://arxiv.org/abs/2304.06024)|null|
+|**2023-04-12**|**SpectralDiff: Hyperspectral Image Classification with Spectral-Spatial Diffusion Models**|Ning Chen et.al.|[2304.05961](http://arxiv.org/abs/2304.05961)|null|
+|**2023-04-12**|**Diffusion models with location-scale noise**|Alexia Jolicoeur-Martineau et.al.|[2304.05907](http://arxiv.org/abs/2304.05907)|null|
+|**2023-04-12**|**Exploring Diffusion Models for Unsupervised Video Anomaly Detection**|Anil Osman Tur et.al.|[2304.05841](http://arxiv.org/abs/2304.05841)|null|
+|**2023-04-12**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|**[link](https://github.com/tr3e/intergen)**|
+|**2023-04-12**|**Improving Diffusion Models for Scene Text Editing with Dual Encoders**|Jiabao Ji et.al.|[2304.05568](http://arxiv.org/abs/2304.05568)|null|
+|**2023-04-11**|**CamDiff: Camouflage Image Augmentation via Diffusion Model**|Xue-Jing Luo et.al.|[2304.05469](http://arxiv.org/abs/2304.05469)|**[link](https://github.com/drlxj/camdiff)**|
 |**2023-04-11**|**HRS-Bench: Holistic, Reliable and Scalable Benchmark for Text-to-Image Models**|Eslam Mohamed Bakr et.al.|[2304.05390](http://arxiv.org/abs/2304.05390)|**[link](https://github.com/eslambakr/HRS_benchmark)**|
 |**2023-04-11**|**Diffusion Models for Constrained Domains**|Nic Fishman et.al.|[2304.05364](http://arxiv.org/abs/2304.05364)|null|
 |**2023-04-11**|**Optimal Asset Allocation in a High Inflation Regime: a Leverage-feasible Neural Network Approach**|Chendi Ni et.al.|[2304.05297](http://arxiv.org/abs/2304.05297)|null|
@@ -359,6 +373,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-12**|**VidStyleODE: Disentangled Video Editing via StyleGAN and NeuralODEs**|Moayed Haji Ali et.al.|[2304.06020](http://arxiv.org/abs/2304.06020)|null|
+|**2023-04-12**|**Generating Aligned Pseudo-Supervision from Non-Aligned Data for Image Restoration in Under-Display Camera**|Ruicheng Feng et.al.|[2304.06019](http://arxiv.org/abs/2304.06019)|**[link](https://github.com/jnjaby/alignformer)**|
+|**2023-04-12**|**NoisyTwins: Class-Consistent and Diverse Image Generation through StyleGANs**|Harsh Rangwani et.al.|[2304.05866](http://arxiv.org/abs/2304.05866)|null|
+|**2023-04-12**|**Improving Diffusion Models for Scene Text Editing with Dual Encoders**|Jiabao Ji et.al.|[2304.05568](http://arxiv.org/abs/2304.05568)|null|
 |**2023-04-11**|**NeAT: Neural Artistic Tracing for Beautiful Style Transfer**|Dan Ruta et.al.|[2304.05139](http://arxiv.org/abs/2304.05139)|**[link](https://github.com/danruta/neat)**|
 |**2023-04-10**|**Deep Image Matting: A Comprehensive Survey**|Jizhizi Li et.al.|[2304.04672](http://arxiv.org/abs/2304.04672)|**[link](https://github.com/jizhizili/matting-survey)**|
 |**2023-04-10**|**Towards Real-time Text-driven Image Manipulation with Unconditional Diffusion Models**|Nikita Starodubcev et.al.|[2304.04344](http://arxiv.org/abs/2304.04344)|**[link](https://github.com/quickjkee/eff-diff-edit)**|
@@ -435,6 +453,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-11**|**Light Sampling Field and BRDF Representation for Physically-based Neural Rendering**|Jing Yang et.al.|[2304.05472](http://arxiv.org/abs/2304.05472)|null|
 |**2023-04-11**|**One-Shot High-Fidelity Talking-Head Synthesis with Deformable Neural Radiance Field**|Weichuang Li et.al.|[2304.05097](http://arxiv.org/abs/2304.05097)|null|
 |**2023-04-10**|**Neural Residual Radiance Fields for Streamably Free-Viewpoint Videos**|Liao Wang et.al.|[2304.04452](http://arxiv.org/abs/2304.04452)|null|
 |**2023-04-06**|**Implicit Anatomical Rendering for Medical Image Segmentation with Stochastic Experts**|Chenyu You et.al.|[2304.03209](http://arxiv.org/abs/2304.03209)|null|
@@ -526,6 +545,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-12**|**EgoDist: Comparing networks via distributions of egonet features**|Carlo Piccardi et.al.|[2304.05801](http://arxiv.org/abs/2304.05801)|null|
+|**2023-04-12**|**An Image Quality Assessment Dataset for Portraits**|Nicolas Chahine et.al.|[2304.05772](http://arxiv.org/abs/2304.05772)|**[link](https://github.com/dxomark-research/piq2023)**|
 |**2023-04-10**|**ITportrait: Image-Text Coupled 3D Portrait Domain Adaptation**|Xiangwen Deng et.al.|[2304.04364](http://arxiv.org/abs/2304.04364)|null|
 |**2023-04-08**|**Region-Aware Portrait Retouching with Sparse Interactive Guidance**|Huimin Zeng et.al.|[2304.04017](http://arxiv.org/abs/2304.04017)|**[link](https://github.com/zeldam1/interactive_portrat_retouching)**|
 |**2023-04-07**|**What does ChatGPT return about human values? Exploring value bias in ChatGPT using a descriptive value theory**|Ronald Fischer et.al.|[2304.03612](http://arxiv.org/abs/2304.03612)|null|

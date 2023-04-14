@@ -51,6 +51,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-13**|**Improving novelty detection with generative adversarial networks on hand gesture data**|Miguel Simão et.al.|[2304.06696](http://arxiv.org/abs/2304.06696)|null|
+|**2023-04-13**|**Intriguing properties of synthetic images: from generative adversarial networks to diffusion models**|Riccardo Corvi et.al.|[2304.06408](http://arxiv.org/abs/2304.06408)|null|
+|**2023-04-13**|**ALR-GAN: Adaptive Layout Refinement for Text-to-Image Synthesis**|Hongchen Tan et.al.|[2304.06297](http://arxiv.org/abs/2304.06297)|null|
 |**2023-04-12**|**VidStyleODE: Disentangled Video Editing via StyleGAN and NeuralODEs**|Moayed Haji Ali et.al.|[2304.06020](http://arxiv.org/abs/2304.06020)|null|
 |**2023-04-12**|**ALADIN-NST: Self-supervised disentangled representation learning of artistic style through Neural Style Transfer**|Dan Ruta et.al.|[2304.05755](http://arxiv.org/abs/2304.05755)|**[link](https://github.com/danruta/aladin-nst)**|
 |**2023-04-12**|**Generative Adversarial Networks-Driven Cyber Threat Intelligence Detection Framework for Securing Internet of Things**|Mohamed Amine Ferrag et.al.|[2304.05644](http://arxiv.org/abs/2304.05644)|null|
@@ -167,6 +170,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-13**|**Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction**|Hansheng Chen et.al.|[2304.06714](http://arxiv.org/abs/2304.06714)|null|
+|**2023-04-13**|**DiffusionRig: Learning Personalized Priors for Facial Appearance Editing**|Zheng Ding et.al.|[2304.06711](http://arxiv.org/abs/2304.06711)|null|
+|**2023-04-13**|**Learning Controllable 3D Diffusion Models from Single-view Images**|Jiatao Gu et.al.|[2304.06700](http://arxiv.org/abs/2304.06700)|null|
+|**2023-04-13**|**DiffFit: Unlocking Transferability of Large Diffusion Models via Simple Parameter-Efficient Fine-Tuning**|Enze Xie et.al.|[2304.06648](http://arxiv.org/abs/2304.06648)|null|
+|**2023-04-13**|**Estimation of Parameter Distributions for Reaction-Diffusion Equations with Competition using Aggregate Spatiotemporal Data**|Kyle Nguyen et.al.|[2304.06577](http://arxiv.org/abs/2304.06577)|null|
+|**2023-04-13**|**Intriguing properties of synthetic images: from generative adversarial networks to diffusion models**|Riccardo Corvi et.al.|[2304.06408](http://arxiv.org/abs/2304.06408)|null|
+|**2023-04-13**|**Non-ideal reaction-diffusion systems: Multiple routes to instability**|Timur Aslyamov et.al.|[2304.06394](http://arxiv.org/abs/2304.06394)|null|
+|**2023-04-13**|**Filtration Reduction and Completeness in Jump-Diffusion Models**|Karen Grigorian et.al.|[2304.06202](http://arxiv.org/abs/2304.06202)|null|
+|**2023-04-12**|**Accurate transition state generation with an object-aware equivariant elementary reaction diffusion model**|Chenru Duan et.al.|[2304.06174](http://arxiv.org/abs/2304.06174)|null|
 |**2023-04-12**|**Continual Diffusion: Continual Customization of Text-to-Image Diffusion with C-LoRA**|James Seale Smith et.al.|[2304.06027](http://arxiv.org/abs/2304.06027)|null|
 |**2023-04-12**|**Probabilistic Human Mesh Recovery in 3D Scenes from Egocentric Views**|Siwei Zhang et.al.|[2304.06024](http://arxiv.org/abs/2304.06024)|null|
 |**2023-04-12**|**SpectralDiff: Hyperspectral Image Classification with Spectral-Spatial Diffusion Models**|Ning Chen et.al.|[2304.05961](http://arxiv.org/abs/2304.05961)|null|
@@ -373,6 +385,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-13**|**Moment-based space-variant Shack-Hartmann wavefront reconstruction**|Fan Feng et.al.|[2304.06283](http://arxiv.org/abs/2304.06283)|null|
 |**2023-04-12**|**VidStyleODE: Disentangled Video Editing via StyleGAN and NeuralODEs**|Moayed Haji Ali et.al.|[2304.06020](http://arxiv.org/abs/2304.06020)|null|
 |**2023-04-12**|**Generating Aligned Pseudo-Supervision from Non-Aligned Data for Image Restoration in Under-Display Camera**|Ruicheng Feng et.al.|[2304.06019](http://arxiv.org/abs/2304.06019)|**[link](https://github.com/jnjaby/alignformer)**|
 |**2023-04-12**|**NoisyTwins: Class-Consistent and Diverse Image Generation through StyleGANs**|Harsh Rangwani et.al.|[2304.05866](http://arxiv.org/abs/2304.05866)|null|
@@ -545,6 +558,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-13**|**DiffusionRig: Learning Personalized Priors for Facial Appearance Editing**|Zheng Ding et.al.|[2304.06711](http://arxiv.org/abs/2304.06711)|null|
 |**2023-04-12**|**EgoDist: Comparing networks via distributions of egonet features**|Carlo Piccardi et.al.|[2304.05801](http://arxiv.org/abs/2304.05801)|null|
 |**2023-04-12**|**An Image Quality Assessment Dataset for Portraits**|Nicolas Chahine et.al.|[2304.05772](http://arxiv.org/abs/2304.05772)|**[link](https://github.com/dxomark-research/piq2023)**|
 |**2023-04-10**|**ITportrait: Image-Text Coupled 3D Portrait Domain Adaptation**|Xiangwen Deng et.al.|[2304.04364](http://arxiv.org/abs/2304.04364)|null|

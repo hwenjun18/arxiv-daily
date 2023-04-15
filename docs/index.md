@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.04.14
+## Updated on 2023.04.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -45,7 +45,7 @@ layout: default
 |**2023-04-12**|**VidStyleODE: Disentangled Video Editing via StyleGAN and NeuralODEs**|Moayed Haji Ali et.al.|[2304.06020](http://arxiv.org/abs/2304.06020)|null|
 |**2023-04-12**|**ALADIN-NST: Self-supervised disentangled representation learning of artistic style through Neural Style Transfer**|Dan Ruta et.al.|[2304.05755](http://arxiv.org/abs/2304.05755)|**[link](https://github.com/danruta/aladin-nst)**|
 |**2023-04-12**|**Generative Adversarial Networks-Driven Cyber Threat Intelligence Detection Framework for Securing Internet of Things**|Mohamed Amine Ferrag et.al.|[2304.05644](http://arxiv.org/abs/2304.05644)|null|
-|**2023-04-12**|**Improving Diffusion Models for Scene Text Editing with Dual Encoders**|Jiabao Ji et.al.|[2304.05568](http://arxiv.org/abs/2304.05568)|null|
+|**2023-04-12**|**Improving Diffusion Models for Scene Text Editing with Dual Encoders**|Jiabao Ji et.al.|[2304.05568](http://arxiv.org/abs/2304.05568)|**[link](https://github.com/ucsb-nlp-chang/diffste)**|
 |**2023-04-12**|**An End-to-End Network for Upright Adjustment of Panoramic Images**|Heyu Chen et.al.|[2304.05556](http://arxiv.org/abs/2304.05556)|null|
 |**2023-04-11**|**GraphGANFed: A Federated Generative Framework for Graph-Structured Molecules Towards Efficient Drug Discovery**|Daniel Manu et.al.|[2304.05498](http://arxiv.org/abs/2304.05498)|null|
 |**2023-04-11**|**Mask-conditioned latent diffusion for generating gastrointestinal polyp images**|Roman Macháček et.al.|[2304.05233](http://arxiv.org/abs/2304.05233)|null|
@@ -171,7 +171,7 @@ layout: default
 |**2023-04-12**|**Diffusion models with location-scale noise**|Alexia Jolicoeur-Martineau et.al.|[2304.05907](http://arxiv.org/abs/2304.05907)|null|
 |**2023-04-12**|**Exploring Diffusion Models for Unsupervised Video Anomaly Detection**|Anil Osman Tur et.al.|[2304.05841](http://arxiv.org/abs/2304.05841)|null|
 |**2023-04-12**|**InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions**|Han Liang et.al.|[2304.05684](http://arxiv.org/abs/2304.05684)|**[link](https://github.com/tr3e/intergen)**|
-|**2023-04-12**|**Improving Diffusion Models for Scene Text Editing with Dual Encoders**|Jiabao Ji et.al.|[2304.05568](http://arxiv.org/abs/2304.05568)|null|
+|**2023-04-12**|**Improving Diffusion Models for Scene Text Editing with Dual Encoders**|Jiabao Ji et.al.|[2304.05568](http://arxiv.org/abs/2304.05568)|**[link](https://github.com/ucsb-nlp-chang/diffste)**|
 |**2023-04-11**|**CamDiff: Camouflage Image Augmentation via Diffusion Model**|Xue-Jing Luo et.al.|[2304.05469](http://arxiv.org/abs/2304.05469)|**[link](https://github.com/drlxj/camdiff)**|
 |**2023-04-11**|**HRS-Bench: Holistic, Reliable and Scalable Benchmark for Text-to-Image Models**|Eslam Mohamed Bakr et.al.|[2304.05390](http://arxiv.org/abs/2304.05390)|**[link](https://github.com/eslambakr/HRS_benchmark)**|
 |**2023-04-11**|**Diffusion Models for Constrained Domains**|Nic Fishman et.al.|[2304.05364](http://arxiv.org/abs/2304.05364)|null|
@@ -373,7 +373,7 @@ layout: default
 |**2023-04-12**|**VidStyleODE: Disentangled Video Editing via StyleGAN and NeuralODEs**|Moayed Haji Ali et.al.|[2304.06020](http://arxiv.org/abs/2304.06020)|null|
 |**2023-04-12**|**Generating Aligned Pseudo-Supervision from Non-Aligned Data for Image Restoration in Under-Display Camera**|Ruicheng Feng et.al.|[2304.06019](http://arxiv.org/abs/2304.06019)|**[link](https://github.com/jnjaby/alignformer)**|
 |**2023-04-12**|**NoisyTwins: Class-Consistent and Diverse Image Generation through StyleGANs**|Harsh Rangwani et.al.|[2304.05866](http://arxiv.org/abs/2304.05866)|null|
-|**2023-04-12**|**Improving Diffusion Models for Scene Text Editing with Dual Encoders**|Jiabao Ji et.al.|[2304.05568](http://arxiv.org/abs/2304.05568)|null|
+|**2023-04-12**|**Improving Diffusion Models for Scene Text Editing with Dual Encoders**|Jiabao Ji et.al.|[2304.05568](http://arxiv.org/abs/2304.05568)|**[link](https://github.com/ucsb-nlp-chang/diffste)**|
 |**2023-04-11**|**NeAT: Neural Artistic Tracing for Beautiful Style Transfer**|Dan Ruta et.al.|[2304.05139](http://arxiv.org/abs/2304.05139)|**[link](https://github.com/danruta/neat)**|
 |**2023-04-10**|**Deep Image Matting: A Comprehensive Survey**|Jizhizi Li et.al.|[2304.04672](http://arxiv.org/abs/2304.04672)|**[link](https://github.com/jizhizili/matting-survey)**|
 |**2023-04-10**|**Towards Real-time Text-driven Image Manipulation with Unconditional Diffusion Models**|Nikita Starodubcev et.al.|[2304.04344](http://arxiv.org/abs/2304.04344)|**[link](https://github.com/quickjkee/eff-diff-edit)**|

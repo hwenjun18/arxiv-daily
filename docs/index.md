@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.04.15
+## Updated on 2023.04.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -542,7 +542,7 @@ layout: default
 |**2023-04-10**|**ITportrait: Image-Text Coupled 3D Portrait Domain Adaptation**|Xiangwen Deng et.al.|[2304.04364](http://arxiv.org/abs/2304.04364)|null|
 |**2023-04-08**|**Region-Aware Portrait Retouching with Sparse Interactive Guidance**|Huimin Zeng et.al.|[2304.04017](http://arxiv.org/abs/2304.04017)|**[link](https://github.com/zeldam1/interactive_portrat_retouching)**|
 |**2023-04-07**|**What does ChatGPT return about human values? Exploring value bias in ChatGPT using a descriptive value theory**|Ronald Fischer et.al.|[2304.03612](http://arxiv.org/abs/2304.03612)|null|
-|**2023-04-06**|**Interpretable statistical representations of neural population dynamics and geometry**|Adam Gosztolai et.al.|[2304.03376](http://arxiv.org/abs/2304.03376)|null|
+|**2023-04-06**|**Interpretable statistical representations of neural population dynamics and geometry**|Adam Gosztolai et.al.|[2304.03376](http://arxiv.org/abs/2304.03376)|**[link](https://github.com/agosztolai/marble)**|
 |**2023-04-10**|**Coincidental Generation**|Jordan W. Suchow et.al.|[2304.01108](http://arxiv.org/abs/2304.01108)|null|
 |**2023-03-30**|**SARGAN: Spatial Attention-based Residuals for Facial Expression Manipulation**|Arbish Akram et.al.|[2303.17212](http://arxiv.org/abs/2303.17212)|null|
 |**2023-03-29**|**On the Design of Limit Cycles of Planar Switching Affine Systems**|Nils Hanke et.al.|[2303.16505](http://arxiv.org/abs/2303.16505)|null|

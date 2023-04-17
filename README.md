@@ -51,6 +51,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-14**|**Memory Efficient Diffusion Probabilistic Models via Patch-based Generation**|Shinei Arakawa et.al.|[2304.07087](http://arxiv.org/abs/2304.07087)|null|
 |**2023-04-13**|**Improving novelty detection with generative adversarial networks on hand gesture data**|Miguel Simão et.al.|[2304.06696](http://arxiv.org/abs/2304.06696)|null|
 |**2023-04-13**|**Intriguing properties of synthetic images: from generative adversarial networks to diffusion models**|Riccardo Corvi et.al.|[2304.06408](http://arxiv.org/abs/2304.06408)|null|
 |**2023-04-13**|**ALR-GAN: Adaptive Layout Refinement for Text-to-Image Synthesis**|Hongchen Tan et.al.|[2304.06297](http://arxiv.org/abs/2304.06297)|null|
@@ -64,7 +65,7 @@
 |**2023-04-11**|**NeAT: Neural Artistic Tracing for Beautiful Style Transfer**|Dan Ruta et.al.|[2304.05139](http://arxiv.org/abs/2304.05139)|**[link](https://github.com/danruta/neat)**|
 |**2023-04-11**|**Diffusion Recommender Model**|Wenjie Wang et.al.|[2304.04971](http://arxiv.org/abs/2304.04971)|**[link](https://github.com/yiyanxu/diffrec)**|
 |**2023-04-10**|**DDRF: Denoising Diffusion Model for Remote Sensing Image Fusion**|ZiHan Cao et.al.|[2304.04774](http://arxiv.org/abs/2304.04774)|null|
-|**2023-04-10**|**Reinforcement Learning-Based Black-Box Model Inversion Attacks**|Gyojin Han et.al.|[2304.04625](http://arxiv.org/abs/2304.04625)|null|
+|**2023-04-10**|**Reinforcement Learning-Based Black-Box Model Inversion Attacks**|Gyojin Han et.al.|[2304.04625](http://arxiv.org/abs/2304.04625)|**[link](https://github.com/HanGyojin/RLB-MI)**|
 |**2023-04-10**|**Sequential Recommendation with Diffusion Models**|Hanwen Du et.al.|[2304.04541](http://arxiv.org/abs/2304.04541)|null|
 |**2023-04-10**|**Modernizing Old Photos Using Multiple References via Photorealistic Style Transfer**|Agus Gunawan et.al.|[2304.04461](http://arxiv.org/abs/2304.04461)|null|
 |**2023-04-10**|**Generating Adversarial Attacks in the Latent Space**|Nitish Shukla et.al.|[2304.04386](http://arxiv.org/abs/2304.04386)|null|
@@ -170,6 +171,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-14**|**Towards Controllable Diffusion Models via Reward-Guided Exploration**|Hengtong Zhang et.al.|[2304.07132](http://arxiv.org/abs/2304.07132)|null|
+|**2023-04-14**|**Delta Denoising Score**|Amir Hertz et.al.|[2304.07090](http://arxiv.org/abs/2304.07090)|null|
+|**2023-04-14**|**DCFace: Synthetic Face Generation with Dual Condition Diffusion Model**|Minchul Kim et.al.|[2304.07060](http://arxiv.org/abs/2304.07060)|**[link](https://github.com/mk-minchul/dcface)**|
+|**2023-04-14**|**A Diffusion model for POI recommendation**|Yifang Qin et.al.|[2304.07041](http://arxiv.org/abs/2304.07041)|null|
+|**2023-04-13**|**RAFT: Reward rAnked FineTuning for Generative Foundation Model Alignment**|Hanze Dong et.al.|[2304.06767](http://arxiv.org/abs/2304.06767)|null|
 |**2023-04-13**|**Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction**|Hansheng Chen et.al.|[2304.06714](http://arxiv.org/abs/2304.06714)|null|
 |**2023-04-13**|**DiffusionRig: Learning Personalized Priors for Facial Appearance Editing**|Zheng Ding et.al.|[2304.06711](http://arxiv.org/abs/2304.06711)|null|
 |**2023-04-13**|**Learning Controllable 3D Diffusion Models from Single-view Images**|Jiatao Gu et.al.|[2304.06700](http://arxiv.org/abs/2304.06700)|null|
@@ -385,6 +391,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-14**|**Delta Denoising Score**|Amir Hertz et.al.|[2304.07090](http://arxiv.org/abs/2304.07090)|null|
+|**2023-04-14**|**Bitstream-Corrupted JPEG Images are Restorable: Two-stage Compensation and Alignment Framework for Image Restoration**|Wenyang Liu et.al.|[2304.06976](http://arxiv.org/abs/2304.06976)|**[link](https://github.com/wenyang001/two-acir)**|
 |**2023-04-13**|**Moment-based space-variant Shack-Hartmann wavefront reconstruction**|Fan Feng et.al.|[2304.06283](http://arxiv.org/abs/2304.06283)|null|
 |**2023-04-12**|**VidStyleODE: Disentangled Video Editing via StyleGAN and NeuralODEs**|Moayed Haji Ali et.al.|[2304.06020](http://arxiv.org/abs/2304.06020)|null|
 |**2023-04-12**|**Generating Aligned Pseudo-Supervision from Non-Aligned Data for Image Restoration in Under-Display Camera**|Ruicheng Feng et.al.|[2304.06019](http://arxiv.org/abs/2304.06019)|**[link](https://github.com/jnjaby/alignformer)**|

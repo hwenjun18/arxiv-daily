@@ -51,6 +51,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-17**|**Two-stage MR Image Segmentation Method for Brain Tumors based on Attention Mechanism**|Li Zhu et.al.|[2304.08072](http://arxiv.org/abs/2304.08072)|null|
+|**2023-04-16**|**Predicting unavailable parameters from existing velocity fields of turbulent flows using a GAN-based model**|Linqi Yu et.al.|[2304.07762](http://arxiv.org/abs/2304.07762)|null|
+|**2023-04-16**|**A Novel end-to-end Framework for Occluded Pixel Reconstruction with Spatio-temporal Features for Improved Person Re-identification**|Prathistith Raj Medi et.al.|[2304.07721](http://arxiv.org/abs/2304.07721)|null|
 |**2023-04-14**|**Memory Efficient Diffusion Probabilistic Models via Patch-based Generation**|Shinei Arakawa et.al.|[2304.07087](http://arxiv.org/abs/2304.07087)|null|
 |**2023-04-13**|**Improving novelty detection with generative adversarial networks on hand gesture data**|Miguel Simão et.al.|[2304.06696](http://arxiv.org/abs/2304.06696)|null|
 |**2023-04-13**|**Intriguing properties of synthetic images: from generative adversarial networks to diffusion models**|Riccardo Corvi et.al.|[2304.06408](http://arxiv.org/abs/2304.06408)|null|
@@ -171,6 +174,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-17**|**Latent-Shift: Latent Diffusion with Temporal Shift for Efficient Text-to-Video Generation**|Jie An et.al.|[2304.08477](http://arxiv.org/abs/2304.08477)|null|
+|**2023-04-17**|**Synthetic Data from Diffusion Models Improves ImageNet Classification**|Shekoofeh Azizi et.al.|[2304.08466](http://arxiv.org/abs/2304.08466)|null|
+|**2023-04-17**|**MasaCtrl: Tuning-Free Mutual Self-Attention Control for Consistent Image Synthesis and Editing**|Mingdeng Cao et.al.|[2304.08465](http://arxiv.org/abs/2304.08465)|**[link](https://github.com/tencentarc/masactrl)**|
+|**2023-04-17**|**Inverse design of next-generation superconductors using data-driven deep generative models**|Daniel Wines et.al.|[2304.08446](http://arxiv.org/abs/2304.08446)|null|
+|**2023-04-17**|**Refusion: Enabling Large-Size Realistic Image Restoration with Latent-Space Diffusion Models**|Ziwei Luo et.al.|[2304.08291](http://arxiv.org/abs/2304.08291)|**[link](https://github.com/algolzw/image-restoration-sde)**|
+|**2023-04-14**|**Text-Conditional Contextualized Avatars For Zero-Shot Personalization**|Samaneh Azadi et.al.|[2304.07410](http://arxiv.org/abs/2304.07410)|null|
 |**2023-04-14**|**Towards Controllable Diffusion Models via Reward-Guided Exploration**|Hengtong Zhang et.al.|[2304.07132](http://arxiv.org/abs/2304.07132)|null|
 |**2023-04-14**|**Delta Denoising Score**|Amir Hertz et.al.|[2304.07090](http://arxiv.org/abs/2304.07090)|null|
 |**2023-04-14**|**DCFace: Synthetic Face Generation with Dual Condition Diffusion Model**|Minchul Kim et.al.|[2304.07060](http://arxiv.org/abs/2304.07060)|**[link](https://github.com/mk-minchul/dcface)**|
@@ -391,6 +400,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-17**|**MasaCtrl: Tuning-Free Mutual Self-Attention Control for Consistent Image Synthesis and Editing**|Mingdeng Cao et.al.|[2304.08465](http://arxiv.org/abs/2304.08465)|**[link](https://github.com/tencentarc/masactrl)**|
+|**2023-04-17**|**Multiscale hierarchical decomposition methods for ill-posed problems**|Stefan Kindermann et.al.|[2304.08332](http://arxiv.org/abs/2304.08332)|null|
+|**2023-04-17**|**Refusion: Enabling Large-Size Realistic Image Restoration with Latent-Space Diffusion Models**|Ziwei Luo et.al.|[2304.08291](http://arxiv.org/abs/2304.08291)|**[link](https://github.com/algolzw/image-restoration-sde)**|
 |**2023-04-14**|**Delta Denoising Score**|Amir Hertz et.al.|[2304.07090](http://arxiv.org/abs/2304.07090)|null|
 |**2023-04-14**|**Bitstream-Corrupted JPEG Images are Restorable: Two-stage Compensation and Alignment Framework for Image Restoration**|Wenyang Liu et.al.|[2304.06976](http://arxiv.org/abs/2304.06976)|**[link](https://github.com/wenyang001/two-acir)**|
 |**2023-04-13**|**Moment-based space-variant Shack-Hartmann wavefront reconstruction**|Fan Feng et.al.|[2304.06283](http://arxiv.org/abs/2304.06283)|null|
@@ -474,6 +486,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-17**|**NeRF-Loc: Visual Localization with Conditional Neural Radiance Field**|Jianlin Liu et.al.|[2304.07979](http://arxiv.org/abs/2304.07979)|null|
+|**2023-04-16**|**CAT-NeRF: Constancy-Aware Tx $^2$ Former for Dynamic Body Modeling**|Haidong Zhu et.al.|[2304.07915](http://arxiv.org/abs/2304.07915)|null|
 |**2023-04-11**|**Light Sampling Field and BRDF Representation for Physically-based Neural Rendering**|Jing Yang et.al.|[2304.05472](http://arxiv.org/abs/2304.05472)|null|
 |**2023-04-11**|**One-Shot High-Fidelity Talking-Head Synthesis with Deformable Neural Radiance Field**|Weichuang Li et.al.|[2304.05097](http://arxiv.org/abs/2304.05097)|null|
 |**2023-04-10**|**Neural Residual Radiance Fields for Streamably Free-Viewpoint Videos**|Liao Wang et.al.|[2304.04452](http://arxiv.org/abs/2304.04452)|null|

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.04.18
+## Updated on 2023.04.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -160,10 +160,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-04-17**|**Latent-Shift: Latent Diffusion with Temporal Shift for Efficient Text-to-Video Generation**|Jie An et.al.|[2304.08477](http://arxiv.org/abs/2304.08477)|null|
+|**2023-04-18**|**Latent-Shift: Latent Diffusion with Temporal Shift for Efficient Text-to-Video Generation**|Jie An et.al.|[2304.08477](http://arxiv.org/abs/2304.08477)|null|
 |**2023-04-17**|**Synthetic Data from Diffusion Models Improves ImageNet Classification**|Shekoofeh Azizi et.al.|[2304.08466](http://arxiv.org/abs/2304.08466)|null|
 |**2023-04-17**|**MasaCtrl: Tuning-Free Mutual Self-Attention Control for Consistent Image Synthesis and Editing**|Mingdeng Cao et.al.|[2304.08465](http://arxiv.org/abs/2304.08465)|**[link](https://github.com/tencentarc/masactrl)**|
-|**2023-04-17**|**Inverse design of next-generation superconductors using data-driven deep generative models**|Daniel Wines et.al.|[2304.08446](http://arxiv.org/abs/2304.08446)|null|
+|**2023-04-18**|**Inverse design of next-generation superconductors using data-driven deep generative models**|Daniel Wines et.al.|[2304.08446](http://arxiv.org/abs/2304.08446)|null|
 |**2023-04-17**|**Refusion: Enabling Large-Size Realistic Image Restoration with Latent-Space Diffusion Models**|Ziwei Luo et.al.|[2304.08291](http://arxiv.org/abs/2304.08291)|**[link](https://github.com/algolzw/image-restoration-sde)**|
 |**2023-04-14**|**Text-Conditional Contextualized Avatars For Zero-Shot Personalization**|Samaneh Azadi et.al.|[2304.07410](http://arxiv.org/abs/2304.07410)|null|
 |**2023-04-14**|**Towards Controllable Diffusion Models via Reward-Guided Exploration**|Hengtong Zhang et.al.|[2304.07132](http://arxiv.org/abs/2304.07132)|null|
@@ -171,7 +171,7 @@ layout: default
 |**2023-04-14**|**DCFace: Synthetic Face Generation with Dual Condition Diffusion Model**|Minchul Kim et.al.|[2304.07060](http://arxiv.org/abs/2304.07060)|**[link](https://github.com/mk-minchul/dcface)**|
 |**2023-04-14**|**A Diffusion model for POI recommendation**|Yifang Qin et.al.|[2304.07041](http://arxiv.org/abs/2304.07041)|null|
 |**2023-04-13**|**RAFT: Reward rAnked FineTuning for Generative Foundation Model Alignment**|Hanze Dong et.al.|[2304.06767](http://arxiv.org/abs/2304.06767)|null|
-|**2023-04-13**|**Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction**|Hansheng Chen et.al.|[2304.06714](http://arxiv.org/abs/2304.06714)|null|
+|**2023-04-17**|**Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction**|Hansheng Chen et.al.|[2304.06714](http://arxiv.org/abs/2304.06714)|null|
 |**2023-04-13**|**DiffusionRig: Learning Personalized Priors for Facial Appearance Editing**|Zheng Ding et.al.|[2304.06711](http://arxiv.org/abs/2304.06711)|null|
 |**2023-04-13**|**Learning Controllable 3D Diffusion Models from Single-view Images**|Jiatao Gu et.al.|[2304.06700](http://arxiv.org/abs/2304.06700)|null|
 |**2023-04-13**|**DiffFit: Unlocking Transferability of Large Diffusion Models via Simple Parameter-Efficient Fine-Tuning**|Enze Xie et.al.|[2304.06648](http://arxiv.org/abs/2304.06648)|null|
@@ -469,7 +469,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-04-17**|**NeRF-Loc: Visual Localization with Conditional Neural Radiance Field**|Jianlin Liu et.al.|[2304.07979](http://arxiv.org/abs/2304.07979)|null|
-|**2023-04-16**|**CAT-NeRF: Constancy-Aware Tx $^2$ Former for Dynamic Body Modeling**|Haidong Zhu et.al.|[2304.07915](http://arxiv.org/abs/2304.07915)|null|
+|**2023-04-16**|**CAT-NeRF: Constancy-Aware Tx $^2$ Former for Dynamic Body Modeling**|Haidong Zhu et.al.|[2304.07915](http://arxiv.org/abs/2304.07915)|**[link](https://github.com/haidongz-usc/CAT-NeRF)**|
 |**2023-04-11**|**Light Sampling Field and BRDF Representation for Physically-based Neural Rendering**|Jing Yang et.al.|[2304.05472](http://arxiv.org/abs/2304.05472)|null|
 |**2023-04-11**|**One-Shot High-Fidelity Talking-Head Synthesis with Deformable Neural Radiance Field**|Weichuang Li et.al.|[2304.05097](http://arxiv.org/abs/2304.05097)|null|
 |**2023-04-10**|**Neural Residual Radiance Fields for Streamably Free-Viewpoint Videos**|Liao Wang et.al.|[2304.04452](http://arxiv.org/abs/2304.04452)|null|
@@ -568,7 +568,7 @@ layout: default
 |**2023-04-10**|**Coincidental Generation**|Jordan W. Suchow et.al.|[2304.01108](http://arxiv.org/abs/2304.01108)|null|
 |**2023-03-30**|**SARGAN: Spatial Attention-based Residuals for Facial Expression Manipulation**|Arbish Akram et.al.|[2303.17212](http://arxiv.org/abs/2303.17212)|null|
 |**2023-03-29**|**On the Design of Limit Cycles of Planar Switching Affine Systems**|Nils Hanke et.al.|[2303.16505](http://arxiv.org/abs/2303.16505)|null|
-|**2023-03-29**|**Dynamical Modularity in Automata Models of Biochemical Networks**|Thomas Parmer et.al.|[2303.16361](http://arxiv.org/abs/2303.16361)|**[link](https://github.com/tjparmer/dynamical_modularity)**|
+|**2023-04-17**|**Dynamical Modularity in Automata Models of Biochemical Networks**|Thomas Parmer et.al.|[2303.16361](http://arxiv.org/abs/2303.16361)|**[link](https://github.com/tjparmer/dynamical_modularity)**|
 |**2023-04-10**|**Pattern Recognition on Oriented Matroids: Symmetric Cycles in the Hypercube Graphs. VI**|Andrey O. Matveev et.al.|[2303.16135](http://arxiv.org/abs/2303.16135)|null|
 |**2023-03-28**|**Dynamical Behaviors of Small-scale Buoyant Diffusion Flame Oscillators in Externally Swirling Flows**|Tao Yang et.al.|[2303.15789](http://arxiv.org/abs/2303.15789)|null|
 |**2023-03-26**|**OTAvatar: One-shot Talking Face Avatar with Controllable Tri-plane Rendering**|Zhiyuan Ma et.al.|[2303.14662](http://arxiv.org/abs/2303.14662)|**[link](https://github.com/theericma/otavatar)**|

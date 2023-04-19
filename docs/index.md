@@ -39,6 +39,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-18**|**Performance of GAN-based augmentation for deep learning COVID-19 image classification**|Oleksandr Fedoruk et.al.|[2304.09067](http://arxiv.org/abs/2304.09067)|null|
+|**2023-04-18**|**Look ATME: The Discriminator Mean Entropy Needs Attention**|Edgardo Solano-Carrillo et.al.|[2304.09024](http://arxiv.org/abs/2304.09024)|**[link](https://github.com/dlr-mi/atme)**|
+|**2023-04-18**|**TTIDA: Controllable Generative Data Augmentation via Text-to-Text and Text-to-Image Models**|Yuwei Yin et.al.|[2304.08821](http://arxiv.org/abs/2304.08821)|null|
+|**2023-04-17**|**Insta(nt) Pet Therapy: GAN-generated Images for Therapeutic Social Media Content**|Tanish Jain et.al.|[2304.08665](http://arxiv.org/abs/2304.08665)|null|
 |**2023-04-17**|**Two-stage MR Image Segmentation Method for Brain Tumors based on Attention Mechanism**|Li Zhu et.al.|[2304.08072](http://arxiv.org/abs/2304.08072)|null|
 |**2023-04-16**|**Predicting unavailable parameters from existing velocity fields of turbulent flows using a GAN-based model**|Linqi Yu et.al.|[2304.07762](http://arxiv.org/abs/2304.07762)|null|
 |**2023-04-16**|**A Novel end-to-end Framework for Occluded Pixel Reconstruction with Spatio-temporal Features for Improved Person Re-identification**|Prathistith Raj Medi et.al.|[2304.07721](http://arxiv.org/abs/2304.07721)|null|
@@ -160,6 +164,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-18**|**NaturalSpeech 2: Latent Diffusion Models are Natural and Zero-Shot Speech and Singing Synthesizers**|Kai Shen et.al.|[2304.09116](http://arxiv.org/abs/2304.09116)|null|
+|**2023-04-18**|**Look ATME: The Discriminator Mean Entropy Needs Attention**|Edgardo Solano-Carrillo et.al.|[2304.09024](http://arxiv.org/abs/2304.09024)|**[link](https://github.com/dlr-mi/atme)**|
+|**2023-04-18**|**UPGPT: Universal Diffusion Model for Person Image Generation, Editing and Pose Transfer**|Soon Yau Cheong et.al.|[2304.08870](http://arxiv.org/abs/2304.08870)|null|
+|**2023-04-18**|**Two-stage Denoising Diffusion Model for Source Localization in Graph Inverse Problems**|Bosong Huang et.al.|[2304.08841](http://arxiv.org/abs/2304.08841)|null|
+|**2023-04-18**|**TTIDA: Controllable Generative Data Augmentation via Text-to-Text and Text-to-Image Models**|Yuwei Yin et.al.|[2304.08821](http://arxiv.org/abs/2304.08821)|null|
+|**2023-04-18**|**Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models**|Andreas Blattmann et.al.|[2304.08818](http://arxiv.org/abs/2304.08818)|null|
+|**2023-04-17**|**Avatars Grow Legs: Generating Smooth Human Motion from Sparse Tracking Inputs with Diffusion Model**|Yuming Du et.al.|[2304.08577](http://arxiv.org/abs/2304.08577)|null|
 |**2023-04-18**|**Latent-Shift: Latent Diffusion with Temporal Shift for Efficient Text-to-Video Generation**|Jie An et.al.|[2304.08477](http://arxiv.org/abs/2304.08477)|null|
 |**2023-04-17**|**Synthetic Data from Diffusion Models Improves ImageNet Classification**|Shekoofeh Azizi et.al.|[2304.08466](http://arxiv.org/abs/2304.08466)|null|
 |**2023-04-17**|**MasaCtrl: Tuning-Free Mutual Self-Attention Control for Consistent Image Synthesis and Editing**|Mingdeng Cao et.al.|[2304.08465](http://arxiv.org/abs/2304.08465)|**[link](https://github.com/tencentarc/masactrl)**|
@@ -468,6 +479,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-18**|**Looking Through the Glass: Neural Surface Reconstruction Against High Specular Reflections**|Jiaxiong Qiu et.al.|[2304.08706](http://arxiv.org/abs/2304.08706)|null|
 |**2023-04-17**|**NeRF-Loc: Visual Localization with Conditional Neural Radiance Field**|Jianlin Liu et.al.|[2304.07979](http://arxiv.org/abs/2304.07979)|null|
 |**2023-04-16**|**CAT-NeRF: Constancy-Aware Tx $^2$ Former for Dynamic Body Modeling**|Haidong Zhu et.al.|[2304.07915](http://arxiv.org/abs/2304.07915)|**[link](https://github.com/haidongz-usc/CAT-NeRF)**|
 |**2023-04-11**|**Light Sampling Field and BRDF Representation for Physically-based Neural Rendering**|Jing Yang et.al.|[2304.05472](http://arxiv.org/abs/2304.05472)|null|

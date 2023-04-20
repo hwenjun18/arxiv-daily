@@ -39,6 +39,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-19**|**Any-to-Any Style Transfer**|Songhua Liu et.al.|[2304.09728](http://arxiv.org/abs/2304.09728)|**[link](https://github.com/huage001/transfer-any-style)**|
+|**2023-04-19**|**StyleDEM: a Versatile Model for Authoring Terrains**|Simon Perche et.al.|[2304.09626](http://arxiv.org/abs/2304.09626)|null|
+|**2023-04-19**|**Towards Co-Creative Generative Adversarial Networks for Fashion Designers**|Imke Grabe et.al.|[2304.09477](http://arxiv.org/abs/2304.09477)|null|
+|**2023-04-19**|**SP-BatikGAN: An Efficient Generative Adversarial Network for Symmetric Pattern Generation**|Chrystian et.al.|[2304.09384](http://arxiv.org/abs/2304.09384)|null|
+|**2023-04-19**|**Physical Knowledge Enhanced Deep Neural Network for Sea Surface Temperature Prediction**|Yuxin Meng et.al.|[2304.09376](http://arxiv.org/abs/2304.09376)|null|
 |**2023-04-18**|**Performance of GAN-based augmentation for deep learning COVID-19 image classification**|Oleksandr Fedoruk et.al.|[2304.09067](http://arxiv.org/abs/2304.09067)|null|
 |**2023-04-18**|**Look ATME: The Discriminator Mean Entropy Needs Attention**|Edgardo Solano-Carrillo et.al.|[2304.09024](http://arxiv.org/abs/2304.09024)|**[link](https://github.com/dlr-mi/atme)**|
 |**2023-04-18**|**TTIDA: Controllable Generative Data Augmentation via Text-to-Text and Text-to-Image Models**|Yuwei Yin et.al.|[2304.08821](http://arxiv.org/abs/2304.08821)|null|
@@ -164,6 +169,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-19**|**NeuralField-LDM: Scene Generation with Hierarchical Latent Diffusion Models**|Seung Wook Kim et.al.|[2304.09787](http://arxiv.org/abs/2304.09787)|null|
+|**2023-04-17**|**Attributing Image Generative Models using Latent Fingerprints**|Guangyu Nie et.al.|[2304.09752](http://arxiv.org/abs/2304.09752)|**[link](https://github.com/guangyunie/watermarking-through-style-space-edition)**|
+|**2023-04-19**|**Realistic Data Enrichment for Robust Image Segmentation in Histopathology**|Sarah Cechnicka et.al.|[2304.09534](http://arxiv.org/abs/2304.09534)|null|
+|**2023-04-19**|**Latent Semantic Diffusion-based Channel Adaptive De-Noising SemCom for Future 6G Systems**|Bingxuan Xu et.al.|[2304.09420](http://arxiv.org/abs/2304.09420)|null|
 |**2023-04-18**|**NaturalSpeech 2: Latent Diffusion Models are Natural and Zero-Shot Speech and Singing Synthesizers**|Kai Shen et.al.|[2304.09116](http://arxiv.org/abs/2304.09116)|null|
 |**2023-04-18**|**Look ATME: The Discriminator Mean Entropy Needs Attention**|Edgardo Solano-Carrillo et.al.|[2304.09024](http://arxiv.org/abs/2304.09024)|**[link](https://github.com/dlr-mi/atme)**|
 |**2023-04-18**|**UPGPT: Universal Diffusion Model for Person Image Generation, Editing and Pose Transfer**|Soon Yau Cheong et.al.|[2304.08870](http://arxiv.org/abs/2304.08870)|null|
@@ -395,6 +404,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-19**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854](http://arxiv.org/abs/2304.09854)|**[link](https://github.com/lxtgh/awesome-segmenation-with-transformer)**|
+|**2023-04-19**|**Any-to-Any Style Transfer**|Songhua Liu et.al.|[2304.09728](http://arxiv.org/abs/2304.09728)|**[link](https://github.com/huage001/transfer-any-style)**|
 |**2023-04-17**|**MasaCtrl: Tuning-Free Mutual Self-Attention Control for Consistent Image Synthesis and Editing**|Mingdeng Cao et.al.|[2304.08465](http://arxiv.org/abs/2304.08465)|**[link](https://github.com/tencentarc/masactrl)**|
 |**2023-04-17**|**Multiscale hierarchical decomposition methods for ill-posed problems**|Stefan Kindermann et.al.|[2304.08332](http://arxiv.org/abs/2304.08332)|null|
 |**2023-04-17**|**Refusion: Enabling Large-Size Realistic Image Restoration with Latent-Space Diffusion Models**|Ziwei Luo et.al.|[2304.08291](http://arxiv.org/abs/2304.08291)|**[link](https://github.com/algolzw/image-restoration-sde)**|
@@ -403,7 +414,7 @@ layout: default
 |**2023-04-13**|**Moment-based space-variant Shack-Hartmann wavefront reconstruction**|Fan Feng et.al.|[2304.06283](http://arxiv.org/abs/2304.06283)|null|
 |**2023-04-12**|**VidStyleODE: Disentangled Video Editing via StyleGAN and NeuralODEs**|Moayed Haji Ali et.al.|[2304.06020](http://arxiv.org/abs/2304.06020)|null|
 |**2023-04-12**|**Generating Aligned Pseudo-Supervision from Non-Aligned Data for Image Restoration in Under-Display Camera**|Ruicheng Feng et.al.|[2304.06019](http://arxiv.org/abs/2304.06019)|**[link](https://github.com/jnjaby/alignformer)**|
-|**2023-04-12**|**NoisyTwins: Class-Consistent and Diverse Image Generation through StyleGANs**|Harsh Rangwani et.al.|[2304.05866](http://arxiv.org/abs/2304.05866)|null|
+|**2023-04-12**|**NoisyTwins: Class-Consistent and Diverse Image Generation through StyleGANs**|Harsh Rangwani et.al.|[2304.05866](http://arxiv.org/abs/2304.05866)|**[link](https://github.com/val-iisc/NoisyTwins)**|
 |**2023-04-12**|**Improving Diffusion Models for Scene Text Editing with Dual Encoders**|Jiabao Ji et.al.|[2304.05568](http://arxiv.org/abs/2304.05568)|**[link](https://github.com/ucsb-nlp-chang/diffste)**|
 |**2023-04-11**|**NeAT: Neural Artistic Tracing for Beautiful Style Transfer**|Dan Ruta et.al.|[2304.05139](http://arxiv.org/abs/2304.05139)|**[link](https://github.com/danruta/neat)**|
 |**2023-04-10**|**Deep Image Matting: A Comprehensive Survey**|Jizhizi Li et.al.|[2304.04672](http://arxiv.org/abs/2304.04672)|**[link](https://github.com/jizhizili/matting-survey)**|
@@ -479,8 +490,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-04-18**|**Looking Through the Glass: Neural Surface Reconstruction Against High Specular Reflections**|Jiaxiong Qiu et.al.|[2304.08706](http://arxiv.org/abs/2304.08706)|null|
-|**2023-04-17**|**NeRF-Loc: Visual Localization with Conditional Neural Radiance Field**|Jianlin Liu et.al.|[2304.07979](http://arxiv.org/abs/2304.07979)|null|
+|**2023-04-18**|**Looking Through the Glass: Neural Surface Reconstruction Against High Specular Reflections**|Jiaxiong Qiu et.al.|[2304.08706](http://arxiv.org/abs/2304.08706)|**[link](https://github.com/jiaxiongq/neus-hsr)**|
+|**2023-04-17**|**NeRF-Loc: Visual Localization with Conditional Neural Radiance Field**|Jianlin Liu et.al.|[2304.07979](http://arxiv.org/abs/2304.07979)|**[link](https://github.com/jenningsl/nerf-loc)**|
 |**2023-04-16**|**CAT-NeRF: Constancy-Aware Tx $^2$ Former for Dynamic Body Modeling**|Haidong Zhu et.al.|[2304.07915](http://arxiv.org/abs/2304.07915)|**[link](https://github.com/haidongz-usc/CAT-NeRF)**|
 |**2023-04-11**|**Light Sampling Field and BRDF Representation for Physically-based Neural Rendering**|Jing Yang et.al.|[2304.05472](http://arxiv.org/abs/2304.05472)|null|
 |**2023-04-11**|**One-Shot High-Fidelity Talking-Head Synthesis with Deformable Neural Radiance Field**|Weichuang Li et.al.|[2304.05097](http://arxiv.org/abs/2304.05097)|null|
@@ -570,6 +581,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-19**|**HyperStyle3D: Text-Guided 3D Portrait Stylization via Hypernetworks**|Zhuo Chen et.al.|[2304.09463](http://arxiv.org/abs/2304.09463)|null|
 |**2023-04-13**|**DiffusionRig: Learning Personalized Priors for Facial Appearance Editing**|Zheng Ding et.al.|[2304.06711](http://arxiv.org/abs/2304.06711)|null|
 |**2023-04-12**|**EgoDist: Comparing networks via distributions of egonet features**|Carlo Piccardi et.al.|[2304.05801](http://arxiv.org/abs/2304.05801)|null|
 |**2023-04-12**|**An Image Quality Assessment Dataset for Portraits**|Nicolas Chahine et.al.|[2304.05772](http://arxiv.org/abs/2304.05772)|**[link](https://github.com/dxomark-research/piq2023)**|

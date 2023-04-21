@@ -39,6 +39,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-20**|**LiDAR-NeRF: Novel LiDAR View Synthesis via Neural Radiance Fields**|Tang Tao et.al.|[2304.10406](http://arxiv.org/abs/2304.10406)|null|
+|**2023-04-19**|**Conditional Generative Models for Learning Stochastic Processes**|Salvatore Certo et.al.|[2304.10382](http://arxiv.org/abs/2304.10382)|null|
+|**2023-04-20**|**Adaptive Consensus Optimization Method for GANs**|Sachin Kumar Danisetty et.al.|[2304.10317](http://arxiv.org/abs/2304.10317)|null|
+|**2023-04-20**|**Towards replacing precipitation ensemble predictions systems using machine learning**|Rüdiger Brecht et.al.|[2304.10251](http://arxiv.org/abs/2304.10251)|**[link](https://github.com/rudigerbrecht/towards-replacing-precipitation-ensemble-predictions-systems-using-machine-learning-)**|
+|**2023-04-20**|**Machine learning traction force maps of cell monolayers**|Changhao Li et.al.|[2304.10065](http://arxiv.org/abs/2304.10065)|null|
+|**2023-04-19**|**GREAT Score: Global Robustness Evaluation of Adversarial Perturbation using Generative Models**|Li Zaitang et.al.|[2304.09875](http://arxiv.org/abs/2304.09875)|null|
 |**2023-04-20**|**Any-to-Any Style Transfer: Making Picasso and Da Vinci Collaborate**|Songhua Liu et.al.|[2304.09728](http://arxiv.org/abs/2304.09728)|**[link](https://github.com/huage001/transfer-any-style)**|
 |**2023-04-19**|**StyleDEM: a Versatile Model for Authoring Terrains**|Simon Perche et.al.|[2304.09626](http://arxiv.org/abs/2304.09626)|null|
 |**2023-04-19**|**Towards Co-Creative Generative Adversarial Networks for Fashion Designers**|Imke Grabe et.al.|[2304.09477](http://arxiv.org/abs/2304.09477)|null|
@@ -169,6 +175,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-20**|**Farm3D: Learning Articulated 3D Animals by Distilling 2D Diffusion**|Tomas Jakab et.al.|[2304.10535](http://arxiv.org/abs/2304.10535)|null|
+|**2023-04-20**|**Collaborative Diffusion for Multi-Modal Face Generation and Editing**|Ziqi Huang et.al.|[2304.10530](http://arxiv.org/abs/2304.10530)|**[link](https://github.com/ziqihuangg/collaborative-diffusion)**|
+|**2023-04-19**|**Anything-3D: Towards Single-view Anything Reconstruction in the Wild**|Qiuhong Shen et.al.|[2304.10261](http://arxiv.org/abs/2304.10261)|**[link](https://github.com/anything-of-anything/anything-3d)**|
+|**2023-04-20**|**A data augmentation perspective on diffusion models and retrieval**|Max F. Burg et.al.|[2304.10253](http://arxiv.org/abs/2304.10253)|null|
 |**2023-04-19**|**NeuralField-LDM: Scene Generation with Hierarchical Latent Diffusion Models**|Seung Wook Kim et.al.|[2304.09787](http://arxiv.org/abs/2304.09787)|null|
 |**2023-04-17**|**Attributing Image Generative Models using Latent Fingerprints**|Guangyu Nie et.al.|[2304.09752](http://arxiv.org/abs/2304.09752)|**[link](https://github.com/guangyunie/watermarking-through-style-space-edition)**|
 |**2023-04-19**|**Realistic Data Enrichment for Robust Image Segmentation in Histopathology**|Sarah Cechnicka et.al.|[2304.09534](http://arxiv.org/abs/2304.09534)|null|
@@ -404,6 +414,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-20**|**PREIM3D: 3D Consistent Precise Image Attribute Editing from a Single Image**|Jianhui Li et.al.|[2304.10263](http://arxiv.org/abs/2304.10263)|null|
+|**2023-04-20**|**Revisiting Implicit Neural Representations in Low-Level Vision**|Wentian Xu et.al.|[2304.10250](http://arxiv.org/abs/2304.10250)|**[link](https://github.com/wentxul/linr)**|
 |**2023-04-19**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854](http://arxiv.org/abs/2304.09854)|**[link](https://github.com/lxtgh/awesome-segmenation-with-transformer)**|
 |**2023-04-20**|**Any-to-Any Style Transfer: Making Picasso and Da Vinci Collaborate**|Songhua Liu et.al.|[2304.09728](http://arxiv.org/abs/2304.09728)|**[link](https://github.com/huage001/transfer-any-style)**|
 |**2023-04-17**|**MasaCtrl: Tuning-Free Mutual Self-Attention Control for Consistent Image Synthesis and Editing**|Mingdeng Cao et.al.|[2304.08465](http://arxiv.org/abs/2304.08465)|**[link](https://github.com/tencentarc/masactrl)**|
@@ -490,6 +502,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-20**|**NeUDF: Leaning Neural Unsigned Distance Fields with Volume Rendering**|Yu-Tao Liu et.al.|[2304.10080](http://arxiv.org/abs/2304.10080)|null|
+|**2023-04-20**|**Multiscale Representation for Real-Time Anti-Aliasing Neural Rendering**|Dongting Hu et.al.|[2304.10075](http://arxiv.org/abs/2304.10075)|null|
 |**2023-04-18**|**Looking Through the Glass: Neural Surface Reconstruction Against High Specular Reflections**|Jiaxiong Qiu et.al.|[2304.08706](http://arxiv.org/abs/2304.08706)|**[link](https://github.com/jiaxiongq/neus-hsr)**|
 |**2023-04-17**|**NeRF-Loc: Visual Localization with Conditional Neural Radiance Field**|Jianlin Liu et.al.|[2304.07979](http://arxiv.org/abs/2304.07979)|**[link](https://github.com/jenningsl/nerf-loc)**|
 |**2023-04-16**|**CAT-NeRF: Constancy-Aware Tx $^2$ Former for Dynamic Body Modeling**|Haidong Zhu et.al.|[2304.07915](http://arxiv.org/abs/2304.07915)|**[link](https://github.com/haidongz-usc/CAT-NeRF)**|

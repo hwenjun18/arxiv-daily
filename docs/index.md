@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.04.20
+## Updated on 2023.04.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -39,7 +39,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-04-19**|**Any-to-Any Style Transfer**|Songhua Liu et.al.|[2304.09728](http://arxiv.org/abs/2304.09728)|**[link](https://github.com/huage001/transfer-any-style)**|
+|**2023-04-20**|**Any-to-Any Style Transfer: Making Picasso and Da Vinci Collaborate**|Songhua Liu et.al.|[2304.09728](http://arxiv.org/abs/2304.09728)|**[link](https://github.com/huage001/transfer-any-style)**|
 |**2023-04-19**|**StyleDEM: a Versatile Model for Authoring Terrains**|Simon Perche et.al.|[2304.09626](http://arxiv.org/abs/2304.09626)|null|
 |**2023-04-19**|**Towards Co-Creative Generative Adversarial Networks for Fashion Designers**|Imke Grabe et.al.|[2304.09477](http://arxiv.org/abs/2304.09477)|null|
 |**2023-04-19**|**SP-BatikGAN: An Efficient Generative Adversarial Network for Symmetric Pattern Generation**|Chrystian et.al.|[2304.09384](http://arxiv.org/abs/2304.09384)|null|
@@ -405,7 +405,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-04-19**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854](http://arxiv.org/abs/2304.09854)|**[link](https://github.com/lxtgh/awesome-segmenation-with-transformer)**|
-|**2023-04-19**|**Any-to-Any Style Transfer**|Songhua Liu et.al.|[2304.09728](http://arxiv.org/abs/2304.09728)|**[link](https://github.com/huage001/transfer-any-style)**|
+|**2023-04-20**|**Any-to-Any Style Transfer: Making Picasso and Da Vinci Collaborate**|Songhua Liu et.al.|[2304.09728](http://arxiv.org/abs/2304.09728)|**[link](https://github.com/huage001/transfer-any-style)**|
 |**2023-04-17**|**MasaCtrl: Tuning-Free Mutual Self-Attention Control for Consistent Image Synthesis and Editing**|Mingdeng Cao et.al.|[2304.08465](http://arxiv.org/abs/2304.08465)|**[link](https://github.com/tencentarc/masactrl)**|
 |**2023-04-17**|**Multiscale hierarchical decomposition methods for ill-posed problems**|Stefan Kindermann et.al.|[2304.08332](http://arxiv.org/abs/2304.08332)|null|
 |**2023-04-17**|**Refusion: Enabling Large-Size Realistic Image Restoration with Latent-Space Diffusion Models**|Ziwei Luo et.al.|[2304.08291](http://arxiv.org/abs/2304.08291)|**[link](https://github.com/algolzw/image-restoration-sde)**|

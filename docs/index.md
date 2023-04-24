@@ -39,6 +39,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-19**|**Affective social anthropomorphic intelligent system**|Md. Adyelullahil Mamun et.al.|[2304.11046](http://arxiv.org/abs/2304.11046)|null|
+|**2023-04-21**|**Near-Optimal Decentralized Momentum Method for Nonconvex-PL Minimax Problems**|Feihu Huang et.al.|[2304.10902](http://arxiv.org/abs/2304.10902)|null|
+|**2023-04-21**|**Application of quantum-inspired generative models to small molecular datasets**|C. Moussa et.al.|[2304.10867](http://arxiv.org/abs/2304.10867)|null|
+|**2023-04-21**|**Matching-based Data Valuation for Generative Model**|Jiaxi Yang et.al.|[2304.10701](http://arxiv.org/abs/2304.10701)|null|
+|**2023-04-20**|**A Plug-and-Play Defensive Perturbation for Copyright Protection of DNN-based Applications**|Donghua Wang et.al.|[2304.10679](http://arxiv.org/abs/2304.10679)|null|
 |**2023-04-20**|**LiDAR-NeRF: Novel LiDAR View Synthesis via Neural Radiance Fields**|Tang Tao et.al.|[2304.10406](http://arxiv.org/abs/2304.10406)|null|
 |**2023-04-21**|**Conditional Generative Models for Learning Stochastic Processes**|Salvatore Certo et.al.|[2304.10382](http://arxiv.org/abs/2304.10382)|null|
 |**2023-04-20**|**Adaptive Consensus Optimization Method for GANs**|Sachin Kumar Danisetty et.al.|[2304.10317](http://arxiv.org/abs/2304.10317)|null|
@@ -175,6 +180,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-21**|**BoDiffusion: Diffusing Sparse Observations for Full-Body Human Motion Synthesis**|Angela Castillo et.al.|[2304.11118](http://arxiv.org/abs/2304.11118)|null|
+|**2023-04-21**|**Optimal control of a reaction-diffusion model related to the spread of COVID-19**|Pierluigi Colli et.al.|[2304.11114](http://arxiv.org/abs/2304.11114)|null|
+|**2023-04-21**|**Improved Diffusion-based Image Colorization via Piggybacked Models**|Hanyuan Liu et.al.|[2304.11105](http://arxiv.org/abs/2304.11105)|null|
+|**2023-04-21**|**The evolution problem for the 1D nonlocal Fisher-KPP equation with a top hat kernel. Part 2. The Cauchy problem on a finite interval**|D. J. Needham et.al.|[2304.10935](http://arxiv.org/abs/2304.10935)|null|
+|**2023-04-21**|**Matching-based Data Valuation for Generative Model**|Jiaxi Yang et.al.|[2304.10701](http://arxiv.org/abs/2304.10701)|null|
+|**2023-04-21**|**Long-Term Photometric Consistent Novel View Synthesis with Diffusion Models**|Jason J. Yu et.al.|[2304.10700](http://arxiv.org/abs/2304.10700)|null|
 |**2023-04-20**|**Farm3D: Learning Articulated 3D Animals by Distilling 2D Diffusion**|Tomas Jakab et.al.|[2304.10535](http://arxiv.org/abs/2304.10535)|null|
 |**2023-04-20**|**Collaborative Diffusion for Multi-Modal Face Generation and Editing**|Ziqi Huang et.al.|[2304.10530](http://arxiv.org/abs/2304.10530)|**[link](https://github.com/ziqihuangg/collaborative-diffusion)**|
 |**2023-04-19**|**Anything-3D: Towards Single-view Anything Reconstruction in the Wild**|Qiuhong Shen et.al.|[2304.10261](http://arxiv.org/abs/2304.10261)|**[link](https://github.com/anything-of-anything/anything-3d)**|

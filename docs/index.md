@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.04.24
+## Updated on 2023.04.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -611,7 +611,7 @@ layout: default
 |**2023-04-12**|**EgoDist: Comparing networks via distributions of egonet features**|Carlo Piccardi et.al.|[2304.05801](http://arxiv.org/abs/2304.05801)|null|
 |**2023-04-12**|**An Image Quality Assessment Dataset for Portraits**|Nicolas Chahine et.al.|[2304.05772](http://arxiv.org/abs/2304.05772)|**[link](https://github.com/dxomark-research/piq2023)**|
 |**2023-04-10**|**ITportrait: Image-Text Coupled 3D Portrait Domain Adaptation**|Xiangwen Deng et.al.|[2304.04364](http://arxiv.org/abs/2304.04364)|null|
-|**2023-04-08**|**Region-Aware Portrait Retouching with Sparse Interactive Guidance**|Huimin Zeng et.al.|[2304.04017](http://arxiv.org/abs/2304.04017)|**[link](https://github.com/zeldam1/interactive_portrat_retouching)**|
+|**2023-04-24**|**Region-Aware Portrait Retouching with Sparse Interactive Guidance**|Huimin Zeng et.al.|[2304.04017](http://arxiv.org/abs/2304.04017)|**[link](https://github.com/zeldam1/interactive_portrat_retouching)**|
 |**2023-04-07**|**What does ChatGPT return about human values? Exploring value bias in ChatGPT using a descriptive value theory**|Ronald Fischer et.al.|[2304.03612](http://arxiv.org/abs/2304.03612)|null|
 |**2023-04-06**|**Interpretable statistical representations of neural population dynamics and geometry**|Adam Gosztolai et.al.|[2304.03376](http://arxiv.org/abs/2304.03376)|**[link](https://github.com/agosztolai/marble)**|
 |**2023-04-10**|**Coincidental Generation**|Jordan W. Suchow et.al.|[2304.01108](http://arxiv.org/abs/2304.01108)|null|
@@ -625,7 +625,7 @@ layout: default
 |**2023-03-25**|**LPFF: A Portrait Dataset for Face Generators Across Large Poses**|Yiqian Wu et.al.|[2303.14407](http://arxiv.org/abs/2303.14407)|null|
 |**2023-03-24**|**AgileGAN3D: Few-Shot 3D Portrait Stylization by Augmented Transfer Learning**|Guoxian Song et.al.|[2303.14297](http://arxiv.org/abs/2303.14297)|null|
 |**2023-03-22**|**LightPainter: Interactive Portrait Relighting with Freehand Scribble**|Yiqun Mei et.al.|[2303.12950](http://arxiv.org/abs/2303.12950)|null|
-|**2023-03-28**|**A Visual Modeling Method for Spatiotemporal and Multidimensional Features in Epidemiological Analysis: Applied COVID-19 Aggregated Datasets**|Yu Dong et.al.|[2303.12092](http://arxiv.org/abs/2303.12092)|**[link](https://github.com/yudong5018/msrnaers)**|
+|**2023-04-23**|**A Visual Modeling Method for Spatiotemporal and Multidimensional Features in Epidemiological Analysis: Applied COVID-19 Aggregated Datasets**|Yu Dong et.al.|[2303.12092](http://arxiv.org/abs/2303.12092)|**[link](https://github.com/yudong5018/msrnaers)**|
 |**2023-03-20**|**An analysis of $\mathbb{P}$ -invariance and dynamical compensation properties from a control perspective**|Akram Ashyani et.al.|[2303.10996](http://arxiv.org/abs/2303.10996)|null|
 |**2023-03-20**|**Bifurcation analysis of the Keynesian cross model**|Xinyu Li et.al.|[2303.10835](http://arxiv.org/abs/2303.10835)|null|
 |**2023-03-16**|**Cosmological implication of $f(T)$ gravity models through phase space analysis**|L. K. Duchaniya et.al.|[2303.09076](http://arxiv.org/abs/2303.09076)|null|

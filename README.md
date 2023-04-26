@@ -51,6 +51,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-25**|**The Score-Difference Flow for Implicit Generative Modeling**|Romann M. Weber et.al.|[2304.12906](http://arxiv.org/abs/2304.12906)|null|
+|**2023-04-25**|**Latent diffusion models for generative precipitation nowcasting with accurate uncertainty quantification**|Jussi Leinonen et.al.|[2304.12891](http://arxiv.org/abs/2304.12891)|null|
+|**2023-04-24**|**Unsupervised Style-based Explicit 3D Face Reconstruction from Single Image**|Heng Yu et.al.|[2304.12455](http://arxiv.org/abs/2304.12455)|null|
 |**2023-04-24**|**GRIG: Few-Shot Generative Residual Image Inpainting**|Wanglong Lu et.al.|[2304.12035](http://arxiv.org/abs/2304.12035)|null|
 |**2023-04-24**|**Incorporating Experts' Judgment into Machine Learning Models**|Hogun Park et.al.|[2304.11870](http://arxiv.org/abs/2304.11870)|null|
 |**2023-04-24**|**Portfolio Optimization using Predictive Auxiliary Classifier Generative Adversarial Networks with Measuring Uncertainty**|Jiwook Kim et.al.|[2304.11856](http://arxiv.org/abs/2304.11856)|null|
@@ -207,6 +210,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-25**|**The Score-Difference Flow for Implicit Generative Modeling**|Romann M. Weber et.al.|[2304.12906](http://arxiv.org/abs/2304.12906)|null|
+|**2023-04-25**|**Latent diffusion models for generative precipitation nowcasting with accurate uncertainty quantification**|Jussi Leinonen et.al.|[2304.12891](http://arxiv.org/abs/2304.12891)|null|
+|**2023-04-25**|**Contrastive Energy Prediction for Exact Energy-Guided Diffusion Sampling in Offline Reinforcement Learning**|Cheng Lu et.al.|[2304.12824](http://arxiv.org/abs/2304.12824)|null|
+|**2023-04-25**|**CoDi: Co-evolving Contrastive Diffusion Models for Mixed-type Tabular Synthesis**|Chaejeong Lee et.al.|[2304.12654](http://arxiv.org/abs/2304.12654)|null|
+|**2023-04-25**|**Exploring Compositional Visual Generation with Latent Classifier Guidance**|Changhao Shi et.al.|[2304.12536](http://arxiv.org/abs/2304.12536)|null|
+|**2023-04-25**|**Patch Diffusion: Faster and More Data-Efficient Training of Diffusion Models**|Zhendong Wang et.al.|[2304.12526](http://arxiv.org/abs/2304.12526)|null|
+|**2023-04-25**|**RenderDiffusion: Text Generation as Image Generation**|Junyi Li et.al.|[2304.12519](http://arxiv.org/abs/2304.12519)|null|
+|**2023-04-24**|**TextMesh: Generation of Realistic 3D Meshes From Text Prompts**|Christina Tsalicoglou et.al.|[2304.12439](http://arxiv.org/abs/2304.12439)|null|
+|**2023-04-24**|**Generative Discovery of Novel Chemical Designs using Diffusion Modeling and Transformer Deep Neural Networks with Application to Deep Eutectic Solvents**|Rachel K. Luu et.al.|[2304.12400](http://arxiv.org/abs/2304.12400)|null|
 |**2023-04-24**|**Approximation of Optimal Control Surfaces for the Bass Model with Stochastic Dynamics**|Gabriel Nicolosi et.al.|[2304.12265](http://arxiv.org/abs/2304.12265)|null|
 |**2023-04-24**|**Variational Diffusion Auto-encoder: Deep Latent Variable Model with Unconditional Diffusion Prior**|Georgios Batzolis et.al.|[2304.12141](http://arxiv.org/abs/2304.12141)|null|
 |**2023-04-24**|**Customized Load Profiles Synthesis for Electricity Customers Based on Conditional Diffusion Models**|Zhenyi Wang et.al.|[2304.12076](http://arxiv.org/abs/2304.12076)|null|
@@ -466,6 +478,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-25**|**SwinFSR: Stereo Image Super-Resolution using SwinIR and Frequency Domain Knowledge**|Ke Chen et.al.|[2304.12556](http://arxiv.org/abs/2304.12556)|null|
 |**2023-04-23**|**GamutMLP: A Lightweight MLP for Color Loss Recovery**|Hoang M. Le et.al.|[2304.11743](http://arxiv.org/abs/2304.11743)|null|
 |**2023-04-23**|**PiClick: Picking the desired mask in click-based interactive segmentation**|Cilin Yan et.al.|[2304.11609](http://arxiv.org/abs/2304.11609)|**[link](https://github.com/cilinyan/piclick)**|
 |**2023-04-21**|**A Data-Driven Approach for Bayesian Uncertainty Quantification in Imaging**|Michael Tang et.al.|[2304.11200](http://arxiv.org/abs/2304.11200)|null|
@@ -559,6 +572,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-25**|**Local Implicit Ray Function for Generalizable Radiance Field Representation**|Xin Huang et.al.|[2304.12746](http://arxiv.org/abs/2304.12746)|null|
+|**2023-04-25**|**Hybrid Neural Rendering for Large-Scale Scenes with Motion Blur**|Peng Dai et.al.|[2304.12652](http://arxiv.org/abs/2304.12652)|null|
+|**2023-04-24**|**Pointersect: Neural Rendering with Cloud-Ray Intersection**|Jen-Hao Rick Chang et.al.|[2304.12390](http://arxiv.org/abs/2304.12390)|null|
 |**2023-04-20**|**NeUDF: Leaning Neural Unsigned Distance Fields with Volume Rendering**|Yu-Tao Liu et.al.|[2304.10080](http://arxiv.org/abs/2304.10080)|null|
 |**2023-04-20**|**Multiscale Representation for Real-Time Anti-Aliasing Neural Rendering**|Dongting Hu et.al.|[2304.10075](http://arxiv.org/abs/2304.10075)|null|
 |**2023-04-18**|**Looking Through the Glass: Neural Surface Reconstruction Against High Specular Reflections**|Jiaxiong Qiu et.al.|[2304.08706](http://arxiv.org/abs/2304.08706)|**[link](https://github.com/jiaxiongq/neus-hsr)**|
@@ -656,6 +672,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-25**|**An Augmented QCD Phase Portrait: Mapping Quark-Hadron Deconfinement for Hot, Dense, Rotating Matter under Magnetic Field**|Gaurav Mukherjee et.al.|[2304.12643](http://arxiv.org/abs/2304.12643)|null|
+|**2023-04-05**|**On Galileo's self-portrait Mentioned by Thomas Salusbury**|Paolo Molaro et.al.|[2304.12320](http://arxiv.org/abs/2304.12320)|null|
 |**2023-04-23**|**A model of the cubic connectedness locus**|Alexander Blokh et.al.|[2304.11516](http://arxiv.org/abs/2304.11516)|null|
 |**2023-04-19**|**HyperStyle3D: Text-Guided 3D Portrait Stylization via Hypernetworks**|Zhuo Chen et.al.|[2304.09463](http://arxiv.org/abs/2304.09463)|null|
 |**2023-04-13**|**DiffusionRig: Learning Personalized Priors for Facial Appearance Editing**|Zheng Ding et.al.|[2304.06711](http://arxiv.org/abs/2304.06711)|null|

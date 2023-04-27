@@ -51,6 +51,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-26**|**Multidimensional Evaluation for Text Style Transfer Using ChatGPT**|Huiyuan Lai et.al.|[2304.13462](http://arxiv.org/abs/2304.13462)|null|
+|**2023-04-26**|**DiffuseExpand: Expanding dataset for 2D medical image segmentation using diffusion models**|Shitong Shao et.al.|[2304.13416](http://arxiv.org/abs/2304.13416)|null|
+|**2023-04-25**|**LumiGAN: Unconditional Generation of Relightable 3D Human Faces**|Boyang Deng et.al.|[2304.13153](http://arxiv.org/abs/2304.13153)|null|
+|**2023-04-25**|**Directed Chain Generative Adversarial Networks**|Ming Min et.al.|[2304.13131](http://arxiv.org/abs/2304.13131)|null|
+|**2023-04-25**|**Learning Volatility Surfaces using Generative Adversarial Networks**|Andrew Na et.al.|[2304.13128](http://arxiv.org/abs/2304.13128)|null|
+|**2023-04-25**|**Diffusion Probabilistic Model Based Accurate and High-Degree-of-Freedom Metasurface Inverse Design**|Zezhou Zhang et.al.|[2304.13038](http://arxiv.org/abs/2304.13038)|null|
 |**2023-04-25**|**The Score-Difference Flow for Implicit Generative Modeling**|Romann M. Weber et.al.|[2304.12906](http://arxiv.org/abs/2304.12906)|null|
 |**2023-04-25**|**Latent diffusion models for generative precipitation nowcasting with accurate uncertainty quantification**|Jussi Leinonen et.al.|[2304.12891](http://arxiv.org/abs/2304.12891)|null|
 |**2023-04-24**|**Unsupervised Style-based Explicit 3D Face Reconstruction from Single Image**|Heng Yu et.al.|[2304.12455](http://arxiv.org/abs/2304.12455)|null|
@@ -210,6 +216,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-26**|**Training-Free Location-Aware Text-to-Image Synthesis**|Jiafeng Mao et.al.|[2304.13427](http://arxiv.org/abs/2304.13427)|null|
+|**2023-04-26**|**DiffuseExpand: Expanding dataset for 2D medical image segmentation using diffusion models**|Shitong Shao et.al.|[2304.13416](http://arxiv.org/abs/2304.13416)|null|
+|**2023-04-26**|**Score-based Generative Modeling Through Backward Stochastic Differential Equations: Inversion and Generation**|Zihao Wang et.al.|[2304.13224](http://arxiv.org/abs/2304.13224)|null|
+|**2023-04-26**|**Single-View Height Estimation with Conditional Diffusion Probabilistic Models**|Isaac Corley et.al.|[2304.13214](http://arxiv.org/abs/2304.13214)|null|
 |**2023-04-25**|**The Score-Difference Flow for Implicit Generative Modeling**|Romann M. Weber et.al.|[2304.12906](http://arxiv.org/abs/2304.12906)|null|
 |**2023-04-25**|**Latent diffusion models for generative precipitation nowcasting with accurate uncertainty quantification**|Jussi Leinonen et.al.|[2304.12891](http://arxiv.org/abs/2304.12891)|null|
 |**2023-04-25**|**Contrastive Energy Prediction for Exact Energy-Guided Diffusion Sampling in Offline Reinforcement Learning**|Cheng Lu et.al.|[2304.12824](http://arxiv.org/abs/2304.12824)|null|
@@ -478,6 +488,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-26**|**IML FISTA: Inexact MuLtilevel FISTA for Image Restoration**|Guillaume Lauga et.al.|[2304.13329](http://arxiv.org/abs/2304.13329)|null|
 |**2023-04-25**|**SwinFSR: Stereo Image Super-Resolution using SwinIR and Frequency Domain Knowledge**|Ke Chen et.al.|[2304.12556](http://arxiv.org/abs/2304.12556)|null|
 |**2023-04-23**|**GamutMLP: A Lightweight MLP for Color Loss Recovery**|Hoang M. Le et.al.|[2304.11743](http://arxiv.org/abs/2304.11743)|null|
 |**2023-04-23**|**PiClick: Picking the desired mask in click-based interactive segmentation**|Cilin Yan et.al.|[2304.11609](http://arxiv.org/abs/2304.11609)|**[link](https://github.com/cilinyan/piclick)**|
@@ -672,6 +683,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-26**|**EasyPortrait - Face Parsing and Portrait Segmentation Dataset**|Alexander Kapitanov et.al.|[2304.13509](http://arxiv.org/abs/2304.13509)|**[link](https://github.com/hukenovs/easyportrait)**|
+|**2023-04-26**|**A Portrait of Emotion: Empowering Self-Expression through AI-Generated Art**|Yoon Kyung Lee et.al.|[2304.13324](http://arxiv.org/abs/2304.13324)|null|
 |**2023-04-25**|**An Augmented QCD Phase Portrait: Mapping Quark-Hadron Deconfinement for Hot, Dense, Rotating Matter under Magnetic Field**|Gaurav Mukherjee et.al.|[2304.12643](http://arxiv.org/abs/2304.12643)|null|
 |**2023-04-05**|**On Galileo's self-portrait Mentioned by Thomas Salusbury**|Paolo Molaro et.al.|[2304.12320](http://arxiv.org/abs/2304.12320)|null|
 |**2023-04-23**|**A model of the cubic connectedness locus**|Alexander Blokh et.al.|[2304.11516](http://arxiv.org/abs/2304.11516)|null|

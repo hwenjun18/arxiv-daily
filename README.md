@@ -51,6 +51,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-26**|**Deep Learning Techniques for Hyperspectral Image Analysis in Agriculture: A Review**|Mohamed Fadhlallah Guerri et.al.|[2304.13880](http://arxiv.org/abs/2304.13880)|null|
 |**2023-04-26**|**Multidimensional Evaluation for Text Style Transfer Using ChatGPT**|Huiyuan Lai et.al.|[2304.13462](http://arxiv.org/abs/2304.13462)|null|
 |**2023-04-26**|**DiffuseExpand: Expanding dataset for 2D medical image segmentation using diffusion models**|Shitong Shao et.al.|[2304.13416](http://arxiv.org/abs/2304.13416)|null|
 |**2023-04-25**|**LumiGAN: Unconditional Generation of Relightable 3D Human Faces**|Boyang Deng et.al.|[2304.13153](http://arxiv.org/abs/2304.13153)|null|
@@ -216,6 +217,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-27**|**Putting People in Their Place: Affordance-Aware Human Insertion into Scenes**|Sumith Kulal et.al.|[2304.14406](http://arxiv.org/abs/2304.14406)|**[link](https://github.com/adobe-research/affordance-insertion)**|
+|**2023-04-27**|**Motion-Conditioned Diffusion Model for Controllable Video Synthesis**|Tsai-Shien Chen et.al.|[2304.14404](http://arxiv.org/abs/2304.14404)|null|
+|**2023-04-27**|**Modeling diffusion in ionic, crystalline solids with internal stress gradients**|Benjamin L. Hess et.al.|[2304.14330](http://arxiv.org/abs/2304.14330)|null|
+|**2023-04-26**|**Multimodal Composite Association Score: Measuring Gender Bias in Generative Multimodal Models**|Abhishek Mandal et.al.|[2304.13855](http://arxiv.org/abs/2304.13855)|null|
 |**2023-04-26**|**Training-Free Location-Aware Text-to-Image Synthesis**|Jiafeng Mao et.al.|[2304.13427](http://arxiv.org/abs/2304.13427)|null|
 |**2023-04-26**|**DiffuseExpand: Expanding dataset for 2D medical image segmentation using diffusion models**|Shitong Shao et.al.|[2304.13416](http://arxiv.org/abs/2304.13416)|null|
 |**2023-04-26**|**Score-based Generative Modeling Through Backward Stochastic Differential Equations: Inversion and Generation**|Zihao Wang et.al.|[2304.13224](http://arxiv.org/abs/2304.13224)|null|
@@ -488,6 +493,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-27**|**Make It So: Steering StyleGAN for Any Image Inversion and Editing**|Anand Bhattad et.al.|[2304.14403](http://arxiv.org/abs/2304.14403)|null|
+|**2023-04-27**|**Edit Everything: A Text-Guided Generative System for Images Editing**|Defeng Xie et.al.|[2304.14006](http://arxiv.org/abs/2304.14006)|**[link](https://github.com/defengxie/edit_everything)**|
 |**2023-04-26**|**IML FISTA: Inexact MuLtilevel FISTA for Image Restoration**|Guillaume Lauga et.al.|[2304.13329](http://arxiv.org/abs/2304.13329)|null|
 |**2023-04-25**|**SwinFSR: Stereo Image Super-Resolution using SwinIR and Frequency Domain Knowledge**|Ke Chen et.al.|[2304.12556](http://arxiv.org/abs/2304.12556)|null|
 |**2023-04-23**|**GamutMLP: A Lightweight MLP for Color Loss Recovery**|Hoang M. Le et.al.|[2304.11743](http://arxiv.org/abs/2304.11743)|null|

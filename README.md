@@ -51,6 +51,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-28**|**SceneGenie: Scene Graph Guided Diffusion Models for Image Synthesis**|Azade Farshad et.al.|[2304.14573](http://arxiv.org/abs/2304.14573)|null|
+|**2023-04-27**|**Quantum Generative Adversarial Networks For Anomaly Detection In High Energy Physics**|Elie Bermot et.al.|[2304.14439](http://arxiv.org/abs/2304.14439)|null|
 |**2023-04-26**|**Deep Learning Techniques for Hyperspectral Image Analysis in Agriculture: A Review**|Mohamed Fadhlallah Guerri et.al.|[2304.13880](http://arxiv.org/abs/2304.13880)|null|
 |**2023-04-26**|**Multidimensional Evaluation for Text Style Transfer Using ChatGPT**|Huiyuan Lai et.al.|[2304.13462](http://arxiv.org/abs/2304.13462)|**[link](https://github.com/laihuiyuan/eval-formality-transfer)**|
 |**2023-04-26**|**DiffuseExpand: Expanding dataset for 2D medical image segmentation using diffusion models**|Shitong Shao et.al.|[2304.13416](http://arxiv.org/abs/2304.13416)|null|
@@ -217,6 +219,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-28**|**Simplified models of diffusion in radially-symmetric geometries**|Luke P. Filippini et.al.|[2304.14632](http://arxiv.org/abs/2304.14632)|null|
+|**2023-04-28**|**SceneGenie: Scene Graph Guided Diffusion Models for Image Synthesis**|Azade Farshad et.al.|[2304.14573](http://arxiv.org/abs/2304.14573)|null|
+|**2023-04-27**|**It is all about where you start: Text-to-image generation with seed selection**|Dvir Samuel et.al.|[2304.14530](http://arxiv.org/abs/2304.14530)|null|
+|**2023-04-27**|**Learning a Diffusion Prior for NeRFs**|Guandao Yang et.al.|[2304.14473](http://arxiv.org/abs/2304.14473)|null|
 |**2023-04-27**|**Putting People in Their Place: Affordance-Aware Human Insertion into Scenes**|Sumith Kulal et.al.|[2304.14406](http://arxiv.org/abs/2304.14406)|**[link](https://github.com/adobe-research/affordance-insertion)**|
 |**2023-04-27**|**Motion-Conditioned Diffusion Model for Controllable Video Synthesis**|Tsai-Shien Chen et.al.|[2304.14404](http://arxiv.org/abs/2304.14404)|null|
 |**2023-04-27**|**Modeling diffusion in ionic, crystalline solids with internal stress gradients**|Benjamin L. Hess et.al.|[2304.14330](http://arxiv.org/abs/2304.14330)|null|
@@ -493,6 +499,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-28**|**Making the Invisible Visible: Toward High-Quality Terahertz Tomographic Imaging via Physics-Guided Restoration**|Weng-Tai Su et.al.|[2304.14894](http://arxiv.org/abs/2304.14894)|null|
 |**2023-04-27**|**Make It So: Steering StyleGAN for Any Image Inversion and Editing**|Anand Bhattad et.al.|[2304.14403](http://arxiv.org/abs/2304.14403)|null|
 |**2023-04-27**|**Edit Everything: A Text-Guided Generative System for Images Editing**|Defeng Xie et.al.|[2304.14006](http://arxiv.org/abs/2304.14006)|**[link](https://github.com/defengxie/edit_everything)**|
 |**2023-04-26**|**IML FISTA: Inexact MuLtilevel FISTA for Image Restoration**|Guillaume Lauga et.al.|[2304.13329](http://arxiv.org/abs/2304.13329)|null|
@@ -690,7 +697,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-04-26**|**EasyPortrait - Face Parsing and Portrait Segmentation Dataset**|Alexander Kapitanov et.al.|[2304.13509](http://arxiv.org/abs/2304.13509)|null|
+|**2023-04-26**|**EasyPortrait - Face Parsing and Portrait Segmentation Dataset**|Alexander Kapitanov et.al.|[2304.13509](http://arxiv.org/abs/2304.13509)|**[link](https://github.com/hukenovs/easyportrait)**|
 |**2023-04-26**|**A Portrait of Emotion: Empowering Self-Expression through AI-Generated Art**|Yoon Kyung Lee et.al.|[2304.13324](http://arxiv.org/abs/2304.13324)|null|
 |**2023-04-25**|**An Augmented QCD Phase Portrait: Mapping Quark-Hadron Deconfinement for Hot, Dense, Rotating Matter under Magnetic Field**|Gaurav Mukherjee et.al.|[2304.12643](http://arxiv.org/abs/2304.12643)|null|
 |**2023-04-05**|**On Galileo's self-portrait Mentioned by Thomas Salusbury**|Paolo Molaro et.al.|[2304.12320](http://arxiv.org/abs/2304.12320)|null|

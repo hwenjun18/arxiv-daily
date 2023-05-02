@@ -51,6 +51,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-01**|**Hypernuclear event detection in the nuclear emulsion with Monte Carlo simulation and machine learning**|A. Kasagi et.al.|[2305.00884](http://arxiv.org/abs/2305.00884)|null|
+|**2023-04-30**|**StyleGenes: Discrete and Efficient Latent Distributions for GANs**|Evangelos Ntavelis et.al.|[2305.00599](http://arxiv.org/abs/2305.00599)|null|
+|**2023-04-30**|**Towards Computational Architecture of Liberty: A Comprehensive Survey on Deep Learning for Generating Virtual Architecture in the Metaverse**|Anqi Wang et.al.|[2305.00510](http://arxiv.org/abs/2305.00510)|null|
+|**2023-04-30**|**Identity-driven Three-Player Generative Adversarial Network for Synthetic-based Face Recognition**|Jan Niklas Kolf et.al.|[2305.00358](http://arxiv.org/abs/2305.00358)|null|
+|**2023-04-29**|**ShipHullGAN: A generic parametric modeller for ship hull design using deep convolutional generative model**|Shahroz Khan et.al.|[2305.00210](http://arxiv.org/abs/2305.00210)|null|
+|**2023-04-29**|**Visualizing chest X-ray dataset biases using GANs**|Hao Liang et.al.|[2305.00147](http://arxiv.org/abs/2305.00147)|null|
+|**2023-04-29**|**LD-GAN: Low-Dimensional Generative Adversarial Network for Spectral Image Generation with Variance Regularization**|Emmanuel Martinez et.al.|[2305.00132](http://arxiv.org/abs/2305.00132)|**[link](https://github.com/hdspgroup/LD-GAN)**|
 |**2023-04-28**|**SceneGenie: Scene Graph Guided Diffusion Models for Image Synthesis**|Azade Farshad et.al.|[2304.14573](http://arxiv.org/abs/2304.14573)|null|
 |**2023-04-27**|**Quantum Generative Adversarial Networks For Anomaly Detection In High Energy Physics**|Elie Bermot et.al.|[2304.14439](http://arxiv.org/abs/2304.14439)|null|
 |**2023-04-26**|**Deep Learning Techniques for Hyperspectral Image Analysis in Agriculture: A Review**|Mohamed Fadhlallah Guerri et.al.|[2304.13880](http://arxiv.org/abs/2304.13880)|null|
@@ -219,6 +226,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-01**|**Quality of approximating a mass-emitting object by a point source in a diffusion model**|Qiyao Peng et.al.|[2305.00717](http://arxiv.org/abs/2305.00717)|null|
+|**2023-05-01**|**Diffusion Models for Time Series Applications: A Survey**|Lequan Lin et.al.|[2305.00624](http://arxiv.org/abs/2305.00624)|null|
+|**2023-04-30**|**Class-Balancing Diffusion Models**|Yiming Qin et.al.|[2305.00562](http://arxiv.org/abs/2305.00562)|null|
+|**2023-04-30**|**Reconstructing seen images from human brain activity via guided stochastic search**|Reese Kneeland et.al.|[2305.00556](http://arxiv.org/abs/2305.00556)|null|
+|**2023-04-30**|**Towards Computational Architecture of Liberty: A Comprehensive Survey on Deep Learning for Generating Virtual Architecture in the Metaverse**|Anqi Wang et.al.|[2305.00510](http://arxiv.org/abs/2305.00510)|null|
+|**2023-04-30**|**A Review of Deep Learning Techniques for Speech Processing**|Ambuj Mehrish et.al.|[2305.00359](http://arxiv.org/abs/2305.00359)|null|
+|**2023-04-28**|**Unsupervised Discovery of 3D Hierarchical Structure with Generative Diffusion Features**|Nurislam Tursynbek et.al.|[2305.00067](http://arxiv.org/abs/2305.00067)|null|
 |**2023-04-28**|**Simplified models of diffusion in radially-symmetric geometries**|Luke P. Filippini et.al.|[2304.14632](http://arxiv.org/abs/2304.14632)|null|
 |**2023-04-28**|**SceneGenie: Scene Graph Guided Diffusion Models for Image Synthesis**|Azade Farshad et.al.|[2304.14573](http://arxiv.org/abs/2304.14573)|null|
 |**2023-04-27**|**It is all about where you start: Text-to-image generation with seed selection**|Dvir Samuel et.al.|[2304.14530](http://arxiv.org/abs/2304.14530)|null|
@@ -499,6 +513,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-30**|**An optimal transport analogue of the Rudin Osher Fatemi model and its corresponding multiscale theory**|Tristan Milne et.al.|[2305.00580](http://arxiv.org/abs/2305.00580)|null|
 |**2023-04-28**|**Making the Invisible Visible: Toward High-Quality Terahertz Tomographic Imaging via Physics-Guided Restoration**|Weng-Tai Su et.al.|[2304.14894](http://arxiv.org/abs/2304.14894)|null|
 |**2023-04-27**|**Make It So: Steering StyleGAN for Any Image Inversion and Editing**|Anand Bhattad et.al.|[2304.14403](http://arxiv.org/abs/2304.14403)|null|
 |**2023-04-27**|**Edit Everything: A Text-Guided Generative System for Images Editing**|Defeng Xie et.al.|[2304.14006](http://arxiv.org/abs/2304.14006)|**[link](https://github.com/defengxie/edit_everything)**|
@@ -597,6 +612,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-30**|**Object-Centric Voxelization of Dynamic Scenes via Inverse Neural Rendering**|Siyu Gao et.al.|[2305.00393](http://arxiv.org/abs/2305.00393)|null|
 |**2023-04-25**|**Local Implicit Ray Function for Generalizable Radiance Field Representation**|Xin Huang et.al.|[2304.12746](http://arxiv.org/abs/2304.12746)|null|
 |**2023-04-25**|**Hybrid Neural Rendering for Large-Scale Scenes with Motion Blur**|Peng Dai et.al.|[2304.12652](http://arxiv.org/abs/2304.12652)|null|
 |**2023-04-24**|**Pointersect: Neural Rendering with Cloud-Ray Intersection**|Jen-Hao Rick Chang et.al.|[2304.12390](http://arxiv.org/abs/2304.12390)|null|
@@ -697,6 +713,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-01**|**StyleAvatar: Real-time Photo-realistic Portrait Avatar from a Single Video**|Lizhen Wang et.al.|[2305.00942](http://arxiv.org/abs/2305.00942)|null|
+|**2023-05-01**|**GeneFace++: Generalized and Stable Real-Time Audio-Driven 3D Talking Face Generation**|Zhenhui Ye et.al.|[2305.00787](http://arxiv.org/abs/2305.00787)|null|
 |**2023-04-26**|**EasyPortrait - Face Parsing and Portrait Segmentation Dataset**|Alexander Kapitanov et.al.|[2304.13509](http://arxiv.org/abs/2304.13509)|**[link](https://github.com/hukenovs/easyportrait)**|
 |**2023-04-26**|**A Portrait of Emotion: Empowering Self-Expression through AI-Generated Art**|Yoon Kyung Lee et.al.|[2304.13324](http://arxiv.org/abs/2304.13324)|null|
 |**2023-04-25**|**An Augmented QCD Phase Portrait: Mapping Quark-Hadron Deconfinement for Hot, Dense, Rotating Matter under Magnetic Field**|Gaurav Mukherjee et.al.|[2304.12643](http://arxiv.org/abs/2304.12643)|null|

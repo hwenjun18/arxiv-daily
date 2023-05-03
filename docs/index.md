@@ -39,6 +39,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-02**|**Basic syntax from speech: Spontaneous concatenation in unsupervised deep neural networks**|Gašper Beguš et.al.|[2305.01626](http://arxiv.org/abs/2305.01626)|null|
+|**2023-05-02**|**Learning Hard Distributions with Quantum-enhanced Variational Autoencoders**|Anantha Rao et.al.|[2305.01592](http://arxiv.org/abs/2305.01592)|null|
+|**2023-05-02**|**AQ-GT: a Temporally Aligned and Quantized GRU-Transformer for Co-Speech Gesture Synthesis**|Hendric Voß et.al.|[2305.01241](http://arxiv.org/abs/2305.01241)|null|
 |**2023-05-01**|**Hypernuclear event detection in the nuclear emulsion with Monte Carlo simulation and machine learning**|A. Kasagi et.al.|[2305.00884](http://arxiv.org/abs/2305.00884)|null|
 |**2023-04-30**|**StyleGenes: Discrete and Efficient Latent Distributions for GANs**|Evangelos Ntavelis et.al.|[2305.00599](http://arxiv.org/abs/2305.00599)|null|
 |**2023-04-30**|**Towards Computational Architecture of Liberty: A Comprehensive Survey on Deep Learning for Generating Virtual Architecture in the Metaverse**|Anqi Wang et.al.|[2305.00510](http://arxiv.org/abs/2305.00510)|null|
@@ -212,6 +215,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-02**|**ContactArt: Learning 3D Interaction Priors for Category-level Articulated Object and Hand Poses Estimation**|Zehao Zhu et.al.|[2305.01618](http://arxiv.org/abs/2305.01618)|null|
+|**2023-05-02**|**DreamPaint: Few-Shot Inpainting of E-Commerce Items for Virtual Try-On without 3D Modeling**|Mehmet Saygin Seyfioglu et.al.|[2305.01257](http://arxiv.org/abs/2305.01257)|null|
+|**2023-05-02**|**Geometric Latent Diffusion Models for 3D Molecule Generation**|Minkai Xu et.al.|[2305.01140](http://arxiv.org/abs/2305.01140)|**[link](https://github.com/minkaixu/geoldm)**|
+|**2023-05-02**|**High-Fidelity Image Synthesis from Pulmonary Nodule Lesion Maps using Semantic Diffusion Model**|Xuan Zhao et.al.|[2305.01138](http://arxiv.org/abs/2305.01138)|null|
+|**2023-05-01**|**In-Context Learning Unlocked for Diffusion Models**|Zhendong Wang et.al.|[2305.01115](http://arxiv.org/abs/2305.01115)|**[link](https://github.com/zhendong-wang/prompt-diffusion)**|
 |**2023-05-01**|**Quality of approximating a mass-emitting object by a point source in a diffusion model**|Qiyao Peng et.al.|[2305.00717](http://arxiv.org/abs/2305.00717)|null|
 |**2023-05-01**|**Diffusion Models for Time Series Applications: A Survey**|Lequan Lin et.al.|[2305.00624](http://arxiv.org/abs/2305.00624)|null|
 |**2023-04-30**|**Class-Balancing Diffusion Models**|Yiming Qin et.al.|[2305.00562](http://arxiv.org/abs/2305.00562)|null|
@@ -497,6 +505,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-01**|**In-Context Learning Unlocked for Diffusion Models**|Zhendong Wang et.al.|[2305.01115](http://arxiv.org/abs/2305.01115)|**[link](https://github.com/zhendong-wang/prompt-diffusion)**|
 |**2023-04-30**|**An optimal transport analogue of the Rudin Osher Fatemi model and its corresponding multiscale theory**|Tristan Milne et.al.|[2305.00580](http://arxiv.org/abs/2305.00580)|null|
 |**2023-04-28**|**Making the Invisible Visible: Toward High-Quality Terahertz Tomographic Imaging via Physics-Guided Restoration**|Weng-Tai Su et.al.|[2304.14894](http://arxiv.org/abs/2304.14894)|null|
 |**2023-04-27**|**Make It So: Steering StyleGAN for Any Image Inversion and Editing**|Anand Bhattad et.al.|[2304.14403](http://arxiv.org/abs/2304.14403)|null|
@@ -691,9 +700,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-02**|**LatentAvatar: Learning Latent Expression Code for Expressive Neural Head Avatar**|Yuelang Xu et.al.|[2305.01190](http://arxiv.org/abs/2305.01190)|null|
 |**2023-05-01**|**StyleAvatar: Real-time Photo-realistic Portrait Avatar from a Single Video**|Lizhen Wang et.al.|[2305.00942](http://arxiv.org/abs/2305.00942)|null|
 |**2023-05-01**|**GeneFace++: Generalized and Stable Real-Time Audio-Driven 3D Talking Face Generation**|Zhenhui Ye et.al.|[2305.00787](http://arxiv.org/abs/2305.00787)|null|
-|**2023-05-02**|**EasyPortrait - Face Parsing and Portrait Segmentation Dataset**|Alexander Kapitanov et.al.|[2304.13509](http://arxiv.org/abs/2304.13509)|**[link](https://github.com/hukenovs/easyportrait)**|
+|**2023-05-02**|**EasyPortrait -- Face Parsing and Portrait Segmentation Dataset**|Alexander Kapitanov et.al.|[2304.13509](http://arxiv.org/abs/2304.13509)|**[link](https://github.com/hukenovs/easyportrait)**|
 |**2023-04-26**|**A Portrait of Emotion: Empowering Self-Expression through AI-Generated Art**|Yoon Kyung Lee et.al.|[2304.13324](http://arxiv.org/abs/2304.13324)|null|
 |**2023-04-25**|**An Augmented QCD Phase Portrait: Mapping Quark-Hadron Deconfinement for Hot, Dense, Rotating Matter under Magnetic Field**|Gaurav Mukherjee et.al.|[2304.12643](http://arxiv.org/abs/2304.12643)|null|
 |**2023-04-05**|**On Galileo's self-portrait Mentioned by Thomas Salusbury**|Paolo Molaro et.al.|[2304.12320](http://arxiv.org/abs/2304.12320)|null|

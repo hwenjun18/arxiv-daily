@@ -39,6 +39,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-03**|**GANonymization: A GAN-based Face Anonymization Framework for Preserving Emotional Expressions**|Fabio Hellmann et.al.|[2305.02143](http://arxiv.org/abs/2305.02143)|null|
 |**2023-05-02**|**Basic syntax from speech: Spontaneous concatenation in unsupervised deep neural networks**|Gašper Beguš et.al.|[2305.01626](http://arxiv.org/abs/2305.01626)|null|
 |**2023-05-02**|**Learning Hard Distributions with Quantum-enhanced Variational Autoencoders**|Anantha Rao et.al.|[2305.01592](http://arxiv.org/abs/2305.01592)|null|
 |**2023-05-02**|**AQ-GT: a Temporally Aligned and Quantized GRU-Transformer for Co-Speech Gesture Synthesis**|Hendric Voß et.al.|[2305.01241](http://arxiv.org/abs/2305.01241)|null|
@@ -215,6 +216,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855](http://arxiv.org/abs/2305.01855)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
+|**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|null|
+|**2023-05-02**|**DiffuSum: Generation Enhanced Extractive Summarization with Diffusion**|Haopeng Zhang et.al.|[2305.01735](http://arxiv.org/abs/2305.01735)|null|
 |**2023-05-02**|**ContactArt: Learning 3D Interaction Priors for Category-level Articulated Object and Hand Poses Estimation**|Zehao Zhu et.al.|[2305.01618](http://arxiv.org/abs/2305.01618)|null|
 |**2023-05-02**|**DreamPaint: Few-Shot Inpainting of E-Commerce Items for Virtual Try-On without 3D Modeling**|Mehmet Saygin Seyfioglu et.al.|[2305.01257](http://arxiv.org/abs/2305.01257)|null|
 |**2023-05-02**|**Geometric Latent Diffusion Models for 3D Molecule Generation**|Minkai Xu et.al.|[2305.01140](http://arxiv.org/abs/2305.01140)|**[link](https://github.com/minkaixu/geoldm)**|
@@ -505,6 +509,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-03**|**Bicubic++: Slim, Slimmer, Slimmest -- Designing an Industry-Grade Super-Resolution Network**|Bahri Batuhan Bilecen et.al.|[2305.02126](http://arxiv.org/abs/2305.02126)|**[link](https://github.com/aselsan-research-imaging-team/bicubic-plusplus)**|
+|**2023-05-03**|**Bio-Inspired Simple Neural Network for Low-Light Image Restoration: A Minimalist Approach**|Junjie Ye et.al.|[2305.01844](http://arxiv.org/abs/2305.01844)|null|
 |**2023-05-01**|**In-Context Learning Unlocked for Diffusion Models**|Zhendong Wang et.al.|[2305.01115](http://arxiv.org/abs/2305.01115)|**[link](https://github.com/zhendong-wang/prompt-diffusion)**|
 |**2023-04-30**|**An optimal transport analogue of the Rudin Osher Fatemi model and its corresponding multiscale theory**|Tristan Milne et.al.|[2305.00580](http://arxiv.org/abs/2305.00580)|null|
 |**2023-04-28**|**Making the Invisible Visible: Toward High-Quality Terahertz Tomographic Imaging via Physics-Guided Restoration**|Weng-Tai Su et.al.|[2304.14894](http://arxiv.org/abs/2304.14894)|null|
@@ -603,6 +609,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-03**|**ScatterNeRF: Seeing Through Fog with Physically-Based Inverse Neural Rendering**|Andrea Ramazzina et.al.|[2305.02103](http://arxiv.org/abs/2305.02103)|null|
 |**2023-04-30**|**Object-Centric Voxelization of Dynamic Scenes via Inverse Neural Rendering**|Siyu Gao et.al.|[2305.00393](http://arxiv.org/abs/2305.00393)|null|
 |**2023-04-25**|**Local Implicit Ray Function for Generalizable Radiance Field Representation**|Xin Huang et.al.|[2304.12746](http://arxiv.org/abs/2304.12746)|null|
 |**2023-04-25**|**Hybrid Neural Rendering for Large-Scale Scenes with Motion Blur**|Peng Dai et.al.|[2304.12652](http://arxiv.org/abs/2304.12652)|null|
@@ -700,6 +707,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-03**|**Real-Time Radiance Fields for Single-Image Portrait View Synthesis**|Alex Trevithick et.al.|[2305.02310](http://arxiv.org/abs/2305.02310)|null|
 |**2023-05-03**|**LatentAvatar: Learning Latent Expression Code for Expressive Neural Head Avatar**|Yuelang Xu et.al.|[2305.01190](http://arxiv.org/abs/2305.01190)|null|
 |**2023-05-01**|**StyleAvatar: Real-time Photo-realistic Portrait Avatar from a Single Video**|Lizhen Wang et.al.|[2305.00942](http://arxiv.org/abs/2305.00942)|null|
 |**2023-05-01**|**GeneFace++: Generalized and Stable Real-Time Audio-Driven 3D Talking Face Generation**|Zhenhui Ye et.al.|[2305.00787](http://arxiv.org/abs/2305.00787)|null|

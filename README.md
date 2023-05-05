@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.04
+## Updated on 2023.05.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -45,7 +45,7 @@
 |**2022-11-21**|**Towards Live 3D Reconstruction from Wearable Video: An Evaluation of V-SLAM, NeRF, and Videogrammetry Techniques**|David Ramirez et.al.|[2211.11836](http://arxiv.org/abs/2211.11836)|null|
 |**2022-11-14**|**Controllable GAN Synthesis Using Non-Rigid Structure-from-Motion**|René Haas et.al.|[2211.07195](http://arxiv.org/abs/2211.07195)|null|
 
-<p align=right>(<a href=#Updated-on-20230504>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230505>back to top</a>)</p>
 
 ## GAN
 
@@ -61,7 +61,7 @@
 |**2023-04-30**|**Identity-driven Three-Player Generative Adversarial Network for Synthetic-based Face Recognition**|Jan Niklas Kolf et.al.|[2305.00358](http://arxiv.org/abs/2305.00358)|null|
 |**2023-04-29**|**ShipHullGAN: A generic parametric modeller for ship hull design using deep convolutional generative model**|Shahroz Khan et.al.|[2305.00210](http://arxiv.org/abs/2305.00210)|null|
 |**2023-04-29**|**Visualizing chest X-ray dataset biases using GANs**|Hao Liang et.al.|[2305.00147](http://arxiv.org/abs/2305.00147)|null|
-|**2023-04-29**|**LD-GAN: Low-Dimensional Generative Adversarial Network for Spectral Image Generation with Variance Regularization**|Emmanuel Martinez et.al.|[2305.00132](http://arxiv.org/abs/2305.00132)|**[link](https://github.com/hdspgroup/LD-GAN)**|
+|**2023-04-29**|**LD-GAN: Low-Dimensional Generative Adversarial Network for Spectral Image Generation with Variance Regularization**|Emmanuel Martinez et.al.|[2305.00132](http://arxiv.org/abs/2305.00132)|**[link](https://github.com/romanjacome99/ld_gan)**|
 |**2023-04-28**|**SceneGenie: Scene Graph Guided Diffusion Models for Image Synthesis**|Azade Farshad et.al.|[2304.14573](http://arxiv.org/abs/2304.14573)|null|
 |**2023-04-27**|**Quantum Generative Adversarial Networks For Anomaly Detection In High Energy Physics**|Elie Bermot et.al.|[2304.14439](http://arxiv.org/abs/2304.14439)|null|
 |**2023-04-26**|**Deep Learning Techniques for Hyperspectral Image Analysis in Agriculture: A Review**|Mohamed Fadhlallah Guerri et.al.|[2304.13880](http://arxiv.org/abs/2304.13880)|null|
@@ -224,14 +224,14 @@
 |**2023-03-14**|**3D Face Arbitrary Style Transfer**|Xiangwen Deng et.al.|[2303.07709](http://arxiv.org/abs/2303.07709)|null|
 |**2023-03-13**|**AGTGAN: Unpaired Image Translation for Photographic Ancient Character Generation**|Hongxiang Huang et.al.|[2303.07012](http://arxiv.org/abs/2303.07012)|**[link](https://github.com/hellomystery/agtgan)**|
 
-<p align=right>(<a href=#Updated-on-20230504>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230505>back to top</a>)</p>
 
 ## Diffusion Model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855](http://arxiv.org/abs/2305.01855)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
-|**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|null|
+|**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 |**2023-05-02**|**DiffuSum: Generation Enhanced Extractive Summarization with Diffusion**|Haopeng Zhang et.al.|[2305.01735](http://arxiv.org/abs/2305.01735)|null|
 |**2023-05-02**|**ContactArt: Learning 3D Interaction Priors for Category-level Articulated Object and Hand Poses Estimation**|Zehao Zhu et.al.|[2305.01618](http://arxiv.org/abs/2305.01618)|null|
 |**2023-05-02**|**DreamPaint: Few-Shot Inpainting of E-Commerce Items for Virtual Try-On without 3D Modeling**|Mehmet Saygin Seyfioglu et.al.|[2305.01257](http://arxiv.org/abs/2305.01257)|null|
@@ -519,13 +519,13 @@
 |**2023-03-15**|**DiffBEV: Conditional Diffusion Model for Bird's Eye View Perception**|Jiayu Zou et.al.|[2303.08333](http://arxiv.org/abs/2303.08333)|**[link](https://github.com/jiayuzou2020/diffbev)**|
 |**2023-03-16**|**VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation**|Zhengxiong Luo et.al.|[2303.08320](http://arxiv.org/abs/2303.08320)|null|
 
-<p align=right>(<a href=#Updated-on-20230504>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230505>back to top</a>)</p>
 
 ## Image Edit
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-05-03**|**Bicubic++: Slim, Slimmer, Slimmest -- Designing an Industry-Grade Super-Resolution Network**|Bahri Batuhan Bilecen et.al.|[2305.02126](http://arxiv.org/abs/2305.02126)|**[link](https://github.com/aselsan-research-imaging-team/bicubic-plusplus)**|
+|**2023-05-03**|**Bicubic++: Slim, Slimmer, Slimmest -- Designing an Industry-Grade Super-Resolution Network**|Bahri Batuhan Bilecen et.al.|[2305.02126](http://arxiv.org/abs/2305.02126)|null|
 |**2023-05-03**|**Bio-Inspired Simple Neural Network for Low-Light Image Restoration: A Minimalist Approach**|Junjie Ye et.al.|[2305.01844](http://arxiv.org/abs/2305.01844)|null|
 |**2023-05-01**|**In-Context Learning Unlocked for Diffusion Models**|Zhendong Wang et.al.|[2305.01115](http://arxiv.org/abs/2305.01115)|**[link](https://github.com/zhendong-wang/prompt-diffusion)**|
 |**2023-04-30**|**An optimal transport analogue of the Rudin Osher Fatemi model and its corresponding multiscale theory**|Tristan Milne et.al.|[2305.00580](http://arxiv.org/abs/2305.00580)|null|
@@ -621,7 +621,7 @@
 |**2023-02-20**|**A Large Scale Homography Benchmark**|Daniel Barath et.al.|[2302.09997](http://arxiv.org/abs/2302.09997)|null|
 |**2023-02-19**|**LC-NeRF: Local Controllable Face Generation in Neural Randiance Field**|Wenyang Zhou et.al.|[2302.09486](http://arxiv.org/abs/2302.09486)|null|
 
-<p align=right>(<a href=#Updated-on-20230504>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230505>back to top</a>)</p>
 
 ## NeRF
 
@@ -693,7 +693,7 @@
 |**2022-12-30**|**NeRF-Gaze: A Head-Eye Redirection Parametric Model for Gaze Estimation**|Pengwei Yin et.al.|[2212.14710](http://arxiv.org/abs/2212.14710)|null|
 |**2023-03-21**|**Masked Wavelet Representation for Compact Neural Radiance Fields**|Daniel Rho et.al.|[2212.09069](http://arxiv.org/abs/2212.09069)|**[link](https://github.com/daniel03c1/masked_wavelet_nerf)**|
 
-<p align=right>(<a href=#Updated-on-20230504>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230505>back to top</a>)</p>
 
 ## Reshaping
 
@@ -723,7 +723,7 @@
 |**2022-05-13**|**F3A-GAN: Facial Flow for Face Animation with Generative Adversarial Networks**|Xintian Wu et.al.|[2205.06204](http://arxiv.org/abs/2205.06204)|null|
 |**2022-03-16**|**Efficient conditioned face animation using frontally-viewed embedding**|Maxime Oquab et.al.|[2203.08765](http://arxiv.org/abs/2203.08765)|null|
 
-<p align=right>(<a href=#Updated-on-20230504>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230505>back to top</a>)</p>
 
 ## Portrait 
 
@@ -781,7 +781,7 @@
 |**2023-03-01**|**DPE: Disentanglement of Pose and Expression for General Video Portrait Editing**|Youxin Pang et.al.|[2301.06281](http://arxiv.org/abs/2301.06281)|null|
 |**2023-01-03**|**StyleTalk: One-shot Talking Head Generation with Controllable Speaking Styles**|Yifeng Ma et.al.|[2301.01081](http://arxiv.org/abs/2301.01081)|**[link](https://github.com/fuxivirtualhuman/styletalk)**|
 
-<p align=right>(<a href=#Updated-on-20230504>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230505>back to top</a>)</p>
 
 ## Transfomer
 
@@ -810,5 +810,5 @@
 |**2012-01-21**|**Interior Static Stellar Model with Electric Charge as an Oscillator**|A. M. Baranov et.al.|[1201.4429](http://arxiv.org/abs/1201.4429)|null|
 |**2011-05-16**|**Exactness of the Euclidean algorithm and of the Rauzy induction on the space of interval exchange transfomations**|Tomasz Miernowski et.al.|[1104.3980](http://arxiv.org/abs/1104.3980)|null|
 
-<p align=right>(<a href=#Updated-on-20230504>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230505>back to top</a>)</p>
 

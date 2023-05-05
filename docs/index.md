@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.04
+## Updated on 2023.05.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -49,7 +49,7 @@ layout: default
 |**2023-04-30**|**Identity-driven Three-Player Generative Adversarial Network for Synthetic-based Face Recognition**|Jan Niklas Kolf et.al.|[2305.00358](http://arxiv.org/abs/2305.00358)|null|
 |**2023-04-29**|**ShipHullGAN: A generic parametric modeller for ship hull design using deep convolutional generative model**|Shahroz Khan et.al.|[2305.00210](http://arxiv.org/abs/2305.00210)|null|
 |**2023-04-29**|**Visualizing chest X-ray dataset biases using GANs**|Hao Liang et.al.|[2305.00147](http://arxiv.org/abs/2305.00147)|null|
-|**2023-04-29**|**LD-GAN: Low-Dimensional Generative Adversarial Network for Spectral Image Generation with Variance Regularization**|Emmanuel Martinez et.al.|[2305.00132](http://arxiv.org/abs/2305.00132)|**[link](https://github.com/hdspgroup/LD-GAN)**|
+|**2023-04-29**|**LD-GAN: Low-Dimensional Generative Adversarial Network for Spectral Image Generation with Variance Regularization**|Emmanuel Martinez et.al.|[2305.00132](http://arxiv.org/abs/2305.00132)|**[link](https://github.com/romanjacome99/ld_gan)**|
 |**2023-04-28**|**SceneGenie: Scene Graph Guided Diffusion Models for Image Synthesis**|Azade Farshad et.al.|[2304.14573](http://arxiv.org/abs/2304.14573)|null|
 |**2023-04-27**|**Quantum Generative Adversarial Networks For Anomaly Detection In High Energy Physics**|Elie Bermot et.al.|[2304.14439](http://arxiv.org/abs/2304.14439)|null|
 |**2023-04-26**|**Deep Learning Techniques for Hyperspectral Image Analysis in Agriculture: A Review**|Mohamed Fadhlallah Guerri et.al.|[2304.13880](http://arxiv.org/abs/2304.13880)|null|
@@ -217,7 +217,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855](http://arxiv.org/abs/2305.01855)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
-|**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|null|
+|**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 |**2023-05-02**|**DiffuSum: Generation Enhanced Extractive Summarization with Diffusion**|Haopeng Zhang et.al.|[2305.01735](http://arxiv.org/abs/2305.01735)|null|
 |**2023-05-02**|**ContactArt: Learning 3D Interaction Priors for Category-level Articulated Object and Hand Poses Estimation**|Zehao Zhu et.al.|[2305.01618](http://arxiv.org/abs/2305.01618)|null|
 |**2023-05-02**|**DreamPaint: Few-Shot Inpainting of E-Commerce Items for Virtual Try-On without 3D Modeling**|Mehmet Saygin Seyfioglu et.al.|[2305.01257](http://arxiv.org/abs/2305.01257)|null|
@@ -509,7 +509,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-05-03**|**Bicubic++: Slim, Slimmer, Slimmest -- Designing an Industry-Grade Super-Resolution Network**|Bahri Batuhan Bilecen et.al.|[2305.02126](http://arxiv.org/abs/2305.02126)|**[link](https://github.com/aselsan-research-imaging-team/bicubic-plusplus)**|
+|**2023-05-03**|**Bicubic++: Slim, Slimmer, Slimmest -- Designing an Industry-Grade Super-Resolution Network**|Bahri Batuhan Bilecen et.al.|[2305.02126](http://arxiv.org/abs/2305.02126)|null|
 |**2023-05-03**|**Bio-Inspired Simple Neural Network for Low-Light Image Restoration: A Minimalist Approach**|Junjie Ye et.al.|[2305.01844](http://arxiv.org/abs/2305.01844)|null|
 |**2023-05-01**|**In-Context Learning Unlocked for Diffusion Models**|Zhendong Wang et.al.|[2305.01115](http://arxiv.org/abs/2305.01115)|**[link](https://github.com/zhendong-wang/prompt-diffusion)**|
 |**2023-04-30**|**An optimal transport analogue of the Rudin Osher Fatemi model and its corresponding multiscale theory**|Tristan Milne et.al.|[2305.00580](http://arxiv.org/abs/2305.00580)|null|

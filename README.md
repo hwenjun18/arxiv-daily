@@ -51,6 +51,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-04**|**Critical heat flux diagnosis using conditional generative adversarial networks**|UngJin Na et.al.|[2305.02622](http://arxiv.org/abs/2305.02622)|null|
+|**2023-05-04**|**LayoutDM: Transformer-based Diffusion Model for Layout Generation**|Shang Chai et.al.|[2305.02567](http://arxiv.org/abs/2305.02567)|null|
 |**2023-05-03**|**GANonymization: A GAN-based Face Anonymization Framework for Preserving Emotional Expressions**|Fabio Hellmann et.al.|[2305.02143](http://arxiv.org/abs/2305.02143)|null|
 |**2023-05-02**|**Basic syntax from speech: Spontaneous concatenation in unsupervised deep neural networks**|Gašper Beguš et.al.|[2305.01626](http://arxiv.org/abs/2305.01626)|null|
 |**2023-05-02**|**Learning Hard Distributions with Quantum-enhanced Variational Autoencoders**|Anantha Rao et.al.|[2305.01592](http://arxiv.org/abs/2305.01592)|null|
@@ -230,6 +232,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-04**|**Multimodal-driven Talking Face Generation, Face Swapping, Diffusion Model**|Chao Xu et.al.|[2305.02594](http://arxiv.org/abs/2305.02594)|null|
+|**2023-05-04**|**LayoutDM: Transformer-based Diffusion Model for Layout Generation**|Shang Chai et.al.|[2305.02567](http://arxiv.org/abs/2305.02567)|null|
+|**2023-05-03**|**Shap-E: Generating Conditional 3D Implicit Functions**|Heewoo Jun et.al.|[2305.02463](http://arxiv.org/abs/2305.02463)|**[link](https://github.com/openai/shap-e)**|
 |**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855](http://arxiv.org/abs/2305.01855)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
 |**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 |**2023-05-02**|**DiffuSum: Generation Enhanced Extractive Summarization with Diffusion**|Haopeng Zhang et.al.|[2305.01735](http://arxiv.org/abs/2305.01735)|null|
@@ -245,7 +250,7 @@
 |**2023-04-30**|**Towards Computational Architecture of Liberty: A Comprehensive Survey on Deep Learning for Generating Virtual Architecture in the Metaverse**|Anqi Wang et.al.|[2305.00510](http://arxiv.org/abs/2305.00510)|null|
 |**2023-05-02**|**A Review of Deep Learning Techniques for Speech Processing**|Ambuj Mehrish et.al.|[2305.00359](http://arxiv.org/abs/2305.00359)|null|
 |**2023-04-28**|**Unsupervised Discovery of 3D Hierarchical Structure with Generative Diffusion Features**|Nurislam Tursynbek et.al.|[2305.00067](http://arxiv.org/abs/2305.00067)|null|
-|**2023-04-28**|**Simplified models of diffusion in radially-symmetric geometries**|Luke P. Filippini et.al.|[2304.14632](http://arxiv.org/abs/2304.14632)|null|
+|**2023-04-28**|**Simplified models of diffusion in radially-symmetric geometries**|Luke P. Filippini et.al.|[2304.14632](http://arxiv.org/abs/2304.14632)|**[link](https://github.com/lukefilippini/filippini_2023)**|
 |**2023-04-28**|**SceneGenie: Scene Graph Guided Diffusion Models for Image Synthesis**|Azade Farshad et.al.|[2304.14573](http://arxiv.org/abs/2304.14573)|null|
 |**2023-04-27**|**It is all about where you start: Text-to-image generation with seed selection**|Dvir Samuel et.al.|[2304.14530](http://arxiv.org/abs/2304.14530)|null|
 |**2023-04-27**|**Learning a Diffusion Prior for NeRFs**|Guandao Yang et.al.|[2304.14473](http://arxiv.org/abs/2304.14473)|null|
@@ -729,9 +734,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-04**|**Adversarially-Guided Portrait Matting**|Sergej Chicherin et.al.|[2305.02981](http://arxiv.org/abs/2305.02981)|**[link](https://github.com/chroneus/stylematte)**|
+|**2023-05-04**|**Semantic-aware Generation of Multi-view Portrait Drawings**|Biao Ma et.al.|[2305.02618](http://arxiv.org/abs/2305.02618)|**[link](https://github.com/aiart-hdu/sage)**|
+|**2023-05-04**|**Multimodal-driven Talking Face Generation, Face Swapping, Diffusion Model**|Chao Xu et.al.|[2305.02594](http://arxiv.org/abs/2305.02594)|null|
 |**2023-05-03**|**Real-Time Radiance Fields for Single-Image Portrait View Synthesis**|Alex Trevithick et.al.|[2305.02310](http://arxiv.org/abs/2305.02310)|null|
 |**2023-05-03**|**LatentAvatar: Learning Latent Expression Code for Expressive Neural Head Avatar**|Yuelang Xu et.al.|[2305.01190](http://arxiv.org/abs/2305.01190)|null|
-|**2023-05-01**|**StyleAvatar: Real-time Photo-realistic Portrait Avatar from a Single Video**|Lizhen Wang et.al.|[2305.00942](http://arxiv.org/abs/2305.00942)|null|
+|**2023-05-01**|**StyleAvatar: Real-time Photo-realistic Portrait Avatar from a Single Video**|Lizhen Wang et.al.|[2305.00942](http://arxiv.org/abs/2305.00942)|**[link](https://github.com/lizhenwangt/styleavatar)**|
 |**2023-05-01**|**GeneFace++: Generalized and Stable Real-Time Audio-Driven 3D Talking Face Generation**|Zhenhui Ye et.al.|[2305.00787](http://arxiv.org/abs/2305.00787)|null|
 |**2023-05-02**|**EasyPortrait -- Face Parsing and Portrait Segmentation Dataset**|Alexander Kapitanov et.al.|[2304.13509](http://arxiv.org/abs/2304.13509)|**[link](https://github.com/hukenovs/easyportrait)**|
 |**2023-04-26**|**A Portrait of Emotion: Empowering Self-Expression through AI-Generated Art**|Yoon Kyung Lee et.al.|[2304.13324](http://arxiv.org/abs/2304.13324)|null|

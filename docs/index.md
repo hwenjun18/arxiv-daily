@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.07
+## Updated on 2023.05.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -58,7 +58,7 @@ layout: default
 |**2023-04-26**|**Multidimensional Evaluation for Text Style Transfer Using ChatGPT**|Huiyuan Lai et.al.|[2304.13462](http://arxiv.org/abs/2304.13462)|**[link](https://github.com/laihuiyuan/eval-formality-transfer)**|
 |**2023-04-26**|**DiffuseExpand: Expanding dataset for 2D medical image segmentation using diffusion models**|Shitong Shao et.al.|[2304.13416](http://arxiv.org/abs/2304.13416)|null|
 |**2023-04-25**|**LumiGAN: Unconditional Generation of Relightable 3D Human Faces**|Boyang Deng et.al.|[2304.13153](http://arxiv.org/abs/2304.13153)|null|
-|**2023-04-25**|**Directed Chain Generative Adversarial Networks**|Ming Min et.al.|[2304.13131](http://arxiv.org/abs/2304.13131)|null|
+|**2023-05-05**|**Directed Chain Generative Adversarial Networks**|Ming Min et.al.|[2304.13131](http://arxiv.org/abs/2304.13131)|null|
 |**2023-04-25**|**Learning Volatility Surfaces using Generative Adversarial Networks**|Andrew Na et.al.|[2304.13128](http://arxiv.org/abs/2304.13128)|null|
 |**2023-04-25**|**Diffusion Probabilistic Model Based Accurate and High-Degree-of-Freedom Metasurface Inverse Design**|Zezhou Zhang et.al.|[2304.13038](http://arxiv.org/abs/2304.13038)|null|
 |**2023-04-25**|**The Score-Difference Flow for Implicit Generative Modeling**|Romann M. Weber et.al.|[2304.12906](http://arxiv.org/abs/2304.12906)|null|

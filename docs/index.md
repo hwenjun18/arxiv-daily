@@ -39,6 +39,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-08**|**Enhancing synthetic training data for quantitative photoacoustic tomography with generative deep learning**|Ciaran Bench et.al.|[2305.04714](http://arxiv.org/abs/2305.04714)|null|
+|**2023-05-06**|**A Sea-Land Clutter Classification Framework for Over-the-Horizon-Radar Based on Weighted Loss Semi-supervised GAN**|Xiaoxuan Zhang et.al.|[2305.04021](http://arxiv.org/abs/2305.04021)|null|
+|**2023-05-05**|**Learning Stochastic Dynamical System via Flow Map Operator**|Yuan Chen et.al.|[2305.03874](http://arxiv.org/abs/2305.03874)|null|
 |**2023-05-05**|**Towards Applying Powerful Large AI Models in Classroom Teaching: Opportunities, Challenges and Prospects**|Kehui Tan et.al.|[2305.03433](http://arxiv.org/abs/2305.03433)|null|
 |**2023-05-04**|**A Generative Modeling Framework for Inferring Families of Biomechanical Constitutive Laws in Data-Sparse Regimes**|Minglang Yin et.al.|[2305.03184](http://arxiv.org/abs/2305.03184)|null|
 |**2023-05-04**|**Critical heat flux diagnosis using conditional generative adversarial networks**|UngJin Na et.al.|[2305.02622](http://arxiv.org/abs/2305.02622)|null|
@@ -220,6 +223,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-08**|**DiffuseStyleGesture: Stylized Audio-Driven Co-Speech Gesture Generation with Diffusion Models**|Sicheng Yang et.al.|[2305.04919](http://arxiv.org/abs/2305.04919)|null|
+|**2023-05-08**|**CaloClouds: Fast Geometry-Independent Highly-Granular Calorimeter Simulation**|Erik Buhmann et.al.|[2305.04847](http://arxiv.org/abs/2305.04847)|null|
+|**2023-05-08**|**ReGeneration Learning of Diffusion Models with Rich Prompts for Zero-Shot Image Translation**|Yupei Lin et.al.|[2305.04651](http://arxiv.org/abs/2305.04651)|null|
+|**2023-05-08**|**Three-Dimensional Dust Stirring by a Giant Planet Embedded in a Protoplanetary Disk**|Fabian Binkert et.al.|[2305.04549](http://arxiv.org/abs/2305.04549)|null|
+|**2023-05-08**|**DiffBFR: Bootstrapping Diffusion Model Towards Blind Face Restoration**|Xinmin Qiu et.al.|[2305.04517](http://arxiv.org/abs/2305.04517)|null|
+|**2023-05-08**|**Can Diffusion Model Achieve Better Performance in Text Generation? Bridging the Gap between Training and Inference!**|Zecheng Tang et.al.|[2305.04465](http://arxiv.org/abs/2305.04465)|**[link](https://github.com/codinnlg/bridge_gap_diffusion)**|
+|**2023-05-08**|**Locally Attentional SDF Diffusion for Controllable 3D Shape Generation**|Xin-Yang Zheng et.al.|[2305.04461](http://arxiv.org/abs/2305.04461)|null|
+|**2023-05-08**|**Real-World Denoising via Diffusion Model**|Cheng Yang et.al.|[2305.04457](http://arxiv.org/abs/2305.04457)|null|
+|**2023-05-08**|**Prompt Tuning Inversion for Text-Driven Image Editing Using Diffusion Models**|Wenkai Dong et.al.|[2305.04441](http://arxiv.org/abs/2305.04441)|null|
+|**2023-05-07**|**A Variational Perspective on Solving Inverse Problems with Diffusion Models**|Morteza Mardani et.al.|[2305.04391](http://arxiv.org/abs/2305.04391)|null|
+|**2023-05-07**|**Text-to-Image Diffusion Models can be Easily Backdoored through Multimodal Data Poisoning**|Shengfang Zhai et.al.|[2305.04175](http://arxiv.org/abs/2305.04175)|null|
+|**2023-05-06**|**A Latent Diffusion Model for Protein Structure Generation**|Cong Fu et.al.|[2305.04120](http://arxiv.org/abs/2305.04120)|null|
+|**2023-05-06**|**Efficient and Degree-Guided Graph Generation via Discrete Diffusion Modeling**|Xiaohui Chen et.al.|[2305.04111](http://arxiv.org/abs/2305.04111)|**[link](https://github.com/tufts-ml/graph-generation-edge)**|
+|**2023-05-06**|**Exploring One-shot Semi-supervised Federated Learning with A Pre-trained Diffusion Model**|Mingzhao Yang et.al.|[2305.04063](http://arxiv.org/abs/2305.04063)|null|
+|**2023-05-06**|**Diffusion-NAT: Self-Prompting Discrete Diffusion for Non-Autoregressive Text Generation**|Kun Zhou et.al.|[2305.04044](http://arxiv.org/abs/2305.04044)|null|
+|**2023-05-06**|**AADiff: Audio-Aligned Video Synthesis with Text-to-Image Diffusion**|Seungwoo Lee et.al.|[2305.04001](http://arxiv.org/abs/2305.04001)|null|
+|**2023-05-06**|**LEO: Generative Latent Image Animator for Human Video Synthesis**|Yaohui Wang et.al.|[2305.03989](http://arxiv.org/abs/2305.03989)|null|
+|**2023-05-06**|**Towards Prompt-robust Face Privacy Protection via Adversarial Decoupling Augmentation Framework**|Ruijia Wu et.al.|[2305.03980](http://arxiv.org/abs/2305.03980)|null|
+|**2023-05-06**|**Improved Techniques for Maximum Likelihood Estimation for Diffusion ODEs**|Kaiwen Zheng et.al.|[2305.03935](http://arxiv.org/abs/2305.03935)|null|
+|**2023-05-06**|**DocDiff: Document Enhancement via Residual Diffusion Models**|Zongyuan Yang et.al.|[2305.03892](http://arxiv.org/abs/2305.03892)|**[link](https://github.com/Royalvice/DocDiff)**|
 |**2023-05-05**|**Conditional Diffusion Feature Refinement for Continuous Sign Language Recognition**|Leming Guo et.al.|[2305.03614](http://arxiv.org/abs/2305.03614)|null|
 |**2023-05-05**|**Data Curation for Image Captioning with Text-to-Image Generative Models**|Wenyan Li et.al.|[2305.03610](http://arxiv.org/abs/2305.03610)|null|
 |**2023-05-05**|**Iterative $α$ -(de)Blending: a Minimalist Deterministic Diffusion Model**|Eric Heitz et.al.|[2305.03486](http://arxiv.org/abs/2305.03486)|null|
@@ -522,6 +545,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-08**|**ReGeneration Learning of Diffusion Models with Rich Prompts for Zero-Shot Image Translation**|Yupei Lin et.al.|[2305.04651](http://arxiv.org/abs/2305.04651)|null|
+|**2023-05-08**|**Prompt Tuning Inversion for Text-Driven Image Editing Using Diffusion Models**|Wenkai Dong et.al.|[2305.04441](http://arxiv.org/abs/2305.04441)|null|
+|**2023-05-07**|**A Variational Perspective on Solving Inverse Problems with Diffusion Models**|Morteza Mardani et.al.|[2305.04391](http://arxiv.org/abs/2305.04391)|null|
+|**2023-05-06**|**Unlocking Low-Light-Rainy Image Restoration by Pairwise Degradation Feature Vector Guidance**|Xin Lin et.al.|[2305.03997](http://arxiv.org/abs/2305.03997)|null|
 |**2023-05-05**|**Guided Image Synthesis via Initial Image Editing in Diffusion Model**|Jiafeng Mao et.al.|[2305.03382](http://arxiv.org/abs/2305.03382)|null|
 |**2023-05-03**|**Bicubic++: Slim, Slimmer, Slimmest -- Designing an Industry-Grade Super-Resolution Network**|Bahri Batuhan Bilecen et.al.|[2305.02126](http://arxiv.org/abs/2305.02126)|null|
 |**2023-05-03**|**Bio-Inspired Simple Neural Network for Low-Light Image Restoration: A Minimalist Approach**|Junjie Ye et.al.|[2305.01844](http://arxiv.org/abs/2305.01844)|null|
@@ -723,6 +750,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-08**|**Controllable Light Diffusion for Portraits**|David Futschik et.al.|[2305.04745](http://arxiv.org/abs/2305.04745)|null|
+|**2023-05-08**|**FashionTex: Controllable Virtual Try-on with Text and Texture**|Anran Lin et.al.|[2305.04451](http://arxiv.org/abs/2305.04451)|null|
 |**2023-05-05**|**Avatar Fingerprinting for Authorized Use of Synthetic Talking-Head Videos**|Ekta Prashnani et.al.|[2305.03713](http://arxiv.org/abs/2305.03713)|null|
 |**2023-05-04**|**Adversarially-Guided Portrait Matting**|Sergej Chicherin et.al.|[2305.02981](http://arxiv.org/abs/2305.02981)|**[link](https://github.com/chroneus/stylematte)**|
 |**2023-05-04**|**Semantic-aware Generation of Multi-view Portrait Drawings**|Biao Ma et.al.|[2305.02618](http://arxiv.org/abs/2305.02618)|**[link](https://github.com/aiart-hdu/sage)**|

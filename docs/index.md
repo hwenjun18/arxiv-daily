@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.08
+## Updated on 2023.05.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -46,7 +46,7 @@ layout: default
 |**2023-05-03**|**GANonymization: A GAN-based Face Anonymization Framework for Preserving Emotional Expressions**|Fabio Hellmann et.al.|[2305.02143](http://arxiv.org/abs/2305.02143)|null|
 |**2023-05-02**|**Basic syntax from speech: Spontaneous concatenation in unsupervised deep neural networks**|Gašper Beguš et.al.|[2305.01626](http://arxiv.org/abs/2305.01626)|null|
 |**2023-05-02**|**Learning Hard Distributions with Quantum-enhanced Variational Autoencoders**|Anantha Rao et.al.|[2305.01592](http://arxiv.org/abs/2305.01592)|null|
-|**2023-05-02**|**AQ-GT: a Temporally Aligned and Quantized GRU-Transformer for Co-Speech Gesture Synthesis**|Hendric Voß et.al.|[2305.01241](http://arxiv.org/abs/2305.01241)|null|
+|**2023-05-08**|**AQ-GT: a Temporally Aligned and Quantized GRU-Transformer for Co-Speech Gesture Synthesis**|Hendric Voß et.al.|[2305.01241](http://arxiv.org/abs/2305.01241)|null|
 |**2023-05-01**|**Hypernuclear event detection in the nuclear emulsion with Monte Carlo simulation and machine learning**|A. Kasagi et.al.|[2305.00884](http://arxiv.org/abs/2305.00884)|null|
 |**2023-04-30**|**StyleGenes: Discrete and Efficient Latent Distributions for GANs**|Evangelos Ntavelis et.al.|[2305.00599](http://arxiv.org/abs/2305.00599)|null|
 |**2023-04-30**|**Towards Computational Architecture of Liberty: A Comprehensive Survey on Deep Learning for Generating Virtual Architecture in the Metaverse**|Anqi Wang et.al.|[2305.00510](http://arxiv.org/abs/2305.00510)|null|

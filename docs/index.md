@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.09
+## Updated on 2023.05.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -229,13 +229,13 @@ layout: default
 |**2023-05-08**|**Three-Dimensional Dust Stirring by a Giant Planet Embedded in a Protoplanetary Disk**|Fabian Binkert et.al.|[2305.04549](http://arxiv.org/abs/2305.04549)|null|
 |**2023-05-08**|**DiffBFR: Bootstrapping Diffusion Model Towards Blind Face Restoration**|Xinmin Qiu et.al.|[2305.04517](http://arxiv.org/abs/2305.04517)|null|
 |**2023-05-08**|**Can Diffusion Model Achieve Better Performance in Text Generation? Bridging the Gap between Training and Inference!**|Zecheng Tang et.al.|[2305.04465](http://arxiv.org/abs/2305.04465)|**[link](https://github.com/codinnlg/bridge_gap_diffusion)**|
-|**2023-05-08**|**Locally Attentional SDF Diffusion for Controllable 3D Shape Generation**|Xin-Yang Zheng et.al.|[2305.04461](http://arxiv.org/abs/2305.04461)|null|
+|**2023-05-09**|**Locally Attentional SDF Diffusion for Controllable 3D Shape Generation**|Xin-Yang Zheng et.al.|[2305.04461](http://arxiv.org/abs/2305.04461)|null|
 |**2023-05-08**|**Real-World Denoising via Diffusion Model**|Cheng Yang et.al.|[2305.04457](http://arxiv.org/abs/2305.04457)|null|
 |**2023-05-08**|**Prompt Tuning Inversion for Text-Driven Image Editing Using Diffusion Models**|Wenkai Dong et.al.|[2305.04441](http://arxiv.org/abs/2305.04441)|null|
 |**2023-05-07**|**A Variational Perspective on Solving Inverse Problems with Diffusion Models**|Morteza Mardani et.al.|[2305.04391](http://arxiv.org/abs/2305.04391)|null|
 |**2023-05-07**|**Text-to-Image Diffusion Models can be Easily Backdoored through Multimodal Data Poisoning**|Shengfang Zhai et.al.|[2305.04175](http://arxiv.org/abs/2305.04175)|null|
 |**2023-05-06**|**A Latent Diffusion Model for Protein Structure Generation**|Cong Fu et.al.|[2305.04120](http://arxiv.org/abs/2305.04120)|null|
-|**2023-05-06**|**Efficient and Degree-Guided Graph Generation via Discrete Diffusion Modeling**|Xiaohui Chen et.al.|[2305.04111](http://arxiv.org/abs/2305.04111)|**[link](https://github.com/tufts-ml/graph-generation-edge)**|
+|**2023-05-09**|**Efficient and Degree-Guided Graph Generation via Discrete Diffusion Modeling**|Xiaohui Chen et.al.|[2305.04111](http://arxiv.org/abs/2305.04111)|**[link](https://github.com/tufts-ml/graph-generation-edge)**|
 |**2023-05-06**|**Exploring One-shot Semi-supervised Federated Learning with A Pre-trained Diffusion Model**|Mingzhao Yang et.al.|[2305.04063](http://arxiv.org/abs/2305.04063)|null|
 |**2023-05-06**|**Diffusion-NAT: Self-Prompting Discrete Diffusion for Non-Autoregressive Text Generation**|Kun Zhou et.al.|[2305.04044](http://arxiv.org/abs/2305.04044)|null|
 |**2023-05-06**|**AADiff: Audio-Aligned Video Synthesis with Text-to-Image Diffusion**|Seungwoo Lee et.al.|[2305.04001](http://arxiv.org/abs/2305.04001)|null|
@@ -755,7 +755,7 @@ layout: default
 |**2023-05-05**|**Avatar Fingerprinting for Authorized Use of Synthetic Talking-Head Videos**|Ekta Prashnani et.al.|[2305.03713](http://arxiv.org/abs/2305.03713)|null|
 |**2023-05-04**|**Adversarially-Guided Portrait Matting**|Sergej Chicherin et.al.|[2305.02981](http://arxiv.org/abs/2305.02981)|**[link](https://github.com/chroneus/stylematte)**|
 |**2023-05-04**|**Semantic-aware Generation of Multi-view Portrait Drawings**|Biao Ma et.al.|[2305.02618](http://arxiv.org/abs/2305.02618)|**[link](https://github.com/aiart-hdu/sage)**|
-|**2023-05-04**|**Multimodal-driven Talking Face Generation, Face Swapping, Diffusion Model**|Chao Xu et.al.|[2305.02594](http://arxiv.org/abs/2305.02594)|null|
+|**2023-05-09**|**Multimodal-driven Talking Face Generation via a Unified Diffusion-based Generator**|Chao Xu et.al.|[2305.02594](http://arxiv.org/abs/2305.02594)|null|
 |**2023-05-03**|**Real-Time Radiance Fields for Single-Image Portrait View Synthesis**|Alex Trevithick et.al.|[2305.02310](http://arxiv.org/abs/2305.02310)|null|
 |**2023-05-03**|**LatentAvatar: Learning Latent Expression Code for Expressive Neural Head Avatar**|Yuelang Xu et.al.|[2305.01190](http://arxiv.org/abs/2305.01190)|null|
 |**2023-05-01**|**StyleAvatar: Real-time Photo-realistic Portrait Avatar from a Single Video**|Lizhen Wang et.al.|[2305.00942](http://arxiv.org/abs/2305.00942)|**[link](https://github.com/lizhenwangt/styleavatar)**|

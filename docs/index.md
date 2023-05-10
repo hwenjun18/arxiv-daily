@@ -39,6 +39,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-09**|**Style-A-Video: Agile Diffusion for Arbitrary Text-based Video Style Transfer**|Nisha Huang et.al.|[2305.05464](http://arxiv.org/abs/2305.05464)|**[link](https://github.com/haha-lisa/style-a-video)**|
+|**2023-05-09**|**Joint Multi-scale Cross-lingual Speaking Style Transfer with Bidirectional Attention Mechanism for Automatic Dubbing**|Jingbei Li et.al.|[2305.05203](http://arxiv.org/abs/2305.05203)|null|
+|**2023-05-09**|**Who is Speaking Actually? Robust and Versatile Speaker Traceability for Voice Conversion**|Yanzhen Ren et.al.|[2305.05152](http://arxiv.org/abs/2305.05152)|null|
 |**2023-05-08**|**Enhancing synthetic training data for quantitative photoacoustic tomography with generative deep learning**|Ciaran Bench et.al.|[2305.04714](http://arxiv.org/abs/2305.04714)|null|
 |**2023-05-06**|**A Sea-Land Clutter Classification Framework for Over-the-Horizon-Radar Based on Weighted Loss Semi-supervised GAN**|Xiaoxuan Zhang et.al.|[2305.04021](http://arxiv.org/abs/2305.04021)|null|
 |**2023-05-05**|**Learning Stochastic Dynamical System via Flow Map Operator**|Yuan Chen et.al.|[2305.03874](http://arxiv.org/abs/2305.03874)|null|
@@ -223,7 +226,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-05-08**|**DiffuseStyleGesture: Stylized Audio-Driven Co-Speech Gesture Generation with Diffusion Models**|Sicheng Yang et.al.|[2305.04919](http://arxiv.org/abs/2305.04919)|null|
+|**2023-05-09**|**Style-A-Video: Agile Diffusion for Arbitrary Text-based Video Style Transfer**|Nisha Huang et.al.|[2305.05464](http://arxiv.org/abs/2305.05464)|**[link](https://github.com/haha-lisa/style-a-video)**|
+|**2023-05-09**|**Echo from noise: synthetic ultrasound image generation using diffusion models for real image segmentation**|David Stojanovski et.al.|[2305.05424](http://arxiv.org/abs/2305.05424)|null|
+|**2023-05-09**|**Concentration in an advection-diffusion model with diffusion coefficient depending on the past trajectory**|Cosmin Burtea et.al.|[2305.05251](http://arxiv.org/abs/2305.05251)|null|
+|**2023-05-09**|**SUR-adapter: Enhancing Text-to-Image Pre-trained Diffusion Models with Large Language Models**|Shanshan Zhong et.al.|[2305.05189](http://arxiv.org/abs/2305.05189)|null|
+|**2023-05-09**|**Modeling Viral Information Spreading via Directed Acyclic Graph Diffusion**|Chinthaka Dinesh et.al.|[2305.05107](http://arxiv.org/abs/2305.05107)|null|
+|**2023-05-08**|**Atmospheric Turbulence Correction via Variational Deep Diffusion**|Xijun Wang et.al.|[2305.05077](http://arxiv.org/abs/2305.05077)|null|
+|**2023-05-08**|**DiffuseStyleGesture: Stylized Audio-Driven Co-Speech Gesture Generation with Diffusion Models**|Sicheng Yang et.al.|[2305.04919](http://arxiv.org/abs/2305.04919)|**[link](https://github.com/youngseng/diffusestylegesture)**|
 |**2023-05-08**|**CaloClouds: Fast Geometry-Independent Highly-Granular Calorimeter Simulation**|Erik Buhmann et.al.|[2305.04847](http://arxiv.org/abs/2305.04847)|null|
 |**2023-05-08**|**ReGeneration Learning of Diffusion Models with Rich Prompts for Zero-Shot Image Translation**|Yupei Lin et.al.|[2305.04651](http://arxiv.org/abs/2305.04651)|null|
 |**2023-05-08**|**Three-Dimensional Dust Stirring by a Giant Planet Embedded in a Protoplanetary Disk**|Fabian Binkert et.al.|[2305.04549](http://arxiv.org/abs/2305.04549)|null|
@@ -545,6 +554,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-09**|**Trans-Inpainter: A Transformer Model for High Accuracy Image Inpainting from Channel State Information**|Cheng Chen et.al.|[2305.05385](http://arxiv.org/abs/2305.05385)|null|
+|**2023-05-09**|**Hybrid Transformer and CNN Attention Network for Stereo Image Super-resolution**|Ming Cheng et.al.|[2305.05177](http://arxiv.org/abs/2305.05177)|null|
+|**2023-05-09**|**A Mountain-Shaped Single-Stage Network for Accurate Image Restoration**|Hu Gao et.al.|[2305.05146](http://arxiv.org/abs/2305.05146)|**[link](https://github.com/Tombs98/M3SNet)**|
 |**2023-05-08**|**ReGeneration Learning of Diffusion Models with Rich Prompts for Zero-Shot Image Translation**|Yupei Lin et.al.|[2305.04651](http://arxiv.org/abs/2305.04651)|null|
 |**2023-05-08**|**Prompt Tuning Inversion for Text-Driven Image Editing Using Diffusion Models**|Wenkai Dong et.al.|[2305.04441](http://arxiv.org/abs/2305.04441)|null|
 |**2023-05-07**|**A Variational Perspective on Solving Inverse Problems with Diffusion Models**|Morteza Mardani et.al.|[2305.04391](http://arxiv.org/abs/2305.04391)|null|

@@ -51,6 +51,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-10**|**DaGAN++: Depth-Aware Generative Adversarial Network for Talking Head Video Generation**|Fa-Ting Hong et.al.|[2305.06225](http://arxiv.org/abs/2305.06225)|**[link](https://github.com/harlanhong/cvpr2022-dagan)**|
+|**2023-05-10**|**Post-training Model Quantization Using GANs for Synthetic Data Generation**|Athanasios Masouris et.al.|[2305.06052](http://arxiv.org/abs/2305.06052)|**[link](https://github.com/thanosm97/gsoc2022-openvino)**|
+|**2023-05-10**|**Adapter-TST: A Parameter Efficient Method for Multiple-Attribute Text Style Transfer**|Zhiqiang Hu et.al.|[2305.05945](http://arxiv.org/abs/2305.05945)|null|
+|**2023-05-09**|**Enhancing Gappy Speech Audio Signals with Generative Adversarial Networks**|Deniss Strods et.al.|[2305.05780](http://arxiv.org/abs/2305.05780)|null|
 |**2023-05-09**|**Style-A-Video: Agile Diffusion for Arbitrary Text-based Video Style Transfer**|Nisha Huang et.al.|[2305.05464](http://arxiv.org/abs/2305.05464)|**[link](https://github.com/haha-lisa/style-a-video)**|
 |**2023-05-09**|**Joint Multi-scale Cross-lingual Speaking Style Transfer with Bidirectional Attention Mechanism for Automatic Dubbing**|Jingbei Li et.al.|[2305.05203](http://arxiv.org/abs/2305.05203)|null|
 |**2023-05-09**|**Who is Speaking Actually? Robust and Versatile Speaker Traceability for Voice Conversion**|Yanzhen Ren et.al.|[2305.05152](http://arxiv.org/abs/2305.05152)|null|
@@ -240,8 +244,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-10**|**Relightify: Relightable 3D Faces from a Single Image via Diffusion Models**|Foivos Paraperas Papantoniou et.al.|[2305.06077](http://arxiv.org/abs/2305.06077)|null|
+|**2023-05-10**|**iEdit: Localised Text-guided Image Editing with Weak Supervision**|Rumeysa Bodur et.al.|[2305.05947](http://arxiv.org/abs/2305.05947)|null|
+|**2023-05-10**|**On the impact of noise on quennching for a nonlocal diffusion model driven by a mixture of Brownian and fractional Brownian motions**|Nikos I. Kavallaris et.al.|[2305.05946](http://arxiv.org/abs/2305.05946)|null|
+|**2023-05-10**|**Text-guided High-definition Consistency Texture Model**|Zhibin Tang et.al.|[2305.05901](http://arxiv.org/abs/2305.05901)|null|
+|**2023-05-10**|**Diffusion-based Signal Refiner for Speech Enhancement**|Masato Hirano et.al.|[2305.05857](http://arxiv.org/abs/2305.05857)|null|
+|**2023-05-09**|**Comprehensive Dataset of Synthetic and Manipulated Overhead Imagery for Development and Evaluation of Forensic Tools**|Brandon B. May et.al.|[2305.05784](http://arxiv.org/abs/2305.05784)|null|
 |**2023-05-09**|**Style-A-Video: Agile Diffusion for Arbitrary Text-based Video Style Transfer**|Nisha Huang et.al.|[2305.05464](http://arxiv.org/abs/2305.05464)|**[link](https://github.com/haha-lisa/style-a-video)**|
-|**2023-05-09**|**Echo from noise: synthetic ultrasound image generation using diffusion models for real image segmentation**|David Stojanovski et.al.|[2305.05424](http://arxiv.org/abs/2305.05424)|null|
+|**2023-05-09**|**Echo from noise: synthetic ultrasound image generation using diffusion models for real image segmentation**|David Stojanovski et.al.|[2305.05424](http://arxiv.org/abs/2305.05424)|**[link](https://github.com/david-stojanovski/echo_from_noise)**|
 |**2023-05-09**|**Concentration in an advection-diffusion model with diffusion coefficient depending on the past trajectory**|Cosmin Burtea et.al.|[2305.05251](http://arxiv.org/abs/2305.05251)|null|
 |**2023-05-09**|**SUR-adapter: Enhancing Text-to-Image Pre-trained Diffusion Models with Large Language Models**|Shanshan Zhong et.al.|[2305.05189](http://arxiv.org/abs/2305.05189)|null|
 |**2023-05-09**|**Modeling Viral Information Spreading via Directed Acyclic Graph Diffusion**|Chinthaka Dinesh et.al.|[2305.05107](http://arxiv.org/abs/2305.05107)|null|
@@ -570,6 +580,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-10**|**iEdit: Localised Text-guided Image Editing with Weak Supervision**|Rumeysa Bodur et.al.|[2305.05947](http://arxiv.org/abs/2305.05947)|null|
+|**2023-05-10**|**Mobile Image Restoration via Prior Quantization**|Shiqi Chen et.al.|[2305.05899](http://arxiv.org/abs/2305.05899)|null|
 |**2023-05-09**|**Trans-Inpainter: A Transformer Model for High Accuracy Image Inpainting from Channel State Information**|Cheng Chen et.al.|[2305.05385](http://arxiv.org/abs/2305.05385)|null|
 |**2023-05-09**|**Hybrid Transformer and CNN Attention Network for Stereo Image Super-resolution**|Ming Cheng et.al.|[2305.05177](http://arxiv.org/abs/2305.05177)|null|
 |**2023-05-09**|**A Mountain-Shaped Single-Stage Network for Accurate Image Restoration**|Hu Gao et.al.|[2305.05146](http://arxiv.org/abs/2305.05146)|**[link](https://github.com/Tombs98/M3SNet)**|

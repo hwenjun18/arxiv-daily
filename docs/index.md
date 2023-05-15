@@ -39,6 +39,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-12**|**Spider GAN: Leveraging Friendly Neighbors to Accelerate GAN Training**|Siddarth Asokan et.al.|[2305.07613](http://arxiv.org/abs/2305.07613)|null|
+|**2023-05-12**|**Color Deconvolution applied to Domain Adaptation in HER2 histopathological images**|David Anglada-Rotger et.al.|[2305.07404](http://arxiv.org/abs/2305.07404)|null|
+|**2023-05-12**|**A Full Quantum Generative Adversarial Network Model for High Energy Physics Simulations**|Florian Rehm et.al.|[2305.07284](http://arxiv.org/abs/2305.07284)|null|
 |**2023-05-11**|**Realization RGBD Image Stylization**|Bhavya Sehgal et.al.|[2305.06565](http://arxiv.org/abs/2305.06565)|null|
 |**2023-05-10**|**Analyzing Bias in Diffusion-based Face Generation Models**|Malsha V. Perera et.al.|[2305.06402](http://arxiv.org/abs/2305.06402)|null|
 |**2023-05-10**|**DaGAN++: Depth-Aware Generative Adversarial Network for Talking Head Video Generation**|Fa-Ting Hong et.al.|[2305.06225](http://arxiv.org/abs/2305.06225)|**[link](https://github.com/harlanhong/cvpr2022-dagan)**|
@@ -232,6 +235,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-12**|**Beware of diffusion models for synthesizing medical images -- A comparison with GANs in terms of memorizing brain tumor images**|Muhammad Usman Akbar et.al.|[2305.07644](http://arxiv.org/abs/2305.07644)|null|
+|**2023-05-11**|**MolDiff: Addressing the Atom-Bond Inconsistency Problem in 3D Molecule Diffusion Generation**|Xingang Peng et.al.|[2305.07508](http://arxiv.org/abs/2305.07508)|null|
 |**2023-05-11**|**Exploiting Diffusion Prior for Real-World Image Super-Resolution**|Jianyi Wang et.al.|[2305.07015](http://arxiv.org/abs/2305.07015)|null|
 |**2023-05-11**|**CoMoSpeech: One-Step Speech and Singing Voice Synthesis via Consistency Model**|Zhen Ye et.al.|[2305.06908](http://arxiv.org/abs/2305.06908)|null|
 |**2023-05-11**|**Generation of Structurally Realistic Retinal Fundus Images with Diffusion Models**|Sojung Go et.al.|[2305.06813](http://arxiv.org/abs/2305.06813)|null|
@@ -685,6 +690,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-12**|**BundleRecon: Ray Bundle-Based 3D Neural Reconstruction**|Weikun Zhang et.al.|[2305.07342](http://arxiv.org/abs/2305.07342)|null|
 |**2023-05-05**|**Learn how to Prune Pixels for Multi-view Neural Image-based Synthesis**|Marta Milovanović et.al.|[2305.03572](http://arxiv.org/abs/2305.03572)|null|
 |**2023-05-03**|**ScatterNeRF: Seeing Through Fog with Physically-Based Inverse Neural Rendering**|Andrea Ramazzina et.al.|[2305.02103](http://arxiv.org/abs/2305.02103)|null|
 |**2023-04-30**|**Object-Centric Voxelization of Dynamic Scenes via Inverse Neural Rendering**|Siyu Gao et.al.|[2305.00393](http://arxiv.org/abs/2305.00393)|null|

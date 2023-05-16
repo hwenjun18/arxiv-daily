@@ -39,6 +39,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-15**|**Generative Adversarial Networks for Spatio-Spectral Compression of Hyperspectral Images**|Akshara Preethy Byju et.al.|[2305.08514](http://arxiv.org/abs/2305.08514)|null|
+|**2023-05-14**|**Local Convergence of Gradient Descent-Ascent for Training Generative Adversarial Networks**|Evan Becker et.al.|[2305.08277](http://arxiv.org/abs/2305.08277)|null|
+|**2023-05-14**|**Street Layout Design via Conditional Adversarial Learning**|Lehao Yang et.al.|[2305.08186](http://arxiv.org/abs/2305.08186)|null|
 |**2023-05-12**|**Spider GAN: Leveraging Friendly Neighbors to Accelerate GAN Training**|Siddarth Asokan et.al.|[2305.07613](http://arxiv.org/abs/2305.07613)|null|
 |**2023-05-12**|**Color Deconvolution applied to Domain Adaptation in HER2 histopathological images**|David Anglada-Rotger et.al.|[2305.07404](http://arxiv.org/abs/2305.07404)|null|
 |**2023-05-12**|**A Full Quantum Generative Adversarial Network Model for High Energy Physics Simulations**|Florian Rehm et.al.|[2305.07284](http://arxiv.org/abs/2305.07284)|null|
@@ -235,6 +238,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-15**|**Laughing Matters: Introducing Laughing-Face Generation using Diffusion Models**|Antoni Bigata Casademunt et.al.|[2305.08854](http://arxiv.org/abs/2305.08854)|null|
+|**2023-05-15**|**Make-A-Protagonist: Generic Video Editing with An Ensemble of Experts**|Yuyang Zhao et.al.|[2305.08850](http://arxiv.org/abs/2305.08850)|null|
+|**2023-05-15**|**A Reproducible Extraction of Training Images from Diffusion Models**|Ryan Webster et.al.|[2305.08694](http://arxiv.org/abs/2305.08694)|**[link](https://github.com/ryanwebster90/onestep-extraction)**|
+|**2023-05-15**|**Higher-order Maxwell-Stefan model of diffusion**|Bérénice Grec et.al.|[2305.08412](http://arxiv.org/abs/2305.08412)|null|
+|**2023-05-15**|**TESS: Text-to-Text Self-Conditioned Simplex Diffusion**|Rabeeh Karimi Mahabadi et.al.|[2305.08379](http://arxiv.org/abs/2305.08379)|null|
+|**2023-05-14**|**Diffusion Models for Imperceptible and Transferable Adversarial Attack**|Jianqi Chen et.al.|[2305.08192](http://arxiv.org/abs/2305.08192)|**[link](https://github.com/windvchen/diffattack)**|
+|**2023-05-14**|**Manipulating Visually-aware Federated Recommender Systems and Its Countermeasures**|Wei Yuan et.al.|[2305.08183](http://arxiv.org/abs/2305.08183)|null|
+|**2023-05-14**|**Meta-DM: Applications of Diffusion Models on Few-Shot Learning**|Wentao Hu et.al.|[2305.08092](http://arxiv.org/abs/2305.08092)|null|
+|**2023-05-14**|**On enhancing the robustness of Vision Transformers: Defensive Diffusion**|Raza Imam et.al.|[2305.08031](http://arxiv.org/abs/2305.08031)|**[link](https://github.com/muhammad-huzaifaa/defensive_diffusion)**|
+|**2023-05-12**|**AWFSD: Accelerated Wirtinger Flow with Score-based Diffusion Image Prior for Poisson-Gaussian Holographic Phase Retrieval**|Zongyu Li et.al.|[2305.07712](http://arxiv.org/abs/2305.07712)|null|
+|**2023-05-11**|**LatentPINNs: Generative physics-informed neural networks via a latent representation learning**|Mohammad H. Taufik et.al.|[2305.07671](http://arxiv.org/abs/2305.07671)|null|
 |**2023-05-12**|**Beware of diffusion models for synthesizing medical images -- A comparison with GANs in terms of memorizing brain tumor images**|Muhammad Usman Akbar et.al.|[2305.07644](http://arxiv.org/abs/2305.07644)|null|
 |**2023-05-11**|**MolDiff: Addressing the Atom-Bond Inconsistency Problem in 3D Molecule Diffusion Generation**|Xingang Peng et.al.|[2305.07508](http://arxiv.org/abs/2305.07508)|null|
 |**2023-05-11**|**Exploiting Diffusion Prior for Real-World Image Super-Resolution**|Jianyi Wang et.al.|[2305.07015](http://arxiv.org/abs/2305.07015)|null|
@@ -578,6 +592,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-15**|**Toward Moiré-Free and Detail-Preserving Demosaicking**|Xuanchen Li et.al.|[2305.08585](http://arxiv.org/abs/2305.08585)|null|
+|**2023-05-13**|**A Two-Stage Real Image Deraining Method for GT-RAIN Challenge CVPR 2023 Workshop UG $^{\textbf{2}}$ + Track 3**|Yun Guo et.al.|[2305.07979](http://arxiv.org/abs/2305.07979)|**[link](https://github.com/yunguo224/ug2_deraining)**|
 |**2023-05-11**|**Realization RGBD Image Stylization**|Bhavya Sehgal et.al.|[2305.06565](http://arxiv.org/abs/2305.06565)|null|
 |**2023-05-10**|**Analyzing Bias in Diffusion-based Face Generation Models**|Malsha V. Perera et.al.|[2305.06402](http://arxiv.org/abs/2305.06402)|null|
 |**2023-05-10**|**iEdit: Localised Text-guided Image Editing with Weak Supervision**|Rumeysa Bodur et.al.|[2305.05947](http://arxiv.org/abs/2305.05947)|null|
@@ -690,6 +706,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-15**|**Inverse Rendering of Translucent Objects using Physical and Neural Renderers**|Chenhao Li et.al.|[2305.08336](http://arxiv.org/abs/2305.08336)|null|
 |**2023-05-12**|**BundleRecon: Ray Bundle-Based 3D Neural Reconstruction**|Weikun Zhang et.al.|[2305.07342](http://arxiv.org/abs/2305.07342)|null|
 |**2023-05-05**|**Learn how to Prune Pixels for Multi-view Neural Image-based Synthesis**|Marta Milovanović et.al.|[2305.03572](http://arxiv.org/abs/2305.03572)|null|
 |**2023-05-03**|**ScatterNeRF: Seeing Through Fog with Physically-Based Inverse Neural Rendering**|Andrea Ramazzina et.al.|[2305.02103](http://arxiv.org/abs/2305.02103)|null|
@@ -791,6 +808,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-15**|**Laughing Matters: Introducing Laughing-Face Generation using Diffusion Models**|Antoni Bigata Casademunt et.al.|[2305.08854](http://arxiv.org/abs/2305.08854)|null|
 |**2023-05-08**|**Controllable Light Diffusion for Portraits**|David Futschik et.al.|[2305.04745](http://arxiv.org/abs/2305.04745)|null|
 |**2023-05-08**|**FashionTex: Controllable Virtual Try-on with Text and Texture**|Anran Lin et.al.|[2305.04451](http://arxiv.org/abs/2305.04451)|null|
 |**2023-05-05**|**Avatar Fingerprinting for Authorized Use of Synthetic Talking-Head Videos**|Ekta Prashnani et.al.|[2305.03713](http://arxiv.org/abs/2305.03713)|null|

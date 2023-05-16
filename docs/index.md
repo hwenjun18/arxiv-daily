@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.15
+## Updated on 2023.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -810,7 +810,7 @@ layout: default
 |**2023-04-13**|**DiffusionRig: Learning Personalized Priors for Facial Appearance Editing**|Zheng Ding et.al.|[2304.06711](http://arxiv.org/abs/2304.06711)|null|
 |**2023-04-12**|**EgoDist: Comparing networks via distributions of egonet features**|Carlo Piccardi et.al.|[2304.05801](http://arxiv.org/abs/2304.05801)|null|
 |**2023-04-12**|**An Image Quality Assessment Dataset for Portraits**|Nicolas Chahine et.al.|[2304.05772](http://arxiv.org/abs/2304.05772)|**[link](https://github.com/dxomark-research/piq2023)**|
-|**2023-05-02**|**ITportrait: Image-Text Coupled 3D Portrait Domain Adaptation**|Xiangwen Deng et.al.|[2304.04364](http://arxiv.org/abs/2304.04364)|null|
+|**2023-05-15**|**ITportrait: Image-Text Coupled 3D Portrait Domain Adaptation**|Xiangwen Deng et.al.|[2304.04364](http://arxiv.org/abs/2304.04364)|null|
 |**2023-04-24**|**Region-Aware Portrait Retouching with Sparse Interactive Guidance**|Huimin Zeng et.al.|[2304.04017](http://arxiv.org/abs/2304.04017)|**[link](https://github.com/zeldam1/interactive_portrat_retouching)**|
 |**2023-04-07**|**What does ChatGPT return about human values? Exploring value bias in ChatGPT using a descriptive value theory**|Ronald Fischer et.al.|[2304.03612](http://arxiv.org/abs/2304.03612)|null|
 |**2023-04-06**|**Interpretable statistical representations of neural population dynamics and geometry**|Adam Gosztolai et.al.|[2304.03376](http://arxiv.org/abs/2304.03376)|**[link](https://github.com/agosztolai/marble)**|

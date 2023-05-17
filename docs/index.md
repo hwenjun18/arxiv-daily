@@ -39,6 +39,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-16**|**Wavelet-based Unsupervised Label-to-Image Translation**|George Eskandar et.al.|[2305.09647](http://arxiv.org/abs/2305.09647)|**[link](https://github.com/GeorgeEskandar/USIS-Unsupervised-Semantic-Image-Synthesis)**|
+|**2023-05-16**|**Urban-StyleGAN: Learning to Generate and Manipulate Images of Urban Scenes**|George Eskandar et.al.|[2305.09602](http://arxiv.org/abs/2305.09602)|null|
+|**2023-05-16**|**Improved Type III solar radio burst detection using congruent deep learning models**|Jeremiah Scully et.al.|[2305.09327](http://arxiv.org/abs/2305.09327)|null|
+|**2023-05-16**|**Style Transfer Enabled Sim2Real Framework for Efficient Learning of Robotic Ultrasound Image Analysis Using Simulated Data**|Keyu Li et.al.|[2305.09169](http://arxiv.org/abs/2305.09169)|null|
+|**2023-05-14**|**Smart Home Energy Management: VAE-GAN synthetic dataset generator and Q-learning**|Mina Razghandi et.al.|[2305.08885](http://arxiv.org/abs/2305.08885)|null|
 |**2023-05-15**|**Generative Adversarial Networks for Spatio-Spectral Compression of Hyperspectral Images**|Akshara Preethy Byju et.al.|[2305.08514](http://arxiv.org/abs/2305.08514)|null|
 |**2023-05-14**|**Local Convergence of Gradient Descent-Ascent for Training Generative Adversarial Networks**|Evan Becker et.al.|[2305.08277](http://arxiv.org/abs/2305.08277)|null|
 |**2023-05-14**|**Street Layout Design via Conditional Adversarial Learning**|Lehao Yang et.al.|[2305.08186](http://arxiv.org/abs/2305.08186)|null|
@@ -238,6 +243,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-16**|**Make-An-Animation: Large-Scale Text-conditional 3D Human Motion Generation**|Samaneh Azadi et.al.|[2305.09662](http://arxiv.org/abs/2305.09662)|null|
+|**2023-05-16**|**Expressiveness Remarks for Denoising Diffusion Models and Samplers**|Francisco Vargas et.al.|[2305.09605](http://arxiv.org/abs/2305.09605)|null|
+|**2023-05-16**|**AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation**|Tong Wu et.al.|[2305.09515](http://arxiv.org/abs/2305.09515)|null|
+|**2023-05-16**|**Multi-Level Global Context Cross Consistency Model for Semi-Supervised Ultrasound Image Segmentation with Diffusion Model**|Fenghe Tang et.al.|[2305.09447](http://arxiv.org/abs/2305.09447)|**[link](https://github.com/FengheTan9/Multi-Level-Global-Context-Cross-Consistency)**|
+|**2023-05-16**|**Diffusion Dataset Generation: Towards Closing the Sim2Real Gap for Pedestrian Detection**|Andrew Farley et.al.|[2305.09401](http://arxiv.org/abs/2305.09401)|null|
+|**2023-05-16**|**AMD Autoregressive Motion Diffusion**|Bo Han et.al.|[2305.09381](http://arxiv.org/abs/2305.09381)|null|
+|**2023-05-16**|**Unlearnable Examples Give a False Sense of Security: Piercing through Unexploitable Data with Learnable Examples**|Wan Jiang et.al.|[2305.09241](http://arxiv.org/abs/2305.09241)|null|
+|**2023-05-16**|**CDDM: Channel Denoising Diffusion Models for Wireless Communications**|Tong Wu et.al.|[2305.09161](http://arxiv.org/abs/2305.09161)|null|
+|**2023-05-15**|**Denoising Diffusion Models for Plug-and-Play Image Restoration**|Yuanzhi Zhu et.al.|[2305.08995](http://arxiv.org/abs/2305.08995)|**[link](https://github.com/yuanzhi-zhu/diffpir)**|
 |**2023-05-15**|**Laughing Matters: Introducing Laughing-Face Generation using Diffusion Models**|Antoni Bigata Casademunt et.al.|[2305.08854](http://arxiv.org/abs/2305.08854)|null|
 |**2023-05-15**|**Make-A-Protagonist: Generic Video Editing with An Ensemble of Experts**|Yuyang Zhao et.al.|[2305.08850](http://arxiv.org/abs/2305.08850)|null|
 |**2023-05-15**|**A Reproducible Extraction of Training Images from Diffusion Models**|Ryan Webster et.al.|[2305.08694](http://arxiv.org/abs/2305.08694)|**[link](https://github.com/ryanwebster90/onestep-extraction)**|
@@ -592,6 +606,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-15**|**Denoising Diffusion Models for Plug-and-Play Image Restoration**|Yuanzhi Zhu et.al.|[2305.08995](http://arxiv.org/abs/2305.08995)|**[link](https://github.com/yuanzhi-zhu/diffpir)**|
 |**2023-05-15**|**Toward Moiré-Free and Detail-Preserving Demosaicking**|Xuanchen Li et.al.|[2305.08585](http://arxiv.org/abs/2305.08585)|null|
 |**2023-05-13**|**A Two-Stage Real Image Deraining Method for GT-RAIN Challenge CVPR 2023 Workshop UG $^{\textbf{2}}$ + Track 3**|Yun Guo et.al.|[2305.07979](http://arxiv.org/abs/2305.07979)|**[link](https://github.com/yunguo224/ug2_deraining)**|
 |**2023-05-11**|**Realization RGBD Image Stylization**|Bhavya Sehgal et.al.|[2305.06565](http://arxiv.org/abs/2305.06565)|null|

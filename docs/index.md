@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.17
+## Updated on 2023.05.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -246,9 +246,9 @@ layout: default
 |**2023-05-16**|**Make-An-Animation: Large-Scale Text-conditional 3D Human Motion Generation**|Samaneh Azadi et.al.|[2305.09662](http://arxiv.org/abs/2305.09662)|null|
 |**2023-05-16**|**Expressiveness Remarks for Denoising Diffusion Models and Samplers**|Francisco Vargas et.al.|[2305.09605](http://arxiv.org/abs/2305.09605)|null|
 |**2023-05-16**|**AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation**|Tong Wu et.al.|[2305.09515](http://arxiv.org/abs/2305.09515)|null|
-|**2023-05-16**|**Multi-Level Global Context Cross Consistency Model for Semi-Supervised Ultrasound Image Segmentation with Diffusion Model**|Fenghe Tang et.al.|[2305.09447](http://arxiv.org/abs/2305.09447)|**[link](https://github.com/FengheTan9/Multi-Level-Global-Context-Cross-Consistency)**|
+|**2023-05-17**|**Multi-Level Global Context Cross Consistency Model for Semi-Supervised Ultrasound Image Segmentation with Diffusion Model**|Fenghe Tang et.al.|[2305.09447](http://arxiv.org/abs/2305.09447)|**[link](https://github.com/FengheTan9/Multi-Level-Global-Context-Cross-Consistency)**|
 |**2023-05-16**|**Diffusion Dataset Generation: Towards Closing the Sim2Real Gap for Pedestrian Detection**|Andrew Farley et.al.|[2305.09401](http://arxiv.org/abs/2305.09401)|null|
-|**2023-05-16**|**AMD Autoregressive Motion Diffusion**|Bo Han et.al.|[2305.09381](http://arxiv.org/abs/2305.09381)|null|
+|**2023-05-17**|**AMD: Autoregressive Motion Diffusion**|Bo Han et.al.|[2305.09381](http://arxiv.org/abs/2305.09381)|null|
 |**2023-05-16**|**Unlearnable Examples Give a False Sense of Security: Piercing through Unexploitable Data with Learnable Examples**|Wan Jiang et.al.|[2305.09241](http://arxiv.org/abs/2305.09241)|null|
 |**2023-05-16**|**CDDM: Channel Denoising Diffusion Models for Wireless Communications**|Tong Wu et.al.|[2305.09161](http://arxiv.org/abs/2305.09161)|null|
 |**2023-05-15**|**Denoising Diffusion Models for Plug-and-Play Image Restoration**|Yuanzhi Zhu et.al.|[2305.08995](http://arxiv.org/abs/2305.08995)|**[link](https://github.com/yuanzhi-zhu/diffpir)**|
@@ -258,7 +258,7 @@ layout: default
 |**2023-05-15**|**Higher-order Maxwell-Stefan model of diffusion**|Bérénice Grec et.al.|[2305.08412](http://arxiv.org/abs/2305.08412)|null|
 |**2023-05-15**|**TESS: Text-to-Text Self-Conditioned Simplex Diffusion**|Rabeeh Karimi Mahabadi et.al.|[2305.08379](http://arxiv.org/abs/2305.08379)|null|
 |**2023-05-14**|**Diffusion Models for Imperceptible and Transferable Adversarial Attack**|Jianqi Chen et.al.|[2305.08192](http://arxiv.org/abs/2305.08192)|**[link](https://github.com/windvchen/diffattack)**|
-|**2023-05-14**|**Manipulating Visually-aware Federated Recommender Systems and Its Countermeasures**|Wei Yuan et.al.|[2305.08183](http://arxiv.org/abs/2305.08183)|null|
+|**2023-05-16**|**Manipulating Visually-aware Federated Recommender Systems and Its Countermeasures**|Wei Yuan et.al.|[2305.08183](http://arxiv.org/abs/2305.08183)|null|
 |**2023-05-14**|**Meta-DM: Applications of Diffusion Models on Few-Shot Learning**|Wentao Hu et.al.|[2305.08092](http://arxiv.org/abs/2305.08092)|null|
 |**2023-05-14**|**On enhancing the robustness of Vision Transformers: Defensive Diffusion**|Raza Imam et.al.|[2305.08031](http://arxiv.org/abs/2305.08031)|null|
 |**2023-05-12**|**AWFSD: Accelerated Wirtinger Flow with Score-based Diffusion Image Prior for Poisson-Gaussian Holographic Phase Retrieval**|Zongyu Li et.al.|[2305.07712](http://arxiv.org/abs/2305.07712)|null|

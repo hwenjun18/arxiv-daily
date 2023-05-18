@@ -39,6 +39,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-17**|**SGAD: Spiking Generative Adversarial Network with Attention Scoring Decoding**|Linghao Feng et.al.|[2305.10246](http://arxiv.org/abs/2305.10246)|null|
+|**2023-05-17**|**Bridging the Gap: Enhancing the Utility of Synthetic Data via Post-Processing Techniques**|Andrea Lampis et.al.|[2305.10118](http://arxiv.org/abs/2305.10118)|null|
+|**2023-05-16**|**BSGAN: A Novel Oversampling Technique for Imbalanced Pattern Recognitions**|Md Manjurul Ahsan et.al.|[2305.09777](http://arxiv.org/abs/2305.09777)|null|
 |**2023-05-16**|**Wavelet-based Unsupervised Label-to-Image Translation**|George Eskandar et.al.|[2305.09647](http://arxiv.org/abs/2305.09647)|**[link](https://github.com/GeorgeEskandar/USIS-Unsupervised-Semantic-Image-Synthesis)**|
 |**2023-05-16**|**Urban-StyleGAN: Learning to Generate and Manipulate Images of Urban Scenes**|George Eskandar et.al.|[2305.09602](http://arxiv.org/abs/2305.09602)|null|
 |**2023-05-16**|**Improved Type III solar radio burst detection using congruent deep learning models**|Jeremiah Scully et.al.|[2305.09327](http://arxiv.org/abs/2305.09327)|null|
@@ -243,6 +246,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-17**|**FastComposer: Tuning-Free Multi-Subject Image Generation with Localized Attention**|Guangxuan Xiao et.al.|[2305.10431](http://arxiv.org/abs/2305.10431)|**[link](https://github.com/mit-han-lab/fastcomposer)**|
+|**2023-05-17**|**End-To-End Latent Variational Diffusion Models for Inverse Problems in High Energy Physics**|Alexander Shmakov et.al.|[2305.10399](http://arxiv.org/abs/2305.10399)|null|
+|**2023-05-17**|**Raising the Bar for Certified Adversarial Robustness with Diffusion Models**|Thomas Altstidl et.al.|[2305.10388](http://arxiv.org/abs/2305.10388)|null|
+|**2023-05-17**|**Controllable Mind Visual Diffusion Model**|Bohan Zeng et.al.|[2305.10135](http://arxiv.org/abs/2305.10135)|null|
+|**2023-05-17**|**Selective Amnesia: A Continual Learning Approach to Forgetting in Deep Generative Models**|Alvin Heng et.al.|[2305.10120](http://arxiv.org/abs/2305.10120)|null|
+|**2023-05-17**|**Pyramid Diffusion Models For Low-light Image Enhancement**|Dewei Zhou et.al.|[2305.10028](http://arxiv.org/abs/2305.10028)|**[link](https://github.com/limuloo/pydiff)**|
+|**2023-05-16**|**A Method for Training-free Person Image Picture Generation**|Tianyu Chen et.al.|[2305.09817](http://arxiv.org/abs/2305.09817)|null|
+|**2023-05-16**|**Dynamic Causal Explanation Based Diffusion-Variational Graph Neural Network for Spatio-temporal Forecasting**|Guojun Liang et.al.|[2305.09703](http://arxiv.org/abs/2305.09703)|**[link](https://github.com/gorgen2020/dvgnn)**|
 |**2023-05-16**|**Make-An-Animation: Large-Scale Text-conditional 3D Human Motion Generation**|Samaneh Azadi et.al.|[2305.09662](http://arxiv.org/abs/2305.09662)|null|
 |**2023-05-16**|**Expressiveness Remarks for Denoising Diffusion Models and Samplers**|Francisco Vargas et.al.|[2305.09605](http://arxiv.org/abs/2305.09605)|null|
 |**2023-05-16**|**AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation**|Tong Wu et.al.|[2305.09515](http://arxiv.org/abs/2305.09515)|null|
@@ -606,6 +617,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-17**|**Principal Uncertainty Quantification with Spatial Correlation for Image Restoration Problems**|Omer Belhasin et.al.|[2305.10124](http://arxiv.org/abs/2305.10124)|null|
+|**2023-05-17**|**Restoring Images Captured in Arbitrary Hybrid Adverse Weather Conditions in One Go**|Ye-Cong Wan et.al.|[2305.09996](http://arxiv.org/abs/2305.09996)|**[link](https://github.com/jeasco/rahc)**|
 |**2023-05-15**|**Denoising Diffusion Models for Plug-and-Play Image Restoration**|Yuanzhi Zhu et.al.|[2305.08995](http://arxiv.org/abs/2305.08995)|**[link](https://github.com/yuanzhi-zhu/diffpir)**|
 |**2023-05-15**|**Toward Moiré-Free and Detail-Preserving Demosaicking**|Xuanchen Li et.al.|[2305.08585](http://arxiv.org/abs/2305.08585)|null|
 |**2023-05-13**|**A Two-Stage Real Image Deraining Method for GT-RAIN Challenge CVPR 2023 Workshop UG $^{\textbf{2}}$ + Track 3**|Yun Guo et.al.|[2305.07979](http://arxiv.org/abs/2305.07979)|**[link](https://github.com/yunguo224/ug2_deraining)**|
@@ -797,7 +810,7 @@ layout: default
 |**2023-05-05**|**Near-realtime Facial Animation by Deep 3D Simulation Super-Resolution**|Hyojoon Park et.al.|[2305.03216](http://arxiv.org/abs/2305.03216)|null|
 |**2023-04-06**|**Face Animation with an Attribute-Guided Diffusion Model**|Bohan Zeng et.al.|[2304.03199](http://arxiv.org/abs/2304.03199)|**[link](https://github.com/zengbohan0217/fadm)**|
 |**2023-03-27**|**Mind the Label Shift of Augmentation-based Graph OOD Generalization**|Junchi Yu et.al.|[2303.14859](http://arxiv.org/abs/2303.14859)|null|
-|**2023-03-20**|**EmoTalk: Speech-driven emotional disentanglement for 3D face animation**|Ziqiao Peng et.al.|[2303.11089](http://arxiv.org/abs/2303.11089)|null|
+|**2023-03-20**|**EmoTalk: Speech-driven emotional disentanglement for 3D face animation**|Ziqiao Peng et.al.|[2303.11089](http://arxiv.org/abs/2303.11089)|**[link](https://github.com/ZiqiaoPeng/EmoTalk)**|
 |**2023-03-17**|**MMFace4D: A Large-Scale Multi-Modal 4D Face Dataset for Audio-Driven 3D Face Animation**|Haozhe Wu et.al.|[2303.09797](http://arxiv.org/abs/2303.09797)|null|
 |**2023-02-14**|**VQ3D: Learning a 3D-Aware Generative Model on ImageNet**|Kyle Sargent et.al.|[2302.06833](http://arxiv.org/abs/2302.06833)|null|
 |**2023-03-27**|**Accurate and Interpretable Solution of the Inverse Rig for Realistic Blendshape Models with Quadratic Corrective Terms**|Stevo Racković et.al.|[2302.04843](http://arxiv.org/abs/2302.04843)|null|

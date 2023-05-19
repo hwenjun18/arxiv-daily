@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.18
+## Updated on 2023.05.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -39,7 +39,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-05-17**|**SGAD: Spiking Generative Adversarial Network with Attention Scoring Decoding**|Linghao Feng et.al.|[2305.10246](http://arxiv.org/abs/2305.10246)|null|
+|**2023-05-18**|**Spiking Generative Adversarial Network with Attention Scoring Decoding**|Linghao Feng et.al.|[2305.10246](http://arxiv.org/abs/2305.10246)|null|
 |**2023-05-17**|**Bridging the Gap: Enhancing the Utility of Synthetic Data via Post-Processing Techniques**|Andrea Lampis et.al.|[2305.10118](http://arxiv.org/abs/2305.10118)|null|
 |**2023-05-16**|**BSGAN: A Novel Oversampling Technique for Imbalanced Pattern Recognitions**|Md Manjurul Ahsan et.al.|[2305.09777](http://arxiv.org/abs/2305.09777)|null|
 |**2023-05-16**|**Wavelet-based Unsupervised Label-to-Image Translation**|George Eskandar et.al.|[2305.09647](http://arxiv.org/abs/2305.09647)|**[link](https://github.com/GeorgeEskandar/USIS-Unsupervised-Semantic-Image-Synthesis)**|
@@ -249,7 +249,7 @@ layout: default
 |**2023-05-17**|**FastComposer: Tuning-Free Multi-Subject Image Generation with Localized Attention**|Guangxuan Xiao et.al.|[2305.10431](http://arxiv.org/abs/2305.10431)|**[link](https://github.com/mit-han-lab/fastcomposer)**|
 |**2023-05-17**|**End-To-End Latent Variational Diffusion Models for Inverse Problems in High Energy Physics**|Alexander Shmakov et.al.|[2305.10399](http://arxiv.org/abs/2305.10399)|null|
 |**2023-05-17**|**Raising the Bar for Certified Adversarial Robustness with Diffusion Models**|Thomas Altstidl et.al.|[2305.10388](http://arxiv.org/abs/2305.10388)|null|
-|**2023-05-17**|**Controllable Mind Visual Diffusion Model**|Bohan Zeng et.al.|[2305.10135](http://arxiv.org/abs/2305.10135)|null|
+|**2023-05-18**|**Controllable Mind Visual Diffusion Model**|Bohan Zeng et.al.|[2305.10135](http://arxiv.org/abs/2305.10135)|null|
 |**2023-05-17**|**Selective Amnesia: A Continual Learning Approach to Forgetting in Deep Generative Models**|Alvin Heng et.al.|[2305.10120](http://arxiv.org/abs/2305.10120)|null|
 |**2023-05-17**|**Pyramid Diffusion Models For Low-light Image Enhancement**|Dewei Zhou et.al.|[2305.10028](http://arxiv.org/abs/2305.10028)|**[link](https://github.com/limuloo/pydiff)**|
 |**2023-05-16**|**A Method for Training-free Person Image Picture Generation**|Tianyu Chen et.al.|[2305.09817](http://arxiv.org/abs/2305.09817)|null|

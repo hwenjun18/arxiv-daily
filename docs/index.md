@@ -39,6 +39,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-18**|**Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold**|Xingang Pan et.al.|[2305.10973](http://arxiv.org/abs/2305.10973)|null|
+|**2023-05-18**|**Domain Adaptive Sim-to-Real Segmentation of Oropharyngeal Organs**|Guankun Wang et.al.|[2305.10883](http://arxiv.org/abs/2305.10883)|**[link](https://github.com/gkw0010/eisost-sim2real-dataset-release)**|
+|**2023-05-18**|**StawGAN: Structural-Aware Generative Adversarial Networks for Infrared Image Translation**|Luigi Sigillo et.al.|[2305.10882](http://arxiv.org/abs/2305.10882)|**[link](https://github.com/luigisigillo/stawgan)**|
+|**2023-05-18**|**Constructing a personalized AI assistant for shear wall layout using Stable Diffusion**|Lufeng Wang et.al.|[2305.10830](http://arxiv.org/abs/2305.10830)|null|
+|**2023-05-18**|**BrutePrint: Expose Smartphone Fingerprint Authentication to Brute-force Attack**|Yu Chen et.al.|[2305.10791](http://arxiv.org/abs/2305.10791)|null|
+|**2023-05-16**|**How does agency impact human-AI collaborative design space exploration? A case study on ship design with deep generative models**|Shahroz Khan et.al.|[2305.10451](http://arxiv.org/abs/2305.10451)|null|
+|**2023-05-13**|**CBAGAN-RRT: Convolutional Block Attention Generative Adversarial Network for Sampling-Based Path Planning**|Abhinav Sagar et.al.|[2305.10442](http://arxiv.org/abs/2305.10442)|null|
 |**2023-05-18**|**Spiking Generative Adversarial Network with Attention Scoring Decoding**|Linghao Feng et.al.|[2305.10246](http://arxiv.org/abs/2305.10246)|null|
 |**2023-05-17**|**Bridging the Gap: Enhancing the Utility of Synthetic Data via Post-Processing Techniques**|Andrea Lampis et.al.|[2305.10118](http://arxiv.org/abs/2305.10118)|null|
 |**2023-05-16**|**BSGAN: A Novel Oversampling Technique for Imbalanced Pattern Recognitions**|Md Manjurul Ahsan et.al.|[2305.09777](http://arxiv.org/abs/2305.09777)|null|
@@ -246,6 +253,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-18**|**UniControl: A Unified Diffusion Model for Controllable Visual Generation In the Wild**|Can Qin et.al.|[2305.11147](http://arxiv.org/abs/2305.11147)|null|
+|**2023-05-18**|**Blackout Diffusion: Generative Diffusion Models in Discrete-State Spaces**|Javier E Santos et.al.|[2305.11089](http://arxiv.org/abs/2305.11089)|**[link](https://github.com/lanl/blackout-diffusion)**|
+|**2023-05-18**|**Inspecting the Geographical Representativeness of Images from Text-to-Image Models**|Abhipsa Basu et.al.|[2305.11080](http://arxiv.org/abs/2305.11080)|null|
+|**2023-05-18**|**Unsupervised Pansharpening via Low-rank Diffusion Model**|Xiangyu Rui et.al.|[2305.10925](http://arxiv.org/abs/2305.10925)|**[link](https://github.com/xyrui/plrdiff)**|
+|**2023-05-18**|**Structural Pruning for Diffusion Models**|Gongfan Fang et.al.|[2305.10924](http://arxiv.org/abs/2305.10924)|**[link](https://github.com/vainf/diff-pruning)**|
+|**2023-05-18**|**Diffusion-Based Mel-Spectrogram Enhancement for Personalized Speech Synthesis with Found Data**|Yusheng Tian et.al.|[2305.10891](http://arxiv.org/abs/2305.10891)|null|
+|**2023-05-18**|**TextDiffuser: Diffusion Models as Text Painters**|Jingye Chen et.al.|[2305.10855](http://arxiv.org/abs/2305.10855)|**[link](https://github.com/microsoft/unilm/tree/master/textdiffuser)**|
+|**2023-05-18**|**LDM3D: Latent Diffusion Model for 3D**|Gabriela Ben Melech Stan et.al.|[2305.10853](http://arxiv.org/abs/2305.10853)|null|
+|**2023-05-18**|**X-IQE: eXplainable Image Quality Evaluation for Text-to-Image Generation with Visual Large Language Models**|Yixiong Chen et.al.|[2305.10843](http://arxiv.org/abs/2305.10843)|null|
+|**2023-05-18**|**GETMusic: Generating Any Music Tracks with a Unified Representation and Diffusion Framework**|Ang Lv et.al.|[2305.10841](http://arxiv.org/abs/2305.10841)|null|
+|**2023-05-18**|**DiffUTE: Universal Text Editing Diffusion Model**|Chen et.al.|[2305.10825](http://arxiv.org/abs/2305.10825)|**[link](https://github.com/chenhaoxing/DiffUTE)**|
+|**2023-05-18**|**Democratized Diffusion Language Model**|Nikita Balagansky et.al.|[2305.10818](http://arxiv.org/abs/2305.10818)|null|
+|**2023-05-18**|**Multi-resolution Spatiotemporal Enhanced Transformer Denoising with Functional Diffusive GANs for Constructing Brain Effective Connectivity in MCI analysis**|Qiankun Zuo et.al.|[2305.10754](http://arxiv.org/abs/2305.10754)|null|
+|**2023-05-18**|**Discriminative Diffusion Models as Few-shot Vision and Language Learners**|Xuehai He et.al.|[2305.10722](http://arxiv.org/abs/2305.10722)|null|
+|**2023-05-18**|**Zero-Day Backdoor Attack against Text-to-Image Diffusion Models via Personalization**|Yihao Huang et.al.|[2305.10701](http://arxiv.org/abs/2305.10701)|null|
+|**2023-05-18**|**Dirichlet Diffusion Score Model for Biological Sequence Generation**|Pavel Avdeyev et.al.|[2305.10699](http://arxiv.org/abs/2305.10699)|null|
+|**2023-05-18**|**Option pricing under jump diffusion model**|Qian Li et.al.|[2305.10678](http://arxiv.org/abs/2305.10678)|null|
+|**2023-05-18**|**PTQD: Accurate Post-Training Quantization for Diffusion Models**|Yefei He et.al.|[2305.10657](http://arxiv.org/abs/2305.10657)|null|
+|**2023-05-17**|**Jet Diffusion versus JetGPT -- Modern Networks for the LHC**|Anja Butter et.al.|[2305.10475](http://arxiv.org/abs/2305.10475)|null|
 |**2023-05-17**|**FastComposer: Tuning-Free Multi-Subject Image Generation with Localized Attention**|Guangxuan Xiao et.al.|[2305.10431](http://arxiv.org/abs/2305.10431)|**[link](https://github.com/mit-han-lab/fastcomposer)**|
 |**2023-05-17**|**End-To-End Latent Variational Diffusion Models for Inverse Problems in High Energy Physics**|Alexander Shmakov et.al.|[2305.10399](http://arxiv.org/abs/2305.10399)|null|
 |**2023-05-17**|**Raising the Bar for Certified Adversarial Robustness with Diffusion Models**|Thomas Altstidl et.al.|[2305.10388](http://arxiv.org/abs/2305.10388)|null|
@@ -617,6 +643,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-18**|**DiffUTE: Universal Text Editing Diffusion Model**|Chen et.al.|[2305.10825](http://arxiv.org/abs/2305.10825)|**[link](https://github.com/chenhaoxing/DiffUTE)**|
 |**2023-05-17**|**Principal Uncertainty Quantification with Spatial Correlation for Image Restoration Problems**|Omer Belhasin et.al.|[2305.10124](http://arxiv.org/abs/2305.10124)|null|
 |**2023-05-17**|**Restoring Images Captured in Arbitrary Hybrid Adverse Weather Conditions in One Go**|Ye-Cong Wan et.al.|[2305.09996](http://arxiv.org/abs/2305.09996)|**[link](https://github.com/jeasco/rahc)**|
 |**2023-05-15**|**Denoising Diffusion Models for Plug-and-Play Image Restoration**|Yuanzhi Zhu et.al.|[2305.08995](http://arxiv.org/abs/2305.08995)|**[link](https://github.com/yuanzhi-zhu/diffpir)**|

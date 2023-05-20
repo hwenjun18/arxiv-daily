@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.19
+## Updated on 2023.05.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -262,7 +262,7 @@ layout: default
 |**2023-05-18**|**TextDiffuser: Diffusion Models as Text Painters**|Jingye Chen et.al.|[2305.10855](http://arxiv.org/abs/2305.10855)|**[link](https://github.com/microsoft/unilm/tree/master/textdiffuser)**|
 |**2023-05-18**|**LDM3D: Latent Diffusion Model for 3D**|Gabriela Ben Melech Stan et.al.|[2305.10853](http://arxiv.org/abs/2305.10853)|null|
 |**2023-05-18**|**X-IQE: eXplainable Image Quality Evaluation for Text-to-Image Generation with Visual Large Language Models**|Yixiong Chen et.al.|[2305.10843](http://arxiv.org/abs/2305.10843)|null|
-|**2023-05-18**|**GETMusic: Generating Any Music Tracks with a Unified Representation and Diffusion Framework**|Ang Lv et.al.|[2305.10841](http://arxiv.org/abs/2305.10841)|null|
+|**2023-05-18**|**GETMusic: Generating Any Music Tracks with a Unified Representation and Diffusion Framework**|Ang Lv et.al.|[2305.10841](http://arxiv.org/abs/2305.10841)|**[link](https://github.com/microsoft/muzic)**|
 |**2023-05-18**|**DiffUTE: Universal Text Editing Diffusion Model**|Chen et.al.|[2305.10825](http://arxiv.org/abs/2305.10825)|**[link](https://github.com/chenhaoxing/DiffUTE)**|
 |**2023-05-18**|**Democratized Diffusion Language Model**|Nikita Balagansky et.al.|[2305.10818](http://arxiv.org/abs/2305.10818)|null|
 |**2023-05-18**|**Multi-resolution Spatiotemporal Enhanced Transformer Denoising with Functional Diffusive GANs for Constructing Brain Effective Connectivity in MCI analysis**|Qiankun Zuo et.al.|[2305.10754](http://arxiv.org/abs/2305.10754)|null|

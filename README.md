@@ -51,7 +51,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-05-18**|**Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold**|Xingang Pan et.al.|[2305.10973](http://arxiv.org/abs/2305.10973)|null|
+|**2023-05-19**|**Reducing Sequence Length by Predicting Edit Operations with Large Language Models**|Masahiro Kaneko et.al.|[2305.11862](http://arxiv.org/abs/2305.11862)|null|
+|**2023-05-19**|**Sim-to-Real Segmentation in Robot-assisted Transoral Tracheal Intubation**|Guankun Wang et.al.|[2305.11686](http://arxiv.org/abs/2305.11686)|null|
+|**2023-05-19**|**Latent Imitator: Generating Natural Individual Discriminatory Instances for Black-Box Fairness Testing**|Yisong Xiao et.al.|[2305.11602](http://arxiv.org/abs/2305.11602)|null|
+|**2023-05-19**|**Brain Captioning: Decoding human brain activity into images and text**|Matteo Ferrante et.al.|[2305.11560](http://arxiv.org/abs/2305.11560)|null|
+|**2023-05-19**|**PS-FedGAN: An Efficient Federated Learning Framework Based on Partially Shared Generative Adversarial Networks For Data Privacy**|Achintha Wijesinghe et.al.|[2305.11437](http://arxiv.org/abs/2305.11437)|null|
+|**2023-05-19**|**A Preliminary Study on Augmenting Speech Emotion Recognition using a Diffusion Model**|Ibrahim Malik et.al.|[2305.11413](http://arxiv.org/abs/2305.11413)|null|
+|**2023-05-19**|**Few-Shot Continual Learning for Conditional Generative Adversarial Networks**|Cat P. Le et.al.|[2305.11400](http://arxiv.org/abs/2305.11400)|null|
+|**2023-05-18**|**JoIN: Joint GANs Inversion for Intrinsic Image Decomposition**|Viraj Shah et.al.|[2305.11321](http://arxiv.org/abs/2305.11321)|null|
+|**2023-05-18**|**Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold**|Xingang Pan et.al.|[2305.10973](http://arxiv.org/abs/2305.10973)|**[link](https://github.com/JiauZhang/DragGAN)**|
 |**2023-05-18**|**Domain Adaptive Sim-to-Real Segmentation of Oropharyngeal Organs**|Guankun Wang et.al.|[2305.10883](http://arxiv.org/abs/2305.10883)|**[link](https://github.com/gkw0010/eisost-sim2real-dataset-release)**|
 |**2023-05-18**|**StawGAN: Structural-Aware Generative Adversarial Networks for Infrared Image Translation**|Luigi Sigillo et.al.|[2305.10882](http://arxiv.org/abs/2305.10882)|**[link](https://github.com/luigisigillo/stawgan)**|
 |**2023-05-18**|**Constructing a personalized AI assistant for shear wall layout using Stable Diffusion**|Lufeng Wang et.al.|[2305.10830](http://arxiv.org/abs/2305.10830)|null|
@@ -267,6 +275,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-19**|**Chupa: Carving 3D Clothed Humans from Skinned Shape Priors using 2D Diffusion Probabilistic Models**|Byungjun Kim et.al.|[2305.11870](http://arxiv.org/abs/2305.11870)|null|
+|**2023-05-19**|**Cinematic Mindscapes: High-quality Video Reconstruction from Brain Activity**|Zijiao Chen et.al.|[2305.11675](http://arxiv.org/abs/2305.11675)|null|
+|**2023-05-19**|**Few-shot 3D Shape Generation**|Jingyuan Zhu et.al.|[2305.11664](http://arxiv.org/abs/2305.11664)|null|
+|**2023-05-19**|**Text2NeRF: Text-Driven 3D Scene Generation with Neural Radiance Fields**|Jingbo Zhang et.al.|[2305.11588](http://arxiv.org/abs/2305.11588)|null|
+|**2023-05-19**|**Brain Captioning: Decoding human brain activity into images and text**|Matteo Ferrante et.al.|[2305.11560](http://arxiv.org/abs/2305.11560)|null|
+|**2023-05-19**|**Efficient Cross-Lingual Transfer for Chinese Stable Diffusion with Images as Pivots**|Jinyi Hu et.al.|[2305.11540](http://arxiv.org/abs/2305.11540)|null|
+|**2023-05-19**|**Late-Constraint Diffusion Guidance for Controllable Image Synthesis**|Chang Liu et.al.|[2305.11520](http://arxiv.org/abs/2305.11520)|null|
+|**2023-05-19**|**DiffuSIA: A Spiral Interaction Architecture for Encoder-Decoder Text Diffusion**|Chao-Hong Tan et.al.|[2305.11517](http://arxiv.org/abs/2305.11517)|null|
+|**2023-05-19**|**Incomplete Multi-view Clustering via Diffusion Completion**|Sifan Fang et.al.|[2305.11489](http://arxiv.org/abs/2305.11489)|null|
+|**2023-05-19**|**A Preliminary Study on Augmenting Speech Emotion Recognition using a Diffusion Model**|Ibrahim Malik et.al.|[2305.11413](http://arxiv.org/abs/2305.11413)|null|
+|**2023-05-18**|**SlotDiffusion: Object-Centric Generative Modeling with Diffusion Models**|Ziyi Wu et.al.|[2305.11281](http://arxiv.org/abs/2305.11281)|null|
+|**2023-05-18**|**Information-Ordered Bottlenecks for Adaptive Semantic Compression**|Matthew Ho et.al.|[2305.11213](http://arxiv.org/abs/2305.11213)|null|
 |**2023-05-18**|**UniControl: A Unified Diffusion Model for Controllable Visual Generation In the Wild**|Can Qin et.al.|[2305.11147](http://arxiv.org/abs/2305.11147)|null|
 |**2023-05-18**|**Blackout Diffusion: Generative Diffusion Models in Discrete-State Spaces**|Javier E Santos et.al.|[2305.11089](http://arxiv.org/abs/2305.11089)|**[link](https://github.com/lanl/blackout-diffusion)**|
 |**2023-05-18**|**Inspecting the Geographical Representativeness of Images from Text-to-Image Models**|Abhipsa Basu et.al.|[2305.11080](http://arxiv.org/abs/2305.11080)|null|
@@ -659,6 +679,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-19**|**RAMiT: Reciprocal Attention Mixing Transformer for Lightweight Image Restoration**|Haram Choi et.al.|[2305.11474](http://arxiv.org/abs/2305.11474)|null|
+|**2023-05-18**|**SlotDiffusion: Object-Centric Generative Modeling with Diffusion Models**|Ziyi Wu et.al.|[2305.11281](http://arxiv.org/abs/2305.11281)|null|
 |**2023-05-19**|**DiffUTE: Universal Text Editing Diffusion Model**|Haoxing Chen et.al.|[2305.10825](http://arxiv.org/abs/2305.10825)|**[link](https://github.com/chenhaoxing/DiffUTE)**|
 |**2023-05-17**|**Principal Uncertainty Quantification with Spatial Correlation for Image Restoration Problems**|Omer Belhasin et.al.|[2305.10124](http://arxiv.org/abs/2305.10124)|null|
 |**2023-05-17**|**Restoring Images Captured in Arbitrary Hybrid Adverse Weather Conditions in One Go**|Ye-Cong Wan et.al.|[2305.09996](http://arxiv.org/abs/2305.09996)|**[link](https://github.com/jeasco/rahc)**|
@@ -885,6 +907,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-19**|**PORTRAIT: a hybrid aPproach tO cReate extractive ground-TRuth summAry for dIsaster evenT**|Piyush Kumar Garg et.al.|[2305.11536](http://arxiv.org/abs/2305.11536)|null|
 |**2023-05-15**|**Laughing Matters: Introducing Laughing-Face Generation using Diffusion Models**|Antoni Bigata Casademunt et.al.|[2305.08854](http://arxiv.org/abs/2305.08854)|null|
 |**2023-05-08**|**Controllable Light Diffusion for Portraits**|David Futschik et.al.|[2305.04745](http://arxiv.org/abs/2305.04745)|null|
 |**2023-05-08**|**FashionTex: Controllable Virtual Try-on with Text and Texture**|Anran Lin et.al.|[2305.04451](http://arxiv.org/abs/2305.04451)|null|

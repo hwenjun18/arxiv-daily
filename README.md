@@ -51,6 +51,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-22**|**Why current rain denoising models fail on CycleGAN created rain images in autonomous driving**|Michael Kranl et.al.|[2305.12983](http://arxiv.org/abs/2305.12983)|null|
+|**2023-05-22**|**ZS-MSTM: Zero-Shot Style Transfer for Gesture Animation driven by Text and Speech using Adversarial Disentanglement of Multimodal Style Encoding**|Mireille Fares et.al.|[2305.12887](http://arxiv.org/abs/2305.12887)|null|
+|**2023-05-22**|**SG-GAN: Fine Stereoscopic-Aware Generation for 3D Brain Point Cloud Up-sampling from a Single Image**|Bowen Hu et.al.|[2305.12646](http://arxiv.org/abs/2305.12646)|null|
+|**2023-05-21**|**iWarpGAN: Disentangling Identity and Style to Generate Synthetic Iris Images**|Shivangi Yadav et.al.|[2305.12596](http://arxiv.org/abs/2305.12596)|null|
+|**2023-05-21**|**Generalizable synthetic MRI with physics-informed convolutional networks**|Luuk Jacobs et.al.|[2305.12570](http://arxiv.org/abs/2305.12570)|null|
+|**2023-05-21**|**PCF-GAN: generating sequential data via the characteristic function of measures on the path space**|Hang Lou et.al.|[2305.12511](http://arxiv.org/abs/2305.12511)|**[link](https://github.com/deepintostreams/pcf-gan)**|
+|**2023-05-21**|**Exploring How Generative Adversarial Networks Learn Phonological Representations**|Jingyi Chen et.al.|[2305.12501](http://arxiv.org/abs/2305.12501)|null|
+|**2023-05-21**|**Study of GANs for Noisy Speech Simulation from Clean Speech**|Leander Melroy Maben et.al.|[2305.12460](http://arxiv.org/abs/2305.12460)|null|
+|**2023-05-21**|**InstructVid2Vid: Controllable Video Editing with Natural Language Instructions**|Bosheng Qin et.al.|[2305.12328](http://arxiv.org/abs/2305.12328)|**[link](https://github.com/BrightQin/InstructVid2Vid)**|
+|**2023-05-20**|**AI-assisted super-resolution cosmological simulations III: Time evolution**|Xiaowen Zhang et.al.|[2305.12222](http://arxiv.org/abs/2305.12222)|null|
 |**2023-05-19**|**Reducing Sequence Length by Predicting Edit Operations with Large Language Models**|Masahiro Kaneko et.al.|[2305.11862](http://arxiv.org/abs/2305.11862)|null|
 |**2023-05-19**|**Sim-to-Real Segmentation in Robot-assisted Transoral Tracheal Intubation**|Guankun Wang et.al.|[2305.11686](http://arxiv.org/abs/2305.11686)|null|
 |**2023-05-19**|**Latent Imitator: Generating Natural Individual Discriminatory Instances for Black-Box Fairness Testing**|Yisong Xiao et.al.|[2305.11602](http://arxiv.org/abs/2305.11602)|null|
@@ -59,7 +69,7 @@
 |**2023-05-19**|**A Preliminary Study on Augmenting Speech Emotion Recognition using a Diffusion Model**|Ibrahim Malik et.al.|[2305.11413](http://arxiv.org/abs/2305.11413)|null|
 |**2023-05-19**|**Few-Shot Continual Learning for Conditional Generative Adversarial Networks**|Cat P. Le et.al.|[2305.11400](http://arxiv.org/abs/2305.11400)|null|
 |**2023-05-18**|**JoIN: Joint GANs Inversion for Intrinsic Image Decomposition**|Viraj Shah et.al.|[2305.11321](http://arxiv.org/abs/2305.11321)|null|
-|**2023-05-18**|**Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold**|Xingang Pan et.al.|[2305.10973](http://arxiv.org/abs/2305.10973)|**[link](https://github.com/JiauZhang/DragGAN)**|
+|**2023-05-18**|**Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold**|Xingang Pan et.al.|[2305.10973](http://arxiv.org/abs/2305.10973)|**[link](https://github.com/XingangPan/DragGAN)**|
 |**2023-05-18**|**Domain Adaptive Sim-to-Real Segmentation of Oropharyngeal Organs**|Guankun Wang et.al.|[2305.10883](http://arxiv.org/abs/2305.10883)|**[link](https://github.com/gkw0010/eisost-sim2real-dataset-release)**|
 |**2023-05-18**|**StawGAN: Structural-Aware Generative Adversarial Networks for Infrared Image Translation**|Luigi Sigillo et.al.|[2305.10882](http://arxiv.org/abs/2305.10882)|**[link](https://github.com/luigisigillo/stawgan)**|
 |**2023-05-18**|**Constructing a personalized AI assistant for shear wall layout using Stable Diffusion**|Lufeng Wang et.al.|[2305.10830](http://arxiv.org/abs/2305.10830)|null|
@@ -275,6 +285,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-22**|**If at First You Don't Succeed, Try, Try Again: Faithful Diffusion-based Text-to-Image Generation by Selection**|Shyamgopal Karthik et.al.|[2305.13308](http://arxiv.org/abs/2305.13308)|null|
+|**2023-05-22**|**Training Diffusion Models with Reinforcement Learning**|Kevin Black et.al.|[2305.13301](http://arxiv.org/abs/2305.13301)|null|
+|**2023-05-22**|**U-DiT TTS: U-Diffusion Vision Transformer for Text-to-Speech**|Xin Jing et.al.|[2305.13195](http://arxiv.org/abs/2305.13195)|null|
+|**2023-05-22**|**GSURE-Based Diffusion Model Training with Corrupted Data**|Bahjat Kawar et.al.|[2305.13128](http://arxiv.org/abs/2305.13128)|**[link](https://github.com/bahjat-kawar/gsure-diffusion)**|
+|**2023-05-22**|**Policy Representation via Diffusion Probability Model for Reinforcement Learning**|Long Yang et.al.|[2305.13122](http://arxiv.org/abs/2305.13122)|**[link](https://github.com/bellmantimehut/dipo)**|
+|**2023-05-22**|**ControlVideo: Training-free Controllable Text-to-Video Generation**|Yabo Zhang et.al.|[2305.13077](http://arxiv.org/abs/2305.13077)|**[link](https://github.com/ybybzhang/controlvideo)**|
+|**2023-05-22**|**AudioToken: Adaptation of Text-Conditioned Diffusion Models for Audio-to-Image Generation**|Guy Yariv et.al.|[2305.13050](http://arxiv.org/abs/2305.13050)|**[link](https://github.com/guyyariv/AudioToken)**|
+|**2023-05-22**|**Hierarchical Integration Diffusion Model for Realistic Image Deblurring**|Zheng Chen et.al.|[2305.12966](http://arxiv.org/abs/2305.12966)|null|
+|**2023-05-22**|**Is Synthetic Data From Diffusion Models Ready for Knowledge Distillation?**|Zheng Li et.al.|[2305.12954](http://arxiv.org/abs/2305.12954)|**[link](https://github.com/zhengli97/dm-kd)**|
+|**2023-05-22**|**Latent Magic: An Investigation into Adversarial Examples Crafted in the Semantic Latent Space**|BoYang Zheng et.al.|[2305.12906](http://arxiv.org/abs/2305.12906)|null|
+|**2023-05-22**|**DiffAVA: Personalized Text-to-Audio Generation with Visual Alignment**|Shentong Mo et.al.|[2305.12903](http://arxiv.org/abs/2305.12903)|null|
+|**2023-05-22**|**The CLIP Model is Secretly an Image-to-Prompt Converter**|Yuxuan Ding et.al.|[2305.12716](http://arxiv.org/abs/2305.12716)|null|
+|**2023-05-22**|**Mist: Towards Improved Adversarial Examples for Diffusion Models**|Chumeng Liang et.al.|[2305.12683](http://arxiv.org/abs/2305.12683)|null|
+|**2023-05-22**|**Duplex Diffusion Models Improve Speech-to-Speech Translation**|Xianchao Wu et.al.|[2305.12628](http://arxiv.org/abs/2305.12628)|null|
+|**2023-05-21**|**GMD: Controllable Human Motion Synthesis via Guided Diffusion Models**|Korrawe Karunratanakul et.al.|[2305.12577](http://arxiv.org/abs/2305.12577)|null|
+|**2023-05-21**|**Watermarking Diffusion Model**|Yugeng Liu et.al.|[2305.12502](http://arxiv.org/abs/2305.12502)|null|
+|**2023-05-21**|**DiffUCD:Unsupervised Hyperspectral Image Change Detection with Semantic Correlation Diffusion Model**|Xiangrong Zhang et.al.|[2305.12410](http://arxiv.org/abs/2305.12410)|null|
+|**2023-05-21**|**Spatio-temporal Diffusion Point Processes**|Yuan Yuan et.al.|[2305.12403](http://arxiv.org/abs/2305.12403)|**[link](https://github.com/tsinghua-fib-lab/Spatio-temporal-Diffusion-Point-Processes)**|
+|**2023-05-21**|**The vanishing diffusion limit for an Oldroyd-B model in $\mathbb{R}^2_+$**|Yinghui Wang et.al.|[2305.12377](http://arxiv.org/abs/2305.12377)|null|
+|**2023-05-21**|**Learning Joint 2D & 3D Diffusion Models for Complete Molecule Generation**|Han Huang et.al.|[2305.12347](http://arxiv.org/abs/2305.12347)|**[link](https://github.com/graph-0/jodo)**|
 |**2023-05-19**|**Chupa: Carving 3D Clothed Humans from Skinned Shape Priors using 2D Diffusion Probabilistic Models**|Byungjun Kim et.al.|[2305.11870](http://arxiv.org/abs/2305.11870)|null|
 |**2023-05-19**|**Cinematic Mindscapes: High-quality Video Reconstruction from Brain Activity**|Zijiao Chen et.al.|[2305.11675](http://arxiv.org/abs/2305.11675)|null|
 |**2023-05-19**|**Few-shot 3D Shape Generation**|Jingyuan Zhu et.al.|[2305.11664](http://arxiv.org/abs/2305.11664)|null|
@@ -679,6 +709,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-22**|**Restore Anything Pipeline: Segment Anything Meets Image Restoration**|Jiaxi Jiang et.al.|[2305.13093](http://arxiv.org/abs/2305.13093)|**[link](https://github.com/eth-siplab/rap)**|
+|**2023-05-22**|**The CLIP Model is Secretly an Image-to-Prompt Converter**|Yuxuan Ding et.al.|[2305.12716](http://arxiv.org/abs/2305.12716)|null|
+|**2023-05-19**|**SIDAR: Synthetic Image Dataset for Alignment & Restoration**|Monika Kwiatkowski et.al.|[2305.12036](http://arxiv.org/abs/2305.12036)|**[link](https://github.com/niika/SIDAR)**|
+|**2023-05-15**|**Neural information coding for efficient spike-based image denoising**|Andrea Castagnetti et.al.|[2305.11898](http://arxiv.org/abs/2305.11898)|null|
 |**2023-05-22**|**RAMiT: Reciprocal Attention Mixing Transformer for Lightweight Image Restoration**|Haram Choi et.al.|[2305.11474](http://arxiv.org/abs/2305.11474)|null|
 |**2023-05-18**|**SlotDiffusion: Object-Centric Generative Modeling with Diffusion Models**|Ziyi Wu et.al.|[2305.11281](http://arxiv.org/abs/2305.11281)|null|
 |**2023-05-19**|**DiffUTE: Universal Text Editing Diffusion Model**|Haoxing Chen et.al.|[2305.10825](http://arxiv.org/abs/2305.10825)|**[link](https://github.com/chenhaoxing/DiffUTE)**|
@@ -907,6 +941,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-22**|**Building an Invisible Shield for Your Portrait against Deepfakes**|Jiazhi Guan et.al.|[2305.12881](http://arxiv.org/abs/2305.12881)|null|
 |**2023-05-19**|**PORTRAIT: a hybrid aPproach tO cReate extractive ground-TRuth summAry for dIsaster evenT**|Piyush Kumar Garg et.al.|[2305.11536](http://arxiv.org/abs/2305.11536)|null|
 |**2023-05-15**|**Laughing Matters: Introducing Laughing-Face Generation using Diffusion Models**|Antoni Bigata Casademunt et.al.|[2305.08854](http://arxiv.org/abs/2305.08854)|null|
 |**2023-05-08**|**Controllable Light Diffusion for Portraits**|David Futschik et.al.|[2305.04745](http://arxiv.org/abs/2305.04745)|null|
@@ -973,6 +1008,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-20**|**Quantum simulation of lattice gauge theories via deterministic duality transformations assisted by measurements**|Hiroki Sukeno et.al.|[2305.12277](http://arxiv.org/abs/2305.12277)|null|
 |**2023-03-22**|**Self-distillation for surgical action recognition**|Amine Yamlahi et.al.|[2303.12915](http://arxiv.org/abs/2303.12915)|null|
 |**2023-03-17**|**CerviFormer: A Pap-smear based cervical cancer classification method using cross attention and latent transformer**|Bhaswati Singha Deo et.al.|[2303.10222](http://arxiv.org/abs/2303.10222)|null|
 |**2023-03-17**|**Transformer Encoder with Multiscale Deep Learning for Pain Classification Using Physiological Signals**|Zhenyuan Lu et.al.|[2303.06845](http://arxiv.org/abs/2303.06845)|**[link](https://github.com/zhenyuanlu/painattnnet)**|

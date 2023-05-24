@@ -51,6 +51,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-23**|**Source-Free Domain Adaptation for RGB-D Semantic Segmentation with Vision Transformers**|Giulia Rizzoli et.al.|[2305.14269](http://arxiv.org/abs/2305.14269)|null|
+|**2023-05-23**|**Realistic Noise Synthesis with Diffusion Models**|Qi Wu et.al.|[2305.14022](http://arxiv.org/abs/2305.14022)|null|
+|**2023-05-23**|**Control-A-Video: Controllable Text-to-Video Generation with Diffusion Models**|Weifeng Chen et.al.|[2305.13840](http://arxiv.org/abs/2305.13840)|null|
+|**2023-05-23**|**Generalizable Synthetic Image Detection via Language-guided Contrastive Learning**|Haiwei Wu et.al.|[2305.13800](http://arxiv.org/abs/2305.13800)|**[link](https://github.com/highwaywu/lasted)**|
+|**2023-05-22**|**Attribute-Guided Encryption with Facial Texture Masking**|Chun Pong Lau et.al.|[2305.13548](http://arxiv.org/abs/2305.13548)|null|
+|**2023-05-22**|**Statistical Guarantees of Group-Invariant GANs**|Ziyu Chen et.al.|[2305.13517](http://arxiv.org/abs/2305.13517)|null|
 |**2023-05-22**|**Why current rain denoising models fail on CycleGAN created rain images in autonomous driving**|Michael Kranl et.al.|[2305.12983](http://arxiv.org/abs/2305.12983)|null|
 |**2023-05-22**|**ZS-MSTM: Zero-Shot Style Transfer for Gesture Animation driven by Text and Speech using Adversarial Disentanglement of Multimodal Style Encoding**|Mireille Fares et.al.|[2305.12887](http://arxiv.org/abs/2305.12887)|null|
 |**2023-05-22**|**SG-GAN: Fine Stereoscopic-Aware Generation for 3D Brain Point Cloud Up-sampling from a Single Image**|Bowen Hu et.al.|[2305.12646](http://arxiv.org/abs/2305.12646)|null|
@@ -285,6 +291,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-23**|**Diffusion Hyperfeatures: Searching Through Time and Space for Semantic Correspondence**|Grace Luo et.al.|[2305.14334](http://arxiv.org/abs/2305.14334)|null|
+|**2023-05-23**|**SEEDS: Exponential SDE Solvers for Fast High-Quality Sampling from Diffusion Models**|Martin Gonzalez et.al.|[2305.14267](http://arxiv.org/abs/2305.14267)|null|
+|**2023-05-23**|**Improved Convergence of Score-Based Diffusion Models via Prediction-Correction**|Francesco Pedrotti et.al.|[2305.14164](http://arxiv.org/abs/2305.14164)|null|
+|**2023-05-23**|**Realistic Noise Synthesis with Diffusion Models**|Qi Wu et.al.|[2305.14022](http://arxiv.org/abs/2305.14022)|null|
+|**2023-05-23**|**Node-wise Diffusion for Scalable Graph Learning**|Keke Huang et.al.|[2305.14000](http://arxiv.org/abs/2305.14000)|null|
+|**2023-05-23**|**A subsolar oxygen abundance or a radiative region deep in Jupiter revealed by thermochemical modelling**|Thibault Cavalié et.al.|[2305.13949](http://arxiv.org/abs/2305.13949)|null|
+|**2023-05-23**|**Compositional Text-to-Image Synthesis with Attention Map Control of Diffusion Models**|Ruichen Wang et.al.|[2305.13921](http://arxiv.org/abs/2305.13921)|null|
+|**2023-05-23**|**Control-A-Video: Controllable Text-to-Video Generation with Diffusion Models**|Weifeng Chen et.al.|[2305.13840](http://arxiv.org/abs/2305.13840)|null|
+|**2023-05-23**|**ZET-Speech: Zero-shot adaptive Emotion-controllable Text-to-Speech Synthesis with Diffusion and Style-based Models**|Minki Kang et.al.|[2305.13831](http://arxiv.org/abs/2305.13831)|null|
+|**2023-05-23**|**WaveDM: Wavelet-Based Diffusion Models for Image Restoration**|Yi Huang et.al.|[2305.13819](http://arxiv.org/abs/2305.13819)|null|
+|**2023-05-23**|**Generalizable Synthetic Image Detection via Language-guided Contrastive Learning**|Haiwei Wu et.al.|[2305.13800](http://arxiv.org/abs/2305.13800)|**[link](https://github.com/highwaywu/lasted)**|
+|**2023-05-23**|**SE-Bridge: Speech Enhancement with Consistent Brownian Bridge**|Zhibin Qiu et.al.|[2305.13796](http://arxiv.org/abs/2305.13796)|null|
+|**2023-05-23**|**Understanding Text-driven Motion Synthesis with Keyframe Collaboration via Diffusion Models**|Dong Wei et.al.|[2305.13773](http://arxiv.org/abs/2305.13773)|null|
+|**2023-05-23**|**DiffHand: End-to-End Hand Mesh Reconstruction via Diffusion Models**|Lijun Li et.al.|[2305.13705](http://arxiv.org/abs/2305.13705)|null|
+|**2023-05-23**|**LLM-grounded Diffusion: Enhancing Prompt Understanding of Text-to-Image Diffusion Models with Large Language Models**|Long Lian et.al.|[2305.13655](http://arxiv.org/abs/2305.13655)|null|
+|**2023-05-23**|**DiffProtect: Generate Adversarial Examples with Diffusion Models for Facial Privacy Protection**|Jiang Liu et.al.|[2305.13625](http://arxiv.org/abs/2305.13625)|null|
+|**2023-05-23**|**FluentSpeech: Stutter-Oriented Automatic Speech Editing with Context-Aware Diffusion Models**|Ziyue Jiang et.al.|[2305.13612](http://arxiv.org/abs/2305.13612)|null|
+|**2023-05-22**|**LaDI-VTON: Latent Diffusion Textual-Inversion Enhanced Virtual Try-On**|Davide Morelli et.al.|[2305.13501](http://arxiv.org/abs/2305.13501)|**[link](https://github.com/miccunifi/ladi-vton)**|
 |**2023-05-22**|**If at First You Don't Succeed, Try, Try Again: Faithful Diffusion-based Text-to-Image Generation by Selection**|Shyamgopal Karthik et.al.|[2305.13308](http://arxiv.org/abs/2305.13308)|null|
 |**2023-05-23**|**Training Diffusion Models with Reinforcement Learning**|Kevin Black et.al.|[2305.13301](http://arxiv.org/abs/2305.13301)|null|
 |**2023-05-22**|**U-DiT TTS: U-Diffusion Vision Transformer for Text-to-Speech**|Xin Jing et.al.|[2305.13195](http://arxiv.org/abs/2305.13195)|null|
@@ -709,6 +733,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-23**|**Generalized Expectation Maximization Framework for Blind Image Super Resolution**|Yuxiao Li et.al.|[2305.13880](http://arxiv.org/abs/2305.13880)|null|
+|**2023-05-23**|**Unsafe Diffusion: On the Generation of Unsafe Images and Hateful Memes From Text-To-Image Models**|Yiting Qu et.al.|[2305.13873](http://arxiv.org/abs/2305.13873)|null|
+|**2023-05-23**|**Variational Bayesian Framework for Advanced Image Generation with Domain-Related Variables**|Yuxiao Li et.al.|[2305.13872](http://arxiv.org/abs/2305.13872)|null|
+|**2023-05-23**|**WaveDM: Wavelet-Based Diffusion Models for Image Restoration**|Yi Huang et.al.|[2305.13819](http://arxiv.org/abs/2305.13819)|null|
+|**2023-05-23**|**A Dive into SAM Prior in Image Restoration**|Zeyu Xiao et.al.|[2305.13620](http://arxiv.org/abs/2305.13620)|null|
 |**2023-05-22**|**Restore Anything Pipeline: Segment Anything Meets Image Restoration**|Jiaxi Jiang et.al.|[2305.13093](http://arxiv.org/abs/2305.13093)|**[link](https://github.com/eth-siplab/rap)**|
 |**2023-05-22**|**The CLIP Model is Secretly an Image-to-Prompt Converter**|Yuxuan Ding et.al.|[2305.12716](http://arxiv.org/abs/2305.12716)|null|
 |**2023-05-19**|**SIDAR: Synthetic Image Dataset for Alignment & Restoration**|Monika Kwiatkowski et.al.|[2305.12036](http://arxiv.org/abs/2305.12036)|**[link](https://github.com/niika/SIDAR)**|
@@ -835,6 +864,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-23**|**REC-MV: REconstructing 3D Dynamic Cloth from Monocular Videos**|Lingteng Qiu et.al.|[2305.14236](http://arxiv.org/abs/2305.14236)|**[link](https://github.com/gap-lab-cuhk-sz/rec-mv)**|
 |**2023-05-15**|**Inverse Rendering of Translucent Objects using Physical and Neural Renderers**|Chenhao Li et.al.|[2305.08336](http://arxiv.org/abs/2305.08336)|**[link](https://github.com/ligoudaner377/homo_translucent)**|
 |**2023-05-12**|**BundleRecon: Ray Bundle-Based 3D Neural Reconstruction**|Weikun Zhang et.al.|[2305.07342](http://arxiv.org/abs/2305.07342)|null|
 |**2023-05-05**|**Learn how to Prune Pixels for Multi-view Neural Image-based Synthesis**|Marta Milovanović et.al.|[2305.03572](http://arxiv.org/abs/2305.03572)|null|
@@ -941,6 +971,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-23**|**Structure of the planetary 2:1 MMR.Mapping the structure of the planetary 2:1 mean motion resonance. The TOI-216, K2-24, and HD27894 systems**|Cristian Giuppone et.al.|[2305.14198](http://arxiv.org/abs/2305.14198)|null|
 |**2023-05-22**|**Building an Invisible Shield for Your Portrait against Deepfakes**|Jiazhi Guan et.al.|[2305.12881](http://arxiv.org/abs/2305.12881)|null|
 |**2023-05-19**|**PORTRAIT: a hybrid aPproach tO cReate extractive ground-TRuth summAry for dIsaster evenT**|Piyush Kumar Garg et.al.|[2305.11536](http://arxiv.org/abs/2305.11536)|null|
 |**2023-05-15**|**Laughing Matters: Introducing Laughing-Face Generation using Diffusion Models**|Antoni Bigata Casademunt et.al.|[2305.08854](http://arxiv.org/abs/2305.08854)|null|

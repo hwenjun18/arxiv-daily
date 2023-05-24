@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.23
+## Updated on 2023.05.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -47,7 +47,7 @@ layout: default
 |**2023-05-21**|**PCF-GAN: generating sequential data via the characteristic function of measures on the path space**|Hang Lou et.al.|[2305.12511](http://arxiv.org/abs/2305.12511)|**[link](https://github.com/deepintostreams/pcf-gan)**|
 |**2023-05-21**|**Exploring How Generative Adversarial Networks Learn Phonological Representations**|Jingyi Chen et.al.|[2305.12501](http://arxiv.org/abs/2305.12501)|null|
 |**2023-05-21**|**Study of GANs for Noisy Speech Simulation from Clean Speech**|Leander Melroy Maben et.al.|[2305.12460](http://arxiv.org/abs/2305.12460)|null|
-|**2023-05-21**|**InstructVid2Vid: Controllable Video Editing with Natural Language Instructions**|Bosheng Qin et.al.|[2305.12328](http://arxiv.org/abs/2305.12328)|**[link](https://github.com/BrightQin/InstructVid2Vid)**|
+|**2023-05-21**|**InstructVid2Vid: Controllable Video Editing with Natural Language Instructions**|Bosheng Qin et.al.|[2305.12328](http://arxiv.org/abs/2305.12328)|null|
 |**2023-05-20**|**AI-assisted super-resolution cosmological simulations III: Time evolution**|Xiaowen Zhang et.al.|[2305.12222](http://arxiv.org/abs/2305.12222)|null|
 |**2023-05-19**|**Reducing Sequence Length by Predicting Edit Operations with Large Language Models**|Masahiro Kaneko et.al.|[2305.11862](http://arxiv.org/abs/2305.11862)|null|
 |**2023-05-19**|**Sim-to-Real Segmentation in Robot-assisted Transoral Tracheal Intubation**|Guankun Wang et.al.|[2305.11686](http://arxiv.org/abs/2305.11686)|null|
@@ -272,7 +272,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-05-22**|**If at First You Don't Succeed, Try, Try Again: Faithful Diffusion-based Text-to-Image Generation by Selection**|Shyamgopal Karthik et.al.|[2305.13308](http://arxiv.org/abs/2305.13308)|null|
-|**2023-05-22**|**Training Diffusion Models with Reinforcement Learning**|Kevin Black et.al.|[2305.13301](http://arxiv.org/abs/2305.13301)|null|
+|**2023-05-23**|**Training Diffusion Models with Reinforcement Learning**|Kevin Black et.al.|[2305.13301](http://arxiv.org/abs/2305.13301)|null|
 |**2023-05-22**|**U-DiT TTS: U-Diffusion Vision Transformer for Text-to-Speech**|Xin Jing et.al.|[2305.13195](http://arxiv.org/abs/2305.13195)|null|
 |**2023-05-22**|**GSURE-Based Diffusion Model Training with Corrupted Data**|Bahjat Kawar et.al.|[2305.13128](http://arxiv.org/abs/2305.13128)|**[link](https://github.com/bahjat-kawar/gsure-diffusion)**|
 |**2023-05-22**|**Policy Representation via Diffusion Probability Model for Reinforcement Learning**|Long Yang et.al.|[2305.13122](http://arxiv.org/abs/2305.13122)|**[link](https://github.com/bellmantimehut/dipo)**|
@@ -700,7 +700,7 @@ layout: default
 |**2023-05-22**|**RAMiT: Reciprocal Attention Mixing Transformer for Lightweight Image Restoration**|Haram Choi et.al.|[2305.11474](http://arxiv.org/abs/2305.11474)|null|
 |**2023-05-18**|**SlotDiffusion: Object-Centric Generative Modeling with Diffusion Models**|Ziyi Wu et.al.|[2305.11281](http://arxiv.org/abs/2305.11281)|null|
 |**2023-05-19**|**DiffUTE: Universal Text Editing Diffusion Model**|Haoxing Chen et.al.|[2305.10825](http://arxiv.org/abs/2305.10825)|**[link](https://github.com/chenhaoxing/DiffUTE)**|
-|**2023-05-17**|**Principal Uncertainty Quantification with Spatial Correlation for Image Restoration Problems**|Omer Belhasin et.al.|[2305.10124](http://arxiv.org/abs/2305.10124)|null|
+|**2023-05-17**|**Principal Uncertainty Quantification with Spatial Correlation for Image Restoration Problems**|Omer Belhasin et.al.|[2305.10124](http://arxiv.org/abs/2305.10124)|**[link](https://github.com/omerb01/puq)**|
 |**2023-05-17**|**Restoring Images Captured in Arbitrary Hybrid Adverse Weather Conditions in One Go**|Ye-Cong Wan et.al.|[2305.09996](http://arxiv.org/abs/2305.09996)|**[link](https://github.com/jeasco/rahc)**|
 |**2023-05-15**|**Denoising Diffusion Models for Plug-and-Play Image Restoration**|Yuanzhi Zhu et.al.|[2305.08995](http://arxiv.org/abs/2305.08995)|**[link](https://github.com/yuanzhi-zhu/diffpir)**|
 |**2023-05-15**|**Toward Moiré-Free and Detail-Preserving Demosaicking**|Xuanchen Li et.al.|[2305.08585](http://arxiv.org/abs/2305.08585)|null|
@@ -903,7 +903,7 @@ layout: default
 |**2022-12-09**|**Album cover art image generation with Generative Adversarial Networks**|Felipe Perez Stoppa et.al.|[2212.04844](http://arxiv.org/abs/2212.04844)|null|
 |**2023-04-11**|**Face Animation with Multiple Source Images**|Zhaoying Pan et.al.|[2212.00256](http://arxiv.org/abs/2212.00256)|null|
 |**2023-03-13**|**SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation**|Wenxuan Zhang et.al.|[2211.12194](http://arxiv.org/abs/2211.12194)|**[link](https://github.com/winfredy/sadtalker)**|
-|**2022-11-14**|**Fast Text-Conditional Discrete Denoising on Vector-Quantized Latent Spaces**|Dominic Rampas et.al.|[2211.07292](http://arxiv.org/abs/2211.07292)|**[link](https://github.com/dome272/paella)**|
+|**2023-05-23**|**A Novel Sampling Scheme for Text- and Image-Conditional Image Synthesis in Quantized Latent Spaces**|Dominic Rampas et.al.|[2211.07292](http://arxiv.org/abs/2211.07292)|**[link](https://github.com/dome272/paella)**|
 |**2022-11-03**|**Haven't I Seen You Before? Assessing Identity Leakage in Synthetic Irises**|Patrick Tinsley et.al.|[2211.05629](http://arxiv.org/abs/2211.05629)|null|
 |**2022-10-20**|**Forest: Structural Code Editing with Multiple Cursors**|Philippe Voinov et.al.|[2210.11124](http://arxiv.org/abs/2210.11124)|**[link](https://github.com/tehwalris/forest)**|
 |**2022-10-12**|**AniFaceGAN: Animatable 3D-Aware Face Image Generation for Video Avatars**|Yue Wu et.al.|[2210.06465](http://arxiv.org/abs/2210.06465)|null|
@@ -925,7 +925,7 @@ layout: default
 |**2023-05-08**|**Controllable Light Diffusion for Portraits**|David Futschik et.al.|[2305.04745](http://arxiv.org/abs/2305.04745)|null|
 |**2023-05-08**|**FashionTex: Controllable Virtual Try-on with Text and Texture**|Anran Lin et.al.|[2305.04451](http://arxiv.org/abs/2305.04451)|null|
 |**2023-05-05**|**Avatar Fingerprinting for Authorized Use of Synthetic Talking-Head Videos**|Ekta Prashnani et.al.|[2305.03713](http://arxiv.org/abs/2305.03713)|null|
-|**2023-05-04**|**Adversarially-Guided Portrait Matting**|Sergej Chicherin et.al.|[2305.02981](http://arxiv.org/abs/2305.02981)|**[link](https://github.com/chroneus/stylematte)**|
+|**2023-05-23**|**Adversarially-Guided Portrait Matting**|Sergej Chicherin et.al.|[2305.02981](http://arxiv.org/abs/2305.02981)|**[link](https://github.com/chroneus/stylematte)**|
 |**2023-05-04**|**Semantic-aware Generation of Multi-view Portrait Drawings**|Biao Ma et.al.|[2305.02618](http://arxiv.org/abs/2305.02618)|**[link](https://github.com/aiart-hdu/sage)**|
 |**2023-05-09**|**Multimodal-driven Talking Face Generation via a Unified Diffusion-based Generator**|Chao Xu et.al.|[2305.02594](http://arxiv.org/abs/2305.02594)|null|
 |**2023-05-03**|**Real-Time Radiance Fields for Single-Image Portrait View Synthesis**|Alex Trevithick et.al.|[2305.02310](http://arxiv.org/abs/2305.02310)|null|

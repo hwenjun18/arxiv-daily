@@ -51,6 +51,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-24**|**SAMScore: A Semantic Structural Similarity Metric for Image Translation Evaluation**|Yunxiang Li et.al.|[2305.15367](http://arxiv.org/abs/2305.15367)|null|
+|**2023-05-24**|**IoT Threat Detection Testbed Using Generative Adversarial Networks**|Farooq Shaikh et.al.|[2305.15191](http://arxiv.org/abs/2305.15191)|null|
+|**2023-05-24**|**GAN-AE : An anomaly detection algorithm for New Physics search in LHC data**|Louis Vaslin et.al.|[2305.15179](http://arxiv.org/abs/2305.15179)|null|
+|**2023-05-24**|**DuDGAN: Improving Class-Conditional GANs via Dual-Diffusion**|Taesun Yeom et.al.|[2305.14849](http://arxiv.org/abs/2305.14849)|null|
+|**2023-05-24**|**ACE: Adversarial Correspondence Embedding for Cross Morphology Motion Retargeting from Human to Nonhuman Characters**|Tianyu Li et.al.|[2305.14792](http://arxiv.org/abs/2305.14792)|null|
+|**2023-05-24**|**Revisit and Outstrip Entity Alignment: A Perspective of Generative Models**|Lingbing Guo et.al.|[2305.14651](http://arxiv.org/abs/2305.14651)|null|
+|**2023-05-22**|**Design a Delicious Lunchbox in Style**|Yutong Zhou et.al.|[2305.14522](http://arxiv.org/abs/2305.14522)|null|
 |**2023-05-23**|**Source-Free Domain Adaptation for RGB-D Semantic Segmentation with Vision Transformers**|Giulia Rizzoli et.al.|[2305.14269](http://arxiv.org/abs/2305.14269)|null|
 |**2023-05-23**|**Realistic Noise Synthesis with Diffusion Models**|Qi Wu et.al.|[2305.14022](http://arxiv.org/abs/2305.14022)|null|
 |**2023-05-23**|**Control-A-Video: Controllable Text-to-Video Generation with Diffusion Models**|Weifeng Chen et.al.|[2305.13840](http://arxiv.org/abs/2305.13840)|null|
@@ -291,6 +298,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-24**|**Sin3DM: Learning a Diffusion Model from a Single 3D Textured Shape**|Rundi Wu et.al.|[2305.15399](http://arxiv.org/abs/2305.15399)|null|
+|**2023-05-24**|**Solving Diffusion ODEs with Optimal Boundary Conditions for Better Image Super-Resolution**|Yiyang Ma et.al.|[2305.15357](http://arxiv.org/abs/2305.15357)|null|
+|**2023-05-24**|**A Tale of Two Features: Stable Diffusion Complements DINO for Zero-Shot Semantic Correspondence**|Junyi Zhang et.al.|[2305.15347](http://arxiv.org/abs/2305.15347)|null|
+|**2023-05-24**|**MultiFusion: Fusing Pre-Trained Models for Multi-Lingual, Multi-Modal Image Generation**|Marco Bellagente et.al.|[2305.15296](http://arxiv.org/abs/2305.15296)|null|
+|**2023-05-24**|**Diffusion-Based Audio Inpainting**|Eloi Moliner et.al.|[2305.15266](http://arxiv.org/abs/2305.15266)|null|
+|**2023-05-24**|**Robust Classification via a Single Diffusion Model**|Huanran Chen et.al.|[2305.15241](http://arxiv.org/abs/2305.15241)|null|
+|**2023-05-24**|**DiffBlender: Scalable and Composable Multimodal Text-to-Image Diffusion Models**|Sungnyun Kim et.al.|[2305.15194](http://arxiv.org/abs/2305.15194)|null|
+|**2023-05-24**|**Simultaneous identification of models and parameters of scientific simulators**|Cornelius Schröder et.al.|[2305.15174](http://arxiv.org/abs/2305.15174)|null|
+|**2023-05-24**|**Deceptive-NeRF: Enhancing NeRF Reconstruction using Pseudo-Observations from Diffusion Models**|Xinhang Liu et.al.|[2305.15171](http://arxiv.org/abs/2305.15171)|null|
+|**2023-05-24**|**Unpaired Image-to-Image Translation via Neural Schrödinger Bridge**|Beomsu Kim et.al.|[2305.15086](http://arxiv.org/abs/2305.15086)|null|
+|**2023-05-24**|**Dior-CVAE: Diffusion Priors in Variational Dialog Generation**|Tianyu Yang et.al.|[2305.15025](http://arxiv.org/abs/2305.15025)|null|
+|**2023-05-24**|**Weakly nonlinear analysis of a two-species non-local advection-diffusion system**|Valeria Giunta et.al.|[2305.14954](http://arxiv.org/abs/2305.14954)|null|
+|**2023-05-24**|**Generalised Framework for Controlling and Understanding Ion Dynamics with Passivated Lead Halide Perovskites**|Tomi K. Baikie et.al.|[2305.14942](http://arxiv.org/abs/2305.14942)|null|
+|**2023-05-24**|**SSD-2: Scaling and Inference-time Fusion of Diffusion Language Models**|Xiaochuang Han et.al.|[2305.14771](http://arxiv.org/abs/2305.14771)|null|
+|**2023-05-24**|**ChatFace: Chat-Guided Real Face Editing via Diffusion Latent Space Manipulation**|Dongxu Yue et.al.|[2305.14742](http://arxiv.org/abs/2305.14742)|null|
+|**2023-05-24**|**I Spy a Metaphor: Large Language Models and Diffusion Models Co-Create Visual Metaphors**|Tuhin Chakrabarty et.al.|[2305.14724](http://arxiv.org/abs/2305.14724)|null|
+|**2023-05-24**|**BLIP-Diffusion: Pre-trained Subject Representation for Controllable Text-to-Image Generation and Editing**|Dongxu Li et.al.|[2305.14720](http://arxiv.org/abs/2305.14720)|**[link](https://github.com/salesforce/lavis)**|
+|**2023-05-24**|**On the Generalization of Diffusion Model**|Mingyang Yi et.al.|[2305.14712](http://arxiv.org/abs/2305.14712)|null|
+|**2023-05-24**|**Optimal Linear Subspace Search: Learning to Construct Fast and High-Quality Schedulers for Diffusion Models**|Zhongjie Duan et.al.|[2305.14677](http://arxiv.org/abs/2305.14677)|null|
+|**2023-05-24**|**Diffusion Models in NLP: A Survey**|Hao Zou et.al.|[2305.14671](http://arxiv.org/abs/2305.14671)|null|
 |**2023-05-23**|**Diffusion Hyperfeatures: Searching Through Time and Space for Semantic Correspondence**|Grace Luo et.al.|[2305.14334](http://arxiv.org/abs/2305.14334)|null|
 |**2023-05-23**|**SEEDS: Exponential SDE Solvers for Fast High-Quality Sampling from Diffusion Models**|Martin Gonzalez et.al.|[2305.14267](http://arxiv.org/abs/2305.14267)|null|
 |**2023-05-23**|**Improved Convergence of Score-Based Diffusion Models via Prediction-Correction**|Francesco Pedrotti et.al.|[2305.14164](http://arxiv.org/abs/2305.14164)|null|
@@ -733,6 +760,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-24**|**Balancing the Picture: Debiasing Vision-Language Datasets with Synthetic Contrast Sets**|Brandon Smith et.al.|[2305.15407](http://arxiv.org/abs/2305.15407)|null|
+|**2023-05-24**|**Learning INR for Event-guided Rolling Shutter Frame Correction, Deblur, and Interpolation**|Yunfan Lu et.al.|[2305.15078](http://arxiv.org/abs/2305.15078)|null|
+|**2023-05-24**|**ChatFace: Chat-Guided Real Face Editing via Diffusion Latent Space Manipulation**|Dongxu Yue et.al.|[2305.14742](http://arxiv.org/abs/2305.14742)|null|
 |**2023-05-23**|**Generalized Expectation Maximization Framework for Blind Image Super Resolution**|Yuxiao Li et.al.|[2305.13880](http://arxiv.org/abs/2305.13880)|null|
 |**2023-05-23**|**Unsafe Diffusion: On the Generation of Unsafe Images and Hateful Memes From Text-To-Image Models**|Yiting Qu et.al.|[2305.13873](http://arxiv.org/abs/2305.13873)|null|
 |**2023-05-23**|**Variational Bayesian Framework for Advanced Image Generation with Domain-Related Variables**|Yuxiao Li et.al.|[2305.13872](http://arxiv.org/abs/2305.13872)|null|

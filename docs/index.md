@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.24
+## Updated on 2023.05.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -949,7 +949,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-05-23**|**Structure of the planetary 2:1 MMR.Mapping the structure of the planetary 2:1 mean motion resonance. The TOI-216, K2-24, and HD27894 systems**|Cristian Giuppone et.al.|[2305.14198](http://arxiv.org/abs/2305.14198)|null|
+|**2023-05-23**|**Mapping the structure of the planetary 2:1 mean motion resonance. The TOI-216, K2-24, and HD27894 systems**|Cristian Giuppone et.al.|[2305.14198](http://arxiv.org/abs/2305.14198)|null|
 |**2023-05-22**|**Building an Invisible Shield for Your Portrait against Deepfakes**|Jiazhi Guan et.al.|[2305.12881](http://arxiv.org/abs/2305.12881)|null|
 |**2023-05-19**|**PORTRAIT: a hybrid aPproach tO cReate extractive ground-TRuth summAry for dIsaster evenT**|Piyush Kumar Garg et.al.|[2305.11536](http://arxiv.org/abs/2305.11536)|null|
 |**2023-05-15**|**Laughing Matters: Introducing Laughing-Face Generation using Diffusion Models**|Antoni Bigata Casademunt et.al.|[2305.08854](http://arxiv.org/abs/2305.08854)|null|

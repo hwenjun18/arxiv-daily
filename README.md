@@ -51,7 +51,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-05-24**|**SAMScore: A Semantic Structural Similarity Metric for Image Translation Evaluation**|Yunxiang Li et.al.|[2305.15367](http://arxiv.org/abs/2305.15367)|null|
+|**2023-05-25**|**UDPM: Upsampling Diffusion Probabilistic Models**|Shady Abu-Hussein et.al.|[2305.16269](http://arxiv.org/abs/2305.16269)|null|
+|**2023-05-25**|**Incomplete Multimodal Learning for Complex Brain Disorders Prediction**|Reza Shirkavand et.al.|[2305.16222](http://arxiv.org/abs/2305.16222)|null|
+|**2023-05-25**|**Unifying GANs and Score-Based Diffusion as Generative Particle Models**|Jean-Yves Franceschi et.al.|[2305.16150](http://arxiv.org/abs/2305.16150)|**[link](https://github.com/white-link/gpm)**|
+|**2023-05-25**|**Learning and accurate generation of stochastic dynamics based on multi-model Generative Adversarial Networks**|Daniele Lanzoni et.al.|[2305.15920](http://arxiv.org/abs/2305.15920)|null|
+|**2023-05-25**|**Generative Adversarial Reduced Order Modelling**|Dario Coscia et.al.|[2305.15881](http://arxiv.org/abs/2305.15881)|null|
+|**2023-05-25**|**DDDM-VC: Decoupled Denoising Diffusion Models with Disentangled Representation and Prior Mixup for Verified Robust Voice Conversion**|Ha-Yeong Choi et.al.|[2305.15816](http://arxiv.org/abs/2305.15816)|null|
+|**2023-05-25**|**CLIP3Dstyler: Language Guided 3D Arbitrary Neural Style Transfer**|Ming Gao et.al.|[2305.15732](http://arxiv.org/abs/2305.15732)|null|
+|**2023-05-24**|**Balancing Effect of Training Dataset Distribution of Multiple Styles for Multi-Style Text Transfer**|Debarati Das et.al.|[2305.15582](http://arxiv.org/abs/2305.15582)|null|
+|**2023-05-24**|**SAMScore: A Semantic Structural Similarity Metric for Image Translation Evaluation**|Yunxiang Li et.al.|[2305.15367](http://arxiv.org/abs/2305.15367)|**[link](https://github.com/kent0n-li/samscore)**|
 |**2023-05-24**|**IoT Threat Detection Testbed Using Generative Adversarial Networks**|Farooq Shaikh et.al.|[2305.15191](http://arxiv.org/abs/2305.15191)|null|
 |**2023-05-24**|**GAN-AE : An anomaly detection algorithm for New Physics search in LHC data**|Louis Vaslin et.al.|[2305.15179](http://arxiv.org/abs/2305.15179)|null|
 |**2023-05-24**|**DuDGAN: Improving Class-Conditional GANs via Dual-Diffusion**|Taesun Yeom et.al.|[2305.14849](http://arxiv.org/abs/2305.14849)|null|
@@ -298,6 +306,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-25**|**Uni-ControlNet: All-in-One Control to Text-to-Image Diffusion Models**|Shihao Zhao et.al.|[2305.16322](http://arxiv.org/abs/2305.16322)|**[link](https://github.com/shihaozhaozsh/uni-controlnet)**|
+|**2023-05-25**|**Parallel Sampling of Diffusion Models**|Andy Shih et.al.|[2305.16317](http://arxiv.org/abs/2305.16317)|null|
+|**2023-05-25**|**Look Ma, No Hands! Agent-Environment Factorization of Egocentric Videos**|Matthew Chang et.al.|[2305.16301](http://arxiv.org/abs/2305.16301)|null|
+|**2023-05-25**|**CommonScenes: Generating Commonsense 3D Indoor Scenes with Scene Graphs**|Guangyao Zhai et.al.|[2305.16283](http://arxiv.org/abs/2305.16283)|null|
+|**2023-05-25**|**UDPM: Upsampling Diffusion Probabilistic Models**|Shady Abu-Hussein et.al.|[2305.16269](http://arxiv.org/abs/2305.16269)|null|
+|**2023-05-25**|**Trans-Dimensional Generative Modeling via Jump Diffusion Models**|Andrew Campbell et.al.|[2305.16261](http://arxiv.org/abs/2305.16261)|**[link](https://github.com/andrew-cr/jump-diffusion)**|
+|**2023-05-25**|**ProSpect: Expanded Conditioning for the Personalization of Attribute-aware Image Generation**|Yuxin Zhang et.al.|[2305.16225](http://arxiv.org/abs/2305.16225)|**[link](https://github.com/zyxElsa/ProSpect)**|
+|**2023-05-25**|**Prompt-Free Diffusion: Taking "Text" out of Text-to-Image Diffusion Models**|Xingqian Xu et.al.|[2305.16223](http://arxiv.org/abs/2305.16223)|**[link](https://github.com/shi-labs/prompt-free-diffusion)**|
+|**2023-05-25**|**ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation**|Zhengyi Wang et.al.|[2305.16213](http://arxiv.org/abs/2305.16213)|null|
+|**2023-05-25**|**Unifying GANs and Score-Based Diffusion as Generative Particle Models**|Jean-Yves Franceschi et.al.|[2305.16150](http://arxiv.org/abs/2305.16150)|**[link](https://github.com/white-link/gpm)**|
+|**2023-05-25**|**GenerateCT: Text-Guided 3D Chest CT Generation**|Ibrahim Ethem Hamamci et.al.|[2305.16037](http://arxiv.org/abs/2305.16037)|**[link](https://github.com/ibrahimethemhamamci/generatect)**|
+|**2023-05-25**|**Detecting Adversarial Data by Probing Multiple Perturbations Using Expected Perturbation Score**|Shuhai Zhang et.al.|[2305.16035](http://arxiv.org/abs/2305.16035)|**[link](https://github.com/zshsh98/eps-ad)**|
+|**2023-05-25**|**Anomaly Detection with Conditioned Denoising Diffusion Models**|Arian Mousakhan et.al.|[2305.15956](http://arxiv.org/abs/2305.15956)|null|
+|**2023-05-25**|**Latent Diffusion Model Based Foley Sound Generation System For DCASE Challenge 2023 Task 7**|Yi Yuan et.al.|[2305.15905](http://arxiv.org/abs/2305.15905)|null|
+|**2023-05-25**|**A Diffusion Probabilistic Prior for Low-Dose CT Image Denoising**|Xuan Liu et.al.|[2305.15887](http://arxiv.org/abs/2305.15887)|null|
+|**2023-05-25**|**Confronting Ambiguity in 6D Object Pose Estimation via Score-Based Diffusion on SE(3)**|Tsu-Ching Hsiao et.al.|[2305.15873](http://arxiv.org/abs/2305.15873)|null|
+|**2023-05-25**|**DDDM-VC: Decoupled Denoising Diffusion Models with Disentangled Representation and Prior Mixup for Verified Robust Voice Conversion**|Ha-Yeong Choi et.al.|[2305.15816](http://arxiv.org/abs/2305.15816)|null|
+|**2023-05-25**|**On Architectural Compression of Text-to-Image Diffusion Models**|Bo-Kyeong Kim et.al.|[2305.15798](http://arxiv.org/abs/2305.15798)|null|
+|**2023-05-25**|**Custom-Edit: Text-Guided Image Editing with Customized Diffusion Models**|Jooyoung Choi et.al.|[2305.15779](http://arxiv.org/abs/2305.15779)|null|
+|**2023-05-25**|**Differentially Private Latent Diffusion Models**|Saiyue Lyu et.al.|[2305.15759](http://arxiv.org/abs/2305.15759)|null|
 |**2023-05-24**|**Sin3DM: Learning a Diffusion Model from a Single 3D Textured Shape**|Rundi Wu et.al.|[2305.15399](http://arxiv.org/abs/2305.15399)|null|
 |**2023-05-24**|**Solving Diffusion ODEs with Optimal Boundary Conditions for Better Image Super-Resolution**|Yiyang Ma et.al.|[2305.15357](http://arxiv.org/abs/2305.15357)|null|
 |**2023-05-24**|**A Tale of Two Features: Stable Diffusion Complements DINO for Zero-Shot Semantic Correspondence**|Junyi Zhang et.al.|[2305.15347](http://arxiv.org/abs/2305.15347)|null|
@@ -760,7 +788,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-05-24**|**Balancing the Picture: Debiasing Vision-Language Datasets with Synthetic Contrast Sets**|Brandon Smith et.al.|[2305.15407](http://arxiv.org/abs/2305.15407)|null|
+|**2023-05-25**|**Diversify Your Vision Datasets with Automatic Diffusion-Based Augmentation**|Lisa Dunlap et.al.|[2305.16289](http://arxiv.org/abs/2305.16289)|**[link](https://github.com/lisadunlap/alia)**|
+|**2023-05-25**|**Custom-Edit: Text-Guided Image Editing with Customized Diffusion Models**|Jooyoung Choi et.al.|[2305.15779](http://arxiv.org/abs/2305.15779)|null|
+|**2023-05-24**|**Balancing the Picture: Debiasing Vision-Language Datasets with Synthetic Contrast Sets**|Brandon Smith et.al.|[2305.15407](http://arxiv.org/abs/2305.15407)|**[link](https://github.com/oxai/debias-gensynth)**|
 |**2023-05-24**|**Learning INR for Event-guided Rolling Shutter Frame Correction, Deblur, and Interpolation**|Yunfan Lu et.al.|[2305.15078](http://arxiv.org/abs/2305.15078)|**[link](https://github.com/yunfanLu/EG-RSDBI)**|
 |**2023-05-24**|**ChatFace: Chat-Guided Real Face Editing via Diffusion Latent Space Manipulation**|Dongxu Yue et.al.|[2305.14742](http://arxiv.org/abs/2305.14742)|null|
 |**2023-05-23**|**Generalized Expectation Maximization Framework for Blind Image Super Resolution**|Yuxiao Li et.al.|[2305.13880](http://arxiv.org/abs/2305.13880)|null|

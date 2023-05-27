@@ -49,7 +49,7 @@ layout: default
 |**2023-05-24**|**Balancing Effect of Training Dataset Distribution of Multiple Styles for Multi-Style Text Transfer**|Debarati Das et.al.|[2305.15582](http://arxiv.org/abs/2305.15582)|null|
 |**2023-05-24**|**SAMScore: A Semantic Structural Similarity Metric for Image Translation Evaluation**|Yunxiang Li et.al.|[2305.15367](http://arxiv.org/abs/2305.15367)|**[link](https://github.com/kent0n-li/samscore)**|
 |**2023-05-24**|**IoT Threat Detection Testbed Using Generative Adversarial Networks**|Farooq Shaikh et.al.|[2305.15191](http://arxiv.org/abs/2305.15191)|null|
-|**2023-05-24**|**GAN-AE : An anomaly detection algorithm for New Physics search in LHC data**|Louis Vaslin et.al.|[2305.15179](http://arxiv.org/abs/2305.15179)|null|
+|**2023-05-24**|**GAN-AE : An anomaly detection algorithm for New Physics search in LHC data**|Louis Vaslin et.al.|[2305.15179](http://arxiv.org/abs/2305.15179)|**[link](https://github.com/lovaslin/gan-ae)**|
 |**2023-05-24**|**DuDGAN: Improving Class-Conditional GANs via Dual-Diffusion**|Taesun Yeom et.al.|[2305.14849](http://arxiv.org/abs/2305.14849)|null|
 |**2023-05-24**|**ACE: Adversarial Correspondence Embedding for Cross Morphology Motion Retargeting from Human to Nonhuman Characters**|Tianyu Li et.al.|[2305.14792](http://arxiv.org/abs/2305.14792)|null|
 |**2023-05-24**|**Revisit and Outstrip Entity Alignment: A Perspective of Generative Models**|Lingbing Guo et.al.|[2305.14651](http://arxiv.org/abs/2305.14651)|null|
@@ -293,7 +293,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-05-25**|**Uni-ControlNet: All-in-One Control to Text-to-Image Diffusion Models**|Shihao Zhao et.al.|[2305.16322](http://arxiv.org/abs/2305.16322)|**[link](https://github.com/shihaozhaozsh/uni-controlnet)**|
-|**2023-05-25**|**Parallel Sampling of Diffusion Models**|Andy Shih et.al.|[2305.16317](http://arxiv.org/abs/2305.16317)|null|
+|**2023-05-25**|**Parallel Sampling of Diffusion Models**|Andy Shih et.al.|[2305.16317](http://arxiv.org/abs/2305.16317)|**[link](https://github.com/AndyShih12/paradigms)**|
 |**2023-05-25**|**Look Ma, No Hands! Agent-Environment Factorization of Egocentric Videos**|Matthew Chang et.al.|[2305.16301](http://arxiv.org/abs/2305.16301)|null|
 |**2023-05-25**|**CommonScenes: Generating Commonsense 3D Indoor Scenes with Scene Graphs**|Guangyao Zhai et.al.|[2305.16283](http://arxiv.org/abs/2305.16283)|null|
 |**2023-05-25**|**UDPM: Upsampling Diffusion Probabilistic Models**|Shady Abu-Hussein et.al.|[2305.16269](http://arxiv.org/abs/2305.16269)|null|

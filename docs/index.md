@@ -39,6 +39,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-26**|**Fast refacing of MR images with a generative neural network lowers re-identification risk and preserves volumetric consistency**|Nataliia Molchanova et.al.|[2305.16922](http://arxiv.org/abs/2305.16922)|null|
+|**2023-05-26**|**Evaluating generation of chaotic time series by convolutional generative adversarial networks**|Yuki Tanaka et.al.|[2305.16729](http://arxiv.org/abs/2305.16729)|**[link](https://github.com/yymgch/chaosgan)**|
+|**2023-05-25**|**An AI-Ready Multiplex Staining Dataset for Reproducible and Accurate Characterization of Tumor Immune Microenvironment**|Parmida Ghahremani et.al.|[2305.16465](http://arxiv.org/abs/2305.16465)|**[link](https://github.com/nadeemlab/deepliif)**|
+|**2023-05-25**|**The Representation Jensen-Shannon Divergence**|Jhoan K. Hoyos-Osorio et.al.|[2305.16446](http://arxiv.org/abs/2305.16446)|**[link](https://github.com/uk-cliplab/representationjsd)**|
 |**2023-05-25**|**UDPM: Upsampling Diffusion Probabilistic Models**|Shady Abu-Hussein et.al.|[2305.16269](http://arxiv.org/abs/2305.16269)|null|
 |**2023-05-25**|**Incomplete Multimodal Learning for Complex Brain Disorders Prediction**|Reza Shirkavand et.al.|[2305.16222](http://arxiv.org/abs/2305.16222)|null|
 |**2023-05-25**|**Unifying GANs and Score-Based Diffusion as Generative Particle Models**|Jean-Yves Franceschi et.al.|[2305.16150](http://arxiv.org/abs/2305.16150)|**[link](https://github.com/white-link/gpm)**|
@@ -292,6 +296,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-26**|**ControlVideo: Adding Conditional Control for One Shot Text-to-Video Editing**|Min Zhao et.al.|[2305.17098](http://arxiv.org/abs/2305.17098)|null|
+|**2023-05-26**|**Accelerating Diffusion Models for Inverse Problems through Shortcut Sampling**|Gongye Liu et.al.|[2305.16965](http://arxiv.org/abs/2305.16965)|**[link](https://github.com/gongyeliu/ssd)**|
+|**2023-05-26**|**Learning to Imagine: Visually-Augmented Natural Language Generation**|Tianyi Tang et.al.|[2305.16944](http://arxiv.org/abs/2305.16944)|**[link](https://github.com/rucaibox/live)**|
+|**2023-05-26**|**DiffusionNAG: Task-guided Neural Architecture Generation with Diffusion Models**|Sohyun An et.al.|[2305.16943](http://arxiv.org/abs/2305.16943)|null|
+|**2023-05-26**|**CRoSS: Diffusion Model Makes Controllable, Robust and Secure Image Steganography**|Jiwen Yu et.al.|[2305.16936](http://arxiv.org/abs/2305.16936)|**[link](https://github.com/vvictoryuki/cross)**|
+|**2023-05-26**|**Neural modeling of magnetic tape recorders**|Otto Mikkonen et.al.|[2305.16862](http://arxiv.org/abs/2305.16862)|null|
+|**2023-05-26**|**Error Bounds for Flow Matching Methods**|Joe Benton et.al.|[2305.16860](http://arxiv.org/abs/2305.16860)|null|
+|**2023-05-26**|**Improved Visual Story Generation with Adaptive Context Modeling**|Zhangyin Feng et.al.|[2305.16811](http://arxiv.org/abs/2305.16811)|null|
+|**2023-05-26**|**Negative-prompt Inversion: Fast Image Inversion for Editing with Text-guided Diffusion Models**|Daiki Miyake et.al.|[2305.16807](http://arxiv.org/abs/2305.16807)|null|
+|**2023-05-25**|**Diffusion-Based Adversarial Sample Generation for Improved Stealthiness and Controllability**|Haotian Xue et.al.|[2305.16494](http://arxiv.org/abs/2305.16494)|**[link](https://github.com/xavihart/diff-pgd)**|
+|**2023-05-25**|**Score-based Diffusion Models for Bayesian Image Reconstruction**|Michael T. McCann et.al.|[2305.16482](http://arxiv.org/abs/2305.16482)|null|
+|**2023-05-25**|**ZeroAvatar: Zero-shot 3D Avatar Generation from a Single Image**|Zhenzhen Weng et.al.|[2305.16411](http://arxiv.org/abs/2305.16411)|null|
+|**2023-05-25**|**Are Diffusion Models Vision-And-Language Reasoners?**|Benno Krojer et.al.|[2305.16397](http://arxiv.org/abs/2305.16397)|**[link](https://github.com/mcgill-nlp/diffusion-itm)**|
+|**2023-05-25**|**DPOK: Reinforcement Learning for Fine-tuning Text-to-Image Diffusion Models**|Ying Fan et.al.|[2305.16381](http://arxiv.org/abs/2305.16381)|null|
 |**2023-05-25**|**Uni-ControlNet: All-in-One Control to Text-to-Image Diffusion Models**|Shihao Zhao et.al.|[2305.16322](http://arxiv.org/abs/2305.16322)|**[link](https://github.com/shihaozhaozsh/uni-controlnet)**|
 |**2023-05-25**|**Parallel Sampling of Diffusion Models**|Andy Shih et.al.|[2305.16317](http://arxiv.org/abs/2305.16317)|**[link](https://github.com/AndyShih12/paradigms)**|
 |**2023-05-25**|**Look Ma, No Hands! Agent-Environment Factorization of Egocentric Videos**|Matthew Chang et.al.|[2305.16301](http://arxiv.org/abs/2305.16301)|null|
@@ -772,6 +790,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-26**|**Negative-prompt Inversion: Fast Image Inversion for Editing with Text-guided Diffusion Models**|Daiki Miyake et.al.|[2305.16807](http://arxiv.org/abs/2305.16807)|null|
 |**2023-05-25**|**Diversify Your Vision Datasets with Automatic Diffusion-Based Augmentation**|Lisa Dunlap et.al.|[2305.16289](http://arxiv.org/abs/2305.16289)|**[link](https://github.com/lisadunlap/alia)**|
 |**2023-05-25**|**Custom-Edit: Text-Guided Image Editing with Customized Diffusion Models**|Jooyoung Choi et.al.|[2305.15779](http://arxiv.org/abs/2305.15779)|null|
 |**2023-05-24**|**Balancing the Picture: Debiasing Vision-Language Datasets with Synthetic Contrast Sets**|Brandon Smith et.al.|[2305.15407](http://arxiv.org/abs/2305.15407)|**[link](https://github.com/oxai/debias-gensynth)**|

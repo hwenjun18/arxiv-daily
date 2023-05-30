@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.29
+## Updated on 2023.05.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -45,7 +45,7 @@
 |**2022-11-21**|**Towards Live 3D Reconstruction from Wearable Video: An Evaluation of V-SLAM, NeRF, and Videogrammetry Techniques**|David Ramirez et.al.|[2211.11836](http://arxiv.org/abs/2211.11836)|null|
 |**2022-11-14**|**Controllable GAN Synthesis Using Non-Rigid Structure-from-Motion**|René Haas et.al.|[2211.07195](http://arxiv.org/abs/2211.07195)|null|
 
-<p align=right>(<a href=#Updated-on-20230529>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230530>back to top</a>)</p>
 
 ## GAN
 
@@ -304,7 +304,7 @@
 |**2023-03-14**|**3D Face Arbitrary Style Transfer**|Xiangwen Deng et.al.|[2303.07709](http://arxiv.org/abs/2303.07709)|null|
 |**2023-03-13**|**AGTGAN: Unpaired Image Translation for Photographic Ancient Character Generation**|Hongxiang Huang et.al.|[2303.07012](http://arxiv.org/abs/2303.07012)|**[link](https://github.com/hellomystery/agtgan)**|
 
-<p align=right>(<a href=#Updated-on-20230529>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230530>back to top</a>)</p>
 
 ## Diffusion Model
 
@@ -800,7 +800,7 @@
 |**2023-03-15**|**DiffBEV: Conditional Diffusion Model for Bird's Eye View Perception**|Jiayu Zou et.al.|[2303.08333](http://arxiv.org/abs/2303.08333)|**[link](https://github.com/jiayuzou2020/diffbev)**|
 |**2023-03-16**|**VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation**|Zhengxiong Luo et.al.|[2303.08320](http://arxiv.org/abs/2303.08320)|null|
 
-<p align=right>(<a href=#Updated-on-20230529>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230530>back to top</a>)</p>
 
 ## Image Edit
 
@@ -937,18 +937,18 @@
 |**2023-02-20**|**A Large Scale Homography Benchmark**|Daniel Barath et.al.|[2302.09997](http://arxiv.org/abs/2302.09997)|null|
 |**2023-02-19**|**LC-NeRF: Local Controllable Face Generation in Neural Randiance Field**|Wenyang Zhou et.al.|[2302.09486](http://arxiv.org/abs/2302.09486)|null|
 
-<p align=right>(<a href=#Updated-on-20230529>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230530>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-05-23**|**REC-MV: REconstructing 3D Dynamic Cloth from Monocular Videos**|Lingteng Qiu et.al.|[2305.14236](http://arxiv.org/abs/2305.14236)|**[link](https://github.com/gap-lab-cuhk-sz/rec-mv)**|
+|**2023-05-27**|**REC-MV: REconstructing 3D Dynamic Cloth from Monocular Videos**|Lingteng Qiu et.al.|[2305.14236](http://arxiv.org/abs/2305.14236)|**[link](https://github.com/gap-lab-cuhk-sz/rec-mv)**|
 |**2023-05-15**|**Inverse Rendering of Translucent Objects using Physical and Neural Renderers**|Chenhao Li et.al.|[2305.08336](http://arxiv.org/abs/2305.08336)|**[link](https://github.com/ligoudaner377/homo_translucent)**|
 |**2023-05-12**|**BundleRecon: Ray Bundle-Based 3D Neural Reconstruction**|Weikun Zhang et.al.|[2305.07342](http://arxiv.org/abs/2305.07342)|null|
 |**2023-05-05**|**Learn how to Prune Pixels for Multi-view Neural Image-based Synthesis**|Marta Milovanović et.al.|[2305.03572](http://arxiv.org/abs/2305.03572)|null|
 |**2023-05-03**|**ScatterNeRF: Seeing Through Fog with Physically-Based Inverse Neural Rendering**|Andrea Ramazzina et.al.|[2305.02103](http://arxiv.org/abs/2305.02103)|null|
-|**2023-04-30**|**Object-Centric Voxelization of Dynamic Scenes via Inverse Neural Rendering**|Siyu Gao et.al.|[2305.00393](http://arxiv.org/abs/2305.00393)|null|
+|**2023-05-28**|**Unsupervised Object-Centric Voxelization for Dynamic Scene Understanding**|Siyu Gao et.al.|[2305.00393](http://arxiv.org/abs/2305.00393)|null|
 |**2023-04-25**|**Local Implicit Ray Function for Generalizable Radiance Field Representation**|Xin Huang et.al.|[2304.12746](http://arxiv.org/abs/2304.12746)|null|
 |**2023-04-25**|**Hybrid Neural Rendering for Large-Scale Scenes with Motion Blur**|Peng Dai et.al.|[2304.12652](http://arxiv.org/abs/2304.12652)|null|
 |**2023-04-24**|**Pointersect: Neural Rendering with Cloud-Ray Intersection**|Jen-Hao Rick Chang et.al.|[2304.12390](http://arxiv.org/abs/2304.12390)|null|
@@ -1013,7 +1013,7 @@
 |**2022-12-30**|**NeRF-Gaze: A Head-Eye Redirection Parametric Model for Gaze Estimation**|Pengwei Yin et.al.|[2212.14710](http://arxiv.org/abs/2212.14710)|null|
 |**2023-03-21**|**Masked Wavelet Representation for Compact Neural Radiance Fields**|Daniel Rho et.al.|[2212.09069](http://arxiv.org/abs/2212.09069)|**[link](https://github.com/daniel03c1/masked_wavelet_nerf)**|
 
-<p align=right>(<a href=#Updated-on-20230529>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230530>back to top</a>)</p>
 
 ## Reshaping
 
@@ -1044,7 +1044,7 @@
 |**2022-05-13**|**F3A-GAN: Facial Flow for Face Animation with Generative Adversarial Networks**|Xintian Wu et.al.|[2205.06204](http://arxiv.org/abs/2205.06204)|null|
 |**2022-03-16**|**Efficient conditioned face animation using frontally-viewed embedding**|Maxime Oquab et.al.|[2203.08765](http://arxiv.org/abs/2203.08765)|null|
 
-<p align=right>(<a href=#Updated-on-20230529>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230530>back to top</a>)</p>
 
 ## Portrait 
 
@@ -1112,7 +1112,7 @@
 |**2023-03-01**|**DPE: Disentanglement of Pose and Expression for General Video Portrait Editing**|Youxin Pang et.al.|[2301.06281](http://arxiv.org/abs/2301.06281)|null|
 |**2023-01-03**|**StyleTalk: One-shot Talking Head Generation with Controllable Speaking Styles**|Yifeng Ma et.al.|[2301.01081](http://arxiv.org/abs/2301.01081)|**[link](https://github.com/fuxivirtualhuman/styletalk)**|
 
-<p align=right>(<a href=#Updated-on-20230529>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230530>back to top</a>)</p>
 
 ## Transfomer
 
@@ -1142,5 +1142,5 @@
 |**2012-01-21**|**Interior Static Stellar Model with Electric Charge as an Oscillator**|A. M. Baranov et.al.|[1201.4429](http://arxiv.org/abs/1201.4429)|null|
 |**2011-05-16**|**Exactness of the Euclidean algorithm and of the Rauzy induction on the space of interval exchange transfomations**|Tomasz Miernowski et.al.|[1104.3980](http://arxiv.org/abs/1104.3980)|null|
 
-<p align=right>(<a href=#Updated-on-20230529>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230530>back to top</a>)</p>
 

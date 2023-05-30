@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.29
+## Updated on 2023.05.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -925,12 +925,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-05-23**|**REC-MV: REconstructing 3D Dynamic Cloth from Monocular Videos**|Lingteng Qiu et.al.|[2305.14236](http://arxiv.org/abs/2305.14236)|**[link](https://github.com/gap-lab-cuhk-sz/rec-mv)**|
+|**2023-05-27**|**REC-MV: REconstructing 3D Dynamic Cloth from Monocular Videos**|Lingteng Qiu et.al.|[2305.14236](http://arxiv.org/abs/2305.14236)|**[link](https://github.com/gap-lab-cuhk-sz/rec-mv)**|
 |**2023-05-15**|**Inverse Rendering of Translucent Objects using Physical and Neural Renderers**|Chenhao Li et.al.|[2305.08336](http://arxiv.org/abs/2305.08336)|**[link](https://github.com/ligoudaner377/homo_translucent)**|
 |**2023-05-12**|**BundleRecon: Ray Bundle-Based 3D Neural Reconstruction**|Weikun Zhang et.al.|[2305.07342](http://arxiv.org/abs/2305.07342)|null|
 |**2023-05-05**|**Learn how to Prune Pixels for Multi-view Neural Image-based Synthesis**|Marta Milovanović et.al.|[2305.03572](http://arxiv.org/abs/2305.03572)|null|
 |**2023-05-03**|**ScatterNeRF: Seeing Through Fog with Physically-Based Inverse Neural Rendering**|Andrea Ramazzina et.al.|[2305.02103](http://arxiv.org/abs/2305.02103)|null|
-|**2023-04-30**|**Object-Centric Voxelization of Dynamic Scenes via Inverse Neural Rendering**|Siyu Gao et.al.|[2305.00393](http://arxiv.org/abs/2305.00393)|null|
+|**2023-05-28**|**Unsupervised Object-Centric Voxelization for Dynamic Scene Understanding**|Siyu Gao et.al.|[2305.00393](http://arxiv.org/abs/2305.00393)|null|
 |**2023-04-25**|**Local Implicit Ray Function for Generalizable Radiance Field Representation**|Xin Huang et.al.|[2304.12746](http://arxiv.org/abs/2304.12746)|null|
 |**2023-04-25**|**Hybrid Neural Rendering for Large-Scale Scenes with Motion Blur**|Peng Dai et.al.|[2304.12652](http://arxiv.org/abs/2304.12652)|null|
 |**2023-04-24**|**Pointersect: Neural Rendering with Cloud-Ray Intersection**|Jen-Hao Rick Chang et.al.|[2304.12390](http://arxiv.org/abs/2304.12390)|null|

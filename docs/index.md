@@ -39,6 +39,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-30**|**Calliffusion: Chinese Calligraphy Generation and Style Transfer with Diffusion Modeling**|Qisheng Liao et.al.|[2305.19124](http://arxiv.org/abs/2305.19124)|null|
+|**2023-05-30**|**GAN-MPC: Training Model Predictive Controllers with Parameterized Cost Functions using Demonstrations from Non-identical Experts**|Returaj Burnwal et.al.|[2305.19111](http://arxiv.org/abs/2305.19111)|null|
+|**2023-05-30**|**StyleAvatar3D: Leveraging Image-Text Diffusion Models for High-Fidelity 3D Avatar Generation**|Chi Zhang et.al.|[2305.19012](http://arxiv.org/abs/2305.19012)|**[link](https://github.com/icoz69/styleavatar3d)**|
+|**2023-05-30**|**Precision-Recall Divergence Optimization for Generative Modeling with GANs and Normalizing Flows**|Alexandre Verine et.al.|[2305.18910](http://arxiv.org/abs/2305.18910)|null|
+|**2023-05-30**|**A Federated Channel Modeling System using Generative Neural Networks**|Saira Bano et.al.|[2305.18856](http://arxiv.org/abs/2305.18856)|null|
+|**2023-05-30**|**SAVE: Spectral-Shift-Aware Adaptation of Image Diffusion Models for Text-guided Video Editing**|Nazmul Karim et.al.|[2305.18670](http://arxiv.org/abs/2305.18670)|null|
+|**2023-05-30**|**Simulation-Aided Deep Learning for Laser Ultrasonic Visualization Testing**|Miya Nakajima et.al.|[2305.18614](http://arxiv.org/abs/2305.18614)|null|
+|**2023-05-29**|**Conditional Diffusion Models for Semantic 3D Medical Image Synthesis**|Zolnamar Dorjsembe et.al.|[2305.18453](http://arxiv.org/abs/2305.18453)|null|
+|**2023-05-28**|**Augmenting Character Designers Creativity Using Generative Adversarial Networks**|Mohammad Lataifeh et.al.|[2305.18387](http://arxiv.org/abs/2305.18387)|null|
+|**2023-05-28**|**A Synergistic Framework Leveraging Autoencoders and Generative Adversarial Networks for the Synthesis of Computational Fluid Dynamics Results in Aerofoil Aerodynamics**|Tanishk Nandal et.al.|[2305.18386](http://arxiv.org/abs/2305.18386)|null|
 |**2023-05-29**|**Generative Adversarial Networks based Skin Lesion Segmentation**|Shubham Innani et.al.|[2305.18164](http://arxiv.org/abs/2305.18164)|**[link](https://github.com/shubhaminnani/egan)**|
 |**2023-05-29**|**TD-GEM: Text-Driven Garment Editing Mapper**|Reza Dadfar et.al.|[2305.18120](http://arxiv.org/abs/2305.18120)|**[link](https://github.com/resa-git/TD-GEM)**|
 |**2023-05-29**|**NaturalFinger: Generating Natural Fingerprint with Generative Adversarial Networks**|Kang Yang et.al.|[2305.17868](http://arxiv.org/abs/2305.17868)|null|
@@ -303,6 +313,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-30**|**PanoGen: Text-Conditioned Panoramic Environment Generation for Vision-and-Language Navigation**|Jialu Li et.al.|[2305.19195](http://arxiv.org/abs/2305.19195)|null|
+|**2023-05-30**|**Video ControlNet: Towards Temporally Consistent Synthetic-to-Real Video Translation Using Conditional Image Diffusion Models**|Ernie Chu et.al.|[2305.19193](http://arxiv.org/abs/2305.19193)|null|
+|**2023-05-30**|**Calliffusion: Chinese Calligraphy Generation and Style Transfer with Diffusion Modeling**|Qisheng Liao et.al.|[2305.19124](http://arxiv.org/abs/2305.19124)|null|
+|**2023-05-30**|**DiffMatch: Diffusion Model for Dense Matching**|Jisu Nam et.al.|[2305.19094](http://arxiv.org/abs/2305.19094)|null|
+|**2023-05-30**|**Nested Diffusion Processes for Anytime Image Generation**|Noam Elata et.al.|[2305.19066](http://arxiv.org/abs/2305.19066)|**[link](https://github.com/noamelata/nesteddiffusion)**|
+|**2023-05-30**|**StyleAvatar3D: Leveraging Image-Text Diffusion Models for High-Fidelity 3D Avatar Generation**|Chi Zhang et.al.|[2305.19012](http://arxiv.org/abs/2305.19012)|**[link](https://github.com/icoz69/styleavatar3d)**|
+|**2023-05-30**|**One-Line-of-Code Data Mollification Improves Optimization of Likelihood-based Generative Models**|Ba-Hien Tran et.al.|[2305.18900](http://arxiv.org/abs/2305.18900)|null|
+|**2023-05-30**|**A comparative study of resistivity models for simulations of magnetic reconnection in the solar atmosphere**|Øystein Håvard Færder et.al.|[2305.18895](http://arxiv.org/abs/2305.18895)|null|
+|**2023-05-30**|**DiffSketching: Sketch Control Image Synthesis with Diffusion Models**|Qiang Wang et.al.|[2305.18812](http://arxiv.org/abs/2305.18812)|null|
+|**2023-05-30**|**HiFA: High-fidelity Text-to-3D with Advanced Diffusion Guidance**|Joseph Zhu et.al.|[2305.18766](http://arxiv.org/abs/2305.18766)|null|
+|**2023-05-30**|**Generating Behaviorally Diverse Policies with Latent Diffusion Models**|Shashank Hegde et.al.|[2305.18738](http://arxiv.org/abs/2305.18738)|null|
+|**2023-05-30**|**Real-World Image Variation by Aligning Diffusion Inversion Chain**|Yuechen Zhang et.al.|[2305.18729](http://arxiv.org/abs/2305.18729)|**[link](https://github.com/julianjuaner/rival)**|
+|**2023-05-30**|**Diffusion-Stego: Training-free Diffusion Generative Steganography via Message Projection**|Daegyu Kim et.al.|[2305.18726](http://arxiv.org/abs/2305.18726)|null|
+|**2023-05-30**|**Towards Accurate Data-free Quantization for Diffusion Models**|Changyuan Wang et.al.|[2305.18723](http://arxiv.org/abs/2305.18723)|null|
+|**2023-05-30**|**LayerDiffusion: Layered Controlled Image Editing with Diffusion Models**|Pengzhi Li et.al.|[2305.18676](http://arxiv.org/abs/2305.18676)|null|
+|**2023-05-30**|**SAVE: Spectral-Shift-Aware Adaptation of Image Diffusion Models for Text-guided Video Editing**|Nazmul Karim et.al.|[2305.18670](http://arxiv.org/abs/2305.18670)|null|
+|**2023-05-30**|**Likelihood-Based Diffusion Language Models**|Ishaan Gulrajani et.al.|[2305.18619](http://arxiv.org/abs/2305.18619)|**[link](https://github.com/igul222/plaid)**|
+|**2023-05-29**|**BRIGHT: Bi-level Feature Representation of Image Collections using Groups of Hash Tables**|Dingdong Yang et.al.|[2305.18601](http://arxiv.org/abs/2305.18601)|null|
+|**2023-05-29**|**On Diffusion Modeling for Anomaly Detection**|Victor Livernoche et.al.|[2305.18593](http://arxiv.org/abs/2305.18593)|null|
+|**2023-05-29**|**Controllable Text-to-Image Generation with GPT-4**|Tianjun Zhang et.al.|[2305.18583](http://arxiv.org/abs/2305.18583)|null|
 |**2023-05-29**|**RAPHAEL: Text-to-Image Generation via Large Mixture of Diffusion Paths**|Zeyue Xue et.al.|[2305.18295](http://arxiv.org/abs/2305.18295)|null|
 |**2023-05-29**|**Mix-of-Show: Decentralized Low-Rank Adaptation for Multi-Concept Customization of Diffusion Models**|Yuchao Gu et.al.|[2305.18292](http://arxiv.org/abs/2305.18292)|null|
 |**2023-05-29**|**Photoswap: Personalized Subject Swapping in Images**|Jing Gu et.al.|[2305.18286](http://arxiv.org/abs/2305.18286)|null|
@@ -815,6 +845,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-30**|**LANCE: Stress-testing Visual Models by Generating Language-guided Counterfactual Images**|Viraj Prabhu et.al.|[2305.19164](http://arxiv.org/abs/2305.19164)|null|
+|**2023-05-30**|**DiffSketching: Sketch Control Image Synthesis with Diffusion Models**|Qiang Wang et.al.|[2305.18812](http://arxiv.org/abs/2305.18812)|null|
+|**2023-05-30**|**Wide & deep learning for spatial & intensity adaptive image restoration**|Yadong Wang et.al.|[2305.18708](http://arxiv.org/abs/2305.18708)|**[link](https://github.com/Ydo-W/DparNet)**|
+|**2023-05-30**|**LayerDiffusion: Layered Controlled Image Editing with Diffusion Models**|Pengzhi Li et.al.|[2305.18676](http://arxiv.org/abs/2305.18676)|null|
 |**2023-05-29**|**Photoswap: Personalized Subject Swapping in Images**|Jing Gu et.al.|[2305.18286](http://arxiv.org/abs/2305.18286)|null|
 |**2023-05-29**|**TD-GEM: Text-Driven Garment Editing Mapper**|Reza Dadfar et.al.|[2305.18120](http://arxiv.org/abs/2305.18120)|**[link](https://github.com/resa-git/TD-GEM)**|
 |**2023-05-29**|**InstructEdit: Improving Automatic Masks for Diffusion-based Image Editing With User Instructions**|Qian Wang et.al.|[2305.18047](http://arxiv.org/abs/2305.18047)|**[link](https://github.com/qianwangx/instructedit)**|
@@ -1066,6 +1100,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-30**|**Context-Preserving Two-Stage Video Domain Translation for Portrait Stylization**|Doyeon Kim et.al.|[2305.19135](http://arxiv.org/abs/2305.19135)|null|
+|**2023-05-30**|**Koopa: Learning Non-stationary Time Series Dynamics with Koopman Predictors**|Yong Liu et.al.|[2305.18803](http://arxiv.org/abs/2305.18803)|null|
 |**2023-05-29**|**Dynamical approximation of postsingularly finite exponentials**|Malavika Mukundan et.al.|[2305.18245](http://arxiv.org/abs/2305.18245)|null|
 |**2023-05-29**|**On a tropicalization of planar polynomial ODEs with finitely many structurally stable phase portraits**|Kristiansen et.al.|[2305.18002](http://arxiv.org/abs/2305.18002)|null|
 |**2023-05-26**|**Study of Subjective and Objective Quality Assessment of Mobile Cloud Gaming Videos**|Avinab Saha et.al.|[2305.17260](http://arxiv.org/abs/2305.17260)|null|

@@ -39,6 +39,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-31**|**GANDiffFace: Controllable Generation of Synthetic Datasets for Face Recognition with Realistic Variations**|Pietro Melzi et.al.|[2305.19962](http://arxiv.org/abs/2305.19962)|null|
+|**2023-05-31**|**Neural Markov Jump Processes**|Patrick Seifner et.al.|[2305.19744](http://arxiv.org/abs/2305.19744)|**[link](https://github.com/pseifner/neuralmjp)**|
+|**2023-05-31**|**PromptStyle: Controllable Style Transfer for Text-to-Speech with Natural Language Descriptions**|Guanghou Liu et.al.|[2305.19522](http://arxiv.org/abs/2305.19522)|null|
+|**2023-05-31**|**Fine-grained Text Style Transfer with Diffusion-Based Language Models**|Yiwei Lyu et.al.|[2305.19512](http://arxiv.org/abs/2305.19512)|null|
+|**2023-05-31**|**A Unified GAN Framework Regarding Manifold Alignment for Remote Sensing Images Generation**|Xingzhe Su et.al.|[2305.19507](http://arxiv.org/abs/2305.19507)|null|
 |**2023-05-30**|**Calliffusion: Chinese Calligraphy Generation and Style Transfer with Diffusion Modeling**|Qisheng Liao et.al.|[2305.19124](http://arxiv.org/abs/2305.19124)|null|
 |**2023-05-30**|**GAN-MPC: Training Model Predictive Controllers with Parameterized Cost Functions using Demonstrations from Non-identical Experts**|Returaj Burnwal et.al.|[2305.19111](http://arxiv.org/abs/2305.19111)|null|
 |**2023-05-31**|**StyleAvatar3D: Leveraging Image-Text Diffusion Models for High-Fidelity 3D Avatar Generation**|Chi Zhang et.al.|[2305.19012](http://arxiv.org/abs/2305.19012)|**[link](https://github.com/icoz69/styleavatar3d)**|
@@ -313,6 +318,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-31**|**Understanding and Mitigating Copying in Diffusion Models**|Gowthami Somepalli et.al.|[2305.20086](http://arxiv.org/abs/2305.20086)|**[link](https://github.com/somepago/dcr)**|
+|**2023-05-31**|**Efficient Diffusion Policies for Offline Reinforcement Learning**|Bingyi Kang et.al.|[2305.20081](http://arxiv.org/abs/2305.20081)|**[link](https://github.com/sail-sg/edp)**|
+|**2023-05-31**|**A Unified Conditional Framework for Diffusion-based Image Restoration**|Yi Zhang et.al.|[2305.20049](http://arxiv.org/abs/2305.20049)|null|
+|**2023-05-31**|**Tree-Ring Watermarks: Fingerprints for Diffusion Images that are Invisible and Robust**|Yuxin Wen et.al.|[2305.20030](http://arxiv.org/abs/2305.20030)|**[link](https://github.com/YuxinWenRick/tree-ring-watermark)**|
+|**2023-05-31**|**Protein Design with Guided Discrete Diffusion**|Nate Gruver et.al.|[2305.20009](http://arxiv.org/abs/2305.20009)|null|
+|**2023-05-31**|**GANDiffFace: Controllable Generation of Synthetic Datasets for Face Recognition with Realistic Variations**|Pietro Melzi et.al.|[2305.19962](http://arxiv.org/abs/2305.19962)|null|
+|**2023-05-31**|**A Geometric Perspective on Diffusion Models**|Defang Chen et.al.|[2305.19947](http://arxiv.org/abs/2305.19947)|null|
+|**2023-05-31**|**MetaDiffuser: Diffusion Model as Conditional Planner for Offline Meta-RL**|Fei Ni et.al.|[2305.19923](http://arxiv.org/abs/2305.19923)|null|
+|**2023-05-31**|**Unsupervised Anomaly Detection in Medical Images Using Masked Diffusion Model**|Hasan Iqbal et.al.|[2305.19867](http://arxiv.org/abs/2305.19867)|**[link](https://github.com/hasan1292/mddpm)**|
+|**2023-05-31**|**Inverse-design of nonlinear mechanical metamaterials via video denoising diffusion models**|Jan-Hendrik Bastek et.al.|[2305.19836](http://arxiv.org/abs/2305.19836)|null|
+|**2023-05-31**|**Direct Diffusion Bridge using Data Consistency for Inverse Problems**|Hyungjin Chung et.al.|[2305.19809](http://arxiv.org/abs/2305.19809)|null|
+|**2023-05-31**|**Spontaneous symmetry breaking in generative diffusion models**|Gabriel Raya et.al.|[2305.19693](http://arxiv.org/abs/2305.19693)|null|
+|**2023-05-31**|**Deep Stochastic Mechanics**|Elena Orlova et.al.|[2305.19685](http://arxiv.org/abs/2305.19685)|**[link](https://github.com/elena-orlova/deep-stochastic-mechanics)**|
+|**2023-05-31**|**Mask, Stitch, and Re-Sample: Enhancing Robustness and Generalizability in Anomaly Detection through Automatic Diffusion Models**|Cosmin I. Bercea et.al.|[2305.19643](http://arxiv.org/abs/2305.19643)|null|
+|**2023-05-31**|**A Unified Framework for U-Net Design and Analysis**|Christopher Williams et.al.|[2305.19638](http://arxiv.org/abs/2305.19638)|null|
+|**2023-05-31**|**Boosting Text-to-Image Diffusion Models with Fine-Grained Semantic Rewards**|Guian Fang et.al.|[2305.19599](http://arxiv.org/abs/2305.19599)|**[link](https://github.com/enderfga/finerewards)**|
+|**2023-05-31**|**Numerical analysis and optimization of a hybrid layer structure for triplet-triplet fusion mechanism in organic light-emitting diodes**|Jun-Yu Huang et.al.|[2305.19540](http://arxiv.org/abs/2305.19540)|null|
+|**2023-05-31**|**Label-Retrieval-Augmented Diffusion Models for Learning from Noisy Labels**|Jian Chen et.al.|[2305.19518](http://arxiv.org/abs/2305.19518)|**[link](https://github.com/puar-playground/lra-diffusion)**|
+|**2023-05-31**|**Synthetic CT Generation from MRI using 3D Transformer-based Denoising Diffusion Model**|Shaoyan Pan et.al.|[2305.19467](http://arxiv.org/abs/2305.19467)|null|
 |**2023-05-30**|**PanoGen: Text-Conditioned Panoramic Environment Generation for Vision-and-Language Navigation**|Jialu Li et.al.|[2305.19195](http://arxiv.org/abs/2305.19195)|null|
 |**2023-05-30**|**Video ControlNet: Towards Temporally Consistent Synthetic-to-Real Video Translation Using Conditional Image Diffusion Models**|Ernie Chu et.al.|[2305.19193](http://arxiv.org/abs/2305.19193)|null|
 |**2023-05-30**|**Calliffusion: Chinese Calligraphy Generation and Style Transfer with Diffusion Modeling**|Qisheng Liao et.al.|[2305.19124](http://arxiv.org/abs/2305.19124)|null|
@@ -845,6 +869,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-31**|**A Unified Conditional Framework for Diffusion-based Image Restoration**|Yi Zhang et.al.|[2305.20049](http://arxiv.org/abs/2305.20049)|null|
 |**2023-05-30**|**LANCE: Stress-testing Visual Models by Generating Language-guided Counterfactual Images**|Viraj Prabhu et.al.|[2305.19164](http://arxiv.org/abs/2305.19164)|null|
 |**2023-05-30**|**DiffSketching: Sketch Control Image Synthesis with Diffusion Models**|Qiang Wang et.al.|[2305.18812](http://arxiv.org/abs/2305.18812)|null|
 |**2023-05-30**|**Wide & deep learning for spatial & intensity adaptive image restoration**|Yadong Wang et.al.|[2305.18708](http://arxiv.org/abs/2305.18708)|**[link](https://github.com/Ydo-W/DparNet)**|
@@ -993,6 +1018,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-31**|**Towards Neural Path Tracing in SRAM**|Mark Pupilli et.al.|[2305.20061](http://arxiv.org/abs/2305.20061)|null|
 |**2023-05-30**|**Towards a Robust Framework for NeRF Evaluation**|Adrian Azzarelli et.al.|[2305.18079](http://arxiv.org/abs/2305.18079)|null|
 |**2023-05-29**|**FastMESH: Fast Surface Reconstruction by Hexagonal Mesh-based Neural Rendering**|Yisu Zhang et.al.|[2305.17858](http://arxiv.org/abs/2305.17858)|null|
 |**2023-05-27**|**NeRO: Neural Geometry and BRDF Reconstruction of Reflective Objects from Multiview Images**|Yuan Liu et.al.|[2305.17398](http://arxiv.org/abs/2305.17398)|**[link](https://github.com/liuyuan-pal/nero)**|
@@ -1100,6 +1126,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-31**|**Control4D: Dynamic Portrait Editing by Learning 4D GAN from 2D Diffusion-based Editor**|Ruizhi Shao et.al.|[2305.20082](http://arxiv.org/abs/2305.20082)|null|
 |**2023-05-30**|**Context-Preserving Two-Stage Video Domain Translation for Portrait Stylization**|Doyeon Kim et.al.|[2305.19135](http://arxiv.org/abs/2305.19135)|null|
 |**2023-05-30**|**Koopa: Learning Non-stationary Time Series Dynamics with Koopman Predictors**|Yong Liu et.al.|[2305.18803](http://arxiv.org/abs/2305.18803)|null|
 |**2023-05-29**|**Dynamical approximation of postsingularly finite exponentials**|Malavika Mukundan et.al.|[2305.18245](http://arxiv.org/abs/2305.18245)|null|

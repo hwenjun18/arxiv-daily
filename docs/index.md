@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.04
+## Updated on 2023.06.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -44,7 +44,7 @@ layout: default
 |**2023-06-01**|**Data Interpolants -- That's What Discriminators in Higher-order Gradient-regularized GANs Are**|Siddarth Asokan et.al.|[2306.00785](http://arxiv.org/abs/2306.00785)|null|
 |**2023-06-01**|**Label- and slide-free tissue histology using 3D epi-mode quantitative phase imaging and virtual H&E staining**|Tanishq Mathew Abraham et.al.|[2306.00548](http://arxiv.org/abs/2306.00548)|**[link](https://github.com/tmabraham/qobmtohe)**|
 |**2023-06-01**|**A Call for Standardization and Validation of Text Style Transfer Evaluation**|Phil Ostheimer et.al.|[2306.00539](http://arxiv.org/abs/2306.00539)|null|
-|**2023-05-31**|**Data-scarce surrogate modeling of shock-induced pore collapse process**|Siu Wun Cheung et.al.|[2306.00184](http://arxiv.org/abs/2306.00184)|null|
+|**2023-06-02**|**Data-scarce surrogate modeling of shock-induced pore collapse process**|Siu Wun Cheung et.al.|[2306.00184](http://arxiv.org/abs/2306.00184)|null|
 |**2023-05-31**|**GANDiffFace: Controllable Generation of Synthetic Datasets for Face Recognition with Realistic Variations**|Pietro Melzi et.al.|[2305.19962](http://arxiv.org/abs/2305.19962)|null|
 |**2023-05-31**|**Neural Markov Jump Processes**|Patrick Seifner et.al.|[2305.19744](http://arxiv.org/abs/2305.19744)|**[link](https://github.com/pseifner/neuralmjp)**|
 |**2023-06-01**|**PromptStyle: Controllable Style Transfer for Text-to-Speech with Natural Language Descriptions**|Guanghou Liu et.al.|[2305.19522](http://arxiv.org/abs/2305.19522)|null|
@@ -324,7 +324,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-06-01**|**Diffusion Self-Guidance for Controllable Image Generation**|Dave Epstein et.al.|[2306.00986](http://arxiv.org/abs/2306.00986)|null|
+|**2023-06-02**|**Diffusion Self-Guidance for Controllable Image Generation**|Dave Epstein et.al.|[2306.00986](http://arxiv.org/abs/2306.00986)|null|
 |**2023-06-01**|**SnapFusion: Text-to-Image Diffusion Model on Mobile Devices within Two Seconds**|Yanyu Li et.al.|[2306.00980](http://arxiv.org/abs/2306.00980)|**[link](https://github.com/huggingface/diffusers)**|
 |**2023-06-01**|**Intriguing Properties of Text-guided Diffusion Models**|Qihao Liu et.al.|[2306.00974](http://arxiv.org/abs/2306.00974)|**[link](https://github.com/qihao067/sage)**|
 |**2023-06-01**|**Intelligent Grimm -- Open-ended Visual Storytelling via Latent Diffusion Models**|Chang Liu et.al.|[2306.00973](http://arxiv.org/abs/2306.00973)|**[link](https://github.com/haoningwu3639/StoryGen)**|
@@ -340,7 +340,7 @@ layout: default
 |**2023-06-01**|**FDNeRF: Semantics-Driven Face Reconstruction, Prompt Editing and Relighting with Diffusion Models**|Hao Zhang et.al.|[2306.00783](http://arxiv.org/abs/2306.00783)|**[link](https://github.com/billyxyb/fdnerf)**|
 |**2023-06-01**|**UnDiff: Unsupervised Voice Restoration with Unconditional Diffusion Model**|Anastasiia Iashchenko et.al.|[2306.00721](http://arxiv.org/abs/2306.00721)|null|
 |**2023-06-01**|**EmoMix: Emotion Mixing via Diffusion Models for Emotional Speech Synthesis**|Haobin Tang et.al.|[2306.00648](http://arxiv.org/abs/2306.00648)|null|
-|**2023-06-01**|**AvatarStudio: Text-driven Editing of 3D Dynamic Human Head Avatars**|Mohit Mendiratta. Xingang Pan et.al.|[2306.00547](http://arxiv.org/abs/2306.00547)|null|
+|**2023-06-02**|**AvatarStudio: Text-driven Editing of 3D Dynamic Human Head Avatars**|Mohit Mendiratta et.al.|[2306.00547](http://arxiv.org/abs/2306.00547)|null|
 |**2023-06-01**|**Image generation with shortest path diffusion**|Ayan Das et.al.|[2306.00501](http://arxiv.org/abs/2306.00501)|null|
 |**2023-06-01**|**Random advection-diffusion models and their statistics**|Stefano Lepri et.al.|[2306.00463](http://arxiv.org/abs/2306.00463)|null|
 |**2023-06-01**|**Controllable Motion Diffusion Model**|Yi Shi et.al.|[2306.00416](http://arxiv.org/abs/2306.00416)|null|

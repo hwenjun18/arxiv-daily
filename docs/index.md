@@ -39,6 +39,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-05**|**Brain tumor segmentation using synthetic MR images -- A comparison of GANs and diffusion models**|Muhammad Usman Akbar et.al.|[2306.02986](http://arxiv.org/abs/2306.02986)|null|
+|**2023-06-05**|**Identifying the style by a qualified reader on a short fragment of generated poetry**|Boris Orekhov et.al.|[2306.02771](http://arxiv.org/abs/2306.02771)|null|
+|**2023-06-05**|**ZIGNeRF: Zero-shot 3D Scene Representation with Invertible Generative Neural Radiance Fields**|Kanghyeok Ko et.al.|[2306.02741](http://arxiv.org/abs/2306.02741)|null|
+|**2023-06-03**|**A Conditional Generative Chatbot using Transformer Model**|Nura Esfandiari et.al.|[2306.02074](http://arxiv.org/abs/2306.02074)|null|
+|**2023-06-03**|**Generative Adversarial Networks for Data Augmentation**|Angona Biswas et.al.|[2306.02019](http://arxiv.org/abs/2306.02019)|null|
+|**2023-06-03**|**GAT-GAN : A Graph-Attention-based Time-Series Generative Adversarial Network**|Srikrishna Iyer et.al.|[2306.01999](http://arxiv.org/abs/2306.01999)|null|
+|**2023-06-02**|**LIC-GAN: Language Information Conditioned Graph Generative GAN Model**|Robert Lo et.al.|[2306.01937](http://arxiv.org/abs/2306.01937)|null|
 |**2023-06-02**|**GANs Settle Scores!**|Siddarth Asokan et.al.|[2306.01654](http://arxiv.org/abs/2306.01654)|null|
 |**2023-06-02**|**PassGPT: Password Modeling and (Guided) Generation with Large Language Models**|Javier Rando et.al.|[2306.01545](http://arxiv.org/abs/2306.01545)|null|
 |**2023-06-02**|**Text Style Transfer Back-Translation**|Daimeng Wei et.al.|[2306.01318](http://arxiv.org/abs/2306.01318)|**[link](https://github.com/frxxzhl/ssebt)**|
@@ -327,6 +334,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-05**|**Brain Diffusion for Visual Exploration: Cortical Discovery using Large Scale Generative Models**|Andrew F. Luo et.al.|[2306.03089](http://arxiv.org/abs/2306.03089)|null|
+|**2023-06-05**|**HeadSculpt: Crafting 3D Head Avatars with Text**|Xiao Han et.al.|[2306.03038](http://arxiv.org/abs/2306.03038)|null|
+|**2023-06-05**|**Brain tumor segmentation using synthetic MR images -- A comparison of GANs and diffusion models**|Muhammad Usman Akbar et.al.|[2306.02986](http://arxiv.org/abs/2306.02986)|null|
+|**2023-06-05**|**Complex Preferences for Different Convergent Priors in Discrete Graph Diffusion**|Alex M. Tseng et.al.|[2306.02957](http://arxiv.org/abs/2306.02957)|null|
+|**2023-06-05**|**INDigo: An INN-Guided Probabilistic Diffusion Algorithm for Inverse Problems**|Di You et.al.|[2306.02949](http://arxiv.org/abs/2306.02949)|null|
+|**2023-06-05**|**Instruct-Video2Avatar: Video-to-Avatar Generation with Instructions**|Shaoxu Li et.al.|[2306.02903](http://arxiv.org/abs/2306.02903)|null|
+|**2023-06-05**|**Towards Unified Text-based Person Retrieval: A Large-scale Multi-Attribute and Language Search Benchmark**|Shuyu Yang et.al.|[2306.02898](http://arxiv.org/abs/2306.02898)|null|
+|**2023-06-05**|**User-friendly Image Editing with Minimal Text Input: Leveraging Captioning and Injection Techniques**|Sunwoo Kim et.al.|[2306.02717](http://arxiv.org/abs/2306.02717)|null|
+|**2023-06-05**|**Faster Training of Diffusion Models and Improved Density Estimation via Parallel Score Matching**|Etrit Haxholli et.al.|[2306.02658](http://arxiv.org/abs/2306.02658)|null|
+|**2023-06-05**|**Physics-Informed Kernel Function Neural Networks for Solving Partial Differential Equations**|Zhuojia Fu et.al.|[2306.02606](http://arxiv.org/abs/2306.02606)|null|
+|**2023-06-05**|**Video Diffusion Models with Local-Global Context Guidance**|Siyuan Yang et.al.|[2306.02562](http://arxiv.org/abs/2306.02562)|**[link](https://github.com/exisas/lgc-vd)**|
+|**2023-06-05**|**PLANNER: Generating Diversified Paragraph via Latent Language Diffusion Model**|Yizhe Zhang et.al.|[2306.02531](http://arxiv.org/abs/2306.02531)|null|
+|**2023-06-04**|**Spear or Shield: Leveraging Generative AI to Tackle Security Threats of Intelligent Network Services**|Hongyang Du et.al.|[2306.02384](http://arxiv.org/abs/2306.02384)|null|
+|**2023-06-04**|**Temporal Dynamic Quantization for Diffusion Models**|Junhyuk So et.al.|[2306.02316](http://arxiv.org/abs/2306.02316)|null|
+|**2023-06-04**|**Detector Guidance for Multi-Object Text-to-Image Generation**|Luping Liu et.al.|[2306.02236](http://arxiv.org/abs/2306.02236)|**[link](https://github.com/luping-liu/detector-guidance)**|
+|**2023-06-03**|**Training Data Attribution for Diffusion Models**|Zheng Dai et.al.|[2306.02174](http://arxiv.org/abs/2306.02174)|**[link](https://github.com/zheng-dai/genens)**|
+|**2023-06-03**|**Efficient Text-Guided 3D-Aware Portrait Generation with Score Distillation Sampling on Distribution**|Yiji Cheng et.al.|[2306.02083](http://arxiv.org/abs/2306.02083)|null|
+|**2023-06-03**|**Exploring the Optimal Choice for Generative Processes in Diffusion Models: Ordinary vs Stochastic Differential Equations**|Yu Cao et.al.|[2306.02063](http://arxiv.org/abs/2306.02063)|null|
+|**2023-06-03**|**DYffusion: A Dynamics-informed Diffusion Model for Spatiotemporal Forecasting**|Salva Rühling Cachay et.al.|[2306.01984](http://arxiv.org/abs/2306.01984)|**[link](https://github.com/rose-stl-lab/dyffusion)**|
+|**2023-06-02**|**Generative Autoencoders as Watermark Attackers: Analyses of Vulnerabilities and Threats**|Xuandong Zhao et.al.|[2306.01953](http://arxiv.org/abs/2306.01953)|null|
 |**2023-06-02**|**Video Colorization with Pre-trained Text-to-Image Diffusion Models**|Hanyuan Liu et.al.|[2306.01732](http://arxiv.org/abs/2306.01732)|null|
 |**2023-06-02**|**Denoising Diffusion Semantic Segmentation with Mask Prior Modeling**|Zeqiang Lai et.al.|[2306.01721](http://arxiv.org/abs/2306.01721)|**[link](https://github.com/opengvlab/ddps)**|
 |**2023-06-02**|**DiffusEmp: A Diffusion Model-Based Framework with Multi-Grained Control for Empathetic Response Generation**|Guanqun Bi et.al.|[2306.01657](http://arxiv.org/abs/2306.01657)|null|
@@ -906,6 +933,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-05**|**Zero shot framework for satellite image restoration**|Praveen Kandula et.al.|[2306.02921](http://arxiv.org/abs/2306.02921)|null|
+|**2023-06-05**|**User-friendly Image Editing with Minimal Text Input: Leveraging Captioning and Injection Techniques**|Sunwoo Kim et.al.|[2306.02717](http://arxiv.org/abs/2306.02717)|null|
+|**2023-06-04**|**ESTISR: Adapting Efficient Scene Text Image Super-resolution for Real-Scenes**|Minghao Fu et.al.|[2306.02443](http://arxiv.org/abs/2306.02443)|null|
+|**2023-06-04**|**Deep Optimal Transport: A Practical Algorithm for Photo-realistic Image Restoration**|Theo Adrai et.al.|[2306.02342](http://arxiv.org/abs/2306.02342)|**[link](https://github.com/theoad/dot-dmax)**|
+|**2023-06-03**|**Unsupervised Low Light Image Enhancement Using SNR-Aware Swin Transformer**|Zhijian Luo et.al.|[2306.02082](http://arxiv.org/abs/2306.02082)|null|
+|**2023-06-02**|**Fast and Interpretable Nonlocal Neural Networks for Image Denoising via Group-Sparse Convolutional Dictionary Learning**|Nikola Janjušević et.al.|[2306.01950](http://arxiv.org/abs/2306.01950)|null|
 |**2023-06-02**|**Counting Crowds in Bad Weather**|Zhi-Kai Huang et.al.|[2306.01209](http://arxiv.org/abs/2306.01209)|null|
 |**2023-06-01**|**Differential Diffusion: Giving Each Pixel Its Strength**|Eran Levin et.al.|[2306.00950](http://arxiv.org/abs/2306.00950)|**[link](https://github.com/exx8/differential-diffusion)**|
 |**2023-06-01**|**Wavelet Image Restoration Using Multifractal Priors**|Karl Young et.al.|[2306.00309](http://arxiv.org/abs/2306.00309)|null|
@@ -1060,6 +1093,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-05**|**Neuralangelo: High-Fidelity Neural Surface Reconstruction**|Zhaoshuo Li et.al.|[2306.03092](http://arxiv.org/abs/2306.03092)|null|
+|**2023-06-05**|**BeyondPixels: A Comprehensive Review of the Evolution of Neural Radiance Fields**|AKM Shahariar Azad Rabby et.al.|[2306.03000](http://arxiv.org/abs/2306.03000)|null|
 |**2023-05-31**|**Towards Neural Path Tracing in SRAM**|Mark Pupilli et.al.|[2305.20061](http://arxiv.org/abs/2305.20061)|null|
 |**2023-05-31**|**Towards a Robust Framework for NeRF Evaluation**|Adrian Azzarelli et.al.|[2305.18079](http://arxiv.org/abs/2305.18079)|null|
 |**2023-05-29**|**FastMESH: Fast Surface Reconstruction by Hexagonal Mesh-based Neural Rendering**|Yisu Zhang et.al.|[2305.17858](http://arxiv.org/abs/2305.17858)|null|
@@ -1168,6 +1203,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-03**|**Efficient Text-Guided 3D-Aware Portrait Generation with Score Distillation Sampling on Distribution**|Yiji Cheng et.al.|[2306.02083](http://arxiv.org/abs/2306.02083)|null|
+|**2023-06-02**|**Fast Interactive Search with a Scale-Free Comparison Oracle**|Daniyar Chumbalov et.al.|[2306.01814](http://arxiv.org/abs/2306.01814)|null|
 |**2023-05-31**|**Control4D: Dynamic Portrait Editing by Learning 4D GAN from 2D Diffusion-based Editor**|Ruizhi Shao et.al.|[2305.20082](http://arxiv.org/abs/2305.20082)|null|
 |**2023-05-30**|**Context-Preserving Two-Stage Video Domain Translation for Portrait Stylization**|Doyeon Kim et.al.|[2305.19135](http://arxiv.org/abs/2305.19135)|null|
 |**2023-05-30**|**Koopa: Learning Non-stationary Time Series Dynamics with Koopman Predictors**|Yong Liu et.al.|[2305.18803](http://arxiv.org/abs/2305.18803)|null|
@@ -1240,6 +1277,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-05**|**SERT: A Transfomer Based Model for Spatio-Temporal Sensor Data with Missing Values for Environmental Monitoring**|Amin Shoari Nejad et.al.|[2306.03042](http://arxiv.org/abs/2306.03042)|null|
 |**2023-05-20**|**Quantum simulation of lattice gauge theories via deterministic duality transformations assisted by measurements**|Hiroki Sukeno et.al.|[2305.12277](http://arxiv.org/abs/2305.12277)|null|
 |**2023-03-22**|**Self-distillation for surgical action recognition**|Amine Yamlahi et.al.|[2303.12915](http://arxiv.org/abs/2303.12915)|null|
 |**2023-03-17**|**CerviFormer: A Pap-smear based cervical cancer classification method using cross attention and latent transformer**|Bhaswati Singha Deo et.al.|[2303.10222](http://arxiv.org/abs/2303.10222)|null|

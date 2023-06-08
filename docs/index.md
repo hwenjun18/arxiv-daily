@@ -39,6 +39,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-07**|**Interpretable Style Transfer for Text-to-Speech with ControlVAE and Diffusion Bridge**|Wenhao Guan et.al.|[2306.04301](http://arxiv.org/abs/2306.04301)|null|
+|**2023-06-07**|**Phoenix: A Federated Generative Diffusion Model**|Fiona Victoria Stanley Jothiraj et.al.|[2306.04098](http://arxiv.org/abs/2306.04098)|null|
 |**2023-06-06**|**An Open Patch Generator based Fingerprint Presentation Attack Detection using Generative Adversarial Network**|Anuj Rai et.al.|[2306.03577](http://arxiv.org/abs/2306.03577)|null|
 |**2023-06-06**|**SDR-GAIN: A High Real-Time Occluded Pedestrian Pose Completion Method for Autonomous Driving**|Honghao Fu et.al.|[2306.03538](http://arxiv.org/abs/2306.03538)|null|
 |**2023-06-05**|**Brain tumor segmentation using synthetic MR images -- A comparison of GANs and diffusion models**|Muhammad Usman Akbar et.al.|[2306.02986](http://arxiv.org/abs/2306.02986)|null|
@@ -336,11 +338,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-07**|**Designing a Better Asymmetric VQGAN for StableDiffusion**|Zixin Zhu et.al.|[2306.04632](http://arxiv.org/abs/2306.04632)|**[link](https://github.com/buxiangzhiren/asymmetric_vqgan)**|
+|**2023-06-07**|**ARTIC3D: Learning Robust Articulated 3D Shapes from Noisy Web Image Collections**|Chun-Han Yao et.al.|[2306.04619](http://arxiv.org/abs/2306.04619)|null|
+|**2023-06-07**|**Integrating Geometric Control into Text-to-Image Diffusion Models for High-Quality Detection Data Generation via Text Prompt**|Kai Chen et.al.|[2306.04607](http://arxiv.org/abs/2306.04607)|null|
+|**2023-06-07**|**On the Design Fundamentals of Diffusion Models: A Survey**|Ziyi Chang et.al.|[2306.04542](http://arxiv.org/abs/2306.04542)|null|
+|**2023-06-07**|**Multi-modal Latent Diffusion**|Mustapha Bounoua et.al.|[2306.04445](http://arxiv.org/abs/2306.04445)|null|
+|**2023-06-07**|**Improving Diffusion-based Image Translation using Asymmetric Gradient Guidance**|Gihyun Kwon et.al.|[2306.04396](http://arxiv.org/abs/2306.04396)|**[link](https://github.com/submissionanon18/agg)**|
+|**2023-06-07**|**Generative Semantic Communication: Diffusion Models Beyond Bit Recovery**|Eleonora Grassucci et.al.|[2306.04321](http://arxiv.org/abs/2306.04321)|**[link](https://github.com/ispamm/gesco)**|
+|**2023-06-07**|**A Survey on Generative Diffusion Models for Structured Data**|Heejoon Koo et.al.|[2306.04139](http://arxiv.org/abs/2306.04139)|null|
+|**2023-06-07**|**Phoenix: A Federated Generative Diffusion Model**|Fiona Victoria Stanley Jothiraj et.al.|[2306.04098](http://arxiv.org/abs/2306.04098)|null|
+|**2023-06-07**|**Professional Basketball Player Behavior Synthesis via Planning with Diffusion**|Xiusi Chen et.al.|[2306.04090](http://arxiv.org/abs/2306.04090)|null|
+|**2023-06-06**|**A machine learning potential-based generative algorithm for on-lattice crystal structure prediction**|Vadim Sotskov et.al.|[2306.03989](http://arxiv.org/abs/2306.03989)|null|
+|**2023-06-06**|**High-dimensional and Permutation Invariant Anomaly Detection**|Vinicius Mikuni et.al.|[2306.03933](http://arxiv.org/abs/2306.03933)|**[link](https://github.com/viniciusmikuni/permutationinvariantad)**|
 |**2023-06-06**|**Emergent Correspondence from Image Diffusion**|Luming Tang et.al.|[2306.03881](http://arxiv.org/abs/2306.03881)|null|
 |**2023-06-06**|**Conditional Diffusion Models for Weakly Supervised Medical Image Segmentation**|Xinrong Hu et.al.|[2306.03878](http://arxiv.org/abs/2306.03878)|**[link](https://github.com/xhu248/cond_ddpm_wsss)**|
 |**2023-06-06**|**Towards Visual Foundational Models of Physical Scenes**|Chethan Parameshwara et.al.|[2306.03727](http://arxiv.org/abs/2306.03727)|null|
 |**2023-06-06**|**Mega-TTS: Zero-Shot Text-to-Speech at Scale with Intrinsic Inductive Bias**|Ziyue Jiang et.al.|[2306.03509](http://arxiv.org/abs/2306.03509)|null|
-|**2023-06-06**|**DFormer: Diffusion-guided Transformer for Universal Image Segmentation**|Hefeng Wang et.al.|[2306.03437](http://arxiv.org/abs/2306.03437)|null|
+|**2023-06-06**|**DFormer: Diffusion-guided Transformer for Universal Image Segmentation**|Hefeng Wang et.al.|[2306.03437](http://arxiv.org/abs/2306.03437)|**[link](https://github.com/cp3wan/dformer)**|
 |**2023-06-06**|**Protecting the Intellectual Property of Diffusion Models by the Watermark Diffusion Process**|Sen Peng et.al.|[2306.03436](http://arxiv.org/abs/2306.03436)|null|
 |**2023-06-06**|**Change Diffusion: Change Detection Map Generation Based on Difference-Feature Guided DDPM**|Yihan Wen et.al.|[2306.03424](http://arxiv.org/abs/2306.03424)|null|
 |**2023-06-06**|**DreamSparse: Escaping from Plato's Cave with 2D Diffusion Model Given Sparse Views**|Paul Yoo et.al.|[2306.03414](http://arxiv.org/abs/2306.03414)|null|
@@ -945,13 +959,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-07**|**Designing a Better Asymmetric VQGAN for StableDiffusion**|Zixin Zhu et.al.|[2306.04632](http://arxiv.org/abs/2306.04632)|**[link](https://github.com/buxiangzhiren/asymmetric_vqgan)**|
+|**2023-06-06**|**BokehOrNot: Transforming Bokeh Effect with Image Transformer and Lens Metadata Embedding**|Zhihao Yang et.al.|[2306.04032](http://arxiv.org/abs/2306.04032)|**[link](https://github.com/indicator0/bokehornot)**|
 |**2023-06-06**|**Convergent Bregman Plug-and-Play Image Restoration for Poisson Inverse Problems**|Samuel Hurault et.al.|[2306.03466](http://arxiv.org/abs/2306.03466)|null|
 |**2023-06-05**|**Zero shot framework for satellite image restoration**|Praveen Kandula et.al.|[2306.02921](http://arxiv.org/abs/2306.02921)|null|
 |**2023-06-05**|**User-friendly Image Editing with Minimal Text Input: Leveraging Captioning and Injection Techniques**|Sunwoo Kim et.al.|[2306.02717](http://arxiv.org/abs/2306.02717)|null|
 |**2023-06-04**|**ESTISR: Adapting Efficient Scene Text Image Super-resolution for Real-Scenes**|Minghao Fu et.al.|[2306.02443](http://arxiv.org/abs/2306.02443)|null|
 |**2023-06-04**|**Deep Optimal Transport: A Practical Algorithm for Photo-realistic Image Restoration**|Theo Adrai et.al.|[2306.02342](http://arxiv.org/abs/2306.02342)|**[link](https://github.com/theoad/dot-dmax)**|
 |**2023-06-03**|**Unsupervised Low Light Image Enhancement Using SNR-Aware Swin Transformer**|Zhijian Luo et.al.|[2306.02082](http://arxiv.org/abs/2306.02082)|null|
-|**2023-06-02**|**Fast and Interpretable Nonlocal Neural Networks for Image Denoising via Group-Sparse Convolutional Dictionary Learning**|Nikola Janjušević et.al.|[2306.01950](http://arxiv.org/abs/2306.01950)|null|
+|**2023-06-02**|**Fast and Interpretable Nonlocal Neural Networks for Image Denoising via Group-Sparse Convolutional Dictionary Learning**|Nikola Janjušević et.al.|[2306.01950](http://arxiv.org/abs/2306.01950)|**[link](https://github.com/nikopj/groupcdl-tip)**|
 |**2023-06-02**|**Counting Crowds in Bad Weather**|Zhi-Kai Huang et.al.|[2306.01209](http://arxiv.org/abs/2306.01209)|null|
 |**2023-06-01**|**Differential Diffusion: Giving Each Pixel Its Strength**|Eran Levin et.al.|[2306.00950](http://arxiv.org/abs/2306.00950)|**[link](https://github.com/exx8/differential-diffusion)**|
 |**2023-06-01**|**Wavelet Image Restoration Using Multifractal Priors**|Karl Young et.al.|[2306.00309](http://arxiv.org/abs/2306.00309)|null|
@@ -1217,6 +1233,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-07**|**The magnetic dual chiral density wave phase in a rotating quark matter**|H. Mortazavi Ghalati et.al.|[2306.04472](http://arxiv.org/abs/2306.04472)|null|
 |**2023-06-06**|**Ada-TTA: Towards Adaptive High-Quality Text-to-Talking Avatar Synthesis**|Zhenhui Ye et.al.|[2306.03504](http://arxiv.org/abs/2306.03504)|null|
 |**2023-06-03**|**Efficient Text-Guided 3D-Aware Portrait Generation with Score Distillation Sampling on Distribution**|Yiji Cheng et.al.|[2306.02083](http://arxiv.org/abs/2306.02083)|null|
 |**2023-06-02**|**Fast Interactive Search with a Scale-Free Comparison Oracle**|Daniyar Chumbalov et.al.|[2306.01814](http://arxiv.org/abs/2306.01814)|null|

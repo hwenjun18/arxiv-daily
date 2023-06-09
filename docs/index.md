@@ -39,6 +39,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-08**|**Stochastic Multi-Person 3D Motion Forecasting**|Sirui Xu et.al.|[2306.05421](http://arxiv.org/abs/2306.05421)|null|
+|**2023-06-08**|**Ownership Protection of Generative Adversarial Networks**|Hailong Hu et.al.|[2306.05233](http://arxiv.org/abs/2306.05233)|null|
+|**2023-06-08**|**Solution of physics-based inverse problems using conditional generative adversarial networks with full gradient penalty**|Deep Ray et.al.|[2306.04895](http://arxiv.org/abs/2306.04895)|null|
+|**2023-06-07**|**Estimating Uncertainty in PET Image Reconstruction via Deep Posterior Sampling**|Tin Vlašić et.al.|[2306.04664](http://arxiv.org/abs/2306.04664)|null|
 |**2023-06-07**|**Interpretable Style Transfer for Text-to-Speech with ControlVAE and Diffusion Bridge**|Wenhao Guan et.al.|[2306.04301](http://arxiv.org/abs/2306.04301)|null|
 |**2023-06-07**|**Phoenix: A Federated Generative Diffusion Model**|Fiona Victoria Stanley Jothiraj et.al.|[2306.04098](http://arxiv.org/abs/2306.04098)|null|
 |**2023-06-06**|**An Open Patch Generator based Fingerprint Presentation Attack Detection using Generative Adversarial Network**|Anuj Rai et.al.|[2306.03577](http://arxiv.org/abs/2306.03577)|null|
@@ -338,6 +342,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-08**|**Grounded Text-to-Image Synthesis with Attention Refocusing**|Quynh Phung et.al.|[2306.05427](http://arxiv.org/abs/2306.05427)|null|
+|**2023-06-08**|**Stochastic Multi-Person 3D Motion Forecasting**|Sirui Xu et.al.|[2306.05421](http://arxiv.org/abs/2306.05421)|null|
+|**2023-06-08**|**PriSampler: Mitigating Property Inference of Diffusion Models**|Hailong Hu et.al.|[2306.05208](http://arxiv.org/abs/2306.05208)|null|
+|**2023-06-08**|**A cognitive process approach to modeling gap acceptance in overtaking**|Samir H. A. Mohammad et.al.|[2306.05203](http://arxiv.org/abs/2306.05203)|null|
+|**2023-06-08**|**SyncDiffusion: Coherent Montage via Synchronized Joint Diffusions**|Yuseung Lee et.al.|[2306.05178](http://arxiv.org/abs/2306.05178)|null|
+|**2023-06-08**|**Non-autoregressive Conditional Diffusion Models for Time Series Prediction**|Lifeng Shen et.al.|[2306.05043](http://arxiv.org/abs/2306.05043)|null|
+|**2023-06-08**|**Multi-Architecture Multi-Expert Diffusion Models**|Yunsung Lee et.al.|[2306.04990](http://arxiv.org/abs/2306.04990)|null|
+|**2023-06-08**|**Instructed Diffuser with Temporal Condition Guidance for Offline Reinforcement Learning**|Jifeng Hu et.al.|[2306.04875](http://arxiv.org/abs/2306.04875)|null|
+|**2023-06-08**|**City-wide Origin-Destination Matrix Generation via Graph Denoising Diffusion**|Can Rong et.al.|[2306.04873](http://arxiv.org/abs/2306.04873)|null|
+|**2023-06-08**|**Ground states for aggregation-diffusion models on Cartan-Hadamard manifolds**|Razvan C. Fetecau et.al.|[2306.04856](http://arxiv.org/abs/2306.04856)|null|
+|**2023-06-08**|**Interpreting and Improving Diffusion Models Using the Euclidean Distance Function**|Frank Permenter et.al.|[2306.04848](http://arxiv.org/abs/2306.04848)|null|
+|**2023-06-07**|**WOUAF: Weight Modulation for User Attribution and Fingerprinting in Text-to-Image Diffusion Models**|Changhoon Kim et.al.|[2306.04744](http://arxiv.org/abs/2306.04744)|null|
+|**2023-06-07**|**ConceptBed: Evaluating Concept Learning Abilities of Text-to-Image Diffusion Models**|Maitreya Patel et.al.|[2306.04695](http://arxiv.org/abs/2306.04695)|**[link](https://github.com/conceptbed/evaluations)**|
+|**2023-06-07**|**Exposing flaws of generative model evaluation metrics and their unfair treatment of diffusion models**|George Stein et.al.|[2306.04675](http://arxiv.org/abs/2306.04675)|**[link](https://github.com/layer6ai-labs/dgm-eval)**|
 |**2023-06-07**|**Designing a Better Asymmetric VQGAN for StableDiffusion**|Zixin Zhu et.al.|[2306.04632](http://arxiv.org/abs/2306.04632)|**[link](https://github.com/buxiangzhiren/asymmetric_vqgan)**|
 |**2023-06-07**|**ARTIC3D: Learning Robust Articulated 3D Shapes from Noisy Web Image Collections**|Chun-Han Yao et.al.|[2306.04619](http://arxiv.org/abs/2306.04619)|null|
 |**2023-06-08**|**Integrating Geometric Control into Text-to-Image Diffusion Models for High-Quality Detection Data Generation via Text Prompt**|Kai Chen et.al.|[2306.04607](http://arxiv.org/abs/2306.04607)|null|
@@ -959,6 +977,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-08**|**Improving Negative-Prompt Inversion via Proximal Guidance**|Ligong Han et.al.|[2306.05414](http://arxiv.org/abs/2306.05414)|**[link](https://github.com/phymhan/prompt-to-prompt)**|
+|**2023-06-08**|**HQ-50K: A Large-scale, High-quality Dataset for Image Restoration**|Qinhong Yang et.al.|[2306.05390](http://arxiv.org/abs/2306.05390)|**[link](https://github.com/littleyaang/hq-50k)**|
 |**2023-06-07**|**Designing a Better Asymmetric VQGAN for StableDiffusion**|Zixin Zhu et.al.|[2306.04632](http://arxiv.org/abs/2306.04632)|**[link](https://github.com/buxiangzhiren/asymmetric_vqgan)**|
 |**2023-06-06**|**BokehOrNot: Transforming Bokeh Effect with Image Transformer and Lens Metadata Embedding**|Zhihao Yang et.al.|[2306.04032](http://arxiv.org/abs/2306.04032)|**[link](https://github.com/indicator0/bokehornot)**|
 |**2023-06-06**|**Convergent Bregman Plug-and-Play Image Restoration for Poisson Inverse Problems**|Samuel Hurault et.al.|[2306.03466](http://arxiv.org/abs/2306.03466)|null|
@@ -1122,6 +1142,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-08**|**StreetSurf: Extending Multi-view Implicit Surface Reconstruction to Street Views**|Jianfei Guo et.al.|[2306.04988](http://arxiv.org/abs/2306.04988)|null|
 |**2023-06-06**|**Ada-TTA: Towards Adaptive High-Quality Text-to-Talking Avatar Synthesis**|Zhenhui Ye et.al.|[2306.03504](http://arxiv.org/abs/2306.03504)|null|
 |**2023-06-05**|**Neuralangelo: High-Fidelity Neural Surface Reconstruction**|Zhaoshuo Li et.al.|[2306.03092](http://arxiv.org/abs/2306.03092)|null|
 |**2023-06-05**|**BeyondPixels: A Comprehensive Review of the Evolution of Neural Radiance Fields**|AKM Shahariar Azad Rabby et.al.|[2306.03000](http://arxiv.org/abs/2306.03000)|null|

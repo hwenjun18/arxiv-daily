@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.08
+## Updated on 2023.06.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -47,7 +47,7 @@ layout: default
 |**2023-06-05**|**Identifying the style by a qualified reader on a short fragment of generated poetry**|Boris Orekhov et.al.|[2306.02771](http://arxiv.org/abs/2306.02771)|null|
 |**2023-06-05**|**ZIGNeRF: Zero-shot 3D Scene Representation with Invertible Generative Neural Radiance Fields**|Kanghyeok Ko et.al.|[2306.02741](http://arxiv.org/abs/2306.02741)|null|
 |**2023-06-03**|**A Conditional Generative Chatbot using Transformer Model**|Nura Esfandiari et.al.|[2306.02074](http://arxiv.org/abs/2306.02074)|null|
-|**2023-06-03**|**Generative Adversarial Networks for Data Augmentation**|Angona Biswas et.al.|[2306.02019](http://arxiv.org/abs/2306.02019)|null|
+|**2023-06-07**|**Generative Adversarial Networks for Data Augmentation**|Angona Biswas et.al.|[2306.02019](http://arxiv.org/abs/2306.02019)|null|
 |**2023-06-03**|**GAT-GAN : A Graph-Attention-based Time-Series Generative Adversarial Network**|Srikrishna Iyer et.al.|[2306.01999](http://arxiv.org/abs/2306.01999)|null|
 |**2023-06-02**|**LIC-GAN: Language Information Conditioned Graph Generative GAN Model**|Robert Lo et.al.|[2306.01937](http://arxiv.org/abs/2306.01937)|null|
 |**2023-06-02**|**GANs Settle Scores!**|Siddarth Asokan et.al.|[2306.01654](http://arxiv.org/abs/2306.01654)|null|
@@ -340,7 +340,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-06-07**|**Designing a Better Asymmetric VQGAN for StableDiffusion**|Zixin Zhu et.al.|[2306.04632](http://arxiv.org/abs/2306.04632)|**[link](https://github.com/buxiangzhiren/asymmetric_vqgan)**|
 |**2023-06-07**|**ARTIC3D: Learning Robust Articulated 3D Shapes from Noisy Web Image Collections**|Chun-Han Yao et.al.|[2306.04619](http://arxiv.org/abs/2306.04619)|null|
-|**2023-06-07**|**Integrating Geometric Control into Text-to-Image Diffusion Models for High-Quality Detection Data Generation via Text Prompt**|Kai Chen et.al.|[2306.04607](http://arxiv.org/abs/2306.04607)|null|
+|**2023-06-08**|**Integrating Geometric Control into Text-to-Image Diffusion Models for High-Quality Detection Data Generation via Text Prompt**|Kai Chen et.al.|[2306.04607](http://arxiv.org/abs/2306.04607)|null|
 |**2023-06-07**|**On the Design Fundamentals of Diffusion Models: A Survey**|Ziyi Chang et.al.|[2306.04542](http://arxiv.org/abs/2306.04542)|null|
 |**2023-06-07**|**Multi-modal Latent Diffusion**|Mustapha Bounoua et.al.|[2306.04445](http://arxiv.org/abs/2306.04445)|null|
 |**2023-06-07**|**Improving Diffusion-based Image Translation using Asymmetric Gradient Guidance**|Gihyun Kwon et.al.|[2306.04396](http://arxiv.org/abs/2306.04396)|**[link](https://github.com/submissionanon18/agg)**|
@@ -354,10 +354,10 @@ layout: default
 |**2023-06-06**|**Conditional Diffusion Models for Weakly Supervised Medical Image Segmentation**|Xinrong Hu et.al.|[2306.03878](http://arxiv.org/abs/2306.03878)|**[link](https://github.com/xhu248/cond_ddpm_wsss)**|
 |**2023-06-06**|**Towards Visual Foundational Models of Physical Scenes**|Chethan Parameshwara et.al.|[2306.03727](http://arxiv.org/abs/2306.03727)|null|
 |**2023-06-06**|**Mega-TTS: Zero-Shot Text-to-Speech at Scale with Intrinsic Inductive Bias**|Ziyue Jiang et.al.|[2306.03509](http://arxiv.org/abs/2306.03509)|null|
-|**2023-06-06**|**DFormer: Diffusion-guided Transformer for Universal Image Segmentation**|Hefeng Wang et.al.|[2306.03437](http://arxiv.org/abs/2306.03437)|**[link](https://github.com/cp3wan/dformer)**|
+|**2023-06-08**|**DFormer: Diffusion-guided Transformer for Universal Image Segmentation**|Hefeng Wang et.al.|[2306.03437](http://arxiv.org/abs/2306.03437)|**[link](https://github.com/cp3wan/dformer)**|
 |**2023-06-06**|**Protecting the Intellectual Property of Diffusion Models by the Watermark Diffusion Process**|Sen Peng et.al.|[2306.03436](http://arxiv.org/abs/2306.03436)|null|
 |**2023-06-06**|**Change Diffusion: Change Detection Map Generation Based on Difference-Feature Guided DDPM**|Yihan Wen et.al.|[2306.03424](http://arxiv.org/abs/2306.03424)|null|
-|**2023-06-06**|**DreamSparse: Escaping from Plato's Cave with 2D Diffusion Model Given Sparse Views**|Paul Yoo et.al.|[2306.03414](http://arxiv.org/abs/2306.03414)|null|
+|**2023-06-08**|**DreamSparse: Escaping from Plato's Cave with 2D Diffusion Model Given Sparse Views**|Paul Yoo et.al.|[2306.03414](http://arxiv.org/abs/2306.03414)|null|
 |**2023-06-05**|**Optimizing Sampling Patterns for Compressed Sensing MRI with Diffusion Generative Models**|Sriram Ravula et.al.|[2306.03284](http://arxiv.org/abs/2306.03284)|**[link](https://github.com/sriram-ravula/mri_sampling_diffusion)**|
 |**2023-06-05**|**LipVoicer: Generating Speech from Silent Videos Guided by Lip Reading**|Yochai Yemini et.al.|[2306.03258](http://arxiv.org/abs/2306.03258)|null|
 |**2023-06-05**|**Brain Diffusion for Visual Exploration: Cortical Discovery using Large Scale Generative Models**|Andrew F. Luo et.al.|[2306.03089](http://arxiv.org/abs/2306.03089)|null|

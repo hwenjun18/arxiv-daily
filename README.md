@@ -51,6 +51,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-09**|**GANeRF: Leveraging Discriminators to Optimize Neural Radiance Fields**|Barbara Roessle et.al.|[2306.06044](http://arxiv.org/abs/2306.06044)|null|
+|**2023-06-09**|**Prediction of Transportation Index for Urban Patterns in Small and Medium-sized Indian Cities using Hybrid RidgeGAN Model**|Rahisha Thottolil et.al.|[2306.05951](http://arxiv.org/abs/2306.05951)|**[link](https://github.com/rahisha-thottolil/ridgegan)**|
+|**2023-06-09**|**GAN-CAN: A Novel Attack to Behavior-Based Driver Authentication Systems**|Emad Efatinasab et.al.|[2306.05923](http://arxiv.org/abs/2306.05923)|null|
+|**2023-06-09**|**HRTF upsampling with a generative adversarial network using a gnomonic equiangular projection**|Aidan O. T. Hogg et.al.|[2306.05812](http://arxiv.org/abs/2306.05812)|**[link](https://github.com/ahogg/hrtf-upsampling-with-a-generative-adversarial-network-using-a-gnomonic-equiangular-projection)**|
 |**2023-06-08**|**Stochastic Multi-Person 3D Motion Forecasting**|Sirui Xu et.al.|[2306.05421](http://arxiv.org/abs/2306.05421)|null|
 |**2023-06-08**|**Ownership Protection of Generative Adversarial Networks**|Hailong Hu et.al.|[2306.05233](http://arxiv.org/abs/2306.05233)|null|
 |**2023-06-08**|**Solution of physics-based inverse problems using conditional generative adversarial networks with full gradient penalty**|Deep Ray et.al.|[2306.04895](http://arxiv.org/abs/2306.04895)|null|
@@ -356,6 +360,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-09**|**Beyond Diffusion: A Generalized Mean-Field Theory of Turbulent Dust Transport in Protoplanetary Disks**|Fabian Binkert et.al.|[2306.06103](http://arxiv.org/abs/2306.06103)|null|
+|**2023-06-09**|**Beyond Surface Statistics: Scene Representations in a Latent Diffusion Model**|Yida Chen et.al.|[2306.05720](http://arxiv.org/abs/2306.05720)|null|
+|**2023-06-09**|**Boosting Fast and High-Quality Speech Synthesis with Linear Diffusion**|Haogeng Liu et.al.|[2306.05708](http://arxiv.org/abs/2306.05708)|null|
+|**2023-06-09**|**RePaint-NeRF: NeRF Editting via Semantic Masks and Diffusion Models**|Xingchen Zhou et.al.|[2306.05668](http://arxiv.org/abs/2306.05668)|null|
+|**2023-06-08**|**BOOT: Data-free Distillation of Denoising Diffusion Models with Bootstrapping**|Jiatao Gu et.al.|[2306.05544](http://arxiv.org/abs/2306.05544)|null|
 |**2023-06-08**|**Grounded Text-to-Image Synthesis with Attention Refocusing**|Quynh Phung et.al.|[2306.05427](http://arxiv.org/abs/2306.05427)|null|
 |**2023-06-08**|**Stochastic Multi-Person 3D Motion Forecasting**|Sirui Xu et.al.|[2306.05421](http://arxiv.org/abs/2306.05421)|null|
 |**2023-06-08**|**PriSampler: Mitigating Property Inference of Diffusion Models**|Hailong Hu et.al.|[2306.05208](http://arxiv.org/abs/2306.05208)|null|
@@ -993,6 +1002,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-09**|**Illumination Controllable Dehazing Network based on Unsupervised Retinex Embedding**|Jie Gui et.al.|[2306.05675](http://arxiv.org/abs/2306.05675)|**[link](https://github.com/xiaofeng-life/icdehazing)**|
 |**2023-06-08**|**Improving Negative-Prompt Inversion via Proximal Guidance**|Ligong Han et.al.|[2306.05414](http://arxiv.org/abs/2306.05414)|**[link](https://github.com/phymhan/prompt-to-prompt)**|
 |**2023-06-08**|**HQ-50K: A Large-scale, High-quality Dataset for Image Restoration**|Qinhong Yang et.al.|[2306.05390](http://arxiv.org/abs/2306.05390)|**[link](https://github.com/littleyaang/hq-50k)**|
 |**2023-06-07**|**Designing a Better Asymmetric VQGAN for StableDiffusion**|Zixin Zhu et.al.|[2306.04632](http://arxiv.org/abs/2306.04632)|**[link](https://github.com/buxiangzhiren/asymmetric_vqgan)**|
@@ -1276,6 +1286,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-09**|**Secular dynamics of stellar spin driven by planets inside Kozai-Lidov resonance**|Hanlun Lei et.al.|[2306.05639](http://arxiv.org/abs/2306.05639)|null|
 |**2023-06-07**|**The magnetic dual chiral density wave phase in a rotating quark matter**|H. Mortazavi Ghalati et.al.|[2306.04472](http://arxiv.org/abs/2306.04472)|null|
 |**2023-06-06**|**Ada-TTA: Towards Adaptive High-Quality Text-to-Talking Avatar Synthesis**|Zhenhui Ye et.al.|[2306.03504](http://arxiv.org/abs/2306.03504)|null|
 |**2023-06-03**|**Efficient Text-Guided 3D-Aware Portrait Generation with Score Distillation Sampling on Distribution**|Yiji Cheng et.al.|[2306.02083](http://arxiv.org/abs/2306.02083)|null|

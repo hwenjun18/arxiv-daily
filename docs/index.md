@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.12
+## Updated on 2023.06.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -41,7 +41,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-06-09**|**GANeRF: Leveraging Discriminators to Optimize Neural Radiance Fields**|Barbara Roessle et.al.|[2306.06044](http://arxiv.org/abs/2306.06044)|null|
 |**2023-06-09**|**Prediction of Transportation Index for Urban Patterns in Small and Medium-sized Indian Cities using Hybrid RidgeGAN Model**|Rahisha Thottolil et.al.|[2306.05951](http://arxiv.org/abs/2306.05951)|**[link](https://github.com/rahisha-thottolil/ridgegan)**|
-|**2023-06-09**|**GAN-CAN: A Novel Attack to Behavior-Based Driver Authentication Systems**|Emad Efatinasab et.al.|[2306.05923](http://arxiv.org/abs/2306.05923)|null|
+|**2023-06-12**|**GAN-CAN: A Novel Attack to Behavior-Based Driver Authentication Systems**|Emad Efatinasab et.al.|[2306.05923](http://arxiv.org/abs/2306.05923)|null|
 |**2023-06-09**|**HRTF upsampling with a generative adversarial network using a gnomonic equiangular projection**|Aidan O. T. Hogg et.al.|[2306.05812](http://arxiv.org/abs/2306.05812)|**[link](https://github.com/ahogg/hrtf-upsampling-with-a-generative-adversarial-network-using-a-gnomonic-equiangular-projection)**|
 |**2023-06-08**|**Stochastic Multi-Person 3D Motion Forecasting**|Sirui Xu et.al.|[2306.05421](http://arxiv.org/abs/2306.05421)|null|
 |**2023-06-08**|**Ownership Protection of Generative Adversarial Networks**|Hailong Hu et.al.|[2306.05233](http://arxiv.org/abs/2306.05233)|null|
@@ -50,7 +50,7 @@ layout: default
 |**2023-06-07**|**Interpretable Style Transfer for Text-to-Speech with ControlVAE and Diffusion Bridge**|Wenhao Guan et.al.|[2306.04301](http://arxiv.org/abs/2306.04301)|null|
 |**2023-06-07**|**Phoenix: A Federated Generative Diffusion Model**|Fiona Victoria Stanley Jothiraj et.al.|[2306.04098](http://arxiv.org/abs/2306.04098)|null|
 |**2023-06-06**|**An Open Patch Generator based Fingerprint Presentation Attack Detection using Generative Adversarial Network**|Anuj Rai et.al.|[2306.03577](http://arxiv.org/abs/2306.03577)|null|
-|**2023-06-06**|**SDR-GAIN: A High Real-Time Occluded Pedestrian Pose Completion Method for Autonomous Driving**|Honghao Fu et.al.|[2306.03538](http://arxiv.org/abs/2306.03538)|null|
+|**2023-06-10**|**SDR-GAIN: A High Real-Time Occluded Pedestrian Pose Completion Method for Autonomous Driving**|Honghao Fu et.al.|[2306.03538](http://arxiv.org/abs/2306.03538)|null|
 |**2023-06-05**|**Brain tumor segmentation using synthetic MR images -- A comparison of GANs and diffusion models**|Muhammad Usman Akbar et.al.|[2306.02986](http://arxiv.org/abs/2306.02986)|null|
 |**2023-06-05**|**Identifying the style by a qualified reader on a short fragment of generated poetry**|Boris Orekhov et.al.|[2306.02771](http://arxiv.org/abs/2306.02771)|null|
 |**2023-06-05**|**ZIGNeRF: Zero-shot 3D Scene Representation with Invertible Generative Neural Radiance Fields**|Kanghyeok Ko et.al.|[2306.02741](http://arxiv.org/abs/2306.02741)|null|
@@ -348,7 +348,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-06-09**|**Beyond Diffusion: A Generalized Mean-Field Theory of Turbulent Dust Transport in Protoplanetary Disks**|Fabian Binkert et.al.|[2306.06103](http://arxiv.org/abs/2306.06103)|null|
 |**2023-06-09**|**Beyond Surface Statistics: Scene Representations in a Latent Diffusion Model**|Yida Chen et.al.|[2306.05720](http://arxiv.org/abs/2306.05720)|null|
-|**2023-06-09**|**Boosting Fast and High-Quality Speech Synthesis with Linear Diffusion**|Haogeng Liu et.al.|[2306.05708](http://arxiv.org/abs/2306.05708)|null|
+|**2023-06-12**|**Boosting Fast and High-Quality Speech Synthesis with Linear Diffusion**|Haogeng Liu et.al.|[2306.05708](http://arxiv.org/abs/2306.05708)|null|
 |**2023-06-09**|**RePaint-NeRF: NeRF Editting via Semantic Masks and Diffusion Models**|Xingchen Zhou et.al.|[2306.05668](http://arxiv.org/abs/2306.05668)|null|
 |**2023-06-08**|**BOOT: Data-free Distillation of Denoising Diffusion Models with Bootstrapping**|Jiatao Gu et.al.|[2306.05544](http://arxiv.org/abs/2306.05544)|null|
 |**2023-06-08**|**Grounded Text-to-Image Synthesis with Attention Refocusing**|Quynh Phung et.al.|[2306.05427](http://arxiv.org/abs/2306.05427)|null|

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.14
+## Updated on 2023.06.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -367,7 +367,7 @@ layout: default
 |**2023-06-12**|**MovieFactory: Automatic Movie Creation from Text using Large Generative Models for Language and Images**|Junchen Zhu et.al.|[2306.07257](http://arxiv.org/abs/2306.07257)|null|
 |**2023-06-12**|**Diffusion Models for Black-Box Optimization**|Siddarth Krishnamoorthy et.al.|[2306.07180](http://arxiv.org/abs/2306.07180)|null|
 |**2023-06-12**|**InstructP2P: Learning to Edit 3D Point Clouds with Text Instructions**|Jiale Xu et.al.|[2306.07154](http://arxiv.org/abs/2306.07154)|null|
-|**2023-06-12**|**Fast Diffusion Model**|Zike Wu et.al.|[2306.06991](http://arxiv.org/abs/2306.06991)|null|
+|**2023-06-12**|**Fast Diffusion Model**|Zike Wu et.al.|[2306.06991](http://arxiv.org/abs/2306.06991)|**[link](https://github.com/sail-sg/fdm)**|
 |**2023-06-13**|**VillanDiffusion: A Unified Backdoor Attack Framework for Diffusion Models**|Sheng-Yen Chou et.al.|[2306.06874](http://arxiv.org/abs/2306.06874)|null|
 |**2023-06-12**|**HiddenSinger: High-Quality Singing Voice Synthesis via Neural Audio Codec and Latent Diffusion Models**|Ji-Sang Hwang et.al.|[2306.06814](http://arxiv.org/abs/2306.06814)|null|
 |**2023-06-11**|**Stable Remaster: Bridging the Gap Between Old Content and New Displays**|Nathan Paull et.al.|[2306.06803](http://arxiv.org/abs/2306.06803)|**[link](https://github.com/naston/stableremaster)**|

@@ -51,6 +51,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-16**|**Query-Free Evasion Attacks Against Machine Learning-Based Malware Detectors with Generative Adversarial Networks**|Daniel Gibert et.al.|[2306.09925](http://arxiv.org/abs/2306.09925)|null|
+|**2023-06-16**|**Understanding Deep Generative Models with Generalized Empirical Likelihoods**|Suman Ravuri et.al.|[2306.09780](http://arxiv.org/abs/2306.09780)|null|
+|**2023-06-15**|**Training generative models from privatized data**|Daria Reshetova et.al.|[2306.09547](http://arxiv.org/abs/2306.09547)|null|
+|**2023-06-15**|**Improving Path Planning Performance through Multimodal Generative Models with Local Critics**|Jorge Ocampo Jimenez et.al.|[2306.09470](http://arxiv.org/abs/2306.09470)|null|
 |**2023-06-15**|**ArtFusion: Arbitrary Style Transfer using Dual Conditional Latent Diffusion Models**|Dar-Yen Chen et.al.|[2306.09330](http://arxiv.org/abs/2306.09330)|**[link](https://github.com/chendaryen/artfusion)**|
 |**2023-06-15**|**Contrast, Stylize and Adapt: Unsupervised Contrastive Learning Framework for Domain Adaptive Semantic Segmentation**|Tianyu Li et.al.|[2306.09098](http://arxiv.org/abs/2306.09098)|**[link](https://github.com/cxa9264/confeti)**|
 |**2023-06-15**|**PUGAN: Physical Model-Guided Underwater Image Enhancement Using GAN with Dual-Discriminators**|Runmin Cong et.al.|[2306.08918](http://arxiv.org/abs/2306.08918)|null|
@@ -380,6 +384,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-16**|**Group Orthogonalization Regularization For Vision Models Adaptation and Robustness**|Yoav Kurtz et.al.|[2306.10001](http://arxiv.org/abs/2306.10001)|**[link](https://github.com/yoavkurtz/gor)**|
+|**2023-06-16**|**Towards Better Certified Segmentation via Diffusion Models**|Othmane Laousy et.al.|[2306.09949](http://arxiv.org/abs/2306.09949)|null|
+|**2023-06-16**|**Drag-guided diffusion models for vehicle image generation**|Nikos Arechiga et.al.|[2306.09935](http://arxiv.org/abs/2306.09935)|null|
+|**2023-06-16**|**Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models**|Geon Yeong Park et.al.|[2306.09869](http://arxiv.org/abs/2306.09869)|null|
+|**2023-06-16**|**AvatarBooth: High-Quality and Customizable 3D Human Avatar Generation**|Yifei Zeng et.al.|[2306.09864](http://arxiv.org/abs/2306.09864)|null|
+|**2023-06-16**|**Understanding Deep Generative Models with Generalized Empirical Likelihoods**|Suman Ravuri et.al.|[2306.09780](http://arxiv.org/abs/2306.09780)|null|
+|**2023-06-16**|**The Big Data Myth: Using Diffusion Models for Dataset Generation to Train Deep Detection Models**|Roy Voetman et.al.|[2306.09762](http://arxiv.org/abs/2306.09762)|null|
+|**2023-06-16**|**CLIPSonic: Text-to-Audio Synthesis with Unlabeled Videos and Pretrained Language-Vision Models**|Hao-Wen Dong et.al.|[2306.09635](http://arxiv.org/abs/2306.09635)|null|
+|**2023-06-15**|**Edit-DiffNeRF: Editing 3D Neural Radiance Fields using 2D Diffusion Model**|Lu Yu et.al.|[2306.09551](http://arxiv.org/abs/2306.09551)|null|
+|**2023-06-15**|**Hierarchical Planning and Control for Box Loco-Manipulation**|Zhaoming Xie et.al.|[2306.09532](http://arxiv.org/abs/2306.09532)|null|
+|**2023-06-15**|**R2-Diff: Denoising by diffusion as a refinement of retrieved motion for image-based motion prediction**|Takeru Oba et.al.|[2306.09483](http://arxiv.org/abs/2306.09483)|null|
 |**2023-06-15**|**Generative Proxemics: A Prior for 3D Social Interaction from Images**|Lea Müller et.al.|[2306.09337](http://arxiv.org/abs/2306.09337)|null|
 |**2023-06-15**|**ArtFusion: Arbitrary Style Transfer using Dual Conditional Latent Diffusion Models**|Dar-Yen Chen et.al.|[2306.09330](http://arxiv.org/abs/2306.09330)|**[link](https://github.com/chendaryen/artfusion)**|
 |**2023-06-15**|**Diffusion Models for Zero-Shot Open-Vocabulary Segmentation**|Laurynas Karazija et.al.|[2306.09316](http://arxiv.org/abs/2306.09316)|null|
@@ -1063,6 +1078,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-16**|**MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing**|Kai Zhang et.al.|[2306.10012](http://arxiv.org/abs/2306.10012)|**[link](https://github.com/osu-nlp-group/magicbrush)**|
+|**2023-06-16**|**Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models**|Geon Yeong Park et.al.|[2306.09869](http://arxiv.org/abs/2306.09869)|null|
 |**2023-06-15**|**Crowd-Powered Photo Enhancement Featuring an Active Learning Based Local Filter**|Satoshi Kosugi et.al.|[2306.09321](http://arxiv.org/abs/2306.09321)|**[link](https://github.com/satoshi-kosugi/crowd-powered)**|
 |**2023-06-15**|**Exploring the Application of Large-scale Pre-trained Models on Adverse Weather Removal**|Zhentao Tan et.al.|[2306.09008](http://arxiv.org/abs/2306.09008)|null|
 |**2023-06-16**|**Searching for the Fakes: Efficient Neural Architecture Search for General Face Forgery Detection**|Xiao Jin et.al.|[2306.08830](http://arxiv.org/abs/2306.08830)|null|
@@ -1238,6 +1255,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-16**|**Unsupervised Learning of Style-Aware Facial Animation from Real Acting Performances**|Wolfgang Paier et.al.|[2306.10006](http://arxiv.org/abs/2306.10006)|null|
+|**2023-06-16**|**Neural Volumetric Reconstruction for Coherent Synthetic Aperture Sonar**|Albert W. Reed et.al.|[2306.09909](http://arxiv.org/abs/2306.09909)|null|
 |**2023-06-15**|**Neural Relighting with Subsurface Scattering by Learning the Radiance Transfer Gradient**|Shizhan Zhu et.al.|[2306.09322](http://arxiv.org/abs/2306.09322)|null|
 |**2023-06-15**|**Enhancing Neural Rendering Methods with Image Augmentations**|Juan C. Pérez et.al.|[2306.08904](http://arxiv.org/abs/2306.08904)|null|
 |**2023-06-14**|**EPIC Fields: Marrying 3D Geometry and Video Understanding**|Vadim Tschernezki et.al.|[2306.08731](http://arxiv.org/abs/2306.08731)|null|

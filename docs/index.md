@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.18
+## Updated on 2023.06.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -1049,9 +1049,9 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-06-15**|**Crowd-Powered Photo Enhancement Featuring an Active Learning Based Local Filter**|Satoshi Kosugi et.al.|[2306.09321](http://arxiv.org/abs/2306.09321)|**[link](https://github.com/satoshi-kosugi/crowd-powered)**|
 |**2023-06-15**|**Exploring the Application of Large-scale Pre-trained Models on Adverse Weather Removal**|Zhentao Tan et.al.|[2306.09008](http://arxiv.org/abs/2306.09008)|null|
-|**2023-06-15**|**Searching for the Fakes: Efficient Neural Architecture Search for General Face Forgery Detection**|Xiao Jin et.al.|[2306.08830](http://arxiv.org/abs/2306.08830)|null|
+|**2023-06-16**|**Searching for the Fakes: Efficient Neural Architecture Search for General Face Forgery Detection**|Xiao Jin et.al.|[2306.08830](http://arxiv.org/abs/2306.08830)|null|
 |**2023-06-14**|**Investigation of the Challenges of Underwater-Visual-Monocular-SLAM**|Michele Grimaldi et.al.|[2306.08738](http://arxiv.org/abs/2306.08738)|null|
-|**2023-06-14**|**On the Robustness of Latent Diffusion Models**|Jianping Zhang et.al.|[2306.08257](http://arxiv.org/abs/2306.08257)|null|
+|**2023-06-14**|**On the Robustness of Latent Diffusion Models**|Jianping Zhang et.al.|[2306.08257](http://arxiv.org/abs/2306.08257)|**[link](https://github.com/jpzhang1810/ldm-robustness)**|
 |**2023-06-13**|**Paste, Inpaint and Harmonize via Denoising: Subject-Driven Image Editing with Pre-Trained Diffusion Model**|Xin Zhang et.al.|[2306.07596](http://arxiv.org/abs/2306.07596)|null|
 |**2023-06-13**|**Learning Image-Adaptive Codebooks for Class-Agnostic Image Restoration**|Kechun Liu et.al.|[2306.06513](http://arxiv.org/abs/2306.06513)|null|
 |**2023-06-09**|**Illumination Controllable Dehazing Network based on Unsupervised Retinex Embedding**|Jie Gui et.al.|[2306.05675](http://arxiv.org/abs/2306.05675)|**[link](https://github.com/xiaofeng-life/icdehazing)**|

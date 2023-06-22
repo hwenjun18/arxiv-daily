@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.21
+## Updated on 2023.06.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -392,7 +392,7 @@ layout: default
 |**2023-06-18**|**Point-Cloud Completion with Pretrained Text-to-image Diffusion Models**|Yoni Kasten et.al.|[2306.10533](http://arxiv.org/abs/2306.10533)|null|
 |**2023-06-18**|**GenPose: Generative Category-level Object Pose Estimation via Diffusion Models**|Jiyao Zhang et.al.|[2306.10531](http://arxiv.org/abs/2306.10531)|null|
 |**2023-06-17**|**Image Harmonization with Diffusion Model**|Jiajie Li et.al.|[2306.10441](http://arxiv.org/abs/2306.10441)|null|
-|**2023-06-17**|**Text-Driven Foley Sound Generation With Latent Diffusion Model**|Yi Yuan et.al.|[2306.10359](http://arxiv.org/abs/2306.10359)|null|
+|**2023-06-17**|**Text-Driven Foley Sound Generation With Latent Diffusion Model**|Yi Yuan et.al.|[2306.10359](http://arxiv.org/abs/2306.10359)|**[link](https://github.com/yyua8222/dcase2023_task7)**|
 |**2023-06-16**|**Building the Bridge of Schrödinger: A Continuous Entropic Optimal Transport Benchmark**|Nikita Gushchin et.al.|[2306.10161](http://arxiv.org/abs/2306.10161)|**[link](https://github.com/ngushchin/entropicotbenchmark)**|
 |**2023-06-16**|**Group Orthogonalization Regularization For Vision Models Adaptation and Robustness**|Yoav Kurtz et.al.|[2306.10001](http://arxiv.org/abs/2306.10001)|**[link](https://github.com/yoavkurtz/gor)**|
 |**2023-06-16**|**Towards Better Certified Segmentation via Diffusion Models**|Othmane Laousy et.al.|[2306.09949](http://arxiv.org/abs/2306.09949)|null|
@@ -1086,10 +1086,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-06-20**|**TransRef: Multi-Scale Reference Embedding Transformer for Reference-Guided Image Inpainting**|Liang Liao et.al.|[2306.11528](http://arxiv.org/abs/2306.11528)|**[link](https://github.com/cameltr/transref)**|
+|**2023-06-21**|**TransRef: Multi-Scale Reference Embedding Transformer for Reference-Guided Image Inpainting**|Liang Liao et.al.|[2306.11528](http://arxiv.org/abs/2306.11528)|**[link](https://github.com/cameltr/transref)**|
 |**2023-06-19**|**Instruct-NeuralTalker: Editing Audio-Driven Talking Radiance Fields with Instructions**|Yuqi Sun et.al.|[2306.10813](http://arxiv.org/abs/2306.10813)|null|
 |**2023-06-17**|**Image Harmonization with Diffusion Model**|Jiajie Li et.al.|[2306.10441](http://arxiv.org/abs/2306.10441)|null|
-|**2023-06-17**|**Enlighten-anything:When Segment Anything Model Meets Low-light Image Enhancement**|Qihan Zhao et.al.|[2306.10286](http://arxiv.org/abs/2306.10286)|**[link](https://github.com/QihanZhao/enlighten-anything)**|
+|**2023-06-21**|**Enlighten-anything:When Segment Anything Model Meets Low-light Image Enhancement**|Qihan Zhao et.al.|[2306.10286](http://arxiv.org/abs/2306.10286)|**[link](https://github.com/QihanZhao/enlighten-anything)**|
 |**2023-06-16**|**MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing**|Kai Zhang et.al.|[2306.10012](http://arxiv.org/abs/2306.10012)|**[link](https://github.com/osu-nlp-group/magicbrush)**|
 |**2023-06-16**|**Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models**|Geon Yeong Park et.al.|[2306.09869](http://arxiv.org/abs/2306.09869)|null|
 |**2023-06-15**|**Crowd-Powered Photo Enhancement Featuring an Active Learning Based Local Filter**|Satoshi Kosugi et.al.|[2306.09321](http://arxiv.org/abs/2306.09321)|**[link](https://github.com/satoshi-kosugi/crowd-powered)**|

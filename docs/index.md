@@ -39,6 +39,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-22**|**What to Learn: Features, Image Transformations, or Both?**|Yuxuan Chen et.al.|[2306.13040](http://arxiv.org/abs/2306.13040)|null|
+|**2023-06-21**|**Semi-Implicit Denoising Diffusion Models (SIDDMs)**|Yanwu Xu et.al.|[2306.12511](http://arxiv.org/abs/2306.12511)|null|
 |**2023-06-21**|**Benchmarking and Analyzing 3D-aware Image Synthesis with a Modularized Codebase**|Qiuyu Wang et.al.|[2306.12423](http://arxiv.org/abs/2306.12423)|**[link](https://github.com/qiuyu96/carver)**|
 |**2023-06-21**|**A New Initial Distribution for Quantum Generative Adversarial Networks to Load Probability Distributions**|Yuichi Sano et.al.|[2306.12303](http://arxiv.org/abs/2306.12303)|null|
 |**2023-06-15**|**Out of Distribution Generalization via Interventional Style Transfer in Single-Cell Microscopy**|Wolfgang M. Pernice et.al.|[2306.11890](http://arxiv.org/abs/2306.11890)|null|
@@ -380,6 +382,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-22**|**Continuous Layout Editing of Single Images with Diffusion Models**|Zhiyuan Zhang et.al.|[2306.13078](http://arxiv.org/abs/2306.13078)|null|
+|**2023-06-22**|**Towards More Realistic Membership Inference Attacks on Large Diffusion Models**|Jan Dubiński et.al.|[2306.12983](http://arxiv.org/abs/2306.12983)|null|
+|**2023-06-22**|**DiffWA: Diffusion Models for Watermark Attack**|Xinyu Li et.al.|[2306.12790](http://arxiv.org/abs/2306.12790)|null|
+|**2023-06-22**|**A prior regularized full waveform inversion using generative diffusion models**|Fu Wang et.al.|[2306.12776](http://arxiv.org/abs/2306.12776)|null|
+|**2023-06-22**|**One at A Time: Multi-step Volumetric Probability Distribution Diffusion for Depth Estimation**|Bohan Li et.al.|[2306.12681](http://arxiv.org/abs/2306.12681)|null|
+|**2023-06-21**|**Semi-Implicit Denoising Diffusion Models (SIDDMs)**|Yanwu Xu et.al.|[2306.12511](http://arxiv.org/abs/2306.12511)|null|
 |**2023-06-21**|**DreamTime: An Improved Optimization Strategy for Text-to-3D Content Creation**|Yukun Huang et.al.|[2306.12422](http://arxiv.org/abs/2306.12422)|null|
 |**2023-06-21**|**Diffusion Posterior Sampling for Informed Single-Channel Dereverberation**|Jean-Marie Lemercier et.al.|[2306.12286](http://arxiv.org/abs/2306.12286)|null|
 |**2023-06-21**|**HumanDiffusion: diffusion model using perceptual gradients**|Yota Ueda et.al.|[2306.12169](http://arxiv.org/abs/2306.12169)|null|
@@ -1100,6 +1108,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-22**|**PromptIR: Prompting for All-in-One Blind Image Restoration**|Vaishnav Potlapalli et.al.|[2306.13090](http://arxiv.org/abs/2306.13090)|null|
+|**2023-06-22**|**Continuous Layout Editing of Single Images with Diffusion Models**|Zhiyuan Zhang et.al.|[2306.13078](http://arxiv.org/abs/2306.13078)|null|
+|**2023-06-22**|**Restoration of the JPEG Maximum Lossy Compressed Face Images with Hourglass Block based on Early Stopping Discriminator**|Jongwook Si et.al.|[2306.12757](http://arxiv.org/abs/2306.12757)|null|
+|**2023-06-22**|**DreamEdit: Subject-driven Image Editing**|Tianle Li et.al.|[2306.12624](http://arxiv.org/abs/2306.12624)|null|
 |**2023-06-21**|**Fast Segment Anything**|Xu Zhao et.al.|[2306.12156](http://arxiv.org/abs/2306.12156)|**[link](https://github.com/casia-iva-lab/fastsam)**|
 |**2023-06-21**|**Accelerating Multiframe Blind Deconvolution via Deep Learning**|A. Asensio Ramos et.al.|[2306.12078](http://arxiv.org/abs/2306.12078)|**[link](https://github.com/aasensio/neural-mfbd)**|
 |**2023-06-21**|**TransRef: Multi-Scale Reference Embedding Transformer for Reference-Guided Image Inpainting**|Liang Liao et.al.|[2306.11528](http://arxiv.org/abs/2306.11528)|**[link](https://github.com/cameltr/transref)**|

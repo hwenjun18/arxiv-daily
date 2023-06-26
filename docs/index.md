@@ -39,6 +39,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-23**|**A New Paradigm for Generative Adversarial Networks based on Randomized Decision Rules**|Sehwan Kim et.al.|[2306.13641](http://arxiv.org/abs/2306.13641)|**[link](https://github.com/sehwankimstat/ebgan)**|
+|**2023-06-23**|**Machine Learning methods for simulating particle response in the Zero Degree Calorimeter at the ALICE experiment, CERN**|Jan Dubiński et.al.|[2306.13606](http://arxiv.org/abs/2306.13606)|null|
+|**2023-06-23**|**Penalty Gradient Normalization for Generative Adversarial Networks**|Tian Xia et.al.|[2306.13576](http://arxiv.org/abs/2306.13576)|**[link](https://github.com/sumorday/edgan-pytorch)**|
+|**2023-06-23**|**PP-GAN : Style Transfer from Korean Portraits to ID Photos Using Landmark Extractor with GAN**|Jongwook Si et.al.|[2306.13418](http://arxiv.org/abs/2306.13418)|null|
 |**2023-06-22**|**What to Learn: Features, Image Transformations, or Both?**|Yuxuan Chen et.al.|[2306.13040](http://arxiv.org/abs/2306.13040)|null|
 |**2023-06-23**|**Semi-Implicit Denoising Diffusion Models (SIDDMs)**|Yanwu Xu et.al.|[2306.12511](http://arxiv.org/abs/2306.12511)|null|
 |**2023-06-21**|**Benchmarking and Analyzing 3D-aware Image Synthesis with a Modularized Codebase**|Qiuyu Wang et.al.|[2306.12423](http://arxiv.org/abs/2306.12423)|**[link](https://github.com/qiuyu96/carver)**|
@@ -382,6 +386,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-23**|**DreamEditor: Text-Driven 3D Scene Editing with Neural Fields**|Jingyu Zhuang et.al.|[2306.13455](http://arxiv.org/abs/2306.13455)|null|
+|**2023-06-23**|**DiffInfinite: Large Mask-Image Synthesis via Parallel Random Patch Diffusion in Histopathology**|Marco Aversa et.al.|[2306.13384](http://arxiv.org/abs/2306.13384)|null|
+|**2023-06-22**|**Directional diffusion models for graph representation learning**|Run Yang et.al.|[2306.13210](http://arxiv.org/abs/2306.13210)|null|
+|**2023-06-22**|**DiMSam: Diffusion Models as Samplers for Task and Motion Planning under Partial Observability**|Xiaolin Fang et.al.|[2306.13196](http://arxiv.org/abs/2306.13196)|null|
 |**2023-06-22**|**Continuous Layout Editing of Single Images with Diffusion Models**|Zhiyuan Zhang et.al.|[2306.13078](http://arxiv.org/abs/2306.13078)|null|
 |**2023-06-22**|**Towards More Realistic Membership Inference Attacks on Large Diffusion Models**|Jan Dubiński et.al.|[2306.12983](http://arxiv.org/abs/2306.12983)|null|
 |**2023-06-22**|**DiffWA: Diffusion Models for Watermark Attack**|Xinyu Li et.al.|[2306.12790](http://arxiv.org/abs/2306.12790)|null|
@@ -1108,6 +1116,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-23**|**ProRes: Exploring Degradation-aware Visual Prompt for Universal Image Restoration**|Jiaqi Ma et.al.|[2306.13653](http://arxiv.org/abs/2306.13653)|**[link](https://github.com/leonmakise/prores)**|
 |**2023-06-22**|**PromptIR: Prompting for All-in-One Blind Image Restoration**|Vaishnav Potlapalli et.al.|[2306.13090](http://arxiv.org/abs/2306.13090)|**[link](https://github.com/va1shn9v/promptir)**|
 |**2023-06-22**|**Continuous Layout Editing of Single Images with Diffusion Models**|Zhiyuan Zhang et.al.|[2306.13078](http://arxiv.org/abs/2306.13078)|null|
 |**2023-06-22**|**Restoration of the JPEG Maximum Lossy Compressed Face Images with Hourglass Block based on Early Stopping Discriminator**|Jongwook Si et.al.|[2306.12757](http://arxiv.org/abs/2306.12757)|null|
@@ -1119,7 +1128,7 @@ layout: default
 |**2023-06-17**|**Image Harmonization with Diffusion Model**|Jiajie Li et.al.|[2306.10441](http://arxiv.org/abs/2306.10441)|null|
 |**2023-06-22**|**Enlighten Anything: When Segment Anything Model Meets Low-Light Image Enhancement**|Qihan Zhao et.al.|[2306.10286](http://arxiv.org/abs/2306.10286)|**[link](https://github.com/zhangbaijin/enlighten-anything)**|
 |**2023-06-16**|**MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing**|Kai Zhang et.al.|[2306.10012](http://arxiv.org/abs/2306.10012)|**[link](https://github.com/osu-nlp-group/magicbrush)**|
-|**2023-06-16**|**Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models**|Geon Yeong Park et.al.|[2306.09869](http://arxiv.org/abs/2306.09869)|null|
+|**2023-06-16**|**Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models**|Geon Yeong Park et.al.|[2306.09869](http://arxiv.org/abs/2306.09869)|**[link](https://github.com/energyattention/energy-based-crossattention)**|
 |**2023-06-15**|**Crowd-Powered Photo Enhancement Featuring an Active Learning Based Local Filter**|Satoshi Kosugi et.al.|[2306.09321](http://arxiv.org/abs/2306.09321)|**[link](https://github.com/satoshi-kosugi/crowd-powered)**|
 |**2023-06-15**|**Exploring the Application of Large-scale Pre-trained Models on Adverse Weather Removal**|Zhentao Tan et.al.|[2306.09008](http://arxiv.org/abs/2306.09008)|null|
 |**2023-06-16**|**Searching for the Fakes: Efficient Neural Architecture Search for General Face Forgery Detection**|Xiao Jin et.al.|[2306.08830](http://arxiv.org/abs/2306.08830)|null|
@@ -1415,6 +1424,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-23**|**PP-GAN : Style Transfer from Korean Portraits to ID Photos Using Landmark Extractor with GAN**|Jongwook Si et.al.|[2306.13418](http://arxiv.org/abs/2306.13418)|null|
 |**2023-06-21**|**Symmetry making and symmetry breaking in cortex A collective portrait of ensemble excitation and inhibition**|Nima Dehghani et.al.|[2306.11965](http://arxiv.org/abs/2306.11965)|null|
 |**2023-06-19**|**Chiral symmetry breaking and phase diagram of dual chiral density wave in a rotating quark matter**|S. M. A. Tabatabaee et.al.|[2306.11753](http://arxiv.org/abs/2306.11753)|null|
 |**2023-06-15**|**Seeing the World through Your Eyes**|Hadi Alzayer et.al.|[2306.09348](http://arxiv.org/abs/2306.09348)|null|

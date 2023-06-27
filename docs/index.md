@@ -39,6 +39,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-26**|**A Simple and Effective Baseline for Attentional Generative Adversarial Networks**|Mingyu Jin et.al.|[2306.14708](http://arxiv.org/abs/2306.14708)|**[link](https://github.com/jmyissb/SEAttnGAN)**|
+|**2023-06-26**|**DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing**|Yujun Shi et.al.|[2306.14435](http://arxiv.org/abs/2306.14435)|null|
+|**2023-06-24**|**Creating Realistic Anterior Segment Optical Coherence Tomography Images using Generative Adversarial Networks**|Jad F. Assaf et.al.|[2306.14058](http://arxiv.org/abs/2306.14058)|null|
+|**2023-06-24**|**Radio Generation Using Generative Adversarial Networks with An Unrolled Design**|Weidong Wang et.al.|[2306.13893](http://arxiv.org/abs/2306.13893)|null|
 |**2023-06-23**|**A New Paradigm for Generative Adversarial Networks based on Randomized Decision Rules**|Sehwan Kim et.al.|[2306.13641](http://arxiv.org/abs/2306.13641)|**[link](https://github.com/sehwankimstat/ebgan)**|
 |**2023-06-23**|**Machine Learning methods for simulating particle response in the Zero Degree Calorimeter at the ALICE experiment, CERN**|Jan Dubiński et.al.|[2306.13606](http://arxiv.org/abs/2306.13606)|null|
 |**2023-06-23**|**Penalty Gradient Normalization for Generative Adversarial Networks**|Tian Xia et.al.|[2306.13576](http://arxiv.org/abs/2306.13576)|**[link](https://github.com/sumorday/edgan-pytorch)**|
@@ -386,6 +390,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-26**|**Restart Sampling for Improving Generative Processes**|Yilun Xu et.al.|[2306.14878](http://arxiv.org/abs/2306.14878)|**[link](https://github.com/newbeeer/diffusion_restart_sampling)**|
+|**2023-06-26**|**ProtoDiff: Learning to Learn Prototypical Networks by Task-Guided Diffusion**|Yingjun Du et.al.|[2306.14770](http://arxiv.org/abs/2306.14770)|null|
+|**2023-06-26**|**DiffSketcher: Text Guided Vector Sketch Synthesis through Latent Diffusion Models**|Ximing Xing et.al.|[2306.14685](http://arxiv.org/abs/2306.14685)|null|
+|**2023-06-26**|**A-STAR: Test-time Attention Segregation and Retention for Text-to-image Synthesis**|Aishwarya Agarwal et.al.|[2306.14544](http://arxiv.org/abs/2306.14544)|null|
+|**2023-06-26**|**DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing**|Yujun Shi et.al.|[2306.14435](http://arxiv.org/abs/2306.14435)|null|
+|**2023-06-26**|**Decompose and Realign: Tackling Condition Misalignment in Text-to-Image Diffusion Models**|Luozhou Wang et.al.|[2306.14408](http://arxiv.org/abs/2306.14408)|null|
+|**2023-06-25**|**CDiffMR: Can We Replace the Gaussian Noise with K-Space Undersampling for Fast MRI?**|Jiahao Huang et.al.|[2306.14350](http://arxiv.org/abs/2306.14350)|null|
+|**2023-06-25**|**Diffusion Model Based Low-Light Image Enhancement for Space Satellite**|Yiman Zhu et.al.|[2306.14227](http://arxiv.org/abs/2306.14227)|null|
+|**2023-06-25**|**DomainStudio: Fine-Tuning Diffusion Models for Domain-Driven Image Generation using Limited Data**|Jingyuan Zhu et.al.|[2306.14153](http://arxiv.org/abs/2306.14153)|null|
+|**2023-06-25**|**YOLO-based Semantic Communication with Generative AI-aided Resource Allocation for Digital Twins Construction**|Baoxia Du et.al.|[2306.14138](http://arxiv.org/abs/2306.14138)|null|
+|**2023-06-25**|**DiffMix: Diffusion Model-based Data Synthesis for Nuclei Segmentation and Classification in Imbalanced Pathology Image Datasets**|Hyun-Jic Oh et.al.|[2306.14132](http://arxiv.org/abs/2306.14132)|null|
+|**2023-06-24**|**SEEDS: Emulation of Weather Forecast Ensembles with Diffusion Models**|Lizao Li et.al.|[2306.14066](http://arxiv.org/abs/2306.14066)|null|
+|**2023-06-24**|**DiffDTM: A conditional structure-free framework for bioactive molecules generation targeted for dual proteins**|Lei Huang et.al.|[2306.13957](http://arxiv.org/abs/2306.13957)|null|
+|**2023-06-23**|**The role of convection in the limit shape of the critical front profile for Born-Infeld diffusion models**|Maurizio Garrione et.al.|[2306.13806](http://arxiv.org/abs/2306.13806)|null|
+|**2023-06-23**|**Asymptotic study of critical wave fronts for parameter-dependent Born-Infeld models: physically predicted behaviors and new phenomena**|Maurizio Garrione et.al.|[2306.13788](http://arxiv.org/abs/2306.13788)|null|
+|**2023-06-23**|**Zero-shot spatial layout conditioning for text-to-image diffusion models**|Guillaume Couairon et.al.|[2306.13754](http://arxiv.org/abs/2306.13754)|null|
+|**2023-06-23**|**Decoupled Diffusion Models with Explicit Transition Probability**|Yuhang Huang et.al.|[2306.13720](http://arxiv.org/abs/2306.13720)|null|
 |**2023-06-23**|**DreamEditor: Text-Driven 3D Scene Editing with Neural Fields**|Jingyu Zhuang et.al.|[2306.13455](http://arxiv.org/abs/2306.13455)|null|
 |**2023-06-23**|**DiffInfinite: Large Mask-Image Synthesis via Parallel Random Patch Diffusion in Histopathology**|Marco Aversa et.al.|[2306.13384](http://arxiv.org/abs/2306.13384)|null|
 |**2023-06-22**|**Directional diffusion models for graph representation learning**|Run Yang et.al.|[2306.13210](http://arxiv.org/abs/2306.13210)|null|
@@ -1116,6 +1137,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-26**|**DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing**|Yujun Shi et.al.|[2306.14435](http://arxiv.org/abs/2306.14435)|null|
+|**2023-06-25**|**Faster Segment Anything: Towards Lightweight SAM for Mobile Applications**|Chaoning Zhang et.al.|[2306.14289](http://arxiv.org/abs/2306.14289)|**[link](https://github.com/chaoningzhang/mobilesam)**|
 |**2023-06-23**|**ProRes: Exploring Degradation-aware Visual Prompt for Universal Image Restoration**|Jiaqi Ma et.al.|[2306.13653](http://arxiv.org/abs/2306.13653)|**[link](https://github.com/leonmakise/prores)**|
 |**2023-06-22**|**PromptIR: Prompting for All-in-One Blind Image Restoration**|Vaishnav Potlapalli et.al.|[2306.13090](http://arxiv.org/abs/2306.13090)|**[link](https://github.com/va1shn9v/promptir)**|
 |**2023-06-22**|**Continuous Layout Editing of Single Images with Diffusion Models**|Zhiyuan Zhang et.al.|[2306.13078](http://arxiv.org/abs/2306.13078)|null|
@@ -1424,6 +1447,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-26**|**Deep Learning for Cancer Prognosis Prediction Using Portrait Photos by StyleGAN Embedding**|Amr Hagag et.al.|[2306.14596](http://arxiv.org/abs/2306.14596)|null|
 |**2023-06-23**|**PP-GAN : Style Transfer from Korean Portraits to ID Photos Using Landmark Extractor with GAN**|Jongwook Si et.al.|[2306.13418](http://arxiv.org/abs/2306.13418)|null|
 |**2023-06-21**|**Symmetry making and symmetry breaking in cortex A collective portrait of ensemble excitation and inhibition**|Nima Dehghani et.al.|[2306.11965](http://arxiv.org/abs/2306.11965)|null|
 |**2023-06-19**|**Chiral symmetry breaking and phase diagram of dual chiral density wave in a rotating quark matter**|S. M. A. Tabatabaee et.al.|[2306.11753](http://arxiv.org/abs/2306.11753)|null|

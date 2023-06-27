@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.26
+## Updated on 2023.06.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -1128,7 +1128,7 @@ layout: default
 |**2023-06-17**|**Image Harmonization with Diffusion Model**|Jiajie Li et.al.|[2306.10441](http://arxiv.org/abs/2306.10441)|null|
 |**2023-06-22**|**Enlighten Anything: When Segment Anything Model Meets Low-Light Image Enhancement**|Qihan Zhao et.al.|[2306.10286](http://arxiv.org/abs/2306.10286)|**[link](https://github.com/zhangbaijin/enlighten-anything)**|
 |**2023-06-16**|**MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing**|Kai Zhang et.al.|[2306.10012](http://arxiv.org/abs/2306.10012)|**[link](https://github.com/osu-nlp-group/magicbrush)**|
-|**2023-06-16**|**Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models**|Geon Yeong Park et.al.|[2306.09869](http://arxiv.org/abs/2306.09869)|**[link](https://github.com/energyattention/energy-based-crossattention)**|
+|**2023-06-26**|**Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models**|Geon Yeong Park et.al.|[2306.09869](http://arxiv.org/abs/2306.09869)|**[link](https://github.com/energyattention/energy-based-crossattention)**|
 |**2023-06-15**|**Crowd-Powered Photo Enhancement Featuring an Active Learning Based Local Filter**|Satoshi Kosugi et.al.|[2306.09321](http://arxiv.org/abs/2306.09321)|**[link](https://github.com/satoshi-kosugi/crowd-powered)**|
 |**2023-06-15**|**Exploring the Application of Large-scale Pre-trained Models on Adverse Weather Removal**|Zhentao Tan et.al.|[2306.09008](http://arxiv.org/abs/2306.09008)|null|
 |**2023-06-16**|**Searching for the Fakes: Efficient Neural Architecture Search for General Face Forgery Detection**|Xiao Jin et.al.|[2306.08830](http://arxiv.org/abs/2306.08830)|null|

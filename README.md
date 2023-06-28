@@ -51,6 +51,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-27**|**Style-transfer based Speech and Audio-visual Scene Understanding for Robot Action Sequence Acquisition from Videos**|Chiori Hori et.al.|[2306.15644](http://arxiv.org/abs/2306.15644)|null|
 |**2023-06-26**|**A Simple and Effective Baseline for Attentional Generative Adversarial Networks**|Mingyu Jin et.al.|[2306.14708](http://arxiv.org/abs/2306.14708)|**[link](https://github.com/jmyissb/SEAttnGAN)**|
 |**2023-06-27**|**DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing**|Yujun Shi et.al.|[2306.14435](http://arxiv.org/abs/2306.14435)|null|
 |**2023-06-24**|**Creating Realistic Anterior Segment Optical Coherence Tomography Images using Generative Adversarial Networks**|Jad F. Assaf et.al.|[2306.14058](http://arxiv.org/abs/2306.14058)|null|
@@ -1153,6 +1154,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-27**|**Cutting-Edge Techniques for Depth Map Super-Resolution**|Ryan Peterson et.al.|[2306.15244](http://arxiv.org/abs/2306.15244)|null|
 |**2023-06-27**|**DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing**|Yujun Shi et.al.|[2306.14435](http://arxiv.org/abs/2306.14435)|null|
 |**2023-06-25**|**Faster Segment Anything: Towards Lightweight SAM for Mobile Applications**|Chaoning Zhang et.al.|[2306.14289](http://arxiv.org/abs/2306.14289)|**[link](https://github.com/chaoningzhang/mobilesam)**|
 |**2023-06-23**|**ProRes: Exploring Degradation-aware Visual Prompt for Universal Image Restoration**|Jiaqi Ma et.al.|[2306.13653](http://arxiv.org/abs/2306.13653)|**[link](https://github.com/leonmakise/prores)**|
@@ -1469,6 +1471,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-27**|**Free-style and Fast 3D Portrait Synthesis**|Tianxiang Ma et.al.|[2306.15419](http://arxiv.org/abs/2306.15419)|null|
 |**2023-06-26**|**Deep Learning for Cancer Prognosis Prediction Using Portrait Photos by StyleGAN Embedding**|Amr Hagag et.al.|[2306.14596](http://arxiv.org/abs/2306.14596)|null|
 |**2023-06-23**|**PP-GAN : Style Transfer from Korean Portraits to ID Photos Using Landmark Extractor with GAN**|Jongwook Si et.al.|[2306.13418](http://arxiv.org/abs/2306.13418)|null|
 |**2023-06-21**|**Symmetry making and symmetry breaking in cortex A collective portrait of ensemble excitation and inhibition**|Nima Dehghani et.al.|[2306.11965](http://arxiv.org/abs/2306.11965)|null|

@@ -39,6 +39,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-26**|**Procedural content generation of puzzle games using conditional generative adversarial networks**|Andreas Hald et.al.|[2306.15696](http://arxiv.org/abs/2306.15696)|null|
 |**2023-06-27**|**Style-transfer based Speech and Audio-visual Scene Understanding for Robot Action Sequence Acquisition from Videos**|Chiori Hori et.al.|[2306.15644](http://arxiv.org/abs/2306.15644)|null|
 |**2023-06-26**|**A Simple and Effective Baseline for Attentional Generative Adversarial Networks**|Mingyu Jin et.al.|[2306.14708](http://arxiv.org/abs/2306.14708)|**[link](https://github.com/jmyissb/SEAttnGAN)**|
 |**2023-06-27**|**DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing**|Yujun Shi et.al.|[2306.14435](http://arxiv.org/abs/2306.14435)|null|
@@ -391,6 +392,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-28**|**DoseDiff: Distance-aware Diffusion Model for Dose Prediction in Radiotherapy**|Yiwen Zhang et.al.|[2306.16324](http://arxiv.org/abs/2306.16324)|null|
+|**2023-06-28**|**SVNR: Spatially-variant Noise Removal with Denoising Diffusion**|Naama Pearl et.al.|[2306.16052](http://arxiv.org/abs/2306.16052)|null|
+|**2023-06-28**|**GeXSe (Generative Explanatory Sensor System): An Interpretable Deep Generative Model for Human Activity Recognition in Smart Spaces**|Yuan Sun et.al.|[2306.15857](http://arxiv.org/abs/2306.15857)|null|
+|**2023-06-27**|**Easing Color Shifts in Score-Based Diffusion Models**|Katherine Deck et.al.|[2306.15832](http://arxiv.org/abs/2306.15832)|**[link](https://github.com/bischtob/easing-color-shifts)**|
 |**2023-06-26**|**Restart Sampling for Improving Generative Processes**|Yilun Xu et.al.|[2306.14878](http://arxiv.org/abs/2306.14878)|**[link](https://github.com/newbeeer/diffusion_restart_sampling)**|
 |**2023-06-26**|**ProtoDiff: Learning to Learn Prototypical Networks by Task-Guided Diffusion**|Yingjun Du et.al.|[2306.14770](http://arxiv.org/abs/2306.14770)|null|
 |**2023-06-26**|**DiffSketcher: Text Guided Vector Sketch Synthesis through Latent Diffusion Models**|Ximing Xing et.al.|[2306.14685](http://arxiv.org/abs/2306.14685)|null|

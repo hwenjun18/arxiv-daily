@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.28
+## Updated on 2023.06.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -1449,8 +1449,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-06-27**|**Free-style and Fast 3D Portrait Synthesis**|Tianxiang Ma et.al.|[2306.15419](http://arxiv.org/abs/2306.15419)|null|
-|**2023-06-26**|**Deep Learning for Cancer Prognosis Prediction Using Portrait Photos by StyleGAN Embedding**|Amr Hagag et.al.|[2306.14596](http://arxiv.org/abs/2306.14596)|null|
+|**2023-06-28**|**Free-style and Fast 3D Portrait Synthesis**|Tianxiang Ma et.al.|[2306.15419](http://arxiv.org/abs/2306.15419)|null|
+|**2023-06-28**|**Deep Learning for Cancer Prognosis Prediction Using Portrait Photos by StyleGAN Embedding**|Amr Hagag et.al.|[2306.14596](http://arxiv.org/abs/2306.14596)|null|
 |**2023-06-23**|**PP-GAN : Style Transfer from Korean Portraits to ID Photos Using Landmark Extractor with GAN**|Jongwook Si et.al.|[2306.13418](http://arxiv.org/abs/2306.13418)|null|
 |**2023-06-21**|**Symmetry making and symmetry breaking in cortex A collective portrait of ensemble excitation and inhibition**|Nima Dehghani et.al.|[2306.11965](http://arxiv.org/abs/2306.11965)|null|
 |**2023-06-19**|**Chiral symmetry breaking and phase diagram of dual chiral density wave in a rotating quark matter**|S. M. A. Tabatabaee et.al.|[2306.11753](http://arxiv.org/abs/2306.11753)|null|

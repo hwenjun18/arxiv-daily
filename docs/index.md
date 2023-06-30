@@ -39,6 +39,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-29**|**Synthetic Demographic Data Generation for Card Fraud Detection Using GANs**|Shuo Wang et.al.|[2306.17109](http://arxiv.org/abs/2306.17109)|null|
+|**2023-06-29**|**ICDaeLST: Intensity-Controllable Detail Attention-enhanced for Lightweight Fast Style Transfer**|Jiang Shi Qi et.al.|[2306.16846](http://arxiv.org/abs/2306.16846)|null|
 |**2023-06-26**|**Procedural content generation of puzzle games using conditional generative adversarial networks**|Andreas Hald et.al.|[2306.15696](http://arxiv.org/abs/2306.15696)|null|
 |**2023-06-27**|**Style-transfer based Speech and Audio-visual Scene Understanding for Robot Action Sequence Acquisition from Videos**|Chiori Hori et.al.|[2306.15644](http://arxiv.org/abs/2306.15644)|null|
 |**2023-06-26**|**A Simple and Effective Baseline for Attentional Generative Adversarial Networks**|Mingyu Jin et.al.|[2306.14708](http://arxiv.org/abs/2306.14708)|**[link](https://github.com/jmyissb/SEAttnGAN)**|
@@ -392,6 +394,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-29**|**Generate Anything Anywhere in Any Scene**|Yuheng Li et.al.|[2306.17154](http://arxiv.org/abs/2306.17154)|null|
+|**2023-06-29**|**Filtered-Guided Diffusion: Fast Filter Guidance for Black-Box Diffusion Models**|Zeqi Gu et.al.|[2306.17141](http://arxiv.org/abs/2306.17141)|null|
+|**2023-06-29**|**ID-Pose: Sparse-view Camera Pose Estimation by Inverting Diffusion Models**|Weihao Cheng et.al.|[2306.17140](http://arxiv.org/abs/2306.17140)|null|
+|**2023-06-29**|**Michelangelo: Conditional 3D Shape Generation based on Shape-Image-Text Aligned Latent Representation**|Zibo Zhao et.al.|[2306.17115](http://arxiv.org/abs/2306.17115)|null|
+|**2023-06-29**|**Learning Structure-Guided Diffusion Model for 2D Human Pose Estimation**|Zhongwei Qiu et.al.|[2306.17074](http://arxiv.org/abs/2306.17074)|null|
+|**2023-06-29**|**One-2-3-45: Any Single Image to 3D Mesh in 45 Seconds without Per-Shape Optimization**|Minghua Liu et.al.|[2306.16928](http://arxiv.org/abs/2306.16928)|null|
+|**2023-06-28**|**PFB-Diff: Progressive Feature Blending Diffusion for Text-driven Image Editing**|Wenjing Huang et.al.|[2306.16894](http://arxiv.org/abs/2306.16894)|null|
+|**2023-06-29**|**SaGess: Sampling Graph Denoising Diffusion Model for Scalable Graph Generation**|Stratis Limnios et.al.|[2306.16827](http://arxiv.org/abs/2306.16827)|null|
+|**2023-06-29**|**Graph Denoising Diffusion for Inverse Protein Folding**|Kai Yi et.al.|[2306.16819](http://arxiv.org/abs/2306.16819)|null|
+|**2023-06-29**|**DiffusionSTR: Diffusion Model for Scene Text Recognition**|Masato Fujitake et.al.|[2306.16707](http://arxiv.org/abs/2306.16707)|null|
+|**2023-06-29**|**Self-Supervised MRI Reconstruction with Unrolled Diffusion Models**|Yilmaz Korkmaz et.al.|[2306.16654](http://arxiv.org/abs/2306.16654)|**[link](https://github.com/yilmazkorkmaz1/ssdiffrecon)**|
 |**2023-06-28**|**DoseDiff: Distance-aware Diffusion Model for Dose Prediction in Radiotherapy**|Yiwen Zhang et.al.|[2306.16324](http://arxiv.org/abs/2306.16324)|null|
 |**2023-06-28**|**SVNR: Spatially-variant Noise Removal with Denoising Diffusion**|Naama Pearl et.al.|[2306.16052](http://arxiv.org/abs/2306.16052)|null|
 |**2023-06-28**|**GeXSe (Generative Explanatory Sensor System): An Interpretable Deep Generative Model for Human Activity Recognition in Smart Spaces**|Yuan Sun et.al.|[2306.15857](http://arxiv.org/abs/2306.15857)|null|
@@ -1143,6 +1156,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-28**|**PFB-Diff: Progressive Feature Blending Diffusion for Text-driven Image Editing**|Wenjing Huang et.al.|[2306.16894](http://arxiv.org/abs/2306.16894)|null|
 |**2023-06-27**|**Cutting-Edge Techniques for Depth Map Super-Resolution**|Ryan Peterson et.al.|[2306.15244](http://arxiv.org/abs/2306.15244)|null|
 |**2023-06-27**|**DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing**|Yujun Shi et.al.|[2306.14435](http://arxiv.org/abs/2306.14435)|null|
 |**2023-06-25**|**Faster Segment Anything: Towards Lightweight SAM for Mobile Applications**|Chaoning Zhang et.al.|[2306.14289](http://arxiv.org/abs/2306.14289)|**[link](https://github.com/chaoningzhang/mobilesam)**|
@@ -1332,6 +1346,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-28**|**Envisioning a Next Generation Extended Reality Conferencing System with Efficient Photorealistic Human Rendering**|Chuanyue Shen et.al.|[2306.16541](http://arxiv.org/abs/2306.16541)|null|
 |**2023-06-19**|**Renderers are Good Zero-Shot Representation Learners: Exploring Diffusion Latents for Metric Learning**|Michael Tang et.al.|[2306.10721](http://arxiv.org/abs/2306.10721)|**[link](https://github.com/michaelwilliamtang/golden-retriever)**|
 |**2023-06-16**|**Unsupervised Learning of Style-Aware Facial Animation from Real Acting Performances**|Wolfgang Paier et.al.|[2306.10006](http://arxiv.org/abs/2306.10006)|null|
 |**2023-06-16**|**Neural Volumetric Reconstruction for Coherent Synthetic Aperture Sonar**|Albert W. Reed et.al.|[2306.09909](http://arxiv.org/abs/2306.09909)|null|
@@ -1454,6 +1469,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-29**|**PVP: Personalized Video Prior for Editable Dynamic Portraits using StyleGAN**|Kai-En Lin et.al.|[2306.17123](http://arxiv.org/abs/2306.17123)|null|
 |**2023-06-28**|**Free-style and Fast 3D Portrait Synthesis**|Tianxiang Ma et.al.|[2306.15419](http://arxiv.org/abs/2306.15419)|null|
 |**2023-06-28**|**Deep Learning for Cancer Prognosis Prediction Using Portrait Photos by StyleGAN Embedding**|Amr Hagag et.al.|[2306.14596](http://arxiv.org/abs/2306.14596)|null|
 |**2023-06-23**|**PP-GAN : Style Transfer from Korean Portraits to ID Photos Using Landmark Extractor with GAN**|Jongwook Si et.al.|[2306.13418](http://arxiv.org/abs/2306.13418)|null|

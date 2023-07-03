@@ -51,6 +51,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-29**|**Robust Roadside Perception for Autonomous Driving: an Annotation-free Strategy with Synthesized Data**|Rusheng Zhang et.al.|[2306.17302](http://arxiv.org/abs/2306.17302)|null|
+|**2023-06-29**|**TemperatureGAN: Generative Modeling of Regional Atmospheric Temperatures**|Emmanuel Balogun et.al.|[2306.17248](http://arxiv.org/abs/2306.17248)|null|
 |**2023-06-29**|**Synthetic Demographic Data Generation for Card Fraud Detection Using GANs**|Shuo Wang et.al.|[2306.17109](http://arxiv.org/abs/2306.17109)|**[link](https://github.com/mountstonne/dggan)**|
 |**2023-06-29**|**ICDaeLST: Intensity-Controllable Detail Attention-enhanced for Lightweight Fast Style Transfer**|Jiang Shi Qi et.al.|[2306.16846](http://arxiv.org/abs/2306.16846)|null|
 |**2023-06-26**|**Procedural content generation of puzzle games using conditional generative adversarial networks**|Andreas Hald et.al.|[2306.15696](http://arxiv.org/abs/2306.15696)|null|
@@ -408,6 +410,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-30**|**Practical and Asymptotically Exact Conditional Sampling in Diffusion Models**|Luhuan Wu et.al.|[2306.17775](http://arxiv.org/abs/2306.17775)|null|
+|**2023-06-30**|**Content-Preserving Diffusion Model for Unsupervised AS-OCT image Despeckling**|Li Sanqian et.al.|[2306.17717](http://arxiv.org/abs/2306.17717)|null|
+|**2023-06-30**|**Counting Guidance for High Fidelity Text-to-Image Synthesis**|Wonjun Kang et.al.|[2306.17567](http://arxiv.org/abs/2306.17567)|null|
+|**2023-06-30**|**Class-Incremental Learning using Diffusion Model for Distillation and Replay**|Quentin Jodelet et.al.|[2306.17560](http://arxiv.org/abs/2306.17560)|null|
+|**2023-06-29**|**Diff-Foley: Synchronized Video-to-Audio Synthesis with Latent Diffusion Models**|Simian Luo et.al.|[2306.17203](http://arxiv.org/abs/2306.17203)|**[link](https://github.com/luosiallen/Diff-Foley)**|
 |**2023-06-29**|**Generate Anything Anywhere in Any Scene**|Yuheng Li et.al.|[2306.17154](http://arxiv.org/abs/2306.17154)|null|
 |**2023-06-29**|**Filtered-Guided Diffusion: Fast Filter Guidance for Black-Box Diffusion Models**|Zeqi Gu et.al.|[2306.17141](http://arxiv.org/abs/2306.17141)|**[link](https://github.com/jaclyngu/filteredguideddiffusion)**|
 |**2023-06-29**|**ID-Pose: Sparse-view Camera Pose Estimation by Inverting Diffusion Models**|Weihao Cheng et.al.|[2306.17140](http://arxiv.org/abs/2306.17140)|null|
@@ -1172,6 +1179,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-29**|**FarSight: A Physics-Driven Whole-Body Biometric System at Large Distance and Altitude**|Feng Liu et.al.|[2306.17206](http://arxiv.org/abs/2306.17206)|null|
 |**2023-06-28**|**PFB-Diff: Progressive Feature Blending Diffusion for Text-driven Image Editing**|Wenjing Huang et.al.|[2306.16894](http://arxiv.org/abs/2306.16894)|null|
 |**2023-06-27**|**Cutting-Edge Techniques for Depth Map Super-Resolution**|Ryan Peterson et.al.|[2306.15244](http://arxiv.org/abs/2306.15244)|null|
 |**2023-06-27**|**DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing**|Yujun Shi et.al.|[2306.14435](http://arxiv.org/abs/2306.14435)|null|

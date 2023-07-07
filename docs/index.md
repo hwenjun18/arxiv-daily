@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.06
+## Updated on 2023.07.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -45,7 +45,7 @@ layout: default
 |**2023-07-04**|**Approximate, Adapt, Anonymize (3A): a Framework for Privacy Preserving Training Data Release for Machine Learning**|Tamas Madl et.al.|[2307.01875](http://arxiv.org/abs/2307.01875)|null|
 |**2023-07-04**|**Disentanglement in a GAN for Unconditional Speech Synthesis**|Matthew Baas et.al.|[2307.01673](http://arxiv.org/abs/2307.01673)|**[link](https://github.com/rf5/simple-asgan)**|
 |**2023-07-04**|**LEAT: Towards Robust Deepfake Disruption in Real-World Scenarios via Latent Ensemble Attack**|Joonkyo Shim et.al.|[2307.01520](http://arxiv.org/abs/2307.01520)|null|
-|**2023-07-02**|**Unsupervised denoising of Raman spectra with cycle-consistent generative adversarial networks**|Ciaran Bench et.al.|[2307.00513](http://arxiv.org/abs/2307.00513)|null|
+|**2023-07-02**|**Unsupervised denoising of Raman spectra with cycle-consistent generative adversarial networks**|Ciaran Bench et.al.|[2307.00513](http://arxiv.org/abs/2307.00513)|**[link](https://github.com/ciaranbench/spectral-denoising-cyclegan)**|
 |**2023-07-01**|**CasTGAN: Cascaded Generative Adversarial Network for Realistic Tabular Data Synthesis**|Abdallah Alshantti et.al.|[2307.00384](http://arxiv.org/abs/2307.00384)|**[link](https://github.com/abedshantti/castgan)**|
 |**2023-07-01**|**StyleStegan: Leak-free Style Transfer Based on Feature Steganography**|Xiujian Liang et.al.|[2307.00225](http://arxiv.org/abs/2307.00225)|null|
 |**2023-07-01**|**Re-Think and Re-Design Graph Neural Networks in Spaces of Continuous Graph Diffusion Functionals**|Tingting Dan et.al.|[2307.00222](http://arxiv.org/abs/2307.00222)|null|
@@ -55,7 +55,7 @@ layout: default
 |**2023-06-29**|**ICDaeLST: Intensity-Controllable Detail Attention-enhanced for Lightweight Fast Style Transfer**|Jiang Shi Qi et.al.|[2306.16846](http://arxiv.org/abs/2306.16846)|null|
 |**2023-06-26**|**Procedural content generation of puzzle games using conditional generative adversarial networks**|Andreas Hald et.al.|[2306.15696](http://arxiv.org/abs/2306.15696)|null|
 |**2023-06-27**|**Style-transfer based Speech and Audio-visual Scene Understanding for Robot Action Sequence Acquisition from Videos**|Chiori Hori et.al.|[2306.15644](http://arxiv.org/abs/2306.15644)|null|
-|**2023-06-26**|**A Simple and Effective Baseline for Attentional Generative Adversarial Networks**|Mingyu Jin et.al.|[2306.14708](http://arxiv.org/abs/2306.14708)|**[link](https://github.com/jmyissb/SEAttnGAN)**|
+|**2023-07-06**|**A Simple and Effective Baseline for Attentional Generative Adversarial Networks**|Mingyu Jin et.al.|[2306.14708](http://arxiv.org/abs/2306.14708)|**[link](https://github.com/jmyissb/SEAttnGAN)**|
 |**2023-06-27**|**DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing**|Yujun Shi et.al.|[2306.14435](http://arxiv.org/abs/2306.14435)|null|
 |**2023-06-24**|**Creating Realistic Anterior Segment Optical Coherence Tomography Images using Generative Adversarial Networks**|Jad F. Assaf et.al.|[2306.14058](http://arxiv.org/abs/2306.14058)|null|
 |**2023-06-24**|**Radio Generation Using Generative Adversarial Networks with An Unrolled Design**|Weidong Wang et.al.|[2306.13893](http://arxiv.org/abs/2306.13893)|null|

@@ -39,6 +39,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-06**|**A Hybrid Quantum-Classical Generative Adversarial Network for Near-Term Quantum Processors**|Albha O'Dwyer Boyle et.al.|[2307.03269](http://arxiv.org/abs/2307.03269)|null|
 |**2023-07-06**|**A Privacy-Preserving Walk in the Latent Space of Generative Models for Medical Applications**|Matteo Pennisi et.al.|[2307.02984](http://arxiv.org/abs/2307.02984)|**[link](https://github.com/perceivelab/plan)**|
 |**2023-07-05**|**DeSRA: Detect and Delete the Artifacts of GAN-based Real-World Super-Resolution Models**|Liangbin Xie et.al.|[2307.02457](http://arxiv.org/abs/2307.02457)|null|
 |**2023-07-05**|**DiffFlow: A Unified SDE Framework for Score-Based Diffusion Models and Generative Adversarial Networks**|Jingwei Zhang et.al.|[2307.02159](http://arxiv.org/abs/2307.02159)|null|
@@ -407,6 +408,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-07**|**Simulation-free Schrödinger bridges via score and flow matching**|Alexander Tong et.al.|[2307.03672](http://arxiv.org/abs/2307.03672)|**[link](https://github.com/atong01/conditional-flow-matching)**|
 |**2023-07-07**|**IPO-LDM: Depth-aided 360-degree Indoor RGB Panorama Outpainting via Latent Diffusion Model**|Tianhao Wu et.al.|[2307.03177](http://arxiv.org/abs/2307.03177)|null|
 |**2023-07-06**|**Patterning of nonlocal transport models in biology: the impact of spatial dimension**|Thomas Jun Jewell et.al.|[2307.03117](http://arxiv.org/abs/2307.03117)|null|
 |**2023-07-06**|**How to Detect Unauthorized Data Usages in Text-to-image Diffusion Models**|Zhenting Wang et.al.|[2307.03108](http://arxiv.org/abs/2307.03108)|null|

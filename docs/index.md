@@ -39,6 +39,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-10**|**Toward a generative modeling analysis of CLAS exclusive $2π$ photoproduction**|T. Alghamdi et.al.|[2307.04450](http://arxiv.org/abs/2307.04450)|null|
+|**2023-07-09**|**Seismic Data Interpolation based on Denoising Diffusion Implicit Models with Resampling**|Xiaoli Wei et.al.|[2307.04226](http://arxiv.org/abs/2307.04226)|null|
+|**2023-07-09**|**DIFF-NST: Diffusion Interleaving For deFormable Neural Style Transfer**|Dan Ruta et.al.|[2307.04157](http://arxiv.org/abs/2307.04157)|null|
+|**2023-07-09**|**A generative flow for conditional sampling via optimal transport**|Jason Alfonso et.al.|[2307.04102](http://arxiv.org/abs/2307.04102)|**[link](https://github.com/giuliotrigila/moonexample)**|
+|**2023-07-07**|**Synthesizing Forestry Images Conditioned on Plant Phenotype Using a Generative Adversarial Network**|Debasmita Pal et.al.|[2307.03789](http://arxiv.org/abs/2307.03789)|null|
 |**2023-07-06**|**A Hybrid Quantum-Classical Generative Adversarial Network for Near-Term Quantum Processors**|Albha O'Dwyer Boyle et.al.|[2307.03269](http://arxiv.org/abs/2307.03269)|null|
 |**2023-07-06**|**A Privacy-Preserving Walk in the Latent Space of Generative Models for Medical Applications**|Matteo Pennisi et.al.|[2307.02984](http://arxiv.org/abs/2307.02984)|**[link](https://github.com/perceivelab/plan)**|
 |**2023-07-05**|**DeSRA: Detect and Delete the Artifacts of GAN-based Real-World Super-Resolution Models**|Liangbin Xie et.al.|[2307.02457](http://arxiv.org/abs/2307.02457)|null|
@@ -408,6 +413,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-10**|**Divide, Evaluate, and Refine: Evaluating and Improving Text-to-Image Alignment with Iterative VQA Feedback**|Jaskirat Singh et.al.|[2307.04749](http://arxiv.org/abs/2307.04749)|null|
+|**2023-07-10**|**Diffusion Policies for Out-of-Distribution Generalization in Offline Reinforcement Learning**|Suzan Ece Ada et.al.|[2307.04726](http://arxiv.org/abs/2307.04726)|null|
+|**2023-07-10**|**AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning**|Yuwei Guo et.al.|[2307.04725](http://arxiv.org/abs/2307.04725)|null|
+|**2023-07-10**|**Timbre transfer using image-to-image denoising diffusion models**|Luca Comanducci et.al.|[2307.04586](http://arxiv.org/abs/2307.04586)|null|
+|**2023-07-10**|**Enhancing Adversarial Robustness via Score-Based Optimization**|Boya Zhang et.al.|[2307.04333](http://arxiv.org/abs/2307.04333)|null|
+|**2023-07-09**|**DIFF-NST: Diffusion Interleaving For deFormable Neural Style Transfer**|Dan Ruta et.al.|[2307.04157](http://arxiv.org/abs/2307.04157)|null|
+|**2023-07-08**|**Measuring the Success of Diffusion Models at Imitating Human Artists**|Stephen Casper et.al.|[2307.04028](http://arxiv.org/abs/2307.04028)|null|
+|**2023-07-08**|**Stimulating the Diffusion Model for Image Denoising via Adaptive Embedding and Ensembling**|Tong Li et.al.|[2307.03992](http://arxiv.org/abs/2307.03992)|null|
+|**2023-07-07**|**Nonresonant scattering of energetic electrons by electromagnetic ion cyclotron waves: spacecraft observations and theoretical framework**|Xin An et.al.|[2307.03795](http://arxiv.org/abs/2307.03795)|null|
+|**2023-07-07**|**Unsupervised 3D out-of-distribution detection with latent diffusion models**|Mark S. Graham et.al.|[2307.03777](http://arxiv.org/abs/2307.03777)|**[link](https://github.com/marksgraham/ddpm-ood)**|
 |**2023-07-07**|**Simulation-free Schrödinger bridges via score and flow matching**|Alexander Tong et.al.|[2307.03672](http://arxiv.org/abs/2307.03672)|**[link](https://github.com/atong01/conditional-flow-matching)**|
 |**2023-07-07**|**IPO-LDM: Depth-aided 360-degree Indoor RGB Panorama Outpainting via Latent Diffusion Model**|Tianhao Wu et.al.|[2307.03177](http://arxiv.org/abs/2307.03177)|null|
 |**2023-07-06**|**Patterning of nonlocal transport models in biology: the impact of spatial dimension**|Thomas Jun Jewell et.al.|[2307.03117](http://arxiv.org/abs/2307.03117)|null|
@@ -1219,6 +1234,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-10**|**FreeDrag: Point Tracking is Not You Need for Interactive Point-based Image Editing**|Pengyang Ling et.al.|[2307.04684](http://arxiv.org/abs/2307.04684)|**[link](https://github.com/lpengyang/freedrag)**|
+|**2023-07-09**|**DIFF-NST: Diffusion Interleaving For deFormable Neural Style Transfer**|Dan Ruta et.al.|[2307.04157](http://arxiv.org/abs/2307.04157)|null|
+|**2023-07-09**|**Latent Graph Attention for Enhanced Spatial Context**|Ayush Singh et.al.|[2307.04149](http://arxiv.org/abs/2307.04149)|null|
 |**2023-07-05**|**DragonDiffusion: Enabling Drag-style Manipulation on Diffusion Models**|Chong Mou et.al.|[2307.02421](http://arxiv.org/abs/2307.02421)|**[link](https://github.com/mc-e/dragondiffusion)**|
 |**2023-07-02**|**LEDITS: Real Image Editing with DDPM Inversion and Semantic Guidance**|Linoy Tsaban et.al.|[2307.00522](http://arxiv.org/abs/2307.00522)|null|
 |**2023-06-29**|**FarSight: A Physics-Driven Whole-Body Biometric System at Large Distance and Altitude**|Feng Liu et.al.|[2306.17206](http://arxiv.org/abs/2306.17206)|null|
@@ -1536,6 +1554,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-08**|**The emergence of dynamic networks from many coupled polar oscillators. A model for Artificial Life**|Alessandro Scirè et.al.|[2307.03993](http://arxiv.org/abs/2307.03993)|null|
 |**2023-07-06**|**Visualization Supporting Talent Portrait Generation:an Empirical Study**|Yuqing Fan et.al.|[2307.02731](http://arxiv.org/abs/2307.02731)|null|
 |**2023-07-04**|**Generating Animatable 3D Cartoon Faces from Single Portraits**|Chuanyu Pan et.al.|[2307.01468](http://arxiv.org/abs/2307.01468)|null|
 |**2023-06-29**|**PVP: Personalized Video Prior for Editable Dynamic Portraits using StyleGAN**|Kai-En Lin et.al.|[2306.17123](http://arxiv.org/abs/2306.17123)|null|

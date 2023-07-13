@@ -51,6 +51,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-12**|**Sem-CS: Semantic CLIPStyler for Text-Based Image Style Transfer**|Chanda Grover Kamra et.al.|[2307.05934](http://arxiv.org/abs/2307.05934)|**[link](https://github.com/chandagrover/sem-cs)**|
+|**2023-07-11**|**Implicit regularisation in stochastic gradient descent: from single-objective to two-player games**|Mihaela Rosca et.al.|[2307.05789](http://arxiv.org/abs/2307.05789)|null|
+|**2023-07-11**|**Line Art Colorization of Fakemon using Generative Adversarial Neural Networks**|Erick Oliveira Rodrigues et.al.|[2307.05760](http://arxiv.org/abs/2307.05760)|null|
+|**2023-07-11**|**Image Reconstruction using Enhanced Vision Transformer**|Nikhil Verma et.al.|[2307.05616](http://arxiv.org/abs/2307.05616)|null|
+|**2023-07-10**|**Substance or Style: What Does Your Image Embedding Know?**|Cyrus Rashtchian et.al.|[2307.05610](http://arxiv.org/abs/2307.05610)|null|
 |**2023-07-11**|**Efficient 3D Articulated Human Generation with Layered Surface Volumes**|Yinghao Xu et.al.|[2307.05462](http://arxiv.org/abs/2307.05462)|null|
 |**2023-07-04**|**SleepEGAN: A GAN-enhanced Ensemble Deep Learning Model for Imbalanced Classification of Sleep Stages**|Xuewei Cheng et.al.|[2307.05362](http://arxiv.org/abs/2307.05362)|null|
 |**2023-07-08**|**A Physics-Informed Low-Shot Learning For sEMG-Based Estimation of Muscle Force and Joint Kinematics**|Yue Shi et.al.|[2307.05361](http://arxiv.org/abs/2307.05361)|null|
@@ -433,6 +438,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-12**|**Exposing the Fake: Effective Diffusion-Generated Images Detection**|Ruipeng Ma et.al.|[2307.06272](http://arxiv.org/abs/2307.06272)|null|
+|**2023-07-12**|**Diffusion Based Multi-Agent Adversarial Tracking**|Sean Ye et.al.|[2307.06244](http://arxiv.org/abs/2307.06244)|null|
+|**2023-07-12**|**Towards Safe Self-Distillation of Internet-Scale Text-to-Image Diffusion Models**|Sanghyun Kim et.al.|[2307.05977](http://arxiv.org/abs/2307.05977)|**[link](https://github.com/nannullna/safe-diffusion)**|
+|**2023-07-11**|**WHFast512: A symplectic N-body integrator for planetary systems optimized with AVX512 instructions**|Pejvak Javaheri et.al.|[2307.05683](http://arxiv.org/abs/2307.05683)|null|
 |**2023-07-07**|**AutoDecoding Latent 3D Diffusion Models**|Evangelos Ntavelis et.al.|[2307.05445](http://arxiv.org/abs/2307.05445)|null|
 |**2023-07-11**|**Metropolis Sampling for Constrained Diffusion Models**|Nic Fishman et.al.|[2307.05439](http://arxiv.org/abs/2307.05439)|null|
 |**2023-07-11**|**Geometric Neural Diffusion Processes**|Emile Mathieu et.al.|[2307.05431](http://arxiv.org/abs/2307.05431)|**[link](https://github.com/cambridge-mlg/neural_diffusion_processes)**|

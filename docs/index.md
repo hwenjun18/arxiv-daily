@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.16
+## Updated on 2023.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -53,7 +53,7 @@ layout: default
 |**2023-07-11**|**Diffusion idea exploration for art generation**|Nikhil Verma et.al.|[2307.04978](http://arxiv.org/abs/2307.04978)|null|
 |**2023-07-11**|**Multi-fidelity Emulator for Cosmological Large Scale 21 cm Lightcone Images: a Few-shot Transfer Learning Approach with GAN**|Kangning Diao et.al.|[2307.04976](http://arxiv.org/abs/2307.04976)|**[link](https://github.com/dkn16/multi-fidel-gan-21cm)**|
 |**2023-07-10**|**Toward a generative modeling analysis of CLAS exclusive $2π$ photoproduction**|T. Alghamdi et.al.|[2307.04450](http://arxiv.org/abs/2307.04450)|null|
-|**2023-07-09**|**Seismic Data Interpolation based on Denoising Diffusion Implicit Models with Resampling**|Xiaoli Wei et.al.|[2307.04226](http://arxiv.org/abs/2307.04226)|null|
+|**2023-07-13**|**Seismic Data Interpolation based on Denoising Diffusion Implicit Models with Resampling**|Xiaoli Wei et.al.|[2307.04226](http://arxiv.org/abs/2307.04226)|null|
 |**2023-07-11**|**DIFF-NST: Diffusion Interleaving For deFormable Neural Style Transfer**|Dan Ruta et.al.|[2307.04157](http://arxiv.org/abs/2307.04157)|null|
 |**2023-07-09**|**A generative flow for conditional sampling via optimal transport**|Jason Alfonso et.al.|[2307.04102](http://arxiv.org/abs/2307.04102)|**[link](https://github.com/giuliotrigila/moonexample)**|
 |**2023-07-07**|**Synthesizing Forestry Images Conditioned on Plant Phenotype Using a Generative Adversarial Network**|Debasmita Pal et.al.|[2307.03789](http://arxiv.org/abs/2307.03789)|null|
@@ -427,7 +427,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-07-13**|**HyperDreamBooth: HyperNetworks for Fast Personalization of Text-to-Image Models**|Nataniel Ruiz et.al.|[2307.06949](http://arxiv.org/abs/2307.06949)|null|
-|**2023-07-13**|**PC-Droid: Faster diffusion and improved quality for particle cloud generation**|Matthew Leigh et.al.|[2307.06836](http://arxiv.org/abs/2307.06836)|null|
+|**2023-07-14**|**PC-Droid: Faster diffusion and improved quality for particle cloud generation**|Matthew Leigh et.al.|[2307.06836](http://arxiv.org/abs/2307.06836)|null|
 |**2023-07-13**|**AvatarFusion: Zero-shot Generation of Clothing-Decoupled 3D Avatars Using 2D Diffusion**|Shuo Huang et.al.|[2307.06526](http://arxiv.org/abs/2307.06526)|null|
 |**2023-07-13**|**Improving Nonalcoholic Fatty Liver Disease Classification Performance With Latent Diffusion Models**|Romain Hardy et.al.|[2307.06507](http://arxiv.org/abs/2307.06507)|null|
 |**2023-07-12**|**Exposing the Fake: Effective Diffusion-Generated Images Detection**|Ruipeng Ma et.al.|[2307.06272](http://arxiv.org/abs/2307.06272)|null|

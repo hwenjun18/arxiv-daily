@@ -39,6 +39,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-17**|**On the Fly Neural Style Smoothing for Risk-Averse Domain Generalization**|Akshay Mehra et.al.|[2307.08551](http://arxiv.org/abs/2307.08551)|**[link](https://github.com/akshaymehra24/riskaversedg)**|
+|**2023-07-17**|**Soft Curriculum for Learning Conditional GANs with Noisy-Labeled and Uncurated Unlabeled Data**|Kai Katsumata et.al.|[2307.08319](http://arxiv.org/abs/2307.08319)|null|
+|**2023-07-17**|**Complexity Matters: Rethinking the Latent Space for Generative Modeling**|Tianyang Hu et.al.|[2307.08283](http://arxiv.org/abs/2307.08283)|null|
+|**2023-07-16**|**Self-Attention Based Generative Adversarial Networks For Unsupervised Video Summarization**|Maria Nektaria Minaidi et.al.|[2307.08145](http://arxiv.org/abs/2307.08145)|null|
+|**2023-07-16**|**Householder Projector for Unsupervised Latent Semantics Discovery**|Yue Song et.al.|[2307.08012](http://arxiv.org/abs/2307.08012)|**[link](https://github.com/kingjamessong/householdergan)**|
+|**2023-07-15**|**Bidirectionally Deformable Motion Modulation For Video-based Human Pose Transfer**|Wing-Yin Yu et.al.|[2307.07754](http://arxiv.org/abs/2307.07754)|**[link](https://github.com/rocketappslab/bdmm)**|
 |**2023-07-14**|**Generative adversarial networks for data-scarce spectral applications**|Juan José García-Esteban et.al.|[2307.07454](http://arxiv.org/abs/2307.07454)|null|
 |**2023-07-13**|**Improving Nonalcoholic Fatty Liver Disease Classification Performance With Latent Diffusion Models**|Romain Hardy et.al.|[2307.06507](http://arxiv.org/abs/2307.06507)|null|
 |**2023-07-12**|**Denoising Simulated Low-Field MRI (70mT) using Denoising Autoencoders (DAE) and Cycle-Consistent Generative Adversarial Networks (Cycle-GAN)**|Fernando Vega et.al.|[2307.06338](http://arxiv.org/abs/2307.06338)|null|
@@ -427,6 +433,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-17**|**Diffusion Models Beat GANs on Image Classification**|Soumik Mukhopadhyay et.al.|[2307.08702](http://arxiv.org/abs/2307.08702)|null|
+|**2023-07-17**|**SEMI-DiffusionInst: A Diffusion Model Based Approach for Semiconductor Defect Classification and Segmentation**|Vic De Ridder et.al.|[2307.08693](http://arxiv.org/abs/2307.08693)|null|
+|**2023-07-17**|**Identity-Preserving Aging of Face Images via Latent Diffusion Models**|Sudipta Banerjee et.al.|[2307.08585](http://arxiv.org/abs/2307.08585)|null|
+|**2023-07-17**|**Synthetic Lagrangian Turbulence by Generative Diffusion Models**|Tianyi Li et.al.|[2307.08529](http://arxiv.org/abs/2307.08529)|null|
+|**2023-07-17**|**Not All Steps are Created Equal: Selective Diffusion Distillation for Image Manipulation**|Luozhou Wang et.al.|[2307.08448](http://arxiv.org/abs/2307.08448)|**[link](https://github.com/andysonys/selective-diffusion-distillation)**|
+|**2023-07-17**|**An Indefensible Attack: Label-Only Model Inversion via Conditional Diffusion Model**|Rongke Liu et.al.|[2307.08424](http://arxiv.org/abs/2307.08424)|null|
+|**2023-07-17**|**Complexity Matters: Rethinking the Latent Space for Generative Modeling**|Tianyang Hu et.al.|[2307.08283](http://arxiv.org/abs/2307.08283)|null|
+|**2023-07-17**|**Manifold-Guided Sampling in Diffusion Models for Unbiased Image Generation**|Xingzhe Su et.al.|[2307.08199](http://arxiv.org/abs/2307.08199)|null|
+|**2023-07-16**|**Solving Inverse Problems with Latent Diffusion Models via Hard Data Consistency**|Bowen Song et.al.|[2307.08123](http://arxiv.org/abs/2307.08123)|null|
+|**2023-07-16**|**Discovering a reaction-diffusion model for Alzheimer's disease by combining PINNs with symbolic regression**|Zhen Zhang et.al.|[2307.08107](http://arxiv.org/abs/2307.08107)|null|
+|**2023-07-16**|**Diffusion to Confusion: Naturalistic Adversarial Patch Generation Based on Diffusion Model for Object Detector**|Shuo-Yen Lin et.al.|[2307.08076](http://arxiv.org/abs/2307.08076)|null|
+|**2023-07-16**|**LafitE: Latent Diffusion Model with Feature Editing for Unsupervised Multi-class Anomaly Detection**|Haonan Yin et.al.|[2307.08059](http://arxiv.org/abs/2307.08059)|null|
+|**2023-07-16**|**Noise-aware Speech Enhancement using Diffusion Probabilistic Model**|Yuchen Hu et.al.|[2307.08029](http://arxiv.org/abs/2307.08029)|**[link](https://github.com/yuchen005/nase)**|
+|**2023-07-15**|**ExposureDiffusion: Learning to Expose for Low-light Image Enhancement**|Yufei Wang et.al.|[2307.07710](http://arxiv.org/abs/2307.07710)|null|
 |**2023-07-14**|**NIFTY: Neural Object Interaction Fields for Guided Human Motion Synthesis**|Nilesh Kulkarni et.al.|[2307.07511](http://arxiv.org/abs/2307.07511)|null|
 |**2023-07-14**|**Inverse Evolution Layers: Physics-informed Regularizers for Deep Neural Networks**|Chaoyu Liu et.al.|[2307.07344](http://arxiv.org/abs/2307.07344)|null|
 |**2023-07-14**|**Multimodal Motion Conditioned Diffusion Model for Skeleton-based Video Anomaly Detection**|Alessandro Flaborea et.al.|[2307.07205](http://arxiv.org/abs/2307.07205)|null|
@@ -1268,6 +1288,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-17**|**CLIP-Guided StyleGAN Inversion for Text-Driven Real Image Editing**|Ahmet Canberk Baykal et.al.|[2307.08397](http://arxiv.org/abs/2307.08397)|null|
+|**2023-07-16**|**LUCYD: A Feature-Driven Richardson-Lucy Deconvolution Network**|Tomáš Chobola et.al.|[2307.07998](http://arxiv.org/abs/2307.07998)|**[link](https://github.com/ctom2/lucyd-deconvolution)**|
+|**2023-07-15**|**Can Pre-Trained Text-to-Image Models Generate Visual Goals for Reinforcement Learning?**|Jialu Gao et.al.|[2307.07837](http://arxiv.org/abs/2307.07837)|null|
+|**2023-07-15**|**Adaptive Nonlinear Latent Transformation for Conditional Face Editing**|Zhizhong Huang et.al.|[2307.07790](http://arxiv.org/abs/2307.07790)|null|
+|**2023-07-15**|**DRM-IR: Task-Adaptive Deep Unfolding Network for All-In-One Image Restoration**|Yuanshuo Cheng et.al.|[2307.07688](http://arxiv.org/abs/2307.07688)|null|
 |**2023-07-10**|**FreeDrag: Point Tracking is Not You Need for Interactive Point-based Image Editing**|Pengyang Ling et.al.|[2307.04684](http://arxiv.org/abs/2307.04684)|**[link](https://github.com/lpengyang/freedrag)**|
 |**2023-07-11**|**DIFF-NST: Diffusion Interleaving For deFormable Neural Style Transfer**|Dan Ruta et.al.|[2307.04157](http://arxiv.org/abs/2307.04157)|null|
 |**2023-07-12**|**Latent Graph Attention for Enhanced Spatial Context**|Ayush Singh et.al.|[2307.04149](http://arxiv.org/abs/2307.04149)|null|
@@ -1589,6 +1614,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-14**|**Uncovering Local Integrability in Quantum Many-Body Dynamics**|Oles Shtanko et.al.|[2307.07552](http://arxiv.org/abs/2307.07552)|null|
 |**2023-07-13**|**Comment on predator-prey dynamical behavior and stability with square root functional response**|Kendall H. Bearden et.al.|[2307.06793](http://arxiv.org/abs/2307.06793)|null|
 |**2023-07-12**|**My3DGen: Building Lightweight Personalized 3D Generative Model**|Luchao Qi et.al.|[2307.05468](http://arxiv.org/abs/2307.05468)|null|
 |**2023-07-08**|**The emergence of dynamic networks from many coupled polar oscillators. A model for Artificial Life**|Alessandro Scirè et.al.|[2307.03993](http://arxiv.org/abs/2307.03993)|null|

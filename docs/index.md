@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.19
+## Updated on 2023.07.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -39,7 +39,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-07-18**|**A comparative analysis of SR-GAN models**|Fatemeh Rezapoor Nikroo et.al.|[2307.09456](http://arxiv.org/abs/2307.09456)|null|
+|**2023-07-19**|**A comparative analysis of SRGAN models**|Fatemeh Rezapoor Nikroo et.al.|[2307.09456](http://arxiv.org/abs/2307.09456)|null|
 |**2023-07-18**|**SLMGAN: Exploiting Speech Language Model Representations for Unsupervised Zero-Shot Voice Conversion in GANs**|Yinghao Aaron Li et.al.|[2307.09435](http://arxiv.org/abs/2307.09435)|null|
 |**2023-07-18**|**Face-PAST: Facial Pose Awareness and Style Transfer Networks**|Sunder Ali Khowaja et.al.|[2307.09020](http://arxiv.org/abs/2307.09020)|null|
 |**2023-07-17**|**Harnessing the Power of AI based Image Generation Model DALLE 2 in Agricultural Settings**|Ranjan Sapkota et.al.|[2307.08789](http://arxiv.org/abs/2307.08789)|null|
@@ -444,7 +444,7 @@ layout: default
 |**2023-07-17**|**Diffusion Models Beat GANs on Image Classification**|Soumik Mukhopadhyay et.al.|[2307.08702](http://arxiv.org/abs/2307.08702)|null|
 |**2023-07-17**|**SEMI-DiffusionInst: A Diffusion Model Based Approach for Semiconductor Defect Classification and Segmentation**|Vic De Ridder et.al.|[2307.08693](http://arxiv.org/abs/2307.08693)|null|
 |**2023-07-17**|**Identity-Preserving Aging of Face Images via Latent Diffusion Models**|Sudipta Banerjee et.al.|[2307.08585](http://arxiv.org/abs/2307.08585)|null|
-|**2023-07-17**|**Synthetic Lagrangian Turbulence by Generative Diffusion Models**|Tianyi Li et.al.|[2307.08529](http://arxiv.org/abs/2307.08529)|null|
+|**2023-07-17**|**Synthetic Lagrangian Turbulence by Generative Diffusion Models**|Tianyi Li et.al.|[2307.08529](http://arxiv.org/abs/2307.08529)|**[link](https://github.com/smartturb/diffusion-lagr)**|
 |**2023-07-17**|**Not All Steps are Created Equal: Selective Diffusion Distillation for Image Manipulation**|Luozhou Wang et.al.|[2307.08448](http://arxiv.org/abs/2307.08448)|**[link](https://github.com/andysonys/selective-diffusion-distillation)**|
 |**2023-07-18**|**Unstoppable Attack: Label-Only Model Inversion via Conditional Diffusion Model**|Rongke Liu et.al.|[2307.08424](http://arxiv.org/abs/2307.08424)|null|
 |**2023-07-17**|**Complexity Matters: Rethinking the Latent Space for Generative Modeling**|Tianyang Hu et.al.|[2307.08283](http://arxiv.org/abs/2307.08283)|null|
@@ -1626,7 +1626,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-07-18**|**Efficient Region-Aware Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis**|Jiahe Li et.al.|[2307.09323](http://arxiv.org/abs/2307.09323)|**[link](https://github.com/fictionarry/er-nerf)**|
-|**2023-07-18**|**OPHAvatars: One-shot Photo-realistic Head Avatars**|Shaoxu Li et.al.|[2307.09153](http://arxiv.org/abs/2307.09153)|null|
+|**2023-07-19**|**OPHAvatars: One-shot Photo-realistic Head Avatars**|Shaoxu Li et.al.|[2307.09153](http://arxiv.org/abs/2307.09153)|**[link](https://github.com/lsx0101/ophavatars)**|
 |**2023-07-18**|**Towards Authentic Face Restoration with Iterative Diffusion Models and Beyond**|Yang Zhao et.al.|[2307.08996](http://arxiv.org/abs/2307.08996)|null|
 |**2023-07-17**|**Codimension-Two Bifurcations of an SIR-Type Model for COVID-19 and Their Epidemiological Implications**|Livia Owen et.al.|[2307.08892](http://arxiv.org/abs/2307.08892)|null|
 |**2023-07-14**|**Uncovering Local Integrability in Quantum Many-Body Dynamics**|Oles Shtanko et.al.|[2307.07552](http://arxiv.org/abs/2307.07552)|null|

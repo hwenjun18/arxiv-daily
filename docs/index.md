@@ -39,6 +39,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-20**|**BlendFace: Re-designing Identity Encoders for Face-Swapping**|Kaede Shiohara et.al.|[2307.10854](http://arxiv.org/abs/2307.10854)|**[link](https://github.com/mapooon/blendface)**|
+|**2023-07-20**|**Enhancing Job Recommendation through LLM-based Generative Adversarial Networks**|Yingpeng Du et.al.|[2307.10747](http://arxiv.org/abs/2307.10747)|null|
 |**2023-07-19**|**Make-A-Volume: Leveraging Latent Diffusion Models for Cross-Modality 3D Brain MRI Synthesis**|Lingting Zhu et.al.|[2307.10094](http://arxiv.org/abs/2307.10094)|null|
 |**2023-07-19**|**Adversarial Likelihood Estimation with One-way Flows**|Omri Ben-Dov et.al.|[2307.09882](http://arxiv.org/abs/2307.09882)|null|
 |**2023-07-20**|**AesPA-Net: Aesthetic Pattern-Aware Style Transfer Networks**|Kibeom Hong et.al.|[2307.09724](http://arxiv.org/abs/2307.09724)|**[link](https://github.com/kibeom-hong/aespa-net)**|
@@ -442,6 +444,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-20**|**Progressive distillation diffusion for raw music generation**|Svetlana Pavlova et.al.|[2307.10994](http://arxiv.org/abs/2307.10994)|null|
+|**2023-07-20**|**Structure-preserving schemes for drift-diffusion systems on general meshes: DDFV vs HFV**|Stella Krell et.al.|[2307.10911](http://arxiv.org/abs/2307.10911)|null|
+|**2023-07-20**|**BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion**|Jinheng Xie et.al.|[2307.10816](http://arxiv.org/abs/2307.10816)|**[link](https://github.com/sierkinhane/boxdiff)**|
+|**2023-07-20**|**AdjointDPM: Adjoint Sensitivity Method for Gradient Backpropagation of Diffusion Probabilistic Models**|Jiachun Pan et.al.|[2307.10711](http://arxiv.org/abs/2307.10711)|null|
+|**2023-07-20**|**Reference-based Painterly Inpainting via Diffusion: Crossing the Wild Reference Domain Gap**|Dejia Xu et.al.|[2307.10584](http://arxiv.org/abs/2307.10584)|null|
+|**2023-07-19**|**PreDiff: Precipitation Nowcasting with Latent Diffusion Models**|Zhihan Gao et.al.|[2307.10422](http://arxiv.org/abs/2307.10422)|null|
+|**2023-07-19**|**TokenFlow: Consistent Diffusion Features for Consistent Video Editing**|Michal Geyer et.al.|[2307.10373](http://arxiv.org/abs/2307.10373)|null|
+|**2023-07-19**|**Polyffusion: A Diffusion Model for Polyphonic Score Generation with Internal and External Controls**|Lejun Min et.al.|[2307.10304](http://arxiv.org/abs/2307.10304)|**[link](https://github.com/aik2mlj/polyffusion)**|
+|**2023-07-18**|**Modeling pattern formation in communities by using information particles**|Junichi Miyakoshi et.al.|[2307.10270](http://arxiv.org/abs/2307.10270)|null|
 |**2023-07-19**|**FABRIC: Personalizing Diffusion Models with Iterative Feedback**|Dimitri von Rütte et.al.|[2307.10159](http://arxiv.org/abs/2307.10159)|**[link](https://github.com/sd-fabric/fabric)**|
 |**2023-07-19**|**Make-A-Volume: Leveraging Latent Diffusion Models for Cross-Modality 3D Brain MRI Synthesis**|Lingting Zhu et.al.|[2307.10094](http://arxiv.org/abs/2307.10094)|null|
 |**2023-07-19**|**Modelling the Spatial Spread of COVID-19 in aGerman District using a Diffusion Model**|Moritz Schäfer et.al.|[2307.09956](http://arxiv.org/abs/2307.09956)|null|
@@ -1308,6 +1319,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-20**|**OBJECT 3DIT: Language-guided 3D-aware Image Editing**|Oscar Michel et.al.|[2307.11073](http://arxiv.org/abs/2307.11073)|null|
+|**2023-07-10**|**Exact Diffusion Inversion via Bi-directional Integration Approximation**|Guoqiang Zhang et.al.|[2307.10829](http://arxiv.org/abs/2307.10829)|null|
+|**2023-07-20**|**Physics-Driven Turbulence Image Restoration with Stochastic Refinement**|Ajay Jaiswal et.al.|[2307.10603](http://arxiv.org/abs/2307.10603)|null|
+|**2023-07-19**|**TokenFlow: Consistent Diffusion Features for Consistent Video Editing**|Michal Geyer et.al.|[2307.10373](http://arxiv.org/abs/2307.10373)|null|
 |**2023-07-19**|**Text2Layer: Layered Image Generation using Latent Diffusion Model**|Xinyang Zhang et.al.|[2307.09781](http://arxiv.org/abs/2307.09781)|null|
 |**2023-07-19**|**NTIRE 2023 Quality Assessment of Video Enhancement Challenge**|Xiaohong Liu et.al.|[2307.09729](http://arxiv.org/abs/2307.09729)|null|
 |**2023-07-13**|**Guided Linear Upsampling**|Shuangbing Song et.al.|[2307.09582](http://arxiv.org/abs/2307.09582)|null|

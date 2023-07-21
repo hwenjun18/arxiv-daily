@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.20
+## Updated on 2023.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -41,9 +41,9 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-07-19**|**Make-A-Volume: Leveraging Latent Diffusion Models for Cross-Modality 3D Brain MRI Synthesis**|Lingting Zhu et.al.|[2307.10094](http://arxiv.org/abs/2307.10094)|null|
 |**2023-07-19**|**Adversarial Likelihood Estimation with One-way Flows**|Omri Ben-Dov et.al.|[2307.09882](http://arxiv.org/abs/2307.09882)|null|
-|**2023-07-19**|**AesPA-Net: Aesthetic Pattern-Aware Style Transfer Networks**|Kibeom Hong et.al.|[2307.09724](http://arxiv.org/abs/2307.09724)|null|
+|**2023-07-20**|**AesPA-Net: Aesthetic Pattern-Aware Style Transfer Networks**|Kibeom Hong et.al.|[2307.09724](http://arxiv.org/abs/2307.09724)|**[link](https://github.com/kibeom-hong/aespa-net)**|
 |**2023-07-18**|**Conditional 360-degree Image Synthesis for Immersive Indoor Scene Decoration**|Ka Chun Shum et.al.|[2307.09621](http://arxiv.org/abs/2307.09621)|null|
-|**2023-07-13**|**Can Diffusion Model Conditionally Generate Astrophysical Images?**|Xiaosheng Zhao et.al.|[2307.09568](http://arxiv.org/abs/2307.09568)|null|
+|**2023-07-13**|**Can Diffusion Model Conditionally Generate Astrophysical Images?**|Xiaosheng Zhao et.al.|[2307.09568](http://arxiv.org/abs/2307.09568)|**[link](https://github.com/xiaosheng-zhao/st4diffusion)**|
 |**2023-07-19**|**A comparative analysis of SRGAN models**|Fatemeh Rezapoor Nikroo et.al.|[2307.09456](http://arxiv.org/abs/2307.09456)|null|
 |**2023-07-18**|**SLMGAN: Exploiting Speech Language Model Representations for Unsupervised Zero-Shot Voice Conversion in GANs**|Yinghao Aaron Li et.al.|[2307.09435](http://arxiv.org/abs/2307.09435)|null|
 |**2023-07-18**|**Face-PAST: Facial Pose Awareness and Style Transfer Networks**|Sunder Ali Khowaja et.al.|[2307.09020](http://arxiv.org/abs/2307.09020)|null|

@@ -39,6 +39,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-21**|**CycleIK: Neuro-inspired Inverse Kinematics**|Jan-Gerrit Habekost et.al.|[2307.11554](http://arxiv.org/abs/2307.11554)|null|
+|**2023-07-21**|**UWAT-GAN: Fundus Fluorescein Angiography Synthesis via Ultra-wide-angle Transformation Multi-scale GAN**|Zhaojie Fang et.al.|[2307.11530](http://arxiv.org/abs/2307.11530)|**[link](https://github.com/Tinysqua/UWAT-GAN)**|
+|**2023-07-21**|**LatentAugment: Data Augmentation via Guided Manipulation of GAN's Latent Space**|Lorenzo Tronchin et.al.|[2307.11375](http://arxiv.org/abs/2307.11375)|null|
+|**2023-07-21**|**ParGANDA: Making Synthetic Pedestrians A Reality For Object Detection**|Daria Reshetova et.al.|[2307.11360](http://arxiv.org/abs/2307.11360)|null|
+|**2023-07-21**|**PI-VEGAN: Physics Informed Variational Embedding Generative Adversarial Networks for Stochastic Differential Equations**|Ruisong Gao et.al.|[2307.11289](http://arxiv.org/abs/2307.11289)|null|
+|**2023-07-20**|**Joint one-sided synthetic unpaired image translation and segmentation for colorectal cancer prevention**|Enric Moreu et.al.|[2307.11253](http://arxiv.org/abs/2307.11253)|null|
+|**2023-07-20**|**Frequency-aware optical coherence tomography image super-resolution via conditional generative adversarial neural network**|Xueshen Li et.al.|[2307.11130](http://arxiv.org/abs/2307.11130)|null|
 |**2023-07-20**|**BlendFace: Re-designing Identity Encoders for Face-Swapping**|Kaede Shiohara et.al.|[2307.10854](http://arxiv.org/abs/2307.10854)|**[link](https://github.com/mapooon/blendface)**|
 |**2023-07-20**|**Enhancing Job Recommendation through LLM-based Generative Adversarial Networks**|Yingpeng Du et.al.|[2307.10747](http://arxiv.org/abs/2307.10747)|null|
 |**2023-07-19**|**Make-A-Volume: Leveraging Latent Diffusion Models for Cross-Modality 3D Brain MRI Synthesis**|Lingting Zhu et.al.|[2307.10094](http://arxiv.org/abs/2307.10094)|null|
@@ -444,6 +451,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-21**|**Learning minimal representations of stochastic processes with variational autoencoders**|Gabriel Fernández-Fernández et.al.|[2307.11608](http://arxiv.org/abs/2307.11608)|null|
+|**2023-07-21**|**Predict, Refine, Synthesize: Self-Guiding Diffusion Models for Probabilistic Time Series Forecasting**|Marcel Kollovieh et.al.|[2307.11494](http://arxiv.org/abs/2307.11494)|null|
+|**2023-07-21**|**Subject-Diffusion:Open Domain Personalized Text-to-Image Generation without Test-time Fine-tuning**|Jian Ma et.al.|[2307.11410](http://arxiv.org/abs/2307.11410)|**[link](https://github.com/OPPO-Mente-Lab/Subject-Diffusion)**|
+|**2023-07-20**|**Dehazing Ultrasound using Diffusion Models**|Tristan S. W. Stevens et.al.|[2307.11204](http://arxiv.org/abs/2307.11204)|null|
+|**2023-07-20**|**Diffusion Models for Probabilistic Deconvolution of Galaxy Images**|Zhiwei Xue et.al.|[2307.11122](http://arxiv.org/abs/2307.11122)|null|
+|**2023-07-20**|**Diffusion Sampling with Momentum for Mitigating Divergence Artifacts**|Suttisak Wizadwongsa et.al.|[2307.11118](http://arxiv.org/abs/2307.11118)|**[link](https://github.com/sWizad/momentum-diffusion)**|
 |**2023-07-20**|**Progressive distillation diffusion for raw music generation**|Svetlana Pavlova et.al.|[2307.10994](http://arxiv.org/abs/2307.10994)|null|
 |**2023-07-20**|**Structure-preserving schemes for drift-diffusion systems on general meshes: DDFV vs HFV**|Stella Krell et.al.|[2307.10911](http://arxiv.org/abs/2307.10911)|null|
 |**2023-07-20**|**BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion**|Jinheng Xie et.al.|[2307.10816](http://arxiv.org/abs/2307.10816)|**[link](https://github.com/sierkinhane/boxdiff)**|
@@ -455,7 +468,7 @@ layout: default
 |**2023-07-18**|**Modeling pattern formation in communities by using information particles**|Junichi Miyakoshi et.al.|[2307.10270](http://arxiv.org/abs/2307.10270)|null|
 |**2023-07-19**|**FABRIC: Personalizing Diffusion Models with Iterative Feedback**|Dimitri von Rütte et.al.|[2307.10159](http://arxiv.org/abs/2307.10159)|**[link](https://github.com/sd-fabric/fabric)**|
 |**2023-07-19**|**Make-A-Volume: Leveraging Latent Diffusion Models for Cross-Modality 3D Brain MRI Synthesis**|Lingting Zhu et.al.|[2307.10094](http://arxiv.org/abs/2307.10094)|null|
-|**2023-07-19**|**Modelling the Spatial Spread of COVID-19 in aGerman District using a Diffusion Model**|Moritz Schäfer et.al.|[2307.09956](http://arxiv.org/abs/2307.09956)|null|
+|**2023-07-19**|**Modelling the Spatial Spread of COVID-19 in a German District using a Diffusion Model**|Moritz Schäfer et.al.|[2307.09956](http://arxiv.org/abs/2307.09956)|null|
 |**2023-07-19**|**BSDM: Background Suppression Diffusion Model for Hyperspectral Anomaly Detection**|Jitao Ma et.al.|[2307.09861](http://arxiv.org/abs/2307.09861)|**[link](https://github.com/majitao-xd/bsdm-had)**|
 |**2023-07-19**|**A Siamese-based Verification System for Open-set Architecture Attribution of Synthetic Images**|Lydia Abady et.al.|[2307.09822](http://arxiv.org/abs/2307.09822)|null|
 |**2023-07-19**|**DiffDP: Radiotherapy Dose Prediction via a Diffusion Model**|Zhenghao Feng et.al.|[2307.09794](http://arxiv.org/abs/2307.09794)|null|
@@ -1332,7 +1345,7 @@ layout: default
 |**2023-07-18**|**CLIP-Guided StyleGAN Inversion for Text-Driven Real Image Editing**|Ahmet Canberk Baykal et.al.|[2307.08397](http://arxiv.org/abs/2307.08397)|null|
 |**2023-07-16**|**LUCYD: A Feature-Driven Richardson-Lucy Deconvolution Network**|Tomáš Chobola et.al.|[2307.07998](http://arxiv.org/abs/2307.07998)|**[link](https://github.com/ctom2/lucyd-deconvolution)**|
 |**2023-07-15**|**Can Pre-Trained Text-to-Image Models Generate Visual Goals for Reinforcement Learning?**|Jialu Gao et.al.|[2307.07837](http://arxiv.org/abs/2307.07837)|null|
-|**2023-07-15**|**Adaptive Nonlinear Latent Transformation for Conditional Face Editing**|Zhizhong Huang et.al.|[2307.07790](http://arxiv.org/abs/2307.07790)|null|
+|**2023-07-15**|**Adaptive Nonlinear Latent Transformation for Conditional Face Editing**|Zhizhong Huang et.al.|[2307.07790](http://arxiv.org/abs/2307.07790)|**[link](https://github.com/hzzone/adatrans)**|
 |**2023-07-15**|**DRM-IR: Task-Adaptive Deep Unfolding Network for All-In-One Image Restoration**|Yuanshuo Cheng et.al.|[2307.07688](http://arxiv.org/abs/2307.07688)|null|
 |**2023-07-10**|**FreeDrag: Point Tracking is Not You Need for Interactive Point-based Image Editing**|Pengyang Ling et.al.|[2307.04684](http://arxiv.org/abs/2307.04684)|**[link](https://github.com/lpengyang/freedrag)**|
 |**2023-07-11**|**DIFF-NST: Diffusion Interleaving For deFormable Neural Style Transfer**|Dan Ruta et.al.|[2307.04157](http://arxiv.org/abs/2307.04157)|null|
@@ -1623,6 +1636,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-20**|**Projectional Editors for JSON-Based DSLs**|Andrew McNutt et.al.|[2307.11260](http://arxiv.org/abs/2307.11260)|null|
 |**2023-07-06**|**Spontaneous segregation of visual information between parallel streams of a multi-stream convolutional neural network**|Hiroshi Tamura et.al.|[2307.02721](http://arxiv.org/abs/2307.02721)|null|
 |**2023-06-21**|**Facial Expression Re-targeting from a Single Character**|Ariel Larey et.al.|[2306.12188](http://arxiv.org/abs/2306.12188)|null|
 |**2023-06-19**|**SelfTalk: A Self-Supervised Commutative Training Diagram to Comprehend 3D Talking Faces**|Ziqiao Peng et.al.|[2306.10799](http://arxiv.org/abs/2306.10799)|null|

@@ -39,9 +39,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-24**|**Volcanic ash delimitation using Artificial Intelligence based on Pix2Pix**|Christian Carrillo et.al.|[2307.12970](http://arxiv.org/abs/2307.12970)|null|
+|**2023-07-24**|**TransFusion: Generating Long, High Fidelity Time Series using Diffusion Models with Transformers**|Md Fahim Sikder et.al.|[2307.12667](http://arxiv.org/abs/2307.12667)|null|
+|**2023-07-24**|**De-confounding Representation Learning for Counterfactual Inference on Continuous Treatment via Generative Adversarial Network**|Yonghe Zhao et.al.|[2307.12625](http://arxiv.org/abs/2307.12625)|null|
+|**2023-07-24**|**Attribute Regularized Soft Introspective VAE: Towards Cardiac Attribute Regularization Through MRI Domains**|Maxime Di Folco et.al.|[2307.12618](http://arxiv.org/abs/2307.12618)|null|
+|**2023-07-24**|**AdvDiff: Generating Unrestricted Adversarial Examples using Diffusion Models**|Xuelong Dai et.al.|[2307.12499](http://arxiv.org/abs/2307.12499)|null|
+|**2023-07-22**|**Security and Privacy Issues of Federated Learning**|Jahid Hasan et.al.|[2307.12181](http://arxiv.org/abs/2307.12181)|null|
+|**2023-07-22**|**SCPAT-GAN: Structural Constrained and Pathology Aware Convolutional Transformer-GAN for Virtual Histology Staining of Human Coronary OCT images**|Xueshen Li et.al.|[2307.12138](http://arxiv.org/abs/2307.12138)|null|
+|**2023-07-22**|**Synthesis of Batik Motifs using a Diffusion -- Generative Adversarial Network**|One Octadion et.al.|[2307.12122](http://arxiv.org/abs/2307.12122)|**[link](https://github.com/octadion/diffusion-stylegan2-ada-pytorch)**|
+|**2023-07-20**|**Adversarial Conversational Shaping for Intelligent Agents**|Piotr Tarasiewicz et.al.|[2307.11785](http://arxiv.org/abs/2307.11785)|null|
 |**2023-07-21**|**CycleIK: Neuro-inspired Inverse Kinematics**|Jan-Gerrit Habekost et.al.|[2307.11554](http://arxiv.org/abs/2307.11554)|null|
 |**2023-07-21**|**UWAT-GAN: Fundus Fluorescein Angiography Synthesis via Ultra-wide-angle Transformation Multi-scale GAN**|Zhaojie Fang et.al.|[2307.11530](http://arxiv.org/abs/2307.11530)|**[link](https://github.com/Tinysqua/UWAT-GAN)**|
-|**2023-07-21**|**LatentAugment: Data Augmentation via Guided Manipulation of GAN's Latent Space**|Lorenzo Tronchin et.al.|[2307.11375](http://arxiv.org/abs/2307.11375)|null|
+|**2023-07-21**|**LatentAugment: Data Augmentation via Guided Manipulation of GAN's Latent Space**|Lorenzo Tronchin et.al.|[2307.11375](http://arxiv.org/abs/2307.11375)|**[link](https://github.com/ltronchin/latentaugment)**|
 |**2023-07-21**|**ParGANDA: Making Synthetic Pedestrians A Reality For Object Detection**|Daria Reshetova et.al.|[2307.11360](http://arxiv.org/abs/2307.11360)|null|
 |**2023-07-21**|**PI-VEGAN: Physics Informed Variational Embedding Generative Adversarial Networks for Stochastic Differential Equations**|Ruisong Gao et.al.|[2307.11289](http://arxiv.org/abs/2307.11289)|null|
 |**2023-07-20**|**Joint one-sided synthetic unpaired image translation and segmentation for colorectal cancer prevention**|Enric Moreu et.al.|[2307.11253](http://arxiv.org/abs/2307.11253)|null|
@@ -451,11 +460,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-24**|**Data-free Black-box Attack based on Diffusion Model**|Mingwen Shao et.al.|[2307.12872](http://arxiv.org/abs/2307.12872)|null|
+|**2023-07-24**|**Understanding the Latent Space of Diffusion Models through the Lens of Riemannian Geometry**|Yong-Hyun Park et.al.|[2307.12868](http://arxiv.org/abs/2307.12868)|null|
+|**2023-07-24**|**TransFusion: Generating Long, High Fidelity Time Series using Diffusion Models with Transformers**|Md Fahim Sikder et.al.|[2307.12667](http://arxiv.org/abs/2307.12667)|null|
+|**2023-07-24**|**Interpolating between Images with Diffusion Models**|Clinton J. Wang et.al.|[2307.12560](http://arxiv.org/abs/2307.12560)|null|
+|**2023-07-24**|**AdvDiff: Generating Unrestricted Adversarial Examples using Diffusion Models**|Xuelong Dai et.al.|[2307.12499](http://arxiv.org/abs/2307.12499)|null|
+|**2023-07-24**|**TF-ICON: Diffusion-Based Training-Free Cross-Domain Image Composition**|Shilin Lu et.al.|[2307.12493](http://arxiv.org/abs/2307.12493)|**[link](https://github.com/Shilin-LU/TF-ICON)**|
+|**2023-07-23**|**ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting**|Zongsheng Yue et.al.|[2307.12348](http://arxiv.org/abs/2307.12348)|**[link](https://github.com/zsyoaoa/resshift)**|
+|**2023-07-23**|**TabADM: Unsupervised Tabular Anomaly Detection with Diffusion Models**|Guy Zamberg et.al.|[2307.12336](http://arxiv.org/abs/2307.12336)|null|
+|**2023-07-23**|**An axiomatized PDE model of deep neural networks**|Tangjun Wang et.al.|[2307.12333](http://arxiv.org/abs/2307.12333)|null|
+|**2023-07-22**|**PLANTAIN: Diffusion-inspired Pose Score Minimization for Fast and Accurate Molecular Docking**|Michael Brocidiacono et.al.|[2307.12090](http://arxiv.org/abs/2307.12090)|null|
+|**2023-07-22**|**Iterative Reconstruction Based on Latent Diffusion Model for Sparse Data Reconstruction**|Linchao He et.al.|[2307.12070](http://arxiv.org/abs/2307.12070)|null|
+|**2023-07-22**|**FSDiffReg: Feature-wise and Score-wise Diffusion-guided Unsupervised Deformable Image Registration for Cardiac Images**|Yi Qin et.al.|[2307.12035](http://arxiv.org/abs/2307.12035)|**[link](https://github.com/xmed-lab/fsdiffreg)**|
+|**2023-07-21**|**PartDiff: Image Super-resolution with Partial Diffusion Models**|Kai Zhao et.al.|[2307.11926](http://arxiv.org/abs/2307.11926)|null|
 |**2023-07-21**|**Learning minimal representations of stochastic processes with variational autoencoders**|Gabriel Fernández-Fernández et.al.|[2307.11608](http://arxiv.org/abs/2307.11608)|**[link](https://github.com/gabrielfernandezfernandez/spivae)**|
 |**2023-07-21**|**Predict, Refine, Synthesize: Self-Guiding Diffusion Models for Probabilistic Time Series Forecasting**|Marcel Kollovieh et.al.|[2307.11494](http://arxiv.org/abs/2307.11494)|null|
 |**2023-07-21**|**Subject-Diffusion:Open Domain Personalized Text-to-Image Generation without Test-time Fine-tuning**|Jian Ma et.al.|[2307.11410](http://arxiv.org/abs/2307.11410)|**[link](https://github.com/OPPO-Mente-Lab/Subject-Diffusion)**|
 |**2023-07-20**|**Dehazing Ultrasound using Diffusion Models**|Tristan S. W. Stevens et.al.|[2307.11204](http://arxiv.org/abs/2307.11204)|null|
-|**2023-07-20**|**Diffusion Models for Probabilistic Deconvolution of Galaxy Images**|Zhiwei Xue et.al.|[2307.11122](http://arxiv.org/abs/2307.11122)|null|
+|**2023-07-20**|**Diffusion Models for Probabilistic Deconvolution of Galaxy Images**|Zhiwei Xue et.al.|[2307.11122](http://arxiv.org/abs/2307.11122)|**[link](https://github.com/yashpatel5400/galgen)**|
 |**2023-07-20**|**Diffusion Sampling with Momentum for Mitigating Divergence Artifacts**|Suttisak Wizadwongsa et.al.|[2307.11118](http://arxiv.org/abs/2307.11118)|**[link](https://github.com/sWizad/momentum-diffusion)**|
 |**2023-07-20**|**Progressive distillation diffusion for raw music generation**|Svetlana Pavlova et.al.|[2307.10994](http://arxiv.org/abs/2307.10994)|null|
 |**2023-07-20**|**Structure-preserving schemes for drift-diffusion systems on general meshes: DDFV vs HFV**|Stella Krell et.al.|[2307.10911](http://arxiv.org/abs/2307.10911)|null|
@@ -1332,6 +1354,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-24**|**Understanding the Latent Space of Diffusion Models through the Lens of Riemannian Geometry**|Yong-Hyun Park et.al.|[2307.12868](http://arxiv.org/abs/2307.12868)|null|
+|**2023-07-24**|**A Theoretically Guaranteed Quaternion Weighted Schatten p-norm Minimization Method for Color Image Restoration**|Qing-Hua Zhang et.al.|[2307.12656](http://arxiv.org/abs/2307.12656)|**[link](https://github.com/qiuxuanzhizi/qwsnm)**|
+|**2023-07-24**|**TF-ICON: Diffusion-Based Training-Free Cross-Domain Image Composition**|Shilin Lu et.al.|[2307.12493](http://arxiv.org/abs/2307.12493)|**[link](https://github.com/Shilin-LU/TF-ICON)**|
 |**2023-07-20**|**OBJECT 3DIT: Language-guided 3D-aware Image Editing**|Oscar Michel et.al.|[2307.11073](http://arxiv.org/abs/2307.11073)|null|
 |**2023-07-21**|**Exact Diffusion Inversion via Bi-directional Integration Approximation**|Guoqiang Zhang et.al.|[2307.10829](http://arxiv.org/abs/2307.10829)|null|
 |**2023-07-20**|**Physics-Driven Turbulence Image Restoration with Stochastic Refinement**|Ajay Jaiswal et.al.|[2307.10603](http://arxiv.org/abs/2307.10603)|null|
@@ -1669,6 +1694,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-24**|**Launching Drifter Observations in the Presence of Uncertainty**|Nan Chen et.al.|[2307.12779](http://arxiv.org/abs/2307.12779)|null|
 |**2023-07-19**|**MODA: Mapping-Once Audio-driven Portrait Animation with Dual Attentions**|Yunfei Liu et.al.|[2307.10008](http://arxiv.org/abs/2307.10008)|null|
 |**2023-07-19**|**Our Model Achieves Excellent Performance on MovieLens: What Does it Mean?**|Yu-chen Fan et.al.|[2307.09985](http://arxiv.org/abs/2307.09985)|null|
 |**2023-07-18**|**Efficient Region-Aware Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis**|Jiahe Li et.al.|[2307.09323](http://arxiv.org/abs/2307.09323)|**[link](https://github.com/fictionarry/er-nerf)**|

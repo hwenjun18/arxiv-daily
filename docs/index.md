@@ -42,7 +42,7 @@ layout: default
 |**2023-07-27**|**Generative convective parametrization of dry atmospheric boundary layer**|Florian Heyder et.al.|[2307.14857](http://arxiv.org/abs/2307.14857)|null|
 |**2023-07-27**|**Semantic Image Completion and Enhancement using GANs**|Priyansh Saxena et.al.|[2307.14748](http://arxiv.org/abs/2307.14748)|null|
 |**2023-07-27**|**EqGAN: Feature Equalization Fusion for Few-shot Image Generation**|Yingbo Zhou et.al.|[2307.14638](http://arxiv.org/abs/2307.14638)|null|
-|**2023-07-26**|**Controllable Generation of Dialogue Acts for Dialogue Systems via Few-Shot Response Generation and Ranking**|Angela Ramirez et.al.|[2307.14440](http://arxiv.org/abs/2307.14440)|null|
+|**2023-07-26**|**Controllable Generation of Dialogue Acts for Dialogue Systems via Few-Shot Response Generation and Ranking**|Angela Ramirez et.al.|[2307.14440](http://arxiv.org/abs/2307.14440)|**[link](https://github.com/aramir62/da-nlg)**|
 |**2023-07-26**|**Deepfake Image Generation for Improved Brain Tumor Segmentation**|Roa'a Al-Emaryeen et.al.|[2307.14273](http://arxiv.org/abs/2307.14273)|null|
 |**2023-07-26**|**Artifact Restoration in Histology Images with Diffusion Probabilistic Models**|Zhenqi He et.al.|[2307.14262](http://arxiv.org/abs/2307.14262)|**[link](https://github.com/zhenqi-he/artifusion)**|
 |**2023-07-27**|**Creative Birds: Self-Supervised Single-View 3D Style Transfer**|Renke Wang et.al.|[2307.14127](http://arxiv.org/abs/2307.14127)|**[link](https://github.com/wrk226/creative_birds)**|
@@ -1730,7 +1730,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-07-27**|**Learning Full-Head 3D GANs from a Single-View Portrait Dataset**|Yiqian Wu et.al.|[2307.14770](http://arxiv.org/abs/2307.14770)|null|
-|**2023-07-20**|**General Image-to-Image Translation with One-Shot Image Guidance**|Bin Cheng et.al.|[2307.14352](http://arxiv.org/abs/2307.14352)|null|
+|**2023-07-20**|**General Image-to-Image Translation with One-Shot Image Guidance**|Bin Cheng et.al.|[2307.14352](http://arxiv.org/abs/2307.14352)|**[link](https://github.com/crystalneuro/visual-concept-translator)**|
 |**2023-07-24**|**Launching Drifter Observations in the Presence of Uncertainty**|Nan Chen et.al.|[2307.12779](http://arxiv.org/abs/2307.12779)|null|
 |**2023-07-19**|**MODA: Mapping-Once Audio-driven Portrait Animation with Dual Attentions**|Yunfei Liu et.al.|[2307.10008](http://arxiv.org/abs/2307.10008)|null|
 |**2023-07-19**|**Our Model Achieves Excellent Performance on MovieLens: What Does it Mean?**|Yu-chen Fan et.al.|[2307.09985](http://arxiv.org/abs/2307.09985)|null|

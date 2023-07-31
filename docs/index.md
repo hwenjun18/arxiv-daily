@@ -39,6 +39,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-28**|**A Time-Frequency Generative Adversarial based method for Audio Packet Loss Concealment**|Carlo Aironi et.al.|[2307.15611](http://arxiv.org/abs/2307.15611)|null|
+|**2023-07-28**|**Staging E-Commerce Products for Online Advertising using Retrieval Assisted Image Generation**|Yueh-Ning Ku et.al.|[2307.15326](http://arxiv.org/abs/2307.15326)|null|
+|**2023-07-28**|**Learning with Constraint Learning: New Perspective, Solution Strategy and Various Applications**|Risheng Liu et.al.|[2307.15257](http://arxiv.org/abs/2307.15257)|null|
 |**2023-07-27**|**Generative convective parametrization of dry atmospheric boundary layer**|Florian Heyder et.al.|[2307.14857](http://arxiv.org/abs/2307.14857)|null|
 |**2023-07-27**|**Semantic Image Completion and Enhancement using GANs**|Priyansh Saxena et.al.|[2307.14748](http://arxiv.org/abs/2307.14748)|null|
 |**2023-07-27**|**EqGAN: Feature Equalization Fusion for Few-shot Image Generation**|Yingbo Zhou et.al.|[2307.14638](http://arxiv.org/abs/2307.14638)|null|
@@ -474,6 +477,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-28**|**Minimally-Supervised Speech Synthesis with Conditional Diffusion Model and Language Model: A Comparative Study of Semantic Coding**|Chunyu Qiang et.al.|[2307.15484](http://arxiv.org/abs/2307.15484)|null|
+|**2023-07-27**|**Generative AI for Medical Imaging: extending the MONAI Framework**|Walter H. L. Pinaya et.al.|[2307.15208](http://arxiv.org/abs/2307.15208)|**[link](https://github.com/warvito/generative_monai)**|
 |**2023-07-27**|**LLDiffusion: Learning Degradation Representations in Diffusion Models for Low-Light Image Enhancement**|Tao Wang et.al.|[2307.14659](http://arxiv.org/abs/2307.14659)|**[link](https://github.com/taowangzj/lldiffusion)**|
 |**2023-07-27**|**Imitating Complex Trajectories: Bridging Low-Level Stability and High-Level Behavior**|Adam Block et.al.|[2307.14619](http://arxiv.org/abs/2307.14619)|null|
 |**2023-07-26**|**Visual Instruction Inversion: Image Editing via Visual Prompting**|Thao Nguyen et.al.|[2307.14331](http://arxiv.org/abs/2307.14331)|null|

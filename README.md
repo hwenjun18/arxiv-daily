@@ -51,6 +51,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-31**|**A multiscale and multicriteria Generative Adversarial Network to synthesize 1-dimensional turbulent fields**|Carlos Granero-Belinchon et.al.|[2307.16580](http://arxiv.org/abs/2307.16580)|null|
+|**2023-07-31**|**DiffProsody: Diffusion-based Latent Prosody Generation for Expressive Speech Synthesis with Prosody Conditional Adversarial Training**|Hyung-Seok Oh et.al.|[2307.16549](http://arxiv.org/abs/2307.16549)|**[link](https://github.com/hsoh0306/diffprosody)**|
+|**2023-07-31**|**Don't be so negative! Score-based Generative Modeling with Oracle-assisted Guidance**|Saeid Naderiparizi et.al.|[2307.16463](http://arxiv.org/abs/2307.16463)|null|
+|**2023-07-30**|**Stylized Projected GAN: A Novel Architecture for Fast and Realistic Image Generation**|Md Nurul Muttakin et.al.|[2307.16275](http://arxiv.org/abs/2307.16275)|null|
+|**2023-07-30**|**InfoStyler: Disentanglement Information Bottleneck for Artistic Style Transfer**|Yueming Lyu et.al.|[2307.16227](http://arxiv.org/abs/2307.16227)|null|
+|**2023-07-30**|**HierVST: Hierarchical Adaptive Zero-shot Voice Style Transfer**|Sang-Hoon Lee et.al.|[2307.16171](http://arxiv.org/abs/2307.16171)|null|
+|**2023-07-30**|**StylePrompter: All Styles Need Is Attention**|Chenyi Zhuang et.al.|[2307.16151](http://arxiv.org/abs/2307.16151)|**[link](https://github.com/i2-multimedia-lab/styleprompter)**|
+|**2023-07-29**|**What can Discriminator do? Towards Box-free Ownership Verification of Generative Adversarial Network**|Ziheng Huang et.al.|[2307.15860](http://arxiv.org/abs/2307.15860)|null|
 |**2023-07-28**|**A Time-Frequency Generative Adversarial based method for Audio Packet Loss Concealment**|Carlo Aironi et.al.|[2307.15611](http://arxiv.org/abs/2307.15611)|null|
 |**2023-07-28**|**Staging E-Commerce Products for Online Advertising using Retrieval Assisted Image Generation**|Yueh-Ning Ku et.al.|[2307.15326](http://arxiv.org/abs/2307.15326)|null|
 |**2023-07-28**|**Learning with Constraint Learning: New Perspective, Solution Strategy and Various Applications**|Risheng Liu et.al.|[2307.15257](http://arxiv.org/abs/2307.15257)|null|
@@ -491,6 +499,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-31**|**Universal Adversarial Defense in Remote Sensing Based on Pre-trained Denoising Diffusion Models**|Weikang Yu et.al.|[2307.16865](http://arxiv.org/abs/2307.16865)|null|
+|**2023-07-31**|**DiffPose: SpatioTemporal Diffusion Model for Video-Based Human Pose Estimation**|Runyang Feng et.al.|[2307.16687](http://arxiv.org/abs/2307.16687)|null|
+|**2023-07-31**|**On the Trustworthiness Landscape of State-of-the-art Generative Models: A Comprehensive Survey**|Mingyuan Fan et.al.|[2307.16680](http://arxiv.org/abs/2307.16680)|null|
+|**2023-07-31**|**Comparing normalizing flows and diffusion models for prosody and acoustic modelling in text-to-speech**|Guangyan Zhang et.al.|[2307.16679](http://arxiv.org/abs/2307.16679)|null|
+|**2023-07-31**|**Contrastive Conditional Latent Diffusion for Audio-visual Segmentation**|Yuxin Mao et.al.|[2307.16579](http://arxiv.org/abs/2307.16579)|null|
+|**2023-07-31**|**DiffProsody: Diffusion-based Latent Prosody Generation for Expressive Speech Synthesis with Prosody Conditional Adversarial Training**|Hyung-Seok Oh et.al.|[2307.16549](http://arxiv.org/abs/2307.16549)|**[link](https://github.com/hsoh0306/diffprosody)**|
+|**2023-07-31**|**Don't be so negative! Score-based Generative Modeling with Oracle-assisted Guidance**|Saeid Naderiparizi et.al.|[2307.16463](http://arxiv.org/abs/2307.16463)|null|
+|**2023-07-31**|**MetaDiff: Meta-Learning with Conditional Diffusion for Few-Shot Learning**|Baoquan Zhang et.al.|[2307.16424](http://arxiv.org/abs/2307.16424)|null|
+|**2023-07-31**|**Mapping brain microstructure in vivo in health and disease using diffusion MRI**|Ying Liao et.al.|[2307.16386](http://arxiv.org/abs/2307.16386)|null|
+|**2023-07-31**|**MobileVidFactory: Automatic Diffusion-Based Social Media Video Generation for Mobile Devices from Text**|Junchen Zhu et.al.|[2307.16371](http://arxiv.org/abs/2307.16371)|null|
+|**2023-07-30**|**TransFusion: A Practical and Effective Transformer-based Diffusion Model for 3D Human Motion Prediction**|Sibo Tian et.al.|[2307.16106](http://arxiv.org/abs/2307.16106)|null|
+|**2023-07-29**|**UniBriVL: Robust Universal Representation and Generation of Audio Driven Diffusion Models**|Sen Fang et.al.|[2307.15898](http://arxiv.org/abs/2307.15898)|null|
+|**2023-07-29**|**Parameter identifiability in PDE models of fluorescence recovery after photobleaching**|Maria-Veronica Ciocanel et.al.|[2307.15857](http://arxiv.org/abs/2307.15857)|null|
 |**2023-07-28**|**Minimally-Supervised Speech Synthesis with Conditional Diffusion Model and Language Model: A Comparative Study of Semantic Coding**|Chunyu Qiang et.al.|[2307.15484](http://arxiv.org/abs/2307.15484)|null|
 |**2023-07-27**|**Generative AI for Medical Imaging: extending the MONAI Framework**|Walter H. L. Pinaya et.al.|[2307.15208](http://arxiv.org/abs/2307.15208)|**[link](https://github.com/warvito/generative_monai)**|
 |**2023-07-27**|**LLDiffusion: Learning Degradation Representations in Diffusion Models for Low-Light Image Enhancement**|Tao Wang et.al.|[2307.14659](http://arxiv.org/abs/2307.14659)|**[link](https://github.com/taowangzj/lldiffusion)**|
@@ -1756,6 +1777,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-31**|**Towards Unbalanced Motion: Part-Decoupling Network for Video Portrait Segmentation**|Tianshu Yu et.al.|[2307.16565](http://arxiv.org/abs/2307.16565)|null|
+|**2023-07-31**|**Bifurcation analysis of a conceptual model for the Atlantic Meridional Overturning Circulation**|John Bailie et.al.|[2307.16414](http://arxiv.org/abs/2307.16414)|null|
+|**2023-07-29**|**Global planar dynamics with a star node and contracting nolinearity**|Begoña Alarcón et.al.|[2307.16020](http://arxiv.org/abs/2307.16020)|null|
+|**2023-07-28**|**Fixed Flowers**|Md Abdul Aziz et.al.|[2307.15794](http://arxiv.org/abs/2307.15794)|null|
 |**2023-07-27**|**Learning Full-Head 3D GANs from a Single-View Portrait Dataset**|Yiqian Wu et.al.|[2307.14770](http://arxiv.org/abs/2307.14770)|null|
 |**2023-07-20**|**General Image-to-Image Translation with One-Shot Image Guidance**|Bin Cheng et.al.|[2307.14352](http://arxiv.org/abs/2307.14352)|**[link](https://github.com/crystalneuro/visual-concept-translator)**|
 |**2023-07-24**|**Launching Drifter Observations in the Presence of Uncertainty**|Nan Chen et.al.|[2307.12779](http://arxiv.org/abs/2307.12779)|null|

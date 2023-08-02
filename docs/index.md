@@ -39,6 +39,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-01**|**Graph Contrastive Learning with Generative Adversarial Network**|Cheng Wu et.al.|[2308.00535](http://arxiv.org/abs/2308.00535)|null|
+|**2023-08-01**|**A Deep Learning Approach for Virtual Contrast Enhancement in Contrast Enhanced Spectral Mammography**|Aurora Rofena et.al.|[2308.00471](http://arxiv.org/abs/2308.00471)|null|
+|**2023-08-01**|**Generative adversarial networks with physical sound field priors**|Xenofon Karakonstantis et.al.|[2308.00426](http://arxiv.org/abs/2308.00426)|**[link](https://github.com/xefonon/soundfieldgan)**|
+|**2023-08-01**|**SkullGAN: Synthetic Skull CT Generation with Generative Adversarial Networks**|Kasra Naftchi-Ardebili et.al.|[2308.00206](http://arxiv.org/abs/2308.00206)|**[link](https://github.com/kbp-lab/skullgan)**|
+|**2023-07-31**|**Controlling Geometric Abstraction and Texture for Artistic Images**|Martin Büßemeyer et.al.|[2308.00148](http://arxiv.org/abs/2308.00148)|**[link](https://github.com/MartinBuessemeyer/Artistic-Texture-Control)**|
 |**2023-07-31**|**A multiscale and multicriteria Generative Adversarial Network to synthesize 1-dimensional turbulent fields**|Carlos Granero-Belinchon et.al.|[2307.16580](http://arxiv.org/abs/2307.16580)|null|
 |**2023-07-31**|**DiffProsody: Diffusion-based Latent Prosody Generation for Expressive Speech Synthesis with Prosody Conditional Adversarial Training**|Hyung-Seok Oh et.al.|[2307.16549](http://arxiv.org/abs/2307.16549)|**[link](https://github.com/hsoh0306/diffprosody)**|
 |**2023-07-31**|**Don't be so negative! Score-based Generative Modeling with Oracle-assisted Guidance**|Saeid Naderiparizi et.al.|[2307.16463](http://arxiv.org/abs/2307.16463)|null|
@@ -485,6 +490,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-01**|**Radial Evolution in a Reaction-Diffusion Model**|Sofia M. Silveira et.al.|[2308.00671](http://arxiv.org/abs/2308.00671)|null|
+|**2023-08-01**|**Diffusion Model for Camouflaged Object Detection**|Zhennan Chen et.al.|[2308.00303](http://arxiv.org/abs/2308.00303)|null|
+|**2023-08-01**|**EC-Conf: A Ultra-fast Diffusion Model for Molecular Conformation Generation with Equivariant Consistency**|Zhiguang Fan et.al.|[2308.00237](http://arxiv.org/abs/2308.00237)|null|
+|**2023-07-31**|**DAVIS: High-Quality Audio-Visual Separation with Generative Diffusion Models**|Chao Huang et.al.|[2308.00122](http://arxiv.org/abs/2308.00122)|null|
 |**2023-07-31**|**Universal Adversarial Defense in Remote Sensing Based on Pre-trained Denoising Diffusion Models**|Weikang Yu et.al.|[2307.16865](http://arxiv.org/abs/2307.16865)|null|
 |**2023-07-31**|**DiffPose: SpatioTemporal Diffusion Model for Video-Based Human Pose Estimation**|Runyang Feng et.al.|[2307.16687](http://arxiv.org/abs/2307.16687)|null|
 |**2023-07-31**|**On the Trustworthiness Landscape of State-of-the-art Generative Models: A Comprehensive Survey**|Mingyuan Fan et.al.|[2307.16680](http://arxiv.org/abs/2307.16680)|null|
@@ -1629,6 +1638,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-01**|**Context-Aware Talking-Head Video Editing**|Songlin Yang et.al.|[2308.00462](http://arxiv.org/abs/2308.00462)|null|
 |**2023-07-17**|**CeRF: Convolutional Neural Radiance Fields for New View Synthesis with Derivatives of Ray Modeling**|Xiaoyan Yang et.al.|[2307.07125](http://arxiv.org/abs/2307.07125)|null|
 |**2023-06-28**|**Envisioning a Next Generation Extended Reality Conferencing System with Efficient Photorealistic Human Rendering**|Chuanyue Shen et.al.|[2306.16541](http://arxiv.org/abs/2306.16541)|null|
 |**2023-06-19**|**Renderers are Good Zero-Shot Representation Learners: Exploring Diffusion Latents for Metric Learning**|Michael Tang et.al.|[2306.10721](http://arxiv.org/abs/2306.10721)|**[link](https://github.com/michaelwilliamtang/golden-retriever)**|

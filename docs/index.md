@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.03
+## Updated on 2023.08.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -41,7 +41,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-02**|**Feature-aware conditional GAN for category text generation**|Xinze Li et.al.|[2308.00939](http://arxiv.org/abs/2308.00939)|null|
 |**2023-08-01**|**Graph Contrastive Learning with Generative Adversarial Network**|Cheng Wu et.al.|[2308.00535](http://arxiv.org/abs/2308.00535)|null|
-|**2023-08-01**|**A Deep Learning Approach for Virtual Contrast Enhancement in Contrast Enhanced Spectral Mammography**|Aurora Rofena et.al.|[2308.00471](http://arxiv.org/abs/2308.00471)|null|
+|**2023-08-03**|**A Deep Learning Approach for Virtual Contrast Enhancement in Contrast Enhanced Spectral Mammography**|Aurora Rofena et.al.|[2308.00471](http://arxiv.org/abs/2308.00471)|null|
 |**2023-08-01**|**Generative adversarial networks with physical sound field priors**|Xenofon Karakonstantis et.al.|[2308.00426](http://arxiv.org/abs/2308.00426)|**[link](https://github.com/xefonon/soundfieldgan)**|
 |**2023-08-01**|**SkullGAN: Synthetic Skull CT Generation with Generative Adversarial Networks**|Kasra Naftchi-Ardebili et.al.|[2308.00206](http://arxiv.org/abs/2308.00206)|**[link](https://github.com/kbp-lab/skullgan)**|
 |**2023-07-31**|**Controlling Geometric Abstraction and Texture for Artistic Images**|Martin Büßemeyer et.al.|[2308.00148](http://arxiv.org/abs/2308.00148)|**[link](https://github.com/MartinBuessemeyer/Artistic-Texture-Control)**|
@@ -500,7 +500,7 @@ layout: default
 |**2023-07-31**|**DAVIS: High-Quality Audio-Visual Separation with Generative Diffusion Models**|Chao Huang et.al.|[2308.00122](http://arxiv.org/abs/2308.00122)|null|
 |**2023-08-02**|**Universal Adversarial Defense in Remote Sensing Based on Pre-trained Denoising Diffusion Models**|Weikang Yu et.al.|[2307.16865](http://arxiv.org/abs/2307.16865)|null|
 |**2023-07-31**|**DiffPose: SpatioTemporal Diffusion Model for Video-Based Human Pose Estimation**|Runyang Feng et.al.|[2307.16687](http://arxiv.org/abs/2307.16687)|null|
-|**2023-07-31**|**On the Trustworthiness Landscape of State-of-the-art Generative Models: A Comprehensive Survey**|Mingyuan Fan et.al.|[2307.16680](http://arxiv.org/abs/2307.16680)|null|
+|**2023-08-03**|**On the Trustworthiness Landscape of State-of-the-art Generative Models: A Comprehensive Survey**|Mingyuan Fan et.al.|[2307.16680](http://arxiv.org/abs/2307.16680)|null|
 |**2023-07-31**|**Comparing normalizing flows and diffusion models for prosody and acoustic modelling in text-to-speech**|Guangyan Zhang et.al.|[2307.16679](http://arxiv.org/abs/2307.16679)|null|
 |**2023-07-31**|**Contrastive Conditional Latent Diffusion for Audio-visual Segmentation**|Yuxin Mao et.al.|[2307.16579](http://arxiv.org/abs/2307.16579)|null|
 |**2023-07-31**|**DiffProsody: Diffusion-based Latent Prosody Generation for Expressive Speech Synthesis with Prosody Conditional Adversarial Training**|Hyung-Seok Oh et.al.|[2307.16549](http://arxiv.org/abs/2307.16549)|**[link](https://github.com/hsoh0306/diffprosody)**|

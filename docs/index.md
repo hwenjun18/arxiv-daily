@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.04
+## Updated on 2023.08.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -40,7 +40,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-03**|**Deep Learning-based Prediction of Stress and Strain Maps in Arterial Walls for Improved Cardiovascular Risk Assessment**|Yasin Shokrollahi1 et.al.|[2308.01771](http://arxiv.org/abs/2308.01771)|null|
-|**2023-08-03**|**Interleaving GANs with knowledge graphs to support design creativity for book covers**|Alexandru Motogna et.al.|[2308.01626](http://arxiv.org/abs/2308.01626)|null|
+|**2023-08-03**|**Interleaving GANs with knowledge graphs to support design creativity for book covers**|Alexandru Motogna et.al.|[2308.01626](http://arxiv.org/abs/2308.01626)|**[link](https://github.com/alexmotogna/generatorapi)**|
 |**2023-08-03**|**Adversarial Training of Denoising Diffusion Model Using Dual Discriminators for High-Fidelity Multi-Speaker TTS**|Myeongjin Ko et.al.|[2308.01573](http://arxiv.org/abs/2308.01573)|**[link](https://github.com/komyeongjin/specdiff-gan)**|
 |**2023-08-02**|**Feature-aware conditional GAN for category text generation**|Xinze Li et.al.|[2308.00939](http://arxiv.org/abs/2308.00939)|null|
 |**2023-08-01**|**Graph Contrastive Learning with Generative Adversarial Network**|Cheng Wu et.al.|[2308.00535](http://arxiv.org/abs/2308.00535)|null|

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.07
+## Updated on 2023.08.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -1799,7 +1799,7 @@ layout: default
 |**2023-07-29**|**Global planar dynamics with a star node and contracting nolinearity**|Begoña Alarcón et.al.|[2307.16020](http://arxiv.org/abs/2307.16020)|null|
 |**2023-07-28**|**Fixed Flowers**|Md Abdul Aziz et.al.|[2307.15794](http://arxiv.org/abs/2307.15794)|null|
 |**2023-07-27**|**Learning Full-Head 3D GANs from a Single-View Portrait Dataset**|Yiqian Wu et.al.|[2307.14770](http://arxiv.org/abs/2307.14770)|null|
-|**2023-07-20**|**General Image-to-Image Translation with One-Shot Image Guidance**|Bin Cheng et.al.|[2307.14352](http://arxiv.org/abs/2307.14352)|**[link](https://github.com/crystalneuro/visual-concept-translator)**|
+|**2023-08-05**|**General Image-to-Image Translation with One-Shot Image Guidance**|Bin Cheng et.al.|[2307.14352](http://arxiv.org/abs/2307.14352)|**[link](https://github.com/crystalneuro/visual-concept-translator)**|
 |**2023-07-24**|**Launching Drifter Observations in the Presence of Uncertainty**|Nan Chen et.al.|[2307.12779](http://arxiv.org/abs/2307.12779)|null|
 |**2023-07-19**|**MODA: Mapping-Once Audio-driven Portrait Animation with Dual Attentions**|Yunfei Liu et.al.|[2307.10008](http://arxiv.org/abs/2307.10008)|null|
 |**2023-07-19**|**Our Model Achieves Excellent Performance on MovieLens: What Does it Mean?**|Yu-chen Fan et.al.|[2307.09985](http://arxiv.org/abs/2307.09985)|null|

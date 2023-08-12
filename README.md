@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.11
+## Updated on 2023.08.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -45,7 +45,7 @@
 |**2022-11-21**|**Towards Live 3D Reconstruction from Wearable Video: An Evaluation of V-SLAM, NeRF, and Videogrammetry Techniques**|David Ramirez et.al.|[2211.11836](http://arxiv.org/abs/2211.11836)|null|
 |**2022-11-14**|**Controllable GAN Synthesis Using Non-Rigid Structure-from-Motion**|René Haas et.al.|[2211.07195](http://arxiv.org/abs/2211.07195)|null|
 
-<p align=right>(<a href=#Updated-on-20230811>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230812>back to top</a>)</p>
 
 ## GAN
 
@@ -53,7 +53,7 @@
 |---|---|---|---|---|
 |**2023-08-10**|**SAR Target Image Generation Method Using Azimuth-Controllable Generative Adversarial Network**|Chenwei Wang et.al.|[2308.05489](http://arxiv.org/abs/2308.05489)|null|
 |**2023-08-10**|**Transforming Breast Cancer Diagnosis: Towards Real-Time Ultrasound to Mammogram Conversion for Cost-Effective Diagnosis**|Sahar Almahfouz Nasser et.al.|[2308.05449](http://arxiv.org/abs/2308.05449)|null|
-|**2023-08-09**|**Vector quantization loss analysis in VQGANs: a single-GPU ablation study for image-to-image synthesis**|Luv Verma et.al.|[2308.05242](http://arxiv.org/abs/2308.05242)|null|
+|**2023-08-09**|**Vector quantization loss analysis in VQGANs: a single-GPU ablation study for image-to-image synthesis**|Luv Verma et.al.|[2308.05242](http://arxiv.org/abs/2308.05242)|**[link](https://github.com/luv91/vqgan_project)**|
 |**2023-08-09**|**Deep Generative Networks for Heterogeneous Augmentation of Cranial Defects**|Kamil Kwarciak et.al.|[2308.04883](http://arxiv.org/abs/2308.04883)|null|
 |**2023-08-09**|**VAST: Vivify Your Talking Avatar via Zero-Shot Expressive Facial Style Transfer**|Liyang Chen et.al.|[2308.04830](http://arxiv.org/abs/2308.04830)|null|
 |**2023-08-09**|**GIFD: A Generative Gradient Inversion Method with Feature Domain Optimization**|Hao Fang et.al.|[2308.04699](http://arxiv.org/abs/2308.04699)|**[link](https://github.com/ffhibnese/gifd)**|
@@ -522,7 +522,7 @@
 |**2023-03-14**|**3D Face Arbitrary Style Transfer**|Xiangwen Deng et.al.|[2303.07709](http://arxiv.org/abs/2303.07709)|null|
 |**2023-03-13**|**AGTGAN: Unpaired Image Translation for Photographic Ancient Character Generation**|Hongxiang Huang et.al.|[2303.07012](http://arxiv.org/abs/2303.07012)|**[link](https://github.com/hellomystery/agtgan)**|
 
-<p align=right>(<a href=#Updated-on-20230811>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230812>back to top</a>)</p>
 
 ## Diffusion Model
 
@@ -543,8 +543,8 @@
 |**2023-08-08**|**Synthetic Augmentation with Large-scale Unconditional Pre-training**|Jiarong Ye et.al.|[2308.04020](http://arxiv.org/abs/2308.04020)|**[link](https://github.com/karenyyy/histodiffaug)**|
 |**2023-08-08**|**Target Speech Extraction with Conditional Diffusion Model**|Naoyuki Kamo et.al.|[2308.03987](http://arxiv.org/abs/2308.03987)|null|
 |**2023-08-07**|**A staggered-in-time and non-conforming-in-space numerical framework for realistic cardiac electrophysiology outputs**|Elena Zappon et.al.|[2308.03884](http://arxiv.org/abs/2308.03884)|null|
-|**2023-08-07**|**CaloDiffusion with GLaM for High Fidelity Calorimeter Simulation**|Oz Amram et.al.|[2308.03876](http://arxiv.org/abs/2308.03876)|null|
-|**2023-08-07**|**CaloScore v2: Single-shot Calorimeter Shower Simulation with Diffusion Models**|Vinicius Mikuni et.al.|[2308.03847](http://arxiv.org/abs/2308.03847)|null|
+|**2023-08-07**|**CaloDiffusion with GLaM for High Fidelity Calorimeter Simulation**|Oz Amram et.al.|[2308.03876](http://arxiv.org/abs/2308.03876)|**[link](https://github.com/ozamram/calodiffusionpaper)**|
+|**2023-08-07**|**CaloScore v2: Single-shot Calorimeter Shower Simulation with Diffusion Models**|Vinicius Mikuni et.al.|[2308.03847](http://arxiv.org/abs/2308.03847)|**[link](https://github.com/viniciusmikuni/caloscorev2)**|
 |**2023-08-07**|**Linear Convergence Bounds for Diffusion Models via Stochastic Localization**|Joe Benton et.al.|[2308.03686](http://arxiv.org/abs/2308.03686)|null|
 |**2023-08-07**|**Diffusion Model in Causal Inference with Unmeasured Confounders**|Tatsuhiro Shimizu et.al.|[2308.03669](http://arxiv.org/abs/2308.03669)|**[link](https://github.com/tatsu432/BDCM)**|
 |**2023-08-07**|**AvatarVerse: High-quality & Stable 3D Avatar Creation from Text and Pose**|Huichao Zhang et.al.|[2308.03610](http://arxiv.org/abs/2308.03610)|null|
@@ -1502,13 +1502,13 @@
 |**2023-03-15**|**DiffBEV: Conditional Diffusion Model for Bird's Eye View Perception**|Jiayu Zou et.al.|[2303.08333](http://arxiv.org/abs/2303.08333)|**[link](https://github.com/jiayuzou2020/diffbev)**|
 |**2023-03-16**|**VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation**|Zhengxiong Luo et.al.|[2303.08320](http://arxiv.org/abs/2303.08320)|null|
 
-<p align=right>(<a href=#Updated-on-20230811>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230812>back to top</a>)</p>
 
 ## Image Edit
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-08-09**|**A Forensic Methodology for Detecting Image Manipulations**|Jiwon Lee et.al.|[2308.04723](http://arxiv.org/abs/2308.04723)|null|
+|**2023-08-09**|**A Forensic Methodology for Detecting Image Manipulations**|Jiwon Lee et.al.|[2308.04723](http://arxiv.org/abs/2308.04723)|**[link](https://github.com/allinonee/manipulated-image-dataset)**|
 |**2023-08-08**|**Under-Display Camera Image Restoration with Scattering Effect**|Binbin Song et.al.|[2308.04163](http://arxiv.org/abs/2308.04163)|**[link](https://github.com/namecantbenull/srudc)**|
 |**2023-08-06**|**Nest-DGIL: Nesterov-optimized Deep Geometric Incremental Learning for CS Image Reconstruction**|Xiaohong Fan et.al.|[2308.03807](http://arxiv.org/abs/2308.03807)|**[link](https://github.com/fanxiaohong/Nest-DGIL)**|
 |**2023-08-06**|**PNN: From proximal algorithms to robust unfolded image denoising networks and Plug-and-Play methods**|Hoang Trieu Vy Le et.al.|[2308.03139](http://arxiv.org/abs/2308.03139)|null|
@@ -1733,7 +1733,7 @@
 |**2023-02-20**|**A Large Scale Homography Benchmark**|Daniel Barath et.al.|[2302.09997](http://arxiv.org/abs/2302.09997)|null|
 |**2023-02-19**|**LC-NeRF: Local Controllable Face Generation in Neural Randiance Field**|Wenyang Zhou et.al.|[2302.09486](http://arxiv.org/abs/2302.09486)|null|
 
-<p align=right>(<a href=#Updated-on-20230811>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230812>back to top</a>)</p>
 
 ## NeRF
 
@@ -1833,7 +1833,7 @@
 |**2022-12-30**|**NeRF-Gaze: A Head-Eye Redirection Parametric Model for Gaze Estimation**|Pengwei Yin et.al.|[2212.14710](http://arxiv.org/abs/2212.14710)|null|
 |**2023-03-21**|**Masked Wavelet Representation for Compact Neural Radiance Fields**|Daniel Rho et.al.|[2212.09069](http://arxiv.org/abs/2212.09069)|**[link](https://github.com/daniel03c1/masked_wavelet_nerf)**|
 
-<p align=right>(<a href=#Updated-on-20230811>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230812>back to top</a>)</p>
 
 ## Reshaping
 
@@ -1870,7 +1870,7 @@
 |**2022-05-13**|**F3A-GAN: Facial Flow for Face Animation with Generative Adversarial Networks**|Xintian Wu et.al.|[2205.06204](http://arxiv.org/abs/2205.06204)|null|
 |**2022-03-16**|**Efficient conditioned face animation using frontally-viewed embedding**|Maxime Oquab et.al.|[2203.08765](http://arxiv.org/abs/2203.08765)|null|
 
-<p align=right>(<a href=#Updated-on-20230811>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230812>back to top</a>)</p>
 
 ## Portrait 
 
@@ -1981,7 +1981,7 @@
 |**2023-03-01**|**DPE: Disentanglement of Pose and Expression for General Video Portrait Editing**|Youxin Pang et.al.|[2301.06281](http://arxiv.org/abs/2301.06281)|null|
 |**2023-01-03**|**StyleTalk: One-shot Talking Head Generation with Controllable Speaking Styles**|Yifeng Ma et.al.|[2301.01081](http://arxiv.org/abs/2301.01081)|**[link](https://github.com/fuxivirtualhuman/styletalk)**|
 
-<p align=right>(<a href=#Updated-on-20230811>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230812>back to top</a>)</p>
 
 ## Transfomer
 
@@ -2012,5 +2012,5 @@
 |**2012-01-21**|**Interior Static Stellar Model with Electric Charge as an Oscillator**|A. M. Baranov et.al.|[1201.4429](http://arxiv.org/abs/1201.4429)|null|
 |**2011-05-16**|**Exactness of the Euclidean algorithm and of the Rauzy induction on the space of interval exchange transfomations**|Tomasz Miernowski et.al.|[1104.3980](http://arxiv.org/abs/1104.3980)|null|
 
-<p align=right>(<a href=#Updated-on-20230811>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230812>back to top</a>)</p>
 

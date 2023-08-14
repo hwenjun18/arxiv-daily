@@ -39,6 +39,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-11**|**Taming the Power of Diffusion Models for High-Quality Virtual Try-On with Appearance Flow**|Junhong Gou et.al.|[2308.06101](http://arxiv.org/abs/2308.06101)|null|
+|**2023-08-11**|**Head Rotation in Denoising Diffusion Models**|Andrea Asperti et.al.|[2308.06057](http://arxiv.org/abs/2308.06057)|**[link](https://github.com/asperti/head-rotation)**|
+|**2023-08-10**|**UFed-GAN: A Secure Federated Learning Framework with Constrained Computation and Unlabeled Data**|Achintha Wijesinghe et.al.|[2308.05870](http://arxiv.org/abs/2308.05870)|null|
+|**2023-08-09**|**EEG-based Emotion Style Transfer Network for Cross-dataset Emotion Recognition**|Yijin Zhou et.al.|[2308.05767](http://arxiv.org/abs/2308.05767)|null|
 |**2023-08-10**|**SAR Target Image Generation Method Using Azimuth-Controllable Generative Adversarial Network**|Chenwei Wang et.al.|[2308.05489](http://arxiv.org/abs/2308.05489)|null|
 |**2023-08-10**|**Transforming Breast Cancer Diagnosis: Towards Real-Time Ultrasound to Mammogram Conversion for Cost-Effective Diagnosis**|Sahar Almahfouz Nasser et.al.|[2308.05449](http://arxiv.org/abs/2308.05449)|null|
 |**2023-08-09**|**Vector quantization loss analysis in VQGANs: a single-GPU ablation study for image-to-image synthesis**|Luv Verma et.al.|[2308.05242](http://arxiv.org/abs/2308.05242)|**[link](https://github.com/luv91/vqgan_project)**|
@@ -514,6 +518,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-11**|**DatasetDM: Synthesizing Data with Perception Annotations Using Diffusion Models**|Weijia Wu et.al.|[2308.06160](http://arxiv.org/abs/2308.06160)|**[link](https://github.com/showlab/datasetdm)**|
+|**2023-08-11**|**Taming the Power of Diffusion Models for High-Quality Virtual Try-On with Appearance Flow**|Junhong Gou et.al.|[2308.06101](http://arxiv.org/abs/2308.06101)|null|
+|**2023-08-11**|**Head Rotation in Denoising Diffusion Models**|Andrea Asperti et.al.|[2308.06057](http://arxiv.org/abs/2308.06057)|**[link](https://github.com/asperti/head-rotation)**|
+|**2023-08-11**|**Diverse Data Augmentation with Diffusions for Effective Test-time Prompt Tuning**|Chun-Mei Feng et.al.|[2308.06038](http://arxiv.org/abs/2308.06038)|null|
+|**2023-08-11**|**Masked-Attention Diffusion Guidance for Spatially Controlling Text-to-Image Generation**|Yuki Endo et.al.|[2308.06027](http://arxiv.org/abs/2308.06027)|null|
 |**2023-08-10**|**AudioLDM 2: Learning Holistic Audio Generation with Self-supervised Pretraining**|Haohe Liu et.al.|[2308.05734](http://arxiv.org/abs/2308.05734)|null|
 |**2023-08-10**|**PDE-Refiner: Achieving Accurate Long Rollouts with Neural PDE Solvers**|Phillip Lippe et.al.|[2308.05732](http://arxiv.org/abs/2308.05732)|null|
 |**2023-08-10**|**Masked Diffusion as Self-supervised Representation Learner**|Zixuan Pan et.al.|[2308.05695](http://arxiv.org/abs/2308.05695)|null|
@@ -1492,6 +1501,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-11**|**DatasetDM: Synthesizing Data with Perception Annotations Using Diffusion Models**|Weijia Wu et.al.|[2308.06160](http://arxiv.org/abs/2308.06160)|**[link](https://github.com/showlab/datasetdm)**|
+|**2023-08-11**|**Zero-shot Text-driven Physically Interpretable Face Editing**|Yapeng Meng et.al.|[2308.05976](http://arxiv.org/abs/2308.05976)|null|
 |**2023-08-09**|**A Forensic Methodology for Detecting Image Manipulations**|Jiwon Lee et.al.|[2308.04723](http://arxiv.org/abs/2308.04723)|**[link](https://github.com/allinonee/manipulated-image-dataset)**|
 |**2023-08-08**|**Under-Display Camera Image Restoration with Scattering Effect**|Binbin Song et.al.|[2308.04163](http://arxiv.org/abs/2308.04163)|**[link](https://github.com/namecantbenull/srudc)**|
 |**2023-08-06**|**Nest-DGIL: Nesterov-optimized Deep Geometric Incremental Learning for CS Image Reconstruction**|Xiaohong Fan et.al.|[2308.03807](http://arxiv.org/abs/2308.03807)|**[link](https://github.com/fanxiaohong/Nest-DGIL)**|
@@ -1819,6 +1830,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-11**|**Versatile Face Animator: Driving Arbitrary 3D Facial Avatar in RGBD Space**|Haoyu Wang et.al.|[2308.06076](http://arxiv.org/abs/2308.06076)|null|
 |**2023-08-10**|**Speech-Driven 3D Face Animation with Composite and Regional Facial Movements**|Haozhe Wu et.al.|[2308.05428](http://arxiv.org/abs/2308.05428)|**[link](https://github.com/wuhaozhe/audio2face_mm2023)**|
 |**2023-08-07**|**GaFET: Learning Geometry-aware Facial Expression Translation from In-The-Wild Images**|Tianxiang Ma et.al.|[2308.03413](http://arxiv.org/abs/2308.03413)|null|
 |**2023-07-20**|**Projectional Editors for JSON-Based DSLs**|Andrew McNutt et.al.|[2307.11260](http://arxiv.org/abs/2307.11260)|null|

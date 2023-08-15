@@ -51,6 +51,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-14**|**Jurassic World Remake: Bringing Ancient Fossils Back to Life via Zero-Shot Long Image-to-Image Translation**|Alexander Martin et.al.|[2308.07316](http://arxiv.org/abs/2308.07316)|**[link](https://github.com/alexmartin1722/Revive-2I)**|
+|**2023-08-14**|**A Unifying Generator Loss Function for Generative Adversarial Networks**|Justin Veiner et.al.|[2308.07233](http://arxiv.org/abs/2308.07233)|null|
+|**2023-08-14**|**AdvCLIP: Downstream-agnostic Adversarial Examples in Multimodal Contrastive Learning**|Ziqi Zhou et.al.|[2308.07026](http://arxiv.org/abs/2308.07026)|**[link](https://github.com/cgcl-codes/advclip)**|
+|**2023-08-14**|**Hierarchy Flow For High-Fidelity Image-to-Image Translation**|Weichen Fan et.al.|[2308.06909](http://arxiv.org/abs/2308.06909)|**[link](https://github.com/weichenfan/hierarchyflow)**|
+|**2023-08-13**|**Unsupervised Image Denoising in Real-World Scenarios via Self-Collaboration Parallel Generative Adversarial Branches**|Xin Lin et.al.|[2308.06776](http://arxiv.org/abs/2308.06776)|**[link](https://github.com/linxin0/scpgabnet)**|
+|**2023-08-13**|**Precipitation nowcasting with generative diffusion models**|Andrea Asperti et.al.|[2308.06733](http://arxiv.org/abs/2308.06733)|null|
+|**2023-08-13**|**ALGAN: Time Series Anomaly Detection with Adjusted-LSTM GAN**|Md Abul Bashar et.al.|[2308.06663](http://arxiv.org/abs/2308.06663)|null|
+|**2023-08-12**|**BigWavGAN: A Wave-To-Wave Generative Adversarial Network for Music Super-Resolution**|Yenan Zhang et.al.|[2308.06483](http://arxiv.org/abs/2308.06483)|null|
+|**2023-08-11**|**A Review on Classification of White Blood Cells Using Machine Learning Models**|Rabia Asghar et.al.|[2308.06296](http://arxiv.org/abs/2308.06296)|null|
 |**2023-08-11**|**Taming the Power of Diffusion Models for High-Quality Virtual Try-On with Appearance Flow**|Junhong Gou et.al.|[2308.06101](http://arxiv.org/abs/2308.06101)|**[link](https://github.com/bcmi/DCI-VTON-Virtual-Try-On)**|
 |**2023-08-11**|**Head Rotation in Denoising Diffusion Models**|Andrea Asperti et.al.|[2308.06057](http://arxiv.org/abs/2308.06057)|**[link](https://github.com/asperti/head-rotation)**|
 |**2023-08-10**|**UFed-GAN: A Secure Federated Learning Framework with Constrained Computation and Unlabeled Data**|Achintha Wijesinghe et.al.|[2308.05870](http://arxiv.org/abs/2308.05870)|null|
@@ -532,6 +541,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-14**|**Jurassic World Remake: Bringing Ancient Fossils Back to Life via Zero-Shot Long Image-to-Image Translation**|Alexander Martin et.al.|[2308.07316](http://arxiv.org/abs/2308.07316)|**[link](https://github.com/alexmartin1722/Revive-2I)**|
+|**2023-08-14**|**Bayesian Flow Networks**|Alex Graves et.al.|[2308.07037](http://arxiv.org/abs/2308.07037)|null|
+|**2023-08-14**|**Discrete Conditional Diffusion for Reranking in Recommendation**|Xiao Lin et.al.|[2308.06982](http://arxiv.org/abs/2308.06982)|null|
+|**2023-08-13**|**Well-posedness of a reaction-diffusion model with stochastic dynamical boundary conditions**|Mario Maurelli et.al.|[2308.06847](http://arxiv.org/abs/2308.06847)|null|
+|**2023-08-13**|**Shape-guided Conditional Latent Diffusion Models for Synthesising Brain Vasculature**|Yash Deo et.al.|[2308.06781](http://arxiv.org/abs/2308.06781)|null|
+|**2023-08-13**|**TextDiff: Mask-Guided Residual Diffusion Models for Scene Text Image Super-Resolution**|Baolin Liu et.al.|[2308.06743](http://arxiv.org/abs/2308.06743)|**[link](https://github.com/lenubolim/textdiff)**|
+|**2023-08-13**|**Free-ATM: Exploring Unsupervised Learning on Diffusion-Generated Images with Free Attention Masks**|David Junhao Zhang et.al.|[2308.06739](http://arxiv.org/abs/2308.06739)|null|
+|**2023-08-13**|**Precipitation nowcasting with generative diffusion models**|Andrea Asperti et.al.|[2308.06733](http://arxiv.org/abs/2308.06733)|null|
+|**2023-08-13**|**CLE Diffusion: Controllable Light Enhancement Diffusion Model**|Yuyang Yin et.al.|[2308.06725](http://arxiv.org/abs/2308.06725)|null|
+|**2023-08-13**|**IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models**|Hu Ye et.al.|[2308.06721](http://arxiv.org/abs/2308.06721)|null|
+|**2023-08-13**|**LAW-Diffusion: Complex Scene Generation by Diffusion with Layouts**|Binbin Yang et.al.|[2308.06713](http://arxiv.org/abs/2308.06713)|null|
+|**2023-08-12**|**Accelerating Diffusion-based Combinatorial Optimization Solvers by Progressive Distillation**|Junwei Huang et.al.|[2308.06644](http://arxiv.org/abs/2308.06644)|null|
+|**2023-08-12**|**CMR exploration II -- filament identification with machine learning**|Duo Xu et.al.|[2308.06641](http://arxiv.org/abs/2308.06641)|null|
+|**2023-08-12**|**EquiDiff: A Conditional Equivariant Diffusion Model For Trajectory Prediction**|Kehua Chen et.al.|[2308.06564](http://arxiv.org/abs/2308.06564)|null|
+|**2023-08-11**|**White-box Membership Inference Attacks against Diffusion Models**|Yan Pang et.al.|[2308.06405](http://arxiv.org/abs/2308.06405)|null|
+|**2023-08-11**|**Mirror Diffusion Models**|Jaesung Tae et.al.|[2308.06342](http://arxiv.org/abs/2308.06342)|null|
 |**2023-08-11**|**DatasetDM: Synthesizing Data with Perception Annotations Using Diffusion Models**|Weijia Wu et.al.|[2308.06160](http://arxiv.org/abs/2308.06160)|**[link](https://github.com/showlab/datasetdm)**|
 |**2023-08-11**|**Taming the Power of Diffusion Models for High-Quality Virtual Try-On with Appearance Flow**|Junhong Gou et.al.|[2308.06101](http://arxiv.org/abs/2308.06101)|**[link](https://github.com/bcmi/DCI-VTON-Virtual-Try-On)**|
 |**2023-08-11**|**Head Rotation in Denoising Diffusion Models**|Andrea Asperti et.al.|[2308.06057](http://arxiv.org/abs/2308.06057)|**[link](https://github.com/asperti/head-rotation)**|
@@ -1517,6 +1542,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-14**|**Jurassic World Remake: Bringing Ancient Fossils Back to Life via Zero-Shot Long Image-to-Image Translation**|Alexander Martin et.al.|[2308.07316](http://arxiv.org/abs/2308.07316)|**[link](https://github.com/alexmartin1722/Revive-2I)**|
 |**2023-08-11**|**DatasetDM: Synthesizing Data with Perception Annotations Using Diffusion Models**|Weijia Wu et.al.|[2308.06160](http://arxiv.org/abs/2308.06160)|**[link](https://github.com/showlab/datasetdm)**|
 |**2023-08-11**|**Zero-shot Text-driven Physically Interpretable Face Editing**|Yapeng Meng et.al.|[2308.05976](http://arxiv.org/abs/2308.05976)|null|
 |**2023-08-09**|**A Forensic Methodology for Detecting Image Manipulations**|Jiwon Lee et.al.|[2308.04723](http://arxiv.org/abs/2308.04723)|**[link](https://github.com/allinonee/manipulated-image-dataset)**|
@@ -1767,7 +1793,7 @@
 |**2023-06-13**|**DORSal: Diffusion for Object-centric Representations of Scenes $\textit{et al.}$**|Allan Jabri et.al.|[2306.08068](http://arxiv.org/abs/2306.08068)|null|
 |**2023-06-08**|**StreetSurf: Extending Multi-view Implicit Surface Reconstruction to Street Views**|Jianfei Guo et.al.|[2306.04988](http://arxiv.org/abs/2306.04988)|null|
 |**2023-08-02**|**Ada-TTA: Towards Adaptive High-Quality Text-to-Talking Avatar Synthesis**|Zhenhui Ye et.al.|[2306.03504](http://arxiv.org/abs/2306.03504)|null|
-|**2023-06-12**|**Neuralangelo: High-Fidelity Neural Surface Reconstruction**|Zhaoshuo Li et.al.|[2306.03092](http://arxiv.org/abs/2306.03092)|null|
+|**2023-06-12**|**Neuralangelo: High-Fidelity Neural Surface Reconstruction**|Zhaoshuo Li et.al.|[2306.03092](http://arxiv.org/abs/2306.03092)|**[link](https://github.com/NVlabs/neuralangelo)**|
 |**2023-06-05**|**BeyondPixels: A Comprehensive Review of the Evolution of Neural Radiance Fields**|AKM Shahariar Azad Rabby et.al.|[2306.03000](http://arxiv.org/abs/2306.03000)|null|
 |**2023-05-31**|**Towards Neural Path Tracing in SRAM**|Mark Pupilli et.al.|[2305.20061](http://arxiv.org/abs/2305.20061)|null|
 |**2023-05-31**|**Towards a Robust Framework for NeRF Evaluation**|Adrian Azzarelli et.al.|[2305.18079](http://arxiv.org/abs/2305.18079)|**[link](https://github.com/azzarelli/wape)**|

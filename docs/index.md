@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.17
+## Updated on 2023.08.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -542,12 +542,12 @@ layout: default
 |**2023-08-15**|**CCD-3DR: Consistent Conditioning in Diffusion for Single-Image 3D Reconstruction**|Yan Di et.al.|[2308.07837](http://arxiv.org/abs/2308.07837)|null|
 |**2023-08-15**|**Dancing Avatar: Pose and Text-Guided Human Motion Videos Synthesis with Image Diffusion Model**|Bosheng Qin et.al.|[2308.07749](http://arxiv.org/abs/2308.07749)|null|
 |**2023-08-16**|**DiffGuard: Semantic Mismatch-Guided Out-of-Distribution Detection using Pre-trained Diffusion Models**|Ruiyuan Gao et.al.|[2308.07687](http://arxiv.org/abs/2308.07687)|**[link](https://github.com/cure-lab/diffguard)**|
-|**2023-08-15**|**Maat: Performance Metric Anomaly Anticipation for Cloud Services with Conditional Diffusion**|Cheryl Lee et.al.|[2308.07676](http://arxiv.org/abs/2308.07676)|null|
+|**2023-08-15**|**Maat: Performance Metric Anomaly Anticipation for Cloud Services with Conditional Diffusion**|Cheryl Lee et.al.|[2308.07676](http://arxiv.org/abs/2308.07676)|**[link](https://github.com/bebillionaireusd/maat)**|
 |**2023-08-15**|**Inversion-by-Inversion: Exemplar-based Sketch-to-Photo Synthesis via Stochastic Differential Equations without Training**|Ximing Xing et.al.|[2308.07665](http://arxiv.org/abs/2308.07665)|null|
-|**2023-08-15**|**SGDiff: A Style Guided Diffusion Model for Fashion Synthesis**|Zhengwentai Sun et.al.|[2308.07605](http://arxiv.org/abs/2308.07605)|null|
+|**2023-08-15**|**SGDiff: A Style Guided Diffusion Model for Fashion Synthesis**|Zhengwentai Sun et.al.|[2308.07605](http://arxiv.org/abs/2308.07605)|**[link](https://github.com/taited/sgdiff)**|
 |**2023-08-14**|**UniBrain: Unify Image Reconstruction and Captioning All in One Diffusion Model from Human Brain Activity**|Weijian Mai et.al.|[2308.07428](http://arxiv.org/abs/2308.07428)|null|
 |**2023-08-14**|**U-Turn Diffusion**|Hamidreza Behjoo et.al.|[2308.07421](http://arxiv.org/abs/2308.07421)|null|
-|**2023-08-14**|**DiffHopp: A Graph Diffusion Model for Novel Drug Design via Scaffold Hopping**|Jos Torge et.al.|[2308.07416](http://arxiv.org/abs/2308.07416)|null|
+|**2023-08-14**|**DiffHopp: A Graph Diffusion Model for Novel Drug Design via Scaffold Hopping**|Jos Torge et.al.|[2308.07416](http://arxiv.org/abs/2308.07416)|**[link](https://github.com/jostorge/diffusion-hopping)**|
 |**2023-08-14**|**Jurassic World Remake: Bringing Ancient Fossils Back to Life via Zero-Shot Long Image-to-Image Translation**|Alexander Martin et.al.|[2308.07316](http://arxiv.org/abs/2308.07316)|**[link](https://github.com/alexmartin1722/Revive-2I)**|
 |**2023-08-14**|**Bayesian Flow Networks**|Alex Graves et.al.|[2308.07037](http://arxiv.org/abs/2308.07037)|null|
 |**2023-08-14**|**Discrete Conditional Diffusion for Reranking in Recommendation**|Xiao Lin et.al.|[2308.06982](http://arxiv.org/abs/2308.06982)|null|

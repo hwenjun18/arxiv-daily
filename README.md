@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.17
+## Updated on 2023.08.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -45,7 +45,7 @@
 |**2022-11-21**|**Towards Live 3D Reconstruction from Wearable Video: An Evaluation of V-SLAM, NeRF, and Videogrammetry Techniques**|David Ramirez et.al.|[2211.11836](http://arxiv.org/abs/2211.11836)|null|
 |**2022-11-14**|**Controllable GAN Synthesis Using Non-Rigid Structure-from-Motion**|René Haas et.al.|[2211.07195](http://arxiv.org/abs/2211.07195)|null|
 
-<p align=right>(<a href=#Updated-on-20230817>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230818>back to top</a>)</p>
 
 ## GAN
 
@@ -541,7 +541,7 @@
 |**2023-03-14**|**3D Face Arbitrary Style Transfer**|Xiangwen Deng et.al.|[2303.07709](http://arxiv.org/abs/2303.07709)|null|
 |**2023-03-13**|**AGTGAN: Unpaired Image Translation for Photographic Ancient Character Generation**|Hongxiang Huang et.al.|[2303.07012](http://arxiv.org/abs/2303.07012)|**[link](https://github.com/hellomystery/agtgan)**|
 
-<p align=right>(<a href=#Updated-on-20230817>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230818>back to top</a>)</p>
 
 ## Diffusion Model
 
@@ -556,12 +556,12 @@
 |**2023-08-15**|**CCD-3DR: Consistent Conditioning in Diffusion for Single-Image 3D Reconstruction**|Yan Di et.al.|[2308.07837](http://arxiv.org/abs/2308.07837)|null|
 |**2023-08-15**|**Dancing Avatar: Pose and Text-Guided Human Motion Videos Synthesis with Image Diffusion Model**|Bosheng Qin et.al.|[2308.07749](http://arxiv.org/abs/2308.07749)|null|
 |**2023-08-16**|**DiffGuard: Semantic Mismatch-Guided Out-of-Distribution Detection using Pre-trained Diffusion Models**|Ruiyuan Gao et.al.|[2308.07687](http://arxiv.org/abs/2308.07687)|**[link](https://github.com/cure-lab/diffguard)**|
-|**2023-08-15**|**Maat: Performance Metric Anomaly Anticipation for Cloud Services with Conditional Diffusion**|Cheryl Lee et.al.|[2308.07676](http://arxiv.org/abs/2308.07676)|null|
+|**2023-08-15**|**Maat: Performance Metric Anomaly Anticipation for Cloud Services with Conditional Diffusion**|Cheryl Lee et.al.|[2308.07676](http://arxiv.org/abs/2308.07676)|**[link](https://github.com/bebillionaireusd/maat)**|
 |**2023-08-15**|**Inversion-by-Inversion: Exemplar-based Sketch-to-Photo Synthesis via Stochastic Differential Equations without Training**|Ximing Xing et.al.|[2308.07665](http://arxiv.org/abs/2308.07665)|null|
-|**2023-08-15**|**SGDiff: A Style Guided Diffusion Model for Fashion Synthesis**|Zhengwentai Sun et.al.|[2308.07605](http://arxiv.org/abs/2308.07605)|null|
+|**2023-08-15**|**SGDiff: A Style Guided Diffusion Model for Fashion Synthesis**|Zhengwentai Sun et.al.|[2308.07605](http://arxiv.org/abs/2308.07605)|**[link](https://github.com/taited/sgdiff)**|
 |**2023-08-14**|**UniBrain: Unify Image Reconstruction and Captioning All in One Diffusion Model from Human Brain Activity**|Weijian Mai et.al.|[2308.07428](http://arxiv.org/abs/2308.07428)|null|
 |**2023-08-14**|**U-Turn Diffusion**|Hamidreza Behjoo et.al.|[2308.07421](http://arxiv.org/abs/2308.07421)|null|
-|**2023-08-14**|**DiffHopp: A Graph Diffusion Model for Novel Drug Design via Scaffold Hopping**|Jos Torge et.al.|[2308.07416](http://arxiv.org/abs/2308.07416)|null|
+|**2023-08-14**|**DiffHopp: A Graph Diffusion Model for Novel Drug Design via Scaffold Hopping**|Jos Torge et.al.|[2308.07416](http://arxiv.org/abs/2308.07416)|**[link](https://github.com/jostorge/diffusion-hopping)**|
 |**2023-08-14**|**Jurassic World Remake: Bringing Ancient Fossils Back to Life via Zero-Shot Long Image-to-Image Translation**|Alexander Martin et.al.|[2308.07316](http://arxiv.org/abs/2308.07316)|**[link](https://github.com/alexmartin1722/Revive-2I)**|
 |**2023-08-14**|**Bayesian Flow Networks**|Alex Graves et.al.|[2308.07037](http://arxiv.org/abs/2308.07037)|null|
 |**2023-08-14**|**Discrete Conditional Diffusion for Reranking in Recommendation**|Xiao Lin et.al.|[2308.06982](http://arxiv.org/abs/2308.06982)|null|
@@ -1557,7 +1557,7 @@
 |**2023-03-15**|**DiffBEV: Conditional Diffusion Model for Bird's Eye View Perception**|Jiayu Zou et.al.|[2303.08333](http://arxiv.org/abs/2303.08333)|**[link](https://github.com/jiayuzou2020/diffbev)**|
 |**2023-03-16**|**VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation**|Zhengxiong Luo et.al.|[2303.08320](http://arxiv.org/abs/2303.08320)|null|
 
-<p align=right>(<a href=#Updated-on-20230817>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230818>back to top</a>)</p>
 
 ## Image Edit
 
@@ -1791,7 +1791,7 @@
 |**2023-02-20**|**A Large Scale Homography Benchmark**|Daniel Barath et.al.|[2302.09997](http://arxiv.org/abs/2302.09997)|null|
 |**2023-02-19**|**LC-NeRF: Local Controllable Face Generation in Neural Randiance Field**|Wenyang Zhou et.al.|[2302.09486](http://arxiv.org/abs/2302.09486)|null|
 
-<p align=right>(<a href=#Updated-on-20230817>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230818>back to top</a>)</p>
 
 ## NeRF
 
@@ -1891,7 +1891,7 @@
 |**2022-12-30**|**NeRF-Gaze: A Head-Eye Redirection Parametric Model for Gaze Estimation**|Pengwei Yin et.al.|[2212.14710](http://arxiv.org/abs/2212.14710)|null|
 |**2023-03-21**|**Masked Wavelet Representation for Compact Neural Radiance Fields**|Daniel Rho et.al.|[2212.09069](http://arxiv.org/abs/2212.09069)|**[link](https://github.com/daniel03c1/masked_wavelet_nerf)**|
 
-<p align=right>(<a href=#Updated-on-20230817>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230818>back to top</a>)</p>
 
 ## Reshaping
 
@@ -1929,7 +1929,7 @@
 |**2022-05-13**|**F3A-GAN: Facial Flow for Face Animation with Generative Adversarial Networks**|Xintian Wu et.al.|[2205.06204](http://arxiv.org/abs/2205.06204)|null|
 |**2022-03-16**|**Efficient conditioned face animation using frontally-viewed embedding**|Maxime Oquab et.al.|[2203.08765](http://arxiv.org/abs/2203.08765)|null|
 
-<p align=right>(<a href=#Updated-on-20230817>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230818>back to top</a>)</p>
 
 ## Portrait 
 
@@ -2041,7 +2041,7 @@
 |**2023-03-01**|**DPE: Disentanglement of Pose and Expression for General Video Portrait Editing**|Youxin Pang et.al.|[2301.06281](http://arxiv.org/abs/2301.06281)|null|
 |**2023-01-03**|**StyleTalk: One-shot Talking Head Generation with Controllable Speaking Styles**|Yifeng Ma et.al.|[2301.01081](http://arxiv.org/abs/2301.01081)|**[link](https://github.com/fuxivirtualhuman/styletalk)**|
 
-<p align=right>(<a href=#Updated-on-20230817>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230818>back to top</a>)</p>
 
 ## Transfomer
 
@@ -2072,5 +2072,5 @@
 |**2012-01-21**|**Interior Static Stellar Model with Electric Charge as an Oscillator**|A. M. Baranov et.al.|[1201.4429](http://arxiv.org/abs/1201.4429)|null|
 |**2011-05-16**|**Exactness of the Euclidean algorithm and of the Rauzy induction on the space of interval exchange transfomations**|Tomasz Miernowski et.al.|[1104.3980](http://arxiv.org/abs/1104.3980)|null|
 
-<p align=right>(<a href=#Updated-on-20230817>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230818>back to top</a>)</p>
 

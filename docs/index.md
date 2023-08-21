@@ -39,6 +39,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-18**|**Data augmentation and explainability for bias discovery and mitigation in deep learning**|Agnieszka Mikołajczyk-Bareła et.al.|[2308.09464](http://arxiv.org/abs/2308.09464)|null|
+|**2023-08-18**|**A review of technical factors to consider when designing neural networks for semantic segmentation of Earth Observation imagery**|Sam Khallaghi et.al.|[2308.09221](http://arxiv.org/abs/2308.09221)|null|
+|**2023-08-17**|**Distributed Extra-gradient with Optimal Complexity and Communication Guarantees**|Ali Ramezani-Kebrya et.al.|[2308.09187](http://arxiv.org/abs/2308.09187)|**[link](https://github.com/lions-epfl/qgenx)**|
+|**2023-08-17**|**Don't lose the message while paraphrasing: A study on content preserving style transfer**|Nikolay Babakov et.al.|[2308.09055](http://arxiv.org/abs/2308.09055)|null|
+|**2023-08-17**|**SR-GAN for SR-gamma: photon super resolution at collider experiments**|Johannes Erdmann et.al.|[2308.09025](http://arxiv.org/abs/2308.09025)|null|
+|**2023-08-17**|**A White-Box False Positive Adversarial Attack Method on Contrastive Loss-Based Offline Handwritten Signature Verification Models**|Zhongliang Guo et.al.|[2308.08925](http://arxiv.org/abs/2308.08925)|null|
+|**2023-08-17**|**An Effective Deep Learning Based Multi-Class Classification of DoS and DDoS Attack Detection**|Arun Kumar Silivery et.al.|[2308.08803](http://arxiv.org/abs/2308.08803)|null|
+|**2023-08-16**|**Fair GANs through model rebalancing with synthetic data**|Anubhav Jain et.al.|[2308.08638](http://arxiv.org/abs/2308.08638)|null|
 |**2023-08-15**|**Implementing Quantum Generative Adversarial Network (qGAN) and QCBM in Finance**|Santanu Ganguly et.al.|[2308.08448](http://arxiv.org/abs/2308.08448)|null|
 |**2023-08-16**|**Diff-CAPTCHA: An Image-based CAPTCHA with Security Enhanced by Denoising Diffusion Model**|Ran Jiang et.al.|[2308.08367](http://arxiv.org/abs/2308.08367)|null|
 |**2023-08-16**|**Denoising Diffusion Probabilistic Model for Retinal Image Generation and Segmentation**|Alnur Alimanov et.al.|[2308.08339](http://arxiv.org/abs/2308.08339)|**[link](https://github.com/aaleka/retree)**|
@@ -533,6 +541,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-18**|**Diff2Lip: Audio Conditioned Diffusion Models for Lip-Synchronization**|Soumik Mukhopadhyay et.al.|[2308.09716](http://arxiv.org/abs/2308.09716)|**[link](https://github.com/soumik-kanad/diff2lip)**|
+|**2023-08-18**|**HumanLiff: Layer-wise 3D Human Generation with Diffusion Model**|Shoukang Hu et.al.|[2308.09712](http://arxiv.org/abs/2308.09712)|null|
+|**2023-08-18**|**Guide3D: Create 3D Avatars from Text and Image Guidance**|Yukang Cao et.al.|[2308.09705](http://arxiv.org/abs/2308.09705)|null|
+|**2023-08-18**|**Language-Guided Diffusion Model for Visual Grounding**|Sijia Chen et.al.|[2308.09599](http://arxiv.org/abs/2308.09599)|null|
+|**2023-08-18**|**StableVideo: Text-driven Consistency-aware Diffusion Video Editing**|Wenhao Chai et.al.|[2308.09592](http://arxiv.org/abs/2308.09592)|**[link](https://github.com/rese1f/stablevideo)**|
+|**2023-08-18**|**O^2-Recon: Completing 3D Reconstruction of Occluded Objects in the Scene with a Pre-trained 2D Diffusion Model**|Yubin Hu et.al.|[2308.09591](http://arxiv.org/abs/2308.09591)|null|
+|**2023-08-18**|**Denoising Diffusion for 3D Hand Pose Estimation from Images**|Maksym Ivashechkin et.al.|[2308.09523](http://arxiv.org/abs/2308.09523)|null|
+|**2023-08-18**|**Diffusion Models for Image Restoration and Enhancement -- A Comprehensive Survey**|Xin Li et.al.|[2308.09388](http://arxiv.org/abs/2308.09388)|null|
+|**2023-08-18**|**DiffDis: Empowering Generative Diffusion Model with Cross-Modal Discrimination Capability**|Runhui Huang et.al.|[2308.09306](http://arxiv.org/abs/2308.09306)|null|
+|**2023-08-18**|**DiffLLE: Diffusion-guided Domain Calibration for Unsupervised Low-light Image Enhancement**|Shuzhou Yang et.al.|[2308.09279](http://arxiv.org/abs/2308.09279)|null|
+|**2023-08-18**|**MATLABER: Material-Aware Text-to-3D via LAtent BRDF auto-EncodeR**|Xudong Xu et.al.|[2308.09278](http://arxiv.org/abs/2308.09278)|null|
+|**2023-08-18**|**DMCVR: Morphology-Guided Diffusion Model for 3D Cardiac Volume Reconstruction**|Xiaoxiao He et.al.|[2308.09223](http://arxiv.org/abs/2308.09223)|**[link](https://github.com/hexiaoxiao-cs/dmcvr)**|
+|**2023-08-17**|**Edit Temporal-Consistent Videos with Image Diffusion Model**|Yuanzhi Wang et.al.|[2308.09091](http://arxiv.org/abs/2308.09091)|null|
+|**2023-08-17**|**Closed-form approximations of moments and densities of continuous-time Markov models**|Dennis Kristensen et.al.|[2308.09009](http://arxiv.org/abs/2308.09009)|null|
+|**2023-08-17**|**Watch Your Steps: Local Image and Scene Editing by Text Instructions**|Ashkan Mirzaei et.al.|[2308.08947](http://arxiv.org/abs/2308.08947)|null|
+|**2023-08-17**|**Semi-analytic pricing of American options in some time-dependent jump-diffusion models**|Andrey Itkin et.al.|[2308.08760](http://arxiv.org/abs/2308.08760)|null|
+|**2023-08-17**|**Learning A Coarse-to-Fine Diffusion Transformer for Image Restoration**|Liyan Wang et.al.|[2308.08730](http://arxiv.org/abs/2308.08730)|**[link](https://github.com/wlydlut/c2f-dft)**|
 |**2023-08-16**|**TeCH: Text-guided Reconstruction of Lifelike Clothed Humans**|Yangyi Huang et.al.|[2308.08545](http://arxiv.org/abs/2308.08545)|null|
 |**2023-08-16**|**Diff-CAPTCHA: An Image-based CAPTCHA with Security Enhanced by Denoising Diffusion Model**|Ran Jiang et.al.|[2308.08367](http://arxiv.org/abs/2308.08367)|null|
 |**2023-08-18**|**Dual-Stream Diffusion Net for Text-to-Video Generation**|Binhui Liu et.al.|[2308.08316](http://arxiv.org/abs/2308.08316)|null|
@@ -1547,6 +1572,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-18**|**Diffusion Models for Image Restoration and Enhancement -- A Comprehensive Survey**|Xin Li et.al.|[2308.09388](http://arxiv.org/abs/2308.09388)|null|
+|**2023-08-17**|**Learning A Coarse-to-Fine Diffusion Transformer for Image Restoration**|Liyan Wang et.al.|[2308.08730](http://arxiv.org/abs/2308.08730)|**[link](https://github.com/wlydlut/c2f-dft)**|
 |**2023-08-14**|**Jurassic World Remake: Bringing Ancient Fossils Back to Life via Zero-Shot Long Image-to-Image Translation**|Alexander Martin et.al.|[2308.07316](http://arxiv.org/abs/2308.07316)|**[link](https://github.com/alexmartin1722/Revive-2I)**|
 |**2023-08-11**|**DatasetDM: Synthesizing Data with Perception Annotations Using Diffusion Models**|Weijia Wu et.al.|[2308.06160](http://arxiv.org/abs/2308.06160)|**[link](https://github.com/showlab/datasetdm)**|
 |**2023-08-11**|**Zero-shot Text-driven Physically Interpretable Face Editing**|Yapeng Meng et.al.|[2308.05976](http://arxiv.org/abs/2308.05976)|null|
@@ -1779,6 +1806,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-18**|**HumanLiff: Layer-wise 3D Human Generation with Diffusion Model**|Shoukang Hu et.al.|[2308.09712](http://arxiv.org/abs/2308.09712)|null|
 |**2023-08-07**|**Explicifying Neural Implicit Fields for Efficient Dynamic Human Avatar Modeling via a Neural Explicit Surface**|Ruiqi Zhang et.al.|[2308.05112](http://arxiv.org/abs/2308.05112)|null|
 |**2023-08-09**|**WaveNeRF: Wavelet-based Generalizable Neural Radiance Fields**|Muyu Xu et.al.|[2308.04826](http://arxiv.org/abs/2308.04826)|null|
 |**2023-08-08**|**Rendering Humans from Object-Occluded Monocular Videos**|Tiange Xiang et.al.|[2308.04622](http://arxiv.org/abs/2308.04622)|null|

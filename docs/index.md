@@ -39,6 +39,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-21**|**Color Prompting for Data-Free Continual Unsupervised Domain Adaptive Person Re-Identification**|Jianyang Gu et.al.|[2308.10716](http://arxiv.org/abs/2308.10716)|**[link](https://github.com/vimar-gu/colorpromptreid)**|
+|**2023-08-21**|**Improving the Transferability of Adversarial Examples with Arbitrary Style Transfer**|Zhijin Ge et.al.|[2308.10601](http://arxiv.org/abs/2308.10601)|**[link](https://github.com/zhijin-ge/stm)**|
+|**2023-08-21**|**RADIANCE: Radio-Frequency Adversarial Deep-learning Inference for Automated Network Coverage Estimation**|Sopan Sarkar et.al.|[2308.10584](http://arxiv.org/abs/2308.10584)|null|
+|**2023-08-20**|**Turning Waste into Wealth: Leveraging Low-Quality Samples for Enhancing Continuous Conditional Generative Adversarial Networks**|Xin Ding et.al.|[2308.10273](http://arxiv.org/abs/2308.10273)|null|
+|**2023-08-20**|**Contrastive Diffusion Model with Auxiliary Guidance for Coarse-to-Fine PET Reconstruction**|Zeyu Han et.al.|[2308.10157](http://arxiv.org/abs/2308.10157)|**[link](https://github.com/show-han/pet-reconstruction)**|
+|**2023-08-19**|**Deep Generative Modeling-based Data Augmentation with Demonstration using the BFBT Benchmark Void Fraction Datasets**|Farah Alsafadi et.al.|[2308.10120](http://arxiv.org/abs/2308.10120)|null|
+|**2023-08-19**|**Controllable Multi-domain Semantic Artwork Synthesis**|Yuantian Huang et.al.|[2308.10111](http://arxiv.org/abs/2308.10111)|null|
+|**2023-08-19**|**Physics-guided training of GAN to improve accuracy in airfoil design synthesis**|Kazunari Wada et.al.|[2308.10038](http://arxiv.org/abs/2308.10038)|null|
+|**2023-08-19**|**EGANS: Evolutionary Generative Adversarial Network Search for Zero-Shot Learning**|Shiming Chen et.al.|[2308.09915](http://arxiv.org/abs/2308.09915)|null|
+|**2023-08-19**|**Generative Adversarial Networks Unlearning**|Hui Sun et.al.|[2308.09881](http://arxiv.org/abs/2308.09881)|null|
 |**2023-08-18**|**Data augmentation and explainability for bias discovery and mitigation in deep learning**|Agnieszka Mikołajczyk-Bareła et.al.|[2308.09464](http://arxiv.org/abs/2308.09464)|null|
 |**2023-08-18**|**A review of technical factors to consider when designing neural networks for semantic segmentation of Earth Observation imagery**|Sam Khallaghi et.al.|[2308.09221](http://arxiv.org/abs/2308.09221)|null|
 |**2023-08-17**|**Distributed Extra-gradient with Optimal Complexity and Communication Guarantees**|Ali Ramezani-Kebrya et.al.|[2308.09187](http://arxiv.org/abs/2308.09187)|**[link](https://github.com/lions-epfl/qgenx)**|
@@ -541,6 +551,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-21**|**TADA! Text to Animatable Digital Avatars**|Tingting Liao et.al.|[2308.10899](http://arxiv.org/abs/2308.10899)|null|
+|**2023-08-21**|**Backdooring Textual Inversion for Concept Censorship**|Yutong wu et.al.|[2308.10718](http://arxiv.org/abs/2308.10718)|null|
+|**2023-08-21**|**EVE: Efficient zero-shot text-based Video Editing with Depth Map Guidance and Temporal Consistency Constraints**|Yutao Chen et.al.|[2308.10648](http://arxiv.org/abs/2308.10648)|null|
+|**2023-08-21**|**Frequency Compensated Diffusion Model for Real-scene Dehazing**|Jing Wang et.al.|[2308.10510](http://arxiv.org/abs/2308.10510)|null|
+|**2023-08-21**|**Texture Generation on 3D Meshes with Point-UV Diffusion**|Xin Yu et.al.|[2308.10490](http://arxiv.org/abs/2308.10490)|null|
+|**2023-08-21**|**DySuse: Susceptibility Estimation in Dynamic Social Networks**|Yingdan Shi et.al.|[2308.10442](http://arxiv.org/abs/2308.10442)|null|
+|**2023-08-21**|**Multi-GradSpeech: Towards Diffusion-based Multi-Speaker Text-to-speech Using Consistent Diffusion Models**|Heyang Xue et.al.|[2308.10428](http://arxiv.org/abs/2308.10428)|null|
+|**2023-08-20**|**Turning Waste into Wealth: Leveraging Low-Quality Samples for Enhancing Continuous Conditional Generative Adversarial Networks**|Xin Ding et.al.|[2308.10273](http://arxiv.org/abs/2308.10273)|null|
+|**2023-08-20**|**Make-It-4D: Synthesizing a Consistent Long-Term Dynamic Scene Video from a Single Image**|Liao Shen et.al.|[2308.10257](http://arxiv.org/abs/2308.10257)|null|
+|**2023-08-20**|**Spiking-Diffusion: Vector Quantized Discrete Diffusion Model with Spiking Neural Networks**|Mingxuan Liu et.al.|[2308.10187](http://arxiv.org/abs/2308.10187)|**[link](https://github.com/Arktis2022/Spiking-Diffusion)**|
+|**2023-08-20**|**Contrastive Diffusion Model with Auxiliary Guidance for Coarse-to-Fine PET Reconstruction**|Zeyu Han et.al.|[2308.10157](http://arxiv.org/abs/2308.10157)|**[link](https://github.com/show-han/pet-reconstruction)**|
+|**2023-08-20**|**SSMG: Spatial-Semantic Map Guided Diffusion Model for Free-form Layout-to-Image Generation**|Chengyou Jia et.al.|[2308.10156](http://arxiv.org/abs/2308.10156)|null|
+|**2023-08-20**|**Disorder-induced linear magnetoresistance in Al $_2$O$_3$/SrTiO$_3$ heterostructures**|Gao Kuang Hong et.al.|[2308.10152](http://arxiv.org/abs/2308.10152)|null|
+|**2023-08-19**|**MeDM: Mediating Image Diffusion Models for Video-to-Video Translation with Temporal Correspondence Guidance**|Ernie Chu et.al.|[2308.10079](http://arxiv.org/abs/2308.10079)|null|
+|**2023-08-19**|**ControlCom: Controllable Image Composition using Diffusion Model**|Bo Zhang et.al.|[2308.10040](http://arxiv.org/abs/2308.10040)|null|
+|**2023-08-19**|**AltDiffusion: A Multilingual Text-to-Image Diffusion Model**|Fulong Ye et.al.|[2308.09991](http://arxiv.org/abs/2308.09991)|null|
+|**2023-08-19**|**Physics-Guided Human Motion Capture with Pose Probability Modeling**|Jingyi Ju et.al.|[2308.09910](http://arxiv.org/abs/2308.09910)|**[link](https://github.com/me-ditto/physics-guided-mocap)**|
+|**2023-08-19**|**DiffusionTrack: Diffusion Model For Multi-Object Tracking**|Run Luo et.al.|[2308.09905](http://arxiv.org/abs/2308.09905)|null|
+|**2023-08-18**|**DiffCharge: Generating EV Charging Scenarios via a Denoising Diffusion Model**|Siyang Li et.al.|[2308.09857](http://arxiv.org/abs/2308.09857)|null|
 |**2023-08-18**|**Diff2Lip: Audio Conditioned Diffusion Models for Lip-Synchronization**|Soumik Mukhopadhyay et.al.|[2308.09716](http://arxiv.org/abs/2308.09716)|**[link](https://github.com/soumik-kanad/diff2lip)**|
 |**2023-08-18**|**HumanLiff: Layer-wise 3D Human Generation with Diffusion Model**|Shoukang Hu et.al.|[2308.09712](http://arxiv.org/abs/2308.09712)|null|
 |**2023-08-18**|**Guide3D: Create 3D Avatars from Text and Image Guidance**|Yukang Cao et.al.|[2308.09705](http://arxiv.org/abs/2308.09705)|null|
@@ -1572,6 +1601,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-21**|**Patternshop: Editing Point Patterns by Image Manipulation**|Xingchang Huang et.al.|[2308.10517](http://arxiv.org/abs/2308.10517)|null|
+|**2023-08-20**|**Blind Face Restoration for Under-Display Camera via Dictionary Guided Transformer**|Jingfan Tan et.al.|[2308.10196](http://arxiv.org/abs/2308.10196)|null|
+|**2023-08-20**|**WMFormer++: Nested Transformer for Visible Watermark Removal via Implict Joint Learning**|Dongjian Huo et.al.|[2308.10195](http://arxiv.org/abs/2308.10195)|null|
+|**2023-08-19**|**ASPIRE: Language-Guided Augmentation for Robust Image Classification**|Sreyan Ghosh et.al.|[2308.10103](http://arxiv.org/abs/2308.10103)|null|
+|**2023-08-19**|**Semantic-Human: Neural Rendering of Humans from Monocular Video with Human Parsing**|Jie Zhang et.al.|[2308.09894](http://arxiv.org/abs/2308.09894)|null|
 |**2023-08-18**|**Diffusion Models for Image Restoration and Enhancement -- A Comprehensive Survey**|Xin Li et.al.|[2308.09388](http://arxiv.org/abs/2308.09388)|null|
 |**2023-08-17**|**Learning A Coarse-to-Fine Diffusion Transformer for Image Restoration**|Liyan Wang et.al.|[2308.08730](http://arxiv.org/abs/2308.08730)|**[link](https://github.com/wlydlut/c2f-dft)**|
 |**2023-08-14**|**Jurassic World Remake: Bringing Ancient Fossils Back to Life via Zero-Shot Long Image-to-Image Translation**|Alexander Martin et.al.|[2308.07316](http://arxiv.org/abs/2308.07316)|**[link](https://github.com/alexmartin1722/Revive-2I)**|
@@ -1806,6 +1840,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-19**|**Semantic-Human: Neural Rendering of Humans from Monocular Video with Human Parsing**|Jie Zhang et.al.|[2308.09894](http://arxiv.org/abs/2308.09894)|null|
 |**2023-08-18**|**HumanLiff: Layer-wise 3D Human Generation with Diffusion Model**|Shoukang Hu et.al.|[2308.09712](http://arxiv.org/abs/2308.09712)|null|
 |**2023-08-07**|**Explicifying Neural Implicit Fields for Efficient Dynamic Human Avatar Modeling via a Neural Explicit Surface**|Ruiqi Zhang et.al.|[2308.05112](http://arxiv.org/abs/2308.05112)|null|
 |**2023-08-09**|**WaveNeRF: Wavelet-based Generalizable Neural Radiance Fields**|Muyu Xu et.al.|[2308.04826](http://arxiv.org/abs/2308.04826)|null|

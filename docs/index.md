@@ -39,6 +39,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-22**|**Can Authorship Representation Learning Capture Stylistic Features?**|Andrew Wang et.al.|[2308.11490](http://arxiv.org/abs/2308.11490)|null|
+|**2023-08-22**|**Generating airshower images for the VERITAS telescopes with conditional Generative Adversarial Networks**|J. Hoang et.al.|[2308.11431](http://arxiv.org/abs/2308.11431)|null|
+|**2023-08-22**|**MosaiQ: Quantum Generative Adversarial Networks for Image Generation on NISQ Computers**|Daniel Silver et.al.|[2308.11096](http://arxiv.org/abs/2308.11096)|null|
+|**2023-08-21**|**PMVC: Data Augmentation-Based Prosody Modeling for Expressive Voice Conversion**|Yimin Deng et.al.|[2308.11084](http://arxiv.org/abs/2308.11084)|null|
+|**2023-08-21**|**Harmonization Across Imaging Locations(HAIL): One-Shot Learning for Brain MRI**|Abhijeet Parida et.al.|[2308.11047](http://arxiv.org/abs/2308.11047)|null|
+|**2023-08-21**|**MRI Field-transfer Reconstruction with Limited Data: Regularization by Neural Style Transfer**|Guoyao Shen et.al.|[2308.10968](http://arxiv.org/abs/2308.10968)|null|
 |**2023-08-21**|**Color Prompting for Data-Free Continual Unsupervised Domain Adaptive Person Re-Identification**|Jianyang Gu et.al.|[2308.10716](http://arxiv.org/abs/2308.10716)|**[link](https://github.com/vimar-gu/colorpromptreid)**|
 |**2023-08-21**|**Improving the Transferability of Adversarial Examples with Arbitrary Style Transfer**|Zhijin Ge et.al.|[2308.10601](http://arxiv.org/abs/2308.10601)|**[link](https://github.com/zhijin-ge/stm)**|
 |**2023-08-21**|**RADIANCE: Radio-Frequency Adversarial Deep-learning Inference for Automated Network Coverage Estimation**|Sopan Sarkar et.al.|[2308.10584](http://arxiv.org/abs/2308.10584)|null|
@@ -551,6 +557,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-22**|**IT3D: Improved Text-to-3D Generation with Explicit View Synthesis**|Yiwen Chen et.al.|[2308.11473](http://arxiv.org/abs/2308.11473)|**[link](https://github.com/buaacyw/it3d-text-to-3d)**|
+|**2023-08-22**|**Convergence guarantee for consistency models**|Junlong Lyu et.al.|[2308.11449](http://arxiv.org/abs/2308.11449)|null|
+|**2023-08-22**|**MatFuse: Controllable Material Generation with Diffusion Models**|Giuseppe Vecchio et.al.|[2308.11408](http://arxiv.org/abs/2308.11408)|null|
+|**2023-08-22**|**MusicJam: Visualizing Music Insights via Generated Narrative Illustrations**|Chuer Chen et.al.|[2308.11329](http://arxiv.org/abs/2308.11329)|null|
+|**2023-08-22**|**DiffCloth: Diffusion Based Garment Synthesis and Manipulation via Structural Cross-modal Semantic Alignment**|Xujie Zhang et.al.|[2308.11206](http://arxiv.org/abs/2308.11206)|null|
+|**2023-08-22**|**Hey That's Mine Imperceptible Watermarks are Preserved in Diffusion Generated Outputs**|Luke Ditria et.al.|[2308.11123](http://arxiv.org/abs/2308.11123)|null|
+|**2023-08-21**|**Diffusion Model as Representation Learner**|Xingyi Yang et.al.|[2308.10916](http://arxiv.org/abs/2308.10916)|null|
 |**2023-08-21**|**TADA! Text to Animatable Digital Avatars**|Tingting Liao et.al.|[2308.10899](http://arxiv.org/abs/2308.10899)|null|
 |**2023-08-21**|**Backdooring Textual Inversion for Concept Censorship**|Yutong wu et.al.|[2308.10718](http://arxiv.org/abs/2308.10718)|null|
 |**2023-08-21**|**EVE: Efficient zero-shot text-based Video Editing with Depth Map Guidance and Temporal Consistency Constraints**|Yutao Chen et.al.|[2308.10648](http://arxiv.org/abs/2308.10648)|null|
@@ -1840,6 +1853,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-22**|**Novel-view Synthesis and Pose Estimation for Hand-Object Interaction from Sparse Views**|Wentian Qu et.al.|[2308.11198](http://arxiv.org/abs/2308.11198)|null|
 |**2023-08-19**|**Semantic-Human: Neural Rendering of Humans from Monocular Video with Human Parsing**|Jie Zhang et.al.|[2308.09894](http://arxiv.org/abs/2308.09894)|null|
 |**2023-08-18**|**HumanLiff: Layer-wise 3D Human Generation with Diffusion Model**|Shoukang Hu et.al.|[2308.09712](http://arxiv.org/abs/2308.09712)|null|
 |**2023-08-07**|**Explicifying Neural Implicit Fields for Efficient Dynamic Human Avatar Modeling via a Neural Explicit Surface**|Ruiqi Zhang et.al.|[2308.05112](http://arxiv.org/abs/2308.05112)|null|
@@ -1976,6 +1990,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-22**|**Mathematical Model of the Impact of Chemotherapy and Anti-Angiogenic Therapy on Drug Resistance in Glioma Growth**|Latifah Hanum et.al.|[2308.11212](http://arxiv.org/abs/2308.11212)|null|
 |**2023-08-14**|**Tunneling probability for the birth of an universe with radiation in Horava-Lifshitz theory**|G. Oliveira-Neto et.al.|[2308.07478](http://arxiv.org/abs/2308.07478)|null|
 |**2023-07-31**|**Towards Unbalanced Motion: Part-Decoupling Network for Video Portrait Segmentation**|Tianshu Yu et.al.|[2307.16565](http://arxiv.org/abs/2307.16565)|null|
 |**2023-07-31**|**Bifurcation analysis of a conceptual model for the Atlantic Meridional Overturning Circulation**|John Bailie et.al.|[2307.16414](http://arxiv.org/abs/2307.16414)|null|

@@ -39,6 +39,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-24**|**FFEINR: Flow Feature-Enhanced Implicit Neural Representation for Spatio-temporal Super-Resolution**|Chenyue Jiao et.al.|[2308.12508](http://arxiv.org/abs/2308.12508)|null|
+|**2023-08-23**|**PFL-GAN: When Client Heterogeneity Meets Generative Models in Personalized Federated Learning**|Achintha Wijesinghe et.al.|[2308.12454](http://arxiv.org/abs/2308.12454)|null|
+|**2023-08-23**|**ARF-Plus: Controlling Perceptual Factors in Artistic Radiance Fields for 3D Scene Stylization**|Wenzhao Li et.al.|[2308.12452](http://arxiv.org/abs/2308.12452)|null|
+|**2023-08-23**|**TAI-GAN: Temporally and Anatomically Informed GAN for early-to-late frame conversion in dynamic cardiac PET motion correction**|Xueqi Guo et.al.|[2308.12443](http://arxiv.org/abs/2308.12443)|**[link](https://github.com/gxq1998/tai-gan)**|
 |**2023-08-23**|**Quantum-Noise-driven Generative Diffusion Models**|Marco Parigi et.al.|[2308.12013](http://arxiv.org/abs/2308.12013)|null|
 |**2023-08-23**|**CoC-GAN: Employing Context Cluster for Unveiling a New Pathway in Image Generation**|Zihao Wang et.al.|[2308.11857](http://arxiv.org/abs/2308.11857)|null|
 |**2023-08-22**|**Can Authorship Representation Learning Capture Stylistic Features?**|Andrew Wang et.al.|[2308.11490](http://arxiv.org/abs/2308.11490)|**[link](https://github.com/llnl/luar)**|
@@ -559,6 +563,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-24**|**Dense Text-to-Image Generation with Attention Modulation**|Yunji Kim et.al.|[2308.12964](http://arxiv.org/abs/2308.12964)|**[link](https://github.com/naver-ai/densediffusion)**|
+|**2023-08-24**|**Hydrogen jet diffusion modeling by using physics-informed graph neural network and sparsely-distributed sensor data**|Xinqi Zhang et.al.|[2308.12621](http://arxiv.org/abs/2308.12621)|null|
+|**2023-08-24**|**APLA: Additional Perturbation for Latent Noise with Adversarial Training Enables Consistency**|Yupu Yao et.al.|[2308.12605](http://arxiv.org/abs/2308.12605)|null|
+|**2023-08-23**|**Diffuse, Attend, and Segment: Unsupervised Zero-Shot Segmentation using Stable Diffusion**|Junjiao Tian et.al.|[2308.12469](http://arxiv.org/abs/2308.12469)|null|
+|**2023-08-23**|**InverseSR: 3D Brain MRI Super-Resolution Using a Latent Diffusion Model**|Jueqi Wang et.al.|[2308.12465](http://arxiv.org/abs/2308.12465)|**[link](https://github.com/biomedai-ucsc/inversesr)**|
+|**2023-08-23**|**Augmenting medical image classifiers with synthetic data from latent diffusion models**|Luke W. Sagers et.al.|[2308.12453](http://arxiv.org/abs/2308.12453)|null|
+|**2023-08-23**|**Renormalizing Diffusion Models**|Jordan Cotler et.al.|[2308.12355](http://arxiv.org/abs/2308.12355)|null|
+|**2023-08-23**|**Improving Generative Model-based Unfolding with Schrödinger Bridges**|Sascha Diefenbacher et.al.|[2308.12351](http://arxiv.org/abs/2308.12351)|null|
 |**2023-08-23**|**Score diffusion models without early stopping: finite Fisher information is all you need**|Giovanni Conforti et.al.|[2308.12240](http://arxiv.org/abs/2308.12240)|null|
 |**2023-08-23**|**Diffusion Language Models Can Perform Many Tasks with Scaling and Instruction-Finetuning**|Jiasheng Ye et.al.|[2308.12219](http://arxiv.org/abs/2308.12219)|**[link](https://github.com/yegcjs/diffusionllm)**|
 |**2023-08-23**|**Quantum-Noise-driven Generative Diffusion Models**|Marco Parigi et.al.|[2308.12013](http://arxiv.org/abs/2308.12013)|null|
@@ -1625,6 +1637,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-24**|**MOFA: A Model Simplification Roadmap for Image Restoration on Mobile Devices**|Xiangyu Chen et.al.|[2308.12494](http://arxiv.org/abs/2308.12494)|null|
 |**2023-08-23**|**Synergistic Multiscale Detail Refinement via Intrinsic Supervision for Underwater Image Enhancement**|Dehuan Zhang et.al.|[2308.11932](http://arxiv.org/abs/2308.11932)|null|
 |**2023-08-24**|**Patternshop: Editing Point Patterns by Image Manipulation**|Xingchang Huang et.al.|[2308.10517](http://arxiv.org/abs/2308.10517)|null|
 |**2023-08-20**|**Blind Face Restoration for Under-Display Camera via Dictionary Guided Transformer**|Jingfan Tan et.al.|[2308.10196](http://arxiv.org/abs/2308.10196)|null|
@@ -1972,11 +1985,11 @@ layout: default
 |**2023-07-20**|**Projectional Editors for JSON-Based DSLs**|Andrew McNutt et.al.|[2307.11260](http://arxiv.org/abs/2307.11260)|null|
 |**2023-07-06**|**Spontaneous segregation of visual information between parallel streams of a multi-stream convolutional neural network**|Hiroshi Tamura et.al.|[2307.02721](http://arxiv.org/abs/2307.02721)|null|
 |**2023-06-21**|**Facial Expression Re-targeting from a Single Character**|Ariel Larey et.al.|[2306.12188](http://arxiv.org/abs/2306.12188)|null|
-|**2023-06-19**|**SelfTalk: A Self-Supervised Commutative Training Diagram to Comprehend 3D Talking Faces**|Ziqiao Peng et.al.|[2306.10799](http://arxiv.org/abs/2306.10799)|null|
+|**2023-06-19**|**SelfTalk: A Self-Supervised Commutative Training Diagram to Comprehend 3D Talking Faces**|Ziqiao Peng et.al.|[2306.10799](http://arxiv.org/abs/2306.10799)|**[link](https://github.com/psyai-net/SelfTalk_release)**|
 |**2023-08-10**|**Near-realtime Facial Animation by Deep 3D Simulation Super-Resolution**|Hyojoon Park et.al.|[2305.03216](http://arxiv.org/abs/2305.03216)|null|
 |**2023-04-06**|**Face Animation with an Attribute-Guided Diffusion Model**|Bohan Zeng et.al.|[2304.03199](http://arxiv.org/abs/2304.03199)|**[link](https://github.com/zengbohan0217/fadm)**|
 |**2023-03-27**|**Mind the Label Shift of Augmentation-based Graph OOD Generalization**|Junchi Yu et.al.|[2303.14859](http://arxiv.org/abs/2303.14859)|**[link](https://github.com/samyu0304/lisa)**|
-|**2023-03-20**|**EmoTalk: Speech-driven emotional disentanglement for 3D face animation**|Ziqiao Peng et.al.|[2303.11089](http://arxiv.org/abs/2303.11089)|**[link](https://github.com/ZiqiaoPeng/EmoTalk)**|
+|**2023-03-20**|**EmoTalk: Speech-driven emotional disentanglement for 3D face animation**|Ziqiao Peng et.al.|[2303.11089](http://arxiv.org/abs/2303.11089)|**[link](https://github.com/psyai-net/EmoTalk_release)**|
 |**2023-03-17**|**MMFace4D: A Large-Scale Multi-Modal 4D Face Dataset for Audio-Driven 3D Face Animation**|Haozhe Wu et.al.|[2303.09797](http://arxiv.org/abs/2303.09797)|null|
 |**2023-02-14**|**VQ3D: Learning a 3D-Aware Generative Model on ImageNet**|Kyle Sargent et.al.|[2302.06833](http://arxiv.org/abs/2302.06833)|null|
 |**2023-03-27**|**Accurate and Interpretable Solution of the Inverse Rig for Realistic Blendshape Models with Quadratic Corrective Terms**|Stevo Racković et.al.|[2302.04843](http://arxiv.org/abs/2302.04843)|null|
@@ -2002,6 +2015,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-24**|**ToonTalker: Cross-Domain Face Reenactment**|Yuan Gong et.al.|[2308.12866](http://arxiv.org/abs/2308.12866)|null|
+|**2023-08-24**|**EFormer: Enhanced Transformer towards Semantic-Contour Features of Foreground for Portraits Matting**|Zitao Wang et.al.|[2308.12831](http://arxiv.org/abs/2308.12831)|null|
 |**2023-08-22**|**Mathematical Model of the Impact of Chemotherapy and Anti-Angiogenic Therapy on Drug Resistance in Glioma Growth**|Latifah Hanum et.al.|[2308.11212](http://arxiv.org/abs/2308.11212)|null|
 |**2023-08-14**|**Tunneling probability for the birth of an universe with radiation in Horava-Lifshitz theory**|G. Oliveira-Neto et.al.|[2308.07478](http://arxiv.org/abs/2308.07478)|null|
 |**2023-07-31**|**Towards Unbalanced Motion: Part-Decoupling Network for Video Portrait Segmentation**|Tianshu Yu et.al.|[2307.16565](http://arxiv.org/abs/2307.16565)|null|

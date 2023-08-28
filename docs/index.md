@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.27
+## Updated on 2023.08.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -45,7 +45,7 @@ layout: default
 |**2023-08-23**|**TAI-GAN: Temporally and Anatomically Informed GAN for early-to-late frame conversion in dynamic cardiac PET motion correction**|Xueqi Guo et.al.|[2308.12443](http://arxiv.org/abs/2308.12443)|**[link](https://github.com/gxq1998/tai-gan)**|
 |**2023-08-23**|**Quantum-Noise-driven Generative Diffusion Models**|Marco Parigi et.al.|[2308.12013](http://arxiv.org/abs/2308.12013)|null|
 |**2023-08-23**|**CoC-GAN: Employing Context Cluster for Unveiling a New Pathway in Image Generation**|Zihao Wang et.al.|[2308.11857](http://arxiv.org/abs/2308.11857)|null|
-|**2023-08-22**|**Can Authorship Representation Learning Capture Stylistic Features?**|Andrew Wang et.al.|[2308.11490](http://arxiv.org/abs/2308.11490)|**[link](https://github.com/llnl/luar)**|
+|**2023-08-24**|**Can Authorship Representation Learning Capture Stylistic Features?**|Andrew Wang et.al.|[2308.11490](http://arxiv.org/abs/2308.11490)|**[link](https://github.com/llnl/luar)**|
 |**2023-08-22**|**Generating airshower images for the VERITAS telescopes with conditional Generative Adversarial Networks**|J. Hoang et.al.|[2308.11431](http://arxiv.org/abs/2308.11431)|null|
 |**2023-08-22**|**MosaiQ: Quantum Generative Adversarial Networks for Image Generation on NISQ Computers**|Daniel Silver et.al.|[2308.11096](http://arxiv.org/abs/2308.11096)|null|
 |**2023-08-21**|**PMVC: Data Augmentation-Based Prosody Modeling for Expressive Voice Conversion**|Yimin Deng et.al.|[2308.11084](http://arxiv.org/abs/2308.11084)|null|
@@ -572,7 +572,7 @@ layout: default
 |**2023-08-23**|**Renormalizing Diffusion Models**|Jordan Cotler et.al.|[2308.12355](http://arxiv.org/abs/2308.12355)|null|
 |**2023-08-23**|**Improving Generative Model-based Unfolding with Schrödinger Bridges**|Sascha Diefenbacher et.al.|[2308.12351](http://arxiv.org/abs/2308.12351)|**[link](https://github.com/viniciusmikuni/sbunfold)**|
 |**2023-08-23**|**Score diffusion models without early stopping: finite Fisher information is all you need**|Giovanni Conforti et.al.|[2308.12240](http://arxiv.org/abs/2308.12240)|null|
-|**2023-08-23**|**Diffusion Language Models Can Perform Many Tasks with Scaling and Instruction-Finetuning**|Jiasheng Ye et.al.|[2308.12219](http://arxiv.org/abs/2308.12219)|**[link](https://github.com/yegcjs/diffusionllm)**|
+|**2023-08-25**|**Diffusion Language Models Can Perform Many Tasks with Scaling and Instruction-Finetuning**|Jiasheng Ye et.al.|[2308.12219](http://arxiv.org/abs/2308.12219)|**[link](https://github.com/yegcjs/diffusionllm)**|
 |**2023-08-23**|**Quantum-Noise-driven Generative Diffusion Models**|Marco Parigi et.al.|[2308.12013](http://arxiv.org/abs/2308.12013)|null|
 |**2023-08-23**|**High-quality Image Dehazing with Diffusion Model**|Hu Yu et.al.|[2308.11949](http://arxiv.org/abs/2308.11949)|null|
 |**2023-08-23**|**Efficient Transfer Learning in Diffusion Models via Adversarial Noise**|Xiyu Wang et.al.|[2308.11948](http://arxiv.org/abs/2308.11948)|null|
@@ -1989,7 +1989,7 @@ layout: default
 |**2023-08-10**|**Near-realtime Facial Animation by Deep 3D Simulation Super-Resolution**|Hyojoon Park et.al.|[2305.03216](http://arxiv.org/abs/2305.03216)|null|
 |**2023-04-06**|**Face Animation with an Attribute-Guided Diffusion Model**|Bohan Zeng et.al.|[2304.03199](http://arxiv.org/abs/2304.03199)|**[link](https://github.com/zengbohan0217/fadm)**|
 |**2023-03-27**|**Mind the Label Shift of Augmentation-based Graph OOD Generalization**|Junchi Yu et.al.|[2303.14859](http://arxiv.org/abs/2303.14859)|**[link](https://github.com/samyu0304/lisa)**|
-|**2023-03-20**|**EmoTalk: Speech-driven emotional disentanglement for 3D face animation**|Ziqiao Peng et.al.|[2303.11089](http://arxiv.org/abs/2303.11089)|**[link](https://github.com/psyai-net/EmoTalk_release)**|
+|**2023-08-25**|**EmoTalk: Speech-Driven Emotional Disentanglement for 3D Face Animation**|Ziqiao Peng et.al.|[2303.11089](http://arxiv.org/abs/2303.11089)|**[link](https://github.com/psyai-net/EmoTalk_release)**|
 |**2023-03-17**|**MMFace4D: A Large-Scale Multi-Modal 4D Face Dataset for Audio-Driven 3D Face Animation**|Haozhe Wu et.al.|[2303.09797](http://arxiv.org/abs/2303.09797)|null|
 |**2023-02-14**|**VQ3D: Learning a 3D-Aware Generative Model on ImageNet**|Kyle Sargent et.al.|[2302.06833](http://arxiv.org/abs/2302.06833)|null|
 |**2023-03-27**|**Accurate and Interpretable Solution of the Inverse Rig for Realistic Blendshape Models with Quadratic Corrective Terms**|Stevo Racković et.al.|[2302.04843](http://arxiv.org/abs/2302.04843)|null|

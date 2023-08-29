@@ -51,6 +51,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-28**|**Voice Conversion with Denoising Diffusion Probabilistic GAN Models**|Xulong Zhang et.al.|[2308.14319](http://arxiv.org/abs/2308.14319)|null|
+|**2023-08-27**|**Unaligned 2D to 3D Translation with Conditional Vector-Quantized Code Diffusion using Transformers**|Abril Corona-Figueroa et.al.|[2308.14152](http://arxiv.org/abs/2308.14152)|null|
+|**2023-08-27**|**Bi-Modality Medical Image Synthesis Using Semi-Supervised Sequential Generative Adversarial Networks**|Xin Yang et.al.|[2308.14066](http://arxiv.org/abs/2308.14066)|null|
+|**2023-08-27**|**A Bayesian Non-parametric Approach to Generative Models: Integrating Variational Autoencoder and Generative Adversarial Networks using Wasserstein and Maximum Mean Discrepancy**|Forough Fazeli-Asl et.al.|[2308.14048](http://arxiv.org/abs/2308.14048)|null|
+|**2023-08-25**|**Text Style Transfer Evaluation Using Large Language Models**|Phil Ostheimer et.al.|[2308.13577](http://arxiv.org/abs/2308.13577)|null|
+|**2023-08-23**|**A Systematic Study on Quantifying Bias in GAN-Augmented Data**|Denis Liu et.al.|[2308.13554](http://arxiv.org/abs/2308.13554)|null|
+|**2023-08-21**|**Feature Extraction Using Deep Generative Models for Bangla Text Classification on a New Comprehensive Dataset**|Md. Rafi-Ur-Rashid et.al.|[2308.13545](http://arxiv.org/abs/2308.13545)|null|
 |**2023-08-25**|**Resolution-independent generative models based on operator learning for physics-constrained Bayesian inverse problems**|Xinchao Jiang et.al.|[2308.13295](http://arxiv.org/abs/2308.13295)|null|
 |**2023-08-25**|**Unpaired Multi-domain Attribute Translation of 3D Facial Shapes with a Square and Symmetric Geometric Map**|Zhenfeng Fan et.al.|[2308.13245](http://arxiv.org/abs/2308.13245)|**[link](https://github.com/naughtyzz/3d_facial_shape_attribute_translation_ssgmap)**|
 |**2023-08-25**|**Self-supervised Scene Text Segmentation with Object-centric Layered Representations Augmented by Text Regions**|Yibo Wang et.al.|[2308.13178](http://arxiv.org/abs/2308.13178)|null|
@@ -580,6 +587,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-28**|**Priority-Centric Human Motion Generation in Discrete Latent Space**|Hanyang Kong et.al.|[2308.14480](http://arxiv.org/abs/2308.14480)|null|
+|**2023-08-28**|**Pixel-Aware Stable Diffusion for Realistic Image Super-resolution and Personalized Stylization**|Tao Yang et.al.|[2308.14469](http://arxiv.org/abs/2308.14469)|null|
+|**2023-08-28**|**Data-iterative Optimization Score Model for Stable Ultra-Sparse-View CT Reconstruction**|Weiwen Wu et.al.|[2308.14437](http://arxiv.org/abs/2308.14437)|null|
+|**2023-08-28**|**Steerable Conditional Diffusion for Out-of-Distribution Adaptation in Imaging Inverse Problems**|Riccardo Barbano et.al.|[2308.14409](http://arxiv.org/abs/2308.14409)|null|
+|**2023-08-28**|**InstructME: An Instruction Guided Music Edit And Remix Framework with Latent Diffusion Models**|Bing Han et.al.|[2308.14360](http://arxiv.org/abs/2308.14360)|null|
+|**2023-08-28**|**DiffSmooth: Certifiably Robust Learning via Diffusion Models and Local Smoothing**|Jiawei Zhang et.al.|[2308.14333](http://arxiv.org/abs/2308.14333)|**[link](https://github.com/javyduck/diffsmooth)**|
+|**2023-08-27**|**SketchDreamer: Interactive Text-Augmented Creative Sketch Ideation**|Zhiyu Qu et.al.|[2308.14191](http://arxiv.org/abs/2308.14191)|null|
+|**2023-08-27**|**Diffusion Schrödinger Bridges for Bayesian Computation**|Jeremy Heng et.al.|[2308.14106](http://arxiv.org/abs/2308.14106)|null|
+|**2023-08-27**|**Sparse3D: Distilling Multiview-Consistent Diffusion for Object Reconstruction from Sparse Views**|Zi-Xin Zou et.al.|[2308.14078](http://arxiv.org/abs/2308.14078)|null|
+|**2023-08-26**|**Unsupervised Domain Adaptation via Domain-Adaptive Diffusion**|Duo Peng et.al.|[2308.13893](http://arxiv.org/abs/2308.13893)|null|
+|**2023-08-26**|**The DiffuseStyleGesture+ entry to the GENEA Challenge 2023**|Sicheng Yang et.al.|[2308.13879](http://arxiv.org/abs/2308.13879)|**[link](https://github.com/youngseng/diffusestylegesture)**|
+|**2023-08-26**|**Empowering Dynamics-aware Text-to-Video Diffusion with Large Language Models**|Hao Fei et.al.|[2308.13812](http://arxiv.org/abs/2308.13812)|null|
+|**2023-08-26**|**DiffI2I: Efficient Diffusion Model for Image-to-Image Translation**|Bin Xia et.al.|[2308.13767](http://arxiv.org/abs/2308.13767)|null|
+|**2023-08-25**|**Residual Denoising Diffusion Models**|Jiawei Liu et.al.|[2308.13712](http://arxiv.org/abs/2308.13712)|null|
+|**2023-08-25**|**Region-Disentangled Diffusion Model for High-Fidelity PPG-to-ECG Translation**|Debaditya Shome et.al.|[2308.13568](http://arxiv.org/abs/2308.13568)|null|
 |**2023-08-25**|**Distribution-Aligned Diffusion for Human Mesh Recovery**|Lin Geng Foo et.al.|[2308.13369](http://arxiv.org/abs/2308.13369)|null|
 |**2023-08-25**|**EfficientDreamer: High-Fidelity and Robust 3D Creation via Orthogonal-view Diffusion Prior**|Minda Zhao et.al.|[2308.13223](http://arxiv.org/abs/2308.13223)|null|
 |**2023-08-25**|**Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model**|Xunpeng Yi et.al.|[2308.13164](http://arxiv.org/abs/2308.13164)|null|
@@ -1662,6 +1684,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-28**|**MetaWeather: Few-Shot Weather-Degraded Image Restoration via Degradation Pattern Matching**|Youngrae Kim et.al.|[2308.14334](http://arxiv.org/abs/2308.14334)|null|
+|**2023-08-27**|**Hierarchical Contrastive Learning for Pattern-Generalizable Image Corruption Detection**|Xin Feng et.al.|[2308.14061](http://arxiv.org/abs/2308.14061)|**[link](https://github.com/xyfjason/hcl)**|
+|**2023-08-26**|**Generalized Lightness Adaptation with Channel Selective Normalization**|Mingde Yao et.al.|[2308.13783](http://arxiv.org/abs/2308.13783)|**[link](https://github.com/mdyao/csnorm)**|
+|**2023-08-25**|**Residual Denoising Diffusion Models**|Jiawei Liu et.al.|[2308.13712](http://arxiv.org/abs/2308.13712)|null|
 |**2023-08-25**|**Self-supervised Scene Text Segmentation with Object-centric Layered Representations Augmented by Text Regions**|Yibo Wang et.al.|[2308.13178](http://arxiv.org/abs/2308.13178)|null|
 |**2023-08-24**|**MOFA: A Model Simplification Roadmap for Image Restoration on Mobile Devices**|Xiangyu Chen et.al.|[2308.12494](http://arxiv.org/abs/2308.12494)|null|
 |**2023-08-23**|**Synergistic Multiscale Detail Refinement via Intrinsic Supervision for Underwater Image Enhancement**|Dehuan Zhang et.al.|[2308.11932](http://arxiv.org/abs/2308.11932)|null|
@@ -2047,6 +2073,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-28**|**FaceChain: A Playground for Identity-Preserving Portrait Generation**|Yang Liu et.al.|[2308.14256](http://arxiv.org/abs/2308.14256)|**[link](https://github.com/modelscope/facechain)**|
 |**2023-08-24**|**ToonTalker: Cross-Domain Face Reenactment**|Yuan Gong et.al.|[2308.12866](http://arxiv.org/abs/2308.12866)|null|
 |**2023-08-24**|**EFormer: Enhanced Transformer towards Semantic-Contour Features of Foreground for Portraits Matting**|Zitao Wang et.al.|[2308.12831](http://arxiv.org/abs/2308.12831)|null|
 |**2023-08-22**|**Mathematical Model of the Impact of Chemotherapy and Anti-Angiogenic Therapy on Drug Resistance in Glioma Growth**|Latifah Hanum et.al.|[2308.11212](http://arxiv.org/abs/2308.11212)|null|

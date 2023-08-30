@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.29
+## Updated on 2023.08.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -41,7 +41,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-28**|**Voice Conversion with Denoising Diffusion Probabilistic GAN Models**|Xulong Zhang et.al.|[2308.14319](http://arxiv.org/abs/2308.14319)|null|
 |**2023-08-27**|**Unaligned 2D to 3D Translation with Conditional Vector-Quantized Code Diffusion using Transformers**|Abril Corona-Figueroa et.al.|[2308.14152](http://arxiv.org/abs/2308.14152)|null|
-|**2023-08-27**|**Bi-Modality Medical Image Synthesis Using Semi-Supervised Sequential Generative Adversarial Networks**|Xin Yang et.al.|[2308.14066](http://arxiv.org/abs/2308.14066)|null|
+|**2023-08-29**|**Bi-Modality Medical Image Synthesis Using Semi-Supervised Sequential Generative Adversarial Networks**|Xin Yang et.al.|[2308.14066](http://arxiv.org/abs/2308.14066)|null|
 |**2023-08-27**|**A Bayesian Non-parametric Approach to Generative Models: Integrating Variational Autoencoder and Generative Adversarial Networks using Wasserstein and Maximum Mean Discrepancy**|Forough Fazeli-Asl et.al.|[2308.14048](http://arxiv.org/abs/2308.14048)|null|
 |**2023-08-25**|**Text Style Transfer Evaluation Using Large Language Models**|Phil Ostheimer et.al.|[2308.13577](http://arxiv.org/abs/2308.13577)|null|
 |**2023-08-23**|**A Systematic Study on Quantifying Bias in GAN-Augmented Data**|Denis Liu et.al.|[2308.13554](http://arxiv.org/abs/2308.13554)|null|
@@ -1681,7 +1681,7 @@ layout: default
 |**2023-08-19**|**ASPIRE: Language-Guided Augmentation for Robust Image Classification**|Sreyan Ghosh et.al.|[2308.10103](http://arxiv.org/abs/2308.10103)|null|
 |**2023-08-19**|**Semantic-Human: Neural Rendering of Humans from Monocular Video with Human Parsing**|Jie Zhang et.al.|[2308.09894](http://arxiv.org/abs/2308.09894)|null|
 |**2023-08-18**|**Diffusion Models for Image Restoration and Enhancement -- A Comprehensive Survey**|Xin Li et.al.|[2308.09388](http://arxiv.org/abs/2308.09388)|**[link](https://github.com/lixinustc/awesome-diffusion-model-for-image-processing)**|
-|**2023-08-24**|**Learning A Coarse-to-Fine Diffusion Transformer for Image Restoration**|Liyan Wang et.al.|[2308.08730](http://arxiv.org/abs/2308.08730)|**[link](https://github.com/wlydlut/c2f-dft)**|
+|**2023-08-29**|**Learning A Coarse-to-Fine Diffusion Transformer for Image Restoration**|Liyan Wang et.al.|[2308.08730](http://arxiv.org/abs/2308.08730)|**[link](https://github.com/wlydlut/c2f-dft)**|
 |**2023-08-14**|**Jurassic World Remake: Bringing Ancient Fossils Back to Life via Zero-Shot Long Image-to-Image Translation**|Alexander Martin et.al.|[2308.07316](http://arxiv.org/abs/2308.07316)|**[link](https://github.com/alexmartin1722/Revive-2I)**|
 |**2023-08-11**|**DatasetDM: Synthesizing Data with Perception Annotations Using Diffusion Models**|Weijia Wu et.al.|[2308.06160](http://arxiv.org/abs/2308.06160)|**[link](https://github.com/showlab/datasetdm)**|
 |**2023-08-11**|**Zero-shot Text-driven Physically Interpretable Face Editing**|Yapeng Meng et.al.|[2308.05976](http://arxiv.org/abs/2308.05976)|null|

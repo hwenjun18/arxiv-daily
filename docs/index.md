@@ -39,6 +39,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-29**|**Learning Modulated Transformation in GANs**|Ceyuan Yang et.al.|[2308.15472](http://arxiv.org/abs/2308.15472)|null|
+|**2023-08-29**|**ParaGuide: Guided Diffusion Paraphrasers for Plug-and-Play Textual Style Transfer**|Zachary Horvitz et.al.|[2308.15459](http://arxiv.org/abs/2308.15459)|**[link](https://github.com/zacharyhorvitz/ParaGuide)**|
+|**2023-08-29**|**WSAM: Visual Explanations from Style Augmentation as Adversarial Attacker and Their Influence in Image Classification**|Felipe Moreno-Vera et.al.|[2308.14995](http://arxiv.org/abs/2308.14995)|**[link](https://github.com/fmorenovr/WSAM_Style)**|
+|**2023-08-28**|**Generating tabular datasets under differential privacy**|Gianluca Truda et.al.|[2308.14784](http://arxiv.org/abs/2308.14784)|null|
 |**2023-08-28**|**Voice Conversion with Denoising Diffusion Probabilistic GAN Models**|Xulong Zhang et.al.|[2308.14319](http://arxiv.org/abs/2308.14319)|null|
 |**2023-08-27**|**Unaligned 2D to 3D Translation with Conditional Vector-Quantized Code Diffusion using Transformers**|Abril Corona-Figueroa et.al.|[2308.14152](http://arxiv.org/abs/2308.14152)|null|
 |**2023-08-29**|**Bi-Modality Medical Image Synthesis Using Semi-Supervised Sequential Generative Adversarial Networks**|Xin Yang et.al.|[2308.14066](http://arxiv.org/abs/2308.14066)|null|
@@ -573,13 +577,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-29**|**ParaGuide: Guided Diffusion Paraphrasers for Plug-and-Play Textual Style Transfer**|Zachary Horvitz et.al.|[2308.15459](http://arxiv.org/abs/2308.15459)|**[link](https://github.com/zacharyhorvitz/ParaGuide)**|
+|**2023-08-29**|**Elucidating the Exposure Bias in Diffusion Models**|Mang Ning et.al.|[2308.15321](http://arxiv.org/abs/2308.15321)|null|
+|**2023-08-29**|**DiffusionVMR: Diffusion Model for Video Moment Retrieval**|Henghao Zhao et.al.|[2308.15109](http://arxiv.org/abs/2308.15109)|null|
+|**2023-08-29**|**DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior**|Xinqi Lin et.al.|[2308.15070](http://arxiv.org/abs/2308.15070)|null|
+|**2023-08-29**|**C2G2: Controllable Co-speech Gesture Generation with Latent Diffusion Model**|Longbin Ji et.al.|[2308.15016](http://arxiv.org/abs/2308.15016)|null|
+|**2023-08-28**|**Identifying and Mitigating the Security Risks of Generative AI**|Clark Barrett et.al.|[2308.14840](http://arxiv.org/abs/2308.14840)|null|
+|**2023-08-28**|**Generating tabular datasets under differential privacy**|Gianluca Truda et.al.|[2308.14784](http://arxiv.org/abs/2308.14784)|null|
 |**2023-08-28**|**Priority-Centric Human Motion Generation in Discrete Latent Space**|Hanyang Kong et.al.|[2308.14480](http://arxiv.org/abs/2308.14480)|null|
 |**2023-08-28**|**Pixel-Aware Stable Diffusion for Realistic Image Super-resolution and Personalized Stylization**|Tao Yang et.al.|[2308.14469](http://arxiv.org/abs/2308.14469)|null|
 |**2023-08-28**|**Data-iterative Optimization Score Model for Stable Ultra-Sparse-View CT Reconstruction**|Weiwen Wu et.al.|[2308.14437](http://arxiv.org/abs/2308.14437)|null|
 |**2023-08-28**|**Steerable Conditional Diffusion for Out-of-Distribution Adaptation in Imaging Inverse Problems**|Riccardo Barbano et.al.|[2308.14409](http://arxiv.org/abs/2308.14409)|null|
 |**2023-08-28**|**InstructME: An Instruction Guided Music Edit And Remix Framework with Latent Diffusion Models**|Bing Han et.al.|[2308.14360](http://arxiv.org/abs/2308.14360)|null|
 |**2023-08-28**|**DiffSmooth: Certifiably Robust Learning via Diffusion Models and Local Smoothing**|Jiawei Zhang et.al.|[2308.14333](http://arxiv.org/abs/2308.14333)|**[link](https://github.com/javyduck/diffsmooth)**|
-|**2023-08-27**|**SketchDreamer: Interactive Text-Augmented Creative Sketch Ideation**|Zhiyu Qu et.al.|[2308.14191](http://arxiv.org/abs/2308.14191)|null|
+|**2023-08-27**|**SketchDreamer: Interactive Text-Augmented Creative Sketch Ideation**|Zhiyu Qu et.al.|[2308.14191](http://arxiv.org/abs/2308.14191)|**[link](https://github.com/winkawaks/sketchdreamer)**|
 |**2023-08-27**|**Diffusion Schrödinger Bridges for Bayesian Computation**|Jeremy Heng et.al.|[2308.14106](http://arxiv.org/abs/2308.14106)|null|
 |**2023-08-27**|**Sparse3D: Distilling Multiview-Consistent Diffusion for Object Reconstruction from Sparse Views**|Zi-Xin Zou et.al.|[2308.14078](http://arxiv.org/abs/2308.14078)|null|
 |**2023-08-26**|**Unsupervised Domain Adaptation via Domain-Adaptive Diffusion**|Duo Peng et.al.|[2308.13893](http://arxiv.org/abs/2308.13893)|null|
@@ -1668,12 +1679,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-29**|**DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior**|Xinqi Lin et.al.|[2308.15070](http://arxiv.org/abs/2308.15070)|null|
+|**2023-08-28**|**Copy-Paste Image Augmentation with Poisson Image Editing for Ultrasound Instance Segmentation Learning**|Wei-Hsiang Shen et.al.|[2308.14772](http://arxiv.org/abs/2308.14772)|null|
 |**2023-08-28**|**MetaWeather: Few-Shot Weather-Degraded Image Restoration via Degradation Pattern Matching**|Youngrae Kim et.al.|[2308.14334](http://arxiv.org/abs/2308.14334)|null|
 |**2023-08-27**|**Hierarchical Contrastive Learning for Pattern-Generalizable Image Corruption Detection**|Xin Feng et.al.|[2308.14061](http://arxiv.org/abs/2308.14061)|**[link](https://github.com/xyfjason/hcl)**|
 |**2023-08-26**|**Generalized Lightness Adaptation with Channel Selective Normalization**|Mingde Yao et.al.|[2308.13783](http://arxiv.org/abs/2308.13783)|**[link](https://github.com/mdyao/csnorm)**|
-|**2023-08-25**|**Residual Denoising Diffusion Models**|Jiawei Liu et.al.|[2308.13712](http://arxiv.org/abs/2308.13712)|null|
+|**2023-08-25**|**Residual Denoising Diffusion Models**|Jiawei Liu et.al.|[2308.13712](http://arxiv.org/abs/2308.13712)|**[link](https://github.com/nachifur/rddm)**|
 |**2023-08-25**|**Self-supervised Scene Text Segmentation with Object-centric Layered Representations Augmented by Text Regions**|Yibo Wang et.al.|[2308.13178](http://arxiv.org/abs/2308.13178)|null|
-|**2023-08-24**|**MOFA: A Model Simplification Roadmap for Image Restoration on Mobile Devices**|Xiangyu Chen et.al.|[2308.12494](http://arxiv.org/abs/2308.12494)|null|
+|**2023-08-24**|**MOFA: A Model Simplification Roadmap for Image Restoration on Mobile Devices**|Xiangyu Chen et.al.|[2308.12494](http://arxiv.org/abs/2308.12494)|**[link](https://github.com/xiangyu8/mofa)**|
 |**2023-08-23**|**Synergistic Multiscale Detail Refinement via Intrinsic Supervision for Underwater Image Enhancement**|Dehuan Zhang et.al.|[2308.11932](http://arxiv.org/abs/2308.11932)|null|
 |**2023-08-24**|**Patternshop: Editing Point Patterns by Image Manipulation**|Xingchang Huang et.al.|[2308.10517](http://arxiv.org/abs/2308.10517)|null|
 |**2023-08-20**|**Blind Face Restoration for Under-Display Camera via Dictionary Guided Transformer**|Jingfan Tan et.al.|[2308.10196](http://arxiv.org/abs/2308.10196)|null|
@@ -2051,6 +2064,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-29**|**Multilevel Semantic Embedding of Software Patches: A Fine-to-Coarse Grained Approach Towards Security Patch Detection**|Xunzhu Tang et.al.|[2308.15233](http://arxiv.org/abs/2308.15233)|null|
 |**2023-08-28**|**FaceChain: A Playground for Identity-Preserving Portrait Generation**|Yang Liu et.al.|[2308.14256](http://arxiv.org/abs/2308.14256)|**[link](https://github.com/modelscope/facechain)**|
 |**2023-08-24**|**ToonTalker: Cross-Domain Face Reenactment**|Yuan Gong et.al.|[2308.12866](http://arxiv.org/abs/2308.12866)|null|
 |**2023-08-24**|**EFormer: Enhanced Transformer towards Semantic-Contour Features of Foreground for Portraits Matting**|Zitao Wang et.al.|[2308.12831](http://arxiv.org/abs/2308.12831)|null|

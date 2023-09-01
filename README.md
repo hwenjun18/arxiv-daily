@@ -51,6 +51,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-31**|**StyleInV: A Temporal Style Modulated Inversion Network for Unconditional Video Generation**|Yuhan Wang et.al.|[2308.16909](http://arxiv.org/abs/2308.16909)|**[link](https://github.com/johannwyh/styleinv)**|
+|**2023-08-31**|**Terrain Diffusion Network: Climatic-Aware Terrain Generation with Geological Sketch Guidance**|Zexin Hu et.al.|[2308.16725](http://arxiv.org/abs/2308.16725)|null|
+|**2023-08-31**|**Unsupervised Text Style Transfer with Deep Generative Models**|Zhongtao Jiang et.al.|[2308.16584](http://arxiv.org/abs/2308.16584)|null|
+|**2023-08-31**|**Robust GAN inversion**|Egor Sevriugov et.al.|[2308.16510](http://arxiv.org/abs/2308.16510)|null|
+|**2023-08-30**|**Ten Years of Generative Adversarial Nets (GANs): A survey of the state-of-the-art**|Tanujit Chakraborty et.al.|[2308.16316](http://arxiv.org/abs/2308.16316)|null|
 |**2023-08-30**|**Semantic Image Synthesis via Class-Adaptive Cross-Attention**|Tomaso Fontanini et.al.|[2308.16071](http://arxiv.org/abs/2308.16071)|null|
 |**2023-08-31**|**Influence of adversarial training on super-resolution turbulence models**|Ludovico Nista et.al.|[2308.16015](http://arxiv.org/abs/2308.16015)|null|
 |**2023-08-30**|**Fully Embedded Time-Series Generative Adversarial Networks**|Joe Beck et.al.|[2308.15730](http://arxiv.org/abs/2308.15730)|null|
@@ -597,6 +602,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-31**|**InterDiff: Generating 3D Human-Object Interactions with Physics-Informed Diffusion**|Sirui Xu et.al.|[2308.16905](http://arxiv.org/abs/2308.16905)|null|
+|**2023-08-31**|**Diffusion Models for Interferometric Satellite Aperture Radar**|Alexandre Tuel et.al.|[2308.16847](http://arxiv.org/abs/2308.16847)|null|
+|**2023-08-31**|**Unsupervised CT Metal Artifact Reduction by Plugging Diffusion Priors in Dual Domains**|Xuan Liu et.al.|[2308.16742](http://arxiv.org/abs/2308.16742)|**[link](https://github.com/deepxuan/dudodp-mar)**|
+|**2023-08-31**|**Modelling of highly extended Gamma-ray emission around the Geminga Pulsar as detected with H.E.S.S**|A. M. W. Mitchell et.al.|[2308.16669](http://arxiv.org/abs/2308.16669)|null|
+|**2023-08-31**|**Generate Your Own Scotland: Satellite Image Generation Conditioned on Maps**|Miguel Espinosa et.al.|[2308.16648](http://arxiv.org/abs/2308.16648)|**[link](https://github.com/miquel-espinosa/map-sat)**|
+|**2023-08-31**|**MFR-Net: Multi-faceted Responsive Listening Head Generation via Denoising Diffusion Model**|Jin Liu et.al.|[2308.16635](http://arxiv.org/abs/2308.16635)|null|
+|**2023-08-31**|**Any-Size-Diffusion: Toward Efficient Text-Driven Synthesis for Any-Size HD Images**|Qingping Zheng et.al.|[2308.16582](http://arxiv.org/abs/2308.16582)|null|
+|**2023-08-31**|**Conditioning Score-Based Generative Models by Neuro-Symbolic Constraints**|Davide Scassola et.al.|[2308.16534](http://arxiv.org/abs/2308.16534)|null|
+|**2023-08-31**|**MVDream: Multi-view Diffusion for 3D Generation**|Yichun Shi et.al.|[2308.16512](http://arxiv.org/abs/2308.16512)|null|
+|**2023-08-30**|**A Recycling Training Strategy for Medical Image Segmentation with Diffusion Denoising Models**|Yunguan Fu et.al.|[2308.16355](http://arxiv.org/abs/2308.16355)|**[link](https://github.com/mathpluscode/imgx-diffseg)**|
+|**2023-08-30**|**Ten Years of Generative Adversarial Nets (GANs): A survey of the state-of-the-art**|Tanujit Chakraborty et.al.|[2308.16316](http://arxiv.org/abs/2308.16316)|null|
 |**2023-08-30**|**Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI**|Ziyun Liang et.al.|[2308.16150](http://arxiv.org/abs/2308.16150)|null|
 |**2023-08-30**|**SignDiff: Learning Diffusion Models for American Sign Language Production**|Sen Fang et.al.|[2308.16082](http://arxiv.org/abs/2308.16082)|null|
 |**2023-08-30**|**DiffuVolume: Diffusion Model for Volume based Stereo Matching**|Dian Zheng et.al.|[2308.15989](http://arxiv.org/abs/2308.15989)|null|
@@ -1710,6 +1726,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-31**|**Robust GAN inversion**|Egor Sevriugov et.al.|[2308.16510](http://arxiv.org/abs/2308.16510)|null|
 |**2023-08-30**|**Zero-shot Inversion Process for Image Attribute Editing with Diffusion Models**|Zhanbo Feng et.al.|[2308.15854](http://arxiv.org/abs/2308.15854)|null|
 |**2023-08-29**|**DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior**|Xinqi Lin et.al.|[2308.15070](http://arxiv.org/abs/2308.15070)|**[link](https://github.com/xpixelgroup/diffbir)**|
 |**2023-08-28**|**Copy-Paste Image Augmentation with Poisson Image Editing for Ultrasound Instance Segmentation Learning**|Wei-Hsiang Shen et.al.|[2308.14772](http://arxiv.org/abs/2308.14772)|null|

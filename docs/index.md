@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.31
+## Updated on 2023.09.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -40,7 +40,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-30**|**Semantic Image Synthesis via Class-Adaptive Cross-Attention**|Tomaso Fontanini et.al.|[2308.16071](http://arxiv.org/abs/2308.16071)|null|
-|**2023-08-30**|**Influence of adversarial training on super-resolution turbulence models**|L. Nista et.al.|[2308.16015](http://arxiv.org/abs/2308.16015)|null|
+|**2023-08-31**|**Influence of adversarial training on super-resolution turbulence models**|Ludovico Nista et.al.|[2308.16015](http://arxiv.org/abs/2308.16015)|null|
 |**2023-08-30**|**Fully Embedded Time-Series Generative Adversarial Networks**|Joe Beck et.al.|[2308.15730](http://arxiv.org/abs/2308.15730)|null|
 |**2023-08-29**|**Unveiling Camouflage: A Learnable Fourier-based Augmentation for Camouflaged Object Detection and Instance Segmentation**|Minh-Quan Le et.al.|[2308.15660](http://arxiv.org/abs/2308.15660)|null|
 |**2023-08-29**|**Adversarial Style Transfer for Robust Policy Optimization in Deep Reinforcement Learning**|Md Masudur Rahman et.al.|[2308.15550](http://arxiv.org/abs/2308.15550)|null|
@@ -1704,7 +1704,7 @@ layout: default
 |**2023-08-25**|**Self-supervised Scene Text Segmentation with Object-centric Layered Representations Augmented by Text Regions**|Yibo Wang et.al.|[2308.13178](http://arxiv.org/abs/2308.13178)|null|
 |**2023-08-24**|**MOFA: A Model Simplification Roadmap for Image Restoration on Mobile Devices**|Xiangyu Chen et.al.|[2308.12494](http://arxiv.org/abs/2308.12494)|**[link](https://github.com/xiangyu8/mofa)**|
 |**2023-08-23**|**Synergistic Multiscale Detail Refinement via Intrinsic Supervision for Underwater Image Enhancement**|Dehuan Zhang et.al.|[2308.11932](http://arxiv.org/abs/2308.11932)|null|
-|**2023-08-24**|**Patternshop: Editing Point Patterns by Image Manipulation**|Xingchang Huang et.al.|[2308.10517](http://arxiv.org/abs/2308.10517)|null|
+|**2023-08-31**|**Patternshop: Editing Point Patterns by Image Manipulation**|Xingchang Huang et.al.|[2308.10517](http://arxiv.org/abs/2308.10517)|null|
 |**2023-08-20**|**Blind Face Restoration for Under-Display Camera via Dictionary Guided Transformer**|Jingfan Tan et.al.|[2308.10196](http://arxiv.org/abs/2308.10196)|null|
 |**2023-08-22**|**WMFormer++: Nested Transformer for Visible Watermark Removal via Implict Joint Learning**|Dongjian Huo et.al.|[2308.10195](http://arxiv.org/abs/2308.10195)|null|
 |**2023-08-19**|**ASPIRE: Language-Guided Augmentation for Robust Image Classification**|Sreyan Ghosh et.al.|[2308.10103](http://arxiv.org/abs/2308.10103)|null|

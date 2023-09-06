@@ -39,6 +39,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-05**|**Generating Infinite-Resolution Texture using GANs with Patch-by-Patch Paradigm**|Alhasan Abdellatif et.al.|[2309.02340](http://arxiv.org/abs/2309.02340)|null|
+|**2023-09-04**|**ATMS: Algorithmic Trading-Guided Market Simulation**|Song Wei et.al.|[2309.01784](http://arxiv.org/abs/2309.01784)|null|
+|**2023-09-04**|**Generative-based Fusion Mechanism for Multi-Modal Tracking**|Zhangyong Tang et.al.|[2309.01728](http://arxiv.org/abs/2309.01728)|null|
+|**2023-09-04**|**Toward Defensive Letter Design**|Rentaro Kataoka et.al.|[2309.01452](http://arxiv.org/abs/2309.01452)|null|
+|**2023-09-04**|**Metric Learning for Projections Bias of Generalized Zero-shot Learning**|Chong Zhang et.al.|[2309.01390](http://arxiv.org/abs/2309.01390)|null|
+|**2023-09-04**|**Mutual Information Maximizing Quantum Generative Adversarial Network and Its Applications in Finance**|Mingyu Lee et.al.|[2309.01363](http://arxiv.org/abs/2309.01363)|null|
+|**2023-09-03**|**Large AI Model Empowered Multimodal Semantic Communications**|Feibo Jiang et.al.|[2309.01249](http://arxiv.org/abs/2309.01249)|null|
+|**2023-09-03**|**MSM-VC: High-fidelity Source Style Transfer for Non-Parallel Voice Conversion by Multi-scale Style Modeling**|Zhichao Wang et.al.|[2309.01142](http://arxiv.org/abs/2309.01142)|null|
+|**2023-09-02**|**Few shot font generation via transferring similarity guided global style and quantization local style**|Wei Pan et.al.|[2309.00827](http://arxiv.org/abs/2309.00827)|null|
 |**2023-09-01**|**Data-driven Topology Optimization of Channel Flow Problems**|Ce Guan et.al.|[2309.00278](http://arxiv.org/abs/2309.00278)|null|
 |**2023-09-01**|**Diffusion Model with Clustering-based Conditioning for Food Image Generation**|Yue Han et.al.|[2309.00199](http://arxiv.org/abs/2309.00199)|null|
 |**2023-08-31**|**Segmentação e contagem de troncos de madeira utilizando deep learning e processamento de imagens**|João V. C. Mazzochin et.al.|[2309.00123](http://arxiv.org/abs/2309.00123)|null|
@@ -591,6 +600,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-05**|**Robustness and Generalizability of Deepfake Detection: A Study with Diffusion Models**|Haixu Song et.al.|[2309.02218](http://arxiv.org/abs/2309.02218)|**[link](https://github.com/OpenRL-Lab/DeepFakeFace)**|
+|**2023-09-05**|**Hierarchical Masked 3D Diffusion Model for Video Outpainting**|Fanda Fan et.al.|[2309.02119](http://arxiv.org/abs/2309.02119)|null|
+|**2023-09-05**|**Diffusion-based 3D Object Detection with Random Boxes**|Xin Zhou et.al.|[2309.02049](http://arxiv.org/abs/2309.02049)|null|
+|**2023-09-05**|**Diffusion Generative Inverse Design**|Marin Vlastelica et.al.|[2309.02040](http://arxiv.org/abs/2309.02040)|null|
+|**2023-09-05**|**sasdim: self-adaptive noise scaling diffusion model for spatial time series imputation**|Shunyang Zhang et.al.|[2309.01988](http://arxiv.org/abs/2309.01988)|null|
+|**2023-09-05**|**Efficient Bayesian Computational Imaging with a Surrogate Score-Based Prior**|Berthy T. Feng et.al.|[2309.01949](http://arxiv.org/abs/2309.01949)|null|
+|**2023-09-05**|**Gradient Domain Diffusion Models for Image Synthesis**|Yuanhao Gong et.al.|[2309.01875](http://arxiv.org/abs/2309.01875)|null|
+|**2023-09-04**|**Turbulent Flow Simulation using Autoregressive Conditional Diffusion Models**|Georg Kohl et.al.|[2309.01745](http://arxiv.org/abs/2309.01745)|null|
+|**2023-09-04**|**Generative-based Fusion Mechanism for Multi-Modal Tracking**|Zhangyong Tang et.al.|[2309.01728](http://arxiv.org/abs/2309.01728)|null|
+|**2023-09-04**|**ControlMat: A Controlled Generative Approach to Material Capture**|Giuseppe Vecchio et.al.|[2309.01700](http://arxiv.org/abs/2309.01700)|null|
+|**2023-09-04**|**Improving Visual Quality and Transferability of Adversarial Attacks on Face Recognition Simultaneously with Adversarial Restoration**|Fengfan Zhou et.al.|[2309.01582](http://arxiv.org/abs/2309.01582)|null|
+|**2023-09-04**|**DiffHPE: Robust, Coherent 3D Human Pose Lifting with Diffusion**|Cédric Rommel et.al.|[2309.01575](http://arxiv.org/abs/2309.01575)|null|
+|**2023-09-04**|**Image denoising in photon-counting CT using PFGM++ with hijacked regularized sampling**|Dennis Hein et.al.|[2309.01553](http://arxiv.org/abs/2309.01553)|null|
+|**2023-09-04**|**Moment-Based Estimation of Diffusion and Adoption Parameters in Networks**|L. S. Sanna Stephan et.al.|[2309.01489](http://arxiv.org/abs/2309.01489)|null|
+|**2023-09-04**|**GenSelfDiff-HIS: Generative Self-Supervision Using Diffusion for Histopathological Image Segmentation**|Vishnuvardhan Purma et.al.|[2309.01487](http://arxiv.org/abs/2309.01487)|null|
+|**2023-09-04**|**FinDiff: Diffusion Models for Financial Tabular Data Generation**|Timur Sattarov et.al.|[2309.01472](http://arxiv.org/abs/2309.01472)|null|
+|**2023-09-04**|**A Trimming Estimator for the Latent-Diffusion-Observed-Adoption Model**|L. S. Sanna Stephan et.al.|[2309.01471](http://arxiv.org/abs/2309.01471)|null|
+|**2023-09-04**|**Accelerating Markov Chain Monte Carlo sampling with diffusion models**|N. T. Hunt-Smith et.al.|[2309.01454](http://arxiv.org/abs/2309.01454)|null|
+|**2023-09-04**|**A Unified Framework for Guiding Generative AI with Wireless Perception in Resource Constrained Mobile Edge Networks**|Jiacheng Wang et.al.|[2309.01426](http://arxiv.org/abs/2309.01426)|null|
+|**2023-09-04**|**Attention as Annotation: Generating Images and Pseudo-masks for Weakly Supervised Semantic Segmentation with Diffusion**|Ryota Yoshihashi et.al.|[2309.01369](http://arxiv.org/abs/2309.01369)|null|
 |**2023-09-01**|**Iterative Multi-granular Image Editing using Diffusion Models**|K J Joseph et.al.|[2309.00613](http://arxiv.org/abs/2309.00613)|null|
 |**2023-09-01**|**VideoGen: A Reference-Guided Latent Diffusion Approach for High Definition Text-to-Video Generation**|Xin Li et.al.|[2309.00398](http://arxiv.org/abs/2309.00398)|null|
 |**2023-09-01**|**Fast Diffusion EM: a diffusion model for blind inverse problems with application to deconvolution**|Charles Laroche et.al.|[2309.00287](http://arxiv.org/abs/2309.00287)|null|
@@ -1720,12 +1749,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-05**|**SAM-Deblur: Let Segment Anything Boost Image Deblurring**|Siwei Li et.al.|[2309.02270](http://arxiv.org/abs/2309.02270)|null|
+|**2023-09-05**|**Advanced Underwater Image Restoration in Complex Illumination Conditions**|Yifan Song et.al.|[2309.02217](http://arxiv.org/abs/2309.02217)|null|
+|**2023-09-04**|**Memory augment is All You Need for image restoration**|Xiao Feng Zhang et.al.|[2309.01377](http://arxiv.org/abs/2309.01377)|null|
+|**2023-09-04**|**Restoration Guarantee of Image Inpainting via Low Rank Patch Matrix Completion**|Jian-Feng Cai et.al.|[2309.01328](http://arxiv.org/abs/2309.01328)|null|
+|**2023-09-03**|**Holistic Dynamic Frequency Transformer for Image Fusion and Exposure Correction**|Xiaoke Shang et.al.|[2309.01183](http://arxiv.org/abs/2309.01183)|null|
+|**2023-09-02**|**MagicProp: Diffusion-based Video Editing via Motion-aware Appearance Propagation**|Hanshu Yan et.al.|[2309.00908](http://arxiv.org/abs/2309.00908)|null|
 |**2023-09-01**|**Iterative Multi-granular Image Editing using Diffusion Models**|K J Joseph et.al.|[2309.00613](http://arxiv.org/abs/2309.00613)|null|
 |**2023-08-31**|**Robust GAN inversion**|Egor Sevriugov et.al.|[2308.16510](http://arxiv.org/abs/2308.16510)|null|
 |**2023-08-30**|**Zero-shot Inversion Process for Image Attribute Editing with Diffusion Models**|Zhanbo Feng et.al.|[2308.15854](http://arxiv.org/abs/2308.15854)|null|
 |**2023-08-29**|**DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior**|Xinqi Lin et.al.|[2308.15070](http://arxiv.org/abs/2308.15070)|**[link](https://github.com/xpixelgroup/diffbir)**|
 |**2023-08-28**|**Copy-Paste Image Augmentation with Poisson Image Editing for Ultrasound Instance Segmentation Learning**|Wei-Hsiang Shen et.al.|[2308.14772](http://arxiv.org/abs/2308.14772)|null|
-|**2023-08-28**|**MetaWeather: Few-Shot Weather-Degraded Image Restoration via Degradation Pattern Matching**|Youngrae Kim et.al.|[2308.14334](http://arxiv.org/abs/2308.14334)|null|
+|**2023-09-05**|**MetaWeather: Few-Shot Weather-Degraded Image Restoration via Degradation Pattern Matching**|Youngrae Kim et.al.|[2308.14334](http://arxiv.org/abs/2308.14334)|null|
 |**2023-08-27**|**Hierarchical Contrastive Learning for Pattern-Generalizable Image Corruption Detection**|Xin Feng et.al.|[2308.14061](http://arxiv.org/abs/2308.14061)|**[link](https://github.com/xyfjason/hcl)**|
 |**2023-08-26**|**Generalized Lightness Adaptation with Channel Selective Normalization**|Mingde Yao et.al.|[2308.13783](http://arxiv.org/abs/2308.13783)|**[link](https://github.com/mdyao/csnorm)**|
 |**2023-08-25**|**Residual Denoising Diffusion Models**|Jiawei Liu et.al.|[2308.13712](http://arxiv.org/abs/2308.13712)|**[link](https://github.com/nachifur/rddm)**|
@@ -1971,6 +2006,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-04**|**TSTTC: A Large-Scale Dataset for Time-to-Contact Estimation in Driving Scenarios**|Yuheng Shi et.al.|[2309.01539](http://arxiv.org/abs/2309.01539)|**[link](https://github.com/tusen-ai/TSTTC)**|
 |**2023-08-30**|**Drone-NeRF: Efficient NeRF Based 3D Scene Reconstruction for Large-Scale Drone Survey**|Zhihao Jia et.al.|[2308.15733](http://arxiv.org/abs/2308.15733)|null|
 |**2023-08-22**|**Novel-view Synthesis and Pose Estimation for Hand-Object Interaction from Sparse Views**|Wentian Qu et.al.|[2308.11198](http://arxiv.org/abs/2308.11198)|null|
 |**2023-08-19**|**Semantic-Human: Neural Rendering of Humans from Monocular Video with Human Parsing**|Jie Zhang et.al.|[2308.09894](http://arxiv.org/abs/2308.09894)|null|
@@ -2109,6 +2145,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-05**|**ReliTalk: Relightable Talking Portrait Generation from a Single Video**|Haonan Qiu et.al.|[2309.02434](http://arxiv.org/abs/2309.02434)|**[link](https://github.com/arthur-qiu/ReliTalk)**|
+|**2023-09-05**|**AniPortraitGAN: Animatable 3D Portrait Generation from 2D Image Collections**|Yue Wu et.al.|[2309.02186](http://arxiv.org/abs/2309.02186)|null|
 |**2023-09-01**|**Human-Inspired Facial Sketch Synthesis with Dynamic Adaptation**|Fei Gao et.al.|[2309.00216](http://arxiv.org/abs/2309.00216)|**[link](https://github.com/aiart-hdu/hida)**|
 |**2023-08-30**|**From Pixels to Portraits: A Comprehensive Survey of Talking Head Generation Techniques and Applications**|Shreyank N Gowda et.al.|[2308.16041](http://arxiv.org/abs/2308.16041)|null|
 |**2023-08-29**|**Multilevel Semantic Embedding of Software Patches: A Fine-to-Coarse Grained Approach Towards Security Patch Detection**|Xunzhu Tang et.al.|[2308.15233](http://arxiv.org/abs/2308.15233)|null|

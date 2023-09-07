@@ -39,6 +39,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-06**|**Hierarchical-level rain image generative model based on GAN**|Zhenyuan Liu et.al.|[2309.02964](http://arxiv.org/abs/2309.02964)|null|
+|**2023-09-06**|**BigVSAN: Enhancing GAN-based Neural Vocoders with Slicing Adversarial Network**|Takashi Shibuya et.al.|[2309.02836](http://arxiv.org/abs/2309.02836)|null|
+|**2023-09-05**|**Generative Algorithms for Fusion of Physics-Based Wildfire Spread Models with Satellite Data for Initializing Wildfire Forecasts**|Bryan Shaddy et.al.|[2309.02615](http://arxiv.org/abs/2309.02615)|null|
+|**2023-09-05**|**Utilizing Generative Adversarial Networks for Stable Structure Generation in Angry Birds**|Frederic Abraham et.al.|[2309.02614](http://arxiv.org/abs/2309.02614)|null|
 |**2023-09-05**|**Generating Infinite-Resolution Texture using GANs with Patch-by-Patch Paradigm**|Alhasan Abdellatif et.al.|[2309.02340](http://arxiv.org/abs/2309.02340)|null|
 |**2023-09-04**|**ATMS: Algorithmic Trading-Guided Market Simulation**|Song Wei et.al.|[2309.01784](http://arxiv.org/abs/2309.01784)|null|
 |**2023-09-04**|**Generative-based Fusion Mechanism for Multi-Modal Tracking**|Zhangyong Tang et.al.|[2309.01728](http://arxiv.org/abs/2309.01728)|null|
@@ -600,6 +604,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-06**|**My Art My Choice: Adversarial Protection Against Unruly AI**|Anthony Rhodes et.al.|[2309.03198](http://arxiv.org/abs/2309.03198)|null|
+|**2023-09-06**|**Optical pulse induced ultrafast antiferrodistortive transition in SrTiO3**|Saqeeb Adnan et.al.|[2309.03172](http://arxiv.org/abs/2309.03172)|null|
+|**2023-09-06**|**MCM: Multi-condition Motion Synthesis Framework for Multi-scenario**|Zeyu Ling et.al.|[2309.03031](http://arxiv.org/abs/2309.03031)|null|
+|**2023-09-06**|**Predicting the emergence of localised dihedral patterns in models for dryland vegetation**|Dan J. Hill et.al.|[2309.02956](http://arxiv.org/abs/2309.02956)|null|
+|**2023-09-06**|**Diffusion Model is Secretly a Training-free Open Vocabulary Semantic Segmenter**|Jinglong Wang et.al.|[2309.02773](http://arxiv.org/abs/2309.02773)|null|
+|**2023-09-05**|**Generative AI-aided Joint Training-free Secure Semantic Communications via Multi-modal Prompts**|Hongyang Du et.al.|[2309.02616](http://arxiv.org/abs/2309.02616)|null|
+|**2023-09-05**|**Diffusion on the Probability Simplex**|Griffin Floto et.al.|[2309.02530](http://arxiv.org/abs/2309.02530)|null|
 |**2023-09-05**|**Robustness and Generalizability of Deepfake Detection: A Study with Diffusion Models**|Haixu Song et.al.|[2309.02218](http://arxiv.org/abs/2309.02218)|**[link](https://github.com/OpenRL-Lab/DeepFakeFace)**|
 |**2023-09-05**|**Hierarchical Masked 3D Diffusion Model for Video Outpainting**|Fanda Fan et.al.|[2309.02119](http://arxiv.org/abs/2309.02119)|null|
 |**2023-09-05**|**Diffusion-based 3D Object Detection with Random Boxes**|Xin Zhou et.al.|[2309.02049](http://arxiv.org/abs/2309.02049)|null|
@@ -1749,6 +1760,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-06**|**SLiMe: Segment Like Me**|Aliasghar Khani et.al.|[2309.03179](http://arxiv.org/abs/2309.03179)|null|
+|**2023-09-06**|**Prompt-based All-in-One Image Restoration using CNNs and Transformer**|Hu Gao et.al.|[2309.03063](http://arxiv.org/abs/2309.03063)|null|
+|**2023-09-05**|**Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning**|Lili Yu et.al.|[2309.02591](http://arxiv.org/abs/2309.02591)|null|
 |**2023-09-05**|**SAM-Deblur: Let Segment Anything Boost Image Deblurring**|Siwei Li et.al.|[2309.02270](http://arxiv.org/abs/2309.02270)|null|
 |**2023-09-05**|**Advanced Underwater Image Restoration in Complex Illumination Conditions**|Yifan Song et.al.|[2309.02217](http://arxiv.org/abs/2309.02217)|null|
 |**2023-09-04**|**Memory augment is All You Need for image restoration**|Xiao Feng Zhang et.al.|[2309.01377](http://arxiv.org/abs/2309.01377)|null|

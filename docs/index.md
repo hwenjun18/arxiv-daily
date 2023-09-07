@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.06
+## Updated on 2023.09.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -47,7 +47,7 @@ layout: default
 |**2023-09-04**|**Mutual Information Maximizing Quantum Generative Adversarial Network and Its Applications in Finance**|Mingyu Lee et.al.|[2309.01363](http://arxiv.org/abs/2309.01363)|null|
 |**2023-09-03**|**Large AI Model Empowered Multimodal Semantic Communications**|Feibo Jiang et.al.|[2309.01249](http://arxiv.org/abs/2309.01249)|null|
 |**2023-09-03**|**MSM-VC: High-fidelity Source Style Transfer for Non-Parallel Voice Conversion by Multi-scale Style Modeling**|Zhichao Wang et.al.|[2309.01142](http://arxiv.org/abs/2309.01142)|null|
-|**2023-09-02**|**Few shot font generation via transferring similarity guided global style and quantization local style**|Wei Pan et.al.|[2309.00827](http://arxiv.org/abs/2309.00827)|null|
+|**2023-09-02**|**Few shot font generation via transferring similarity guided global style and quantization local style**|Wei Pan et.al.|[2309.00827](http://arxiv.org/abs/2309.00827)|**[link](https://github.com/awei669/VQ-Font)**|
 |**2023-09-01**|**Data-driven Topology Optimization of Channel Flow Problems**|Ce Guan et.al.|[2309.00278](http://arxiv.org/abs/2309.00278)|null|
 |**2023-09-01**|**Diffusion Model with Clustering-based Conditioning for Food Image Generation**|Yue Han et.al.|[2309.00199](http://arxiv.org/abs/2309.00199)|null|
 |**2023-08-31**|**Segmentação e contagem de troncos de madeira utilizando deep learning e processamento de imagens**|João V. C. Mazzochin et.al.|[2309.00123](http://arxiv.org/abs/2309.00123)|null|
@@ -2006,7 +2006,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-04**|**TSTTC: A Large-Scale Dataset for Time-to-Contact Estimation in Driving Scenarios**|Yuheng Shi et.al.|[2309.01539](http://arxiv.org/abs/2309.01539)|**[link](https://github.com/tusen-ai/TSTTC)**|
+|**2023-09-06**|**TSTTC: A Large-Scale Dataset for Time-to-Contact Estimation in Driving Scenarios**|Yuheng Shi et.al.|[2309.01539](http://arxiv.org/abs/2309.01539)|**[link](https://github.com/tusen-ai/TSTTC)**|
 |**2023-08-30**|**Drone-NeRF: Efficient NeRF Based 3D Scene Reconstruction for Large-Scale Drone Survey**|Zhihao Jia et.al.|[2308.15733](http://arxiv.org/abs/2308.15733)|null|
 |**2023-08-22**|**Novel-view Synthesis and Pose Estimation for Hand-Object Interaction from Sparse Views**|Wentian Qu et.al.|[2308.11198](http://arxiv.org/abs/2308.11198)|null|
 |**2023-08-19**|**Semantic-Human: Neural Rendering of Humans from Monocular Video with Human Parsing**|Jie Zhang et.al.|[2308.09894](http://arxiv.org/abs/2308.09894)|null|
@@ -2015,7 +2015,7 @@ layout: default
 |**2023-08-09**|**WaveNeRF: Wavelet-based Generalizable Neural Radiance Fields**|Muyu Xu et.al.|[2308.04826](http://arxiv.org/abs/2308.04826)|null|
 |**2023-08-08**|**Rendering Humans from Object-Occluded Monocular Videos**|Tiange Xiang et.al.|[2308.04622](http://arxiv.org/abs/2308.04622)|null|
 |**2023-08-07**|**Mirror-NeRF: Learning Neural Radiance Fields for Mirrors with Whitted-Style Ray Tracing**|Junyi Zeng et.al.|[2308.03280](http://arxiv.org/abs/2308.03280)|null|
-|**2023-08-01**|**Context-Aware Talking-Head Video Editing**|Songlin Yang et.al.|[2308.00462](http://arxiv.org/abs/2308.00462)|null|
+|**2023-09-06**|**Context-Aware Talking-Head Video Editing**|Songlin Yang et.al.|[2308.00462](http://arxiv.org/abs/2308.00462)|null|
 |**2023-07-17**|**CeRF: Convolutional Neural Radiance Fields for New View Synthesis with Derivatives of Ray Modeling**|Xiaoyan Yang et.al.|[2307.07125](http://arxiv.org/abs/2307.07125)|null|
 |**2023-06-28**|**Envisioning a Next Generation Extended Reality Conferencing System with Efficient Photorealistic Human Rendering**|Chuanyue Shen et.al.|[2306.16541](http://arxiv.org/abs/2306.16541)|null|
 |**2023-06-19**|**Renderers are Good Zero-Shot Representation Learners: Exploring Diffusion Latents for Metric Learning**|Michael Tang et.al.|[2306.10721](http://arxiv.org/abs/2306.10721)|**[link](https://github.com/michaelwilliamtang/golden-retriever)**|

@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.06
+## Updated on 2023.09.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -45,7 +45,7 @@
 |**2022-11-21**|**Towards Live 3D Reconstruction from Wearable Video: An Evaluation of V-SLAM, NeRF, and Videogrammetry Techniques**|David Ramirez et.al.|[2211.11836](http://arxiv.org/abs/2211.11836)|null|
 |**2022-11-14**|**Controllable GAN Synthesis Using Non-Rigid Structure-from-Motion**|René Haas et.al.|[2211.07195](http://arxiv.org/abs/2211.07195)|null|
 
-<p align=right>(<a href=#Updated-on-20230906>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230907>back to top</a>)</p>
 
 ## GAN
 
@@ -59,7 +59,7 @@
 |**2023-09-04**|**Mutual Information Maximizing Quantum Generative Adversarial Network and Its Applications in Finance**|Mingyu Lee et.al.|[2309.01363](http://arxiv.org/abs/2309.01363)|null|
 |**2023-09-03**|**Large AI Model Empowered Multimodal Semantic Communications**|Feibo Jiang et.al.|[2309.01249](http://arxiv.org/abs/2309.01249)|null|
 |**2023-09-03**|**MSM-VC: High-fidelity Source Style Transfer for Non-Parallel Voice Conversion by Multi-scale Style Modeling**|Zhichao Wang et.al.|[2309.01142](http://arxiv.org/abs/2309.01142)|null|
-|**2023-09-02**|**Few shot font generation via transferring similarity guided global style and quantization local style**|Wei Pan et.al.|[2309.00827](http://arxiv.org/abs/2309.00827)|null|
+|**2023-09-02**|**Few shot font generation via transferring similarity guided global style and quantization local style**|Wei Pan et.al.|[2309.00827](http://arxiv.org/abs/2309.00827)|**[link](https://github.com/awei669/VQ-Font)**|
 |**2023-09-01**|**Data-driven Topology Optimization of Channel Flow Problems**|Ce Guan et.al.|[2309.00278](http://arxiv.org/abs/2309.00278)|null|
 |**2023-09-01**|**Diffusion Model with Clustering-based Conditioning for Food Image Generation**|Yue Han et.al.|[2309.00199](http://arxiv.org/abs/2309.00199)|null|
 |**2023-08-31**|**Segmentação e contagem de troncos de madeira utilizando deep learning e processamento de imagens**|João V. C. Mazzochin et.al.|[2309.00123](http://arxiv.org/abs/2309.00123)|null|
@@ -608,7 +608,7 @@
 |**2023-03-14**|**3D Face Arbitrary Style Transfer**|Xiangwen Deng et.al.|[2303.07709](http://arxiv.org/abs/2303.07709)|null|
 |**2023-03-13**|**AGTGAN: Unpaired Image Translation for Photographic Ancient Character Generation**|Hongxiang Huang et.al.|[2303.07012](http://arxiv.org/abs/2303.07012)|**[link](https://github.com/hellomystery/agtgan)**|
 
-<p align=right>(<a href=#Updated-on-20230906>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230907>back to top</a>)</p>
 
 ## Diffusion Model
 
@@ -1759,7 +1759,7 @@
 |**2023-03-15**|**DiffBEV: Conditional Diffusion Model for Bird's Eye View Perception**|Jiayu Zou et.al.|[2303.08333](http://arxiv.org/abs/2303.08333)|**[link](https://github.com/jiayuzou2020/diffbev)**|
 |**2023-03-16**|**VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation**|Zhengxiong Luo et.al.|[2303.08320](http://arxiv.org/abs/2303.08320)|null|
 
-<p align=right>(<a href=#Updated-on-20230906>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230907>back to top</a>)</p>
 
 ## Image Edit
 
@@ -2018,13 +2018,13 @@
 |**2023-02-20**|**A Large Scale Homography Benchmark**|Daniel Barath et.al.|[2302.09997](http://arxiv.org/abs/2302.09997)|null|
 |**2023-02-19**|**LC-NeRF: Local Controllable Face Generation in Neural Randiance Field**|Wenyang Zhou et.al.|[2302.09486](http://arxiv.org/abs/2302.09486)|null|
 
-<p align=right>(<a href=#Updated-on-20230906>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230907>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-09-04**|**TSTTC: A Large-Scale Dataset for Time-to-Contact Estimation in Driving Scenarios**|Yuheng Shi et.al.|[2309.01539](http://arxiv.org/abs/2309.01539)|**[link](https://github.com/tusen-ai/TSTTC)**|
+|**2023-09-06**|**TSTTC: A Large-Scale Dataset for Time-to-Contact Estimation in Driving Scenarios**|Yuheng Shi et.al.|[2309.01539](http://arxiv.org/abs/2309.01539)|**[link](https://github.com/tusen-ai/TSTTC)**|
 |**2023-08-30**|**Drone-NeRF: Efficient NeRF Based 3D Scene Reconstruction for Large-Scale Drone Survey**|Zhihao Jia et.al.|[2308.15733](http://arxiv.org/abs/2308.15733)|null|
 |**2023-08-22**|**Novel-view Synthesis and Pose Estimation for Hand-Object Interaction from Sparse Views**|Wentian Qu et.al.|[2308.11198](http://arxiv.org/abs/2308.11198)|null|
 |**2023-08-19**|**Semantic-Human: Neural Rendering of Humans from Monocular Video with Human Parsing**|Jie Zhang et.al.|[2308.09894](http://arxiv.org/abs/2308.09894)|null|
@@ -2033,7 +2033,7 @@
 |**2023-08-09**|**WaveNeRF: Wavelet-based Generalizable Neural Radiance Fields**|Muyu Xu et.al.|[2308.04826](http://arxiv.org/abs/2308.04826)|null|
 |**2023-08-08**|**Rendering Humans from Object-Occluded Monocular Videos**|Tiange Xiang et.al.|[2308.04622](http://arxiv.org/abs/2308.04622)|null|
 |**2023-08-07**|**Mirror-NeRF: Learning Neural Radiance Fields for Mirrors with Whitted-Style Ray Tracing**|Junyi Zeng et.al.|[2308.03280](http://arxiv.org/abs/2308.03280)|null|
-|**2023-08-01**|**Context-Aware Talking-Head Video Editing**|Songlin Yang et.al.|[2308.00462](http://arxiv.org/abs/2308.00462)|null|
+|**2023-09-06**|**Context-Aware Talking-Head Video Editing**|Songlin Yang et.al.|[2308.00462](http://arxiv.org/abs/2308.00462)|null|
 |**2023-07-17**|**CeRF: Convolutional Neural Radiance Fields for New View Synthesis with Derivatives of Ray Modeling**|Xiaoyan Yang et.al.|[2307.07125](http://arxiv.org/abs/2307.07125)|null|
 |**2023-06-28**|**Envisioning a Next Generation Extended Reality Conferencing System with Efficient Photorealistic Human Rendering**|Chuanyue Shen et.al.|[2306.16541](http://arxiv.org/abs/2306.16541)|null|
 |**2023-06-19**|**Renderers are Good Zero-Shot Representation Learners: Exploring Diffusion Latents for Metric Learning**|Michael Tang et.al.|[2306.10721](http://arxiv.org/abs/2306.10721)|**[link](https://github.com/michaelwilliamtang/golden-retriever)**|
@@ -2123,7 +2123,7 @@
 |**2022-12-30**|**NeRF-Gaze: A Head-Eye Redirection Parametric Model for Gaze Estimation**|Pengwei Yin et.al.|[2212.14710](http://arxiv.org/abs/2212.14710)|null|
 |**2023-03-21**|**Masked Wavelet Representation for Compact Neural Radiance Fields**|Daniel Rho et.al.|[2212.09069](http://arxiv.org/abs/2212.09069)|**[link](https://github.com/daniel03c1/masked_wavelet_nerf)**|
 
-<p align=right>(<a href=#Updated-on-20230906>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230907>back to top</a>)</p>
 
 ## Reshaping
 
@@ -2161,7 +2161,7 @@
 |**2022-05-13**|**F3A-GAN: Facial Flow for Face Animation with Generative Adversarial Networks**|Xintian Wu et.al.|[2205.06204](http://arxiv.org/abs/2205.06204)|null|
 |**2022-03-16**|**Efficient conditioned face animation using frontally-viewed embedding**|Maxime Oquab et.al.|[2203.08765](http://arxiv.org/abs/2203.08765)|null|
 
-<p align=right>(<a href=#Updated-on-20230906>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230907>back to top</a>)</p>
 
 ## Portrait 
 
@@ -2282,7 +2282,7 @@
 |**2023-03-01**|**DPE: Disentanglement of Pose and Expression for General Video Portrait Editing**|Youxin Pang et.al.|[2301.06281](http://arxiv.org/abs/2301.06281)|null|
 |**2023-01-03**|**StyleTalk: One-shot Talking Head Generation with Controllable Speaking Styles**|Yifeng Ma et.al.|[2301.01081](http://arxiv.org/abs/2301.01081)|**[link](https://github.com/fuxivirtualhuman/styletalk)**|
 
-<p align=right>(<a href=#Updated-on-20230906>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230907>back to top</a>)</p>
 
 ## Transfomer
 
@@ -2313,5 +2313,5 @@
 |**2012-01-21**|**Interior Static Stellar Model with Electric Charge as an Oscillator**|A. M. Baranov et.al.|[1201.4429](http://arxiv.org/abs/1201.4429)|null|
 |**2011-05-16**|**Exactness of the Euclidean algorithm and of the Rauzy induction on the space of interval exchange transfomations**|Tomasz Miernowski et.al.|[1104.3980](http://arxiv.org/abs/1104.3980)|null|
 
-<p align=right>(<a href=#Updated-on-20230906>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230907>back to top</a>)</p>
 

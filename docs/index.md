@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.07
+## Updated on 2023.09.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -45,7 +45,7 @@ layout: default
 |**2023-09-05**|**Utilizing Generative Adversarial Networks for Stable Structure Generation in Angry Birds**|Frederic Abraham et.al.|[2309.02614](http://arxiv.org/abs/2309.02614)|null|
 |**2023-09-05**|**Generating Infinite-Resolution Texture using GANs with Patch-by-Patch Paradigm**|Alhasan Abdellatif et.al.|[2309.02340](http://arxiv.org/abs/2309.02340)|null|
 |**2023-09-04**|**ATMS: Algorithmic Trading-Guided Market Simulation**|Song Wei et.al.|[2309.01784](http://arxiv.org/abs/2309.01784)|null|
-|**2023-09-04**|**Generative-based Fusion Mechanism for Multi-Modal Tracking**|Zhangyong Tang et.al.|[2309.01728](http://arxiv.org/abs/2309.01728)|null|
+|**2023-09-07**|**Generative-based Fusion Mechanism for Multi-Modal Tracking**|Zhangyong Tang et.al.|[2309.01728](http://arxiv.org/abs/2309.01728)|null|
 |**2023-09-04**|**Toward Defensive Letter Design**|Rentaro Kataoka et.al.|[2309.01452](http://arxiv.org/abs/2309.01452)|null|
 |**2023-09-04**|**Metric Learning for Projections Bias of Generalized Zero-shot Learning**|Chong Zhang et.al.|[2309.01390](http://arxiv.org/abs/2309.01390)|null|
 |**2023-09-04**|**Mutual Information Maximizing Quantum Generative Adversarial Network and Its Applications in Finance**|Mingyu Lee et.al.|[2309.01363](http://arxiv.org/abs/2309.01363)|null|
@@ -619,9 +619,9 @@ layout: default
 |**2023-09-05**|**Efficient Bayesian Computational Imaging with a Surrogate Score-Based Prior**|Berthy T. Feng et.al.|[2309.01949](http://arxiv.org/abs/2309.01949)|null|
 |**2023-09-05**|**Gradient Domain Diffusion Models for Image Synthesis**|Yuanhao Gong et.al.|[2309.01875](http://arxiv.org/abs/2309.01875)|null|
 |**2023-09-04**|**Turbulent Flow Simulation using Autoregressive Conditional Diffusion Models**|Georg Kohl et.al.|[2309.01745](http://arxiv.org/abs/2309.01745)|null|
-|**2023-09-04**|**Generative-based Fusion Mechanism for Multi-Modal Tracking**|Zhangyong Tang et.al.|[2309.01728](http://arxiv.org/abs/2309.01728)|null|
+|**2023-09-07**|**Generative-based Fusion Mechanism for Multi-Modal Tracking**|Zhangyong Tang et.al.|[2309.01728](http://arxiv.org/abs/2309.01728)|null|
 |**2023-09-04**|**ControlMat: A Controlled Generative Approach to Material Capture**|Giuseppe Vecchio et.al.|[2309.01700](http://arxiv.org/abs/2309.01700)|null|
-|**2023-09-04**|**Improving Visual Quality and Transferability of Adversarial Attacks on Face Recognition Simultaneously with Adversarial Restoration**|Fengfan Zhou et.al.|[2309.01582](http://arxiv.org/abs/2309.01582)|null|
+|**2023-09-07**|**Improving Visual Quality and Transferability of Adversarial Attacks on Face Recognition Simultaneously with Adversarial Restoration**|Fengfan Zhou et.al.|[2309.01582](http://arxiv.org/abs/2309.01582)|null|
 |**2023-09-04**|**DiffHPE: Robust, Coherent 3D Human Pose Lifting with Diffusion**|Cédric Rommel et.al.|[2309.01575](http://arxiv.org/abs/2309.01575)|null|
 |**2023-09-04**|**Image denoising in photon-counting CT using PFGM++ with hijacked regularized sampling**|Dennis Hein et.al.|[2309.01553](http://arxiv.org/abs/2309.01553)|null|
 |**2023-09-04**|**Moment-Based Estimation of Diffusion and Adoption Parameters in Networks**|L. S. Sanna Stephan et.al.|[2309.01489](http://arxiv.org/abs/2309.01489)|null|

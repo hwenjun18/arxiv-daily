@@ -51,6 +51,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-11**|**ViHOPE: Visuotactile In-Hand Object 6D Pose Estimation with Shape Completion**|Hongyu Li et.al.|[2309.05662](http://arxiv.org/abs/2309.05662)|null|
+|**2023-09-11**|**PAI-Diffusion: Constructing and Serving a Family of Open Chinese Diffusion Models for Text-to-image Synthesis on the Cloud**|Chengyu Wang et.al.|[2309.05534](http://arxiv.org/abs/2309.05534)|null|
+|**2023-09-10**|**SdCT-GAN: Reconstructing CT from Biplanar X-Rays with Self-driven Generative Adversarial Networks**|Shuangqin Cheng et.al.|[2309.04960](http://arxiv.org/abs/2309.04960)|**[link](https://github.com/csqvictory/sdct-gan)**|
+|**2023-09-10**|**Text-driven Editing of 3D Scenes without Retraining**|Shuangkang Fang et.al.|[2309.04917](http://arxiv.org/abs/2309.04917)|null|
+|**2023-09-10**|**Effective Real Image Editing with Accelerated Iterative Diffusion Inversion**|Zhihong Pan et.al.|[2309.04907](http://arxiv.org/abs/2309.04907)|null|
+|**2023-09-09**|**VeRi3D: Generative Vertex-based Radiance Fields for 3D Controllable Human Image Synthesis**|Xinya Chen et.al.|[2309.04800](http://arxiv.org/abs/2309.04800)|null|
+|**2023-09-09**|**TCGAN: Convolutional Generative Adversarial Network for Time Series Classification and Clustering**|Fanling Huang et.al.|[2309.04732](http://arxiv.org/abs/2309.04732)|**[link](https://bitbucket.org/lynn1/tcgan)**|
+|**2023-09-08**|**Style Generation: Image Synthesis based on Coarsely Matched Texts**|Mengyao Cui et.al.|[2309.04608](http://arxiv.org/abs/2309.04608)|null|
 |**2023-09-08**|**Robot Localization and Mapping Final Report -- Sequential Adversarial Learning for Self-Supervised Deep Visual Odometry**|Akankshya Kar et.al.|[2309.04147](http://arxiv.org/abs/2309.04147)|null|
 |**2023-09-08**|**Design of multifunctional color routers with Kerker switching using generative adversarial networks**|Jiahao Yan et.al.|[2309.04104](http://arxiv.org/abs/2309.04104)|null|
 |**2023-09-07**|**Exploring Sparse MoE in GANs for Text-conditioned Image Synthesis**|Jiapeng Zhu et.al.|[2309.03904](http://arxiv.org/abs/2309.03904)|**[link](https://github.com/zhujiapeng/aurora)**|
@@ -58,7 +66,7 @@
 |**2023-09-06**|**Hierarchical-level rain image generative model based on GAN**|Zhenyuan Liu et.al.|[2309.02964](http://arxiv.org/abs/2309.02964)|null|
 |**2023-09-06**|**BigVSAN: Enhancing GAN-based Neural Vocoders with Slicing Adversarial Network**|Takashi Shibuya et.al.|[2309.02836](http://arxiv.org/abs/2309.02836)|**[link](https://github.com/sony/bigvsan)**|
 |**2023-09-05**|**Generative Algorithms for Fusion of Physics-Based Wildfire Spread Models with Satellite Data for Initializing Wildfire Forecasts**|Bryan Shaddy et.al.|[2309.02615](http://arxiv.org/abs/2309.02615)|null|
-|**2023-09-05**|**Utilizing Generative Adversarial Networks for Stable Structure Generation in Angry Birds**|Frederic Abraham et.al.|[2309.02614](http://arxiv.org/abs/2309.02614)|null|
+|**2023-09-05**|**Utilizing Generative Adversarial Networks for Stable Structure Generation in Angry Birds**|Frederic Abraham et.al.|[2309.02614](http://arxiv.org/abs/2309.02614)|**[link](https://github.com/Blaxzter/Utilizing-Generative-Adversarial-Networks-for-Stable-Structure-Generation-in-Angry-Birds)**|
 |**2023-09-05**|**Generating Infinite-Resolution Texture using GANs with Patch-by-Patch Paradigm**|Alhasan Abdellatif et.al.|[2309.02340](http://arxiv.org/abs/2309.02340)|**[link](https://github.com/ai4netzero/infinite_texture_gans)**|
 |**2023-09-04**|**ATMS: Algorithmic Trading-Guided Market Simulation**|Song Wei et.al.|[2309.01784](http://arxiv.org/abs/2309.01784)|null|
 |**2023-09-07**|**Generative-based Fusion Mechanism for Multi-Modal Tracking**|Zhangyong Tang et.al.|[2309.01728](http://arxiv.org/abs/2309.01728)|**[link](https://github.com/zhangyong-tang/gmmt)**|
@@ -622,6 +630,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-11**|**PAI-Diffusion: Constructing and Serving a Family of Open Chinese Diffusion Models for Text-to-image Synthesis on the Cloud**|Chengyu Wang et.al.|[2309.05534](http://arxiv.org/abs/2309.05534)|null|
+|**2023-09-11**|**Treatment-aware Diffusion Probabilistic Model for Longitudinal MRI Generation and Diffuse Glioma Growth Prediction**|Qinghui Liu et.al.|[2309.05406](http://arxiv.org/abs/2309.05406)|null|
+|**2023-09-11**|**Diff-Privacy: Diffusion-based Face Privacy Protection**|Xiao He et.al.|[2309.05330](http://arxiv.org/abs/2309.05330)|null|
+|**2023-09-10**|**Learning Energy-Based Models by Cooperative Diffusion Recovery Likelihood**|Yaxuan Zhu et.al.|[2309.05153](http://arxiv.org/abs/2309.05153)|null|
+|**2023-09-10**|**VoiceFlow: Efficient Text-to-Speech with Rectified Flow Matching**|Yiwei Guo et.al.|[2309.05027](http://arxiv.org/abs/2309.05027)|null|
+|**2023-09-10**|**SA-Solver: Stochastic Adams Solver for Fast Sampling of Diffusion Models**|Shuchen Xue et.al.|[2309.05019](http://arxiv.org/abs/2309.05019)|null|
+|**2023-09-10**|**Prefix-diffusion: A Lightweight Diffusion Model for Diverse Image Captioning**|Guisheng Liu et.al.|[2309.04965](http://arxiv.org/abs/2309.04965)|null|
+|**2023-09-10**|**Seismic Data Strong Noise Attenuation Based on Diffusion Model and Principal Component Analysis**|Junheng Peng et.al.|[2309.04944](http://arxiv.org/abs/2309.04944)|null|
+|**2023-09-10**|**Text-driven Editing of 3D Scenes without Retraining**|Shuangkang Fang et.al.|[2309.04917](http://arxiv.org/abs/2309.04917)|null|
+|**2023-09-09**|**Global Convergence of Receding-Horizon Policy Search in Learning Estimator Designs**|Xiangyuan Zhang et.al.|[2309.04831](http://arxiv.org/abs/2309.04831)|**[link](https://github.com/xiangyuan-zhang/learningkf)**|
+|**2023-09-09**|**Influence Maximization in Social Networks: A Survey**|Hui Li et.al.|[2309.04668](http://arxiv.org/abs/2309.04668)|null|
+|**2023-09-08**|**The Power of Sound (TPoS): Audio Reactive Video Generation with Stable Diffusion**|Yujin Jeong et.al.|[2309.04509](http://arxiv.org/abs/2309.04509)|null|
 |**2023-09-08**|**Create Your World: Lifelong Text-to-Image Diffusion**|Gan Sun et.al.|[2309.04430](http://arxiv.org/abs/2309.04430)|null|
 |**2023-09-08**|**MaskDiffusion: Boosting Text-to-Image Consistency with Conditional Mask**|Yupeng Zhou et.al.|[2309.04399](http://arxiv.org/abs/2309.04399)|null|
 |**2023-09-08**|**MoEController: Instruction-based Arbitrary Image Manipulation with Mixture-of-Expert Controllers**|Sijia Li et.al.|[2309.04372](http://arxiv.org/abs/2309.04372)|null|
@@ -1793,6 +1813,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-11**|**PAI-Diffusion: Constructing and Serving a Family of Open Chinese Diffusion Models for Text-to-image Synthesis on the Cloud**|Chengyu Wang et.al.|[2309.05534](http://arxiv.org/abs/2309.05534)|null|
+|**2023-09-11**|**Semantic Latent Decomposition with Normalizing Flows for Face Editing**|Binglei Li et.al.|[2309.05314](http://arxiv.org/abs/2309.05314)|**[link](https://github.com/phil329/sdflow)**|
+|**2023-09-11**|**HAT: Hybrid Attention Transformer for Image Restoration**|Xiangyu Chen et.al.|[2309.05239](http://arxiv.org/abs/2309.05239)|**[link](https://github.com/xpixelgroup/hat)**|
+|**2023-09-10**|**Effective Real Image Editing with Accelerated Iterative Diffusion Inversion**|Zhihong Pan et.al.|[2309.04907](http://arxiv.org/abs/2309.04907)|null|
 |**2023-09-08**|**MoEController: Instruction-based Arbitrary Image Manipulation with Mixture-of-Expert Controllers**|Sijia Li et.al.|[2309.04372](http://arxiv.org/abs/2309.04372)|null|
 |**2023-09-06**|**SLiMe: Segment Like Me**|Aliasghar Khani et.al.|[2309.03179](http://arxiv.org/abs/2309.03179)|null|
 |**2023-09-06**|**Prompt-based All-in-One Image Restoration using CNNs and Transformer**|Hu Gao et.al.|[2309.03063](http://arxiv.org/abs/2309.03063)|null|

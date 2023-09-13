@@ -39,6 +39,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-12**|**AGMDT: Virtual Staining of Renal Histology Images with Adjacency-Guided Multi-Domain Transfer**|Tao Ma et.al.|[2309.06421](http://arxiv.org/abs/2309.06421)|null|
+|**2023-09-12**|**TSSAT: Two-Stage Statistics-Aware Transformation for Artistic Style Transfer**|Haibo Chen et.al.|[2309.06004](http://arxiv.org/abs/2309.06004)|null|
+|**2023-09-11**|**Divergences in Color Perception between Deep Neural Networks and Humans**|Ethan O. Nadler et.al.|[2309.05809](http://arxiv.org/abs/2309.05809)|null|
 |**2023-09-11**|**ViHOPE: Visuotactile In-Hand Object 6D Pose Estimation with Shape Completion**|Hongyu Li et.al.|[2309.05662](http://arxiv.org/abs/2309.05662)|null|
 |**2023-09-11**|**PAI-Diffusion: Constructing and Serving a Family of Open Chinese Diffusion Models for Text-to-image Synthesis on the Cloud**|Chengyu Wang et.al.|[2309.05534](http://arxiv.org/abs/2309.05534)|null|
 |**2023-09-10**|**SdCT-GAN: Reconstructing CT from Biplanar X-Rays with Self-driven Generative Adversarial Networks**|Shuangqin Cheng et.al.|[2309.04960](http://arxiv.org/abs/2309.04960)|**[link](https://github.com/csqvictory/sdct-gan)**|
@@ -52,7 +55,7 @@ layout: default
 |**2023-09-07**|**Exploring Sparse MoE in GANs for Text-conditioned Image Synthesis**|Jiapeng Zhu et.al.|[2309.03904](http://arxiv.org/abs/2309.03904)|**[link](https://github.com/zhujiapeng/aurora)**|
 |**2023-09-07**|**Stroke-based Neural Painting and Stylization with Dynamically Predicted Painting Region**|Teng Hu et.al.|[2309.03504](http://arxiv.org/abs/2309.03504)|**[link](https://github.com/sjtuplayer/compositional_neural_painter)**|
 |**2023-09-06**|**Hierarchical-level rain image generative model based on GAN**|Zhenyuan Liu et.al.|[2309.02964](http://arxiv.org/abs/2309.02964)|null|
-|**2023-09-06**|**BigVSAN: Enhancing GAN-based Neural Vocoders with Slicing Adversarial Network**|Takashi Shibuya et.al.|[2309.02836](http://arxiv.org/abs/2309.02836)|**[link](https://github.com/sony/bigvsan)**|
+|**2023-09-06**|**BigVSAN: Enhancing GAN-based Neural Vocoders with Slicing Adversarial Network**|Takashi Shibuya et.al.|[2309.02836](http://arxiv.org/abs/2309.02836)|**[link](https://github.com/sony/bigvsan_eval)**|
 |**2023-09-05**|**Generative Algorithms for Fusion of Physics-Based Wildfire Spread Models with Satellite Data for Initializing Wildfire Forecasts**|Bryan Shaddy et.al.|[2309.02615](http://arxiv.org/abs/2309.02615)|null|
 |**2023-09-05**|**Utilizing Generative Adversarial Networks for Stable Structure Generation in Angry Birds**|Frederic Abraham et.al.|[2309.02614](http://arxiv.org/abs/2309.02614)|**[link](https://github.com/Blaxzter/Utilizing-Generative-Adversarial-Networks-for-Stable-Structure-Generation-in-Angry-Birds)**|
 |**2023-09-05**|**Generating Infinite-Resolution Texture using GANs with Patch-by-Patch Paradigm**|Alhasan Abdellatif et.al.|[2309.02340](http://arxiv.org/abs/2309.02340)|**[link](https://github.com/ai4netzero/infinite_texture_gans)**|
@@ -616,6 +619,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-12**|**InstaFlow: One Step is Enough for High-Quality Diffusion-Based Text-to-Image Generation**|Xingchao Liu et.al.|[2309.06380](http://arxiv.org/abs/2309.06380)|**[link](https://github.com/gnobitab/instaflow)**|
+|**2023-09-12**|**Fg-T2M: Fine-Grained Text-Driven Human Motion Generation via Diffusion Model**|Yin Wang et.al.|[2309.06284](http://arxiv.org/abs/2309.06284)|null|
+|**2023-09-12**|**Spreading speeds of a nonlocal diffusion model with free boundaries in the time almost periodic media**|Chengcheng Cheng et.al.|[2309.06190](http://arxiv.org/abs/2309.06190)|null|
+|**2023-09-12**|**Dynamics and spreading speeds of a nonlocal diffusion model with advection and free boundaries**|Chengcheng Cheng et.al.|[2309.06185](http://arxiv.org/abs/2309.06185)|null|
+|**2023-09-12**|**Elucidating the solution space of extended reverse-time SDE for diffusion models**|Qinpeng Cui et.al.|[2309.06169](http://arxiv.org/abs/2309.06169)|null|
+|**2023-09-12**|**Prompting4Debugging: Red-Teaming Text-to-Image Diffusion Models by Finding Problematic Prompts**|Zhi-Yi Chin et.al.|[2309.06135](http://arxiv.org/abs/2309.06135)|null|
+|**2023-09-12**|**A monotone numerical integration method for mean-variance portfolio optimization under jump-diffusion models**|Hanwen Zhang et.al.|[2309.05977](http://arxiv.org/abs/2309.05977)|null|
+|**2023-09-12**|**Introducing Shape Prior Module in Diffusion Model for Medical Image Segmentation**|Zhiqing Zhang et.al.|[2309.05929](http://arxiv.org/abs/2309.05929)|null|
+|**2023-09-11**|**Predicting the Radiation Field of Molecular Clouds using Denoising Diffusion Probabilistic Models**|Duo Xu et.al.|[2309.05811](http://arxiv.org/abs/2309.05811)|null|
+|**2023-09-11**|**Revisiting Energy Based Models as Policies: Ranking Noise Contrastive Estimation and Interpolating Energy Models**|Sumeet Singh et.al.|[2309.05803](http://arxiv.org/abs/2309.05803)|null|
+|**2023-09-11**|**Diffusion-based Adversarial Purification for Robust Deep MRI Reconstruction**|Ismail Alkhouri et.al.|[2309.05794](http://arxiv.org/abs/2309.05794)|null|
+|**2023-09-11**|**PhotoVerse: Tuning-Free Image Customization with Text-to-Image Diffusion Models**|Li Chen et.al.|[2309.05793](http://arxiv.org/abs/2309.05793)|null|
+|**2023-09-11**|**CaloClouds II: Ultra-Fast Geometry-Independent Highly-Granular Calorimeter Simulation**|Erik Buhmann et.al.|[2309.05704](http://arxiv.org/abs/2309.05704)|null|
 |**2023-09-11**|**PAI-Diffusion: Constructing and Serving a Family of Open Chinese Diffusion Models for Text-to-image Synthesis on the Cloud**|Chengyu Wang et.al.|[2309.05534](http://arxiv.org/abs/2309.05534)|null|
 |**2023-09-12**|**Treatment-aware Diffusion Probabilistic Model for Longitudinal MRI Generation and Diffuse Glioma Growth Prediction**|Qinghui Liu et.al.|[2309.05406](http://arxiv.org/abs/2309.05406)|null|
 |**2023-09-11**|**Diff-Privacy: Diffusion-based Face Privacy Protection**|Xiao He et.al.|[2309.05330](http://arxiv.org/abs/2309.05330)|null|
@@ -1797,6 +1813,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-12**|**Learning from History: Task-agnostic Model Contrastive Learning for Image Restoration**|Gang Wu et.al.|[2309.06023](http://arxiv.org/abs/2309.06023)|**[link](https://github.com/aitical/task-agnostic_model_contrastive_learning_image_restoration)**|
 |**2023-09-11**|**PAI-Diffusion: Constructing and Serving a Family of Open Chinese Diffusion Models for Text-to-image Synthesis on the Cloud**|Chengyu Wang et.al.|[2309.05534](http://arxiv.org/abs/2309.05534)|null|
 |**2023-09-11**|**Semantic Latent Decomposition with Normalizing Flows for Face Editing**|Binglei Li et.al.|[2309.05314](http://arxiv.org/abs/2309.05314)|**[link](https://github.com/phil329/sdflow)**|
 |**2023-09-11**|**HAT: Hybrid Attention Transformer for Image Restoration**|Xiangyu Chen et.al.|[2309.05239](http://arxiv.org/abs/2309.05239)|**[link](https://github.com/xpixelgroup/hat)**|

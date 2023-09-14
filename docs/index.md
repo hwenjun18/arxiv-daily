@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.13
+## Updated on 2023.09.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -635,7 +635,7 @@ layout: default
 |**2023-09-11**|**PAI-Diffusion: Constructing and Serving a Family of Open Chinese Diffusion Models for Text-to-image Synthesis on the Cloud**|Chengyu Wang et.al.|[2309.05534](http://arxiv.org/abs/2309.05534)|null|
 |**2023-09-12**|**Treatment-aware Diffusion Probabilistic Model for Longitudinal MRI Generation and Diffuse Glioma Growth Prediction**|Qinghui Liu et.al.|[2309.05406](http://arxiv.org/abs/2309.05406)|null|
 |**2023-09-11**|**Diff-Privacy: Diffusion-based Face Privacy Protection**|Xiao He et.al.|[2309.05330](http://arxiv.org/abs/2309.05330)|null|
-|**2023-09-10**|**Learning Energy-Based Models by Cooperative Diffusion Recovery Likelihood**|Yaxuan Zhu et.al.|[2309.05153](http://arxiv.org/abs/2309.05153)|null|
+|**2023-09-12**|**Learning Energy-Based Models by Cooperative Diffusion Recovery Likelihood**|Yaxuan Zhu et.al.|[2309.05153](http://arxiv.org/abs/2309.05153)|null|
 |**2023-09-10**|**VoiceFlow: Efficient Text-to-Speech with Rectified Flow Matching**|Yiwei Guo et.al.|[2309.05027](http://arxiv.org/abs/2309.05027)|null|
 |**2023-09-10**|**SA-Solver: Stochastic Adams Solver for Fast Sampling of Diffusion Models**|Shuchen Xue et.al.|[2309.05019](http://arxiv.org/abs/2309.05019)|null|
 |**2023-09-10**|**Prefix-diffusion: A Lightweight Diffusion Model for Diverse Image Captioning**|Guisheng Liu et.al.|[2309.04965](http://arxiv.org/abs/2309.04965)|null|

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.15
+## Updated on 2023.09.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -637,7 +637,7 @@ layout: default
 |**2023-09-13**|**Unbiased Face Synthesis With Diffusion Models: Are We There Yet?**|Harrison Rosenberg et.al.|[2309.07277](http://arxiv.org/abs/2309.07277)|null|
 |**2023-09-13**|**Mitigate Replication and Copying in Diffusion Models with Generalized Caption and Dual Fusion Enhancement**|Chenghao Li et.al.|[2309.07254](http://arxiv.org/abs/2309.07254)|null|
 |**2023-09-13**|**Diffusion models for audio semantic communication**|Eleonora Grassucci et.al.|[2309.07195](http://arxiv.org/abs/2309.07195)|null|
-|**2023-09-13**|**UnifiedGesture: A Unified Gesture Synthesis Model for Multiple Skeletons**|Sicheng Yang et.al.|[2309.07051](http://arxiv.org/abs/2309.07051)|null|
+|**2023-09-13**|**UnifiedGesture: A Unified Gesture Synthesis Model for Multiple Skeletons**|Sicheng Yang et.al.|[2309.07051](http://arxiv.org/abs/2309.07051)|**[link](https://github.com/youngseng/unifiedgesture)**|
 |**2023-09-13**|**VRDMG: Vocal Restoration via Diffusion Posterior Sampling with Multiple Guidance**|Carlos Hernandez-Olivan et.al.|[2309.06934](http://arxiv.org/abs/2309.06934)|null|
 |**2023-09-13**|**DreamStyler: Paint by Style Inversion with Text-to-Image Diffusion Models**|Namhyuk Ahn et.al.|[2309.06933](http://arxiv.org/abs/2309.06933)|null|
 |**2023-09-13**|**DCTTS: Discrete Diffusion Model with Contrastive Learning for Text-to-speech Generation**|Zhichao Wu et.al.|[2309.06787](http://arxiv.org/abs/2309.06787)|null|
@@ -1837,7 +1837,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-14**|**A Multi-scale Generalized Shrinkage Threshold Network for Image Blind Deblurring in Remote Sensing**|Yujie Feng et.al.|[2309.07524](http://arxiv.org/abs/2309.07524)|null|
-|**2023-09-13**|**FAIR: Frequency-aware Image Restoration for Industrial Visual Anomaly Detection**|Tongkun Liu et.al.|[2309.07068](http://arxiv.org/abs/2309.07068)|null|
+|**2023-09-13**|**FAIR: Frequency-aware Image Restoration for Industrial Visual Anomaly Detection**|Tongkun Liu et.al.|[2309.07068](http://arxiv.org/abs/2309.07068)|**[link](https://github.com/liutongkun/fair)**|
 |**2023-09-12**|**Learning from History: Task-agnostic Model Contrastive Learning for Image Restoration**|Gang Wu et.al.|[2309.06023](http://arxiv.org/abs/2309.06023)|**[link](https://github.com/aitical/task-agnostic_model_contrastive_learning_image_restoration)**|
 |**2023-09-11**|**PAI-Diffusion: Constructing and Serving a Family of Open Chinese Diffusion Models for Text-to-image Synthesis on the Cloud**|Chengyu Wang et.al.|[2309.05534](http://arxiv.org/abs/2309.05534)|null|
 |**2023-09-11**|**Semantic Latent Decomposition with Normalizing Flows for Face Editing**|Binglei Li et.al.|[2309.05314](http://arxiv.org/abs/2309.05314)|**[link](https://github.com/phil329/sdflow)**|

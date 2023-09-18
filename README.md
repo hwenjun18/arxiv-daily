@@ -51,6 +51,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-15**|**ICLEF: In-Context Learning with Expert Feedback for Explainable Style Transfer**|Arkadiy Saakyan et.al.|[2309.08583](http://arxiv.org/abs/2309.08583)|**[link](https://github.com/asaakyan/explain-st)**|
+|**2023-09-15**|**Classical shadows meet quantum optimal mass transport**|Giacomo De Palma et.al.|[2309.08426](http://arxiv.org/abs/2309.08426)|null|
+|**2023-09-15**|**Cross-Modal Synthesis of Structural MRI and Functional Connectivity Networks via Conditional ViT-GANs**|Yuda Bi et.al.|[2309.08160](http://arxiv.org/abs/2309.08160)|null|
+|**2023-09-15**|**Increasing diversity of omni-directional images generated from single image using cGAN based on MLPMixer**|Atsuya Nakata et.al.|[2309.08129](http://arxiv.org/abs/2309.08129)|**[link](https://github.com/islab-sophia/odigen-mlpmixer)**|
+|**2023-09-14**|**An Automated Machine Learning Approach for Detecting Anomalous Peak Patterns in Time Series Data from a Research Watershed in the Northeastern United States Critical Zone**|Ijaz Ul Haq et.al.|[2309.07992](http://arxiv.org/abs/2309.07992)|null|
+|**2023-09-14**|**M3Dsynth: A dataset of medical 3D images with AI-generated local manipulations**|Giada Zingarini et.al.|[2309.07973](http://arxiv.org/abs/2309.07973)|null|
 |**2023-09-14**|**SnakeGAN: A Universal Vocoder Leveraging DDSP Prior Knowledge and Periodic Inductive Bias**|Sipan Li et.al.|[2309.07803](http://arxiv.org/abs/2309.07803)|null|
 |**2023-09-14**|**Market-GAN: Adding Control to Financial Market Data Generation with Semantic Context**|Haochong Xia et.al.|[2309.07708](http://arxiv.org/abs/2309.07708)|null|
 |**2023-09-14**|**StarGAN-VC++: Towards Emotion Preserving Voice Conversion Using Deep Embeddings**|Arnab Das et.al.|[2309.07592](http://arxiv.org/abs/2309.07592)|null|
@@ -641,6 +647,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-15**|**Compositional Foundation Models for Hierarchical Planning**|Anurag Ajay et.al.|[2309.08587](http://arxiv.org/abs/2309.08587)|null|
+|**2023-09-15**|**Denoising Diffusion Probabilistic Models for Hardware-Impaired Communications**|Mehdi Letafati et.al.|[2309.08568](http://arxiv.org/abs/2309.08568)|null|
+|**2023-09-15**|**Breathing New Life into 3D Assets with Generative Repainting**|Tianfu Wang et.al.|[2309.08523](http://arxiv.org/abs/2309.08523)|**[link](https://github.com/kongdai123/repainting_3d_assets)**|
+|**2023-09-15**|**Generalised Probabilistic Diffusion Scale-Spaces**|Pascal Peter et.al.|[2309.08511](http://arxiv.org/abs/2309.08511)|null|
+|**2023-09-15**|**Biological invasions and epidemics with nonlocal diffusion along a line**|Henri Berestycki et.al.|[2309.08298](http://arxiv.org/abs/2309.08298)|null|
+|**2023-09-15**|**Large Intestine 3D Shape Refinement Using Point Diffusion Models for Digital Phantom Generation**|Kaouther Mouheb et.al.|[2309.08289](http://arxiv.org/abs/2309.08289)|null|
+|**2023-09-15**|**Unsupervised Disentangling of Facial Representations with 3D-aware Latent Diffusion Models**|Ruian He et.al.|[2309.08273](http://arxiv.org/abs/2309.08273)|null|
+|**2023-09-15**|**Cartoondiff: Training-free Cartoon Image Generation with Diffusion Transformer Models**|Feihong He et.al.|[2309.08251](http://arxiv.org/abs/2309.08251)|null|
+|**2023-09-15**|**Detail Reinforcement Diffusion Model: Augmentation Fine-Grained Visual Categorization in Few-Shot Conditions**|Tianxu Wu et.al.|[2309.08097](http://arxiv.org/abs/2309.08097)|null|
+|**2023-09-14**|**AV2Wav: Diffusion-Based Re-synthesis from Continuous Self-supervised Features for Audio-Visual Speech Enhancement**|Ju-Chieh Chou et.al.|[2309.08030](http://arxiv.org/abs/2309.08030)|null|
+|**2023-09-14**|**Viewpoint Textual Inversion: Unleashing Novel View Synthesis with Pretrained 2D Diffusion Models**|James Burgess et.al.|[2309.07986](http://arxiv.org/abs/2309.07986)|null|
+|**2023-09-14**|**M3Dsynth: A dataset of medical 3D images with AI-generated local manipulations**|Giada Zingarini et.al.|[2309.07973](http://arxiv.org/abs/2309.07973)|null|
 |**2023-09-15**|**Large-Vocabulary 3D Diffusion Model with Transformer**|Ziang Cao et.al.|[2309.07920](http://arxiv.org/abs/2309.07920)|null|
 |**2023-09-14**|**Beta Diffusion**|Mingyuan Zhou et.al.|[2309.07867](http://arxiv.org/abs/2309.07867)|null|
 |**2023-09-14**|**EMOCONV-DIFF: Diffusion-based Speech Emotion Conversion for Non-parallel and In-the-wild Data**|Navin Raj Prabhu et.al.|[2309.07828](http://arxiv.org/abs/2309.07828)|null|

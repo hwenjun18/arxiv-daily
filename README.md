@@ -51,6 +51,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-18**|**Quantum Wasserstein GANs for State Preparation at Unseen Points of a Phase Diagram**|Wiktor Jurasz et.al.|[2309.09543](http://arxiv.org/abs/2309.09543)|null|
+|**2023-09-17**|**Speech-Gesture GAN: Gesture Generation for Robots and Embodied Agents**|Carson Yu Liu et.al.|[2309.09346](http://arxiv.org/abs/2309.09346)|null|
+|**2023-09-17**|**UGC: Unified GAN Compression for Efficient Image-to-Image Translation**|Yuxi Ren et.al.|[2309.09310](http://arxiv.org/abs/2309.09310)|null|
+|**2023-09-16**|**Music Generation based on Generative Adversarial Networks with Transformer**|Ziyi Jiang et.al.|[2309.09075](http://arxiv.org/abs/2309.09075)|null|
+|**2023-09-16**|**In-Style: Bridging Text and Uncurated Videos with Style Transfer for Text-Video Retrieval**|Nina Shvetsova et.al.|[2309.08928](http://arxiv.org/abs/2309.08928)|null|
+|**2023-09-16**|**Bidirectional Graph GAN: Representing Brain Structure-Function Connections for Alzheimer's Disease**|Shuqiang Wang et.al.|[2309.08916](http://arxiv.org/abs/2309.08916)|null|
+|**2023-09-16**|**Enhancing Visual Perception in Novel Environments via Incremental Data Augmentation Based on Style Transfer**|Abhibha Gupta et.al.|[2309.08851](http://arxiv.org/abs/2309.08851)|**[link](https://github.com/abhibha1807/robustifying_visual_perception)**|
+|**2023-09-15**|**Quantifying Credit Portfolio sensitivity to asset correlations with interpretable generative neural networks**|Sergio Caprioli et.al.|[2309.08652](http://arxiv.org/abs/2309.08652)|null|
 |**2023-09-15**|**ICLEF: In-Context Learning with Expert Feedback for Explainable Style Transfer**|Arkadiy Saakyan et.al.|[2309.08583](http://arxiv.org/abs/2309.08583)|**[link](https://github.com/asaakyan/explain-st)**|
 |**2023-09-15**|**Classical shadows meet quantum optimal mass transport**|Giacomo De Palma et.al.|[2309.08426](http://arxiv.org/abs/2309.08426)|null|
 |**2023-09-15**|**Cross-Modal Synthesis of Structural MRI and Functional Connectivity Networks via Conditional ViT-GANs**|Yuda Bi et.al.|[2309.08160](http://arxiv.org/abs/2309.08160)|null|
@@ -647,6 +655,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-18**|**What is a Fair Diffusion Model? Designing Generative Text-To-Image Models to Incorporate Various Worldviews**|Zoe De Simone et.al.|[2309.09944](http://arxiv.org/abs/2309.09944)|**[link](https://github.com/zoedesimone/diffusionworldviewer)**|
+|**2023-09-18**|**DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving**|Xiaofeng Wang et.al.|[2309.09777](http://arxiv.org/abs/2309.09777)|null|
+|**2023-09-18**|**Application-driven Validation of Posteriors in Inverse Problems**|Tim J. Adler et.al.|[2309.09764](http://arxiv.org/abs/2309.09764)|null|
+|**2023-09-18**|**Single and Few-step Diffusion for Generative Speech Enhancement**|Bunlong Lay et.al.|[2309.09677](http://arxiv.org/abs/2309.09677)|null|
+|**2023-09-18**|**Speeding Up Speech Synthesis In Diffusion Models By Reducing Data Distribution Recovery Steps Via Content Transfer**|Peter Ochieng et.al.|[2309.09652](http://arxiv.org/abs/2309.09652)|null|
+|**2023-09-18**|**Gradpaint: Gradient-Guided Inpainting with Diffusion Models**|Asya Grechka et.al.|[2309.09614](http://arxiv.org/abs/2309.09614)|null|
+|**2023-09-18**|**Causal-Story: Local Causal Attention Utilizing Parameter-Efficient Tuning For Visual Story Synthesis**|Tianyi Song et.al.|[2309.09553](http://arxiv.org/abs/2309.09553)|null|
+|**2023-09-18**|**Progressive Text-to-Image Diffusion with Soft Latent Direction**|YuTeng Ye et.al.|[2309.09466](http://arxiv.org/abs/2309.09466)|**[link](https://github.com/babahui/progressive-text-to-image)**|
+|**2023-09-17**|**Enhancing Knee Osteoarthritis severity level classification using diffusion augmented images**|Paleti Nikhil Chowdary et.al.|[2309.09328](http://arxiv.org/abs/2309.09328)|null|
+|**2023-09-17**|**PromptVC: Flexible Stylistic Voice Conversion in Latent Space Driven by Natural Language Prompts**|Jixun Yao et.al.|[2309.09262](http://arxiv.org/abs/2309.09262)|null|
+|**2023-09-16**|**CDDM: Channel Denoising Diffusion Models for Wireless Semantic Communications**|Tong Wu et.al.|[2309.08895](http://arxiv.org/abs/2309.08895)|null|
+|**2023-09-15**|**Probabilistic Constellation Shaping With Denoising Diffusion Probabilistic Models: A Novel Approach**|Mehdi Letafati et.al.|[2309.08688](http://arxiv.org/abs/2309.08688)|null|
 |**2023-09-15**|**Compositional Foundation Models for Hierarchical Planning**|Anurag Ajay et.al.|[2309.08587](http://arxiv.org/abs/2309.08587)|null|
 |**2023-09-15**|**Denoising Diffusion Probabilistic Models for Hardware-Impaired Communications**|Mehdi Letafati et.al.|[2309.08568](http://arxiv.org/abs/2309.08568)|null|
 |**2023-09-15**|**Breathing New Life into 3D Assets with Generative Repainting**|Tianfu Wang et.al.|[2309.08523](http://arxiv.org/abs/2309.08523)|**[link](https://github.com/toshas/remesh_isotropic_planar)**|
@@ -1870,6 +1890,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-16**|**AOSR-Net: All-in-One Sandstorm Removal Network**|Yazhong Si et.al.|[2309.08838](http://arxiv.org/abs/2309.08838)|null|
 |**2023-09-14**|**A Multi-scale Generalized Shrinkage Threshold Network for Image Blind Deblurring in Remote Sensing**|Yujie Feng et.al.|[2309.07524](http://arxiv.org/abs/2309.07524)|null|
 |**2023-09-13**|**FAIR: Frequency-aware Image Restoration for Industrial Visual Anomaly Detection**|Tongkun Liu et.al.|[2309.07068](http://arxiv.org/abs/2309.07068)|**[link](https://github.com/liutongkun/fair)**|
 |**2023-09-12**|**Learning from History: Task-agnostic Model Contrastive Learning for Image Restoration**|Gang Wu et.al.|[2309.06023](http://arxiv.org/abs/2309.06023)|**[link](https://github.com/aitical/task-agnostic_model_contrastive_learning_image_restoration)**|

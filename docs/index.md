@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.18
+## Updated on 2023.09.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -47,13 +47,13 @@ layout: default
 |**2023-09-14**|**M3Dsynth: A dataset of medical 3D images with AI-generated local manipulations**|Giada Zingarini et.al.|[2309.07973](http://arxiv.org/abs/2309.07973)|null|
 |**2023-09-14**|**SnakeGAN: A Universal Vocoder Leveraging DDSP Prior Knowledge and Periodic Inductive Bias**|Sipan Li et.al.|[2309.07803](http://arxiv.org/abs/2309.07803)|null|
 |**2023-09-14**|**Market-GAN: Adding Control to Financial Market Data Generation with Semantic Context**|Haochong Xia et.al.|[2309.07708](http://arxiv.org/abs/2309.07708)|null|
-|**2023-09-14**|**StarGAN-VC++: Towards Emotion Preserving Voice Conversion Using Deep Embeddings**|Arnab Das et.al.|[2309.07592](http://arxiv.org/abs/2309.07592)|null|
+|**2023-09-14**|**StarGAN-VC++: Towards Emotion Preserving Voice Conversion Using Deep Embeddings**|Arnab Das et.al.|[2309.07592](http://arxiv.org/abs/2309.07592)|**[link](https://github.com/arnabdas8901/StarGAN-VC_PlusPlus)**|
 |**2023-09-14**|**Speech-to-Speech Translation with Discrete-Unit-Based Style Transfer**|Yongqi Wang et.al.|[2309.07566](http://arxiv.org/abs/2309.07566)|null|
 |**2023-09-13**|**GAN-based Algorithm for Efficient Image Inpainting**|Zhengyang Han et.al.|[2309.07293](http://arxiv.org/abs/2309.07293)|null|
 |**2023-09-13**|**DreamStyler: Paint by Style Inversion with Text-to-Image Diffusion Models**|Namhyuk Ahn et.al.|[2309.06933](http://arxiv.org/abs/2309.06933)|null|
 |**2023-09-13**|**Integrating GAN and Texture Synthesis for Enhanced Road Damage Detection**|Tengyang Chen et.al.|[2309.06747](http://arxiv.org/abs/2309.06747)|null|
 |**2023-09-12**|**CaloShowerGAN, a Generative Adversarial Networks model for fast calorimeter shower simulation**|Michele Faucci Giannelli et.al.|[2309.06515](http://arxiv.org/abs/2309.06515)|null|
-|**2023-09-12**|**AGMDT: Virtual Staining of Renal Histology Images with Adjacency-Guided Multi-Domain Transfer**|Tao Ma et.al.|[2309.06421](http://arxiv.org/abs/2309.06421)|null|
+|**2023-09-17**|**AGMDT: Virtual Staining of Renal Histology Images with Adjacency-Guided Multi-Domain Transfer**|Tao Ma et.al.|[2309.06421](http://arxiv.org/abs/2309.06421)|null|
 |**2023-09-12**|**TSSAT: Two-Stage Statistics-Aware Transformation for Artistic Style Transfer**|Haibo Chen et.al.|[2309.06004](http://arxiv.org/abs/2309.06004)|null|
 |**2023-09-11**|**Divergences in Color Perception between Deep Neural Networks and Humans**|Ethan O. Nadler et.al.|[2309.05809](http://arxiv.org/abs/2309.05809)|null|
 |**2023-09-11**|**ViHOPE: Visuotactile In-Hand Object 6D Pose Estimation with Shape Completion**|Hongyu Li et.al.|[2309.05662](http://arxiv.org/abs/2309.05662)|null|
@@ -635,7 +635,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-15**|**Compositional Foundation Models for Hierarchical Planning**|Anurag Ajay et.al.|[2309.08587](http://arxiv.org/abs/2309.08587)|null|
 |**2023-09-15**|**Denoising Diffusion Probabilistic Models for Hardware-Impaired Communications**|Mehdi Letafati et.al.|[2309.08568](http://arxiv.org/abs/2309.08568)|null|
-|**2023-09-15**|**Breathing New Life into 3D Assets with Generative Repainting**|Tianfu Wang et.al.|[2309.08523](http://arxiv.org/abs/2309.08523)|**[link](https://github.com/kongdai123/repainting_3d_assets)**|
+|**2023-09-15**|**Breathing New Life into 3D Assets with Generative Repainting**|Tianfu Wang et.al.|[2309.08523](http://arxiv.org/abs/2309.08523)|**[link](https://github.com/toshas/remesh_isotropic_planar)**|
 |**2023-09-15**|**Generalised Probabilistic Diffusion Scale-Spaces**|Pascal Peter et.al.|[2309.08511](http://arxiv.org/abs/2309.08511)|null|
 |**2023-09-15**|**Biological invasions and epidemics with nonlocal diffusion along a line**|Henri Berestycki et.al.|[2309.08298](http://arxiv.org/abs/2309.08298)|null|
 |**2023-09-15**|**Large Intestine 3D Shape Refinement Using Point Diffusion Models for Digital Phantom Generation**|Kaouther Mouheb et.al.|[2309.08289](http://arxiv.org/abs/2309.08289)|null|

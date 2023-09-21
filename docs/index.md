@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.20
+## Updated on 2023.09.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -44,14 +44,14 @@ layout: default
 |**2023-09-19**|**Retinex-guided Channel-grouping based Patch Swap for Arbitrary Style Transfer**|Chang Liu et.al.|[2309.10528](http://arxiv.org/abs/2309.10528)|null|
 |**2023-09-19**|**Learning End-to-End Channel Coding with Diffusion Models**|Muah Kim et.al.|[2309.10505](http://arxiv.org/abs/2309.10505)|null|
 |**2023-09-19**|**Augmenting Tactile Simulators with Real-like and Zero-Shot Capabilities**|Osher Azulay et.al.|[2309.10409](http://arxiv.org/abs/2309.10409)|null|
-|**2023-09-18**|**Machine Learning for enhancing Wind Field Resolution in Complex Terrain**|Jacob Wulff Wold et.al.|[2309.10172](http://arxiv.org/abs/2309.10172)|null|
+|**2023-09-18**|**Machine Learning for enhancing Wind Field Resolution in Complex Terrain**|Jacob Wulff Wold et.al.|[2309.10172](http://arxiv.org/abs/2309.10172)|**[link](https://github.com/jacobwulffwold/gan_sr_wind_field)**|
 |**2023-09-18**|**Offline Detection of Misspelled Handwritten Words by Convolving Recognition Model Features with Text Labels**|Andrey Totev et.al.|[2309.10158](http://arxiv.org/abs/2309.10158)|null|
 |**2023-09-18**|**Instant Photorealistic Style Transfer: A Lightweight and Adaptive Approach**|Rong Liu et.al.|[2309.10011](http://arxiv.org/abs/2309.10011)|null|
 |**2023-09-18**|**Quantum Wasserstein GANs for State Preparation at Unseen Points of a Phase Diagram**|Wiktor Jurasz et.al.|[2309.09543](http://arxiv.org/abs/2309.09543)|null|
 |**2023-09-17**|**Speech-Gesture GAN: Gesture Generation for Robots and Embodied Agents**|Carson Yu Liu et.al.|[2309.09346](http://arxiv.org/abs/2309.09346)|null|
 |**2023-09-17**|**UGC: Unified GAN Compression for Efficient Image-to-Image Translation**|Yuxi Ren et.al.|[2309.09310](http://arxiv.org/abs/2309.09310)|null|
 |**2023-09-16**|**Music Generation based on Generative Adversarial Networks with Transformer**|Ziyi Jiang et.al.|[2309.09075](http://arxiv.org/abs/2309.09075)|null|
-|**2023-09-16**|**In-Style: Bridging Text and Uncurated Videos with Style Transfer for Text-Video Retrieval**|Nina Shvetsova et.al.|[2309.08928](http://arxiv.org/abs/2309.08928)|null|
+|**2023-09-16**|**In-Style: Bridging Text and Uncurated Videos with Style Transfer for Text-Video Retrieval**|Nina Shvetsova et.al.|[2309.08928](http://arxiv.org/abs/2309.08928)|**[link](https://github.com/ninatu/in_style)**|
 |**2023-09-16**|**Bidirectional Graph GAN: Representing Brain Structure-Function Connections for Alzheimer's Disease**|Shuqiang Wang et.al.|[2309.08916](http://arxiv.org/abs/2309.08916)|null|
 |**2023-09-16**|**Enhancing Visual Perception in Novel Environments via Incremental Data Augmentation Based on Style Transfer**|Abhibha Gupta et.al.|[2309.08851](http://arxiv.org/abs/2309.08851)|**[link](https://github.com/abhibha1807/robustifying_visual_perception)**|
 |**2023-09-15**|**Quantifying Credit Portfolio sensitivity to asset correlations with interpretable generative neural networks**|Sergio Caprioli et.al.|[2309.08652](http://arxiv.org/abs/2309.08652)|null|
@@ -668,7 +668,7 @@ layout: default
 |**2023-09-18**|**Single and Few-step Diffusion for Generative Speech Enhancement**|Bunlong Lay et.al.|[2309.09677](http://arxiv.org/abs/2309.09677)|null|
 |**2023-09-18**|**Speeding Up Speech Synthesis In Diffusion Models By Reducing Data Distribution Recovery Steps Via Content Transfer**|Peter Ochieng et.al.|[2309.09652](http://arxiv.org/abs/2309.09652)|null|
 |**2023-09-18**|**Gradpaint: Gradient-Guided Inpainting with Diffusion Models**|Asya Grechka et.al.|[2309.09614](http://arxiv.org/abs/2309.09614)|null|
-|**2023-09-18**|**Causal-Story: Local Causal Attention Utilizing Parameter-Efficient Tuning For Visual Story Synthesis**|Tianyi Song et.al.|[2309.09553](http://arxiv.org/abs/2309.09553)|null|
+|**2023-09-20**|**Causal-Story: Local Causal Attention Utilizing Parameter-Efficient Tuning For Visual Story Synthesis**|Tianyi Song et.al.|[2309.09553](http://arxiv.org/abs/2309.09553)|null|
 |**2023-09-18**|**Progressive Text-to-Image Diffusion with Soft Latent Direction**|YuTeng Ye et.al.|[2309.09466](http://arxiv.org/abs/2309.09466)|**[link](https://github.com/babahui/progressive-text-to-image)**|
 |**2023-09-17**|**Enhancing Knee Osteoarthritis severity level classification using diffusion augmented images**|Paleti Nikhil Chowdary et.al.|[2309.09328](http://arxiv.org/abs/2309.09328)|null|
 |**2023-09-17**|**PromptVC: Flexible Stylistic Voice Conversion in Latent Space Driven by Natural Language Prompts**|Jixun Yao et.al.|[2309.09262](http://arxiv.org/abs/2309.09262)|null|
@@ -2176,7 +2176,7 @@ layout: default
 |**2023-08-09**|**WaveNeRF: Wavelet-based Generalizable Neural Radiance Fields**|Muyu Xu et.al.|[2308.04826](http://arxiv.org/abs/2308.04826)|null|
 |**2023-08-08**|**Rendering Humans from Object-Occluded Monocular Videos**|Tiange Xiang et.al.|[2308.04622](http://arxiv.org/abs/2308.04622)|null|
 |**2023-08-07**|**Mirror-NeRF: Learning Neural Radiance Fields for Mirrors with Whitted-Style Ray Tracing**|Junyi Zeng et.al.|[2308.03280](http://arxiv.org/abs/2308.03280)|null|
-|**2023-09-06**|**Context-Aware Talking-Head Video Editing**|Songlin Yang et.al.|[2308.00462](http://arxiv.org/abs/2308.00462)|null|
+|**2023-09-20**|**Context-Aware Talking-Head Video Editing**|Songlin Yang et.al.|[2308.00462](http://arxiv.org/abs/2308.00462)|null|
 |**2023-07-17**|**CeRF: Convolutional Neural Radiance Fields for New View Synthesis with Derivatives of Ray Modeling**|Xiaoyan Yang et.al.|[2307.07125](http://arxiv.org/abs/2307.07125)|null|
 |**2023-06-28**|**Envisioning a Next Generation Extended Reality Conferencing System with Efficient Photorealistic Human Rendering**|Chuanyue Shen et.al.|[2306.16541](http://arxiv.org/abs/2306.16541)|null|
 |**2023-06-19**|**Renderers are Good Zero-Shot Representation Learners: Exploring Diffusion Latents for Metric Learning**|Michael Tang et.al.|[2306.10721](http://arxiv.org/abs/2306.10721)|**[link](https://github.com/michaelwilliamtang/golden-retriever)**|
@@ -2323,7 +2323,7 @@ layout: default
 |**2023-07-29**|**Global planar dynamics with a star node and contracting nolinearity**|Begoña Alarcón et.al.|[2307.16020](http://arxiv.org/abs/2307.16020)|null|
 |**2023-07-28**|**Fixed Flowers**|Md Abdul Aziz et.al.|[2307.15794](http://arxiv.org/abs/2307.15794)|null|
 |**2023-08-21**|**3DPortraitGAN: Learning One-Quarter Headshot 3D GANs from a Single-View Portrait Dataset with Diverse Body Poses**|Yiqian Wu et.al.|[2307.14770](http://arxiv.org/abs/2307.14770)|null|
-|**2023-08-05**|**General Image-to-Image Translation with One-Shot Image Guidance**|Bin Cheng et.al.|[2307.14352](http://arxiv.org/abs/2307.14352)|**[link](https://github.com/crystalneuro/visual-concept-translator)**|
+|**2023-09-20**|**General Image-to-Image Translation with One-Shot Image Guidance**|Bin Cheng et.al.|[2307.14352](http://arxiv.org/abs/2307.14352)|**[link](https://github.com/crystalneuro/visual-concept-translator)**|
 |**2023-07-24**|**Launching Drifter Observations in the Presence of Uncertainty**|Nan Chen et.al.|[2307.12779](http://arxiv.org/abs/2307.12779)|null|
 |**2023-07-19**|**MODA: Mapping-Once Audio-driven Portrait Animation with Dual Attentions**|Yunfei Liu et.al.|[2307.10008](http://arxiv.org/abs/2307.10008)|null|
 |**2023-07-19**|**Our Model Achieves Excellent Performance on MovieLens: What Does it Mean?**|Yu-chen Fan et.al.|[2307.09985](http://arxiv.org/abs/2307.09985)|null|

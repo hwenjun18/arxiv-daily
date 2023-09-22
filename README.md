@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.21
+## Updated on 2023.09.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -45,18 +45,18 @@
 |**2022-11-21**|**Towards Live 3D Reconstruction from Wearable Video: An Evaluation of V-SLAM, NeRF, and Videogrammetry Techniques**|David Ramirez et.al.|[2211.11836](http://arxiv.org/abs/2211.11836)|null|
 |**2022-11-14**|**Controllable GAN Synthesis Using Non-Rigid Structure-from-Motion**|René Haas et.al.|[2211.07195](http://arxiv.org/abs/2211.07195)|null|
 
-<p align=right>(<a href=#Updated-on-20230921>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230922>back to top</a>)</p>
 
 ## GAN
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-09-20**|**Long-tail Augmented Graph Contrastive Learning for Recommendation**|Qian Zhao et.al.|[2309.11177](http://arxiv.org/abs/2309.11177)|**[link](https://github.com/im0qianqian/LAGCL)**|
-|**2023-09-19**|**Specializing Small Language Models towards Complex Style Transfer via Latent Attribute Pre-Training**|Ruiqi Xu et.al.|[2309.10929](http://arxiv.org/abs/2309.10929)|null|
+|**2023-09-19**|**Specializing Small Language Models towards Complex Style Transfer via Latent Attribute Pre-Training**|Ruiqi Xu et.al.|[2309.10929](http://arxiv.org/abs/2309.10929)|**[link](https://github.com/ruiqixu37/BTTS_ECAI2023)**|
 |**2023-09-19**|**Assessing the capacity of a denoising diffusion probabilistic model to reproduce spatial context**|Rucha Deshpande et.al.|[2309.10817](http://arxiv.org/abs/2309.10817)|null|
 |**2023-09-19**|**Locally Stylized Neural Radiance Fields**|Hong-Wing Pang et.al.|[2309.10684](http://arxiv.org/abs/2309.10684)|null|
 |**2023-09-19**|**Retinex-guided Channel-grouping based Patch Swap for Arbitrary Style Transfer**|Chang Liu et.al.|[2309.10528](http://arxiv.org/abs/2309.10528)|null|
-|**2023-09-19**|**Learning End-to-End Channel Coding with Diffusion Models**|Muah Kim et.al.|[2309.10505](http://arxiv.org/abs/2309.10505)|null|
+|**2023-09-21**|**Learning End-to-End Channel Coding with Diffusion Models**|Muah Kim et.al.|[2309.10505](http://arxiv.org/abs/2309.10505)|null|
 |**2023-09-19**|**Augmenting Tactile Simulators with Real-like and Zero-Shot Capabilities**|Osher Azulay et.al.|[2309.10409](http://arxiv.org/abs/2309.10409)|null|
 |**2023-09-18**|**Machine Learning for enhancing Wind Field Resolution in Complex Terrain**|Jacob Wulff Wold et.al.|[2309.10172](http://arxiv.org/abs/2309.10172)|**[link](https://github.com/jacobwulffwold/gan_sr_wind_field)**|
 |**2023-09-18**|**Offline Detection of Misspelled Handwritten Words by Convolving Recognition Model Features with Text Labels**|Andrey Totev et.al.|[2309.10158](http://arxiv.org/abs/2309.10158)|null|
@@ -659,7 +659,7 @@
 |**2023-03-14**|**3D Face Arbitrary Style Transfer**|Xiangwen Deng et.al.|[2303.07709](http://arxiv.org/abs/2303.07709)|null|
 |**2023-03-13**|**AGTGAN: Unpaired Image Translation for Photographic Ancient Character Generation**|Hongxiang Huang et.al.|[2303.07012](http://arxiv.org/abs/2303.07012)|**[link](https://github.com/hellomystery/agtgan)**|
 
-<p align=right>(<a href=#Updated-on-20230921>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230922>back to top</a>)</p>
 
 ## Diffusion Model
 
@@ -668,8 +668,8 @@
 |**2023-09-20**|**FreeU: Free Lunch in Diffusion U-Net**|Chenyang Si et.al.|[2309.11497](http://arxiv.org/abs/2309.11497)|null|
 |**2023-09-20**|**Generative Agent-Based Modeling: Unveiling Social System Dynamics through Coupling Mechanistic Models with Generative Artificial Intelligence**|Navid Ghaffarzadegan et.al.|[2309.11456](http://arxiv.org/abs/2309.11456)|null|
 |**2023-09-20**|**Deep Networks as Denoising Algorithms: Sample-Efficient Learning of Diffusion Models in High-Dimensional Graphical Models**|Song Mei et.al.|[2309.11420](http://arxiv.org/abs/2309.11420)|null|
-|**2023-09-20**|**Face Aging via Diffusion-based Editing**|Xiangyi Chen et.al.|[2309.11321](http://arxiv.org/abs/2309.11321)|null|
-|**2023-09-20**|**Language-driven Object Fusion into Neural Radiance Fields with Pose-Conditioned Dataset Updates**|Ka Chun Shum et.al.|[2309.11281](http://arxiv.org/abs/2309.11281)|null|
+|**2023-09-20**|**Face Aging via Diffusion-based Editing**|Xiangyi Chen et.al.|[2309.11321](http://arxiv.org/abs/2309.11321)|**[link](https://github.com/MunchkinChen/FADING)**|
+|**2023-09-20**|**Language-driven Object Fusion into Neural Radiance Fields with Pose-Conditioned Dataset Updates**|Ka Chun Shum et.al.|[2309.11281](http://arxiv.org/abs/2309.11281)|**[link](https://github.com/kcshum/pose-conditioned-NeRF-object-fusion)**|
 |**2023-09-20**|**TwinTex: Geometry-aware Texture Generation for Abstracted 3D Architectural Models**|Weidan Xiong et.al.|[2309.11258](http://arxiv.org/abs/2309.11258)|null|
 |**2023-09-20**|**Investigating Personalization Methods in Text to Music Generation**|Manos Plitsis et.al.|[2309.11140](http://arxiv.org/abs/2309.11140)|null|
 |**2023-09-20**|**PSDiff: Diffusion Model for Person Search with Iterative and Collaborative Refinement**|Chengyou Jia et.al.|[2309.11125](http://arxiv.org/abs/2309.11125)|null|
@@ -680,7 +680,7 @@
 |**2023-09-19**|**Reconstruct-and-Generate Diffusion Model for Detail-Preserving Image Denoising**|Yujin Wang et.al.|[2309.10714](http://arxiv.org/abs/2309.10714)|null|
 |**2023-09-19**|**Forgedit: Text Guided Image Editing via Learning and Forgetting**|Shiwen Zhang et.al.|[2309.10556](http://arxiv.org/abs/2309.10556)|**[link](https://github.com/witcherofresearch/forgedit)**|
 |**2023-09-19**|**Towards Generative Modeling of Urban Flow through Knowledge-enhanced Denoising Diffusion**|Zhilun Zhou et.al.|[2309.10547](http://arxiv.org/abs/2309.10547)|**[link](https://github.com/tsinghua-fib-lab/kstdiff-urban-flow-generation)**|
-|**2023-09-19**|**Learning End-to-End Channel Coding with Diffusion Models**|Muah Kim et.al.|[2309.10505](http://arxiv.org/abs/2309.10505)|null|
+|**2023-09-21**|**Learning End-to-End Channel Coding with Diffusion Models**|Muah Kim et.al.|[2309.10505](http://arxiv.org/abs/2309.10505)|null|
 |**2023-09-19**|**Unsupervised speech enhancement with diffusion-based generative models**|Berné Nortier et.al.|[2309.10450](http://arxiv.org/abs/2309.10450)|**[link](https://github.com/sp-uhh/sgmse)**|
 |**2023-09-19**|**Posterior sampling algorithms for unsupervised speech enhancement with recurrent variational autoencoder**|Mostafa Sadeghi et.al.|[2309.10439](http://arxiv.org/abs/2309.10439)|null|
 |**2023-09-19**|**AutoDiffusion: Training-Free Optimization of Time Steps and Architectures for Automated Diffusion Model Acceleration**|Lijiang Li et.al.|[2309.10438](http://arxiv.org/abs/2309.10438)|null|
@@ -1916,7 +1916,7 @@
 |**2023-03-15**|**DiffBEV: Conditional Diffusion Model for Bird's Eye View Perception**|Jiayu Zou et.al.|[2303.08333](http://arxiv.org/abs/2303.08333)|**[link](https://github.com/jiayuzou2020/diffbev)**|
 |**2023-03-16**|**VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation**|Zhengxiong Luo et.al.|[2303.08320](http://arxiv.org/abs/2303.08320)|null|
 
-<p align=right>(<a href=#Updated-on-20230921>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230922>back to top</a>)</p>
 
 ## Image Edit
 
@@ -2190,7 +2190,7 @@
 |**2023-02-20**|**A Large Scale Homography Benchmark**|Daniel Barath et.al.|[2302.09997](http://arxiv.org/abs/2302.09997)|null|
 |**2023-02-19**|**LC-NeRF: Local Controllable Face Generation in Neural Randiance Field**|Wenyang Zhou et.al.|[2302.09486](http://arxiv.org/abs/2302.09486)|null|
 
-<p align=right>(<a href=#Updated-on-20230921>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230922>back to top</a>)</p>
 
 ## NeRF
 
@@ -2295,7 +2295,7 @@
 |**2022-12-30**|**NeRF-Gaze: A Head-Eye Redirection Parametric Model for Gaze Estimation**|Pengwei Yin et.al.|[2212.14710](http://arxiv.org/abs/2212.14710)|null|
 |**2023-03-21**|**Masked Wavelet Representation for Compact Neural Radiance Fields**|Daniel Rho et.al.|[2212.09069](http://arxiv.org/abs/2212.09069)|**[link](https://github.com/daniel03c1/masked_wavelet_nerf)**|
 
-<p align=right>(<a href=#Updated-on-20230921>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230922>back to top</a>)</p>
 
 ## Reshaping
 
@@ -2333,14 +2333,14 @@
 |**2022-05-13**|**F3A-GAN: Facial Flow for Face Animation with Generative Adversarial Networks**|Xintian Wu et.al.|[2205.06204](http://arxiv.org/abs/2205.06204)|null|
 |**2022-03-16**|**Efficient conditioned face animation using frontally-viewed embedding**|Maxime Oquab et.al.|[2203.08765](http://arxiv.org/abs/2203.08765)|null|
 
-<p align=right>(<a href=#Updated-on-20230921>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230922>back to top</a>)</p>
 
 ## Portrait 
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-09-20**|**An Empirical Study of Malicious Code In PyPI Ecosystem**|Wenbo Guo et.al.|[2309.11021](http://arxiv.org/abs/2309.11021)|**[link](https://github.com/lxyeternal/pypi_malregistry)**|
-|**2023-09-20**|**Controllable Dynamic Appearance for Neural 3D Portraits**|ShahRukh Athar et.al.|[2309.11009](http://arxiv.org/abs/2309.11009)|null|
+|**2023-09-21**|**Controllable Dynamic Appearance for Neural 3D Portraits**|ShahRukh Athar et.al.|[2309.11009](http://arxiv.org/abs/2309.11009)|null|
 |**2023-09-14**|**DT-NeRF: Decomposed Triplane-Hash Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis**|Yaoyu Su et.al.|[2309.07752](http://arxiv.org/abs/2309.07752)|null|
 |**2023-09-13**|**MagiCapture: High-Resolution Multi-Concept Portrait Customization**|Junha Hyung et.al.|[2309.06895](http://arxiv.org/abs/2309.06895)|null|
 |**2023-09-05**|**ReliTalk: Relightable Talking Portrait Generation from a Single Video**|Haonan Qiu et.al.|[2309.02434](http://arxiv.org/abs/2309.02434)|**[link](https://github.com/arthur-qiu/ReliTalk)**|
@@ -2458,7 +2458,7 @@
 |**2023-03-01**|**DPE: Disentanglement of Pose and Expression for General Video Portrait Editing**|Youxin Pang et.al.|[2301.06281](http://arxiv.org/abs/2301.06281)|null|
 |**2023-01-03**|**StyleTalk: One-shot Talking Head Generation with Controllable Speaking Styles**|Yifeng Ma et.al.|[2301.01081](http://arxiv.org/abs/2301.01081)|**[link](https://github.com/fuxivirtualhuman/styletalk)**|
 
-<p align=right>(<a href=#Updated-on-20230921>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230922>back to top</a>)</p>
 
 ## Transfomer
 
@@ -2489,5 +2489,5 @@
 |**2012-01-21**|**Interior Static Stellar Model with Electric Charge as an Oscillator**|A. M. Baranov et.al.|[1201.4429](http://arxiv.org/abs/1201.4429)|null|
 |**2011-05-16**|**Exactness of the Euclidean algorithm and of the Rauzy induction on the space of interval exchange transfomations**|Tomasz Miernowski et.al.|[1104.3980](http://arxiv.org/abs/1104.3980)|null|
 
-<p align=right>(<a href=#Updated-on-20230921>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230922>back to top</a>)</p>
 

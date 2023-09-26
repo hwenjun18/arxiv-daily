@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.25
+## Updated on 2023.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -47,7 +47,7 @@ layout: default
 |**2023-09-21**|**A Discourse-level Multi-scale Prosodic Model for Fine-grained Emotion Analysis**|Xianhao Wei et.al.|[2309.11849](http://arxiv.org/abs/2309.11849)|null|
 |**2023-09-21**|**Quasi-Monte Carlo for 3D Sliced Wasserstein**|Khai Nguyen et.al.|[2309.11713](http://arxiv.org/abs/2309.11713)|null|
 |**2023-09-20**|**Interactive Flexible Style Transfer for Vector Graphics**|Jeremy Warner et.al.|[2309.11628](http://arxiv.org/abs/2309.11628)|null|
-|**2023-09-20**|**Latent Diffusion Models for Structural Component Design**|Ethan Herron et.al.|[2309.11601](http://arxiv.org/abs/2309.11601)|null|
+|**2023-09-24**|**Latent Diffusion Models for Structural Component Design**|Ethan Herron et.al.|[2309.11601](http://arxiv.org/abs/2309.11601)|null|
 |**2023-09-20**|**Long-tail Augmented Graph Contrastive Learning for Recommendation**|Qian Zhao et.al.|[2309.11177](http://arxiv.org/abs/2309.11177)|**[link](https://github.com/im0qianqian/LAGCL)**|
 |**2023-09-19**|**Specializing Small Language Models towards Complex Style Transfer via Latent Attribute Pre-Training**|Ruiqi Xu et.al.|[2309.10929](http://arxiv.org/abs/2309.10929)|**[link](https://github.com/ruiqixu37/BTTS_ECAI2023)**|
 |**2023-09-19**|**Assessing the capacity of a denoising diffusion probabilistic model to reproduce spatial context**|Rucha Deshpande et.al.|[2309.10817](http://arxiv.org/abs/2309.10817)|null|
@@ -667,13 +667,13 @@ layout: default
 |**2023-09-21**|**License Plate Super-Resolution Using Diffusion Models**|Sawsan AlHalawani et.al.|[2309.12506](http://arxiv.org/abs/2309.12506)|null|
 |**2023-09-21**|**Synthetic Image Detection: Highlights from the IEEE Video and Image Processing Cup 2022 Student Competition**|Davide Cozzolino et.al.|[2309.12428](http://arxiv.org/abs/2309.12428)|null|
 |**2023-09-21**|**Deshadow-Anything: When Segment Anything Model Meets Zero-shot shadow removal**|Xiao Feng Zhang et.al.|[2309.11715](http://arxiv.org/abs/2309.11715)|null|
-|**2023-09-20**|**Latent Diffusion Models for Structural Component Design**|Ethan Herron et.al.|[2309.11601](http://arxiv.org/abs/2309.11601)|null|
+|**2023-09-24**|**Latent Diffusion Models for Structural Component Design**|Ethan Herron et.al.|[2309.11601](http://arxiv.org/abs/2309.11601)|null|
 |**2023-09-20**|**Light Field Diffusion for Single-View Novel View Synthesis**|Yifeng Xiong et.al.|[2309.11525](http://arxiv.org/abs/2309.11525)|null|
 |**2023-09-20**|**FreeU: Free Lunch in Diffusion U-Net**|Chenyang Si et.al.|[2309.11497](http://arxiv.org/abs/2309.11497)|null|
 |**2023-09-20**|**Generative Agent-Based Modeling: Unveiling Social System Dynamics through Coupling Mechanistic Models with Generative Artificial Intelligence**|Navid Ghaffarzadegan et.al.|[2309.11456](http://arxiv.org/abs/2309.11456)|null|
 |**2023-09-20**|**Deep Networks as Denoising Algorithms: Sample-Efficient Learning of Diffusion Models in High-Dimensional Graphical Models**|Song Mei et.al.|[2309.11420](http://arxiv.org/abs/2309.11420)|null|
 |**2023-09-20**|**Face Aging via Diffusion-based Editing**|Xiangyi Chen et.al.|[2309.11321](http://arxiv.org/abs/2309.11321)|null|
-|**2023-09-20**|**Language-driven Object Fusion into Neural Radiance Fields with Pose-Conditioned Dataset Updates**|Ka Chun Shum et.al.|[2309.11281](http://arxiv.org/abs/2309.11281)|**[link](https://github.com/kcshum/pose-conditioned-NeRF-object-fusion)**|
+|**2023-09-25**|**Language-driven Object Fusion into Neural Radiance Fields with Pose-Conditioned Dataset Updates**|Ka Chun Shum et.al.|[2309.11281](http://arxiv.org/abs/2309.11281)|**[link](https://github.com/kcshum/pose-conditioned-NeRF-object-fusion)**|
 |**2023-09-20**|**TwinTex: Geometry-aware Texture Generation for Abstracted 3D Architectural Models**|Weidan Xiong et.al.|[2309.11258](http://arxiv.org/abs/2309.11258)|null|
 |**2023-09-20**|**Investigating Personalization Methods in Text to Music Generation**|Manos Plitsis et.al.|[2309.11140](http://arxiv.org/abs/2309.11140)|null|
 |**2023-09-20**|**PSDiff: Diffusion Model for Person Search with Iterative and Collaborative Refinement**|Chengyou Jia et.al.|[2309.11125](http://arxiv.org/abs/2309.11125)|null|

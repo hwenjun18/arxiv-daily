@@ -39,6 +39,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-25**|**Identity-preserving Editing of Multiple Facial Attributes by Learning Global Edit Directions and Local Adjustments**|Najmeh Mohammadbagheri et.al.|[2309.14267](http://arxiv.org/abs/2309.14267)|null|
+|**2023-09-25**|**Informative Data Mining for One-Shot Cross-Domain Semantic Segmentation**|Yuxi Wang et.al.|[2309.14241](http://arxiv.org/abs/2309.14241)|null|
+|**2023-09-25**|**Adapt then Unlearn: Exploiting Parameter Space Semantics for Unlearning in Generative Adversarial Networks**|Piyush Tiwary et.al.|[2309.14054](http://arxiv.org/abs/2309.14054)|null|
+|**2023-09-25**|**In-Domain GAN Inversion for Faithful Reconstruction and Editability**|Jiapeng Zhu et.al.|[2309.13956](http://arxiv.org/abs/2309.13956)|null|
+|**2023-09-25**|**On the Effectiveness of Adversarial Samples against Ensemble Learning-based Windows PE Malware Detectors**|Trong-Nghia To et.al.|[2309.13841](http://arxiv.org/abs/2309.13841)|null|
+|**2023-09-25**|**Backorder Prediction in Inventory Management: Classification Techniques and Cost Considerations**|Sarit Maitra et.al.|[2309.13837](http://arxiv.org/abs/2309.13837)|null|
+|**2023-09-24**|**MOSAIC: Multi-Object Segmented Arbitrary Stylization Using CLIP**|Prajwal Ganugula et.al.|[2309.13716](http://arxiv.org/abs/2309.13716)|null|
+|**2023-09-24**|**MM-NeRF: Multimodal-Guided 3D Multi-Style Transfer of Neural Radiance Field**|Zijiang Yang et.al.|[2309.13607](http://arxiv.org/abs/2309.13607)|null|
+|**2023-09-24**|**Solving Low-Dose CT Reconstruction via GAN with Local Coherence**|Wenjie Liu et.al.|[2309.13584](http://arxiv.org/abs/2309.13584)|null|
+|**2023-09-23**|**Portrait Stylization: Artistic Style Transfer with Auxiliary Networks for Human Face Stylization**|Thiago Ambiel et.al.|[2309.13492](http://arxiv.org/abs/2309.13492)|**[link](https://github.com/thiagoambiel/PortraitStylization)**|
+|**2023-09-22**|**MISFIT-V: Misaligned Image Synthesis and Fusion using Information from Thermal and Visual**|Aadhar Chauhan et.al.|[2309.13216](http://arxiv.org/abs/2309.13216)|**[link](https://github.com/Aadharc/Visual_Thermal_Image_Fusion)**|
 |**2023-09-22**|**Inter-vendor harmonization of Computed Tomography (CT) reconstruction kernels using unpaired image translation**|Aravind R. Krishnan et.al.|[2309.12953](http://arxiv.org/abs/2309.12953)|null|
 |**2023-09-22**|**From Tight Gradient Bounds for Parameterized Quantum Circuits to the Absence of Barren Plateaus in QGANs**|Alistair Letcher et.al.|[2309.12681](http://arxiv.org/abs/2309.12681)|null|
 |**2023-09-21**|**License Plate Super-Resolution Using Diffusion Models**|Sawsan AlHalawani et.al.|[2309.12506](http://arxiv.org/abs/2309.12506)|null|
@@ -660,6 +671,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-25**|**Bayesian parameter estimation for characterising mobile ion vacancies in perovskite solar cells**|Samuel G. McCallum et.al.|[2309.14302](http://arxiv.org/abs/2309.14302)|null|
+|**2023-09-25**|**Soft Mixture Denoising: Beyond the Expressive Bottleneck of Diffusion Models**|Yangming Li et.al.|[2309.14068](http://arxiv.org/abs/2309.14068)|null|
+|**2023-09-24**|**VoiceLDM: Text-to-Speech with Environmental Context**|Yeonghyeon Lee et.al.|[2309.13664](http://arxiv.org/abs/2309.13664)|null|
+|**2023-09-24**|**Adaptation of the super resolution SOTA for Art Restoration in camera capture images**|Sandeep Nagar et.al.|[2309.13655](http://arxiv.org/abs/2309.13655)|**[link](https://github.com/naagar/art_restoration_dm)**|
+|**2023-09-23**|**Dream the Impossible: Outlier Imagination with Diffusion Models**|Xuefeng Du et.al.|[2309.13415](http://arxiv.org/abs/2309.13415)|null|
+|**2023-09-23**|**GLOBER: Coherent Non-autoregressive Video Generation via GLOBal Guided Video DecodER**|Mingzhen Sun et.al.|[2309.13274](http://arxiv.org/abs/2309.13274)|**[link](https://github.com/iva-mzsun/glober)**|
+|**2023-09-22**|**Invisible Watermarking for Audio Generation Diffusion Models**|Xirong Cao et.al.|[2309.13166](http://arxiv.org/abs/2309.13166)|**[link](https://github.com/mikiyaxi/watermark-audio-diffusion)**|
+|**2023-09-22**|**AntiBARTy Diffusion for Property Guided Antibody Design**|Jordan Venderley et.al.|[2309.13129](http://arxiv.org/abs/2309.13129)|null|
 |**2023-09-22**|**MosaicFusion: Diffusion Models as Data Augmenters for Large Vocabulary Instance Segmentation**|Jiahao Xie et.al.|[2309.13042](http://arxiv.org/abs/2309.13042)|**[link](https://github.com/jiahao000/mosaicfusion)**|
 |**2023-09-22**|**Diffusion Augmentation for Sequential Recommendation**|Qidong Liu et.al.|[2309.12858](http://arxiv.org/abs/2309.12858)|null|
 |**2023-09-22**|**Synthetic Boost: Leveraging Synthetic Data for Enhanced Vision-Language Segmentation in Echocardiography**|Rabin Adhikari et.al.|[2309.12829](http://arxiv.org/abs/2309.12829)|**[link](https://github.com/naamiinepal/synthetic-boost)**|
@@ -669,7 +688,7 @@ layout: default
 |**2023-09-21**|**Deshadow-Anything: When Segment Anything Model Meets Zero-shot shadow removal**|Xiao Feng Zhang et.al.|[2309.11715](http://arxiv.org/abs/2309.11715)|null|
 |**2023-09-24**|**Latent Diffusion Models for Structural Component Design**|Ethan Herron et.al.|[2309.11601](http://arxiv.org/abs/2309.11601)|null|
 |**2023-09-20**|**Light Field Diffusion for Single-View Novel View Synthesis**|Yifeng Xiong et.al.|[2309.11525](http://arxiv.org/abs/2309.11525)|null|
-|**2023-09-20**|**FreeU: Free Lunch in Diffusion U-Net**|Chenyang Si et.al.|[2309.11497](http://arxiv.org/abs/2309.11497)|null|
+|**2023-09-20**|**FreeU: Free Lunch in Diffusion U-Net**|Chenyang Si et.al.|[2309.11497](http://arxiv.org/abs/2309.11497)|**[link](https://github.com/ChenyangSi/FreeU)**|
 |**2023-09-20**|**Generative Agent-Based Modeling: Unveiling Social System Dynamics through Coupling Mechanistic Models with Generative Artificial Intelligence**|Navid Ghaffarzadegan et.al.|[2309.11456](http://arxiv.org/abs/2309.11456)|null|
 |**2023-09-20**|**Deep Networks as Denoising Algorithms: Sample-Efficient Learning of Diffusion Models in High-Dimensional Graphical Models**|Song Mei et.al.|[2309.11420](http://arxiv.org/abs/2309.11420)|null|
 |**2023-09-20**|**Face Aging via Diffusion-based Editing**|Xiangyi Chen et.al.|[2309.11321](http://arxiv.org/abs/2309.11321)|null|
@@ -1924,6 +1943,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-25**|**Identity-preserving Editing of Multiple Facial Attributes by Learning Global Edit Directions and Local Adjustments**|Najmeh Mohammadbagheri et.al.|[2309.14267](http://arxiv.org/abs/2309.14267)|null|
+|**2023-09-25**|**Diverse Semantic Image Editing with Style Codes**|Hakan Sivuk et.al.|[2309.13975](http://arxiv.org/abs/2309.13975)|**[link](https://github.com/hakansivuk/divsem)**|
+|**2023-09-25**|**In-Domain GAN Inversion for Faithful Reconstruction and Editability**|Jiapeng Zhu et.al.|[2309.13956](http://arxiv.org/abs/2309.13956)|null|
 |**2023-09-21**|**License Plate Super-Resolution Using Diffusion Models**|Sawsan AlHalawani et.al.|[2309.12506](http://arxiv.org/abs/2309.12506)|null|
 |**2023-09-21**|**PIE: Simulating Disease Progression via Progressive Image Editing**|Kaizhao Liang et.al.|[2309.11745](http://arxiv.org/abs/2309.11745)|null|
 |**2023-09-21**|**Deshadow-Anything: When Segment Anything Model Meets Zero-shot shadow removal**|Xiao Feng Zhang et.al.|[2309.11715](http://arxiv.org/abs/2309.11715)|null|
@@ -2199,6 +2221,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-22**|**Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction**|Ziyi Yang et.al.|[2309.13101](http://arxiv.org/abs/2309.13101)|null|
 |**2023-09-21**|**ORTexME: Occlusion-Robust Human Shape and Pose via Temporal Average Texture and Mesh Encoding**|Yu Cheng et.al.|[2309.12183](http://arxiv.org/abs/2309.12183)|null|
 |**2023-09-06**|**TSTTC: A Large-Scale Dataset for Time-to-Contact Estimation in Driving Scenarios**|Yuheng Shi et.al.|[2309.01539](http://arxiv.org/abs/2309.01539)|**[link](https://github.com/tusen-ai/TSTTC)**|
 |**2023-08-30**|**Drone-NeRF: Efficient NeRF Based 3D Scene Reconstruction for Large-Scale Drone Survey**|Zhihao Jia et.al.|[2308.15733](http://arxiv.org/abs/2308.15733)|null|
@@ -2339,6 +2362,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-25**|**Automatic Animation of Hair Blowing in Still Portrait Photos**|Wenpeng Xiao et.al.|[2309.14207](http://arxiv.org/abs/2309.14207)|null|
+|**2023-09-24**|**FaceAtt: Enhancing Image Captioning with Facial Attributes for Portrait Images**|Naimul Haque et.al.|[2309.13601](http://arxiv.org/abs/2309.13601)|null|
+|**2023-09-23**|**Portrait Stylization: Artistic Style Transfer with Auxiliary Networks for Human Face Stylization**|Thiago Ambiel et.al.|[2309.13492](http://arxiv.org/abs/2309.13492)|**[link](https://github.com/thiagoambiel/PortraitStylization)**|
 |**2023-09-20**|**An Empirical Study of Malicious Code In PyPI Ecosystem**|Wenbo Guo et.al.|[2309.11021](http://arxiv.org/abs/2309.11021)|**[link](https://github.com/lxyeternal/pypi_malregistry)**|
 |**2023-09-21**|**Controllable Dynamic Appearance for Neural 3D Portraits**|ShahRukh Athar et.al.|[2309.11009](http://arxiv.org/abs/2309.11009)|null|
 |**2023-09-14**|**DT-NeRF: Decomposed Triplane-Hash Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis**|Yaoyu Su et.al.|[2309.07752](http://arxiv.org/abs/2309.07752)|null|

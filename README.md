@@ -51,6 +51,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-28**|**Cross-Modal Transformer GAN: Brain Structural-Functional Deep Fusing Network for Alzheimer's Disease Analysis**|Qiankun Zuo et.al.|[2309.16206](http://arxiv.org/abs/2309.16206)|null|
+|**2023-09-28**|**DiffGAN-F2S: Symmetric and Efficient Denoising Diffusion GANs for Structural Connectivity Prediction from Brain fMRI**|Qiankun Zuo et.al.|[2309.16205](http://arxiv.org/abs/2309.16205)|null|
+|**2023-09-28**|**Learning Effective NeRFs and SDFs Representations with 3D Generative Adversarial Networks for 3D Object Generation: Technical Report for ICCV 2023 OmniObject3D Challenge**|Zheyuan Yang et.al.|[2309.16110](http://arxiv.org/abs/2309.16110)|null|
 |**2023-09-27**|**Synthetic Latent Fingerprint Generation Using Style Transfer**|Amol S. Joshi et.al.|[2309.15734](http://arxiv.org/abs/2309.15734)|null|
 |**2023-09-27**|**Style Transfer and Self-Supervised Learning Powered Myocardium Infarction Super-Resolution Segmentation**|Lichao Wang et.al.|[2309.15485](http://arxiv.org/abs/2309.15485)|null|
 |**2023-09-26**|**Locality-preserving Directions for Interpreting the Latent Space of Satellite Image GANs**|Georgia Kourmouli et.al.|[2309.14883](http://arxiv.org/abs/2309.14883)|null|
@@ -688,6 +691,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-28**|**KV Inversion: KV Embeddings Learning for Text-Conditioned Real Image Action Editing**|Jiancheng Huang et.al.|[2309.16608](http://arxiv.org/abs/2309.16608)|null|
+|**2023-09-28**|**CCEdit: Creative and Controllable Video Editing via Diffusion Models**|Ruoyu Feng et.al.|[2309.16496](http://arxiv.org/abs/2309.16496)|null|
+|**2023-09-28**|**Distilling ODE Solvers of Diffusion Models into Smaller Steps**|Sanghwan Kim et.al.|[2309.16421](http://arxiv.org/abs/2309.16421)|null|
+|**2023-09-28**|**DeepPCR: Parallelizing Sequential Operations in Neural Networks**|Federico Danieli et.al.|[2309.16318](http://arxiv.org/abs/2309.16318)|null|
+|**2023-09-28**|**Long time behavior of the field-road diffusion model: an entropy method and a finite volume scheme**|Matthieu Alfaro et.al.|[2309.16242](http://arxiv.org/abs/2309.16242)|null|
+|**2023-09-28**|**Object Motion Guided Human Motion Synthesis**|Jiaman Li et.al.|[2309.16237](http://arxiv.org/abs/2309.16237)|null|
+|**2023-09-28**|**Compositional Sculpting of Iterative Generative Processes**|Timur Garipov et.al.|[2309.16115](http://arxiv.org/abs/2309.16115)|**[link](https://github.com/timgaripov/compositional-sculpting)**|
+|**2023-09-27**|**High Perceptual Quality Wireless Image Delivery with Denoising Diffusion Models**|Selim F. Yilmaz et.al.|[2309.15889](http://arxiv.org/abs/2309.15889)|null|
 |**2023-09-27**|**Exploiting the Signal-Leak Bias in Diffusion Models**|Martin Nicolas Everaert et.al.|[2309.15842](http://arxiv.org/abs/2309.15842)|null|
 |**2023-09-27**|**Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation**|David Junhao Zhang et.al.|[2309.15818](http://arxiv.org/abs/2309.15818)|**[link](https://github.com/showlab/show-1)**|
 |**2023-09-27**|**Emu: Enhancing Image Generation Models Using Photogenic Needles in a Haystack**|Xiaoliang Dai et.al.|[2309.15807](http://arxiv.org/abs/2309.15807)|null|
@@ -1986,6 +1997,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-28**|**KV Inversion: KV Embeddings Learning for Text-Conditioned Real Image Action Editing**|Jiancheng Huang et.al.|[2309.16608](http://arxiv.org/abs/2309.16608)|null|
+|**2023-09-27**|**Targeted Image Data Augmentation Increases Basic Skills Captioning Robustness**|Valentin Barriere et.al.|[2309.15991](http://arxiv.org/abs/2309.15991)|null|
 |**2023-09-27**|**Dynamic Prompt Learning: Addressing Cross-Attention Leakage for Text-Based Image Editing**|Kai Wang et.al.|[2309.15664](http://arxiv.org/abs/2309.15664)|**[link](https://github.com/wangkai930418/DPL)**|
 |**2023-09-27**|**Guided Frequency Loss for Image Restoration**|Bilel Benjdiraa et.al.|[2309.15563](http://arxiv.org/abs/2309.15563)|null|
 |**2023-09-27**|**Uncertainty Quantification via Neural Posterior Principal Components**|Elias Nehme et.al.|[2309.15533](http://arxiv.org/abs/2309.15533)|null|
@@ -2272,6 +2285,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-28**|**MatrixCity: A Large-scale City Dataset for City-scale Neural Rendering and Beyond**|Yixuan Li et.al.|[2309.16553](http://arxiv.org/abs/2309.16553)|null|
 |**2023-09-27**|**Generating Transferable Adversarial Simulation Scenarios for Self-Driving via Neural Rendering**|Yasasa Abeysirigoonawardena et.al.|[2309.15770](http://arxiv.org/abs/2309.15770)|null|
 |**2023-09-22**|**Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction**|Ziyi Yang et.al.|[2309.13101](http://arxiv.org/abs/2309.13101)|null|
 |**2023-09-21**|**ORTexME: Occlusion-Robust Human Shape and Pose via Temporal Average Texture and Mesh Encoding**|Yu Cheng et.al.|[2309.12183](http://arxiv.org/abs/2309.12183)|null|

@@ -65,7 +65,7 @@
 |**2023-09-25**|**Adapt then Unlearn: Exploiting Parameter Space Semantics for Unlearning in Generative Adversarial Networks**|Piyush Tiwary et.al.|[2309.14054](http://arxiv.org/abs/2309.14054)|null|
 |**2023-09-25**|**In-Domain GAN Inversion for Faithful Reconstruction and Editability**|Jiapeng Zhu et.al.|[2309.13956](http://arxiv.org/abs/2309.13956)|null|
 |**2023-09-25**|**On the Effectiveness of Adversarial Samples against Ensemble Learning-based Windows PE Malware Detectors**|Trong-Nghia To et.al.|[2309.13841](http://arxiv.org/abs/2309.13841)|null|
-|**2023-09-25**|**Backorder Prediction in Inventory Management: Classification Techniques and Cost Considerations**|Sarit Maitra et.al.|[2309.13837](http://arxiv.org/abs/2309.13837)|null|
+|**2023-10-02**|**Backorder Prediction in Inventory Management: Classification Techniques and Cost Considerations**|Sarit Maitra et.al.|[2309.13837](http://arxiv.org/abs/2309.13837)|null|
 |**2023-09-24**|**MOSAIC: Multi-Object Segmented Arbitrary Stylization Using CLIP**|Prajwal Ganugula et.al.|[2309.13716](http://arxiv.org/abs/2309.13716)|null|
 |**2023-09-24**|**MM-NeRF: Multimodal-Guided 3D Multi-Style Transfer of Neural Radiance Field**|Zijiang Yang et.al.|[2309.13607](http://arxiv.org/abs/2309.13607)|null|
 |**2023-09-24**|**Solving Low-Dose CT Reconstruction via GAN with Local Coherence**|Wenjie Liu et.al.|[2309.13584](http://arxiv.org/abs/2309.13584)|null|

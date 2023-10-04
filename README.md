@@ -51,6 +51,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-03**|**Learnable Data Augmentation for One-Shot Unsupervised Domain Adaptation**|Julio Ivan Davila Carrazco et.al.|[2310.02201](http://arxiv.org/abs/2310.02201)|null|
+|**2023-10-03**|**Improving style transfer in dynamic contrast enhanced MRI using a spatio-temporal approach**|Adam G. Tattersall et.al.|[2310.01908](http://arxiv.org/abs/2310.01908)|null|
+|**2023-10-03**|**A Dual Attentive Generative Adversarial Network for Remote Sensing Image Change Detection**|Luyi Qiu et.al.|[2310.01876](http://arxiv.org/abs/2310.01876)|null|
+|**2023-10-03**|**Benchmarking and Improving Generator-Validator Consistency of Language Models**|Xiang Lisa Li et.al.|[2310.01846](http://arxiv.org/abs/2310.01846)|null|
+|**2023-10-02**|**Home Electricity Data Generator (HEDGE): An open-access tool for the generation of electric vehicle, residential demand, and PV generation profiles**|Flora Charbonnier et.al.|[2310.01661](http://arxiv.org/abs/2310.01661)|null|
+|**2023-10-02**|**Color and Texture Dual Pipeline Lightweight Style Transfer**|ShiQi Jiang et.al.|[2310.01321](http://arxiv.org/abs/2310.01321)|null|
+|**2023-10-02**|**Generating 3D Brain Tumor Regions in MRI using Vector-Quantization Generative Adversarial Networks**|Meng Zhou et.al.|[2310.01251](http://arxiv.org/abs/2310.01251)|null|
+|**2023-10-02**|**Ground-A-Video: Zero-shot Grounded Video Editing using Text-to-image Diffusion Models**|Hyeonho Jeong et.al.|[2310.01107](http://arxiv.org/abs/2310.01107)|null|
+|**2023-10-02**|**Practical Radar Sensing Using Two Stage Neural Network for Denoising OTFS Signals**|Ashok S Kumar et.al.|[2310.00897](http://arxiv.org/abs/2310.00897)|null|
+|**2023-10-02**|**Subsurface Characterization using Ensemble-based Approaches with Deep Generative Models**|Jichao Bao et.al.|[2310.00839](http://arxiv.org/abs/2310.00839)|null|
+|**2023-10-01**|**Counterfactual Image Generation for adversarially robust and interpretable Classifiers**|Rafael Bischof et.al.|[2310.00761](http://arxiv.org/abs/2310.00761)|null|
+|**2023-10-01**|**Quantum generative adversarial learning in photonics**|Yizhi Wang et.al.|[2310.00585](http://arxiv.org/abs/2310.00585)|null|
+|**2023-09-30**|**The objective function equality property of infoGAN for two-layer network**|Mahmud Hasan et.al.|[2310.00443](http://arxiv.org/abs/2310.00443)|null|
+|**2023-09-30**|**Controlling Neural Style Transfer with Deep Reinforcement Learning**|Chengming Feng et.al.|[2310.00405](http://arxiv.org/abs/2310.00405)|null|
+|**2023-09-30**|**Structural Adversarial Objectives for\\Self-Supervised Representation Learning**|Xiao Zhang et.al.|[2310.00357](http://arxiv.org/abs/2310.00357)|null|
+|**2023-09-30**|**Anomaly Detection in Power Generation Plants with Generative Adversarial Networks**|Marcellin Atemkeng et.al.|[2310.00335](http://arxiv.org/abs/2310.00335)|null|
+|**2023-09-30**|**An easy zero-shot learning combination: Texture Sensitive Semantic Segmentation IceHrNet and Advanced Style Transfer Learning Strategy**|Zhiyong Yang et.al.|[2310.00310](http://arxiv.org/abs/2310.00310)|null|
+|**2023-09-30**|**A hybrid quantum-classical conditional generative adversarial network algorithm for human-centered paradigm in cloud**|Wenjie Liu et.al.|[2310.00246](http://arxiv.org/abs/2310.00246)|null|
+|**2023-09-30**|**Finding Pragmatic Differences Between Disciplines**|Lee Kezar et.al.|[2310.00204](http://arxiv.org/abs/2310.00204)|null|
 |**2023-09-29**|**Unpaired Optical Coherence Tomography Angiography Image Super-Resolution via Frequency-Aware Inverse-Consistency GAN**|Weiwen Zhang et.al.|[2309.17269](http://arxiv.org/abs/2309.17269)|null|
 |**2023-09-29**|**Style Transfer for Non-differentiable Audio Effects**|Kieran Grant et.al.|[2309.17125](http://arxiv.org/abs/2309.17125)|null|
 |**2023-09-29**|**ACGAN-GNNExplainer: Auxiliary Conditional Generative Explainer for Graph Neural Networks**|Yiqiao Li et.al.|[2309.16918](http://arxiv.org/abs/2309.16918)|null|
@@ -694,6 +713,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-03**|**Generalized Schrödinger Bridge Matching**|Guan-Horng Liu et.al.|[2310.02233](http://arxiv.org/abs/2310.02233)|null|
+|**2023-10-03**|**A Variable Eddington Factor Model for Thermal Radiative Transfer with Closure based on Data-Driven Shape Function**|Joseph M. Coale et.al.|[2310.02072](http://arxiv.org/abs/2310.02072)|null|
+|**2023-10-03**|**Global Attractor for a Reaction-Diffusion Model Arising in Biological Dynamic in 3D Soil Structure**|Mohamed Elghandouri et.al.|[2310.02060](http://arxiv.org/abs/2310.02060)|null|
+|**2023-10-03**|**AlignDiff: Aligning Diverse Human Preferences via Behavior-Customisable Diffusion Model**|Zibin Dong et.al.|[2310.02054](http://arxiv.org/abs/2310.02054)|null|
+|**2023-10-03**|**Amazing Combinatorial Creation: Acceptable Swap-Sampling for Text-to-Image Generation**|Jun Li et.al.|[2310.01819](http://arxiv.org/abs/2310.01819)|null|
+|**2023-10-03**|**SMRD: SURE-based Robust MRI Reconstruction with Diffusion Models**|Batu Ozturkler et.al.|[2310.01799](http://arxiv.org/abs/2310.01799)|**[link](https://github.com/batuozt/smrd)**|
+|**2023-10-03**|**Backdiff: a diffusion model for generalized transferable protein backmapping**|Yikai Liu et.al.|[2310.01768](http://arxiv.org/abs/2310.01768)|null|
+|**2023-10-02**|**Transcending Domains through Text-to-Image Diffusion: A Source-Free Approach to Domain Adaptation**|Shivang Chopra et.al.|[2310.01701](http://arxiv.org/abs/2310.01701)|null|
+|**2023-10-02**|**Forecasting Tropical Cyclones with Cascaded Diffusion Models**|Pritthijit Nath et.al.|[2310.01690](http://arxiv.org/abs/2310.01690)|**[link](https://github.com/nathzi1505/forecast-diffmodels)**|
+|**2023-10-02**|**Score dynamics: scaling molecular dynamics with picosecond timesteps via conditional diffusion model**|Tim Hsu et.al.|[2310.01678](http://arxiv.org/abs/2310.01678)|null|
+|**2023-10-02**|**SYRAC: Synthesize, Rank, and Count**|Adriano D'Alessandro et.al.|[2310.01662](http://arxiv.org/abs/2310.01662)|null|
+|**2023-10-02**|**Role of signal degradation in directional chemosensing**|Ryan LeFebre et.al.|[2310.01648](http://arxiv.org/abs/2310.01648)|null|
+|**2023-10-02**|**Operator Learning Meets Numerical Analysis: Improving Neural Networks through Iterative Methods**|Emanuele Zappala et.al.|[2310.01618](http://arxiv.org/abs/2310.01618)|null|
+|**2023-10-02**|**Direct Inversion: Boosting Diffusion-based Editing with 3 Lines of Code**|Xuan Ju et.al.|[2310.01506](http://arxiv.org/abs/2310.01506)|**[link](https://github.com/cure-lab/directinversion)**|
+|**2023-10-02**|**Conditional Diffusion Distillation**|Kangfu Mei et.al.|[2310.01407](http://arxiv.org/abs/2310.01407)|null|
+|**2023-10-02**|**HumanNorm: Learning Normal Diffusion Model for High-quality and Realistic 3D Human Generation**|Xin Huang et.al.|[2310.01406](http://arxiv.org/abs/2310.01406)|null|
+|**2023-10-02**|**Sequential Data Generation with Groupwise Diffusion Process**|Sangyun Lee et.al.|[2310.01400](http://arxiv.org/abs/2310.01400)|null|
+|**2023-10-02**|**DiffAR: Denoising Diffusion Autoregressive Model for Raw Speech Waveform Generation**|Roi Benita et.al.|[2310.01381](http://arxiv.org/abs/2310.01381)|null|
+|**2023-10-02**|**An in-silico study of conventional and FLASH radiotherapy iso-effectiveness: Radiolytic oxygen depletion and its potential impact on tumor control probability**|Isabel González-Crespo et.al.|[2310.01281](http://arxiv.org/abs/2310.01281)|null|
+|**2023-10-02**|**Mirror Diffusion Models for Constrained and Watermarked Generation**|Guan-Horng Liu et.al.|[2310.01236](http://arxiv.org/abs/2310.01236)|null|
 |**2023-10-02**|**LLM-grounded Video Diffusion Models**|Long Lian et.al.|[2309.17444](http://arxiv.org/abs/2309.17444)|null|
 |**2023-09-29**|**Directly Fine-Tuning Diffusion Models on Differentiable Rewards**|Kevin Clark et.al.|[2309.17400](http://arxiv.org/abs/2309.17400)|null|
 |**2023-09-29**|**Navigating the Design Space of Equivariant Diffusion-Based Generative Models for De Novo 3D Molecule Generation**|Tuan Le et.al.|[2309.17296](http://arxiv.org/abs/2309.17296)|null|
@@ -2016,6 +2055,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-03**|**Leveraging Classic Deconvolution and Feature Extraction in Zero-Shot Image Restoration**|Tomáš Chobola et.al.|[2310.02097](http://arxiv.org/abs/2310.02097)|**[link](https://github.com/ctom2/cider)**|
+|**2023-10-02**|**ImagenHub: Standardizing the evaluation of conditional image generation models**|Max Ku et.al.|[2310.01596](http://arxiv.org/abs/2310.01596)|null|
+|**2023-10-02**|**Direct Inversion: Boosting Diffusion-based Editing with 3 Lines of Code**|Xuan Ju et.al.|[2310.01506](http://arxiv.org/abs/2310.01506)|**[link](https://github.com/cure-lab/directinversion)**|
+|**2023-10-02**|**Conditional Diffusion Distillation**|Kangfu Mei et.al.|[2310.01407](http://arxiv.org/abs/2310.01407)|null|
+|**2023-10-02**|**Sequential Data Generation with Groupwise Diffusion Process**|Sangyun Lee et.al.|[2310.01400](http://arxiv.org/abs/2310.01400)|null|
+|**2023-10-02**|**A Restoration Network as an Implicit Prior**|Yuyang Hu et.al.|[2310.01391](http://arxiv.org/abs/2310.01391)|null|
+|**2023-10-02**|**Controlling Vision-Language Models for Universal Image Restoration**|Ziwei Luo et.al.|[2310.01018](http://arxiv.org/abs/2310.01018)|**[link](https://github.com/algolzw/daclip-uir)**|
+|**2023-10-02**|**JPEG Information Regularized Deep Image Prior for Denoising**|Tsukasa Takagi et.al.|[2310.00894](http://arxiv.org/abs/2310.00894)|null|
 |**2023-09-29**|**Guiding Instruction-based Image Editing via Multimodal Large Language Models**|Tsu-Jui Fu et.al.|[2309.17102](http://arxiv.org/abs/2309.17102)|**[link](https://github.com/tsujuifu/pytorch_mgie)**|
 |**2023-09-29**|**Denoising Diffusion Bridge Models**|Linqi Zhou et.al.|[2309.16948](http://arxiv.org/abs/2309.16948)|**[link](https://github.com/alexzhou907/DDBM)**|
 |**2023-09-28**|**KV Inversion: KV Embeddings Learning for Text-Conditioned Real Image Action Editing**|Jiancheng Huang et.al.|[2309.16608](http://arxiv.org/abs/2309.16608)|null|
@@ -2306,6 +2353,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-03**|**Adaptive Multi-NeRF: Exploit Efficient Parallelism in Adaptive Multiple Scale Neural Radiance Field Rendering**|Tong Wang et.al.|[2310.01881](http://arxiv.org/abs/2310.01881)|null|
+|**2023-10-03**|**MIMO-NeRF: Fast Neural Rendering with Multi-input Multi-output Neural Radiance Fields**|Takuhiro Kaneko et.al.|[2310.01821](http://arxiv.org/abs/2310.01821)|null|
 |**2023-09-28**|**MatrixCity: A Large-scale City Dataset for City-scale Neural Rendering and Beyond**|Yixuan Li et.al.|[2309.16553](http://arxiv.org/abs/2309.16553)|null|
 |**2023-09-27**|**Generating Transferable Adversarial Simulation Scenarios for Self-Driving via Neural Rendering**|Yasasa Abeysirigoonawardena et.al.|[2309.15770](http://arxiv.org/abs/2309.15770)|null|
 |**2023-09-22**|**Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction**|Ziyi Yang et.al.|[2309.13101](http://arxiv.org/abs/2309.13101)|null|
@@ -2453,6 +2502,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-02**|**NarrativePlay: Interactive Narrative Understanding**|Runcong Zhao et.al.|[2310.01459](http://arxiv.org/abs/2310.01459)|null|
+|**2023-09-29**|**Emotional Listener Portrait: Realistic Listener Motion Simulation in Conversation**|Luchuan Song et.al.|[2310.00068](http://arxiv.org/abs/2310.00068)|null|
 |**2023-09-29**|**HAvatar: High-fidelity Head Avatar via Facial Model Conditioned Neural Radiance Field**|Xiaochen Zhao et.al.|[2309.17128](http://arxiv.org/abs/2309.17128)|null|
 |**2023-09-25**|**Automatic Animation of Hair Blowing in Still Portrait Photos**|Wenpeng Xiao et.al.|[2309.14207](http://arxiv.org/abs/2309.14207)|null|
 |**2023-09-24**|**FaceAtt: Enhancing Image Captioning with Facial Attributes for Portrait Images**|Naimul Haque et.al.|[2309.13601](http://arxiv.org/abs/2309.13601)|null|
@@ -2582,6 +2633,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-02**|**Efficient Remote Sensing Segmentation With Generative Adversarial Transformer**|Luyi Qiu et.al.|[2310.01292](http://arxiv.org/abs/2310.01292)|null|
 |**2023-06-09**|**SERT: A Transfomer Based Model for Spatio-Temporal Sensor Data with Missing Values for Environmental Monitoring**|Amin Shoari Nejad et.al.|[2306.03042](http://arxiv.org/abs/2306.03042)|**[link](https://github.com/aminsn/sert2023)**|
 |**2023-05-20**|**Quantum simulation of lattice gauge theories via deterministic duality transformations assisted by measurements**|Hiroki Sukeno et.al.|[2305.12277](http://arxiv.org/abs/2305.12277)|null|
 |**2023-03-22**|**Self-distillation for surgical action recognition**|Amine Yamlahi et.al.|[2303.12915](http://arxiv.org/abs/2303.12915)|null|

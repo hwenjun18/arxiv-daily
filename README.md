@@ -51,6 +51,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-04**|**Boosting Dermatoscopic Lesion Segmentation via Diffusion Models with Visual and Textual Prompts**|Shiyi Du et.al.|[2310.02906](http://arxiv.org/abs/2310.02906)|null|
+|**2023-10-04**|**Generative Modeling of Regular and Irregular Time Series Data via Koopman VAEs**|Ilan Naiman et.al.|[2310.02619](http://arxiv.org/abs/2310.02619)|null|
 |**2023-10-03**|**Learnable Data Augmentation for One-Shot Unsupervised Domain Adaptation**|Julio Ivan Davila Carrazco et.al.|[2310.02201](http://arxiv.org/abs/2310.02201)|null|
 |**2023-10-03**|**Improving style transfer in dynamic contrast enhanced MRI using a spatio-temporal approach**|Adam G. Tattersall et.al.|[2310.01908](http://arxiv.org/abs/2310.01908)|null|
 |**2023-10-03**|**A Dual Attentive Generative Adversarial Network for Remote Sensing Image Change Detection**|Luyi Qiu et.al.|[2310.01876](http://arxiv.org/abs/2310.01876)|null|
@@ -713,6 +715,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-04**|**Consistent-1-to-3: Consistent Image to 3D View Synthesis via Geometry-aware Diffusion Models**|Jianglong Ye et.al.|[2310.03020](http://arxiv.org/abs/2310.03020)|null|
+|**2023-10-04**|**Efficient-3DiM: Learning a Generalizable Single-image Novel-view Synthesizer in One Day**|Yifan Jiang et.al.|[2310.03015](http://arxiv.org/abs/2310.03015)|null|
+|**2023-10-04**|**Probing Intersectional Biases in Vision-Language Models with Counterfactual Examples**|Phillip Howard et.al.|[2310.02988](http://arxiv.org/abs/2310.02988)|null|
+|**2023-10-04**|**T $^3$ Bench: Benchmarking Current Progress in Text-to-3D Generation**|Yuze He et.al.|[2310.02977](http://arxiv.org/abs/2310.02977)|null|
+|**2023-10-04**|**Fast, Expressive SE $(n)$ Equivariant Networks through Weight-Sharing in Position-Orientation Space**|Erik J Bekkers et.al.|[2310.02970](http://arxiv.org/abs/2310.02970)|**[link](https://github.com/ebekkers/ponita)**|
+|**2023-10-04**|**Boosting Dermatoscopic Lesion Segmentation via Diffusion Models with Visual and Textual Prompts**|Shiyi Du et.al.|[2310.02906](http://arxiv.org/abs/2310.02906)|null|
+|**2023-10-04**|**Magicremover: Tuning-free Text-guided Image inpainting with Diffusion Models**|Siyuan Yang et.al.|[2310.02848](http://arxiv.org/abs/2310.02848)|null|
+|**2023-10-04**|**ED-NeRF: Efficient Text-Guided Editing of 3D Scene using Latent Space NeRF**|Jangho Park et.al.|[2310.02712](http://arxiv.org/abs/2310.02712)|null|
+|**2023-10-04**|**On Memorization in Diffusion Models**|Xiangming Gu et.al.|[2310.02664](http://arxiv.org/abs/2310.02664)|null|
+|**2023-10-04**|**MagicDrive: Street View Generation with Diverse 3D Geometry Control**|Ruiyuan Gao et.al.|[2310.02601](http://arxiv.org/abs/2310.02601)|null|
+|**2023-10-04**|**SweetDreamer: Aligning Geometric Priors in 2D Diffusion for Consistent Text-to-3D**|Weiyu Li et.al.|[2310.02596](http://arxiv.org/abs/2310.02596)|null|
+|**2023-10-04**|**Generalization in diffusion models arises from geometry-adaptive harmonic representation**|Zahra Kadkhodaie et.al.|[2310.02557](http://arxiv.org/abs/2310.02557)|null|
+|**2023-10-04**|**Prepare Ansatz for VQE with Diffusion Model**|Yilin Shen et.al.|[2310.02511](http://arxiv.org/abs/2310.02511)|null|
+|**2023-10-04**|**Learning to Reach Goals via Diffusion**|Vineet Jain et.al.|[2310.02505](http://arxiv.org/abs/2310.02505)|null|
+|**2023-10-03**|**FT-Shield: A Watermark Against Unauthorized Fine-tuning in Text-to-Image Diffusion Models**|Yingqian Cui et.al.|[2310.02401](http://arxiv.org/abs/2310.02401)|null|
 |**2023-10-03**|**Generalized Schrödinger Bridge Matching**|Guan-Horng Liu et.al.|[2310.02233](http://arxiv.org/abs/2310.02233)|null|
 |**2023-10-03**|**A Variable Eddington Factor Model for Thermal Radiative Transfer with Closure based on Data-Driven Shape Function**|Joseph M. Coale et.al.|[2310.02072](http://arxiv.org/abs/2310.02072)|null|
 |**2023-10-03**|**Global Attractor for a Reaction-Diffusion Model Arising in Biological Dynamic in 3D Soil Structure**|Mohamed Elghandouri et.al.|[2310.02060](http://arxiv.org/abs/2310.02060)|null|
@@ -2055,6 +2072,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-04**|**ED-NeRF: Efficient Text-Guided Editing of 3D Scene using Latent Space NeRF**|Jangho Park et.al.|[2310.02712](http://arxiv.org/abs/2310.02712)|null|
+|**2023-10-04**|**Deformation-Invariant Neural Network and Its Applications in Distorted Image Restoration and Analysis**|Han Zhang et.al.|[2310.02641](http://arxiv.org/abs/2310.02641)|null|
+|**2023-10-03**|**EditVal: Benchmarking Diffusion Based Text-Guided Image Editing Methods**|Samyadeep Basu et.al.|[2310.02426](http://arxiv.org/abs/2310.02426)|null|
 |**2023-10-03**|**Leveraging Classic Deconvolution and Feature Extraction in Zero-Shot Image Restoration**|Tomáš Chobola et.al.|[2310.02097](http://arxiv.org/abs/2310.02097)|**[link](https://github.com/ctom2/cider)**|
 |**2023-10-02**|**ImagenHub: Standardizing the evaluation of conditional image generation models**|Max Ku et.al.|[2310.01596](http://arxiv.org/abs/2310.01596)|null|
 |**2023-10-02**|**Direct Inversion: Boosting Diffusion-based Editing with 3 Lines of Code**|Xuan Ju et.al.|[2310.01506](http://arxiv.org/abs/2310.01506)|**[link](https://github.com/cure-lab/directinversion)**|
@@ -2353,6 +2373,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-04**|**GETAvatar: Generative Textured Meshes for Animatable Human Avatars**|Xuanmeng Zhang et.al.|[2310.02714](http://arxiv.org/abs/2310.02714)|null|
 |**2023-10-03**|**Adaptive Multi-NeRF: Exploit Efficient Parallelism in Adaptive Multiple Scale Neural Radiance Field Rendering**|Tong Wang et.al.|[2310.01881](http://arxiv.org/abs/2310.01881)|null|
 |**2023-10-03**|**MIMO-NeRF: Fast Neural Rendering with Multi-input Multi-output Neural Radiance Fields**|Takuhiro Kaneko et.al.|[2310.01821](http://arxiv.org/abs/2310.01821)|null|
 |**2023-09-28**|**MatrixCity: A Large-scale City Dataset for City-scale Neural Rendering and Beyond**|Yixuan Li et.al.|[2309.16553](http://arxiv.org/abs/2309.16553)|null|
@@ -2502,6 +2523,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-04**|**uTalk: Bridging the Gap Between Humans and AI**|Hussam Azzuni et.al.|[2310.02739](http://arxiv.org/abs/2310.02739)|null|
 |**2023-10-02**|**NarrativePlay: Interactive Narrative Understanding**|Runcong Zhao et.al.|[2310.01459](http://arxiv.org/abs/2310.01459)|null|
 |**2023-09-29**|**Emotional Listener Portrait: Realistic Listener Motion Simulation in Conversation**|Luchuan Song et.al.|[2310.00068](http://arxiv.org/abs/2310.00068)|null|
 |**2023-09-29**|**HAvatar: High-fidelity Head Avatar via Facial Model Conditioned Neural Radiance Field**|Xiaochen Zhao et.al.|[2309.17128](http://arxiv.org/abs/2309.17128)|null|

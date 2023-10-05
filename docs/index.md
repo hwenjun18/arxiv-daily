@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.04
+## Updated on 2023.10.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -46,16 +46,16 @@ layout: default
 |**2023-10-02**|**Home Electricity Data Generator (HEDGE): An open-access tool for the generation of electric vehicle, residential demand, and PV generation profiles**|Flora Charbonnier et.al.|[2310.01661](http://arxiv.org/abs/2310.01661)|null|
 |**2023-10-02**|**Color and Texture Dual Pipeline Lightweight Style Transfer**|ShiQi Jiang et.al.|[2310.01321](http://arxiv.org/abs/2310.01321)|null|
 |**2023-10-02**|**Generating 3D Brain Tumor Regions in MRI using Vector-Quantization Generative Adversarial Networks**|Meng Zhou et.al.|[2310.01251](http://arxiv.org/abs/2310.01251)|null|
-|**2023-10-02**|**Ground-A-Video: Zero-shot Grounded Video Editing using Text-to-image Diffusion Models**|Hyeonho Jeong et.al.|[2310.01107](http://arxiv.org/abs/2310.01107)|null|
+|**2023-10-02**|**Ground-A-Video: Zero-shot Grounded Video Editing using Text-to-image Diffusion Models**|Hyeonho Jeong et.al.|[2310.01107](http://arxiv.org/abs/2310.01107)|**[link](https://github.com/ground-a-video/ground-a-video)**|
 |**2023-10-02**|**Practical Radar Sensing Using Two Stage Neural Network for Denoising OTFS Signals**|Ashok S Kumar et.al.|[2310.00897](http://arxiv.org/abs/2310.00897)|null|
 |**2023-10-02**|**Subsurface Characterization using Ensemble-based Approaches with Deep Generative Models**|Jichao Bao et.al.|[2310.00839](http://arxiv.org/abs/2310.00839)|null|
 |**2023-10-01**|**Counterfactual Image Generation for adversarially robust and interpretable Classifiers**|Rafael Bischof et.al.|[2310.00761](http://arxiv.org/abs/2310.00761)|null|
 |**2023-10-01**|**Quantum generative adversarial learning in photonics**|Yizhi Wang et.al.|[2310.00585](http://arxiv.org/abs/2310.00585)|null|
 |**2023-09-30**|**The objective function equality property of infoGAN for two-layer network**|Mahmud Hasan et.al.|[2310.00443](http://arxiv.org/abs/2310.00443)|null|
 |**2023-09-30**|**Controlling Neural Style Transfer with Deep Reinforcement Learning**|Chengming Feng et.al.|[2310.00405](http://arxiv.org/abs/2310.00405)|null|
-|**2023-09-30**|**Structural Adversarial Objectives for\\Self-Supervised Representation Learning**|Xiao Zhang et.al.|[2310.00357](http://arxiv.org/abs/2310.00357)|null|
+|**2023-10-04**|**Structural Adversarial Objectives for Self-Supervised Representation Learning**|Xiao Zhang et.al.|[2310.00357](http://arxiv.org/abs/2310.00357)|null|
 |**2023-09-30**|**Anomaly Detection in Power Generation Plants with Generative Adversarial Networks**|Marcellin Atemkeng et.al.|[2310.00335](http://arxiv.org/abs/2310.00335)|null|
-|**2023-09-30**|**An easy zero-shot learning combination: Texture Sensitive Semantic Segmentation IceHrNet and Advanced Style Transfer Learning Strategy**|Zhiyong Yang et.al.|[2310.00310](http://arxiv.org/abs/2310.00310)|null|
+|**2023-09-30**|**An easy zero-shot learning combination: Texture Sensitive Semantic Segmentation IceHrNet and Advanced Style Transfer Learning Strategy**|Zhiyong Yang et.al.|[2310.00310](http://arxiv.org/abs/2310.00310)|**[link](https://github.com/pl23k/icehrnet)**|
 |**2023-09-30**|**A hybrid quantum-classical conditional generative adversarial network algorithm for human-centered paradigm in cloud**|Wenjie Liu et.al.|[2310.00246](http://arxiv.org/abs/2310.00246)|null|
 |**2023-09-30**|**Finding Pragmatic Differences Between Disciplines**|Lee Kezar et.al.|[2310.00204](http://arxiv.org/abs/2310.00204)|null|
 |**2023-09-29**|**Unpaired Optical Coherence Tomography Angiography Image Super-Resolution via Frequency-Aware Inverse-Consistency GAN**|Weiwen Zhang et.al.|[2309.17269](http://arxiv.org/abs/2309.17269)|null|

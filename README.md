@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.04
+## Updated on 2023.10.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -45,7 +45,7 @@
 |**2022-11-21**|**Towards Live 3D Reconstruction from Wearable Video: An Evaluation of V-SLAM, NeRF, and Videogrammetry Techniques**|David Ramirez et.al.|[2211.11836](http://arxiv.org/abs/2211.11836)|null|
 |**2022-11-14**|**Controllable GAN Synthesis Using Non-Rigid Structure-from-Motion**|René Haas et.al.|[2211.07195](http://arxiv.org/abs/2211.07195)|null|
 
-<p align=right>(<a href=#Updated-on-20231004>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231005>back to top</a>)</p>
 
 ## GAN
 
@@ -58,16 +58,16 @@
 |**2023-10-02**|**Home Electricity Data Generator (HEDGE): An open-access tool for the generation of electric vehicle, residential demand, and PV generation profiles**|Flora Charbonnier et.al.|[2310.01661](http://arxiv.org/abs/2310.01661)|null|
 |**2023-10-02**|**Color and Texture Dual Pipeline Lightweight Style Transfer**|ShiQi Jiang et.al.|[2310.01321](http://arxiv.org/abs/2310.01321)|null|
 |**2023-10-02**|**Generating 3D Brain Tumor Regions in MRI using Vector-Quantization Generative Adversarial Networks**|Meng Zhou et.al.|[2310.01251](http://arxiv.org/abs/2310.01251)|null|
-|**2023-10-02**|**Ground-A-Video: Zero-shot Grounded Video Editing using Text-to-image Diffusion Models**|Hyeonho Jeong et.al.|[2310.01107](http://arxiv.org/abs/2310.01107)|null|
+|**2023-10-02**|**Ground-A-Video: Zero-shot Grounded Video Editing using Text-to-image Diffusion Models**|Hyeonho Jeong et.al.|[2310.01107](http://arxiv.org/abs/2310.01107)|**[link](https://github.com/ground-a-video/ground-a-video)**|
 |**2023-10-02**|**Practical Radar Sensing Using Two Stage Neural Network for Denoising OTFS Signals**|Ashok S Kumar et.al.|[2310.00897](http://arxiv.org/abs/2310.00897)|null|
 |**2023-10-02**|**Subsurface Characterization using Ensemble-based Approaches with Deep Generative Models**|Jichao Bao et.al.|[2310.00839](http://arxiv.org/abs/2310.00839)|null|
 |**2023-10-01**|**Counterfactual Image Generation for adversarially robust and interpretable Classifiers**|Rafael Bischof et.al.|[2310.00761](http://arxiv.org/abs/2310.00761)|null|
 |**2023-10-01**|**Quantum generative adversarial learning in photonics**|Yizhi Wang et.al.|[2310.00585](http://arxiv.org/abs/2310.00585)|null|
 |**2023-09-30**|**The objective function equality property of infoGAN for two-layer network**|Mahmud Hasan et.al.|[2310.00443](http://arxiv.org/abs/2310.00443)|null|
 |**2023-09-30**|**Controlling Neural Style Transfer with Deep Reinforcement Learning**|Chengming Feng et.al.|[2310.00405](http://arxiv.org/abs/2310.00405)|null|
-|**2023-09-30**|**Structural Adversarial Objectives for\\Self-Supervised Representation Learning**|Xiao Zhang et.al.|[2310.00357](http://arxiv.org/abs/2310.00357)|null|
+|**2023-10-04**|**Structural Adversarial Objectives for Self-Supervised Representation Learning**|Xiao Zhang et.al.|[2310.00357](http://arxiv.org/abs/2310.00357)|null|
 |**2023-09-30**|**Anomaly Detection in Power Generation Plants with Generative Adversarial Networks**|Marcellin Atemkeng et.al.|[2310.00335](http://arxiv.org/abs/2310.00335)|null|
-|**2023-09-30**|**An easy zero-shot learning combination: Texture Sensitive Semantic Segmentation IceHrNet and Advanced Style Transfer Learning Strategy**|Zhiyong Yang et.al.|[2310.00310](http://arxiv.org/abs/2310.00310)|null|
+|**2023-09-30**|**An easy zero-shot learning combination: Texture Sensitive Semantic Segmentation IceHrNet and Advanced Style Transfer Learning Strategy**|Zhiyong Yang et.al.|[2310.00310](http://arxiv.org/abs/2310.00310)|**[link](https://github.com/pl23k/icehrnet)**|
 |**2023-09-30**|**A hybrid quantum-classical conditional generative adversarial network algorithm for human-centered paradigm in cloud**|Wenjie Liu et.al.|[2310.00246](http://arxiv.org/abs/2310.00246)|null|
 |**2023-09-30**|**Finding Pragmatic Differences Between Disciplines**|Lee Kezar et.al.|[2310.00204](http://arxiv.org/abs/2310.00204)|null|
 |**2023-09-29**|**Unpaired Optical Coherence Tomography Angiography Image Super-Resolution via Frequency-Aware Inverse-Consistency GAN**|Weiwen Zhang et.al.|[2309.17269](http://arxiv.org/abs/2309.17269)|null|
@@ -707,7 +707,7 @@
 |**2023-03-14**|**3D Face Arbitrary Style Transfer**|Xiangwen Deng et.al.|[2303.07709](http://arxiv.org/abs/2303.07709)|null|
 |**2023-03-13**|**AGTGAN: Unpaired Image Translation for Photographic Ancient Character Generation**|Hongxiang Huang et.al.|[2303.07012](http://arxiv.org/abs/2303.07012)|**[link](https://github.com/hellomystery/agtgan)**|
 
-<p align=right>(<a href=#Updated-on-20231004>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231005>back to top</a>)</p>
 
 ## Diffusion Model
 
@@ -2049,7 +2049,7 @@
 |**2023-03-15**|**DiffBEV: Conditional Diffusion Model for Bird's Eye View Perception**|Jiayu Zou et.al.|[2303.08333](http://arxiv.org/abs/2303.08333)|**[link](https://github.com/jiayuzou2020/diffbev)**|
 |**2023-03-16**|**VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation**|Zhengxiong Luo et.al.|[2303.08320](http://arxiv.org/abs/2303.08320)|null|
 
-<p align=right>(<a href=#Updated-on-20231004>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231005>back to top</a>)</p>
 
 ## Image Edit
 
@@ -2347,7 +2347,7 @@
 |**2023-02-20**|**A Large Scale Homography Benchmark**|Daniel Barath et.al.|[2302.09997](http://arxiv.org/abs/2302.09997)|null|
 |**2023-02-19**|**LC-NeRF: Local Controllable Face Generation in Neural Randiance Field**|Wenyang Zhou et.al.|[2302.09486](http://arxiv.org/abs/2302.09486)|null|
 
-<p align=right>(<a href=#Updated-on-20231004>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231005>back to top</a>)</p>
 
 ## NeRF
 
@@ -2458,7 +2458,7 @@
 |**2022-12-30**|**NeRF-Gaze: A Head-Eye Redirection Parametric Model for Gaze Estimation**|Pengwei Yin et.al.|[2212.14710](http://arxiv.org/abs/2212.14710)|null|
 |**2023-03-21**|**Masked Wavelet Representation for Compact Neural Radiance Fields**|Daniel Rho et.al.|[2212.09069](http://arxiv.org/abs/2212.09069)|**[link](https://github.com/daniel03c1/masked_wavelet_nerf)**|
 
-<p align=right>(<a href=#Updated-on-20231004>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231005>back to top</a>)</p>
 
 ## Reshaping
 
@@ -2496,7 +2496,7 @@
 |**2022-05-13**|**F3A-GAN: Facial Flow for Face Animation with Generative Adversarial Networks**|Xintian Wu et.al.|[2205.06204](http://arxiv.org/abs/2205.06204)|null|
 |**2022-03-16**|**Efficient conditioned face animation using frontally-viewed embedding**|Maxime Oquab et.al.|[2203.08765](http://arxiv.org/abs/2203.08765)|null|
 
-<p align=right>(<a href=#Updated-on-20231004>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231005>back to top</a>)</p>
 
 ## Portrait 
 
@@ -2627,7 +2627,7 @@
 |**2023-03-01**|**DPE: Disentanglement of Pose and Expression for General Video Portrait Editing**|Youxin Pang et.al.|[2301.06281](http://arxiv.org/abs/2301.06281)|null|
 |**2023-01-03**|**StyleTalk: One-shot Talking Head Generation with Controllable Speaking Styles**|Yifeng Ma et.al.|[2301.01081](http://arxiv.org/abs/2301.01081)|**[link](https://github.com/fuxivirtualhuman/styletalk)**|
 
-<p align=right>(<a href=#Updated-on-20231004>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231005>back to top</a>)</p>
 
 ## Transfomer
 
@@ -2659,5 +2659,5 @@
 |**2012-01-21**|**Interior Static Stellar Model with Electric Charge as an Oscillator**|A. M. Baranov et.al.|[1201.4429](http://arxiv.org/abs/1201.4429)|null|
 |**2011-05-16**|**Exactness of the Euclidean algorithm and of the Rauzy induction on the space of interval exchange transfomations**|Tomasz Miernowski et.al.|[1104.3980](http://arxiv.org/abs/1104.3980)|null|
 
-<p align=right>(<a href=#Updated-on-20231004>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231005>back to top</a>)</p>
 

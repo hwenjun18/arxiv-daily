@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.05
+## Updated on 2023.10.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -710,7 +710,7 @@ layout: default
 |**2023-10-04**|**Magicremover: Tuning-free Text-guided Image inpainting with Diffusion Models**|Siyuan Yang et.al.|[2310.02848](http://arxiv.org/abs/2310.02848)|null|
 |**2023-10-04**|**ED-NeRF: Efficient Text-Guided Editing of 3D Scene using Latent Space NeRF**|Jangho Park et.al.|[2310.02712](http://arxiv.org/abs/2310.02712)|null|
 |**2023-10-04**|**On Memorization in Diffusion Models**|Xiangming Gu et.al.|[2310.02664](http://arxiv.org/abs/2310.02664)|null|
-|**2023-10-04**|**MagicDrive: Street View Generation with Diverse 3D Geometry Control**|Ruiyuan Gao et.al.|[2310.02601](http://arxiv.org/abs/2310.02601)|null|
+|**2023-10-05**|**MagicDrive: Street View Generation with Diverse 3D Geometry Control**|Ruiyuan Gao et.al.|[2310.02601](http://arxiv.org/abs/2310.02601)|null|
 |**2023-10-04**|**SweetDreamer: Aligning Geometric Priors in 2D Diffusion for Consistent Text-to-3D**|Weiyu Li et.al.|[2310.02596](http://arxiv.org/abs/2310.02596)|null|
 |**2023-10-04**|**Generalization in diffusion models arises from geometry-adaptive harmonic representation**|Zahra Kadkhodaie et.al.|[2310.02557](http://arxiv.org/abs/2310.02557)|null|
 |**2023-10-04**|**Prepare Ansatz for VQE with Diffusion Model**|Yilin Shen et.al.|[2310.02511](http://arxiv.org/abs/2310.02511)|null|

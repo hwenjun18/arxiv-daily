@@ -51,6 +51,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-07**|**WAIT: Feature Warping for Animation to Illustration video Translation using GANs**|Samet Hicsonmez et.al.|[2310.04901](http://arxiv.org/abs/2310.04901)|null|
+|**2023-10-07**|**Towards Dynamic and Small Objects Refinement for Unsupervised Domain Adaptative Nighttime Semantic Segmentation**|Jingyi Pan et.al.|[2310.04747](http://arxiv.org/abs/2310.04747)|null|
+|**2023-10-07**|**A dimension-reduced variational approach for solving physics-based inverse problems using generative adversarial network priors and normalizing flows**|Agnimitra Dasgupta et.al.|[2310.04690](http://arxiv.org/abs/2310.04690)|null|
+|**2023-10-07**|**X-Transfer: A Transfer Learning-Based Framework for Robust GAN-Generated Fake Image Detection**|Lei Zhang et.al.|[2310.04639](http://arxiv.org/abs/2310.04639)|null|
+|**2023-10-06**|**FluxGAN: A Physics-Aware Generative Adversarial Network Model for Generating Microstructures That Maintain Target Heat Flux**|Artem K. Pimachev et.al.|[2310.04622](http://arxiv.org/abs/2310.04622)|null|
+|**2023-10-06**|**VTON-IT: Virtual Try-On using Image Translation**|Santosh Adhikari et.al.|[2310.04558](http://arxiv.org/abs/2310.04558)|null|
 |**2023-10-06**|**A Deeply Supervised Semantic Segmentation Method Based on GAN**|Wei Zhao et.al.|[2310.04081](http://arxiv.org/abs/2310.04081)|null|
 |**2023-10-06**|**CineTransfer: Controlling a Robot to Imitate Cinematographic Style from a Single Example**|Pablo Pueyo et.al.|[2310.03953](http://arxiv.org/abs/2310.03953)|null|
 |**2023-10-05**|**Automatic and Human-AI Interactive Text Generation**|Yao Dou et.al.|[2310.03878](http://arxiv.org/abs/2310.03878)|null|
@@ -719,6 +725,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-09**|**FLATTEN: optical FLow-guided ATTENtion for consistent text-to-video editing**|Yuren Cong et.al.|[2310.05922](http://arxiv.org/abs/2310.05922)|null|
+|**2023-10-09**|**Geom-Erasing: Geometry-Driven Removal of Implicit Concept in Diffusion Models**|Zhili Liu et.al.|[2310.05873](http://arxiv.org/abs/2310.05873)|null|
+|**2023-10-09**|**A Bias-Variance-Covariance Decomposition of Kernel Scores for Generative Models**|Sebastian G. Gruber et.al.|[2310.05833](http://arxiv.org/abs/2310.05833)|null|
+|**2023-10-09**|**DiffuSeq-v2: Bridging Discrete and Continuous Text Spaces for Accelerated Seq2Seq Diffusion Models**|Shansan Gong et.al.|[2310.05793](http://arxiv.org/abs/2310.05793)|null|
+|**2023-10-09**|**Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation**|Lijun Yu et.al.|[2310.05737](http://arxiv.org/abs/2310.05737)|null|
+|**2023-10-09**|**DiffCPS: Diffusion Model based Constrained Policy Search for Offline Reinforcement Learning**|Longxiang He et.al.|[2310.05333](http://arxiv.org/abs/2310.05333)|**[link](https://github.com/felix-thu/DiffCPS)**|
+|**2023-10-08**|**Image Compression and Decompression Framework Based on Latent Diffusion Model for Breast Mammography**|InChan Hwang et.al.|[2310.05299](http://arxiv.org/abs/2310.05299)|null|
+|**2023-10-08**|**Fast protein backbone generation with SE(3) flow matching**|Jason Yim et.al.|[2310.05297](http://arxiv.org/abs/2310.05297)|null|
+|**2023-10-08**|**The Emergence of Reproducibility and Consistency in Diffusion Models**|Huijie Zhang et.al.|[2310.05264](http://arxiv.org/abs/2310.05264)|null|
+|**2023-10-08**|**Latent Diffusion Model for Medical Image Standardization and Enhancement**|Md Selim et.al.|[2310.05237](http://arxiv.org/abs/2310.05237)|null|
+|**2023-10-07**|**Prompt-to-OS (P2OS): Revolutionizing Operating Systems and Human-Computer Interaction with Integrated AI Generative Models**|Gabriele Tolomei et.al.|[2310.04875](http://arxiv.org/abs/2310.04875)|null|
+|**2023-10-07**|**Conditional Diffusion Model for Target Speaker Extraction**|Theodor Nguyen et.al.|[2310.04791](http://arxiv.org/abs/2310.04791)|null|
+|**2023-10-07**|**DiffNAS: Bootstrapping Diffusion Models by Prompting for Better Architectures**|Wenhao Li et.al.|[2310.04750](http://arxiv.org/abs/2310.04750)|null|
+|**2023-10-07**|**SeeDS: Semantic Separable Diffusion Synthesizer for Zero-shot Food Detection**|Pengfei Zhou et.al.|[2310.04689](http://arxiv.org/abs/2310.04689)|null|
+|**2023-10-07**|**Understanding and Improving Adversarial Attacks on Latent Diffusion Model**|Boyang Zheng et.al.|[2310.04687](http://arxiv.org/abs/2310.04687)|null|
+|**2023-10-07**|**VoiceExtender: Short-utterance Text-independent Speaker Verification with Guided Diffusion Model**|Yayun He et.al.|[2310.04681](http://arxiv.org/abs/2310.04681)|null|
+|**2023-10-07**|**EasyPhoto: Your Smart AI Photo Generator**|Ziheng Wu et.al.|[2310.04672](http://arxiv.org/abs/2310.04672)|**[link](https://github.com/aigc-apps/sd-webui-EasyPhoto)**|
+|**2023-10-07**|**Score-based Diffusion Models With Self-supervised Learning For Accelerated 3D Multi-contrast Cardiac Magnetic Resonance Imaging**|Yuanyuan Liu et.al.|[2310.04669](http://arxiv.org/abs/2310.04669)|null|
+|**2023-10-06**|**DragD3D: Vertex-based Editing for Realistic Mesh Deformations using 2D Diffusion Priors**|Tianhao Xie et.al.|[2310.04561](http://arxiv.org/abs/2310.04561)|null|
+|**2023-10-06**|**Generative Diffusion From An Action Principle**|Akhil Premkumar et.al.|[2310.04490](http://arxiv.org/abs/2310.04490)|null|
 |**2023-10-09**|**Diffusion Random Feature Model**|Esha Saha et.al.|[2310.04417](http://arxiv.org/abs/2310.04417)|null|
 |**2023-10-09**|**CIFAR-10-Warehouse: Broad and More Realistic Testbeds in Model Generalization Analysis**|Xiaoxiao Sun et.al.|[2310.04414](http://arxiv.org/abs/2310.04414)|null|
 |**2023-10-06**|**Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference**|Simian Luo et.al.|[2310.04378](http://arxiv.org/abs/2310.04378)|**[link](https://github.com/luosiallen/latent-consistency-model)**|
@@ -2093,6 +2119,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-09**|**Dipole-Spread Function Engineering for 6D Super-Resolution Microscopy**|Tingting Wu et.al.|[2310.05810](http://arxiv.org/abs/2310.05810)|null|
 |**2023-10-06**|**Degradation-Aware Self-Attention Based Transformer for Blind Image Super-Resolution**|Qingguo Liu et.al.|[2310.04180](http://arxiv.org/abs/2310.04180)|**[link](https://github.com/i2-multimedia-lab/dsat)**|
 |**2023-10-04**|**ED-NeRF: Efficient Text-Guided Editing of 3D Scene using Latent Space NeRF**|Jangho Park et.al.|[2310.02712](http://arxiv.org/abs/2310.02712)|null|
 |**2023-10-04**|**Deformation-Invariant Neural Network and Its Applications in Distorted Image Restoration and Analysis**|Han Zhang et.al.|[2310.02641](http://arxiv.org/abs/2310.02641)|null|
@@ -2395,6 +2422,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-09**|**Bi-directional Deformation for Parameterization of Neural Implicit Surfaces**|Baixin Xu et.al.|[2310.05524](http://arxiv.org/abs/2310.05524)|null|
 |**2023-10-06**|**ILSH: The Imperial Light-Stage Head Dataset for Human Head View Synthesis**|Jiali Zheng et.al.|[2310.03952](http://arxiv.org/abs/2310.03952)|null|
 |**2023-10-04**|**GETAvatar: Generative Textured Meshes for Animatable Human Avatars**|Xuanmeng Zhang et.al.|[2310.02714](http://arxiv.org/abs/2310.02714)|null|
 |**2023-10-03**|**Adaptive Multi-NeRF: Exploit Efficient Parallelism in Adaptive Multiple Scale Neural Radiance Field Rendering**|Tong Wang et.al.|[2310.01881](http://arxiv.org/abs/2310.01881)|null|
@@ -2546,6 +2574,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-07**|**EasyPhoto: Your Smart AI Photo Generator**|Ziheng Wu et.al.|[2310.04672](http://arxiv.org/abs/2310.04672)|**[link](https://github.com/aigc-apps/sd-webui-EasyPhoto)**|
 |**2023-10-06**|**Enhancing the Authenticity of Rendered Portraits with Identity-Consistent Transfer Learning**|Luyuan Wang et.al.|[2310.04194](http://arxiv.org/abs/2310.04194)|null|
 |**2023-10-04**|**uTalk: Bridging the Gap Between Humans and AI**|Hussam Azzuni et.al.|[2310.02739](http://arxiv.org/abs/2310.02739)|null|
 |**2023-10-02**|**NarrativePlay: Interactive Narrative Understanding**|Runcong Zhao et.al.|[2310.01459](http://arxiv.org/abs/2310.01459)|null|

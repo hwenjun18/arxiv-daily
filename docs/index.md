@@ -39,6 +39,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-11**|**Does resistance to Style-Transfer equal Shape Bias? Evaluating Shape Bias by Distorted Shape**|Ziqi Wen et.al.|[2310.07555](http://arxiv.org/abs/2310.07555)|null|
+|**2023-10-11**|**Synthesizing Missing MRI Sequences from Available Modalities using Generative Adversarial Networks in BraTS Dataset**|Ibrahim Ethem Hamamci et.al.|[2310.07250](http://arxiv.org/abs/2310.07250)|null|
+|**2023-10-11**|**Vec-Tok Speech: speech vectorization and tokenization for neural speech generation**|Xinfa Zhu et.al.|[2310.07246](http://arxiv.org/abs/2310.07246)|null|
+|**2023-10-11**|**Crowd Counting in Harsh Weather using Image Denoising with Pix2Pix GANs**|Muhammad Asif Khan et.al.|[2310.07245](http://arxiv.org/abs/2310.07245)|null|
+|**2023-10-10**|**Stochastic Super-resolution of Cosmological Simulations with Denoising Diffusion Models**|Andreas Schanz et.al.|[2310.06929](http://arxiv.org/abs/2310.06929)|null|
 |**2023-10-10**|**SC2GAN: Rethinking Entanglement by Self-correcting Correlated GAN Space**|Zikun Chen et.al.|[2310.06667](http://arxiv.org/abs/2310.06667)|null|
 |**2023-10-10**|**Data-level hybrid strategy selection for disk fault prediction model based on multivariate GAN**|Shuangshuang Yuan et.al.|[2310.06537](http://arxiv.org/abs/2310.06537)|null|
 |**2023-10-10**|**An improved CTGAN for data processing method of imbalanced disk failure**|Jingbo Jia et.al.|[2310.06481](http://arxiv.org/abs/2310.06481)|null|
@@ -717,6 +722,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-11**|**ScaleCrafter: Tuning-free Higher-Resolution Visual Generation with Diffusion Models**|Yingqing He et.al.|[2310.07702](http://arxiv.org/abs/2310.07702)|**[link](https://github.com/yingqinghe/scalecrafter)**|
+|**2023-10-11**|**Mini-DALLE3: Interactive Text to Image by Prompting Large Language Models**|Lai Zeqiang et.al.|[2310.07653](http://arxiv.org/abs/2310.07653)|**[link](https://github.com/Zeqiang-Lai/MiniDALLE-3)**|
+|**2023-10-11**|**Boosting Black-box Attack to Deep Neural Networks with Conditional Diffusion Models**|Renyang Liu et.al.|[2310.07492](http://arxiv.org/abs/2310.07492)|null|
+|**2023-10-11**|**Multi-Concept T2I-Zero: Tweaking Only The Text Embeddings and Nothing Else**|Hazarapet Tunanyan et.al.|[2310.07419](http://arxiv.org/abs/2310.07419)|null|
+|**2023-10-11**|**WiGenAI: The Symphony of Wireless and Generative AI via Diffusion Models**|Mehdi Letafati et.al.|[2310.07312](http://arxiv.org/abs/2310.07312)|null|
+|**2023-10-11**|**Score Regularized Policy Optimization through Diffusion Behavior**|Huayu Chen et.al.|[2310.07297](http://arxiv.org/abs/2310.07297)|**[link](https://github.com/thu-ml/srpo)**|
+|**2023-10-11**|**Uni-paint: A Unified Framework for Multimodal Image Inpainting with Pretrained Diffusion Model**|Shiyuan Yang et.al.|[2310.07222](http://arxiv.org/abs/2310.07222)|**[link](https://github.com/ysy31415/unipaint)**|
+|**2023-10-11**|**Generative Modeling on Manifolds Through Mixture of Riemannian Diffusion Processes**|Jaehyeong Jo et.al.|[2310.07216](http://arxiv.org/abs/2310.07216)|null|
+|**2023-10-11**|**State of the Art on Diffusion Models for Visual Computing**|Ryan Po et.al.|[2310.07204](http://arxiv.org/abs/2310.07204)|null|
+|**2023-10-11**|**The Ubiquity of Diffusiophoresis: Exploring Human Population Dynamics While Including Concentration Gradient-Driven Advection**|Benjamin M. Alessio et.al.|[2310.07185](http://arxiv.org/abs/2310.07185)|null|
+|**2023-10-11**|**Imitation Learning from Purified Demonstration**|Yunke Wang et.al.|[2310.07143](http://arxiv.org/abs/2310.07143)|null|
+|**2023-10-11**|**Denoising Task Routing for Diffusion Models**|Byeongjun Park et.al.|[2310.07138](http://arxiv.org/abs/2310.07138)|null|
+|**2023-10-11**|**Echocardiography video synthesis from end diastolic semantic map via diffusion model**|Phi Nguyen Van et.al.|[2310.07131](http://arxiv.org/abs/2310.07131)|null|
+|**2023-10-10**|**Investigating the Adversarial Robustness of Density Estimation Using the Probability Flow ODE**|Marius Arvinte et.al.|[2310.07084](http://arxiv.org/abs/2310.07084)|null|
+|**2023-10-10**|**ObjectComposer: Consistent Generation of Multiple Objects Without Fine-tuning**|Alec Helbling et.al.|[2310.06968](http://arxiv.org/abs/2310.06968)|null|
+|**2023-10-10**|**Monsters in the Dark: Sanitizing Hidden Threats with Diffusion Models**|Preston K. Robinette et.al.|[2310.06951](http://arxiv.org/abs/2310.06951)|null|
+|**2023-10-10**|**Stochastic Super-resolution of Cosmological Simulations with Denoising Diffusion Models**|Andreas Schanz et.al.|[2310.06929](http://arxiv.org/abs/2310.06929)|null|
 |**2023-10-10**|**HiFi-123: Towards High-fidelity One Image to 3D Content Generation**|Wangbo Yu et.al.|[2310.06744](http://arxiv.org/abs/2310.06744)|null|
 |**2023-10-10**|**Tweedie Moment Projected Diffusions For Inverse Problems**|Benjamin Boys et.al.|[2310.06721](http://arxiv.org/abs/2310.06721)|null|
 |**2023-10-10**|**Latent Diffusion Counterfactual Explanations**|Karim Farid et.al.|[2310.06668](http://arxiv.org/abs/2310.06668)|null|

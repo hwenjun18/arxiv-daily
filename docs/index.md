@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.11
+## Updated on 2023.10.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -45,12 +45,12 @@ layout: default
 |**2023-10-10**|**Adversarial Masked Image Inpainting for Robust Detection of Mpox and Non-Mpox**|Yubiao Yue et.al.|[2310.06318](http://arxiv.org/abs/2310.06318)|null|
 |**2023-10-09**|**Latent Diffusion Model for DNA Sequence Generation**|Zehui Li et.al.|[2310.06150](http://arxiv.org/abs/2310.06150)|null|
 |**2023-10-09**|**Generative ensemble deep learning severe weather prediction from a deterministic convection-allowing model**|Yingkai Sha et.al.|[2310.06045](http://arxiv.org/abs/2310.06045)|**[link](https://github.com/yingkaisha/severe_weather_cgan)**|
-|**2023-10-07**|**WAIT: Feature Warping for Animation to Illustration video Translation using GANs**|Samet Hicsonmez et.al.|[2310.04901](http://arxiv.org/abs/2310.04901)|null|
+|**2023-10-07**|**WAIT: Feature Warping for Animation to Illustration video Translation using GANs**|Samet Hicsonmez et.al.|[2310.04901](http://arxiv.org/abs/2310.04901)|**[link](https://github.com/giddyyupp/wait)**|
 |**2023-10-07**|**Towards Dynamic and Small Objects Refinement for Unsupervised Domain Adaptative Nighttime Semantic Segmentation**|Jingyi Pan et.al.|[2310.04747](http://arxiv.org/abs/2310.04747)|null|
 |**2023-10-07**|**A dimension-reduced variational approach for solving physics-based inverse problems using generative adversarial network priors and normalizing flows**|Agnimitra Dasgupta et.al.|[2310.04690](http://arxiv.org/abs/2310.04690)|null|
 |**2023-10-07**|**X-Transfer: A Transfer Learning-Based Framework for Robust GAN-Generated Fake Image Detection**|Lei Zhang et.al.|[2310.04639](http://arxiv.org/abs/2310.04639)|null|
 |**2023-10-06**|**FluxGAN: A Physics-Aware Generative Adversarial Network Model for Generating Microstructures That Maintain Target Heat Flux**|Artem K. Pimachev et.al.|[2310.04622](http://arxiv.org/abs/2310.04622)|null|
-|**2023-10-06**|**VTON-IT: Virtual Try-On using Image Translation**|Santosh Adhikari et.al.|[2310.04558](http://arxiv.org/abs/2310.04558)|null|
+|**2023-10-06**|**VTON-IT: Virtual Try-On using Image Translation**|Santosh Adhikari et.al.|[2310.04558](http://arxiv.org/abs/2310.04558)|**[link](https://github.com/shuntos/viton-it)**|
 |**2023-10-06**|**A Deeply Supervised Semantic Segmentation Method Based on GAN**|Wei Zhao et.al.|[2310.04081](http://arxiv.org/abs/2310.04081)|null|
 |**2023-10-06**|**CineTransfer: Controlling a Robot to Imitate Cinematographic Style from a Single Example**|Pablo Pueyo et.al.|[2310.03953](http://arxiv.org/abs/2310.03953)|null|
 |**2023-10-05**|**Automatic and Human-AI Interactive Text Generation**|Yao Dou et.al.|[2310.03878](http://arxiv.org/abs/2310.03878)|null|
@@ -719,7 +719,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-10**|**HiFi-123: Towards High-fidelity One Image to 3D Content Generation**|Wangbo Yu et.al.|[2310.06744](http://arxiv.org/abs/2310.06744)|null|
 |**2023-10-10**|**Tweedie Moment Projected Diffusions For Inverse Problems**|Benjamin Boys et.al.|[2310.06721](http://arxiv.org/abs/2310.06721)|null|
-|**2023-10-10**|**Latent Diffusion Counterfactual Explanations**|Karim Farid et.al.|[2310.06668](http://arxiv.org/abs/2310.06668)|**[link](https://github.com/lmb-freiburg/ldce)**|
+|**2023-10-10**|**Latent Diffusion Counterfactual Explanations**|Karim Farid et.al.|[2310.06668](http://arxiv.org/abs/2310.06668)|null|
 |**2023-10-10**|**Tertiary Lymphoid Structures Generation through Graph-based Diffusion**|Manuel Madeira et.al.|[2310.06661](http://arxiv.org/abs/2310.06661)|null|
 |**2023-10-10**|**Stochastic representation of processes with resetting**|Marcin Magdziarz et.al.|[2310.06416](http://arxiv.org/abs/2310.06416)|null|
 |**2023-10-10**|**Learning Stackable and Skippable LEGO Bricks for Efficient, Reconfigurable, and Variable-Resolution Diffusion Modeling**|Huangjie Zheng et.al.|[2310.06389](http://arxiv.org/abs/2310.06389)|null|

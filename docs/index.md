@@ -39,6 +39,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-12**|**Worst-Case Morphs using Wasserstein ALI and Improved MIPGAN**|Una M. Kelly et.al.|[2310.08371](http://arxiv.org/abs/2310.08371)|null|
+|**2023-10-12**|**CleftGAN: Adapting A Style-Based Generative Adversarial Network To Create Images Depicting Cleft Lip Deformity**|Abdullah Hayajneh et.al.|[2310.07969](http://arxiv.org/abs/2310.07969)|null|
+|**2023-10-11**|**Revolutionising inverse design of magnesium alloys through generative adversarial networks**|Marzie Ghorbani et.al.|[2310.07836](http://arxiv.org/abs/2310.07836)|null|
 |**2023-10-11**|**Does resistance to Style-Transfer equal Shape Bias? Evaluating Shape Bias by Distorted Shape**|Ziqi Wen et.al.|[2310.07555](http://arxiv.org/abs/2310.07555)|null|
 |**2023-10-11**|**Synthesizing Missing MRI Sequences from Available Modalities using Generative Adversarial Networks in BraTS Dataset**|Ibrahim Ethem Hamamci et.al.|[2310.07250](http://arxiv.org/abs/2310.07250)|null|
 |**2023-10-12**|**Vec-Tok Speech: speech vectorization and tokenization for neural speech generation**|Xinfa Zhu et.al.|[2310.07246](http://arxiv.org/abs/2310.07246)|null|
@@ -722,6 +725,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-12**|**HyperHuman: Hyper-Realistic Human Generation with Latent Structural Diffusion**|Xian Liu et.al.|[2310.08579](http://arxiv.org/abs/2310.08579)|null|
+|**2023-10-12**|**NetDiffusion: Network Data Augmentation Through Protocol-Constrained Traffic Generation**|Xi Jiang et.al.|[2310.08543](http://arxiv.org/abs/2310.08543)|null|
+|**2023-10-12**|**GaussianDreamer: Fast Generation from Text to 3D Gaussian Splatting with Point Cloud Priors**|Taoran Yi et.al.|[2310.08529](http://arxiv.org/abs/2310.08529)|null|
+|**2023-10-12**|**MotionDirector: Motion Customization of Text-to-Video Diffusion Models**|Rui Zhao et.al.|[2310.08465](http://arxiv.org/abs/2310.08465)|null|
+|**2023-10-12**|**Debias the Training of Diffusion Models**|Hu Yu et.al.|[2310.08442](http://arxiv.org/abs/2310.08442)|null|
+|**2023-10-12**|**A new local and explicit kinetic method for linear and non-linear convection-diffusion problems with finite kinetic speeds: I. One-dimensional case**|Gauthier Wissocq et.al.|[2310.08356](http://arxiv.org/abs/2310.08356)|null|
+|**2023-10-12**|**Neural Diffusion Models**|Grigory Bartosh et.al.|[2310.08337](http://arxiv.org/abs/2310.08337)|null|
+|**2023-10-12**|**Consistent123: Improve Consistency for One Image to 3D Object Synthesis**|Haohan Weng et.al.|[2310.08092](http://arxiv.org/abs/2310.08092)|null|
+|**2023-10-12**|**Interpretable Diffusion via Information Decomposition**|Xianghao Kong et.al.|[2310.07972](http://arxiv.org/abs/2310.07972)|null|
+|**2023-10-11**|**NoMaD: Goal Masked Diffusion Policies for Navigation and Exploration**|Ajay Sridhar et.al.|[2310.07896](http://arxiv.org/abs/2310.07896)|null|
+|**2023-10-11**|**Efficient Integrators for Diffusion Generative Models**|Kushagra Pandey et.al.|[2310.07894](http://arxiv.org/abs/2310.07894)|null|
+|**2023-10-11**|**Generative Modeling with Phase Stochastic Bridges**|Tianrong Chen et.al.|[2310.07805](http://arxiv.org/abs/2310.07805)|null|
+|**2023-10-11**|**Quantum sequential scattering model for quantum state learning**|Mingrui Jing et.al.|[2310.07797](http://arxiv.org/abs/2310.07797)|null|
+|**2023-10-11**|**DrivingDiffusion: Layout-Guided multi-view driving scene video generation with latent diffusion model**|Xiaofan Li et.al.|[2310.07771](http://arxiv.org/abs/2310.07771)|null|
 |**2023-10-11**|**ScaleCrafter: Tuning-free Higher-Resolution Visual Generation with Diffusion Models**|Yingqing He et.al.|[2310.07702](http://arxiv.org/abs/2310.07702)|**[link](https://github.com/yingqinghe/scalecrafter)**|
 |**2023-10-11**|**Mini-DALLE3: Interactive Text to Image by Prompting Large Language Models**|Lai Zeqiang et.al.|[2310.07653](http://arxiv.org/abs/2310.07653)|**[link](https://github.com/Zeqiang-Lai/MiniDALLE-3)**|
 |**2023-10-11**|**Boosting Black-box Attack to Deep Neural Networks with Conditional Diffusion Models**|Renyang Liu et.al.|[2310.07492](http://arxiv.org/abs/2310.07492)|null|
@@ -2144,6 +2161,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-12**|**Frequency-Aware Re-Parameterization for Over-Fitting Based Image Compression**|Yun Ye et.al.|[2310.08068](http://arxiv.org/abs/2310.08068)|null|
 |**2023-10-10**|**Tweedie Moment Projected Diffusions For Inverse Problems**|Benjamin Boys et.al.|[2310.06721](http://arxiv.org/abs/2310.06721)|null|
 |**2023-10-10**|**Improving Compositional Text-to-image Generation with Large Vision-Language Models**|Song Wen et.al.|[2310.06311](http://arxiv.org/abs/2310.06311)|null|
 |**2023-10-09**|**Dipole-Spread Function Engineering for 6D Super-Resolution Microscopy**|Tingting Wu et.al.|[2310.05810](http://arxiv.org/abs/2310.05810)|null|
@@ -2447,6 +2465,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-12**|**PonderV2: Pave the Way for 3D Foundataion Model with A Universal Pre-training Paradigm**|Haoyi Zhu et.al.|[2310.08586](http://arxiv.org/abs/2310.08586)|null|
 |**2023-10-09**|**Bi-directional Deformation for Parameterization of Neural Implicit Surfaces**|Baixin Xu et.al.|[2310.05524](http://arxiv.org/abs/2310.05524)|null|
 |**2023-10-06**|**ILSH: The Imperial Light-Stage Head Dataset for Human Head View Synthesis**|Jiali Zheng et.al.|[2310.03952](http://arxiv.org/abs/2310.03952)|null|
 |**2023-10-04**|**GETAvatar: Generative Textured Meshes for Animatable Human Avatars**|Xuanmeng Zhang et.al.|[2310.02714](http://arxiv.org/abs/2310.02714)|null|
@@ -2596,6 +2615,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-12**|**"SegLoc": Study on Novel Visual Self-supervised Learning Scheme (Segment Localization) Tailored for Dense Prediction Tasks of Security Inspection X-ray Images**|Shervin Halat et.al.|[2310.08421](http://arxiv.org/abs/2310.08421)|null|
+|**2023-10-12**|**Dual properties of dense quark matter with color superconductivity phenomenon**|T. G. Khunjua et.al.|[2310.08211](http://arxiv.org/abs/2310.08211)|null|
 |**2023-10-07**|**EasyPhoto: Your Smart AI Photo Generator**|Ziheng Wu et.al.|[2310.04672](http://arxiv.org/abs/2310.04672)|**[link](https://github.com/aigc-apps/sd-webui-EasyPhoto)**|
 |**2023-10-06**|**Enhancing the Authenticity of Rendered Portraits with Identity-Consistent Transfer Learning**|Luyuan Wang et.al.|[2310.04194](http://arxiv.org/abs/2310.04194)|null|
 |**2023-10-04**|**uTalk: Bridging the Gap Between Humans and AI**|Hussam Azzuni et.al.|[2310.02739](http://arxiv.org/abs/2310.02739)|null|

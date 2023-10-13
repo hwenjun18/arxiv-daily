@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.12
+## Updated on 2023.10.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -41,7 +41,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-11**|**Does resistance to Style-Transfer equal Shape Bias? Evaluating Shape Bias by Distorted Shape**|Ziqi Wen et.al.|[2310.07555](http://arxiv.org/abs/2310.07555)|null|
 |**2023-10-11**|**Synthesizing Missing MRI Sequences from Available Modalities using Generative Adversarial Networks in BraTS Dataset**|Ibrahim Ethem Hamamci et.al.|[2310.07250](http://arxiv.org/abs/2310.07250)|null|
-|**2023-10-11**|**Vec-Tok Speech: speech vectorization and tokenization for neural speech generation**|Xinfa Zhu et.al.|[2310.07246](http://arxiv.org/abs/2310.07246)|null|
+|**2023-10-12**|**Vec-Tok Speech: speech vectorization and tokenization for neural speech generation**|Xinfa Zhu et.al.|[2310.07246](http://arxiv.org/abs/2310.07246)|null|
 |**2023-10-11**|**Crowd Counting in Harsh Weather using Image Denoising with Pix2Pix GANs**|Muhammad Asif Khan et.al.|[2310.07245](http://arxiv.org/abs/2310.07245)|null|
 |**2023-10-10**|**Stochastic Super-resolution of Cosmological Simulations with Denoising Diffusion Models**|Andreas Schanz et.al.|[2310.06929](http://arxiv.org/abs/2310.06929)|null|
 |**2023-10-10**|**SC2GAN: Rethinking Entanglement by Self-correcting Correlated GAN Space**|Zikun Chen et.al.|[2310.06667](http://arxiv.org/abs/2310.06667)|null|
@@ -726,8 +726,8 @@ layout: default
 |**2023-10-11**|**Mini-DALLE3: Interactive Text to Image by Prompting Large Language Models**|Lai Zeqiang et.al.|[2310.07653](http://arxiv.org/abs/2310.07653)|**[link](https://github.com/Zeqiang-Lai/MiniDALLE-3)**|
 |**2023-10-11**|**Boosting Black-box Attack to Deep Neural Networks with Conditional Diffusion Models**|Renyang Liu et.al.|[2310.07492](http://arxiv.org/abs/2310.07492)|null|
 |**2023-10-11**|**Multi-Concept T2I-Zero: Tweaking Only The Text Embeddings and Nothing Else**|Hazarapet Tunanyan et.al.|[2310.07419](http://arxiv.org/abs/2310.07419)|null|
-|**2023-10-11**|**WiGenAI: The Symphony of Wireless and Generative AI via Diffusion Models**|Mehdi Letafati et.al.|[2310.07312](http://arxiv.org/abs/2310.07312)|null|
-|**2023-10-11**|**Score Regularized Policy Optimization through Diffusion Behavior**|Huayu Chen et.al.|[2310.07297](http://arxiv.org/abs/2310.07297)|**[link](https://github.com/thu-ml/srpo)**|
+|**2023-10-12**|**WiGenAI: The Symphony of Wireless and Generative AI via Diffusion Models**|Mehdi Letafati et.al.|[2310.07312](http://arxiv.org/abs/2310.07312)|null|
+|**2023-10-12**|**Score Regularized Policy Optimization through Diffusion Behavior**|Huayu Chen et.al.|[2310.07297](http://arxiv.org/abs/2310.07297)|**[link](https://github.com/thu-ml/srpo)**|
 |**2023-10-11**|**Uni-paint: A Unified Framework for Multimodal Image Inpainting with Pretrained Diffusion Model**|Shiyuan Yang et.al.|[2310.07222](http://arxiv.org/abs/2310.07222)|**[link](https://github.com/ysy31415/unipaint)**|
 |**2023-10-11**|**Generative Modeling on Manifolds Through Mixture of Riemannian Diffusion Processes**|Jaehyeong Jo et.al.|[2310.07216](http://arxiv.org/abs/2310.07216)|null|
 |**2023-10-11**|**State of the Art on Diffusion Models for Visual Computing**|Ryan Po et.al.|[2310.07204](http://arxiv.org/abs/2310.07204)|null|

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.13
+## Updated on 2023.10.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -40,11 +40,11 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-12**|**Worst-Case Morphs using Wasserstein ALI and Improved MIPGAN**|Una M. Kelly et.al.|[2310.08371](http://arxiv.org/abs/2310.08371)|null|
-|**2023-10-12**|**CleftGAN: Adapting A Style-Based Generative Adversarial Network To Create Images Depicting Cleft Lip Deformity**|Abdullah Hayajneh et.al.|[2310.07969](http://arxiv.org/abs/2310.07969)|null|
+|**2023-10-12**|**CleftGAN: Adapting A Style-Based Generative Adversarial Network To Create Images Depicting Cleft Lip Deformity**|Abdullah Hayajneh et.al.|[2310.07969](http://arxiv.org/abs/2310.07969)|**[link](https://github.com/abdullah-tamu/CleftGAN)**|
 |**2023-10-11**|**Revolutionising inverse design of magnesium alloys through generative adversarial networks**|Marzie Ghorbani et.al.|[2310.07836](http://arxiv.org/abs/2310.07836)|null|
 |**2023-10-11**|**Does resistance to Style-Transfer equal Shape Bias? Evaluating Shape Bias by Distorted Shape**|Ziqi Wen et.al.|[2310.07555](http://arxiv.org/abs/2310.07555)|null|
 |**2023-10-11**|**Synthesizing Missing MRI Sequences from Available Modalities using Generative Adversarial Networks in BraTS Dataset**|Ibrahim Ethem Hamamci et.al.|[2310.07250](http://arxiv.org/abs/2310.07250)|null|
-|**2023-10-12**|**Vec-Tok Speech: speech vectorization and tokenization for neural speech generation**|Xinfa Zhu et.al.|[2310.07246](http://arxiv.org/abs/2310.07246)|null|
+|**2023-10-12**|**Vec-Tok Speech: speech vectorization and tokenization for neural speech generation**|Xinfa Zhu et.al.|[2310.07246](http://arxiv.org/abs/2310.07246)|**[link](https://github.com/bakerbunker/vectok)**|
 |**2023-10-11**|**Crowd Counting in Harsh Weather using Image Denoising with Pix2Pix GANs**|Muhammad Asif Khan et.al.|[2310.07245](http://arxiv.org/abs/2310.07245)|null|
 |**2023-10-10**|**Stochastic Super-resolution of Cosmological Simulations with Denoising Diffusion Models**|Andreas Schanz et.al.|[2310.06929](http://arxiv.org/abs/2310.06929)|null|
 |**2023-10-10**|**SC2GAN: Rethinking Entanglement by Self-correcting Correlated GAN Space**|Zikun Chen et.al.|[2310.06667](http://arxiv.org/abs/2310.06667)|null|
@@ -735,7 +735,7 @@ layout: default
 |**2023-10-12**|**Consistent123: Improve Consistency for One Image to 3D Object Synthesis**|Haohan Weng et.al.|[2310.08092](http://arxiv.org/abs/2310.08092)|null|
 |**2023-10-12**|**Interpretable Diffusion via Information Decomposition**|Xianghao Kong et.al.|[2310.07972](http://arxiv.org/abs/2310.07972)|null|
 |**2023-10-11**|**NoMaD: Goal Masked Diffusion Policies for Navigation and Exploration**|Ajay Sridhar et.al.|[2310.07896](http://arxiv.org/abs/2310.07896)|null|
-|**2023-10-11**|**Efficient Integrators for Diffusion Generative Models**|Kushagra Pandey et.al.|[2310.07894](http://arxiv.org/abs/2310.07894)|null|
+|**2023-10-11**|**Efficient Integrators for Diffusion Generative Models**|Kushagra Pandey et.al.|[2310.07894](http://arxiv.org/abs/2310.07894)|**[link](https://github.com/mandt-lab/PSLD)**|
 |**2023-10-11**|**Generative Modeling with Phase Stochastic Bridges**|Tianrong Chen et.al.|[2310.07805](http://arxiv.org/abs/2310.07805)|null|
 |**2023-10-11**|**Quantum sequential scattering model for quantum state learning**|Mingrui Jing et.al.|[2310.07797](http://arxiv.org/abs/2310.07797)|null|
 |**2023-10-11**|**DrivingDiffusion: Layout-Guided multi-view driving scene video generation with latent diffusion model**|Xiaofan Li et.al.|[2310.07771](http://arxiv.org/abs/2310.07771)|null|
@@ -2465,7 +2465,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-12**|**PonderV2: Pave the Way for 3D Foundataion Model with A Universal Pre-training Paradigm**|Haoyi Zhu et.al.|[2310.08586](http://arxiv.org/abs/2310.08586)|null|
+|**2023-10-12**|**PonderV2: Pave the Way for 3D Foundataion Model with A Universal Pre-training Paradigm**|Haoyi Zhu et.al.|[2310.08586](http://arxiv.org/abs/2310.08586)|**[link](https://github.com/OpenGVLab/PonderV2)**|
 |**2023-10-09**|**Bi-directional Deformation for Parameterization of Neural Implicit Surfaces**|Baixin Xu et.al.|[2310.05524](http://arxiv.org/abs/2310.05524)|null|
 |**2023-10-06**|**ILSH: The Imperial Light-Stage Head Dataset for Human Head View Synthesis**|Jiali Zheng et.al.|[2310.03952](http://arxiv.org/abs/2310.03952)|null|
 |**2023-10-04**|**GETAvatar: Generative Textured Meshes for Animatable Human Avatars**|Xuanmeng Zhang et.al.|[2310.02714](http://arxiv.org/abs/2310.02714)|null|

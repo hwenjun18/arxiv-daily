@@ -39,6 +39,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-16**|**DynVideo-E: Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing**|Jia-Wei Liu et.al.|[2310.10624](http://arxiv.org/abs/2310.10624)|null|
+|**2023-10-16**|**Style transfer between Microscopy and Magnetic Resonance Imaging via Generative Adversarial Network in small sample size settings**|Monika Pytlarz et.al.|[2310.10414](http://arxiv.org/abs/2310.10414)|null|
+|**2023-10-16**|**Impact of Data Synthesis Strategies for the Classification of Craniosynostosis**|Matthias Schaufelberger et.al.|[2310.10199](http://arxiv.org/abs/2310.10199)|null|
+|**2023-10-16**|**Outlier Detection Using Generative Models with Theoretical Performance Guarantees**|Jirong Yi et.al.|[2310.09999](http://arxiv.org/abs/2310.09999)|null|
+|**2023-10-15**|**Chinese Painting Style Transfer Using Deep Generative Models**|Weijian Ma et.al.|[2310.09978](http://arxiv.org/abs/2310.09978)|null|
+|**2023-10-15**|**LOVECon: Text-driven Training-Free Long Video Editing with ControlNet**|Zhenyi Liao et.al.|[2310.09711](http://arxiv.org/abs/2310.09711)|null|
+|**2023-10-13**|**Efficient Apple Maturity and Damage Assessment: A Lightweight Detection Model with GAN and Attention Mechanism**|Yufei Liu et.al.|[2310.09347](http://arxiv.org/abs/2310.09347)|null|
 |**2023-10-13**|**Using cGANs for Anomaly Detection: Identifying Astronomical Anomalies in JWST NIRcam Imaging**|Ruby Pearce-Casey et.al.|[2310.09073](http://arxiv.org/abs/2310.09073)|null|
 |**2023-10-13**|**Generative AI-driven Semantic Communication Framework for NextG Wireless Network**|Avi Deb Raha et.al.|[2310.09021](http://arxiv.org/abs/2310.09021)|null|
 |**2023-10-13**|**A Framework for Few-Shot Policy Transfer through Observation Mapping and Behavior Cloning**|Yash Shukla et.al.|[2310.08836](http://arxiv.org/abs/2310.08836)|**[link](https://github.com/shukla-yash/few-shot-policy-transfer)**|
@@ -729,6 +736,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-16**|**A Survey on Video Diffusion Models**|Zhen Xing et.al.|[2310.10647](http://arxiv.org/abs/2310.10647)|null|
+|**2023-10-16**|**LLM Blueprint: Enabling Text-to-Image Generation with Complex and Detailed Prompts**|Hanan Gani et.al.|[2310.10640](http://arxiv.org/abs/2310.10640)|null|
+|**2023-10-16**|**Zero-Shot Robotic Manipulation with Pretrained Image-Editing Diffusion Models**|Kevin Black et.al.|[2310.10639](http://arxiv.org/abs/2310.10639)|null|
+|**2023-10-16**|**ForceGen: End-to-end de novo protein generation based on nonlinear mechanical unfolding responses using a protein language diffusion model**|Bo Ni et.al.|[2310.10605](http://arxiv.org/abs/2310.10605)|null|
+|**2023-10-16**|**Generation or Replication: Auscultating Audio Latent Diffusion Models**|Dimitrios Bralios et.al.|[2310.10604](http://arxiv.org/abs/2310.10604)|null|
+|**2023-10-16**|**Model Selection of Anomaly Detectors in the Absence of Labeled Validation Data**|Clement Fung et.al.|[2310.10461](http://arxiv.org/abs/2310.10461)|null|
+|**2023-10-16**|**ConsistNet: Enforcing 3D Consistency for Multi-view Images Diffusion**|Jiayu Yang et.al.|[2310.10343](http://arxiv.org/abs/2310.10343)|null|
+|**2023-10-16**|**Scene Graph Conditioning in Latent Diffusion**|Frank Fundel et.al.|[2310.10338](http://arxiv.org/abs/2310.10338)|null|
+|**2023-10-16**|**Towards image compression with perfect realism at ultra-low bitrates**|Marlène Careil et.al.|[2310.10325](http://arxiv.org/abs/2310.10325)|null|
+|**2023-10-16**|**Self-supervised Fetal MRI 3D Reconstruction Based on Radiation Diffusion Generation Model**|Junpeng Tan et.al.|[2310.10209](http://arxiv.org/abs/2310.10209)|null|
+|**2023-10-16**|**Ring-A-Bell! How Reliable are Concept Removal Methods for Diffusion Models?**|Yu-Lin Tsai et.al.|[2310.10012](http://arxiv.org/abs/2310.10012)|null|
+|**2023-10-15**|**Unsupervised Discovery of Interpretable Directions in h-space of Pre-trained Diffusion Models**|Zijian Zhang et.al.|[2310.09912](http://arxiv.org/abs/2310.09912)|null|
+|**2023-10-15**|**Image Augmentation with Controlled Diffusion for Weakly-Supervised Semantic Segmentation**|Wangyu Wu et.al.|[2310.09760](http://arxiv.org/abs/2310.09760)|null|
+|**2023-10-15**|**LOVECon: Text-driven Training-Free Long Video Editing with ControlNet**|Zhenyi Liao et.al.|[2310.09711](http://arxiv.org/abs/2310.09711)|null|
+|**2023-10-14**|**Mixed-Type Tabular Data Synthesis with Score-based Diffusion in Latent Space**|Hengrui Zhang et.al.|[2310.09656](http://arxiv.org/abs/2310.09656)|null|
+|**2023-10-14**|**Adaptive Online Replanning with Diffusion Models**|Siyuan Zhou et.al.|[2310.09629](http://arxiv.org/abs/2310.09629)|null|
+|**2023-10-14**|**JSMoCo: Joint Coil Sensitivity and Motion Correction in Parallel MRI with a Self-Calibrating Score-Based Diffusion Model**|Lixuan Chen et.al.|[2310.09625](http://arxiv.org/abs/2310.09625)|null|
+|**2023-10-14**|**Neural Network for valuing Bitcoin options under jump-diffusion and market sentiment model**|Edson Pindza et.al.|[2310.09622](http://arxiv.org/abs/2310.09622)|null|
+|**2023-10-14**|**Unified High-binding Watermark for Unconditional Image Generation Models**|Ruinan Ma et.al.|[2310.09479](http://arxiv.org/abs/2310.09479)|null|
+|**2023-10-14**|**Towards More Accurate Diffusion Model Acceleration with A Timestep Aligner**|Mengfei Xia et.al.|[2310.09469](http://arxiv.org/abs/2310.09469)|null|
 |**2023-10-13**|**Unseen Image Synthesis with Diffusion Models**|Ye Zhu et.al.|[2310.09213](http://arxiv.org/abs/2310.09213)|null|
 |**2023-10-13**|**MINDE: Mutual Information Neural Diffusion Estimation**|Giulio Franzese et.al.|[2310.09031](http://arxiv.org/abs/2310.09031)|null|
 |**2023-10-13**|**Making Multimodal Generation Easier: When Diffusion Models Meet LLMs**|Xiangyu Zhao et.al.|[2310.08949](http://arxiv.org/abs/2310.08949)|**[link](https://github.com/zxy556677/easygen)**|
@@ -2171,6 +2198,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-16**|**Zero-Shot Robotic Manipulation with Pretrained Image-Editing Diffusion Models**|Kevin Black et.al.|[2310.10639](http://arxiv.org/abs/2310.10639)|null|
+|**2023-10-16**|**DynVideo-E: Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing**|Jia-Wei Liu et.al.|[2310.10624](http://arxiv.org/abs/2310.10624)|null|
+|**2023-10-16**|**Unifying Image Processing as Visual Prompting Question Answering**|Yihao Liu et.al.|[2310.10513](http://arxiv.org/abs/2310.10513)|null|
+|**2023-10-16**|**AutoDIR: Automatic All-in-One Image Restoration with Latent Diffusion**|Yitong Jiang et.al.|[2310.10123](http://arxiv.org/abs/2310.10123)|null|
+|**2023-10-15**|**ProteusNeRF: Fast Lightweight NeRF Editing using 3D-Aware Image Context**|Binglun Wang et.al.|[2310.09965](http://arxiv.org/abs/2310.09965)|null|
+|**2023-10-15**|**LOVECon: Text-driven Training-Free Long Video Editing with ControlNet**|Zhenyi Liao et.al.|[2310.09711](http://arxiv.org/abs/2310.09711)|null|
 |**2023-10-13**|**Image Cropping under Design Constraints**|Takumi Nishiyasu et.al.|[2310.08892](http://arxiv.org/abs/2310.08892)|null|
 |**2023-10-12**|**DeltaSpace: A Semantic-aligned Feature Space for Flexible Text-guided Image Editing**|Yueming Lyu et.al.|[2310.08785](http://arxiv.org/abs/2310.08785)|**[link](https://github.com/yueming6568/deltaedit)**|
 |**2023-10-12**|**Frequency-Aware Re-Parameterization for Over-Fitting Based Image Compression**|Yun Ye et.al.|[2310.08068](http://arxiv.org/abs/2310.08068)|null|
@@ -2477,6 +2510,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-15**|**CBARF: Cascaded Bundle-Adjusting Neural Radiance Fields from Imperfect Camera Poses**|Hongyu Fu et.al.|[2310.09776](http://arxiv.org/abs/2310.09776)|null|
 |**2023-10-13**|**PonderV2: Pave the Way for 3D Foundation Model with A Universal Pre-training Paradigm**|Haoyi Zhu et.al.|[2310.08586](http://arxiv.org/abs/2310.08586)|**[link](https://github.com/OpenGVLab/PonderV2)**|
 |**2023-10-09**|**Bi-directional Deformation for Parameterization of Neural Implicit Surfaces**|Baixin Xu et.al.|[2310.05524](http://arxiv.org/abs/2310.05524)|null|
 |**2023-10-06**|**ILSH: The Imperial Light-Stage Head Dataset for Human Head View Synthesis**|Jiali Zheng et.al.|[2310.03952](http://arxiv.org/abs/2310.03952)|null|
@@ -2761,6 +2795,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-16**|**Generalized rigidity, spectrum and tensor roots of measure-preserving transfomations**|Valery V. Ryzhikov et.al.|[2310.10370](http://arxiv.org/abs/2310.10370)|null|
 |**2023-10-02**|**Efficient Remote Sensing Segmentation With Generative Adversarial Transformer**|Luyi Qiu et.al.|[2310.01292](http://arxiv.org/abs/2310.01292)|null|
 |**2023-06-09**|**SERT: A Transfomer Based Model for Spatio-Temporal Sensor Data with Missing Values for Environmental Monitoring**|Amin Shoari Nejad et.al.|[2306.03042](http://arxiv.org/abs/2306.03042)|**[link](https://github.com/aminsn/sert2023)**|
 |**2023-05-20**|**Quantum simulation of lattice gauge theories via deterministic duality transformations assisted by measurements**|Hiroki Sukeno et.al.|[2305.12277](http://arxiv.org/abs/2305.12277)|null|

@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.17
+## Updated on 2023.10.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -45,7 +45,7 @@
 |**2022-11-21**|**Towards Live 3D Reconstruction from Wearable Video: An Evaluation of V-SLAM, NeRF, and Videogrammetry Techniques**|David Ramirez et.al.|[2211.11836](http://arxiv.org/abs/2211.11836)|null|
 |**2022-11-14**|**Controllable GAN Synthesis Using Non-Rigid Structure-from-Motion**|René Haas et.al.|[2211.07195](http://arxiv.org/abs/2211.07195)|null|
 
-<p align=right>(<a href=#Updated-on-20231017>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
 
 ## GAN
 
@@ -55,8 +55,8 @@
 |**2023-10-16**|**Style transfer between Microscopy and Magnetic Resonance Imaging via Generative Adversarial Network in small sample size settings**|Monika Pytlarz et.al.|[2310.10414](http://arxiv.org/abs/2310.10414)|null|
 |**2023-10-16**|**Impact of Data Synthesis Strategies for the Classification of Craniosynostosis**|Matthias Schaufelberger et.al.|[2310.10199](http://arxiv.org/abs/2310.10199)|null|
 |**2023-10-16**|**Outlier Detection Using Generative Models with Theoretical Performance Guarantees**|Jirong Yi et.al.|[2310.09999](http://arxiv.org/abs/2310.09999)|null|
-|**2023-10-15**|**Chinese Painting Style Transfer Using Deep Generative Models**|Weijian Ma et.al.|[2310.09978](http://arxiv.org/abs/2310.09978)|null|
-|**2023-10-15**|**LOVECon: Text-driven Training-Free Long Video Editing with ControlNet**|Zhenyi Liao et.al.|[2310.09711](http://arxiv.org/abs/2310.09711)|null|
+|**2023-10-15**|**Chinese Painting Style Transfer Using Deep Generative Models**|Weijian Ma et.al.|[2310.09978](http://arxiv.org/abs/2310.09978)|**[link](https://github.com/yanyangbaobeiisemma/chinsepaintingstyletransfer)**|
+|**2023-10-15**|**LOVECon: Text-driven Training-Free Long Video Editing with ControlNet**|Zhenyi Liao et.al.|[2310.09711](http://arxiv.org/abs/2310.09711)|**[link](https://github.com/zhijie-group/lovecon)**|
 |**2023-10-13**|**Efficient Apple Maturity and Damage Assessment: A Lightweight Detection Model with GAN and Attention Mechanism**|Yufei Liu et.al.|[2310.09347](http://arxiv.org/abs/2310.09347)|null|
 |**2023-10-13**|**Using cGANs for Anomaly Detection: Identifying Astronomical Anomalies in JWST NIRcam Imaging**|Ruby Pearce-Casey et.al.|[2310.09073](http://arxiv.org/abs/2310.09073)|null|
 |**2023-10-13**|**Generative AI-driven Semantic Communication Framework for NextG Wireless Network**|Avi Deb Raha et.al.|[2310.09021](http://arxiv.org/abs/2310.09021)|null|
@@ -744,27 +744,27 @@
 |**2023-03-14**|**3D Face Arbitrary Style Transfer**|Xiangwen Deng et.al.|[2303.07709](http://arxiv.org/abs/2303.07709)|null|
 |**2023-03-13**|**AGTGAN: Unpaired Image Translation for Photographic Ancient Character Generation**|Hongxiang Huang et.al.|[2303.07012](http://arxiv.org/abs/2303.07012)|**[link](https://github.com/hellomystery/agtgan)**|
 
-<p align=right>(<a href=#Updated-on-20231017>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
 
 ## Diffusion Model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-10-16**|**A Survey on Video Diffusion Models**|Zhen Xing et.al.|[2310.10647](http://arxiv.org/abs/2310.10647)|null|
-|**2023-10-16**|**LLM Blueprint: Enabling Text-to-Image Generation with Complex and Detailed Prompts**|Hanan Gani et.al.|[2310.10640](http://arxiv.org/abs/2310.10640)|null|
+|**2023-10-16**|**A Survey on Video Diffusion Models**|Zhen Xing et.al.|[2310.10647](http://arxiv.org/abs/2310.10647)|**[link](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models)**|
+|**2023-10-16**|**LLM Blueprint: Enabling Text-to-Image Generation with Complex and Detailed Prompts**|Hanan Gani et.al.|[2310.10640](http://arxiv.org/abs/2310.10640)|**[link](https://github.com/hananshafi/llmblueprint)**|
 |**2023-10-16**|**Zero-Shot Robotic Manipulation with Pretrained Image-Editing Diffusion Models**|Kevin Black et.al.|[2310.10639](http://arxiv.org/abs/2310.10639)|null|
 |**2023-10-16**|**ForceGen: End-to-end de novo protein generation based on nonlinear mechanical unfolding responses using a protein language diffusion model**|Bo Ni et.al.|[2310.10605](http://arxiv.org/abs/2310.10605)|null|
 |**2023-10-16**|**Generation or Replication: Auscultating Audio Latent Diffusion Models**|Dimitrios Bralios et.al.|[2310.10604](http://arxiv.org/abs/2310.10604)|null|
 |**2023-10-16**|**Model Selection of Anomaly Detectors in the Absence of Labeled Validation Data**|Clement Fung et.al.|[2310.10461](http://arxiv.org/abs/2310.10461)|null|
 |**2023-10-16**|**ConsistNet: Enforcing 3D Consistency for Multi-view Images Diffusion**|Jiayu Yang et.al.|[2310.10343](http://arxiv.org/abs/2310.10343)|null|
-|**2023-10-16**|**Scene Graph Conditioning in Latent Diffusion**|Frank Fundel et.al.|[2310.10338](http://arxiv.org/abs/2310.10338)|null|
+|**2023-10-16**|**Scene Graph Conditioning in Latent Diffusion**|Frank Fundel et.al.|[2310.10338](http://arxiv.org/abs/2310.10338)|**[link](https://github.com/frankfundel/sgcond)**|
 |**2023-10-16**|**Towards image compression with perfect realism at ultra-low bitrates**|Marlène Careil et.al.|[2310.10325](http://arxiv.org/abs/2310.10325)|null|
 |**2023-10-16**|**Self-supervised Fetal MRI 3D Reconstruction Based on Radiation Diffusion Generation Model**|Junpeng Tan et.al.|[2310.10209](http://arxiv.org/abs/2310.10209)|null|
 |**2023-10-16**|**Ring-A-Bell! How Reliable are Concept Removal Methods for Diffusion Models?**|Yu-Lin Tsai et.al.|[2310.10012](http://arxiv.org/abs/2310.10012)|null|
 |**2023-10-15**|**Unsupervised Discovery of Interpretable Directions in h-space of Pre-trained Diffusion Models**|Zijian Zhang et.al.|[2310.09912](http://arxiv.org/abs/2310.09912)|null|
 |**2023-10-15**|**Image Augmentation with Controlled Diffusion for Weakly-Supervised Semantic Segmentation**|Wangyu Wu et.al.|[2310.09760](http://arxiv.org/abs/2310.09760)|null|
-|**2023-10-15**|**LOVECon: Text-driven Training-Free Long Video Editing with ControlNet**|Zhenyi Liao et.al.|[2310.09711](http://arxiv.org/abs/2310.09711)|null|
-|**2023-10-14**|**Mixed-Type Tabular Data Synthesis with Score-based Diffusion in Latent Space**|Hengrui Zhang et.al.|[2310.09656](http://arxiv.org/abs/2310.09656)|null|
+|**2023-10-15**|**LOVECon: Text-driven Training-Free Long Video Editing with ControlNet**|Zhenyi Liao et.al.|[2310.09711](http://arxiv.org/abs/2310.09711)|**[link](https://github.com/zhijie-group/lovecon)**|
+|**2023-10-14**|**Mixed-Type Tabular Data Synthesis with Score-based Diffusion in Latent Space**|Hengrui Zhang et.al.|[2310.09656](http://arxiv.org/abs/2310.09656)|**[link](https://github.com/amazon-science/tabsyn)**|
 |**2023-10-14**|**Adaptive Online Replanning with Diffusion Models**|Siyuan Zhou et.al.|[2310.09629](http://arxiv.org/abs/2310.09629)|null|
 |**2023-10-14**|**JSMoCo: Joint Coil Sensitivity and Motion Correction in Parallel MRI with a Self-Calibrating Score-Based Diffusion Model**|Lixuan Chen et.al.|[2310.09625](http://arxiv.org/abs/2310.09625)|null|
 |**2023-10-14**|**Neural Network for valuing Bitcoin options under jump-diffusion and market sentiment model**|Edson Pindza et.al.|[2310.09622](http://arxiv.org/abs/2310.09622)|null|
@@ -2208,7 +2208,7 @@
 |**2023-03-15**|**DiffBEV: Conditional Diffusion Model for Bird's Eye View Perception**|Jiayu Zou et.al.|[2303.08333](http://arxiv.org/abs/2303.08333)|**[link](https://github.com/jiayuzou2020/diffbev)**|
 |**2023-03-16**|**VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation**|Zhengxiong Luo et.al.|[2303.08320](http://arxiv.org/abs/2303.08320)|null|
 
-<p align=right>(<a href=#Updated-on-20231017>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
 
 ## Image Edit
 
@@ -2217,9 +2217,9 @@
 |**2023-10-16**|**Zero-Shot Robotic Manipulation with Pretrained Image-Editing Diffusion Models**|Kevin Black et.al.|[2310.10639](http://arxiv.org/abs/2310.10639)|null|
 |**2023-10-16**|**DynVideo-E: Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing**|Jia-Wei Liu et.al.|[2310.10624](http://arxiv.org/abs/2310.10624)|null|
 |**2023-10-16**|**Unifying Image Processing as Visual Prompting Question Answering**|Yihao Liu et.al.|[2310.10513](http://arxiv.org/abs/2310.10513)|null|
-|**2023-10-16**|**AutoDIR: Automatic All-in-One Image Restoration with Latent Diffusion**|Yitong Jiang et.al.|[2310.10123](http://arxiv.org/abs/2310.10123)|null|
+|**2023-10-17**|**AutoDIR: Automatic All-in-One Image Restoration with Latent Diffusion**|Yitong Jiang et.al.|[2310.10123](http://arxiv.org/abs/2310.10123)|null|
 |**2023-10-15**|**ProteusNeRF: Fast Lightweight NeRF Editing using 3D-Aware Image Context**|Binglun Wang et.al.|[2310.09965](http://arxiv.org/abs/2310.09965)|null|
-|**2023-10-15**|**LOVECon: Text-driven Training-Free Long Video Editing with ControlNet**|Zhenyi Liao et.al.|[2310.09711](http://arxiv.org/abs/2310.09711)|null|
+|**2023-10-15**|**LOVECon: Text-driven Training-Free Long Video Editing with ControlNet**|Zhenyi Liao et.al.|[2310.09711](http://arxiv.org/abs/2310.09711)|**[link](https://github.com/zhijie-group/lovecon)**|
 |**2023-10-13**|**Image Cropping under Design Constraints**|Takumi Nishiyasu et.al.|[2310.08892](http://arxiv.org/abs/2310.08892)|null|
 |**2023-10-12**|**DeltaSpace: A Semantic-aligned Feature Space for Flexible Text-guided Image Editing**|Yueming Lyu et.al.|[2310.08785](http://arxiv.org/abs/2310.08785)|**[link](https://github.com/yueming6568/deltaedit)**|
 |**2023-10-12**|**Frequency-Aware Re-Parameterization for Over-Fitting Based Image Compression**|Yun Ye et.al.|[2310.08068](http://arxiv.org/abs/2310.08068)|null|
@@ -2231,7 +2231,7 @@
 |**2023-10-04**|**Deformation-Invariant Neural Network and Its Applications in Distorted Image Restoration and Analysis**|Han Zhang et.al.|[2310.02641](http://arxiv.org/abs/2310.02641)|null|
 |**2023-10-03**|**EditVal: Benchmarking Diffusion Based Text-Guided Image Editing Methods**|Samyadeep Basu et.al.|[2310.02426](http://arxiv.org/abs/2310.02426)|null|
 |**2023-10-03**|**Leveraging Classic Deconvolution and Feature Extraction in Zero-Shot Image Restoration**|Tomáš Chobola et.al.|[2310.02097](http://arxiv.org/abs/2310.02097)|**[link](https://github.com/ctom2/cider)**|
-|**2023-10-02**|**ImagenHub: Standardizing the evaluation of conditional image generation models**|Max Ku et.al.|[2310.01596](http://arxiv.org/abs/2310.01596)|null|
+|**2023-10-17**|**ImagenHub: Standardizing the evaluation of conditional image generation models**|Max Ku et.al.|[2310.01596](http://arxiv.org/abs/2310.01596)|null|
 |**2023-10-02**|**Direct Inversion: Boosting Diffusion-based Editing with 3 Lines of Code**|Xuan Ju et.al.|[2310.01506](http://arxiv.org/abs/2310.01506)|**[link](https://github.com/cure-lab/directinversion)**|
 |**2023-10-02**|**Conditional Diffusion Distillation**|Kangfu Mei et.al.|[2310.01407](http://arxiv.org/abs/2310.01407)|null|
 |**2023-10-02**|**Sequential Data Generation with Groupwise Diffusion Process**|Sangyun Lee et.al.|[2310.01400](http://arxiv.org/abs/2310.01400)|null|
@@ -2522,7 +2522,7 @@
 |**2023-02-20**|**A Large Scale Homography Benchmark**|Daniel Barath et.al.|[2302.09997](http://arxiv.org/abs/2302.09997)|null|
 |**2023-02-19**|**LC-NeRF: Local Controllable Face Generation in Neural Randiance Field**|Wenyang Zhou et.al.|[2302.09486](http://arxiv.org/abs/2302.09486)|null|
 
-<p align=right>(<a href=#Updated-on-20231017>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
 
 ## NeRF
 
@@ -2638,7 +2638,7 @@
 |**2022-12-30**|**NeRF-Gaze: A Head-Eye Redirection Parametric Model for Gaze Estimation**|Pengwei Yin et.al.|[2212.14710](http://arxiv.org/abs/2212.14710)|null|
 |**2023-03-21**|**Masked Wavelet Representation for Compact Neural Radiance Fields**|Daniel Rho et.al.|[2212.09069](http://arxiv.org/abs/2212.09069)|**[link](https://github.com/daniel03c1/masked_wavelet_nerf)**|
 
-<p align=right>(<a href=#Updated-on-20231017>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
 
 ## Reshaping
 
@@ -2677,12 +2677,13 @@
 |**2022-05-13**|**F3A-GAN: Facial Flow for Face Animation with Generative Adversarial Networks**|Xintian Wu et.al.|[2205.06204](http://arxiv.org/abs/2205.06204)|null|
 |**2022-03-16**|**Efficient conditioned face animation using frontally-viewed embedding**|Maxime Oquab et.al.|[2203.08765](http://arxiv.org/abs/2203.08765)|null|
 
-<p align=right>(<a href=#Updated-on-20231017>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
 
 ## Portrait 
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-15**|**Chinese Painting Style Transfer Using Deep Generative Models**|Weijian Ma et.al.|[2310.09978](http://arxiv.org/abs/2310.09978)|**[link](https://github.com/yanyangbaobeiisemma/chinsepaintingstyletransfer)**|
 |**2023-10-16**|**SegLoc: Novel Visual Self-supervised Learning Scheme for Dense Prediction Tasks of Security Inspection X-ray Images**|Shervin Halat et.al.|[2310.08421](http://arxiv.org/abs/2310.08421)|null|
 |**2023-10-12**|**Dual properties of dense quark matter with color superconductivity phenomenon**|T. G. Khunjua et.al.|[2310.08211](http://arxiv.org/abs/2310.08211)|null|
 |**2023-10-07**|**EasyPhoto: Your Smart AI Photo Generator**|Ziheng Wu et.al.|[2310.04672](http://arxiv.org/abs/2310.04672)|**[link](https://github.com/aigc-apps/sd-webui-EasyPhoto)**|
@@ -2813,7 +2814,7 @@
 |**2023-03-01**|**DPE: Disentanglement of Pose and Expression for General Video Portrait Editing**|Youxin Pang et.al.|[2301.06281](http://arxiv.org/abs/2301.06281)|null|
 |**2023-01-03**|**StyleTalk: One-shot Talking Head Generation with Controllable Speaking Styles**|Yifeng Ma et.al.|[2301.01081](http://arxiv.org/abs/2301.01081)|**[link](https://github.com/fuxivirtualhuman/styletalk)**|
 
-<p align=right>(<a href=#Updated-on-20231017>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
 
 ## Transfomer
 
@@ -2846,5 +2847,5 @@
 |**2012-01-21**|**Interior Static Stellar Model with Electric Charge as an Oscillator**|A. M. Baranov et.al.|[1201.4429](http://arxiv.org/abs/1201.4429)|null|
 |**2011-05-16**|**Exactness of the Euclidean algorithm and of the Rauzy induction on the space of interval exchange transfomations**|Tomasz Miernowski et.al.|[1104.3980](http://arxiv.org/abs/1104.3980)|null|
 
-<p align=right>(<a href=#Updated-on-20231017>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
 

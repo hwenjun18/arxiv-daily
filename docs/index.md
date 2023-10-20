@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.19
+## Updated on 2023.10.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -50,13 +50,13 @@ layout: default
 |**2023-10-17**|**Chinese Painting Style Transfer Using Deep Generative Models**|Weijian Ma et.al.|[2310.09978](http://arxiv.org/abs/2310.09978)|**[link](https://github.com/yanyangbaobeiisemma/chinsepaintingstyletransfer)**|
 |**2023-10-15**|**LOVECon: Text-driven Training-Free Long Video Editing with ControlNet**|Zhenyi Liao et.al.|[2310.09711](http://arxiv.org/abs/2310.09711)|**[link](https://github.com/zhijie-group/lovecon)**|
 |**2023-10-13**|**Efficient Apple Maturity and Damage Assessment: A Lightweight Detection Model with GAN and Attention Mechanism**|Yufei Liu et.al.|[2310.09347](http://arxiv.org/abs/2310.09347)|null|
-|**2023-10-13**|**Using cGANs for Anomaly Detection: Identifying Astronomical Anomalies in JWST NIRcam Imaging**|Ruby Pearce-Casey et.al.|[2310.09073](http://arxiv.org/abs/2310.09073)|null|
+|**2023-10-13**|**Using cGANs for Anomaly Detection: Identifying Astronomical Anomalies in JWST NIRcam Imaging**|Ruby Pearce-Casey et.al.|[2310.09073](http://arxiv.org/abs/2310.09073)|**[link](https://github.com/rubypc/anomaly_detection_with_cgans)**|
 |**2023-10-13**|**Generative AI-driven Semantic Communication Framework for NextG Wireless Network**|Avi Deb Raha et.al.|[2310.09021](http://arxiv.org/abs/2310.09021)|null|
 |**2023-10-13**|**A Framework for Few-Shot Policy Transfer through Observation Mapping and Behavior Cloning**|Yash Shukla et.al.|[2310.08836](http://arxiv.org/abs/2310.08836)|**[link](https://github.com/shukla-yash/few-shot-policy-transfer)**|
 |**2023-10-12**|**A Benchmarking Protocol for SAR Colorization: From Regression to Deep Learning Approaches**|Kangqing Shen et.al.|[2310.08705](http://arxiv.org/abs/2310.08705)|null|
 |**2023-10-13**|**Worst-Case Morphs using Wasserstein ALI and Improved MIPGAN**|Una M. Kelly et.al.|[2310.08371](http://arxiv.org/abs/2310.08371)|null|
 |**2023-10-12**|**CleftGAN: Adapting A Style-Based Generative Adversarial Network To Create Images Depicting Cleft Lip Deformity**|Abdullah Hayajneh et.al.|[2310.07969](http://arxiv.org/abs/2310.07969)|null|
-|**2023-10-11**|**Revolutionising inverse design of magnesium alloys through generative adversarial networks**|Marzie Ghorbani et.al.|[2310.07836](http://arxiv.org/abs/2310.07836)|null|
+|**2023-10-18**|**Revolutionising inverse design of magnesium alloys through generative adversarial networks**|Marzie Ghorbani et.al.|[2310.07836](http://arxiv.org/abs/2310.07836)|null|
 |**2023-10-11**|**Does resistance to Style-Transfer equal Shape Bias? Evaluating Shape Bias by Distorted Shape**|Ziqi Wen et.al.|[2310.07555](http://arxiv.org/abs/2310.07555)|null|
 |**2023-10-14**|**Synthesizing Missing MRI Sequences from Available Modalities using Generative Adversarial Networks in BraTS Dataset**|Ibrahim Ethem Hamamci et.al.|[2310.07250](http://arxiv.org/abs/2310.07250)|null|
 |**2023-10-12**|**Vec-Tok Speech: speech vectorization and tokenization for neural speech generation**|Xinfa Zhu et.al.|[2310.07246](http://arxiv.org/abs/2310.07246)|**[link](https://github.com/bakerbunker/vectok)**|
@@ -751,11 +751,11 @@ layout: default
 |**2023-10-18**|**On the Evaluation of Generative Models in Distributed Learning Tasks**|Zixiao Wang et.al.|[2310.11714](http://arxiv.org/abs/2310.11714)|null|
 |**2023-10-17**|**Reflection-Equivariant Diffusion for 3D Structure Determination from Isotopologue Rotational Spectra in Natural Abundance**|Austin Cheng et.al.|[2310.11609](http://arxiv.org/abs/2310.11609)|**[link](https://github.com/aspuru-guzik-group/kreed)**|
 |**2023-10-17**|**GenEval: An Object-Focused Framework for Evaluating Text-to-Image Alignment**|Dhruba Ghosh et.al.|[2310.11513](http://arxiv.org/abs/2310.11513)|**[link](https://github.com/djghosh13/geneval)**|
-|**2023-10-17**|**Elucidating The Design Space of Classifier-Guided Diffusion Generation**|Jiajun Ma et.al.|[2310.11311](http://arxiv.org/abs/2310.11311)|null|
+|**2023-10-17**|**Elucidating The Design Space of Classifier-Guided Diffusion Generation**|Jiajun Ma et.al.|[2310.11311](http://arxiv.org/abs/2310.11311)|**[link](https://github.com/alexmaols/elucd)**|
 |**2023-10-17**|**BayesDiff: Estimating Pixel-wise Uncertainty in Diffusion via Bayesian Inference**|Siqi Kou et.al.|[2310.11142](http://arxiv.org/abs/2310.11142)|null|
 |**2023-10-17**|**3D Structure-guided Network for Tooth Alignment in 2D Photograph**|Yulong Dou et.al.|[2310.11106](http://arxiv.org/abs/2310.11106)|**[link](https://github.com/douyl/2DToothAlignment)**|
-|**2023-10-16**|**LAMP: Learn A Motion Pattern for Few-Shot-Based Video Generation**|Ruiqi Wu et.al.|[2310.10769](http://arxiv.org/abs/2310.10769)|null|
-|**2023-10-16**|**BiomedJourney: Counterfactual Biomedical Image Generation by Instruction-Learning from Multimodal Patient Journeys**|Yu Gu et.al.|[2310.10765](http://arxiv.org/abs/2310.10765)|null|
+|**2023-10-16**|**LAMP: Learn A Motion Pattern for Few-Shot-Based Video Generation**|Ruiqi Wu et.al.|[2310.10769](http://arxiv.org/abs/2310.10769)|**[link](https://github.com/RQ-Wu/LAMP)**|
+|**2023-10-18**|**BiomedJourney: Counterfactual Biomedical Image Generation by Instruction-Learning from Multimodal Patient Journeys**|Yu Gu et.al.|[2310.10765](http://arxiv.org/abs/2310.10765)|null|
 |**2023-10-16**|**MOFDiff: Coarse-grained Diffusion for Metal-Organic Framework Design**|Xiang Fu et.al.|[2310.10732](http://arxiv.org/abs/2310.10732)|null|
 |**2023-10-15**|**Enhancing ML model accuracy for Digital VLSI circuits using diffusion models: A study on synthetic data generation**|Prasha Srivastava et.al.|[2310.10691](http://arxiv.org/abs/2310.10691)|null|
 |**2023-10-16**|**A Survey on Video Diffusion Models**|Zhen Xing et.al.|[2310.10647](http://arxiv.org/abs/2310.10647)|**[link](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models)**|
@@ -2222,7 +2222,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-18**|**Object-aware Inversion and Reassembly for Image Editing**|Zhen Yang et.al.|[2310.12149](http://arxiv.org/abs/2310.12149)|null|
 |**2023-10-18**|**A Comparative Study of Image Restoration Networks for General Backbone Network Design**|Xiangyu Chen et.al.|[2310.11881](http://arxiv.org/abs/2310.11881)|null|
-|**2023-10-16**|**BiomedJourney: Counterfactual Biomedical Image Generation by Instruction-Learning from Multimodal Patient Journeys**|Yu Gu et.al.|[2310.10765](http://arxiv.org/abs/2310.10765)|null|
+|**2023-10-18**|**BiomedJourney: Counterfactual Biomedical Image Generation by Instruction-Learning from Multimodal Patient Journeys**|Yu Gu et.al.|[2310.10765](http://arxiv.org/abs/2310.10765)|null|
 |**2023-10-16**|**Zero-Shot Robotic Manipulation with Pretrained Image-Editing Diffusion Models**|Kevin Black et.al.|[2310.10639](http://arxiv.org/abs/2310.10639)|null|
 |**2023-10-16**|**DynVideo-E: Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing**|Jia-Wei Liu et.al.|[2310.10624](http://arxiv.org/abs/2310.10624)|null|
 |**2023-10-16**|**Unifying Image Processing as Visual Prompting Question Answering**|Yihao Liu et.al.|[2310.10513](http://arxiv.org/abs/2310.10513)|null|

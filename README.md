@@ -59,7 +59,7 @@
 |**2023-10-17**|**A High Fidelity and Low Complexity Neural Audio Coding**|Wenzhe Liu et.al.|[2310.10992](http://arxiv.org/abs/2310.10992)|null|
 |**2023-10-16**|**DynVideo-E: Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing**|Jia-Wei Liu et.al.|[2310.10624](http://arxiv.org/abs/2310.10624)|null|
 |**2023-10-16**|**Style transfer between Microscopy and Magnetic Resonance Imaging via Generative Adversarial Network in small sample size settings**|Monika Pytlarz et.al.|[2310.10414](http://arxiv.org/abs/2310.10414)|null|
-|**2023-10-16**|**Impact of Data Synthesis Strategies for the Classification of Craniosynostosis**|Matthias Schaufelberger et.al.|[2310.10199](http://arxiv.org/abs/2310.10199)|null|
+|**2023-10-16**|**Impact of Data Synthesis Strategies for the Classification of Craniosynostosis**|Matthias Schaufelberger et.al.|[2310.10199](http://arxiv.org/abs/2310.10199)|**[link](https://github.com/kit-ibt/craniosource-gan-pca-ssm)**|
 |**2023-10-16**|**Outlier Detection Using Generative Models with Theoretical Performance Guarantees**|Jirong Yi et.al.|[2310.09999](http://arxiv.org/abs/2310.09999)|null|
 |**2023-10-17**|**Chinese Painting Style Transfer Using Deep Generative Models**|Weijian Ma et.al.|[2310.09978](http://arxiv.org/abs/2310.09978)|**[link](https://github.com/yanyangbaobeiisemma/chinsepaintingstyletransfer)**|
 |**2023-10-15**|**LOVECon: Text-driven Training-Free Long Video Editing with ControlNet**|Zhenyi Liao et.al.|[2310.09711](http://arxiv.org/abs/2310.09711)|**[link](https://github.com/zhijie-group/lovecon)**|

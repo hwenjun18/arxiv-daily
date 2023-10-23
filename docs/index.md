@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.22
+## Updated on 2023.10.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -753,11 +753,11 @@ layout: default
 |**2023-10-19**|**Closed-Form Diffusion Models**|Christopher Scarvelis et.al.|[2310.12395](http://arxiv.org/abs/2310.12395)|null|
 |**2023-10-18**|**DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors**|Jinbo Xing et.al.|[2310.12190](http://arxiv.org/abs/2310.12190)|**[link](https://github.com/ailab-cvc/videocrafter)**|
 |**2023-10-18**|**Quality Diversity through Human Feedback**|Li Ding et.al.|[2310.12103](http://arxiv.org/abs/2310.12103)|null|
-|**2023-10-18**|**Image Super-resolution Via Latent Diffusion: A Sampling-space Mixture Of Experts And Frequency-augmented Decoder Approach**|Feng Luo et.al.|[2310.12004](http://arxiv.org/abs/2310.12004)|null|
+|**2023-10-20**|**Image Super-resolution Via Latent Diffusion: A Sampling-space Mixture Of Experts And Frequency-augmented Decoder Approach**|Feng Luo et.al.|[2310.12004](http://arxiv.org/abs/2310.12004)|null|
 |**2023-10-18**|**Bayesian Flow Networks in Continual Learning**|Mateusz Pyla et.al.|[2310.12001](http://arxiv.org/abs/2310.12001)|null|
 |**2023-10-18**|**InfoDiffusion: Information Entropy Aware Diffusion Process for Non-Autoregressive Text Generation**|Renzhi Wang et.al.|[2310.11976](http://arxiv.org/abs/2310.11976)|**[link](https://github.com/rzhwang/infodiffusion)**|
 |**2023-10-18**|**To Generate or Not? Safety-Driven Unlearned Diffusion Models Are Still Easy To Generate Unsafe Images ... For Now**|Yimeng Zhang et.al.|[2310.11868](http://arxiv.org/abs/2310.11868)|**[link](https://github.com/optml-group/diffusion-mu-attack)**|
-|**2023-10-18**|**Equivariant Bootstrapping for Uncertainty Quantification in Imaging Inverse Problems**|Julian Tachella et.al.|[2310.11838](http://arxiv.org/abs/2310.11838)|**[link](https://github.com/tachella/equivariant_bootstrap)**|
+|**2023-10-20**|**Equivariant Bootstrapping for Uncertainty Quantification in Imaging Inverse Problems**|Julian Tachella et.al.|[2310.11838](http://arxiv.org/abs/2310.11838)|**[link](https://github.com/tachella/equivariant_bootstrap)**|
 |**2023-10-18**|**Progressive3D: Progressively Local Editing for Text-to-3D Content Creation with Complex Semantic Prompts**|Xinhua Cheng et.al.|[2310.11784](http://arxiv.org/abs/2310.11784)|null|
 |**2023-10-18**|**Language Agents for Detecting Implicit Stereotypes in Text-to-image Models at Scale**|Qichao Wang et.al.|[2310.11778](http://arxiv.org/abs/2310.11778)|null|
 |**2023-10-18**|**On the Evaluation of Generative Models in Distributed Learning Tasks**|Zixiao Wang et.al.|[2310.11714](http://arxiv.org/abs/2310.11714)|null|

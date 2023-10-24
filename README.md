@@ -51,6 +51,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-23**|**Prefix-Tuning Based Unsupervised Text Style Transfer**|Huiyu Mai et.al.|[2310.14599](http://arxiv.org/abs/2310.14599)|null|
+|**2023-10-23**|**Diversify Question Generation with Retrieval-Augmented Style Transfer**|Qi Gou et.al.|[2310.14503](http://arxiv.org/abs/2310.14503)|**[link](https://github.com/gouqi666/rast)**|
+|**2023-10-23**|**Text Fact Transfer**|Nishant Balepur et.al.|[2310.14486](http://arxiv.org/abs/2310.14486)|**[link](https://github.com/nbalepur/text-fact-transfer)**|
+|**2023-10-22**|**Diffusion-Model-Assisted Supervised Learning of Generative Models for Density Estimation**|Yanfang Liu et.al.|[2310.14458](http://arxiv.org/abs/2310.14458)|null|
+|**2023-10-21**|**Fast Diffusion GAN Model for Symbolic Music Generation Controlled by Emotions**|Jincheng Zhang et.al.|[2310.14040](http://arxiv.org/abs/2310.14040)|null|
 |**2023-10-23**|**Boosting Generalization with Adaptive Style Techniques for Fingerprint Liveness Detection**|Kexin Zhu et.al.|[2310.13573](http://arxiv.org/abs/2310.13573)|null|
 |**2023-10-20**|**Stable Nonconvex-Nonconcave Training via Linear Interpolation**|Thomas Pethick et.al.|[2310.13459](http://arxiv.org/abs/2310.13459)|null|
 |**2023-10-19**|**A Distributed Approach to Meteorological Predictions: Addressing Data Imbalance in Precipitation Prediction Models through Federated Learning and GANs**|Elaheh Jafarigol et.al.|[2310.13161](http://arxiv.org/abs/2310.13161)|null|
@@ -759,6 +764,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-23**|**FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling**|Haonan Qiu et.al.|[2310.15169](http://arxiv.org/abs/2310.15169)|null|
+|**2023-10-23**|**Matryoshka Diffusion Models**|Jiatao Gu et.al.|[2310.15111](http://arxiv.org/abs/2310.15111)|null|
+|**2023-10-23**|**Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model**|Ruoxi Shi et.al.|[2310.15110](http://arxiv.org/abs/2310.15110)|**[link](https://github.com/sudo-ai-3d/zero123plus)**|
+|**2023-10-23**|**Wonder3D: Single Image to 3D using Cross-Domain Diffusion**|Xiaoxiao Long et.al.|[2310.15008](http://arxiv.org/abs/2310.15008)|null|
+|**2023-10-23**|**Orientation-Aware Leg Movement Learning for Action-Driven Human Motion Prediction**|Chunzhi Gu et.al.|[2310.14907](http://arxiv.org/abs/2310.14907)|null|
+|**2023-10-23**|**Joint Non-Linear MRI Inversion with Diffusion Priors**|Moritz Erlacher et.al.|[2310.14842](http://arxiv.org/abs/2310.14842)|null|
+|**2023-10-23**|**MAS: Multi-view Ancestral Sampling for 3D motion generation using 2D diffusion**|Roy Kapon et.al.|[2310.14729](http://arxiv.org/abs/2310.14729)|null|
+|**2023-10-23**|**$Λ$ -Split: A Privacy-Preserving Split Computing Framework for Cloud-Powered Generative AI**|Shoki Ohta et.al.|[2310.14651](http://arxiv.org/abs/2310.14651)|**[link](https://github.com/nishio-laboratory/lambda_split)**|
+|**2023-10-23**|**DICE: Diverse Diffusion Model with Scoring for Trajectory Prediction**|Younwoo Choi et.al.|[2310.14570](http://arxiv.org/abs/2310.14570)|null|
+|**2023-10-22**|**Diffusion-Model-Assisted Supervised Learning of Generative Models for Density Estimation**|Yanfang Liu et.al.|[2310.14458](http://arxiv.org/abs/2310.14458)|null|
+|**2023-10-22**|**Diffusion-based Data Augmentation for Nuclei Image Segmentation**|Xinyi Yu et.al.|[2310.14197](http://arxiv.org/abs/2310.14197)|**[link](https://github.com/lhaof/nudiff)**|
+|**2023-10-22**|**Improved Techniques for Training Consistency Models**|Yang Song et.al.|[2310.14189](http://arxiv.org/abs/2310.14189)|null|
+|**2023-10-21**|**Composer Style-specific Symbolic Music Generation Using Vector Quantized Discrete Diffusion Models**|Jincheng Zhang et.al.|[2310.14044](http://arxiv.org/abs/2310.14044)|null|
+|**2023-10-21**|**Fast Diffusion GAN Model for Symbolic Music Generation Controlled by Emotions**|Jincheng Zhang et.al.|[2310.14040](http://arxiv.org/abs/2310.14040)|null|
+|**2023-10-21**|**Cold Diffusion on the Replay Buffer: Learning to Plan from Known Good States**|Zidan Wang et.al.|[2310.13914](http://arxiv.org/abs/2310.13914)|null|
+|**2023-10-20**|**GraphMaker: Can Diffusion Models Generate Large Attributed Graphs?**|Mufei Li et.al.|[2310.13833](http://arxiv.org/abs/2310.13833)|**[link](https://github.com/graph-com/graphmaker)**|
+|**2023-10-20**|**TexFusion: Synthesizing 3D Textures with Text-Guided Image Diffusion Models**|Tianshi Cao et.al.|[2310.13772](http://arxiv.org/abs/2310.13772)|null|
+|**2023-10-20**|**Localizing and Editing Knowledge in Text-to-Image Generative Models**|Samyadeep Basu et.al.|[2310.13730](http://arxiv.org/abs/2310.13730)|null|
 |**2023-10-20**|**ScaleLong: Towards More Stable Training of Diffusion Model via Scaling Network Long Skip Connection**|Zhongzhan Huang et.al.|[2310.13545](http://arxiv.org/abs/2310.13545)|**[link](https://github.com/sail-sg/scalelong)**|
 |**2023-10-19**|**CycleNet: Rethinking Cycle Consistency in Text-Guided Diffusion for Image Manipulation**|Sihan Xu et.al.|[2310.13165](http://arxiv.org/abs/2310.13165)|**[link](https://github.com/sled-group/cyclenet)**|
 |**2023-10-19**|**Conditional Generative Modeling for Images, 3D Animations, and Video**|Vikram Voleti et.al.|[2310.13157](http://arxiv.org/abs/2310.13157)|null|
@@ -2690,6 +2713,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-21**|**Learning Motion Refinement for Unsupervised Face Animation**|Jiale Tao et.al.|[2310.13912](http://arxiv.org/abs/2310.13912)|**[link](https://github.com/jialetao/mrfa)**|
 |**2023-08-23**|**DF-3DFace: One-to-Many Speech Synchronized 3D Face Animation with Diffusion**|Se Jin Park et.al.|[2310.05934](http://arxiv.org/abs/2310.05934)|null|
 |**2023-08-11**|**Versatile Face Animator: Driving Arbitrary 3D Facial Avatar in RGBD Space**|Haoyu Wang et.al.|[2308.06076](http://arxiv.org/abs/2308.06076)|**[link](https://github.com/why986/VFA)**|
 |**2023-08-10**|**Speech-Driven 3D Face Animation with Composite and Regional Facial Movements**|Haozhe Wu et.al.|[2308.05428](http://arxiv.org/abs/2308.05428)|**[link](https://github.com/wuhaozhe/audio2face_mm2023)**|
@@ -2729,6 +2753,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-23**|**Constraining the cosmological model of modified $f(Q)$ gravity: Phantom dark energy and observational insights**|M. Koussour et.al.|[2310.15067](http://arxiv.org/abs/2310.15067)|null|
+|**2023-10-22**|**Invariant circles and phase portraits of cubic vector fields on the sphere**|Joji Benny et.al.|[2310.14238](http://arxiv.org/abs/2310.14238)|null|
 |**2023-10-20**|**A portrait of the Vast Polar Structure as a young phenomenon: hints from its member satellites**|S. Taibi et.al.|[2310.13521](http://arxiv.org/abs/2310.13521)|null|
 |**2023-10-18**|**Emergence and criticality in spatiotemporal synchronization: the complementarity model**|Alessandro Scirè et.al.|[2310.12018](http://arxiv.org/abs/2310.12018)|null|
 |**2023-10-17**|**Chinese Painting Style Transfer Using Deep Generative Models**|Weijian Ma et.al.|[2310.09978](http://arxiv.org/abs/2310.09978)|**[link](https://github.com/yanyangbaobeiisemma/chinsepaintingstyletransfer)**|

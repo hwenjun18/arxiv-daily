@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.24
+## Updated on 2023.10.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -44,7 +44,7 @@ layout: default
 |**2023-10-23**|**Text Fact Transfer**|Nishant Balepur et.al.|[2310.14486](http://arxiv.org/abs/2310.14486)|**[link](https://github.com/nbalepur/text-fact-transfer)**|
 |**2023-10-22**|**Diffusion-Model-Assisted Supervised Learning of Generative Models for Density Estimation**|Yanfang Liu et.al.|[2310.14458](http://arxiv.org/abs/2310.14458)|null|
 |**2023-10-21**|**Fast Diffusion GAN Model for Symbolic Music Generation Controlled by Emotions**|Jincheng Zhang et.al.|[2310.14040](http://arxiv.org/abs/2310.14040)|null|
-|**2023-10-23**|**Boosting Generalization with Adaptive Style Techniques for Fingerprint Liveness Detection**|Kexin Zhu et.al.|[2310.13573](http://arxiv.org/abs/2310.13573)|null|
+|**2023-10-24**|**Boosting Generalization with Adaptive Style Techniques for Fingerprint Liveness Detection**|Kexin Zhu et.al.|[2310.13573](http://arxiv.org/abs/2310.13573)|null|
 |**2023-10-20**|**Stable Nonconvex-Nonconcave Training via Linear Interpolation**|Thomas Pethick et.al.|[2310.13459](http://arxiv.org/abs/2310.13459)|null|
 |**2023-10-19**|**A Distributed Approach to Meteorological Predictions: Addressing Data Imbalance in Precipitation Prediction Models through Federated Learning and GANs**|Elaheh Jafarigol et.al.|[2310.13161](http://arxiv.org/abs/2310.13161)|null|
 |**2023-10-19**|**Audio Editing with Non-Rigid Text Prompts**|Francesco Paissan et.al.|[2310.12858](http://arxiv.org/abs/2310.12858)|null|
@@ -753,7 +753,7 @@ layout: default
 |**2023-10-23**|**FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling**|Haonan Qiu et.al.|[2310.15169](http://arxiv.org/abs/2310.15169)|null|
 |**2023-10-23**|**Matryoshka Diffusion Models**|Jiatao Gu et.al.|[2310.15111](http://arxiv.org/abs/2310.15111)|null|
 |**2023-10-23**|**Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model**|Ruoxi Shi et.al.|[2310.15110](http://arxiv.org/abs/2310.15110)|**[link](https://github.com/sudo-ai-3d/zero123plus)**|
-|**2023-10-23**|**Wonder3D: Single Image to 3D using Cross-Domain Diffusion**|Xiaoxiao Long et.al.|[2310.15008](http://arxiv.org/abs/2310.15008)|null|
+|**2023-10-24**|**Wonder3D: Single Image to 3D using Cross-Domain Diffusion**|Xiaoxiao Long et.al.|[2310.15008](http://arxiv.org/abs/2310.15008)|null|
 |**2023-10-23**|**Orientation-Aware Leg Movement Learning for Action-Driven Human Motion Prediction**|Chunzhi Gu et.al.|[2310.14907](http://arxiv.org/abs/2310.14907)|null|
 |**2023-10-23**|**Joint Non-Linear MRI Inversion with Diffusion Priors**|Moritz Erlacher et.al.|[2310.14842](http://arxiv.org/abs/2310.14842)|null|
 |**2023-10-23**|**MAS: Multi-view Ancestral Sampling for 3D motion generation using 2D diffusion**|Roy Kapon et.al.|[2310.14729](http://arxiv.org/abs/2310.14729)|null|

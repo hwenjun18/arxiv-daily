@@ -39,6 +39,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-24**|**Nighttime Thermal Infrared Image Colorization with Feedback-based Object Appearance Learning**|Fu-Ya Luo et.al.|[2310.15688](http://arxiv.org/abs/2310.15688)|**[link](https://github.com/fuyaluo/foalgan)**|
+|**2023-10-24**|**Region-controlled Style Transfer**|Junjie Kang et.al.|[2310.15658](http://arxiv.org/abs/2310.15658)|null|
+|**2023-10-24**|**Mean Teacher DETR with Masked Feature Alignment: A Robust Domain Adaptive Detection Transformer Framework**|Weixi Weng et.al.|[2310.15646](http://arxiv.org/abs/2310.15646)|null|
+|**2023-10-24**|**PET Synthesis via Self-supervised Adaptive Residual Estimation Generative Adversarial Network**|Yuxin Xue et.al.|[2310.15550](http://arxiv.org/abs/2310.15550)|null|
+|**2023-10-23**|**Error analysis of generative adversarial network**|Mahmud Hasan et.al.|[2310.15387](http://arxiv.org/abs/2310.15387)|null|
 |**2023-10-23**|**Prefix-Tuning Based Unsupervised Text Style Transfer**|Huiyu Mai et.al.|[2310.14599](http://arxiv.org/abs/2310.14599)|null|
 |**2023-10-23**|**Diversify Question Generation with Retrieval-Augmented Style Transfer**|Qi Gou et.al.|[2310.14503](http://arxiv.org/abs/2310.14503)|**[link](https://github.com/gouqi666/rast)**|
 |**2023-10-23**|**Text Fact Transfer**|Nishant Balepur et.al.|[2310.14486](http://arxiv.org/abs/2310.14486)|**[link](https://github.com/nbalepur/text-fact-transfer)**|
@@ -750,7 +755,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-23**|**FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling**|Haonan Qiu et.al.|[2310.15169](http://arxiv.org/abs/2310.15169)|null|
+|**2023-10-24**|**Improving Robustness and Reliability in Medical Image Classification with Latent-Guided Diffusion and Nested-Ensembles**|Xing Shen et.al.|[2310.15952](http://arxiv.org/abs/2310.15952)|null|
+|**2023-10-24**|**Language-driven Scene Synthesis using Multi-conditional Diffusion Model**|An Vuong et.al.|[2310.15948](http://arxiv.org/abs/2310.15948)|null|
+|**2023-10-24**|**A Comparative Study of Variational Autoencoders, Normalizing Flows, and Score-based Diffusion Models for Electrical Impedance Tomography**|Huihui Wang et.al.|[2310.15831](http://arxiv.org/abs/2310.15831)|null|
+|**2023-10-24**|**Discriminator Guidance for Autoregressive Diffusion Models**|Filip Ekström Kelvinius et.al.|[2310.15817](http://arxiv.org/abs/2310.15817)|null|
+|**2023-10-24**|**Good Better Best: Self-Motivated Imitation Learning for noisy Demonstrations**|Ye Yuan et.al.|[2310.15815](http://arxiv.org/abs/2310.15815)|null|
+|**2023-10-24**|**Improving Diffusion Models for ECG Imputation with an Augmented Template Prior**|Alexander Jenkins et.al.|[2310.15742](http://arxiv.org/abs/2310.15742)|null|
+|**2023-10-24**|**Semantic-preserving image coding based on Conditional Diffusion models**|Francesco Pezone et.al.|[2310.15737](http://arxiv.org/abs/2310.15737)|null|
+|**2023-10-24**|**Robust Methods for Multiscale Coarse Approximations of Diffusion Models in Perforated Domains**|Miranda Boutilier et.al.|[2310.15669](http://arxiv.org/abs/2310.15669)|null|
+|**2023-10-24**|**ScanDL: A Diffusion Model for Generating Synthetic Scanpaths on Texts**|Lena S. Bolliger et.al.|[2310.15587](http://arxiv.org/abs/2310.15587)|**[link](https://github.com/dili-lab/scandl)**|
+|**2023-10-24**|**On the Inherent Privacy Properties of Discrete Denoising Diffusion Models**|Rongzhe Wei et.al.|[2310.15524](http://arxiv.org/abs/2310.15524)|null|
+|**2023-10-24**|**AutoDiff: combining Auto-encoder and Diffusion model for tabular data synthesizing**|Namjoon Suh et.al.|[2310.15479](http://arxiv.org/abs/2310.15479)|null|
+|**2023-10-23**|**Fast and Reliable Generation of EHR Time Series via Diffusion Models**|Muhang Tian et.al.|[2310.15290](http://arxiv.org/abs/2310.15290)|null|
+|**2023-10-23**|**SyncFusion: Multimodal Onset-synchronized Video-to-Audio Foley Synthesis**|Marco Comunità et.al.|[2310.15247](http://arxiv.org/abs/2310.15247)|null|
+|**2023-10-23**|**FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling**|Haonan Qiu et.al.|[2310.15169](http://arxiv.org/abs/2310.15169)|**[link](https://github.com/arthur-qiu/longercrafter)**|
 |**2023-10-23**|**Matryoshka Diffusion Models**|Jiatao Gu et.al.|[2310.15111](http://arxiv.org/abs/2310.15111)|null|
 |**2023-10-23**|**Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model**|Ruoxi Shi et.al.|[2310.15110](http://arxiv.org/abs/2310.15110)|**[link](https://github.com/sudo-ai-3d/zero123plus)**|
 |**2023-10-24**|**Wonder3D: Single Image to 3D using Cross-Domain Diffusion**|Xiaoxiao Long et.al.|[2310.15008](http://arxiv.org/abs/2310.15008)|null|
@@ -2262,6 +2280,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-24**|**From Posterior Sampling to Meaningful Diversity in Image Restoration**|Noa Cohen et.al.|[2310.16047](http://arxiv.org/abs/2310.16047)|null|
+|**2023-10-24**|**Integrating View Conditions for Image Synthesis**|Jinbin Bai et.al.|[2310.16002](http://arxiv.org/abs/2310.16002)|**[link](https://github.com/viiika/viewcontrol)**|
 |**2023-10-19**|**Neural Degradation Representation Learning for All-In-One Image Restoration**|Mingde Yao et.al.|[2310.12848](http://arxiv.org/abs/2310.12848)|null|
 |**2023-10-18**|**Object-aware Inversion and Reassembly for Image Editing**|Zhen Yang et.al.|[2310.12149](http://arxiv.org/abs/2310.12149)|null|
 |**2023-10-18**|**A Comparative Study of Image Restoration Networks for General Backbone Network Design**|Xiangyu Chen et.al.|[2310.11881](http://arxiv.org/abs/2310.11881)|null|

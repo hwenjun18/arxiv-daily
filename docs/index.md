@@ -39,6 +39,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-25**|**Using Diffusion Models to Generate Synthetic Labelled Data for Medical Image Segmentation**|Daniel Saragih et.al.|[2310.16794](http://arxiv.org/abs/2310.16794)|null|
+|**2023-10-25**|**Interferometric Neural Networks**|Arun Sehrawat et.al.|[2310.16742](http://arxiv.org/abs/2310.16742)|**[link](https://github.com/arunsehrawat/interferometric-neural-networks)**|
+|**2023-10-25**|**GADY: Unsupervised Anomaly Detection on Dynamic Graphs**|Shiqi Lou et.al.|[2310.16376](http://arxiv.org/abs/2310.16376)|null|
+|**2023-10-25**|**AccoMontage-3: Full-Band Accompaniment Arrangement via Sequential Style Transfer and Multi-Track Function Prior**|Jingwei Zhao et.al.|[2310.16334](http://arxiv.org/abs/2310.16334)|**[link](https://github.com/zhaojw1998/accomontage-3)**|
 |**2023-10-24**|**Nighttime Thermal Infrared Image Colorization with Feedback-based Object Appearance Learning**|Fu-Ya Luo et.al.|[2310.15688](http://arxiv.org/abs/2310.15688)|**[link](https://github.com/fuyaluo/foalgan)**|
 |**2023-10-24**|**Region-controlled Style Transfer**|Junjie Kang et.al.|[2310.15658](http://arxiv.org/abs/2310.15658)|null|
 |**2023-10-24**|**Mean Teacher DETR with Masked Feature Alignment: A Robust Domain Adaptive Detection Transformer Framework**|Weixi Weng et.al.|[2310.15646](http://arxiv.org/abs/2310.15646)|null|
@@ -755,6 +759,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-25**|**Discrete Diffusion Language Modeling by Estimating the Ratios of the Data Distribution**|Aaron Lou et.al.|[2310.16834](http://arxiv.org/abs/2310.16834)|null|
+|**2023-10-25**|**PERF: Panoramic Neural Radiance Field from a Single Panorama**|Guangcong Wang et.al.|[2310.16831](http://arxiv.org/abs/2310.16831)|null|
+|**2023-10-25**|**CommonCanvas: An Open Diffusion Model Trained with Creative-Commons Images**|Aaron Gokaslan et.al.|[2310.16825](http://arxiv.org/abs/2310.16825)|**[link](https://github.com/mosaicml/diffusion)**|
+|**2023-10-25**|**DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior**|Jingxiang Sun et.al.|[2310.16818](http://arxiv.org/abs/2310.16818)|**[link](https://github.com/deepseek-ai/dreamcraft3d)**|
+|**2023-10-25**|**Using Diffusion Models to Generate Synthetic Labelled Data for Medical Image Segmentation**|Daniel Saragih et.al.|[2310.16794](http://arxiv.org/abs/2310.16794)|null|
+|**2023-10-25**|**Multi-scale Diffusion Denoised Smoothing**|Jongheon Jeong et.al.|[2310.16779](http://arxiv.org/abs/2310.16779)|null|
+|**2023-10-25**|**Local Statistics for Generative Image Detection**|Yung Jer Wong et.al.|[2310.16684](http://arxiv.org/abs/2310.16684)|null|
+|**2023-10-25**|**A Picture is Worth a Thousand Words: Principled Recaptioning Improves Image Generation**|Eyal Segalis et.al.|[2310.16656](http://arxiv.org/abs/2310.16656)|null|
+|**2023-10-25**|**Constraining the slow-diffusion zone size and electron injection spectral index for the Geminga pulsar halo**|Kun Fang et.al.|[2310.16594](http://arxiv.org/abs/2310.16594)|null|
+|**2023-10-25**|**Adapt Anything: Tailor Any Image Classifiers across Domains And Categories Using Text-to-Image Diffusion Models**|Weijie Chen et.al.|[2310.16573](http://arxiv.org/abs/2310.16573)|null|
+|**2023-10-25**|**Open Knowledge Base Canonicalization with Multi-task Unlearning**|Bingchen Liu et.al.|[2310.16419](http://arxiv.org/abs/2310.16419)|null|
+|**2023-10-25**|**Fuse Your Latents: Video Editing with Multi-source Latent Diffusion Models**|Tianyi Lu et.al.|[2310.16400](http://arxiv.org/abs/2310.16400)|null|
+|**2023-10-25**|**DiffRef3D: A Diffusion-based Proposal Refinement Framework for 3D Object Detection**|Se-Ho Kim et.al.|[2310.16349](http://arxiv.org/abs/2310.16349)|null|
+|**2023-10-25**|**Diffusion model approach to simulating electron-proton scattering events**|Peter Devlin et.al.|[2310.16308](http://arxiv.org/abs/2310.16308)|null|
+|**2023-10-25**|**Dolfin: Diffusion Layout Transformers without Autoencoder**|Yilin Wang et.al.|[2310.16305](http://arxiv.org/abs/2310.16305)|null|
+|**2023-10-25**|**Removing Dust from CMB Observations with Diffusion Models**|David Heurtel-Depeiges et.al.|[2310.16285](http://arxiv.org/abs/2310.16285)|null|
+|**2023-10-24**|**iNVS: Repurposing Diffusion Inpainters for Novel View Synthesis**|Yash Kant et.al.|[2310.16167](http://arxiv.org/abs/2310.16167)|null|
+|**2023-10-24**|**RePoseDM: Recurrent Pose Alignment and Gradient Guidance for Pose Guided Image Synthesis**|Anant Khandelwal et.al.|[2310.16074](http://arxiv.org/abs/2310.16074)|null|
 |**2023-10-25**|**Improving Robustness and Reliability in Medical Image Classification with Latent-Guided Diffusion and Nested-Ensembles**|Xing Shen et.al.|[2310.15952](http://arxiv.org/abs/2310.15952)|null|
 |**2023-10-24**|**Language-driven Scene Synthesis using Multi-conditional Diffusion Model**|An Vuong et.al.|[2310.15948](http://arxiv.org/abs/2310.15948)|**[link](https://github.com/andvg3/LSDM)**|
 |**2023-10-24**|**A Comparative Study of Variational Autoencoders, Normalizing Flows, and Score-based Diffusion Models for Electrical Impedance Tomography**|Huihui Wang et.al.|[2310.15831](http://arxiv.org/abs/2310.15831)|null|
@@ -2280,6 +2302,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-25**|**Fuse Your Latents: Video Editing with Multi-source Latent Diffusion Models**|Tianyi Lu et.al.|[2310.16400](http://arxiv.org/abs/2310.16400)|null|
 |**2023-10-24**|**From Posterior Sampling to Meaningful Diversity in Image Restoration**|Noa Cohen et.al.|[2310.16047](http://arxiv.org/abs/2310.16047)|null|
 |**2023-10-24**|**Integrating View Conditions for Image Synthesis**|Jinbin Bai et.al.|[2310.16002](http://arxiv.org/abs/2310.16002)|**[link](https://github.com/viiika/viewcontrol)**|
 |**2023-10-19**|**Neural Degradation Representation Learning for All-In-One Image Restoration**|Mingde Yao et.al.|[2310.12848](http://arxiv.org/abs/2310.12848)|null|
@@ -2598,6 +2621,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-25**|**UAV-Sim: NeRF-based Synthetic Data Generation for UAV-based Perception**|Christopher Maxey et.al.|[2310.16255](http://arxiv.org/abs/2310.16255)|null|
 |**2023-10-20**|**UE4-NeRF:Neural Radiance Field for Real-Time Rendering of Large-Scale Scene**|Jiaming Gu et.al.|[2310.13263](http://arxiv.org/abs/2310.13263)|null|
 |**2023-10-15**|**CBARF: Cascaded Bundle-Adjusting Neural Radiance Fields from Imperfect Camera Poses**|Hongyu Fu et.al.|[2310.09776](http://arxiv.org/abs/2310.09776)|null|
 |**2023-10-13**|**PonderV2: Pave the Way for 3D Foundation Model with A Universal Pre-training Paradigm**|Haoyi Zhu et.al.|[2310.08586](http://arxiv.org/abs/2310.08586)|**[link](https://github.com/OpenGVLab/PonderV2)**|
@@ -2751,6 +2775,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-24**|**Physical Properties of 5,000 Cool LMC Supergiants with Gaia XP Spectra: A Detailed Portrait of the Upper HR Diagram Hints at Missing Supernova Progenitors**|Trevor Z. Dorn-Wallenstein et.al.|[2310.16088](http://arxiv.org/abs/2310.16088)|null|
 |**2023-10-23**|**Constraining the cosmological model of modified $f(Q)$ gravity: Phantom dark energy and observational insights**|M. Koussour et.al.|[2310.15067](http://arxiv.org/abs/2310.15067)|null|
 |**2023-10-22**|**Invariant circles and phase portraits of cubic vector fields on the sphere**|Joji Benny et.al.|[2310.14238](http://arxiv.org/abs/2310.14238)|null|
 |**2023-10-20**|**A portrait of the Vast Polar Structure as a young phenomenon: hints from its member satellites**|S. Taibi et.al.|[2310.13521](http://arxiv.org/abs/2310.13521)|null|

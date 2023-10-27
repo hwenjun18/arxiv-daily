@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.26
+## Updated on 2023.10.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -45,7 +45,7 @@
 |**2022-11-21**|**Towards Live 3D Reconstruction from Wearable Video: An Evaluation of V-SLAM, NeRF, and Videogrammetry Techniques**|David Ramirez et.al.|[2211.11836](http://arxiv.org/abs/2211.11836)|null|
 |**2022-11-14**|**Controllable GAN Synthesis Using Non-Rigid Structure-from-Motion**|René Haas et.al.|[2211.07195](http://arxiv.org/abs/2211.07195)|null|
 
-<p align=right>(<a href=#Updated-on-20231026>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231027>back to top</a>)</p>
 
 ## GAN
 
@@ -767,7 +767,7 @@
 |**2023-03-14**|**3D Face Arbitrary Style Transfer**|Xiangwen Deng et.al.|[2303.07709](http://arxiv.org/abs/2303.07709)|null|
 |**2023-03-13**|**AGTGAN: Unpaired Image Translation for Photographic Ancient Character Generation**|Hongxiang Huang et.al.|[2303.07012](http://arxiv.org/abs/2303.07012)|**[link](https://github.com/hellomystery/agtgan)**|
 
-<p align=right>(<a href=#Updated-on-20231026>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231027>back to top</a>)</p>
 
 ## Diffusion Model
 
@@ -776,9 +776,9 @@
 |**2023-10-25**|**Discrete Diffusion Language Modeling by Estimating the Ratios of the Data Distribution**|Aaron Lou et.al.|[2310.16834](http://arxiv.org/abs/2310.16834)|null|
 |**2023-10-25**|**PERF: Panoramic Neural Radiance Field from a Single Panorama**|Guangcong Wang et.al.|[2310.16831](http://arxiv.org/abs/2310.16831)|null|
 |**2023-10-25**|**CommonCanvas: An Open Diffusion Model Trained with Creative-Commons Images**|Aaron Gokaslan et.al.|[2310.16825](http://arxiv.org/abs/2310.16825)|**[link](https://github.com/mosaicml/diffusion)**|
-|**2023-10-25**|**DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior**|Jingxiang Sun et.al.|[2310.16818](http://arxiv.org/abs/2310.16818)|**[link](https://github.com/deepseek-ai/dreamcraft3d)**|
+|**2023-10-26**|**DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior**|Jingxiang Sun et.al.|[2310.16818](http://arxiv.org/abs/2310.16818)|**[link](https://github.com/deepseek-ai/dreamcraft3d)**|
 |**2023-10-25**|**Using Diffusion Models to Generate Synthetic Labelled Data for Medical Image Segmentation**|Daniel Saragih et.al.|[2310.16794](http://arxiv.org/abs/2310.16794)|null|
-|**2023-10-25**|**Multi-scale Diffusion Denoised Smoothing**|Jongheon Jeong et.al.|[2310.16779](http://arxiv.org/abs/2310.16779)|null|
+|**2023-10-26**|**Multi-scale Diffusion Denoised Smoothing**|Jongheon Jeong et.al.|[2310.16779](http://arxiv.org/abs/2310.16779)|null|
 |**2023-10-25**|**Local Statistics for Generative Image Detection**|Yung Jer Wong et.al.|[2310.16684](http://arxiv.org/abs/2310.16684)|null|
 |**2023-10-25**|**A Picture is Worth a Thousand Words: Principled Recaptioning Improves Image Generation**|Eyal Segalis et.al.|[2310.16656](http://arxiv.org/abs/2310.16656)|null|
 |**2023-10-25**|**Constraining the slow-diffusion zone size and electron injection spectral index for the Geminga pulsar halo**|Kun Fang et.al.|[2310.16594](http://arxiv.org/abs/2310.16594)|null|
@@ -2312,7 +2312,7 @@
 |**2023-03-15**|**DiffBEV: Conditional Diffusion Model for Bird's Eye View Perception**|Jiayu Zou et.al.|[2303.08333](http://arxiv.org/abs/2303.08333)|**[link](https://github.com/jiayuzou2020/diffbev)**|
 |**2023-03-16**|**VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation**|Zhengxiong Luo et.al.|[2303.08320](http://arxiv.org/abs/2303.08320)|null|
 
-<p align=right>(<a href=#Updated-on-20231026>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231027>back to top</a>)</p>
 
 ## Image Edit
 
@@ -2320,7 +2320,7 @@
 |---|---|---|---|---|
 |**2023-10-25**|**Fuse Your Latents: Video Editing with Multi-source Latent Diffusion Models**|Tianyi Lu et.al.|[2310.16400](http://arxiv.org/abs/2310.16400)|null|
 |**2023-10-24**|**From Posterior Sampling to Meaningful Diversity in Image Restoration**|Noa Cohen et.al.|[2310.16047](http://arxiv.org/abs/2310.16047)|null|
-|**2023-10-24**|**Integrating View Conditions for Image Synthesis**|Jinbin Bai et.al.|[2310.16002](http://arxiv.org/abs/2310.16002)|**[link](https://github.com/viiika/viewcontrol)**|
+|**2023-10-26**|**Integrating View Conditions for Image Synthesis**|Jinbin Bai et.al.|[2310.16002](http://arxiv.org/abs/2310.16002)|**[link](https://github.com/viiika/viewcontrol)**|
 |**2023-10-19**|**Neural Degradation Representation Learning for All-In-One Image Restoration**|Mingde Yao et.al.|[2310.12848](http://arxiv.org/abs/2310.12848)|null|
 |**2023-10-18**|**Object-aware Inversion and Reassembly for Image Editing**|Zhen Yang et.al.|[2310.12149](http://arxiv.org/abs/2310.12149)|null|
 |**2023-10-18**|**A Comparative Study of Image Restoration Networks for General Backbone Network Design**|Xiangyu Chen et.al.|[2310.11881](http://arxiv.org/abs/2310.11881)|null|
@@ -2633,7 +2633,7 @@
 |**2023-02-20**|**A Large Scale Homography Benchmark**|Daniel Barath et.al.|[2302.09997](http://arxiv.org/abs/2302.09997)|null|
 |**2023-02-19**|**LC-NeRF: Local Controllable Face Generation in Neural Randiance Field**|Wenyang Zhou et.al.|[2302.09486](http://arxiv.org/abs/2302.09486)|null|
 
-<p align=right>(<a href=#Updated-on-20231026>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231027>back to top</a>)</p>
 
 ## NeRF
 
@@ -2658,7 +2658,7 @@
 |**2023-08-19**|**Semantic-Human: Neural Rendering of Humans from Monocular Video with Human Parsing**|Jie Zhang et.al.|[2308.09894](http://arxiv.org/abs/2308.09894)|null|
 |**2023-08-18**|**HumanLiff: Layer-wise 3D Human Generation with Diffusion Model**|Shoukang Hu et.al.|[2308.09712](http://arxiv.org/abs/2308.09712)|null|
 |**2023-08-07**|**Explicifying Neural Implicit Fields for Efficient Dynamic Human Avatar Modeling via a Neural Explicit Surface**|Ruiqi Zhang et.al.|[2308.05112](http://arxiv.org/abs/2308.05112)|null|
-|**2023-08-09**|**WaveNeRF: Wavelet-based Generalizable Neural Radiance Fields**|Muyu Xu et.al.|[2308.04826](http://arxiv.org/abs/2308.04826)|null|
+|**2023-10-26**|**WaveNeRF: Wavelet-based Generalizable Neural Radiance Fields**|Muyu Xu et.al.|[2308.04826](http://arxiv.org/abs/2308.04826)|null|
 |**2023-08-08**|**Rendering Humans from Object-Occluded Monocular Videos**|Tiange Xiang et.al.|[2308.04622](http://arxiv.org/abs/2308.04622)|null|
 |**2023-08-07**|**Mirror-NeRF: Learning Neural Radiance Fields for Mirrors with Whitted-Style Ray Tracing**|Junyi Zeng et.al.|[2308.03280](http://arxiv.org/abs/2308.03280)|null|
 |**2023-09-20**|**Context-Aware Talking-Head Video Editing**|Songlin Yang et.al.|[2308.00462](http://arxiv.org/abs/2308.00462)|null|
@@ -2751,7 +2751,7 @@
 |**2022-12-30**|**NeRF-Gaze: A Head-Eye Redirection Parametric Model for Gaze Estimation**|Pengwei Yin et.al.|[2212.14710](http://arxiv.org/abs/2212.14710)|null|
 |**2023-03-21**|**Masked Wavelet Representation for Compact Neural Radiance Fields**|Daniel Rho et.al.|[2212.09069](http://arxiv.org/abs/2212.09069)|**[link](https://github.com/daniel03c1/masked_wavelet_nerf)**|
 
-<p align=right>(<a href=#Updated-on-20231026>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231027>back to top</a>)</p>
 
 ## Reshaping
 
@@ -2791,7 +2791,7 @@
 |**2022-05-13**|**F3A-GAN: Facial Flow for Face Animation with Generative Adversarial Networks**|Xintian Wu et.al.|[2205.06204](http://arxiv.org/abs/2205.06204)|null|
 |**2022-03-16**|**Efficient conditioned face animation using frontally-viewed embedding**|Maxime Oquab et.al.|[2203.08765](http://arxiv.org/abs/2203.08765)|null|
 
-<p align=right>(<a href=#Updated-on-20231026>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231027>back to top</a>)</p>
 
 ## Portrait 
 
@@ -2933,7 +2933,7 @@
 |**2023-03-01**|**DPE: Disentanglement of Pose and Expression for General Video Portrait Editing**|Youxin Pang et.al.|[2301.06281](http://arxiv.org/abs/2301.06281)|null|
 |**2023-01-03**|**StyleTalk: One-shot Talking Head Generation with Controllable Speaking Styles**|Yifeng Ma et.al.|[2301.01081](http://arxiv.org/abs/2301.01081)|**[link](https://github.com/fuxivirtualhuman/styletalk)**|
 
-<p align=right>(<a href=#Updated-on-20231026>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231027>back to top</a>)</p>
 
 ## Transfomer
 
@@ -2966,5 +2966,5 @@
 |**2012-01-21**|**Interior Static Stellar Model with Electric Charge as an Oscillator**|A. M. Baranov et.al.|[1201.4429](http://arxiv.org/abs/1201.4429)|null|
 |**2011-05-16**|**Exactness of the Euclidean algorithm and of the Rauzy induction on the space of interval exchange transfomations**|Tomasz Miernowski et.al.|[1104.3980](http://arxiv.org/abs/1104.3980)|null|
 
-<p align=right>(<a href=#Updated-on-20231026>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231027>back to top</a>)</p>
 

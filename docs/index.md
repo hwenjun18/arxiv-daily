@@ -39,6 +39,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-26**|**Three-dimensional Bone Image Synthesis with Generative Adversarial Networks**|Christoph Angermann et.al.|[2310.17216](http://arxiv.org/abs/2310.17216)|null|
+|**2023-10-26**|**Content-based Controls For Music Large Language Modeling**|Liwei Lin et.al.|[2310.17162](http://arxiv.org/abs/2310.17162)|null|
+|**2023-10-26**|**Single channel speech enhancement by colored spectrograms**|Sania Gul et.al.|[2310.17142](http://arxiv.org/abs/2310.17142)|null|
+|**2023-10-26**|**Neural style transfer of weak lensing mass maps**|Masato Shirasaki et.al.|[2310.17141](http://arxiv.org/abs/2310.17141)|null|
+|**2023-10-26**|**Detecting stealthy cyberattacks on adaptive cruise control vehicles: A machine learning approach**|Tianyi Li et.al.|[2310.17091](http://arxiv.org/abs/2310.17091)|null|
 |**2023-10-25**|**Using Diffusion Models to Generate Synthetic Labelled Data for Medical Image Segmentation**|Daniel Saragih et.al.|[2310.16794](http://arxiv.org/abs/2310.16794)|null|
 |**2023-10-25**|**Interferometric Neural Networks**|Arun Sehrawat et.al.|[2310.16742](http://arxiv.org/abs/2310.16742)|**[link](https://github.com/arunsehrawat/interferometric-neural-networks)**|
 |**2023-10-25**|**GADY: Unsupervised Anomaly Detection on Dynamic Graphs**|Shiqi Lou et.al.|[2310.16376](http://arxiv.org/abs/2310.16376)|null|
@@ -759,8 +764,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-26**|**6-DoF Stability Field via Diffusion Models**|Takuma Yoneda et.al.|[2310.17649](http://arxiv.org/abs/2310.17649)|null|
+|**2023-10-26**|**Generative Fractional Diffusion Models**|Gabriel Nobis et.al.|[2310.17638](http://arxiv.org/abs/2310.17638)|null|
+|**2023-10-26**|**Noise-Free Score Distillation**|Oren Katzir et.al.|[2310.17590](http://arxiv.org/abs/2310.17590)|null|
+|**2023-10-26**|**Convergence of flow-based generative models via proximal gradient descent in Wasserstein space**|Xiuyuan Cheng et.al.|[2310.17582](http://arxiv.org/abs/2310.17582)|null|
+|**2023-10-26**|**Global Structure-Aware Diffusion Process for Low-Light Image Enhancement**|Jinhui Hou et.al.|[2310.17577](http://arxiv.org/abs/2310.17577)|**[link](https://github.com/jinnh/GSAD)**|
+|**2023-10-26**|**DiffS2UT: A Semantic Preserving Diffusion Model for Textless Direct Speech-to-Speech Translation**|Yongxin Zhu et.al.|[2310.17570](http://arxiv.org/abs/2310.17570)|null|
+|**2023-10-26**|**SD4Match: Learning to Prompt Stable Diffusion Model for Semantic Matching**|Xinghui Li et.al.|[2310.17569](http://arxiv.org/abs/2310.17569)|null|
+|**2023-10-26**|**The Expressive Power of Low-Rank Adaptation**|Yuchen Zeng et.al.|[2310.17513](http://arxiv.org/abs/2310.17513)|**[link](https://github.com/uw-madison-lee-lab/expressive_power_of_lora)**|
+|**2023-10-26**|**The statistical thermodynamics of generative diffusion models**|Luca Ambrogioni et.al.|[2310.17467](http://arxiv.org/abs/2310.17467)|null|
+|**2023-10-26**|**Likelihood-based Out-of-Distribution Detection with Denoising Diffusion Probabilistic Models**|Joseph Goodier et.al.|[2310.17432](http://arxiv.org/abs/2310.17432)|null|
+|**2023-10-26**|**Causal Modeling with Stationary Diffusions**|Lars Lorch et.al.|[2310.17405](http://arxiv.org/abs/2310.17405)|null|
+|**2023-10-26**|**Towards Unifying Diffusion Models for Probabilistic Spatio-Temporal Graph Learning**|Junfeng Hu et.al.|[2310.17360](http://arxiv.org/abs/2310.17360)|null|
+|**2023-10-26**|**SE(3) Diffusion Model-based Point Cloud Registration for Robust 6D Object Pose Estimation**|Haobo Jiang et.al.|[2310.17359](http://arxiv.org/abs/2310.17359)|null|
+|**2023-10-26**|**CADS: Unleashing the Diversity of Diffusion Models through Condition-Annealed Sampling**|Seyedmorteza Sadat et.al.|[2310.17347](http://arxiv.org/abs/2310.17347)|null|
+|**2023-10-26**|**Attribute Based Interpretable Evaluation Metrics for Generative Models**|Dongkyun Kim et.al.|[2310.17261](http://arxiv.org/abs/2310.17261)|null|
+|**2023-10-26**|**Exploring Iterative Refinement with Diffusion Models for Video Grounding**|Xiao Liang et.al.|[2310.17189](http://arxiv.org/abs/2310.17189)|**[link](https://github.com/mastervito/diffusionvg)**|
+|**2023-10-26**|**Improving Denoising Diffusion Models via Simultaneous Estimation of Image and Noise**|Zhenkai Zhang et.al.|[2310.17167](http://arxiv.org/abs/2310.17167)|null|
+|**2023-10-26**|**Hierarchical Semi-Implicit Variational Inference with Application to Diffusion Model Acceleration**|Longlin Yu et.al.|[2310.17153](http://arxiv.org/abs/2310.17153)|null|
 |**2023-10-25**|**Discrete Diffusion Language Modeling by Estimating the Ratios of the Data Distribution**|Aaron Lou et.al.|[2310.16834](http://arxiv.org/abs/2310.16834)|null|
-|**2023-10-25**|**PERF: Panoramic Neural Radiance Field from a Single Panorama**|Guangcong Wang et.al.|[2310.16831](http://arxiv.org/abs/2310.16831)|null|
+|**2023-10-25**|**PERF: Panoramic Neural Radiance Field from a Single Panorama**|Guangcong Wang et.al.|[2310.16831](http://arxiv.org/abs/2310.16831)|**[link](https://github.com/perf-project/PeRF)**|
 |**2023-10-25**|**CommonCanvas: An Open Diffusion Model Trained with Creative-Commons Images**|Aaron Gokaslan et.al.|[2310.16825](http://arxiv.org/abs/2310.16825)|**[link](https://github.com/mosaicml/diffusion)**|
 |**2023-10-26**|**DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior**|Jingxiang Sun et.al.|[2310.16818](http://arxiv.org/abs/2310.16818)|**[link](https://github.com/deepseek-ai/dreamcraft3d)**|
 |**2023-10-25**|**Using Diffusion Models to Generate Synthetic Labelled Data for Medical Image Segmentation**|Daniel Saragih et.al.|[2310.16794](http://arxiv.org/abs/2310.16794)|null|
@@ -2302,6 +2325,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-26**|**AntifakePrompt: Prompt-Tuned Vision-Language Models are Fake Image Detectors**|You-Ming Chang et.al.|[2310.17419](http://arxiv.org/abs/2310.17419)|null|
 |**2023-10-25**|**Fuse Your Latents: Video Editing with Multi-source Latent Diffusion Models**|Tianyi Lu et.al.|[2310.16400](http://arxiv.org/abs/2310.16400)|null|
 |**2023-10-24**|**From Posterior Sampling to Meaningful Diversity in Image Restoration**|Noa Cohen et.al.|[2310.16047](http://arxiv.org/abs/2310.16047)|null|
 |**2023-10-26**|**Integrating View Conditions for Image Synthesis**|Jinbin Bai et.al.|[2310.16002](http://arxiv.org/abs/2310.16002)|**[link](https://github.com/viiika/viewcontrol)**|
@@ -2775,6 +2799,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-26**|**Virtual Accessory Try-On via Keypoint Hallucination**|Junhong Gou et.al.|[2310.17131](http://arxiv.org/abs/2310.17131)|null|
 |**2023-10-24**|**Physical Properties of 5,000 Cool LMC Supergiants with Gaia XP Spectra: A Detailed Portrait of the Upper HR Diagram Hints at Missing Supernova Progenitors**|Trevor Z. Dorn-Wallenstein et.al.|[2310.16088](http://arxiv.org/abs/2310.16088)|null|
 |**2023-10-23**|**Constraining the cosmological model of modified $f(Q)$ gravity: Phantom dark energy and observational insights**|M. Koussour et.al.|[2310.15067](http://arxiv.org/abs/2310.15067)|null|
 |**2023-10-22**|**Invariant circles and phase portraits of cubic vector fields on the sphere**|Joji Benny et.al.|[2310.14238](http://arxiv.org/abs/2310.14238)|null|

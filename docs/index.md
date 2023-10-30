@@ -39,6 +39,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-27**|**Addressing GAN Training Instabilities via Tunable Classification Losses**|Monica Welfert et.al.|[2310.18291](http://arxiv.org/abs/2310.18291)|null|
+|**2023-10-27**|**PlantPlotGAN: A Physics-Informed Generative Adversarial Network for Plant Disease Prediction**|Felipe A. Lopes et.al.|[2310.18268](http://arxiv.org/abs/2310.18268)|null|
+|**2023-10-26**|**MIM-GAN-based Anomaly Detection for Multivariate Time Series Data**|Shan Lu et.al.|[2310.18257](http://arxiv.org/abs/2310.18257)|**[link](https://github.com/explorerlu1024/mimad-gan)**|
+|**2023-10-27**|**Generative AI Model for Artistic Style Transfer Using Convolutional Neural Networks**|Jonayet Miah et.al.|[2310.18237](http://arxiv.org/abs/2310.18237)|null|
+|**2023-10-27**|**Adversarial Anomaly Detection using Gaussian Priors and Nonlinear Anomaly Scores**|Fiete Lüer et.al.|[2310.18091](http://arxiv.org/abs/2310.18091)|**[link](https://github.com/emundo/ecgan)**|
+|**2023-10-27**|**Towards optimal multimode fiber imaging by leveraging input polarization and conditional generative adversarial networks**|Jawaria Maqbool et.al.|[2310.17889](http://arxiv.org/abs/2310.17889)|null|
+|**2023-10-24**|**Bayesian imaging inverse problem with SA-Roundtrip prior via HMC-pCN sampler**|Jiayu Qian et.al.|[2310.17817](http://arxiv.org/abs/2310.17817)|**[link](https://github.com/qjy415417122/sa-roundtrip)**|
+|**2023-10-26**|**Counterfactual Fairness for Predictions using Generative Adversarial Networks**|Yuchen Ma et.al.|[2310.17687](http://arxiv.org/abs/2310.17687)|null|
 |**2023-10-26**|**Three-dimensional Bone Image Synthesis with Generative Adversarial Networks**|Christoph Angermann et.al.|[2310.17216](http://arxiv.org/abs/2310.17216)|null|
 |**2023-10-26**|**Content-based Controls For Music Large Language Modeling**|Liwei Lin et.al.|[2310.17162](http://arxiv.org/abs/2310.17162)|null|
 |**2023-10-26**|**Single channel speech enhancement by colored spectrograms**|Sania Gul et.al.|[2310.17142](http://arxiv.org/abs/2310.17142)|null|
@@ -764,6 +772,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-27**|**Gen2Sim: Scaling up Robot Learning in Simulation with Generative Models**|Pushkal Katara et.al.|[2310.18308](http://arxiv.org/abs/2310.18308)|null|
+|**2023-10-27**|**ZeroNVS: Zero-Shot 360-Degree View Synthesis from a Single Real Image**|Kyle Sargent et.al.|[2310.17994](http://arxiv.org/abs/2310.17994)|null|
+|**2023-10-26**|**CodeFusion: A Pre-trained Diffusion Model for Code Generation**|Mukul Singh et.al.|[2310.17680](http://arxiv.org/abs/2310.17680)|null|
 |**2023-10-26**|**6-DoF Stability Field via Diffusion Models**|Takuma Yoneda et.al.|[2310.17649](http://arxiv.org/abs/2310.17649)|null|
 |**2023-10-26**|**Generative Fractional Diffusion Models**|Gabriel Nobis et.al.|[2310.17638](http://arxiv.org/abs/2310.17638)|null|
 |**2023-10-26**|**Noise-Free Score Distillation**|Oren Katzir et.al.|[2310.17590](http://arxiv.org/abs/2310.17590)|null|
@@ -2325,6 +2336,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-27**|**Always Clear Days: Degradation Type and Severity Aware All-In-One Adverse Weather Removal**|Yu-Wei Chen et.al.|[2310.18293](http://arxiv.org/abs/2310.18293)|null|
 |**2023-10-26**|**AntifakePrompt: Prompt-Tuned Vision-Language Models are Fake Image Detectors**|You-Ming Chang et.al.|[2310.17419](http://arxiv.org/abs/2310.17419)|null|
 |**2023-10-25**|**Fuse Your Latents: Video Editing with Multi-source Latent Diffusion Models**|Tianyi Lu et.al.|[2310.16400](http://arxiv.org/abs/2310.16400)|null|
 |**2023-10-24**|**From Posterior Sampling to Meaningful Diversity in Image Restoration**|Noa Cohen et.al.|[2310.16047](http://arxiv.org/abs/2310.16047)|null|
@@ -2799,6 +2811,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-27**|**Radio outburst from a massive (proto)star. II. A portrait in space and time of the expanding radio jet from S255 NIRS3**|R. Cesaroni et.al.|[2310.18002](http://arxiv.org/abs/2310.18002)|null|
 |**2023-10-26**|**Virtual Accessory Try-On via Keypoint Hallucination**|Junhong Gou et.al.|[2310.17131](http://arxiv.org/abs/2310.17131)|null|
 |**2023-10-24**|**Physical Properties of 5,000 Cool LMC Supergiants with Gaia XP Spectra: A Detailed Portrait of the Upper HR Diagram Hints at Missing Supernova Progenitors**|Trevor Z. Dorn-Wallenstein et.al.|[2310.16088](http://arxiv.org/abs/2310.16088)|null|
 |**2023-10-23**|**Constraining the cosmological model of modified $f(Q)$ gravity: Phantom dark energy and observational insights**|M. Koussour et.al.|[2310.15067](http://arxiv.org/abs/2310.15067)|null|

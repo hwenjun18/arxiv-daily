@@ -39,10 +39,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-29**|**Finding Optimal Training Parameters for Quantum Generative Adversarial Networks**|C. Strynar et.al.|[2310.19117](http://arxiv.org/abs/2310.19117)|null|
+|**2023-10-29**|**Emergence of Shape Bias in Convolutional Neural Networks through Activation Sparsity**|Tianqin Li et.al.|[2310.18894](http://arxiv.org/abs/2310.18894)|**[link](https://github.com/crazy-jack/nips2023_shape_vs_texture)**|
+|**2023-10-28**|**Translating away Translationese without Parallel Data**|Rricha Jalota et.al.|[2310.18830](http://arxiv.org/abs/2310.18830)|null|
 |**2023-10-27**|**Addressing GAN Training Instabilities via Tunable Classification Losses**|Monica Welfert et.al.|[2310.18291](http://arxiv.org/abs/2310.18291)|null|
 |**2023-10-27**|**PlantPlotGAN: A Physics-Informed Generative Adversarial Network for Plant Disease Prediction**|Felipe A. Lopes et.al.|[2310.18268](http://arxiv.org/abs/2310.18268)|null|
 |**2023-10-26**|**MIM-GAN-based Anomaly Detection for Multivariate Time Series Data**|Shan Lu et.al.|[2310.18257](http://arxiv.org/abs/2310.18257)|**[link](https://github.com/explorerlu1024/mimad-gan)**|
-|**2023-10-27**|**Generative AI Model for Artistic Style Transfer Using Convolutional Neural Networks**|Jonayet Miah et.al.|[2310.18237](http://arxiv.org/abs/2310.18237)|null|
+|**2023-10-30**|**Generative AI Model for Artistic Style Transfer Using Convolutional Neural Networks**|Jonayet Miah et.al.|[2310.18237](http://arxiv.org/abs/2310.18237)|null|
 |**2023-10-27**|**Adversarial Anomaly Detection using Gaussian Priors and Nonlinear Anomaly Scores**|Fiete Lüer et.al.|[2310.18091](http://arxiv.org/abs/2310.18091)|**[link](https://github.com/emundo/ecgan)**|
 |**2023-10-27**|**Towards optimal multimode fiber imaging by leveraging input polarization and conditional generative adversarial networks**|Jawaria Maqbool et.al.|[2310.17889](http://arxiv.org/abs/2310.17889)|null|
 |**2023-10-24**|**Bayesian imaging inverse problem with SA-Roundtrip prior via HMC-pCN sampler**|Jiayu Qian et.al.|[2310.17817](http://arxiv.org/abs/2310.17817)|**[link](https://github.com/qjy415417122/sa-roundtrip)**|
@@ -772,6 +775,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-29**|**Learning to Follow Object-Centric Image Editing Instructions Faithfully**|Tuhin Chakrabarty et.al.|[2310.19145](http://arxiv.org/abs/2310.19145)|**[link](https://github.com/tuhinjubcse/faithfuledits_emnlp2023)**|
+|**2023-10-29**|**Adversarial Examples Are Not Real Features**|Ang Li et.al.|[2310.18936](http://arxiv.org/abs/2310.18936)|**[link](https://github.com/pku-ml/advnotrealfeatures)**|
+|**2023-10-28**|**Customizing 360-Degree Panoramas through Text-to-Image Diffusion Models**|Hai Wang et.al.|[2310.18840](http://arxiv.org/abs/2310.18840)|**[link](https://github.com/littlewhitesea/stitchdiffusion)**|
+|**2023-10-28**|**Successfully Applying Lottery Ticket Hypothesis to Diffusion Model**|Chao Jiang et.al.|[2310.18823](http://arxiv.org/abs/2310.18823)|**[link](https://github.com/osier0524/lottery-ticket-to-ddpm)**|
+|**2023-10-28**|**Purify++: Improving Diffusion-Purification with Advanced Diffusion Models and Control of Randomness**|Boya Zhang et.al.|[2310.18762](http://arxiv.org/abs/2310.18762)|null|
+|**2023-10-27**|**From Generative AI to Generative Internet of Things: Fundamentals, Framework, and Outlooks**|Jinbo Wen et.al.|[2310.18382](http://arxiv.org/abs/2310.18382)|null|
 |**2023-10-27**|**Gen2Sim: Scaling up Robot Learning in Simulation with Generative Models**|Pushkal Katara et.al.|[2310.18308](http://arxiv.org/abs/2310.18308)|null|
 |**2023-10-27**|**ZeroNVS: Zero-Shot 360-Degree View Synthesis from a Single Real Image**|Kyle Sargent et.al.|[2310.17994](http://arxiv.org/abs/2310.17994)|null|
 |**2023-10-26**|**CodeFusion: A Pre-trained Diffusion Model for Code Generation**|Mukul Singh et.al.|[2310.17680](http://arxiv.org/abs/2310.17680)|null|
@@ -2336,6 +2345,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-29**|**Learning to Follow Object-Centric Image Editing Instructions Faithfully**|Tuhin Chakrabarty et.al.|[2310.19145](http://arxiv.org/abs/2310.19145)|**[link](https://github.com/tuhinjubcse/faithfuledits_emnlp2023)**|
 |**2023-10-27**|**Always Clear Days: Degradation Type and Severity Aware All-In-One Adverse Weather Removal**|Yu-Wei Chen et.al.|[2310.18293](http://arxiv.org/abs/2310.18293)|null|
 |**2023-10-26**|**AntifakePrompt: Prompt-Tuned Vision-Language Models are Fake Image Detectors**|You-Ming Chang et.al.|[2310.17419](http://arxiv.org/abs/2310.17419)|null|
 |**2023-10-25**|**Fuse Your Latents: Video Editing with Multi-source Latent Diffusion Models**|Tianyi Lu et.al.|[2310.16400](http://arxiv.org/abs/2310.16400)|null|

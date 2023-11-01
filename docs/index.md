@@ -39,6 +39,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-31**|**Histopathological Image Analysis with Style-Augmented Feature Domain Mixing for Improved Generalization**|Vaibhav Khamankar et.al.|[2310.20638](http://arxiv.org/abs/2310.20638)|**[link](https://github.com/vaibhav-khamankar/fusestyle)**|
+|**2023-10-31**|**Using Higher-Order Moments to Assess the Quality of GAN-generated Image Features**|Lorenzo Luzi et.al.|[2310.20636](http://arxiv.org/abs/2310.20636)|null|
+|**2023-10-31**|**A physics-informed GAN Framework based on Model-free Data-Driven Computational Mechanics**|Kerem Ciftci et.al.|[2310.20308](http://arxiv.org/abs/2310.20308)|null|
+|**2023-10-31**|**An Implementation of Multimodal Fusion System for Intelligent Digital Human Generation**|Yingjie Zhou et.al.|[2310.20251](http://arxiv.org/abs/2310.20251)|null|
+|**2023-10-31**|**Synthesizing Diabetic Foot Ulcer Images with Diffusion Model**|Reza Basiri et.al.|[2310.20140](http://arxiv.org/abs/2310.20140)|null|
+|**2023-10-30**|**GOPlan: Goal-conditioned Offline Reinforcement Learning by Planning with Learned Models**|Mianchu Wang et.al.|[2310.20025](http://arxiv.org/abs/2310.20025)|null|
+|**2023-10-30**|**Generated Distributions Are All You Need for Membership Inference Attacks Against Generative Models**|Minxing Zhang et.al.|[2310.19410](http://arxiv.org/abs/2310.19410)|**[link](https://github.com/minxingzhang/miagm)**|
+|**2023-10-30**|**A3SA: Advanced Data Augmentation via Adjoint Sensitivity Analysis**|Chanik Kang et.al.|[2310.19291](http://arxiv.org/abs/2310.19291)|null|
+|**2023-10-30**|**EDiffSR: An Efficient Diffusion Probabilistic Model for Remote Sensing Image Super-Resolution**|Yi Xiao et.al.|[2310.19288](http://arxiv.org/abs/2310.19288)|**[link](https://github.com/xy-boy/ediffsr)**|
 |**2023-10-29**|**Finding Optimal Training Parameters for Quantum Generative Adversarial Networks**|C. Strynar et.al.|[2310.19117](http://arxiv.org/abs/2310.19117)|null|
 |**2023-10-29**|**Emergence of Shape Bias in Convolutional Neural Networks through Activation Sparsity**|Tianqin Li et.al.|[2310.18894](http://arxiv.org/abs/2310.18894)|**[link](https://github.com/crazy-jack/nips2023_shape_vs_texture)**|
 |**2023-10-28**|**Translating away Translationese without Parallel Data**|Rricha Jalota et.al.|[2310.18830](http://arxiv.org/abs/2310.18830)|null|
@@ -775,6 +784,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-31**|**SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction**|Xinyuan Chen et.al.|[2310.20700](http://arxiv.org/abs/2310.20700)|null|
+|**2023-10-31**|**Diffusion Reconstruction of Ultrasound Images with Informative Uncertainty**|Yuxin Zhang et.al.|[2310.20618](http://arxiv.org/abs/2310.20618)|null|
+|**2023-10-31**|**Generate What You Prefer: Reshaping Sequential Recommendation via Guided Diffusion**|Zhengyi Yang et.al.|[2310.20453](http://arxiv.org/abs/2310.20453)|**[link](https://github.com/yangzhengyi98/dreamrec)**|
+|**2023-10-31**|**In Search of Lost Online Test-time Adaptation: A Survey**|Zixin Wang et.al.|[2310.20199](http://arxiv.org/abs/2310.20199)|null|
+|**2023-10-31**|**A Perturbative Solution to the Linear Influence/Network Autocorrelation Model Under Network Dynamics**|Carter T. Butts et.al.|[2310.20163](http://arxiv.org/abs/2310.20163)|null|
+|**2023-10-31**|**Synthesizing Diabetic Foot Ulcer Images with Diffusion Model**|Reza Basiri et.al.|[2310.20140](http://arxiv.org/abs/2310.20140)|null|
+|**2023-10-31**|**Beyond U: Making Diffusion Models Faster & Lighter**|Sergio Calvo-Ordonez et.al.|[2310.20092](http://arxiv.org/abs/2310.20092)|null|
+|**2023-10-30**|**Scaling Riemannian Diffusion Models**|Aaron Lou et.al.|[2310.20030](http://arxiv.org/abs/2310.20030)|null|
+|**2023-10-30**|**Predicting mutational effects on protein-protein binding via a side-chain diffusion probabilistic model**|Shiwei Liu et.al.|[2310.19849](http://arxiv.org/abs/2310.19849)|**[link](https://github.com/eurekazhu/diffaffinity)**|
+|**2023-10-30**|**DiffEnc: Variational Diffusion with a Learned Encoder**|Beatrix M. G. Nielsen et.al.|[2310.19789](http://arxiv.org/abs/2310.19789)|null|
+|**2023-10-30**|**CustomNet: Zero-shot Object Customization with Variable-Viewpoints in Text-to-Image Diffusion Models**|Ziyang Yuan et.al.|[2310.19784](http://arxiv.org/abs/2310.19784)|null|
+|**2023-10-30**|**Upgrading VAE Training With Unlimited Data Plans Provided by Diffusion Models**|Tim Z. Xiao et.al.|[2310.19653](http://arxiv.org/abs/2310.19653)|null|
+|**2023-10-30**|**Seeing Through the Conversation: Audio-Visual Speech Separation based on Diffusion Model**|Suyeon Lee et.al.|[2310.19581](http://arxiv.org/abs/2310.19581)|null|
+|**2023-10-30**|**IterInv: Iterative Inversion for Pixel-Level T2I Models**|Chuanming Tang et.al.|[2310.19540](http://arxiv.org/abs/2310.19540)|null|
+|**2023-10-30**|**VideoCrafter1: Open Diffusion Models for High-Quality Video Generation**|Haoxin Chen et.al.|[2310.19512](http://arxiv.org/abs/2310.19512)|**[link](https://github.com/ailab-cvc/videocrafter)**|
+|**2023-10-30**|**Denoising Diffusion Probabilistic Models for Hardware-Impaired Communication Systems: Towards Wireless Generative AI**|Mehdi Letafati et.al.|[2310.19460](http://arxiv.org/abs/2310.19460)|null|
+|**2023-10-30**|**Asymmetric Diffusion Based Channel-Adaptive Secure Wireless Semantic Communications**|Xintian Ren et.al.|[2310.19439](http://arxiv.org/abs/2310.19439)|null|
+|**2023-10-30**|**Refining Diffusion Planner for Reliable Behavior Synthesis by Automatic Detection of Infeasible Plans**|Kyowoon Lee et.al.|[2310.19427](http://arxiv.org/abs/2310.19427)|**[link](https://github.com/leekwoon/rgg)**|
+|**2023-10-31**|**Text-to-3D with Classifier Score Distillation**|Xin Yu et.al.|[2310.19415](http://arxiv.org/abs/2310.19415)|null|
+|**2023-10-30**|**Generated Distributions Are All You Need for Membership Inference Attacks Against Generative Models**|Minxing Zhang et.al.|[2310.19410](http://arxiv.org/abs/2310.19410)|**[link](https://github.com/minxingzhang/miagm)**|
 |**2023-10-29**|**Learning to Follow Object-Centric Image Editing Instructions Faithfully**|Tuhin Chakrabarty et.al.|[2310.19145](http://arxiv.org/abs/2310.19145)|**[link](https://github.com/tuhinjubcse/faithfuledits_emnlp2023)**|
 |**2023-10-29**|**Adversarial Examples Are Not Real Features**|Ang Li et.al.|[2310.18936](http://arxiv.org/abs/2310.18936)|**[link](https://github.com/pku-ml/advnotrealfeatures)**|
 |**2023-10-28**|**Customizing 360-Degree Panoramas through Text-to-Image Diffusion Models**|Hai Wang et.al.|[2310.18840](http://arxiv.org/abs/2310.18840)|**[link](https://github.com/littlewhitesea/stitchdiffusion)**|
@@ -2345,6 +2374,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-30**|**IterInv: Iterative Inversion for Pixel-Level T2I Models**|Chuanming Tang et.al.|[2310.19540](http://arxiv.org/abs/2310.19540)|null|
 |**2023-10-29**|**Learning to Follow Object-Centric Image Editing Instructions Faithfully**|Tuhin Chakrabarty et.al.|[2310.19145](http://arxiv.org/abs/2310.19145)|**[link](https://github.com/tuhinjubcse/faithfuledits_emnlp2023)**|
 |**2023-10-27**|**Always Clear Days: Degradation Type and Severity Aware All-In-One Adverse Weather Removal**|Yu-Wei Chen et.al.|[2310.18293](http://arxiv.org/abs/2310.18293)|null|
 |**2023-10-26**|**AntifakePrompt: Prompt-Tuned Vision-Language Models are Fake Image Detectors**|You-Ming Chang et.al.|[2310.17419](http://arxiv.org/abs/2310.17419)|null|

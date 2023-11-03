@@ -51,6 +51,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-02**|**Ultra-Fast Generation of Air Shower Images for Imaging Air Cherenkov Telescopes using Generative Adversarial Networks**|Christian Elflein et.al.|[2311.01385](http://arxiv.org/abs/2311.01385)|null|
+|**2023-11-02**|**Monotone Generative Modeling via a Gromov-Monge Embedding**|Wonjun Lee et.al.|[2311.01375](http://arxiv.org/abs/2311.01375)|null|
+|**2023-11-02**|**Novel View Synthesis from a Single RGBD Image for Indoor Scenes**|Congrui Hetang et.al.|[2311.01065](http://arxiv.org/abs/2311.01065)|null|
+|**2023-11-02**|**A Chronological Survey of Theoretical Advancements in Generative Adversarial Networks for Computer Vision**|Hrishikesh Sharma et.al.|[2311.00995](http://arxiv.org/abs/2311.00995)|null|
+|**2023-11-02**|**Stochastic Smoothed Gradient Descent Ascent for Federated Minimax Optimization**|Wei Shen et.al.|[2311.00944](http://arxiv.org/abs/2311.00944)|null|
 |**2023-11-01**|**Generating HSR Bogie Vibration Signals via Pulse Voltage-Guided Conditional Diffusion Model**|Xuan Liu et.al.|[2311.00496](http://arxiv.org/abs/2311.00496)|null|
 |**2023-11-01**|**Flooding Regularization for Stable Training of Generative Adversarial Networks**|Iu Yahiro et.al.|[2311.00318](http://arxiv.org/abs/2311.00318)|null|
 |**2023-10-31**|**Histopathological Image Analysis with Style-Augmented Feature Domain Mixing for Improved Generalization**|Vaibhav Khamankar et.al.|[2310.20638](http://arxiv.org/abs/2310.20638)|**[link](https://github.com/vaibhav-khamankar/fusestyle)**|
@@ -800,6 +805,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-02**|**Time Series Anomaly Detection using Diffusion-based Models**|Ioana Pintilie et.al.|[2311.01452](http://arxiv.org/abs/2311.01452)|null|
+|**2023-11-02**|**Constrained-Context Conditional Diffusion Models for Imitation Learning**|Vaibhav Saxena et.al.|[2311.01419](http://arxiv.org/abs/2311.01419)|null|
+|**2023-11-02**|**Sim2Real Bilevel Adaptation for Object Surface Classification using Vision-Based Tactile Sensors**|Gabriele M. Caddeo et.al.|[2311.01380](http://arxiv.org/abs/2311.01380)|**[link](https://github.com/hsp-iit/sim2real-surface-classification)**|
+|**2023-11-02**|**DP-Mix: Mixup-based Data Augmentation for Differentially Private Learning**|Wenxuan Bao et.al.|[2311.01295](http://arxiv.org/abs/2311.01295)|**[link](https://github.com/wenxuan-bao/dp-mix)**|
+|**2023-11-02**|**Optimal Transport-Guided Conditional Score-Based Diffusion Models**|Xiang Gu et.al.|[2311.01226](http://arxiv.org/abs/2311.01226)|**[link](https://github.com/xjtu-xgu/otcs)**|
+|**2023-11-02**|**Diffusion Models for Reinforcement Learning: A Survey**|Zhengbang Zhu et.al.|[2311.01223](http://arxiv.org/abs/2311.01223)|**[link](https://github.com/apexrl/diff4rlsurvey)**|
+|**2023-11-02**|**Add and Thin: Diffusion for Temporal Point Processes**|David Lüdke et.al.|[2311.01139](http://arxiv.org/abs/2311.01139)|null|
+|**2023-11-02**|**Infusion: Internal Diffusion for Video Inpainting**|Nicolas Cherel et.al.|[2311.01090](http://arxiv.org/abs/2311.01090)|null|
+|**2023-11-02**|**Expanding Expressiveness of Diffusion Models with Limited Data via Self-Distillation based Fine-Tuning**|Jiwan Hur et.al.|[2311.01018](http://arxiv.org/abs/2311.01018)|null|
+|**2023-11-02**|**Act As You Wish: Fine-Grained Control of Motion Diffusion Model with Hierarchical Semantic Graphs**|Peng Jin et.al.|[2311.01015](http://arxiv.org/abs/2311.01015)|**[link](https://github.com/jpthu17/graphmotion)**|
+|**2023-11-02**|**Optimal Noise pursuit for Augmenting Text-to-Video Generation**|Shijie Ma et.al.|[2311.00949](http://arxiv.org/abs/2311.00949)|null|
+|**2023-11-02**|**Gaussian Mixture Solvers for Diffusion Models**|Hanzhong Guo et.al.|[2311.00941](http://arxiv.org/abs/2311.00941)|null|
+|**2023-11-02**|**Bridging the Gap: Addressing Discrepancies in Diffusion Model Training for Classifier-Free Guidance**|Niket Patel et.al.|[2311.00938](http://arxiv.org/abs/2311.00938)|null|
+|**2023-11-02**|**Towards High-quality HDR Deghosting with Conditional Diffusion Models**|Qingsen Yan et.al.|[2311.00932](http://arxiv.org/abs/2311.00932)|null|
+|**2023-11-01**|**HIDM: Emulating Large Scale HI Maps using Score-based Diffusion Models**|Sultan Hassan et.al.|[2311.00833](http://arxiv.org/abs/2311.00833)|null|
+|**2023-11-01**|**Quantum Computational Algorithms for Derivative Pricing and Credit Risk in a Regime Switching Economy**|Eric Ghysels et.al.|[2311.00825](http://arxiv.org/abs/2311.00825)|null|
 |**2023-11-01**|**De-Diffusion Makes Text a Strong Cross-Modal Interface**|Chen Wei et.al.|[2311.00618](http://arxiv.org/abs/2311.00618)|null|
 |**2023-11-01**|**Controllable Music Production with Diffusion Models and Guidance Gradients**|Mark Levy et.al.|[2311.00613](http://arxiv.org/abs/2311.00613)|null|
 |**2023-11-01**|**Intriguing Properties of Data Attribution on Diffusion Models**|Xiaosen Zheng et.al.|[2311.00500](http://arxiv.org/abs/2311.00500)|**[link](https://github.com/sail-sg/d-trak)**|
@@ -2402,6 +2423,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-02**|**The Blessing of Randomness: SDE Beats ODE in General Diffusion-based Image Editing**|Shen Nie et.al.|[2311.01410](http://arxiv.org/abs/2311.01410)|null|
+|**2023-11-02**|**Convergent plug-and-play with proximal denoiser and unconstrained regularization parameter**|Samuel Hurault et.al.|[2311.01216](http://arxiv.org/abs/2311.01216)|null|
+|**2023-11-01**|**On Manipulating Scene Text in the Wild with Diffusion Models**|Joshua Santoso et.al.|[2311.00734](http://arxiv.org/abs/2311.00734)|null|
 |**2023-10-31**|**Image Restoration with Point Spread Function Regularization and Active Learning**|Peng Jia et.al.|[2311.00186](http://arxiv.org/abs/2311.00186)|null|
 |**2023-10-30**|**IterInv: Iterative Inversion for Pixel-Level T2I Models**|Chuanming Tang et.al.|[2310.19540](http://arxiv.org/abs/2310.19540)|null|
 |**2023-10-29**|**Learning to Follow Object-Centric Image Editing Instructions Faithfully**|Tuhin Chakrabarty et.al.|[2310.19145](http://arxiv.org/abs/2310.19145)|**[link](https://github.com/tuhinjubcse/faithfuledits_emnlp2023)**|

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.02
+## Updated on 2023.11.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -3007,7 +3007,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-16**|**Generalized rigidity, spectrum and tensor roots of measure-preserving transfomations**|Valery V. Ryzhikov et.al.|[2310.10370](http://arxiv.org/abs/2310.10370)|null|
+|**2023-11-02**|**Polynomial rigidity and spectrum of Sidon automorphisms**|Valery V. Ryzhikov et.al.|[2310.10370](http://arxiv.org/abs/2310.10370)|null|
 |**2023-10-02**|**Efficient Remote Sensing Segmentation With Generative Adversarial Transformer**|Luyi Qiu et.al.|[2310.01292](http://arxiv.org/abs/2310.01292)|null|
 |**2023-06-09**|**SERT: A Transfomer Based Model for Spatio-Temporal Sensor Data with Missing Values for Environmental Monitoring**|Amin Shoari Nejad et.al.|[2306.03042](http://arxiv.org/abs/2306.03042)|**[link](https://github.com/aminsn/sert2023)**|
 |**2023-05-20**|**Quantum simulation of lattice gauge theories via deterministic duality transformations assisted by measurements**|Hiroki Sukeno et.al.|[2305.12277](http://arxiv.org/abs/2305.12277)|null|

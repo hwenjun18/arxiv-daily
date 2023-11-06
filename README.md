@@ -51,6 +51,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-03**|**Optimal Image Transport on Sparse Dictionaries**|Junqing Huang et.al.|[2311.01984](http://arxiv.org/abs/2311.01984)|null|
+|**2023-11-03**|**Latent Diffusion Model for Conditional Reservoir Facies Generation**|Daesoo Lee et.al.|[2311.01968](http://arxiv.org/abs/2311.01968)|null|
+|**2023-11-02**|**An Efficient Detection and Control System for Underwater Docking using Machine Learning and Realistic Simulation: A Comprehensive Approach**|Jalil Chavez-Galaviz et.al.|[2311.01522](http://arxiv.org/abs/2311.01522)|null|
 |**2023-11-02**|**Ultra-Fast Generation of Air Shower Images for Imaging Air Cherenkov Telescopes using Generative Adversarial Networks**|Christian Elflein et.al.|[2311.01385](http://arxiv.org/abs/2311.01385)|null|
 |**2023-11-02**|**Monotone Generative Modeling via a Gromov-Monge Embedding**|Wonjun Lee et.al.|[2311.01375](http://arxiv.org/abs/2311.01375)|null|
 |**2023-11-02**|**Novel View Synthesis from a Single RGBD Image for Indoor Scenes**|Congrui Hetang et.al.|[2311.01065](http://arxiv.org/abs/2311.01065)|null|
@@ -805,6 +808,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-03**|**Quantum circuit synthesis with diffusion models**|Florian Fürrutter et.al.|[2311.02041](http://arxiv.org/abs/2311.02041)|**[link](https://github.com/florianfuerrutter/genqc)**|
+|**2023-11-03**|**Latent Diffusion Model for Conditional Reservoir Facies Generation**|Daesoo Lee et.al.|[2311.01968](http://arxiv.org/abs/2311.01968)|null|
+|**2023-11-03**|**On the Generalization Properties of Diffusion Models**|Puheng Li et.al.|[2311.01797](http://arxiv.org/abs/2311.01797)|**[link](https://github.com/lphleo/diffusion_generalization)**|
+|**2023-11-03**|**CDGraph: Dual Conditional Social Graph Synthesizing via Diffusion Model**|Jui-Yi Tsai et.al.|[2311.01729](http://arxiv.org/abs/2311.01729)|null|
+|**2023-11-02**|**Improving Fairness using Vision-Language Driven Image Augmentation**|Moreno D'Incà et.al.|[2311.01573](http://arxiv.org/abs/2311.01573)|**[link](https://github.com/moreno98/vision-language-bias-control)**|
+|**2023-11-02**|**Exploring the Hyperparameter Space of Image Diffusion Models for Echocardiogram Generation**|Hadrien Reynaud et.al.|[2311.01567](http://arxiv.org/abs/2311.01567)|null|
+|**2023-11-02**|**Investigating the Behavior of Diffusion Models for Accelerating Electronic Structure Calculations**|Daniel Rothchild et.al.|[2311.01491](http://arxiv.org/abs/2311.01491)|null|
 |**2023-11-02**|**Time Series Anomaly Detection using Diffusion-based Models**|Ioana Pintilie et.al.|[2311.01452](http://arxiv.org/abs/2311.01452)|**[link](https://github.com/fbrad/diffusionae)**|
 |**2023-11-02**|**Constrained-Context Conditional Diffusion Models for Imitation Learning**|Vaibhav Saxena et.al.|[2311.01419](http://arxiv.org/abs/2311.01419)|null|
 |**2023-11-02**|**Sim2Real Bilevel Adaptation for Object Surface Classification using Vision-Based Tactile Sensors**|Gabriele M. Caddeo et.al.|[2311.01380](http://arxiv.org/abs/2311.01380)|**[link](https://github.com/hsp-iit/sim2real-surface-classification)**|
@@ -2423,6 +2433,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-03**|**Cascadic Tensor Multigrid Method and Economic Cascadic Tensor Multigrid Method for Image Restoration Problems**|Ziqi Yan et.al.|[2311.01924](http://arxiv.org/abs/2311.01924)|null|
 |**2023-11-02**|**The Blessing of Randomness: SDE Beats ODE in General Diffusion-based Image Editing**|Shen Nie et.al.|[2311.01410](http://arxiv.org/abs/2311.01410)|null|
 |**2023-11-02**|**Convergent plug-and-play with proximal denoiser and unconstrained regularization parameter**|Samuel Hurault et.al.|[2311.01216](http://arxiv.org/abs/2311.01216)|null|
 |**2023-11-01**|**On Manipulating Scene Text in the Wild with Diffusion Models**|Joshua Santoso et.al.|[2311.00734](http://arxiv.org/abs/2311.00734)|null|
@@ -2752,6 +2763,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-03**|**INeAT: Iterative Neural Adaptive Tomography**|Bo Xiong et.al.|[2311.01653](http://arxiv.org/abs/2311.01653)|null|
 |**2023-11-01**|**Neural Implicit Field Editing Considering Object-environment Interaction**|Zhihong Zeng et.al.|[2311.00425](http://arxiv.org/abs/2311.00425)|null|
 |**2023-10-25**|**UAV-Sim: NeRF-based Synthetic Data Generation for UAV-based Perception**|Christopher Maxey et.al.|[2310.16255](http://arxiv.org/abs/2310.16255)|null|
 |**2023-10-20**|**UE4-NeRF:Neural Radiance Field for Real-Time Rendering of Large-Scale Scene**|Jiaming Gu et.al.|[2310.13263](http://arxiv.org/abs/2310.13263)|null|

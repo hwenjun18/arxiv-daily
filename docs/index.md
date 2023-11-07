@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.06
+## Updated on 2023.11.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -2420,7 +2420,7 @@ layout: default
 |**2023-11-03**|**Cascadic Tensor Multigrid Method and Economic Cascadic Tensor Multigrid Method for Image Restoration Problems**|Ziqi Yan et.al.|[2311.01924](http://arxiv.org/abs/2311.01924)|null|
 |**2023-11-02**|**The Blessing of Randomness: SDE Beats ODE in General Diffusion-based Image Editing**|Shen Nie et.al.|[2311.01410](http://arxiv.org/abs/2311.01410)|null|
 |**2023-11-02**|**Convergent plug-and-play with proximal denoiser and unconstrained regularization parameter**|Samuel Hurault et.al.|[2311.01216](http://arxiv.org/abs/2311.01216)|null|
-|**2023-11-01**|**On Manipulating Scene Text in the Wild with Diffusion Models**|Joshua Santoso et.al.|[2311.00734](http://arxiv.org/abs/2311.00734)|null|
+|**2023-11-03**|**On Manipulating Scene Text in the Wild with Diffusion Models**|Joshua Santoso et.al.|[2311.00734](http://arxiv.org/abs/2311.00734)|null|
 |**2023-10-31**|**Image Restoration with Point Spread Function Regularization and Active Learning**|Peng Jia et.al.|[2311.00186](http://arxiv.org/abs/2311.00186)|null|
 |**2023-10-30**|**IterInv: Iterative Inversion for Pixel-Level T2I Models**|Chuanming Tang et.al.|[2310.19540](http://arxiv.org/abs/2310.19540)|null|
 |**2023-10-29**|**Learning to Follow Object-Centric Image Editing Instructions Faithfully**|Tuhin Chakrabarty et.al.|[2310.19145](http://arxiv.org/abs/2310.19145)|**[link](https://github.com/tuhinjubcse/faithfuledits_emnlp2023)**|

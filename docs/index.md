@@ -39,6 +39,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-06**|**Preserving Privacy in GANs Against Membership Inference Attack**|Mohammadhadi Shateri et.al.|[2311.03172](http://arxiv.org/abs/2311.03172)|null|
+|**2023-11-06**|**A Two-Stage Generative Model with CycleGAN and Joint Diffusion for MRI-based Brain Tumor Detection**|Wenxin Wang et.al.|[2311.03074](http://arxiv.org/abs/2311.03074)|**[link](https://github.com/zhyjsiat/a-two-stage-cyclegan-ve-brats2020)**|
+|**2023-11-06**|**Deep Image Semantic Communication Model for Artificial Intelligent Internet of Things**|Li Ping Qian et.al.|[2311.02926](http://arxiv.org/abs/2311.02926)|**[link](https://github.com/meatery/semantic-segmentation)**|
+|**2023-11-06**|**Flexible Multi-Generator Model with Fused Spatiotemporal Graph for Trajectory Prediction**|Peiyuan Zhu et.al.|[2311.02835](http://arxiv.org/abs/2311.02835)|null|
+|**2023-11-05**|**Synthetic Tumor Manipulation: With Radiomics Features**|Inye Na et.al.|[2311.02586](http://arxiv.org/abs/2311.02586)|null|
+|**2023-11-04**|**A Strictly Bounded Deep Network for Unpaired Cyclic Translation of Medical Images**|Swati Rai et.al.|[2311.02480](http://arxiv.org/abs/2311.02480)|null|
+|**2023-11-04**|**MTS-DVGAN: Anomaly Detection in Cyber-Physical Systems using a Dual Variational Generative Adversarial Network**|Haili Sun et.al.|[2311.02378](http://arxiv.org/abs/2311.02378)|null|
 |**2023-11-03**|**Optimal Image Transport on Sparse Dictionaries**|Junqing Huang et.al.|[2311.01984](http://arxiv.org/abs/2311.01984)|null|
 |**2023-11-03**|**Latent Diffusion Model for Conditional Reservoir Facies Generation**|Daesoo Lee et.al.|[2311.01968](http://arxiv.org/abs/2311.01968)|null|
 |**2023-11-02**|**An Efficient Detection and Control System for Underwater Docking using Machine Learning and Realistic Simulation: A Comprehensive Approach**|Jalil Chavez-Galaviz et.al.|[2311.01522](http://arxiv.org/abs/2311.01522)|null|
@@ -794,10 +801,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-06**|**TS-Diffusion: Generating Highly Complex Time Series with Diffusion Models**|Yangming Li et.al.|[2311.03303](http://arxiv.org/abs/2311.03303)|null|
+|**2023-11-06**|**LDM3D-VR: Latent Diffusion Model for 3D VR**|Gabriela Ben Melech Stan et.al.|[2311.03226](http://arxiv.org/abs/2311.03226)|null|
+|**2023-11-06**|**Algebraic Dynamical Systems in Machine Learning**|Iolo Jones et.al.|[2311.03118](http://arxiv.org/abs/2311.03118)|null|
+|**2023-11-06**|**AnyText: Multilingual Visual Text Generation And Editing**|Yuxiang Tuo et.al.|[2311.03054](http://arxiv.org/abs/2311.03054)|null|
+|**2023-11-06**|**Exploring the Capability of Text-to-Image Diffusion Models with Structural Edge Guidance for Multi-Spectral Satellite Image Inpainting**|Mikolaj Czerkawski et.al.|[2311.03008](http://arxiv.org/abs/2311.03008)|null|
+|**2023-11-06**|**Diffusion-based Radiotherapy Dose Prediction Guided by Inter-slice Aware Structure Encoding**|Zhenghao Feng et.al.|[2311.02991](http://arxiv.org/abs/2311.02991)|null|
+|**2023-11-06**|**Consistent4D: Consistent 360° Dynamic Object Generation from Monocular Video**|Yanqin Jiang et.al.|[2311.02848](http://arxiv.org/abs/2311.02848)|null|
+|**2023-11-04**|**From Trojan Horses to Castle Walls: Unveiling Bilateral Backdoor Effects in Diffusion Models**|Zhuoshi Pan et.al.|[2311.02373](http://arxiv.org/abs/2311.02373)|null|
+|**2023-11-04**|**Domain Transfer in Latent Space (DTLS) Wins on Image Super-Resolution -- a Non-Denoising Model**|Chun-Chuen Hui et.al.|[2311.02358](http://arxiv.org/abs/2311.02358)|null|
+|**2023-11-04**|**Stable Diffusion Reference Only: Image Prompt and Blueprint Jointly Guided Multi-Condition Diffusion Model for Secondary Painting**|Hao Ai et.al.|[2311.02343](http://arxiv.org/abs/2311.02343)|**[link](https://github.com/aihao2000/stable-diffusion-reference-only)**|
+|**2023-11-03**|**Patch-based Selection and Refinement for Early Object Detection**|Tianyi Zhang et.al.|[2311.02274](http://arxiv.org/abs/2311.02274)|null|
+|**2023-11-03**|**Sparse Training of Discrete Diffusion Models for Graph Generation**|Yiming Qin et.al.|[2311.02142](http://arxiv.org/abs/2311.02142)|**[link](https://github.com/qym7/sparsediff)**|
 |**2023-11-03**|**Quantum circuit synthesis with diffusion models**|Florian Fürrutter et.al.|[2311.02041](http://arxiv.org/abs/2311.02041)|**[link](https://github.com/florianfuerrutter/genqc)**|
 |**2023-11-03**|**Latent Diffusion Model for Conditional Reservoir Facies Generation**|Daesoo Lee et.al.|[2311.01968](http://arxiv.org/abs/2311.01968)|null|
 |**2023-11-03**|**On the Generalization Properties of Diffusion Models**|Puheng Li et.al.|[2311.01797](http://arxiv.org/abs/2311.01797)|**[link](https://github.com/lphleo/diffusion_generalization)**|
-|**2023-11-03**|**CDGraph: Dual Conditional Social Graph Synthesizing via Diffusion Model**|Jui-Yi Tsai et.al.|[2311.01729](http://arxiv.org/abs/2311.01729)|null|
+|**2023-11-06**|**CDGraph: Dual Conditional Social Graph Synthesizing via Diffusion Model**|Jui-Yi Tsai et.al.|[2311.01729](http://arxiv.org/abs/2311.01729)|null|
 |**2023-11-02**|**Improving Fairness using Vision-Language Driven Image Augmentation**|Moreno D'Incà et.al.|[2311.01573](http://arxiv.org/abs/2311.01573)|**[link](https://github.com/moreno98/vision-language-bias-control)**|
 |**2023-11-02**|**Exploring the Hyperparameter Space of Image Diffusion Models for Echocardiogram Generation**|Hadrien Reynaud et.al.|[2311.01567](http://arxiv.org/abs/2311.01567)|null|
 |**2023-11-02**|**Investigating the Behavior of Diffusion Models for Accelerating Electronic Structure Calculations**|Daniel Rothchild et.al.|[2311.01491](http://arxiv.org/abs/2311.01491)|null|
@@ -2417,6 +2436,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-06**|**Pelvic floor MRI segmentation based on semi-supervised deep learning**|Jianwei Zuo et.al.|[2311.03105](http://arxiv.org/abs/2311.03105)|null|
+|**2023-11-06**|**A New Extrapolation Economy Cascadic Multigrid Method for Image Restoration Problems**|Zhaoteng Chu et.al.|[2311.03010](http://arxiv.org/abs/2311.03010)|null|
+|**2023-11-06**|**Deep Image Semantic Communication Model for Artificial Intelligent Internet of Things**|Li Ping Qian et.al.|[2311.02926](http://arxiv.org/abs/2311.02926)|**[link](https://github.com/meatery/semantic-segmentation)**|
 |**2023-11-03**|**Cascadic Tensor Multigrid Method and Economic Cascadic Tensor Multigrid Method for Image Restoration Problems**|Ziqi Yan et.al.|[2311.01924](http://arxiv.org/abs/2311.01924)|null|
 |**2023-11-02**|**The Blessing of Randomness: SDE Beats ODE in General Diffusion-based Image Editing**|Shen Nie et.al.|[2311.01410](http://arxiv.org/abs/2311.01410)|null|
 |**2023-11-02**|**Convergent plug-and-play with proximal denoiser and unconstrained regularization parameter**|Samuel Hurault et.al.|[2311.01216](http://arxiv.org/abs/2311.01216)|null|
@@ -2760,7 +2782,7 @@ layout: default
 |**2023-11-02**|**Generating Transferable Adversarial Simulation Scenarios for Self-Driving via Neural Rendering**|Yasasa Abeysirigoonawardena et.al.|[2309.15770](http://arxiv.org/abs/2309.15770)|null|
 |**2023-09-22**|**Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction**|Ziyi Yang et.al.|[2309.13101](http://arxiv.org/abs/2309.13101)|null|
 |**2023-09-21**|**ORTexME: Occlusion-Robust Human Shape and Pose via Temporal Average Texture and Mesh Encoding**|Yu Cheng et.al.|[2309.12183](http://arxiv.org/abs/2309.12183)|null|
-|**2023-09-06**|**TSTTC: A Large-Scale Dataset for Time-to-Contact Estimation in Driving Scenarios**|Yuheng Shi et.al.|[2309.01539](http://arxiv.org/abs/2309.01539)|**[link](https://github.com/tusen-ai/TSTTC)**|
+|**2023-11-06**|**TSTTC: A Large-Scale Dataset for Time-to-Contact Estimation in Driving Scenarios**|Yuheng Shi et.al.|[2309.01539](http://arxiv.org/abs/2309.01539)|**[link](https://github.com/tusen-ai/TSTTC)**|
 |**2023-08-30**|**Drone-NeRF: Efficient NeRF Based 3D Scene Reconstruction for Large-Scale Drone Survey**|Zhihao Jia et.al.|[2308.15733](http://arxiv.org/abs/2308.15733)|null|
 |**2023-08-22**|**Novel-view Synthesis and Pose Estimation for Hand-Object Interaction from Sparse Views**|Wentian Qu et.al.|[2308.11198](http://arxiv.org/abs/2308.11198)|null|
 |**2023-08-19**|**Semantic-Human: Neural Rendering of Humans from Monocular Video with Human Parsing**|Jie Zhang et.al.|[2308.09894](http://arxiv.org/abs/2308.09894)|null|
@@ -2901,6 +2923,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-06**|**InstructPix2NeRF: Instructed 3D Portrait Editing from a Single Image**|Jianhui Li et.al.|[2311.02826](http://arxiv.org/abs/2311.02826)|null|
 |**2023-10-27**|**Radio outburst from a massive (proto)star. II. A portrait in space and time of the expanding radio jet from S255 NIRS3**|R. Cesaroni et.al.|[2310.18002](http://arxiv.org/abs/2310.18002)|null|
 |**2023-10-26**|**Virtual Accessory Try-On via Keypoint Hallucination**|Junhong Gou et.al.|[2310.17131](http://arxiv.org/abs/2310.17131)|null|
 |**2023-10-24**|**Physical Properties of 5,000 Cool LMC Supergiants with Gaia XP Spectra: A Detailed Portrait of the Upper HR Diagram Hints at Missing Supernova Progenitors**|Trevor Z. Dorn-Wallenstein et.al.|[2310.16088](http://arxiv.org/abs/2310.16088)|null|
@@ -3043,6 +3066,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-06**|**$p$ -Adic hypergeometric functions and the trace of Frobenius of elliptic curves**|Sulakashna et.al.|[2311.03259](http://arxiv.org/abs/2311.03259)|null|
 |**2023-11-02**|**Polynomial rigidity and spectrum of Sidon automorphisms**|Valery V. Ryzhikov et.al.|[2310.10370](http://arxiv.org/abs/2310.10370)|null|
 |**2023-10-02**|**Efficient Remote Sensing Segmentation With Generative Adversarial Transformer**|Luyi Qiu et.al.|[2310.01292](http://arxiv.org/abs/2310.01292)|null|
 |**2023-06-09**|**SERT: A Transfomer Based Model for Spatio-Temporal Sensor Data with Missing Values for Environmental Monitoring**|Amin Shoari Nejad et.al.|[2306.03042](http://arxiv.org/abs/2306.03042)|**[link](https://github.com/aminsn/sert2023)**|

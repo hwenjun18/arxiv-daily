@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.07
+## Updated on 2023.11.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -48,7 +48,7 @@ layout: default
 |**2023-11-04**|**MTS-DVGAN: Anomaly Detection in Cyber-Physical Systems using a Dual Variational Generative Adversarial Network**|Haili Sun et.al.|[2311.02378](http://arxiv.org/abs/2311.02378)|null|
 |**2023-11-03**|**Optimal Image Transport on Sparse Dictionaries**|Junqing Huang et.al.|[2311.01984](http://arxiv.org/abs/2311.01984)|null|
 |**2023-11-03**|**Latent Diffusion Model for Conditional Reservoir Facies Generation**|Daesoo Lee et.al.|[2311.01968](http://arxiv.org/abs/2311.01968)|null|
-|**2023-11-02**|**An Efficient Detection and Control System for Underwater Docking using Machine Learning and Realistic Simulation: A Comprehensive Approach**|Jalil Chavez-Galaviz et.al.|[2311.01522](http://arxiv.org/abs/2311.01522)|null|
+|**2023-11-06**|**An Efficient Detection and Control System for Underwater Docking using Machine Learning and Realistic Simulation: A Comprehensive Approach**|Jalil Chavez-Galaviz et.al.|[2311.01522](http://arxiv.org/abs/2311.01522)|null|
 |**2023-11-02**|**Ultra-Fast Generation of Air Shower Images for Imaging Air Cherenkov Telescopes using Generative Adversarial Networks**|Christian Elflein et.al.|[2311.01385](http://arxiv.org/abs/2311.01385)|null|
 |**2023-11-02**|**Monotone Generative Modeling via a Gromov-Monge Embedding**|Wonjun Lee et.al.|[2311.01375](http://arxiv.org/abs/2311.01375)|null|
 |**2023-11-02**|**Novel View Synthesis from a Single RGBD Image for Indoor Scenes**|Congrui Hetang et.al.|[2311.01065](http://arxiv.org/abs/2311.01065)|null|
@@ -2923,7 +2923,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-11-06**|**InstructPix2NeRF: Instructed 3D Portrait Editing from a Single Image**|Jianhui Li et.al.|[2311.02826](http://arxiv.org/abs/2311.02826)|null|
+|**2023-11-06**|**InstructPix2NeRF: Instructed 3D Portrait Editing from a Single Image**|Jianhui Li et.al.|[2311.02826](http://arxiv.org/abs/2311.02826)|**[link](https://github.com/mybabyyh/instructpix2nerf)**|
 |**2023-10-27**|**Radio outburst from a massive (proto)star. II. A portrait in space and time of the expanding radio jet from S255 NIRS3**|R. Cesaroni et.al.|[2310.18002](http://arxiv.org/abs/2310.18002)|null|
 |**2023-10-26**|**Virtual Accessory Try-On via Keypoint Hallucination**|Junhong Gou et.al.|[2310.17131](http://arxiv.org/abs/2310.17131)|null|
 |**2023-10-24**|**Physical Properties of 5,000 Cool LMC Supergiants with Gaia XP Spectra: A Detailed Portrait of the Upper HR Diagram Hints at Missing Supernova Progenitors**|Trevor Z. Dorn-Wallenstein et.al.|[2310.16088](http://arxiv.org/abs/2310.16088)|null|

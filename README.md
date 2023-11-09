@@ -51,9 +51,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-08**|**Diff-HierVC: Diffusion-based Hierarchical Voice Conversion with Robust Pitch Generation and Masked Prior for Zero-shot Speaker Adaptation**|Ha-Yeong Choi et.al.|[2311.04693](http://arxiv.org/abs/2311.04693)|null|
+|**2023-11-08**|**Deep learning as a tool for quantum error reduction in quantum image processing**|Krzysztof Werner et.al.|[2311.04575](http://arxiv.org/abs/2311.04575)|null|
+|**2023-11-08**|**A 3D generative model of pathological multi-modal MR images and segmentations**|Virginia Fernandez et.al.|[2311.04552](http://arxiv.org/abs/2311.04552)|**[link](https://github.com/virginiafdez/brainspade3d_rel)**|
 |**2023-11-07**|**Generative Structural Design Integrating BIM and Diffusion Model**|Zhili He et.al.|[2311.04052](http://arxiv.org/abs/2311.04052)|null|
 |**2023-11-07**|**3D EAGAN: 3D edge-aware attention generative adversarial network for prostate segmentation in transrectal ultrasound images**|Mengqing Liu et.al.|[2311.04049](http://arxiv.org/abs/2311.04049)|null|
-|**2023-11-07**|**Improving the Effectiveness of Deep Generative Data**|Ruyu Wang et.al.|[2311.03959](http://arxiv.org/abs/2311.03959)|null|
+|**2023-11-08**|**Improving the Effectiveness of Deep Generative Data**|Ruyu Wang et.al.|[2311.03959](http://arxiv.org/abs/2311.03959)|null|
 |**2023-11-07**|**MeVGAN: GAN-based Plugin Model for Video Generation with Applications in Colonoscopy**|Łukasz Struski et.al.|[2311.03884](http://arxiv.org/abs/2311.03884)|null|
 |**2023-11-07**|**SCONE-GAN: Semantic Contrastive learning-based Generative Adversarial Network for an end-to-end image translation**|Iman Abbasnejad et.al.|[2311.03866](http://arxiv.org/abs/2311.03866)|null|
 |**2023-11-07**|**Unsupervised Video Summarization**|Hanqing Li et.al.|[2311.03745](http://arxiv.org/abs/2311.03745)|null|
@@ -823,6 +826,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-08**|**Diff-HierVC: Diffusion-based Hierarchical Voice Conversion with Robust Pitch Generation and Masked Prior for Zero-shot Speaker Adaptation**|Ha-Yeong Choi et.al.|[2311.04693](http://arxiv.org/abs/2311.04693)|null|
+|**2023-11-08**|**Weakly-supervised deepfake localization in diffusion-generated images**|Dragos Tantaru et.al.|[2311.04584](http://arxiv.org/abs/2311.04584)|null|
+|**2023-11-08**|**A 3D generative model of pathological multi-modal MR images and segmentations**|Virginia Fernandez et.al.|[2311.04552](http://arxiv.org/abs/2311.04552)|**[link](https://github.com/virginiafdez/brainspade3d_rel)**|
+|**2023-11-07**|**3DiffTection: 3D Object Detection with Geometry-Aware Diffusion Features**|Chenfeng Xu et.al.|[2311.04391](http://arxiv.org/abs/2311.04391)|null|
+|**2023-11-07**|**Dose-aware Diffusion Model for 3D Ultra Low-dose PET Imaging**|Huidong Xie et.al.|[2311.04248](http://arxiv.org/abs/2311.04248)|null|
 |**2023-11-07**|**I2VGen-XL: High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models**|Shiwei Zhang et.al.|[2311.04145](http://arxiv.org/abs/2311.04145)|null|
 |**2023-11-07**|**Generative Structural Design Integrating BIM and Diffusion Model**|Zhili He et.al.|[2311.04052](http://arxiv.org/abs/2311.04052)|null|
 |**2023-11-07**|**Formulating Discrete Probability Flow Through Optimal Transport**|Pengze Zhang et.al.|[2311.03886](http://arxiv.org/abs/2311.03886)|**[link](https://github.com/pangzecheung/discrete-probability-flow)**|
@@ -2468,6 +2476,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-08**|**LuminanceL1Loss: A loss function which measures percieved brightness and colour differences**|Dominic De Jonge et.al.|[2311.04614](http://arxiv.org/abs/2311.04614)|null|
 |**2023-11-07**|**Energy-based Calibrated VAE with Test Time Free Lunch**|Yihong Luo et.al.|[2311.04071](http://arxiv.org/abs/2311.04071)|null|
 |**2023-11-07**|**Constrained Regularization by Denoising with Automatic Parameter Selection**|Pasquale Cascarano et.al.|[2311.03819](http://arxiv.org/abs/2311.03819)|null|
 |**2023-11-06**|**Pelvic floor MRI segmentation based on semi-supervised deep learning**|Jianwei Zuo et.al.|[2311.03105](http://arxiv.org/abs/2311.03105)|null|
@@ -2803,6 +2812,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-08**|**VET: Visual Error Tomography for Point Cloud Completion and High-Quality Neural Rendering**|Linus Franke et.al.|[2311.04634](http://arxiv.org/abs/2311.04634)|**[link](https://github.com/lfranke/vet)**|
+|**2023-11-08**|**PRED: Pre-training via Semantic Rendering on LiDAR Point Clouds**|Hao Yang et.al.|[2311.04501](http://arxiv.org/abs/2311.04501)|null|
 |**2023-11-03**|**INeAT: Iterative Neural Adaptive Tomography**|Bo Xiong et.al.|[2311.01653](http://arxiv.org/abs/2311.01653)|null|
 |**2023-11-01**|**Neural Implicit Field Editing Considering Object-environment Interaction**|Zhihong Zeng et.al.|[2311.00425](http://arxiv.org/abs/2311.00425)|null|
 |**2023-10-25**|**UAV-Sim: NeRF-based Synthetic Data Generation for UAV-based Perception**|Christopher Maxey et.al.|[2310.16255](http://arxiv.org/abs/2310.16255)|null|

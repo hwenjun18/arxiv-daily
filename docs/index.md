@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.15
+## Updated on 2023.11.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -836,9 +836,9 @@ layout: default
 |**2023-11-14**|**One-2-3-45++: Fast Single Image to 3D Objects with Consistent Multi-View Generation and 3D Diffusion**|Minghua Liu et.al.|[2311.07885](http://arxiv.org/abs/2311.07885)|null|
 |**2023-11-12**|**CLAMP: A Contrastive Language And Molecule Pre-training Network**|Neel Redkar et.al.|[2311.07617](http://arxiv.org/abs/2311.07617)|**[link](https://github.com/neelr/clamp)**|
 |**2023-11-11**|**Finetuning Text-to-Image Diffusion Models for Fairness**|Xudong Shen et.al.|[2311.07604](http://arxiv.org/abs/2311.07604)|null|
-|**2023-11-13**|**Fast and Space-Efficient Parallel Algorithms for Influence Maximization**|Letong Wang et.al.|[2311.07554](http://arxiv.org/abs/2311.07554)|null|
+|**2023-11-13**|**Fast and Space-Efficient Parallel Algorithms for Influence Maximization**|Letong Wang et.al.|[2311.07554](http://arxiv.org/abs/2311.07554)|**[link](https://github.com/ucrparlay/influence-maximization)**|
 |**2023-11-13**|**Robust semi-supervised segmentation with timestep ensembling diffusion models**|Margherita Rosnati et.al.|[2311.07421](http://arxiv.org/abs/2311.07421)|null|
-|**2023-11-13**|**Zero-Shot Duet Singing Voices Separation with Diffusion Models**|Chin-Yun Yu et.al.|[2311.07345](http://arxiv.org/abs/2311.07345)|null|
+|**2023-11-13**|**Zero-Shot Duet Singing Voices Separation with Diffusion Models**|Chin-Yun Yu et.al.|[2311.07345](http://arxiv.org/abs/2311.07345)|**[link](https://github.com/yoyololicon/duet-svs-diffusion)**|
 |**2023-11-13**|**A Gaussian Process Based Method with Deep Kernel Learning for Pricing High-dimensional American Options**|Jirong Zhuang et.al.|[2311.07211](http://arxiv.org/abs/2311.07211)|null|
 |**2023-11-13**|**MonoDiffusion: Self-Supervised Monocular Depth Estimation Using Diffusion Model**|Shuwei Shao et.al.|[2311.07198](http://arxiv.org/abs/2311.07198)|**[link](https://github.com/shuweishao/monodiffusion)**|
 |**2023-11-13**|**Adversarial Purification for Data-Driven Power System Event Classifiers with Diffusion Models**|Yuanbin Cheng et.al.|[2311.07110](http://arxiv.org/abs/2311.07110)|null|

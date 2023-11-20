@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.19
+## Updated on 2023.11.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -49,7 +49,7 @@ layout: default
 |**2023-11-14**|**TSST: A Benchmark and Evaluation Models for Text Speech-Style Transfer**|Huashan Sun et.al.|[2311.08389](http://arxiv.org/abs/2311.08389)|null|
 |**2023-11-13**|**STEER: Unified Style Transfer with Expert Reinforcement**|Skyler Hallinan et.al.|[2311.07167](http://arxiv.org/abs/2311.07167)|null|
 |**2023-11-13**|**CycleGANAS: Differentiable Neural Architecture Search for CycleGAN**|Taegun An et.al.|[2311.07162](http://arxiv.org/abs/2311.07162)|null|
-|**2023-11-11**|**In-context Vectors: Making In Context Learning More Effective and Controllable Through Latent Space Steering**|Sheng Liu et.al.|[2311.06668](http://arxiv.org/abs/2311.06668)|**[link](https://github.com/shengliu66/icv)**|
+|**2023-11-16**|**In-context Vectors: Making In Context Learning More Effective and Controllable Through Latent Space Steering**|Sheng Liu et.al.|[2311.06668](http://arxiv.org/abs/2311.06668)|**[link](https://github.com/shengliu66/icv)**|
 |**2023-11-10**|**BanglaBait: Semi-Supervised Adversarial Approach for Clickbait Detection on Bangla Clickbait Dataset**|Md. Motahar Mahtab et.al.|[2311.06204](http://arxiv.org/abs/2311.06204)|**[link](https://github.com/mdmotaharmahtab/banglabait)**|
 |**2023-11-09**|**3DGAUnet: 3D generative adversarial networks with a 3D U-Net based generator to achieve the accurate and effective synthesis of clinical tumor image data for pancreatic cancer**|Yu Shi et.al.|[2311.05697](http://arxiv.org/abs/2311.05697)|null|
 |**2023-11-09**|**L-WaveBlock: A Novel Feature Extractor Leveraging Wavelets for Generative Adversarial Networks**|Mirat Shah et.al.|[2311.05548](http://arxiv.org/abs/2311.05548)|null|

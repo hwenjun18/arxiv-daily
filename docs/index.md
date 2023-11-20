@@ -39,12 +39,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-17**|**Human motion trajectory prediction using the Social Force Model for real-time and low computational cost applications**|Oscar Gil et.al.|[2311.10582](http://arxiv.org/abs/2311.10582)|null|
+|**2023-11-17**|**Semi-supervised ViT knowledge distillation network with style transfer normalization for colorectal liver metastases survival prediction**|Mohamed El Amine Elforaici et.al.|[2311.10305](http://arxiv.org/abs/2311.10305)|null|
+|**2023-11-17**|**Advancements in Generative AI: A Comprehensive Review of GANs, GPT, Autoencoders, Diffusion Model, and Transformers**|Staphord Bengesi et.al.|[2311.10242](http://arxiv.org/abs/2311.10242)|null|
+|**2023-11-15**|**Study of topological quantities of lattice QCD by a modified Wasserstein generative adversarial network**|Lin Gao et.al.|[2311.10108](http://arxiv.org/abs/2311.10108)|null|
 |**2023-11-16**|**MAM-E: Mammographic synthetic image generation with diffusion models**|Ricardo Montoya-del-Angel et.al.|[2311.09822](http://arxiv.org/abs/2311.09822)|**[link](https://github.com/Likalto4/diffusion-models_master)**|
 |**2023-11-16**|**SynDiffix: More accurate synthetic structured data**|Paul Francis et.al.|[2311.09628](http://arxiv.org/abs/2311.09628)|null|
 |**2023-11-15**|**Strategic Data Augmentation with CTGAN for Smart Manufacturing: Enhancing Machine Learning Predictions of Paper Breaks in Pulp-and-Paper Production**|Hamed Khosravi et.al.|[2311.09333](http://arxiv.org/abs/2311.09333)|null|
 |**2023-11-15**|**NormNet: Scale Normalization for 6D Pose Estimation in Stacked Scenarios**|En-Te Lin et.al.|[2311.09269](http://arxiv.org/abs/2311.09269)|**[link](https://github.com/shuttlet/normnet)**|
 |**2023-11-15**|**FastBlend: a Powerful Model-Free Toolkit Making Video Stylization Easier**|Zhongjie Duan et.al.|[2311.09265](http://arxiv.org/abs/2311.09265)|**[link](https://github.com/artiprocher/sd-webui-fastblend)**|
-|**2023-11-15**|**RBPGAN: Recurrent Back-Projection GAN for Video Super Resolution**|Dareen Hussein et.al.|[2311.09178](http://arxiv.org/abs/2311.09178)|null|
+|**2023-11-17**|**RBPGAN: Recurrent Back-Projection GAN for Video Super Resolution**|Israa Fahmy et.al.|[2311.09178](http://arxiv.org/abs/2311.09178)|null|
 |**2023-11-14**|**PEMA: Plug-in External Memory Adaptation for Language Models**|HyunJin Kim et.al.|[2311.08590](http://arxiv.org/abs/2311.08590)|null|
 |**2023-11-14**|**TSST: A Benchmark and Evaluation Models for Text Speech-Style Transfer**|Huashan Sun et.al.|[2311.08389](http://arxiv.org/abs/2311.08389)|null|
 |**2023-11-13**|**STEER: Unified Style Transfer with Expert Reinforcement**|Skyler Hallinan et.al.|[2311.07167](http://arxiv.org/abs/2311.07167)|null|
@@ -834,6 +838,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-17**|**SelfEval: Leveraging the discriminative nature of generative models for evaluation**|Sai Saketh Rambhatla et.al.|[2311.10708](http://arxiv.org/abs/2311.10708)|null|
+|**2023-11-17**|**Enhancing Object Coherence in Layout-to-Image Synthesis**|Yibin Wang et.al.|[2311.10522](http://arxiv.org/abs/2311.10522)|null|
+|**2023-11-17**|**Local asymptotics and optimal control for a viscous Cahn-Hilliard-Reaction-Diffusion model for tumor growth**|Elisa Davoli et.al.|[2311.10457](http://arxiv.org/abs/2311.10457)|null|
+|**2023-11-17**|**High-fidelity Person-centric Subject-to-Image Synthesis**|Yibin Wang et.al.|[2311.10329](http://arxiv.org/abs/2311.10329)|null|
+|**2023-11-17**|**Joint channel estimation and data detection in massive MIMO systems based on diffusion models**|Nicolas Zilberstein et.al.|[2311.10311](http://arxiv.org/abs/2311.10311)|null|
+|**2023-11-17**|**Advancements in Generative AI: A Comprehensive Review of GANs, GPT, Autoencoders, Diffusion Model, and Transformers**|Staphord Bengesi et.al.|[2311.10242](http://arxiv.org/abs/2311.10242)|null|
+|**2023-11-16**|**K-space Cold Diffusion: Learning to Reconstruct Accelerated MRI without Noise**|Guoyao Shen et.al.|[2311.10162](http://arxiv.org/abs/2311.10162)|null|
+|**2023-11-16**|**MetaDreamer: Efficient Text-to-3D Creation With Disentangling Geometry and Texture**|Lincong Feng et.al.|[2311.10123](http://arxiv.org/abs/2311.10123)|null|
 |**2023-11-16**|**The Chosen One: Consistent Characters in Text-to-Image Diffusion Models**|Omri Avrahami et.al.|[2311.10093](http://arxiv.org/abs/2311.10093)|null|
 |**2023-11-16**|**TransFusion -- A Transparency-Based Diffusion Model for Anomaly Detection**|Matic Fučka et.al.|[2311.09999](http://arxiv.org/abs/2311.09999)|null|
 |**2023-11-16**|**DSR-Diff: Depth Map Super-Resolution with Diffusion Model**|Yuan Shi et.al.|[2311.09919](http://arxiv.org/abs/2311.09919)|null|
@@ -2544,6 +2556,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-17**|**Astronomical Images Quality Assessment with Automated Machine Learning**|Olivier Parisot et.al.|[2311.10617](http://arxiv.org/abs/2311.10617)|null|
+|**2023-11-16**|**K-space Cold Diffusion: Learning to Reconstruct Accelerated MRI without Noise**|Guoyao Shen et.al.|[2311.10162](http://arxiv.org/abs/2311.10162)|null|
 |**2023-11-16**|**Emu Edit: Precise Image Editing via Recognition and Generation Tasks**|Shelly Sheynin et.al.|[2311.10089](http://arxiv.org/abs/2311.10089)|null|
 |**2023-11-15**|**FastBlend: a Powerful Model-Free Toolkit Making Video Stylization Easier**|Zhongjie Duan et.al.|[2311.09265](http://arxiv.org/abs/2311.09265)|**[link](https://github.com/artiprocher/sd-webui-fastblend)**|
 |**2023-11-14**|**The Perception-Robustness Tradeoff in Deterministic Image Restoration**|Guy Ohayon et.al.|[2311.09253](http://arxiv.org/abs/2311.09253)|null|

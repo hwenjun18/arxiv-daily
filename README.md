@@ -51,6 +51,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-27**|**Observer study-based evaluation of TGAN architecture used to generate oncological PET images**|Roberto Fedrigo et.al.|[2311.16047](http://arxiv.org/abs/2311.16047)|null|
+|**2023-11-27**|**A deep learning approach for marine snow synthesis and removal**|Fernando Galetto et.al.|[2311.15584](http://arxiv.org/abs/2311.15584)|**[link](https://github.com/fergaletto/mssr)**|
+|**2023-11-27**|**Video-based Visible-Infrared Person Re-Identification with Auxiliary Samples**|Yunhao Du et.al.|[2311.15571](http://arxiv.org/abs/2311.15571)|**[link](https://github.com/dyhbupt/buptcampus)**|
+|**2023-11-27**|**ET3D: Efficient Text-to-3D Generation via Multi-View Distillation**|Yiming Chen et.al.|[2311.15561](http://arxiv.org/abs/2311.15561)|null|
+|**2023-11-25**|**Multi-Scale Sub-Band Constant-Q Transform Discriminator for High-Fidelity Vocoder**|Yicheng Gu et.al.|[2311.14957](http://arxiv.org/abs/2311.14957)|null|
+|**2023-11-25**|**FreePIH: Training-Free Painterly Image Harmonization with Diffusion Model**|Ruibin Li et.al.|[2311.14926](http://arxiv.org/abs/2311.14926)|null|
 |**2023-11-24**|**Neural Style Transfer for Computer Games**|Eleftherios Ioannou et.al.|[2311.14617](http://arxiv.org/abs/2311.14617)|null|
 |**2023-11-24**|**A Parameterized Generative Adversarial Network Using Cyclic Projection for Explainable Medical Image Classification**|Xiangyu Xiong et.al.|[2311.14388](http://arxiv.org/abs/2311.14388)|null|
 |**2023-11-23**|**Video Anomaly Detection using GAN**|Anikeit Sethi et.al.|[2311.14095](http://arxiv.org/abs/2311.14095)|null|
@@ -870,6 +876,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-27**|**Test-time Adaptation of Discriminative Models via Diffusion Generative Feedback**|Mihir Prabhudesai et.al.|[2311.16102](http://arxiv.org/abs/2311.16102)|null|
+|**2023-11-27**|**Self-correcting LLM-controlled Diffusion Models**|Tsung-Han Wu et.al.|[2311.16090](http://arxiv.org/abs/2311.16090)|null|
+|**2023-11-27**|**DiffSLVA: Harnessing Diffusion Models for Sign Language Video Anonymization**|Zhaoyang Xia et.al.|[2311.16060](http://arxiv.org/abs/2311.16060)|**[link](https://github.com/jeffery9707/diffslva)**|
+|**2023-11-27**|**Exploring Attribute Variations in Style-based GANs using Diffusion Models**|Rishubh Parihar et.al.|[2311.16052](http://arxiv.org/abs/2311.16052)|null|
+|**2023-11-27**|**GaussianEditor: Editing 3D Gaussians Delicately with Text Instructions**|Jiemin Fang et.al.|[2311.16037](http://arxiv.org/abs/2311.16037)|null|
+|**2023-11-27**|**Closing the ODE-SDE gap in score-based diffusion models through the Fokker-Planck equation**|Teo Deveney et.al.|[2311.15996](http://arxiv.org/abs/2311.15996)|null|
+|**2023-11-27**|**DiffAnt: Diffusion Models for Action Anticipation**|Zeyun Zhong et.al.|[2311.15991](http://arxiv.org/abs/2311.15991)|null|
+|**2023-11-27**|**Direct2.5: Diverse Text-to-3D Generation via Multi-view 2.5D Diffusion**|Yuanxun Lu et.al.|[2311.15980](http://arxiv.org/abs/2311.15980)|null|
+|**2023-11-27**|**Enhancing Perceptual Quality in Video Super-Resolution through Temporally-Consistent Detail Synthesis using Diffusion Models**|Claudio Rota et.al.|[2311.15908](http://arxiv.org/abs/2311.15908)|**[link](https://github.com/claudiom4sir/stablevsr)**|
+|**2023-11-27**|**InterControl: Generate Human Motion Interactions by Controlling Every Joint**|Zhenzhi Wang et.al.|[2311.15864](http://arxiv.org/abs/2311.15864)|**[link](https://github.com/zhenzhiwang/intercontrol)**|
+|**2023-11-27**|**SiTH: Single-view Textured Human Reconstruction with Image-Conditioned Diffusion**|Hsuan-I Ho et.al.|[2311.15855](http://arxiv.org/abs/2311.15855)|null|
+|**2023-11-27**|**FlowZero: Zero-Shot Text-to-Video Synthesis with LLM-Driven Dynamic Scene Syntax**|Yu Lu et.al.|[2311.15813](http://arxiv.org/abs/2311.15813)|null|
+|**2023-11-27**|**Check, Locate, Rectify: A Training-Free Layout Calibration System for Text-to-Image Generation**|Biao Gong et.al.|[2311.15773](http://arxiv.org/abs/2311.15773)|null|
+|**2023-11-27**|**One More Step: A Versatile Plug-and-Play Module for Rectifying Diffusion Schedule Flaws and Enhancing Low-Frequency Controls**|Minghui Hu et.al.|[2311.15744](http://arxiv.org/abs/2311.15744)|null|
+|**2023-11-27**|**SceneDM: Scene-level Multi-agent Trajectory Generation with Consistent Diffusion Models**|Zhiming Guo et.al.|[2311.15736](http://arxiv.org/abs/2311.15736)|null|
+|**2023-11-27**|**Regularization by Texts for Latent Diffusion Inverse Solvers**|Jeongsol Kim et.al.|[2311.15658](http://arxiv.org/abs/2311.15658)|null|
+|**2023-11-27**|**Enhancing Diffusion Models with Text-Encoder Reinforcement Learning**|Chaofeng Chen et.al.|[2311.15657](http://arxiv.org/abs/2311.15657)|**[link](https://github.com/chaofengc/texforce)**|
+|**2023-11-27**|**ET3D: Efficient Text-to-3D Generation via Multi-View Distillation**|Yiming Chen et.al.|[2311.15561](http://arxiv.org/abs/2311.15561)|null|
+|**2023-11-27**|**Instruct2Attack: Language-Guided Semantic Adversarial Attacks**|Jiang Liu et.al.|[2311.15551](http://arxiv.org/abs/2311.15551)|null|
+|**2023-11-27**|**Efficient Dataset Distillation via Minimax Diffusion**|Jianyang Gu et.al.|[2311.15529](http://arxiv.org/abs/2311.15529)|**[link](https://github.com/vimar-gu/minimaxdiffusion)**|
 |**2023-11-24**|**CatVersion: Concatenating Embeddings for Diffusion-Based Text-to-Image Personalization**|Ruoyu Zhao et.al.|[2311.14631](http://arxiv.org/abs/2311.14631)|null|
 |**2023-11-24**|**Animate124: Animating One Image to 4D Dynamic Scene**|Yuyang Zhao et.al.|[2311.14603](http://arxiv.org/abs/2311.14603)|null|
 |**2023-11-24**|**ToddlerDiffusion: Flash Interpretable Controllable Diffusion Model**|Eslam Mohamed Bakr et.al.|[2311.14542](http://arxiv.org/abs/2311.14542)|null|
@@ -2651,6 +2677,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-27**|**Self-correcting LLM-controlled Diffusion Models**|Tsung-Han Wu et.al.|[2311.16090](http://arxiv.org/abs/2311.16090)|null|
+|**2023-11-26**|**FLAIR: A Conditional Diffusion Framework with Applications to Face Video Restoration**|Zihao Zou et.al.|[2311.15445](http://arxiv.org/abs/2311.15445)|null|
 |**2023-11-23**|**A New Benchmark and Model for Challenging Image Manipulation Detection**|Zhenfei Zhang et.al.|[2311.14218](http://arxiv.org/abs/2311.14218)|null|
 |**2023-11-23**|**Posterior Distillation Sampling**|Juil Koo et.al.|[2311.13831](http://arxiv.org/abs/2311.13831)|null|
 |**2023-11-22**|**Retargeting Visual Data with Deformation Fields**|Tim Elsner et.al.|[2311.13297](http://arxiv.org/abs/2311.13297)|null|
@@ -3003,6 +3031,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-27**|**CaesarNeRF: Calibrated Semantic Representation for Few-shot Generalizable Neural Rendering**|Haidong Zhu et.al.|[2311.15510](http://arxiv.org/abs/2311.15510)|**[link](https://github.com/haidongz-usc/CaesarNeRF)**|
+|**2023-11-26**|**NeuRAD: Neural Rendering for Autonomous Driving**|Adam Tonderski et.al.|[2311.15260](http://arxiv.org/abs/2311.15260)|**[link](https://github.com/georghess/neurad)**|
 |**2023-11-23**|**Towards Transferable Multi-modal Perception Representation Learning for Autonomy: NeRF-Supervised Masked AutoEncoder**|Xiaohao Xu et.al.|[2311.13750](http://arxiv.org/abs/2311.13750)|null|
 |**2023-11-20**|**LABELMAKER: Automatic Semantic Label Generation from RGB-D Trajectories**|Silvan Weder et.al.|[2311.12174](http://arxiv.org/abs/2311.12174)|null|
 |**2023-11-17**|**SplatArmor: Articulated Gaussian splatting for animatable humans from monocular RGB videos**|Rohit Jena et.al.|[2311.10812](http://arxiv.org/abs/2311.10812)|null|
@@ -3172,6 +3202,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-26**|**Web-Based Dynamic Paintings: Real-Time Interactive Artworks in Web Using a 2.5D Pipeline**|Ergun Akleman et.al.|[2311.15354](http://arxiv.org/abs/2311.15354)|null|
+|**2023-11-26**|**GAIA: Zero-shot Talking Avatar Generation**|Tianyu He et.al.|[2311.15230](http://arxiv.org/abs/2311.15230)|null|
 |**2023-11-23**|**On the Hyperparameter Landscapes of Machine Learning Algorithms**|Mingyu Huang et.al.|[2311.14014](http://arxiv.org/abs/2311.14014)|null|
 |**2023-11-16**|**An Attention-Based Denoising Framework for Personality Detection in Social Media Texts**|Qirui Tang et.al.|[2311.09945](http://arxiv.org/abs/2311.09945)|**[link](https://github.com/once2gain/personalitydetection)**|
 |**2023-11-15**|**Personalized Video Relighting Using Casual Light Stage**|Jun Myeong Choi et.al.|[2311.08843](http://arxiv.org/abs/2311.08843)|null|

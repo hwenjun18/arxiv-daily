@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.28
+## Updated on 2023.11.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -39,7 +39,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-11-27**|**Observer study-based evaluation of TGAN architecture used to generate oncological PET images**|Roberto Fedrigo et.al.|[2311.16047](http://arxiv.org/abs/2311.16047)|null|
+|**2023-11-28**|**Observer study-based evaluation of TGAN architecture used to generate oncological PET images**|Roberto Fedrigo et.al.|[2311.16047](http://arxiv.org/abs/2311.16047)|null|
 |**2023-11-27**|**A deep learning approach for marine snow synthesis and removal**|Fernando Galetto et.al.|[2311.15584](http://arxiv.org/abs/2311.15584)|**[link](https://github.com/fergaletto/mssr)**|
 |**2023-11-27**|**Video-based Visible-Infrared Person Re-Identification with Auxiliary Samples**|Yunhao Du et.al.|[2311.15571](http://arxiv.org/abs/2311.15571)|**[link](https://github.com/dyhbupt/buptcampus)**|
 |**2023-11-27**|**ET3D: Efficient Text-to-3D Generation via Multi-View Distillation**|Yiming Chen et.al.|[2311.15561](http://arxiv.org/abs/2311.15561)|null|

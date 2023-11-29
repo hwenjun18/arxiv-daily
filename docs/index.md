@@ -39,6 +39,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-25**|**$Z^*$ : Zero-shot Style Transfer via Attention Rearrangement**|Yingying Deng et.al.|[2311.16491](http://arxiv.org/abs/2311.16491)|null|
 |**2023-11-28**|**Observer study-based evaluation of TGAN architecture used to generate oncological PET images**|Roberto Fedrigo et.al.|[2311.16047](http://arxiv.org/abs/2311.16047)|null|
 |**2023-11-27**|**A deep learning approach for marine snow synthesis and removal**|Fernando Galetto et.al.|[2311.15584](http://arxiv.org/abs/2311.15584)|**[link](https://github.com/fergaletto/mssr)**|
 |**2023-11-27**|**Video-based Visible-Infrared Person Re-Identification with Auxiliary Samples**|Yunhao Du et.al.|[2311.15571](http://arxiv.org/abs/2311.15571)|**[link](https://github.com/dyhbupt/buptcampus)**|
@@ -50,7 +51,7 @@ layout: default
 |**2023-11-23**|**Video Anomaly Detection using GAN**|Anikeit Sethi et.al.|[2311.14095](http://arxiv.org/abs/2311.14095)|null|
 |**2023-11-23**|**Human Machine Co-Creation. A Complementary Cognitive Approach to Creative Character Design Process Using GANs**|Mohammad Lataifeh et.al.|[2311.13960](http://arxiv.org/abs/2311.13960)|null|
 |**2023-11-23**|**Exploring Methods for Cross-lingual Text Style Transfer: The Case of Text Detoxification**|Daryna Dementieva et.al.|[2311.13937](http://arxiv.org/abs/2311.13937)|null|
-|**2023-11-23**|**Perceptual Image Compression with Cooperative Cross-Modal Side Information**|Shiyu Qin et.al.|[2311.13847](http://arxiv.org/abs/2311.13847)|null|
+|**2023-11-28**|**Perceptual Image Compression with Cooperative Cross-Modal Side Information**|Shiyu Qin et.al.|[2311.13847](http://arxiv.org/abs/2311.13847)|null|
 |**2023-11-22**|**Physics-driven generative adversarial networks empower single-pixel infrared hyperspectral imaging**|Dong-Yin Wang et.al.|[2311.13626](http://arxiv.org/abs/2311.13626)|null|
 |**2023-11-22**|**Soulstyler: Using Large Language Model to Guide Image Style Transfer for Target Object**|Junhao Chen et.al.|[2311.13562](http://arxiv.org/abs/2311.13562)|**[link](https://github.com/yisuanwang/soulstyler)**|
 |**2023-11-22**|**3D Face Style Transfer with a Hybrid Solution of NeRF and Mesh Rasterization**|Jianwei Feng et.al.|[2311.13168](http://arxiv.org/abs/2311.13168)|null|
@@ -862,6 +863,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-28**|**Material Palette: Extraction of Materials from a Single Image**|Ivan Lopes et.al.|[2311.17060](http://arxiv.org/abs/2311.17060)|null|
+|**2023-11-28**|**DiffuseBot: Breeding Soft Robots With Physics-Augmented Generative Diffusion Models**|Tsun-Hsuan Wang et.al.|[2311.17053](http://arxiv.org/abs/2311.17053)|null|
+|**2023-11-28**|**Surf-D: High-Quality Surface Generation for Arbitrary Topologies using Diffusion Models**|Zhengming Yu et.al.|[2311.17050](http://arxiv.org/abs/2311.17050)|null|
+|**2023-11-28**|**Adversarial Diffusion Distillation**|Axel Sauer et.al.|[2311.17042](http://arxiv.org/abs/2311.17042)|**[link](https://github.com/stability-ai/generative-models)**|
+|**2023-11-28**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
+|**2023-11-28**|**Ranni: Taming Text-to-Image Diffusion for Accurate Instruction Following**|Yutong Feng et.al.|[2311.17002](http://arxiv.org/abs/2311.17002)|null|
+|**2023-11-28**|**COLE: A Hierarchical Generation Framework for Graphic Design**|Peidong Jia et.al.|[2311.16974](http://arxiv.org/abs/2311.16974)|null|
+|**2023-11-28**|**HumanRef: Single Image to 3D Human Generation via Reference-Guided Diffusion**|Jingbo Zhang et.al.|[2311.16961](http://arxiv.org/abs/2311.16961)|null|
+|**2023-11-28**|**SparseCtrl: Adding Sparse Controls to Text-to-Video Diffusion Models**|Yuwei Guo et.al.|[2311.16933](http://arxiv.org/abs/2311.16933)|null|
+|**2023-11-28**|**RichDreamer: A Generalizable Normal-Depth Diffusion Model for Detail Richness in Text-to-3D**|Lingteng Qiu et.al.|[2311.16918](http://arxiv.org/abs/2311.16918)|null|
+|**2023-11-28**|**On the existence of optimal multi-valued decoders and their accuracy bounds for undersampled inverse problems**|Nina Maria Gottschling et.al.|[2311.16898](http://arxiv.org/abs/2311.16898)|null|
+|**2023-11-28**|**Wavelet-based Fourier Information Interaction with Frequency Diffusion Adjustment for Underwater Image Restoration**|Chen Zhao et.al.|[2311.16845](http://arxiv.org/abs/2311.16845)|null|
+|**2023-11-28**|**As-Plausible-As-Possible: Plausibility-Aware Mesh Deformation Using 2D Diffusion Priors**|Seungwoo Yoo et.al.|[2311.16739](http://arxiv.org/abs/2311.16739)|null|
+|**2023-11-28**|**LEDITS++: Limitless Image Editing using Text-to-Image Models**|Manuel Brack et.al.|[2311.16711](http://arxiv.org/abs/2311.16711)|null|
+|**2023-11-28**|**MobileDiffusion: Subsecond Text-to-Image Generation on Mobile Devices**|Yang Zhao et.al.|[2311.16567](http://arxiv.org/abs/2311.16567)|null|
+|**2023-11-28**|**DiffusionTalker: Personalization and Acceleration for Speech-Driven 3D Face Diffuser**|Peng Chen et.al.|[2311.16565](http://arxiv.org/abs/2311.16565)|null|
+|**2023-11-28**|**Enhancing Scene Text Detectors with Realistic Text Image Synthesis Using Diffusion Models**|Ling Fu et.al.|[2311.16555](http://arxiv.org/abs/2311.16555)|null|
+|**2023-11-28**|**Federated Learning with Diffusion Models for Privacy-Sensitive Vision Tasks**|Ye Lin Tun et.al.|[2311.16538](http://arxiv.org/abs/2311.16538)|null|
+|**2023-11-28**|**Exploring Straighter Trajectories of Flow Matching with Diffusion Guidance**|Siyu Xing et.al.|[2311.16507](http://arxiv.org/abs/2311.16507)|null|
+|**2023-11-28**|**Efficient Multimodal Diffusion Models Using Joint Data Infilling with Partially Shared U-Net**|Zizhao Hu et.al.|[2311.16488](http://arxiv.org/abs/2311.16488)|null|
 |**2023-11-27**|**Test-time Adaptation of Discriminative Models via Diffusion Generative Feedback**|Mihir Prabhudesai et.al.|[2311.16102](http://arxiv.org/abs/2311.16102)|null|
 |**2023-11-27**|**Self-correcting LLM-controlled Diffusion Models**|Tsung-Han Wu et.al.|[2311.16090](http://arxiv.org/abs/2311.16090)|null|
 |**2023-11-27**|**DiffSLVA: Harnessing Diffusion Models for Sign Language Video Anonymization**|Zhaoyang Xia et.al.|[2311.16060](http://arxiv.org/abs/2311.16060)|**[link](https://github.com/jeffery9707/diffslva)**|
@@ -2661,6 +2682,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-28**|**Optimisation-Based Multi-Modal Semantic Image Editing**|Bowen Li et.al.|[2311.16882](http://arxiv.org/abs/2311.16882)|null|
+|**2023-11-28**|**Wavelet-based Fourier Information Interaction with Frequency Diffusion Adjustment for Underwater Image Restoration**|Chen Zhao et.al.|[2311.16845](http://arxiv.org/abs/2311.16845)|null|
+|**2023-11-28**|**Decomposer: Semi-supervised Learning of Image Restoration and Image Decomposition**|Boris Meinardus et.al.|[2311.16829](http://arxiv.org/abs/2311.16829)|null|
+|**2023-11-28**|**LEDITS++: Limitless Image Editing using Text-to-Image Models**|Manuel Brack et.al.|[2311.16711](http://arxiv.org/abs/2311.16711)|null|
+|**2023-11-28**|**Full-resolution MLPs Empower Medical Dense Prediction**|Mingyuan Meng et.al.|[2311.16707](http://arxiv.org/abs/2311.16707)|**[link](https://github.com/mungomeng/densepred-fullmlp)**|
+|**2023-11-27**|**LLMGA: Multimodal Large Language Model based Generation Assistant**|Bin Xia et.al.|[2311.16500](http://arxiv.org/abs/2311.16500)|null|
+|**2023-11-27**|**RetouchUAA: Unconstrained Adversarial Attack via Image Retouching**|Mengda Xie et.al.|[2311.16478](http://arxiv.org/abs/2311.16478)|null|
+|**2023-11-28**|**Text-Driven Image Editing via Learnable Regions**|Yuanze Lin et.al.|[2311.16432](http://arxiv.org/abs/2311.16432)|**[link](https://github.com/yuanze-lin/Learnable_Regions)**|
+|**2023-11-27**|**Joint Deep Image Restoration and Unsupervised Quality Assessment**|Hakan Emre Gedik et.al.|[2311.16372](http://arxiv.org/abs/2311.16372)|null|
 |**2023-11-27**|**Self-correcting LLM-controlled Diffusion Models**|Tsung-Han Wu et.al.|[2311.16090](http://arxiv.org/abs/2311.16090)|null|
 |**2023-11-26**|**FLAIR: A Conditional Diffusion Framework with Applications to Face Video Restoration**|Zihao Zou et.al.|[2311.15445](http://arxiv.org/abs/2311.15445)|null|
 |**2023-11-23**|**A New Benchmark and Model for Challenging Image Manipulation Detection**|Zhenfei Zhang et.al.|[2311.14218](http://arxiv.org/abs/2311.14218)|null|
@@ -3013,6 +3043,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-28**|**Photo-SLAM: Real-time Simultaneous Localization and Photorealistic Mapping for Monocular, Stereo, and RGB-D Cameras**|Huajian Huang et.al.|[2311.16728](http://arxiv.org/abs/2311.16728)|null|
+|**2023-11-28**|**LiveNVS: Neural View Synthesis on Live RGB-D Streams**|Laura Fink et.al.|[2311.16668](http://arxiv.org/abs/2311.16668)|null|
+|**2023-11-28**|**DGNR: Density-Guided Neural Point Rendering of Large Driving Scenes**|Zhuopeng Li et.al.|[2311.16664](http://arxiv.org/abs/2311.16664)|null|
 |**2023-11-27**|**CaesarNeRF: Calibrated Semantic Representation for Few-shot Generalizable Neural Rendering**|Haidong Zhu et.al.|[2311.15510](http://arxiv.org/abs/2311.15510)|**[link](https://github.com/haidongz-usc/CaesarNeRF)**|
 |**2023-11-26**|**NeuRAD: Neural Rendering for Autonomous Driving**|Adam Tonderski et.al.|[2311.15260](http://arxiv.org/abs/2311.15260)|**[link](https://github.com/georghess/neurad)**|
 |**2023-11-23**|**Towards Transferable Multi-modal Perception Representation Learning for Autonomy: NeRF-Supervised Masked AutoEncoder**|Xiaohao Xu et.al.|[2311.13750](http://arxiv.org/abs/2311.13750)|null|
@@ -3141,6 +3174,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-28**|**DiffusionTalker: Personalization and Acceleration for Speech-Driven 3D Face Diffuser**|Peng Chen et.al.|[2311.16565](http://arxiv.org/abs/2311.16565)|null|
 |**2023-11-12**|**ChatAnything: Facetime Chat with LLM-Enhanced Personas**|Yilin Zhao et.al.|[2311.06772](http://arxiv.org/abs/2311.06772)|null|
 |**2023-10-21**|**Learning Motion Refinement for Unsupervised Face Animation**|Jiale Tao et.al.|[2310.13912](http://arxiv.org/abs/2310.13912)|**[link](https://github.com/jialetao/mrfa)**|
 |**2023-08-23**|**DF-3DFace: One-to-Many Speech Synchronized 3D Face Animation with Diffusion**|Se Jin Park et.al.|[2310.05934](http://arxiv.org/abs/2310.05934)|null|

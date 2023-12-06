@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.05
+## Updated on 2023.12.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -3347,7 +3347,7 @@ layout: default
 |**2023-11-26**|**GAIA: Zero-shot Talking Avatar Generation**|Tianyu He et.al.|[2311.15230](http://arxiv.org/abs/2311.15230)|null|
 |**2023-11-23**|**On the Hyperparameter Landscapes of Machine Learning Algorithms**|Mingyu Huang et.al.|[2311.14014](http://arxiv.org/abs/2311.14014)|null|
 |**2023-11-16**|**An Attention-Based Denoising Framework for Personality Detection in Social Media Texts**|Qirui Tang et.al.|[2311.09945](http://arxiv.org/abs/2311.09945)|**[link](https://github.com/once2gain/personalitydetection)**|
-|**2023-12-03**|**Personalized Video Relighting Using Casual Light Stage**|Jun Myeong Choi et.al.|[2311.08843](http://arxiv.org/abs/2311.08843)|null|
+|**2023-12-05**|**Personalized Video Relighting With an At-Home Light Stage**|Jun Myeong Choi et.al.|[2311.08843](http://arxiv.org/abs/2311.08843)|null|
 |**2023-11-07**|**Lightweight Portrait Matting via Regional Attention and Refinement**|Yatao Zhong et.al.|[2311.03770](http://arxiv.org/abs/2311.03770)|null|
 |**2023-11-06**|**Inclusive Portraits: Race-Aware Human-in-the-Loop Technology**|Claudia Flores-Saviaga et.al.|[2311.03567](http://arxiv.org/abs/2311.03567)|null|
 |**2023-11-06**|**InstructPix2NeRF: Instructed 3D Portrait Editing from a Single Image**|Jianhui Li et.al.|[2311.02826](http://arxiv.org/abs/2311.02826)|**[link](https://github.com/mybabyyh/instructpix2nerf)**|

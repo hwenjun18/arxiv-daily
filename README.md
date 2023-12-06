@@ -51,13 +51,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-03**|**Cycle-consistent Generative Adversarial Network Synthetic CT for MR-only Adaptive Radiation Therapy on MR-Linac**|Gabriel L. Asher et.al.|[2312.02211](http://arxiv.org/abs/2312.02211)|null|
 |**2023-12-04**|**ArtAdapter: Text-to-Image Style Transfer using Multi-Level Style Encoder and Explicit Adaptation**|Dar-Yen Chen et.al.|[2312.02109](http://arxiv.org/abs/2312.02109)|null|
 |**2023-12-04**|**SRTransGAN: Image Super-Resolution using Transformer based Generative Adversarial Network**|Neeraj Baghel et.al.|[2312.01999](http://arxiv.org/abs/2312.01999)|null|
 |**2023-12-04**|**SEFGAN: Harvesting the Power of Normalizing Flows and GANs for Efficient High-Quality Speech Enhancement**|Martin Strauss et.al.|[2312.01744](http://arxiv.org/abs/2312.01744)|null|
 |**2023-12-04**|**Multimodality-guided Image Style Transfer using Cross-modal GAN Inversion**|Hanyu Wang et.al.|[2312.01671](http://arxiv.org/abs/2312.01671)|null|
 |**2023-12-04**|**Learning Channel Capacity with Neural Mutual Information Estimator Based on Message Importance Measure**|Zhefan Li et.al.|[2312.01546](http://arxiv.org/abs/2312.01546)|null|
 |**2023-12-02**|**SASSL: Enhancing Self-Supervised Learning via Neural Style Transfer**|Renan A. Rojas-Gomez et.al.|[2312.01187](http://arxiv.org/abs/2312.01187)|null|
-|**2023-12-02**|**Generating Images of the M87* Black Hole Using GANs**|Arya Mohan et.al.|[2312.01005](http://arxiv.org/abs/2312.01005)|null|
+|**2023-12-02**|**Generating Images of the M87* Black Hole Using GANs**|Arya Mohan et.al.|[2312.01005](http://arxiv.org/abs/2312.01005)|**[link](https://github.com/aryamohan23/eht-gans)**|
 |**2023-12-02**|**Convergences for Minimax Optimization Problems over Infinite-Dimensional Spaces Towards Stability in Adversarial Training**|Takashi Furuya et.al.|[2312.00991](http://arxiv.org/abs/2312.00991)|null|
 |**2023-12-02**|**Deep Generative Attacks and Countermeasures for Data-Driven Offline Signature Verification**|An Ngo et.al.|[2312.00987](http://arxiv.org/abs/2312.00987)|null|
 |**2023-12-01**|**Adversarial Score Distillation: When score distillation meets GAN**|Min Wei et.al.|[2312.00739](http://arxiv.org/abs/2312.00739)|**[link](https://github.com/2y7c3/asd)**|
@@ -903,6 +904,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-05**|**Alchemist: Parametric Control of Material Properties with Diffusion Models**|Prafull Sharma et.al.|[2312.02970](http://arxiv.org/abs/2312.02970)|null|
+|**2023-12-05**|**AmbiGen: Generating Ambigrams from Pre-trained Diffusion Model**|Boheng Zhao et.al.|[2312.02967](http://arxiv.org/abs/2312.02967)|null|
+|**2023-12-05**|**Diffusion-SS3D: Diffusion Model for Semi-supervised 3D Object Detection**|Cheng-Ju Ho et.al.|[2312.02966](http://arxiv.org/abs/2312.02966)|**[link](https://github.com/luluho1208/diffusion-ss3d)**|
+|**2023-12-05**|**A Diffusion Model of Dynamic Participant Inflow Management**|Baris Ata et.al.|[2312.02927](http://arxiv.org/abs/2312.02927)|null|
+|**2023-12-05**|**Deterministic Guidance Diffusion Model for Probabilistic Weather Forecasting**|Donggeun Yoon et.al.|[2312.02819](http://arxiv.org/abs/2312.02819)|null|
+|**2023-12-05**|**BIVDiff: A Training-Free Framework for General-Purpose Video Synthesis via Bridging Image and Video Diffusion Models**|Fengyuan Shi et.al.|[2312.02813](http://arxiv.org/abs/2312.02813)|null|
+|**2023-12-05**|**Generating Fine-Grained Human Motions Using ChatGPT-Refined Descriptions**|Xu Shi et.al.|[2312.02772](http://arxiv.org/abs/2312.02772)|null|
+|**2023-12-05**|**Neural Sign Actors: A diffusion model for 3D sign language production from text**|Vasileios Baltatzis et.al.|[2312.02702](http://arxiv.org/abs/2312.02702)|null|
+|**2023-12-05**|**Analyzing and Improving the Training Dynamics of Diffusion Models**|Tero Karras et.al.|[2312.02696](http://arxiv.org/abs/2312.02696)|null|
+|**2023-12-05**|**Diffusion-Based Speech Enhancement in Matched and Mismatched Conditions Using a Heun-Based Sampler**|Philippe Gonzalez et.al.|[2312.02683](http://arxiv.org/abs/2312.02683)|null|
+|**2023-12-05**|**TPA3D: Triplane Attention for Fast Text-to-3D Generation**|Hong-En Chen et.al.|[2312.02647](http://arxiv.org/abs/2312.02647)|null|
+|**2023-12-05**|**Diffusion Noise Feature: Accurate and Fast Generated Image Detection**|Yichi Zhang et.al.|[2312.02625](http://arxiv.org/abs/2312.02625)|null|
+|**2023-12-05**|**Projection Regret: Reducing Background Bias for Novelty Detection via Diffusion Models**|Sungik Choi et.al.|[2312.02615](http://arxiv.org/abs/2312.02615)|null|
+|**2023-12-05**|**GeNIe: Generative Hard Negative Images Through Diffusion**|Soroush Abbasi Koohpayegani et.al.|[2312.02548](http://arxiv.org/abs/2312.02548)|**[link](https://github.com/ucdvision/genie)**|
+|**2023-12-05**|**Retrieving Conditions from Reference Images for Diffusion Models**|Haoran Tang et.al.|[2312.02521](http://arxiv.org/abs/2312.02521)|null|
+|**2023-12-05**|**Creative Agents: Empowering Agents with Imagination for Creative Tasks**|Chi Zhang et.al.|[2312.02519](http://arxiv.org/abs/2312.02519)|**[link](https://github.com/pku-rl/creative-agents)**|
+|**2023-12-05**|**Orthogonal Adaptation for Modular Customization of Diffusion Models**|Ryan Po et.al.|[2312.02432](http://arxiv.org/abs/2312.02432)|null|
+|**2023-12-05**|**Towards Granularity-adjusted Pixel-level Semantic Annotation**|Rohit Kundu et.al.|[2312.02420](http://arxiv.org/abs/2312.02420)|null|
 |**2023-12-04**|**Latent Feature-Guided Diffusion Models for Shadow Removal**|Kangfu Mei et.al.|[2312.02156](http://arxiv.org/abs/2312.02156)|null|
 |**2023-12-04**|**Readout Guidance: Learning Control from Diffusion Features**|Grace Luo et.al.|[2312.02150](http://arxiv.org/abs/2312.02150)|null|
 |**2023-12-04**|**Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation**|Bingxin Ke et.al.|[2312.02145](http://arxiv.org/abs/2312.02145)|null|
@@ -2791,13 +2810,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-12-04**|**Multi-task Image Restoration Guided By Robust DINO Features**|Xin Lin et.al.|[2312.01677](http://arxiv.org/abs/2312.01677)|null|
+|**2023-12-05**|**Multimodal Prompt Perceiver: Empower Adaptiveness, Generalizability and Fidelity for All-in-One Image Restoration**|Yuang Ai et.al.|[2312.02918](http://arxiv.org/abs/2312.02918)|null|
+|**2023-12-05**|**BIVDiff: A Training-Free Framework for General-Purpose Video Synthesis via Bridging Image and Video Diffusion Models**|Fengyuan Shi et.al.|[2312.02813](http://arxiv.org/abs/2312.02813)|null|
+|**2023-12-05**|**Deep-learning-driven end-to-end metalens imaging**|Joonhyuk Seo et.al.|[2312.02669](http://arxiv.org/abs/2312.02669)|null|
+|**2023-12-05**|**GeNIe: Generative Hard Negative Images Through Diffusion**|Soroush Abbasi Koohpayegani et.al.|[2312.02548](http://arxiv.org/abs/2312.02548)|**[link](https://github.com/ucdvision/genie)**|
+|**2023-12-03**|**AttriHuman-3D: Editable 3D Human Avatar Generation with Attribute Decomposition and Indexing**|Fan Yang et.al.|[2312.02209](http://arxiv.org/abs/2312.02209)|null|
+|**2023-12-02**|**Exploiting Diffusion Priors for All-in-One Image Restoration**|Yuanbiao Gou et.al.|[2312.02197](http://arxiv.org/abs/2312.02197)|null|
+|**2023-12-02**|**Diffusion Handles: Enabling 3D Edits for Diffusion Models by Lifting Activations to 3D**|Karran Pandey et.al.|[2312.02190](http://arxiv.org/abs/2312.02190)|null|
+|**2023-12-05**|**Multi-task Image Restoration Guided By Robust DINO Features**|Xin Lin et.al.|[2312.01677](http://arxiv.org/abs/2312.01677)|null|
 |**2023-12-04**|**Customize your NeRF: Adaptive Source Driven 3D Scene Editing via Local-Global Iterative Training**|Runze He et.al.|[2312.01663](http://arxiv.org/abs/2312.01663)|null|
-|**2023-12-03**|**T3D: Towards 3D Medical Image Understanding through Vision-Language Pre-training**|Che Liu et.al.|[2312.01529](http://arxiv.org/abs/2312.01529)|null|
+|**2023-12-05**|**T3D: Towards 3D Medical Image Understanding through Vision-Language Pre-training**|Che Liu et.al.|[2312.01529](http://arxiv.org/abs/2312.01529)|null|
 |**2023-12-03**|**An Augmented Lagrangian Primal-Dual Semismooth Newton Method for Multi-Block Composite Optimization**|Zhanwang Deng et.al.|[2312.01273](http://arxiv.org/abs/2312.01273)|null|
 |**2023-12-01**|**Motion-Guided Latent Diffusion for Temporally Consistent Real-world Video Super-resolution**|Xi Yang et.al.|[2312.00853](http://arxiv.org/abs/2312.00853)|null|
 |**2023-12-01**|**Beyond First-Order Tweedie: Solving Inverse Problems using Latent Diffusion**|Litu Rout et.al.|[2312.00852](http://arxiv.org/abs/2312.00852)|null|
-|**2023-11-30**|**Lasagna: Layered Score Distillation for Disentangled Object Relighting**|Dina Bashkirova et.al.|[2312.00833](http://arxiv.org/abs/2312.00833)|null|
+|**2023-11-30**|**Lasagna: Layered Score Distillation for Disentangled Object Relighting**|Dina Bashkirova et.al.|[2312.00833](http://arxiv.org/abs/2312.00833)|**[link](https://github.com/dbash/lasagna)**|
 |**2023-11-30**|**Non-Cross Diffusion for Semantic Consistency**|Ziyang Zheng et.al.|[2312.00820](http://arxiv.org/abs/2312.00820)|null|
 |**2023-12-01**|**Adversarial Score Distillation: When score distillation meets GAN**|Min Wei et.al.|[2312.00739](http://arxiv.org/abs/2312.00739)|**[link](https://github.com/2y7c3/asd)**|
 |**2023-11-30**|**HiFi Tuner: High-Fidelity Subject-Driven Fine-Tuning for Diffusion Models**|Zhonghao Wang et.al.|[2312.00079](http://arxiv.org/abs/2312.00079)|null|
@@ -3173,6 +3199,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-04**|**PointNeRF++: A multi-scale, point-based Neural Radiance Field**|Weiwei Sun et.al.|[2312.02362](http://arxiv.org/abs/2312.02362)|null|
 |**2023-12-04**|**ColonNeRF: Neural Radiance Fields for High-Fidelity Long-Sequence Colonoscopy Reconstruction**|Yufei Shi et.al.|[2312.02015](http://arxiv.org/abs/2312.02015)|null|
 |**2023-12-01**|**MorpheuS: Neural Dynamic 360° Surface Reconstruction from Monocular RGB-D Video**|Hengyi Wang et.al.|[2312.00778](http://arxiv.org/abs/2312.00778)|null|
 |**2023-12-01**|**EvE: Exploiting Generative Priors for Radiance Field Enrichment**|Karim Kassab et.al.|[2312.00639](http://arxiv.org/abs/2312.00639)|null|
@@ -3189,7 +3216,7 @@
 |**2023-11-29**|**LiveNVS: Neural View Synthesis on Live RGB-D Streams**|Laura Fink et.al.|[2311.16668](http://arxiv.org/abs/2311.16668)|null|
 |**2023-11-28**|**DGNR: Density-Guided Neural Point Rendering of Large Driving Scenes**|Zhuopeng Li et.al.|[2311.16664](http://arxiv.org/abs/2311.16664)|null|
 |**2023-11-27**|**CaesarNeRF: Calibrated Semantic Representation for Few-shot Generalizable Neural Rendering**|Haidong Zhu et.al.|[2311.15510](http://arxiv.org/abs/2311.15510)|**[link](https://github.com/haidongz-usc/CaesarNeRF)**|
-|**2023-11-26**|**NeuRAD: Neural Rendering for Autonomous Driving**|Adam Tonderski et.al.|[2311.15260](http://arxiv.org/abs/2311.15260)|**[link](https://github.com/georghess/neurad)**|
+|**2023-12-05**|**NeuRAD: Neural Rendering for Autonomous Driving**|Adam Tonderski et.al.|[2311.15260](http://arxiv.org/abs/2311.15260)|**[link](https://github.com/georghess/neurad)**|
 |**2023-11-23**|**Towards Transferable Multi-modal Perception Representation Learning for Autonomy: NeRF-Supervised Masked AutoEncoder**|Xiaohao Xu et.al.|[2311.13750](http://arxiv.org/abs/2311.13750)|null|
 |**2023-11-20**|**LABELMAKER: Automatic Semantic Label Generation from RGB-D Trajectories**|Silvan Weder et.al.|[2311.12174](http://arxiv.org/abs/2311.12174)|null|
 |**2023-11-17**|**SplatArmor: Articulated Gaussian splatting for animatable humans from monocular RGB videos**|Rohit Jena et.al.|[2311.10812](http://arxiv.org/abs/2311.10812)|null|
@@ -3318,6 +3345,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-05**|**MyPortrait: Morphable Prior-Guided Personalized Portrait Generation**|Bo Ding et.al.|[2312.02703](http://arxiv.org/abs/2312.02703)|null|
 |**2023-12-02**|**DiffusionTalker: Personalization and Acceleration for Speech-Driven 3D Face Diffuser**|Peng Chen et.al.|[2311.16565](http://arxiv.org/abs/2311.16565)|null|
 |**2023-11-12**|**ChatAnything: Facetime Chat with LLM-Enhanced Personas**|Yilin Zhao et.al.|[2311.06772](http://arxiv.org/abs/2311.06772)|null|
 |**2023-10-21**|**Learning Motion Refinement for Unsupervised Face Animation**|Jiale Tao et.al.|[2310.13912](http://arxiv.org/abs/2310.13912)|null|
@@ -3360,6 +3388,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-05**|**MyPortrait: Morphable Prior-Guided Personalized Portrait Generation**|Bo Ding et.al.|[2312.02703](http://arxiv.org/abs/2312.02703)|null|
+|**2023-12-05**|**FaceStudio: Put Your Face Everywhere in Seconds**|Yuxuan Yan et.al.|[2312.02663](http://arxiv.org/abs/2312.02663)|null|
+|**2023-12-05**|**Retrieving Conditions from Reference Images for Diffusion Models**|Haoran Tang et.al.|[2312.02521](http://arxiv.org/abs/2312.02521)|null|
+|**2023-12-03**|**Portrait Diffusion: Training-free Face Stylization with Chain-of-Painting**|Jin Liu et.al.|[2312.02212](http://arxiv.org/abs/2312.02212)|**[link](https://github.com/liujin112/portraitdiffusion)**|
 |**2023-12-02**|**Quadratic systems possessing an infinite elliptic-saddle or an infinite nilpotent saddle**|Joan C. Artés et.al.|[2312.01222](http://arxiv.org/abs/2312.01222)|null|
 |**2023-11-30**|**Topological equivalence in the infinity of a planar vector field and its principal part defined through Newton polytope**|Thais Maria Dalbelo et.al.|[2312.00217](http://arxiv.org/abs/2312.00217)|null|
 |**2023-11-30**|**CosAvatar: Consistent and Animatable Portrait Video Tuning with Text Prompt**|Haiyao Xiao et.al.|[2311.18288](http://arxiv.org/abs/2311.18288)|null|

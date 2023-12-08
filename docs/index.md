@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.07
+## Updated on 2023.12.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -2814,16 +2814,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-12-06**|**Intrinsic Harmonization for Illumination-Aware Compositing**|Chris Careaga et.al.|[2312.03698](http://arxiv.org/abs/2312.03698)|null|
+|**2023-12-07**|**Intrinsic Harmonization for Illumination-Aware Compositing**|Chris Careaga et.al.|[2312.03698](http://arxiv.org/abs/2312.03698)|null|
 |**2023-12-06**|**Training Neural Networks on RAW and HDR Images for Restoration Tasks**|Lei Luo et.al.|[2312.03640](http://arxiv.org/abs/2312.03640)|**[link](https://github.com/gfxdisp/colorvideovdp)**|
 |**2023-12-06**|**Personalized Face Inpainting with Diffusion Models by Parallel Visual Attention**|Jianjin Xu et.al.|[2312.03556](http://arxiv.org/abs/2312.03556)|null|
 |**2023-12-05**|**Multimodal Prompt Perceiver: Empower Adaptiveness, Generalizability and Fidelity for All-in-One Image Restoration**|Yuang Ai et.al.|[2312.02918](http://arxiv.org/abs/2312.02918)|null|
 |**2023-12-05**|**BIVDiff: A Training-Free Framework for General-Purpose Video Synthesis via Bridging Image and Video Diffusion Models**|Fengyuan Shi et.al.|[2312.02813](http://arxiv.org/abs/2312.02813)|null|
 |**2023-12-05**|**Deep-learning-driven end-to-end metalens imaging**|Joonhyuk Seo et.al.|[2312.02669](http://arxiv.org/abs/2312.02669)|null|
 |**2023-12-05**|**GeNIe: Generative Hard Negative Images Through Diffusion**|Soroush Abbasi Koohpayegani et.al.|[2312.02548](http://arxiv.org/abs/2312.02548)|**[link](https://github.com/ucdvision/genie)**|
-|**2023-12-03**|**AttriHuman-3D: Editable 3D Human Avatar Generation with Attribute Decomposition and Indexing**|Fan Yang et.al.|[2312.02209](http://arxiv.org/abs/2312.02209)|null|
+|**2023-12-06**|**AttriHuman-3D: Editable 3D Human Avatar Generation with Attribute Decomposition and Indexing**|Fan Yang et.al.|[2312.02209](http://arxiv.org/abs/2312.02209)|null|
 |**2023-12-02**|**Exploiting Diffusion Priors for All-in-One Image Restoration**|Yuanbiao Gou et.al.|[2312.02197](http://arxiv.org/abs/2312.02197)|null|
-|**2023-12-02**|**Diffusion Handles: Enabling 3D Edits for Diffusion Models by Lifting Activations to 3D**|Karran Pandey et.al.|[2312.02190](http://arxiv.org/abs/2312.02190)|null|
+|**2023-12-06**|**Diffusion Handles: Enabling 3D Edits for Diffusion Models by Lifting Activations to 3D**|Karran Pandey et.al.|[2312.02190](http://arxiv.org/abs/2312.02190)|null|
 |**2023-12-05**|**Multi-task Image Restoration Guided By Robust DINO Features**|Xin Lin et.al.|[2312.01677](http://arxiv.org/abs/2312.01677)|null|
 |**2023-12-04**|**Customize your NeRF: Adaptive Source Driven 3D Scene Editing via Local-Global Iterative Training**|Runze He et.al.|[2312.01663](http://arxiv.org/abs/2312.01663)|null|
 |**2023-12-05**|**T3D: Towards 3D Medical Image Understanding through Vision-Language Pre-training**|Che Liu et.al.|[2312.01529](http://arxiv.org/abs/2312.01529)|null|

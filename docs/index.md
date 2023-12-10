@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.09
+## Updated on 2023.12.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -43,7 +43,7 @@ layout: default
 |**2023-12-07**|**Learning to sample in Cartesian MRI**|Thomas Sanchez et.al.|[2312.04327](http://arxiv.org/abs/2312.04327)|null|
 |**2023-12-07**|**Towards 4D Human Video Stylization**|Tiantian Wang et.al.|[2312.04143](http://arxiv.org/abs/2312.04143)|**[link](https://github.com/tiantianwang/4d_video_stylization)**|
 |**2023-12-07**|**Style Transfer to Calvin and Hobbes comics using Stable Diffusion**|Sloke Shrestha et.al.|[2312.03993](http://arxiv.org/abs/2312.03993)|null|
-|**2023-12-06**|**Data-driven Crop Growth Simulation on Time-varying Generated Images using Multi-conditional Generative Adversarial Networks**|Lukas Drees et.al.|[2312.03443](http://arxiv.org/abs/2312.03443)|null|
+|**2023-12-06**|**Data-driven Crop Growth Simulation on Time-varying Generated Images using Multi-conditional Generative Adversarial Networks**|Lukas Drees et.al.|[2312.03443](http://arxiv.org/abs/2312.03443)|**[link](https://github.com/luked12/crop-growth-cgan)**|
 |**2023-12-05**|**A study of topological quantities of lattice QCD by a modified DCGAN frame**|Lin Gao et.al.|[2312.03023](http://arxiv.org/abs/2312.03023)|null|
 |**2023-12-03**|**Cycle-consistent Generative Adversarial Network Synthetic CT for MR-only Adaptive Radiation Therapy on MR-Linac**|Gabriel L. Asher et.al.|[2312.02211](http://arxiv.org/abs/2312.02211)|null|
 |**2023-12-04**|**ArtAdapter: Text-to-Image Style Transfer using Multi-Level Style Encoder and Explicit Adaptation**|Dar-Yen Chen et.al.|[2312.02109](http://arxiv.org/abs/2312.02109)|null|

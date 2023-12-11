@@ -51,6 +51,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-08**|**MuVieCAST: Multi-View Consistent Artistic Style Transfer**|Nail Ibrahimli et.al.|[2312.05046](http://arxiv.org/abs/2312.05046)|null|
+|**2023-12-08**|**Synthesizing Traffic Datasets using Graph Neural Networks**|Daniel Rodriguez-Criado et.al.|[2312.05031](http://arxiv.org/abs/2312.05031)|null|
+|**2023-12-08**|**Damage GAN: A Generative Model for Imbalanced Data**|Ali Anaissi et.al.|[2312.04862](http://arxiv.org/abs/2312.04862)|null|
+|**2023-12-08**|**Induced Generative Adversarial Particle Transformers**|Anni Li et.al.|[2312.04757](http://arxiv.org/abs/2312.04757)|null|
 |**2023-12-07**|**Probabilistic volumetric speckle suppression in OCT using deep learning**|Bhaskara Rao Chintada et.al.|[2312.04460](http://arxiv.org/abs/2312.04460)|**[link](https://github.com/bhaskarachintada/dltnode)**|
 |**2023-12-07**|**Learning to sample in Cartesian MRI**|Thomas Sanchez et.al.|[2312.04327](http://arxiv.org/abs/2312.04327)|null|
 |**2023-12-07**|**Towards 4D Human Video Stylization**|Tiantian Wang et.al.|[2312.04143](http://arxiv.org/abs/2312.04143)|**[link](https://github.com/tiantianwang/4d_video_stylization)**|
@@ -910,6 +914,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-08**|**KBFormer: A Diffusion Model for Structured Entity Completion**|Ouail Kitouni et.al.|[2312.05253](http://arxiv.org/abs/2312.05253)|null|
+|**2023-12-08**|**SwiftBrush: One-Step Text-to-Image Diffusion Model with Variational Score Distillation**|Thuan Hoang Nguyen et.al.|[2312.05239](http://arxiv.org/abs/2312.05239)|null|
+|**2023-12-08**|**Membership Inference Attacks on Diffusion Models via Quantile Regression**|Shuai Tang et.al.|[2312.05140](http://arxiv.org/abs/2312.05140)|null|
+|**2023-12-08**|**DreaMoving: A Human Dance Video Generation Framework based on Diffusion Models**|Mengyang Feng et.al.|[2312.05107](http://arxiv.org/abs/2312.05107)|null|
+|**2023-12-08**|**SmartMask: Context Aware High-Fidelity Mask Generation for Fine-grained Object Insertion and Layout Control**|Jaskirat Singh et.al.|[2312.05039](http://arxiv.org/abs/2312.05039)|null|
+|**2023-12-08**|**UDiffText: A Unified Framework for High-quality Text Synthesis in Arbitrary Images via Character-aware Diffusion Models**|Yiming Zhao et.al.|[2312.04884](http://arxiv.org/abs/2312.04884)|**[link](https://github.com/zym-pku/udifftext)**|
+|**2023-12-08**|**MVDD: Multi-View Depth Diffusion Models**|Zhen Wang et.al.|[2312.04875](http://arxiv.org/abs/2312.04875)|null|
+|**2023-12-08**|**HandDiffuse: Generative Controllers for Two-Hand Interactions via Diffusion Models**|Pei Lin et.al.|[2312.04867](http://arxiv.org/abs/2312.04867)|null|
+|**2023-12-08**|**Learn to Optimize Denoising Scores for 3D Generation: A Unified and Improved Diffusion Prior on NeRF and 3D Gaussian Splatting**|Xiaofeng Yang et.al.|[2312.04820](http://arxiv.org/abs/2312.04820)|null|
+|**2023-12-08**|**A Unified Particle-Based Solver for Non-Newtonian Behaviors Simulation**|Chunlei Li et.al.|[2312.04814](http://arxiv.org/abs/2312.04814)|null|
+|**2023-12-08**|**RS-Corrector: Correcting the Racial Stereotypes in Latent Diffusion Models**|Yue Jiang et.al.|[2312.04810](http://arxiv.org/abs/2312.04810)|null|
+|**2023-12-08**|**RL Dreams: Policy Gradient Optimization for Score Distillation based 3D Generation**|Aradhya N. Mathur et.al.|[2312.04806](http://arxiv.org/abs/2312.04806)|null|
+|**2023-12-08**|**MimicDiffusion: Purifying Adversarial Perturbation via Mimicking Clean Diffusion Model**|Kaiyu Song et.al.|[2312.04802](http://arxiv.org/abs/2312.04802)|null|
+|**2023-12-08**|**Reality's Canvas, Language's Brush: Crafting 3D Avatars from Monocular Video**|Yuchen Rao et.al.|[2312.04784](http://arxiv.org/abs/2312.04784)|null|
+|**2023-12-08**|**Fine-Tuning InstructPix2Pix for Advanced Image Colorization**|Zifeng An et.al.|[2312.04780](http://arxiv.org/abs/2312.04780)|null|
+|**2023-12-07**|**Diffence: Fencing Membership Privacy With Diffusion Models**|Yuefeng Peng et.al.|[2312.04692](http://arxiv.org/abs/2312.04692)|null|
+|**2023-12-07**|**ECLIPSE: A Resource-Efficient Text-to-Image Prior for Image Generations**|Maitreya Patel et.al.|[2312.04655](http://arxiv.org/abs/2312.04655)|null|
+|**2023-12-07**|**NeuSD: Surface Completion with Multi-View Text-to-Image Diffusion**|Savva Ignatyev et.al.|[2312.04654](http://arxiv.org/abs/2312.04654)|null|
 |**2023-12-07**|**Gen2Det: Generate to Detect**|Saksham Suri et.al.|[2312.04566](http://arxiv.org/abs/2312.04566)|null|
 |**2023-12-07**|**NeRFiller: Completing Scenes via Generative 3D Inpainting**|Ethan Weber et.al.|[2312.04560](http://arxiv.org/abs/2312.04560)|null|
 |**2023-12-07**|**PrimDiffusion: Volumetric Primitives Diffusion for 3D Human Generation**|Zhaoxi Chen et.al.|[2312.04559](http://arxiv.org/abs/2312.04559)|**[link](https://github.com/frozenburning/primdiffusion)**|
@@ -2854,6 +2876,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-08**|**Fine Dense Alignment of Image Bursts through Camera Pose and Depth Estimation**|Bruno Lecouat et.al.|[2312.05190](http://arxiv.org/abs/2312.05190)|null|
+|**2023-12-08**|**Prompt-In-Prompt Learning for Universal Image Restoration**|Zilong Li et.al.|[2312.05038](http://arxiv.org/abs/2312.05038)|**[link](https://github.com/longzilicart/pip_universal)**|
+|**2023-12-08**|**Decoupling Degradation and Content Processing for Adverse Weather Image Restoration**|Xi Wang et.al.|[2312.05006](http://arxiv.org/abs/2312.05006)|null|
+|**2023-12-07**|**Inversion-Free Image Editing with Natural Language**|Sihan Xu et.al.|[2312.04965](http://arxiv.org/abs/2312.04965)|null|
 |**2023-12-06**|**FAAC: Facial Animation Generation with Anchor Frame and Conditional Control for Superior Fidelity and Editability**|Linze Li et.al.|[2312.03775](http://arxiv.org/abs/2312.03775)|null|
 |**2023-12-05**|**DiffusionAtlas: High-Fidelity Consistent Diffusion Video Editing**|Shao-Yu Chang et.al.|[2312.03772](http://arxiv.org/abs/2312.03772)|null|
 |**2023-12-07**|**Intrinsic Harmonization for Illumination-Aware Compositing**|Chris Careaga et.al.|[2312.03698](http://arxiv.org/abs/2312.03698)|null|
@@ -3248,6 +3274,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-08**|**IntrinsicAvatar: Physically Based Inverse Rendering of Dynamic Humans from Monocular Videos via Explicit Ray Tracing**|Shaofei Wang et.al.|[2312.05210](http://arxiv.org/abs/2312.05210)|null|
 |**2023-12-07**|**Towards Knowledge-driven Autonomous Driving**|Xin Li et.al.|[2312.04316](http://arxiv.org/abs/2312.04316)|**[link](https://github.com/pjlab-adg/awesome-knowledge-driven-ad)**|
 |**2023-12-05**|**HybridNeRF: Efficient Neural Rendering via Adaptive Volumetric Surfaces**|Haithem Turki et.al.|[2312.03160](http://arxiv.org/abs/2312.03160)|null|
 |**2023-12-04**|**PointNeRF++: A multi-scale, point-based Neural Radiance Field**|Weiwei Sun et.al.|[2312.02362](http://arxiv.org/abs/2312.02362)|null|
@@ -3440,8 +3467,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-07**|**VOODOO 3D: Volumetric Portrait Disentanglement for One-Shot 3D Head Reenactment**|Phong Tran et.al.|[2312.04651](http://arxiv.org/abs/2312.04651)|null|
 |**2023-12-07**|**MonoGaussianAvatar: Monocular Gaussian Point-based Head Avatar**|Yufan Chen et.al.|[2312.04558](http://arxiv.org/abs/2312.04558)|null|
-|**2023-12-07**|**SingingHead: A Large-scale 4D Dataset for Singing Head Animation**|Sijing Wu et.al.|[2312.04369](http://arxiv.org/abs/2312.04369)|null|
+|**2023-12-08**|**SingingHead: A Large-scale 4D Dataset for Singing Head Animation**|Sijing Wu et.al.|[2312.04369](http://arxiv.org/abs/2312.04369)|null|
 |**2023-12-07**|**iDesigner: A High-Resolution and Complex-Prompt Following Text-to-Image Diffusion Model for Interior Design**|Ruyi Gan et.al.|[2312.04326](http://arxiv.org/abs/2312.04326)|null|
 |**2023-12-05**|**MyPortrait: Morphable Prior-Guided Personalized Portrait Generation**|Bo Ding et.al.|[2312.02703](http://arxiv.org/abs/2312.02703)|null|
 |**2023-12-06**|**FaceStudio: Put Your Face Everywhere in Seconds**|Yuxuan Yan et.al.|[2312.02663](http://arxiv.org/abs/2312.02663)|null|

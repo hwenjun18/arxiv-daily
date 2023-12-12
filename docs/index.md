@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.11
+## Updated on 2023.12.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -40,7 +40,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-12-08**|**MuVieCAST: Multi-View Consistent Artistic Style Transfer**|Nail Ibrahimli et.al.|[2312.05046](http://arxiv.org/abs/2312.05046)|null|
-|**2023-12-08**|**Synthesizing Traffic Datasets using Graph Neural Networks**|Daniel Rodriguez-Criado et.al.|[2312.05031](http://arxiv.org/abs/2312.05031)|null|
+|**2023-12-08**|**Synthesizing Traffic Datasets using Graph Neural Networks**|Daniel Rodriguez-Criado et.al.|[2312.05031](http://arxiv.org/abs/2312.05031)|**[link](https://github.com/gvogiatzis/trafficgen)**|
 |**2023-12-08**|**Damage GAN: A Generative Model for Imbalanced Data**|Ali Anaissi et.al.|[2312.04862](http://arxiv.org/abs/2312.04862)|null|
 |**2023-12-08**|**Induced Generative Adversarial Particle Transformers**|Anni Li et.al.|[2312.04757](http://arxiv.org/abs/2312.04757)|null|
 |**2023-12-07**|**Probabilistic volumetric speckle suppression in OCT using deep learning**|Bhaskara Rao Chintada et.al.|[2312.04460](http://arxiv.org/abs/2312.04460)|**[link](https://github.com/bhaskarachintada/dltnode)**|

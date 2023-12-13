@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.12
+## Updated on 2023.12.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -921,9 +921,9 @@ layout: default
 |**2023-12-11**|**DreamControl: Control-Based Text-to-3D Generation with 3D Self-Prior**|Tianyu Huang et.al.|[2312.06439](http://arxiv.org/abs/2312.06439)|null|
 |**2023-12-11**|**DiT-Head: High-Resolution Talking Head Synthesis using Diffusion Transformers**|Aaron Mir et.al.|[2312.06400](http://arxiv.org/abs/2312.06400)|null|
 |**2023-12-11**|**PortraitBooth: A Versatile Portrait Model for Fast Identity-preserved Personalization**|Xu Peng et.al.|[2312.06354](http://arxiv.org/abs/2312.06354)|null|
-|**2023-12-11**|**DiffAIL: Diffusion Adversarial Imitation Learning**|Bingzheng Wang et.al.|[2312.06348](http://arxiv.org/abs/2312.06348)|**[link](https://github.com/ml-group-sdu/diffail)**|
+|**2023-12-12**|**DiffAIL: Diffusion Adversarial Imitation Learning**|Bingzheng Wang et.al.|[2312.06348](http://arxiv.org/abs/2312.06348)|**[link](https://github.com/ml-group-sdu/diffail)**|
 |**2023-12-11**|**Compensation Sampling for Improved Convergence in Diffusion Models**|Hui Lu et.al.|[2312.06285](http://arxiv.org/abs/2312.06285)|null|
-|**2023-12-11**|**UIEDP:Underwater Image Enhancement with Diffusion Prior**|Dazhao Du et.al.|[2312.06240](http://arxiv.org/abs/2312.06240)|**[link](https://github.com/ddz16/UIEDP)**|
+|**2023-12-11**|**UIEDP:Underwater Image Enhancement with Diffusion Prior**|Dazhao Du et.al.|[2312.06240](http://arxiv.org/abs/2312.06240)|null|
 |**2023-12-11**|**The Journey, Not the Destination: How Data Guides Diffusion Models**|Kristian Georgiev et.al.|[2312.06205](http://arxiv.org/abs/2312.06205)|null|
 |**2023-12-11**|**Offloading and Quality Control for AI Generated Content Services in Edge Computing Networks**|Yitong Wang et.al.|[2312.06203](http://arxiv.org/abs/2312.06203)|null|
 |**2023-12-11**|**Optimized View and Geometry Distillation from Multi-view Diffuser**|Youjia Zhang et.al.|[2312.06198](http://arxiv.org/abs/2312.06198)|null|
@@ -3291,7 +3291,7 @@ layout: default
 |**2023-12-10**|**Accurate Differential Operators for Hybrid Neural Fields**|Aditya Chetan et.al.|[2312.05984](http://arxiv.org/abs/2312.05984)|null|
 |**2023-12-10**|**R2Human: Real-Time 3D Human Appearance Rendering from a Single Image**|Qiao Feng et.al.|[2312.05826](http://arxiv.org/abs/2312.05826)|null|
 |**2023-12-08**|**IntrinsicAvatar: Physically Based Inverse Rendering of Dynamic Humans from Monocular Videos via Explicit Ray Tracing**|Shaofei Wang et.al.|[2312.05210](http://arxiv.org/abs/2312.05210)|null|
-|**2023-12-07**|**Towards Knowledge-driven Autonomous Driving**|Xin Li et.al.|[2312.04316](http://arxiv.org/abs/2312.04316)|**[link](https://github.com/pjlab-adg/awesome-knowledge-driven-ad)**|
+|**2023-12-12**|**Towards Knowledge-driven Autonomous Driving**|Xin Li et.al.|[2312.04316](http://arxiv.org/abs/2312.04316)|**[link](https://github.com/pjlab-adg/awesome-knowledge-driven-ad)**|
 |**2023-12-05**|**HybridNeRF: Efficient Neural Rendering via Adaptive Volumetric Surfaces**|Haithem Turki et.al.|[2312.03160](http://arxiv.org/abs/2312.03160)|null|
 |**2023-12-04**|**PointNeRF++: A multi-scale, point-based Neural Radiance Field**|Weiwei Sun et.al.|[2312.02362](http://arxiv.org/abs/2312.02362)|null|
 |**2023-12-04**|**ColonNeRF: Neural Radiance Fields for High-Fidelity Long-Sequence Colonoscopy Reconstruction**|Yufei Shi et.al.|[2312.02015](http://arxiv.org/abs/2312.02015)|null|

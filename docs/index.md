@@ -54,7 +54,7 @@ layout: default
 |**2023-12-11**|**A GAN Approach for Node Embedding in Heterogeneous Graphs Using Subgraph Sampling**|Hung Chun Hsu et.al.|[2312.06519](http://arxiv.org/abs/2312.06519)|null|
 |**2023-12-11**|**Semantic Image Synthesis for Abdominal CT**|Yan Zhuang et.al.|[2312.06453](http://arxiv.org/abs/2312.06453)|null|
 |**2023-12-11**|**Deep Imbalanced Learning for Multimodal Emotion Recognition in Conversations**|Tao Meng et.al.|[2312.06337](http://arxiv.org/abs/2312.06337)|null|
-|**2023-12-11**|**ArtBank: Artistic Style Transfer with Pre-trained Diffusion Model and Implicit Style Prompt Bank**|Zhanjie Zhang et.al.|[2312.06135](http://arxiv.org/abs/2312.06135)|null|
+|**2023-12-11**|**ArtBank: Artistic Style Transfer with Pre-trained Diffusion Model and Implicit Style Prompt Bank**|Zhanjie Zhang et.al.|[2312.06135](http://arxiv.org/abs/2312.06135)|**[link](https://github.com/jamie-cheung/artbank)**|
 |**2023-12-10**|**AesFA: An Aesthetic Feature-Aware Arbitrary Neural Style Transfer**|Joonwoo Kwon et.al.|[2312.05928](http://arxiv.org/abs/2312.05928)|**[link](https://github.com/sooyyoungg/aesfa)**|
 |**2023-12-09**|**Iterative Token Evaluation and Refinement for Real-World Super-Resolution**|Chaofeng Chen et.al.|[2312.05616](http://arxiv.org/abs/2312.05616)|**[link](https://github.com/chaofengc/iter)**|
 |**2023-12-09**|**BARET : Balanced Attention based Real image Editing driven by Target-text Inversion**|Yuming Qiao et.al.|[2312.05482](http://arxiv.org/abs/2312.05482)|null|

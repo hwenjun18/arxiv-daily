@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.18
+## Updated on 2023.12.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -2979,7 +2979,7 @@ layout: default
 |**2023-12-15**|**Image Deblurring using GAN**|Zhengdong Li et.al.|[2312.09496](http://arxiv.org/abs/2312.09496)|null|
 |**2023-12-14**|**LIME: Localized Image Editing via Attention Regularization in Diffusion Models**|Enis Simsar et.al.|[2312.09256](http://arxiv.org/abs/2312.09256)|null|
 |**2023-12-14**|**SHAP-EDITOR: Instruction-guided Latent 3D Editing in Seconds**|Minghao Chen et.al.|[2312.09246](http://arxiv.org/abs/2312.09246)|null|
-|**2023-12-12**|**AdaptIR: Parameter Efficient Multi-task Adaptation for Pre-trained Image Restoration Models**|Hang Guo et.al.|[2312.08881](http://arxiv.org/abs/2312.08881)|null|
+|**2023-12-12**|**AdaptIR: Parameter Efficient Multi-task Adaptation for Pre-trained Image Restoration Models**|Hang Guo et.al.|[2312.08881](http://arxiv.org/abs/2312.08881)|**[link](https://github.com/csguoh/adaptir)**|
 |**2023-12-14**|**Guided Image Restoration via Simultaneous Feature and Image Guided Fusion**|Xinyi Liu et.al.|[2312.08853](http://arxiv.org/abs/2312.08853)|null|
 |**2023-12-14**|**VQCNIR: Clearer Night Image Restoration with Vector-Quantized Codebook**|Wenbin Zou et.al.|[2312.08606](http://arxiv.org/abs/2312.08606)|null|
 |**2023-12-13**|**A Compact and Semantic Latent Space for Disentangled and Controllable Image Editing**|Gwilherm Lesné et.al.|[2312.08256](http://arxiv.org/abs/2312.08256)|null|

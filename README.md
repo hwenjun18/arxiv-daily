@@ -51,9 +51,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-19**|**FontDiffuser: One-Shot Font Generation via Denoising Diffusion with Multi-Scale Content Aggregation and Style Contrastive Learning**|Zhenhua Yang et.al.|[2312.12142](http://arxiv.org/abs/2312.12142)|**[link](https://github.com/yeungchenwa/fontdiffuser)**|
+|**2023-12-19**|**Self-supervised Learning for Enhancing Geometrical Modeling in 3D-Aware Generative Adversarial Network**|Jiarong Guo et.al.|[2312.11856](http://arxiv.org/abs/2312.11856)|null|
+|**2023-12-18**|**Ultrasound Image Enhancement using CycleGAN and Perceptual Loss**|Shreeram Athreya et.al.|[2312.11748](http://arxiv.org/abs/2312.11748)|null|
+|**2023-12-17**|**COPD-FlowNet: Elevating Non-invasive COPD Diagnosis with CFD Simulations**|Aryan Tyagi et.al.|[2312.11561](http://arxiv.org/abs/2312.11561)|null|
+|**2023-12-18**|**Multi-scale Reconstruction of Turbulent Rotating Flows with Generative Diffusion Models**|Tianyi Li et.al.|[2312.11121](http://arxiv.org/abs/2312.11121)|null|
 |**2023-12-17**|**High-Fidelity Face Swapping with Style Blending**|Xinyu Yang et.al.|[2312.10843](http://arxiv.org/abs/2312.10843)|null|
 |**2023-12-17**|**StyleSinger: Style Transfer for Out-Of-Domain Singing Voice Synthesis**|Yu Zhang et.al.|[2312.10741](http://arxiv.org/abs/2312.10741)|null|
-|**2023-12-17**|**MM-TTS: Multi-modal Prompt based Style Transfer for Expressive Text-to-Speech Synthesis**|Wenhao Guan et.al.|[2312.10687](http://arxiv.org/abs/2312.10687)|null|
+|**2023-12-19**|**MM-TTS: Multi-modal Prompt based Style Transfer for Expressive Text-to-Speech Synthesis**|Wenhao Guan et.al.|[2312.10687](http://arxiv.org/abs/2312.10687)|null|
 |**2023-12-17**|**Bengali Intent Classification with Generative Adversarial BERT**|Mehedi Hasan et.al.|[2312.10679](http://arxiv.org/abs/2312.10679)|null|
 |**2023-12-17**|**Analisis Eksploratif Dan Augmentasi Data NSL-KDD Menggunakan Deep Generative Adversarial Networks Untuk Meningkatkan Performa Algoritma Extreme Gradient Boosting Dalam Klasifikasi Jenis Serangan Siber**|K. P. Santoso et.al.|[2312.10669](http://arxiv.org/abs/2312.10669)|null|
 |**2023-12-16**|**Lecture Notes in Probabilistic Diffusion Models**|Inga Strümke et.al.|[2312.10393](http://arxiv.org/abs/2312.10393)|null|
@@ -950,6 +955,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-19**|**On Inference Stability for Diffusion Models**|Viet Nguyen et.al.|[2312.12431](http://arxiv.org/abs/2312.12431)|**[link](https://github.com/viettmab/sa-dpm)**|
+|**2023-12-19**|**Scene-Conditional 3D Object Stylization and Composition**|Jinghao Zhou et.al.|[2312.12419](http://arxiv.org/abs/2312.12419)|null|
+|**2023-12-19**|**Prompting Hard or Hardly Prompting: Prompt Inversion for Text-to-Image Diffusion Models**|Shweta Mahajan et.al.|[2312.12416](http://arxiv.org/abs/2312.12416)|null|
+|**2023-12-19**|**Travelling pulses on three spatial scales in a Klausmeier-type vegetation-autotoxicity model**|Paul Carter et.al.|[2312.12277](http://arxiv.org/abs/2312.12277)|null|
+|**2023-12-19**|**Intrinsic Image Diffusion for Single-view Material Estimation**|Peter Kocsis et.al.|[2312.12274](http://arxiv.org/abs/2312.12274)|null|
+|**2023-12-19**|**Brush Your Text: Synthesize Any Scene Text on Images via Diffusion Model**|Lingjun Zhang et.al.|[2312.12232](http://arxiv.org/abs/2312.12232)|**[link](https://github.com/ecnuljzhang/brush-your-text)**|
+|**2023-12-19**|**HuTuMotion: Human-Tuned Navigation of Latent Motion Diffusion Models with Minimal Feedback**|Gaoge Han et.al.|[2312.12227](http://arxiv.org/abs/2312.12227)|null|
+|**2023-12-19**|**FontDiffuser: One-Shot Font Generation via Denoising Diffusion with Multi-Scale Content Aggregation and Style Contrastive Learning**|Zhenhua Yang et.al.|[2312.12142](http://arxiv.org/abs/2312.12142)|**[link](https://github.com/yeungchenwa/fontdiffuser)**|
+|**2023-12-19**|**GazeMoDiff: Gaze-guided Diffusion Model for Stochastic Human Motion Prediction**|Haodong Yan et.al.|[2312.12090](http://arxiv.org/abs/2312.12090)|null|
+|**2023-12-19**|**Learning Subject-Aware Cropping by Outpainting Professional Photos**|James Hong et.al.|[2312.12080](http://arxiv.org/abs/2312.12080)|null|
+|**2023-12-19**|**Resource-efficient Generative Mobile Edge Networks in 6G Era: Fundamentals, Framework and Case Study**|Bingkun Lai et.al.|[2312.12063](http://arxiv.org/abs/2312.12063)|null|
+|**2023-12-19**|**Towards Accurate Guided Diffusion Sampling through Symplectic Adjoint Method**|Jiachun Pan et.al.|[2312.12030](http://arxiv.org/abs/2312.12030)|null|
+|**2023-12-19**|**Diffusing More Objects for Semi-Supervised Domain Adaptation with Less Labeling**|Leander van den Heuvel et.al.|[2312.12000](http://arxiv.org/abs/2312.12000)|null|
+|**2023-12-19**|**Optimizing Diffusion Noise Can Serve As Universal Motion Priors**|Korrawe Karunratanakul et.al.|[2312.11994](http://arxiv.org/abs/2312.11994)|null|
+|**2023-12-19**|**Extending intraday solar forecast horizons with deep generative models**|Alberto Carpentieri et.al.|[2312.11966](http://arxiv.org/abs/2312.11966)|null|
+|**2023-12-19**|**Text-Image Conditioned Diffusion for Consistent Text-to-3D Generation**|Yuze He et.al.|[2312.11774](http://arxiv.org/abs/2312.11774)|null|
+|**2023-12-18**|**Learning a Diffusion Model Policy from Rewards via Q-Score Matching**|Michael Psenka et.al.|[2312.11752](http://arxiv.org/abs/2312.11752)|null|
+|**2023-12-18**|**Unified framework for diffusion generative models in SO(3): applications in computer vision and astrophysics**|Yesukhei Jagvaral et.al.|[2312.11707](http://arxiv.org/abs/2312.11707)|null|
+|**2023-12-18**|**HAAR: Text-Conditioned Generative Model of 3D Strand-based Human Hairstyles**|Vanessa Sklyarova et.al.|[2312.11666](http://arxiv.org/abs/2312.11666)|null|
+|**2023-12-18**|**VolumeDiffusion: Flexible Text-to-3D Generation with Efficient Volumetric Encoder**|Zhicong Tang et.al.|[2312.11459](http://arxiv.org/abs/2312.11459)|null|
 |**2023-12-18**|**A novel diffusion recommendation algorithm based on multi-scale cnn and residual lstm**|Yong Niu et.al.|[2312.10885](http://arxiv.org/abs/2312.10885)|null|
 |**2023-12-17**|**Your Student is Better Than Expected: Adaptive Teacher-Student Collaboration for Text-Conditional Diffusion Models**|Nikita Starodubcev et.al.|[2312.10835](http://arxiv.org/abs/2312.10835)|**[link](https://github.com/yandex-research/adaptive-diffusion)**|
 |**2023-12-17**|**CogCartoon: Towards Practical Story Visualization**|Zhongyang Zhu et.al.|[2312.10718](http://arxiv.org/abs/2312.10718)|null|
@@ -3013,11 +3038,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-18**|**TIP: Text-Driven Image Processing with Semantic and Restoration Instructions**|Chenyang Qi et.al.|[2312.11595](http://arxiv.org/abs/2312.11595)|null|
+|**2023-12-18**|**Warping the Residuals for Image Editing with StyleGAN**|Ahmet Burak Yildirim et.al.|[2312.11422](http://arxiv.org/abs/2312.11422)|null|
+|**2023-12-18**|**MAG-Edit: Localized Image Editing in Complex Scenarios via $\underline{M}$ask-Based $\underline{A}$ttention-Adjusted $\underline{G}$ uidance**|Qi Mao et.al.|[2312.11396](http://arxiv.org/abs/2312.11396)|null|
+|**2023-12-18**|**CLOVA: A Closed-Loop Visual Assistant with Tool Usage and Update**|Zhi Gao et.al.|[2312.10908](http://arxiv.org/abs/2312.10908)|null|
 |**2023-12-17**|**Your Student is Better Than Expected: Adaptive Teacher-Student Collaboration for Text-Conditional Diffusion Models**|Nikita Starodubcev et.al.|[2312.10835](http://arxiv.org/abs/2312.10835)|**[link](https://github.com/yandex-research/adaptive-diffusion)**|
 |**2023-12-17**|**Latent Space Editing in Transformer-Based Flow Matching**|Vincent Tao Hu et.al.|[2312.10825](http://arxiv.org/abs/2312.10825)|null|
 |**2023-12-17**|**Bengali License Plate Recognition: Unveiling Clarity with CNN and GFP-GAN**|Noushin Afrin et.al.|[2312.10701](http://arxiv.org/abs/2312.10701)|**[link](https://github.com/mhtusher131/bengali-license-plate-recognition_unveling-clarity-with-cnn-and-gfp-gan)**|
-|**2023-12-17**|**VidToMe: Video Token Merging for Zero-Shot Video Editing**|Xirui Li et.al.|[2312.10656](http://arxiv.org/abs/2312.10656)|null|
-|**2023-12-16**|**Image Restoration Through Generalized Ornstein-Uhlenbeck Bridge**|Conghan Yue et.al.|[2312.10299](http://arxiv.org/abs/2312.10299)|**[link](https://github.com/Hammour-steak/GOUB)**|
+|**2023-12-19**|**VidToMe: Video Token Merging for Zero-Shot Video Editing**|Xirui Li et.al.|[2312.10656](http://arxiv.org/abs/2312.10656)|null|
+|**2023-12-16**|**Image Restoration Through Generalized Ornstein-Uhlenbeck Bridge**|Conghan Yue et.al.|[2312.10299](http://arxiv.org/abs/2312.10299)|null|
 |**2023-12-15**|**Focus on Your Instruction: Fine-grained and Multi-instruction Image Editing by Attention Modulation**|Qin Guo et.al.|[2312.10113](http://arxiv.org/abs/2312.10113)|**[link](https://github.com/guoqincode/focus-on-your-instruction)**|
 |**2023-12-15**|**Image Deblurring using GAN**|Zhengdong Li et.al.|[2312.09496](http://arxiv.org/abs/2312.09496)|null|
 |**2023-12-14**|**LIME: Localized Image Editing via Attention Regularization in Diffusion Models**|Enis Simsar et.al.|[2312.09256](http://arxiv.org/abs/2312.09256)|null|
@@ -3638,6 +3667,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-19**|**Learning Subject-Aware Cropping by Outpainting Professional Photos**|James Hong et.al.|[2312.12080](http://arxiv.org/abs/2312.12080)|null|
+|**2023-12-18**|**VectorTalker: SVG Talking Face Generation with Progressive Vectorisation**|Hao Hu et.al.|[2312.11568](http://arxiv.org/abs/2312.11568)|null|
+|**2023-12-18**|**AE-NeRF: Audio Enhanced Neural Radiance Field for Few Shot Talking Head Synthesis**|Dongze Li et.al.|[2312.10921](http://arxiv.org/abs/2312.10921)|null|
 |**2023-12-10**|**Early ChatGPT User Portrait through the Lens of Data**|Yuyang Deng et.al.|[2312.10078](http://arxiv.org/abs/2312.10078)|null|
 |**2023-12-14**|**HeadRecon: High-Fidelity 3D Head Reconstruction from Monocular Video**|Xueying Wang et.al.|[2312.08863](http://arxiv.org/abs/2312.08863)|null|
 |**2023-12-12**|**GMTalker: Gaussian Mixture based Emotional talking video Portraits**|Yibo Xia et.al.|[2312.07669](http://arxiv.org/abs/2312.07669)|null|
@@ -3650,7 +3682,7 @@
 |**2023-12-07**|**VOODOO 3D: Volumetric Portrait Disentanglement for One-Shot 3D Head Reenactment**|Phong Tran et.al.|[2312.04651](http://arxiv.org/abs/2312.04651)|null|
 |**2023-12-07**|**MonoGaussianAvatar: Monocular Gaussian Point-based Head Avatar**|Yufan Chen et.al.|[2312.04558](http://arxiv.org/abs/2312.04558)|null|
 |**2023-12-08**|**SingingHead: A Large-scale 4D Dataset for Singing Head Animation**|Sijing Wu et.al.|[2312.04369](http://arxiv.org/abs/2312.04369)|null|
-|**2023-12-07**|**iDesigner: A High-Resolution and Complex-Prompt Following Text-to-Image Diffusion Model for Interior Design**|Ruyi Gan et.al.|[2312.04326](http://arxiv.org/abs/2312.04326)|null|
+|**2023-12-19**|**iDesigner: A High-Resolution and Complex-Prompt Following Text-to-Image Diffusion Model for Interior Design**|Ruyi Gan et.al.|[2312.04326](http://arxiv.org/abs/2312.04326)|null|
 |**2023-12-05**|**MyPortrait: Morphable Prior-Guided Personalized Portrait Generation**|Bo Ding et.al.|[2312.02703](http://arxiv.org/abs/2312.02703)|null|
 |**2023-12-06**|**FaceStudio: Put Your Face Everywhere in Seconds**|Yuxuan Yan et.al.|[2312.02663](http://arxiv.org/abs/2312.02663)|null|
 |**2023-12-05**|**Retrieving Conditions from Reference Images for Diffusion Models**|Haoran Tang et.al.|[2312.02521](http://arxiv.org/abs/2312.02521)|null|

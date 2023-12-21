@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.20
+## Updated on 2023.12.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -41,7 +41,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-12-19**|**FontDiffuser: One-Shot Font Generation via Denoising Diffusion with Multi-Scale Content Aggregation and Style Contrastive Learning**|Zhenhua Yang et.al.|[2312.12142](http://arxiv.org/abs/2312.12142)|**[link](https://github.com/yeungchenwa/fontdiffuser)**|
 |**2023-12-19**|**Self-supervised Learning for Enhancing Geometrical Modeling in 3D-Aware Generative Adversarial Network**|Jiarong Guo et.al.|[2312.11856](http://arxiv.org/abs/2312.11856)|null|
-|**2023-12-18**|**Ultrasound Image Enhancement using CycleGAN and Perceptual Loss**|Shreeram Athreya et.al.|[2312.11748](http://arxiv.org/abs/2312.11748)|null|
+|**2023-12-18**|**Ultrasound Image Enhancement using CycleGAN and Perceptual Loss**|Shreeram Athreya et.al.|[2312.11748](http://arxiv.org/abs/2312.11748)|**[link](https://github.com/ShreeramAthreya/CDX-USChallenge)**|
 |**2023-12-17**|**COPD-FlowNet: Elevating Non-invasive COPD Diagnosis with CFD Simulations**|Aryan Tyagi et.al.|[2312.11561](http://arxiv.org/abs/2312.11561)|null|
 |**2023-12-18**|**Multi-scale Reconstruction of Turbulent Rotating Flows with Generative Diffusion Models**|Tianyi Li et.al.|[2312.11121](http://arxiv.org/abs/2312.11121)|null|
 |**2023-12-17**|**High-Fidelity Face Swapping with Style Blending**|Xinyu Yang et.al.|[2312.10843](http://arxiv.org/abs/2312.10843)|null|

@@ -56,7 +56,7 @@ layout: default
 |**2023-12-19**|**Self-supervised Learning for Enhancing Geometrical Modeling in 3D-Aware Generative Adversarial Network**|Jiarong Guo et.al.|[2312.11856](http://arxiv.org/abs/2312.11856)|null|
 |**2023-12-18**|**Ultrasound Image Enhancement using CycleGAN and Perceptual Loss**|Shreeram Athreya et.al.|[2312.11748](http://arxiv.org/abs/2312.11748)|**[link](https://github.com/ShreeramAthreya/CDX-USChallenge)**|
 |**2023-12-17**|**COPD-FlowNet: Elevating Non-invasive COPD Diagnosis with CFD Simulations**|Aryan Tyagi et.al.|[2312.11561](http://arxiv.org/abs/2312.11561)|null|
-|**2023-12-18**|**Multi-scale Reconstruction of Turbulent Rotating Flows with Generative Diffusion Models**|Tianyi Li et.al.|[2312.11121](http://arxiv.org/abs/2312.11121)|null|
+|**2023-12-18**|**Multi-scale Reconstruction of Turbulent Rotating Flows with Generative Diffusion Models**|Tianyi Li et.al.|[2312.11121](http://arxiv.org/abs/2312.11121)|**[link](https://github.com/smartturb/palette-turb)**|
 |**2023-12-17**|**High-Fidelity Face Swapping with Style Blending**|Xinyu Yang et.al.|[2312.10843](http://arxiv.org/abs/2312.10843)|null|
 |**2023-12-17**|**StyleSinger: Style Transfer for Out-Of-Domain Singing Voice Synthesis**|Yu Zhang et.al.|[2312.10741](http://arxiv.org/abs/2312.10741)|null|
 |**2023-12-19**|**MM-TTS: Multi-modal Prompt based Style Transfer for Expressive Text-to-Speech Synthesis**|Wenhao Guan et.al.|[2312.10687](http://arxiv.org/abs/2312.10687)|null|

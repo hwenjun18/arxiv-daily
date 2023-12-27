@@ -39,6 +39,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-25**|**MuLA-GAN: Multi-Level Attention GAN for Enhanced Underwater Visibility**|Ahsan Baidar Bakht et.al.|[2312.15633](http://arxiv.org/abs/2312.15633)|null|
+|**2023-12-25**|**GanFinger: GAN-Based Fingerprint Generation for Deep Neural Network Ownership Verification**|Huali Ren et.al.|[2312.15617](http://arxiv.org/abs/2312.15617)|null|
+|**2023-12-23**|**AdamL: A fast adaptive gradient method incorporating loss function**|Lu Xia et.al.|[2312.15295](http://arxiv.org/abs/2312.15295)|null|
+|**2023-12-23**|**IRG: Generating Synthetic Relational Databases using GANs**|Jiayu Li et.al.|[2312.15187](http://arxiv.org/abs/2312.15187)|null|
+|**2023-12-23**|**Multilingual Bias Detection and Mitigation for Indian Languages**|Ankita Maity et.al.|[2312.15181](http://arxiv.org/abs/2312.15181)|null|
+|**2023-12-22**|**EGAIN: Extended GAn INversion**|Wassim Kabbani et.al.|[2312.15116](http://arxiv.org/abs/2312.15116)|null|
 |**2023-12-22**|**Neural network models for preferential concentration of particles in two-dimensional turbulence**|Thibault Maurel-Oujia et.al.|[2312.14829](http://arxiv.org/abs/2312.14829)|null|
 |**2023-12-22**|**The Effects of Signal-to-Noise Ratio on Generative Adversarial Networks Applied to Marine Bioacoustic Data**|Georgia Atkinson et.al.|[2312.14806](http://arxiv.org/abs/2312.14806)|null|
 |**2023-12-22**|**The Rate-Distortion-Perception-Classification Tradeoff: Joint Source Coding and Modulation via Inverse-Domain GANs**|Junli Fang et.al.|[2312.14792](http://arxiv.org/abs/2312.14792)|null|
@@ -50,7 +56,7 @@ layout: default
 |**2023-12-21**|**Adapt & Align: Continual Learning with Generative Models Latent Space Alignment**|Kamil Deja et.al.|[2312.13699](http://arxiv.org/abs/2312.13699)|**[link](https://github.com/jrx-napoli/cl_classifier)**|
 |**2023-12-21**|**Free-Editor: Zero-shot Text-driven 3D Scene Editing**|Nazmul Karim et.al.|[2312.13663](http://arxiv.org/abs/2312.13663)|null|
 |**2023-12-21**|**A Comprehensive End-to-End Computer Vision Framework for Restoration and Recognition of Low-Quality Engineering Drawings**|Lvyang Yang et.al.|[2312.13620](http://arxiv.org/abs/2312.13620)|**[link](https://github.com/Lattle-y/AI-recognition-for-lq-ed)**|
-|**2023-12-21**|**HyperEditor: Achieving Both Authenticity and Cross-Domain Capability in Image Editing via Hypernetworks**|Hai Zhang et.al.|[2312.13537](http://arxiv.org/abs/2312.13537)|null|
+|**2023-12-21**|**HyperEditor: Achieving Both Authenticity and Cross-Domain Capability in Image Editing via Hypernetworks**|Hai Zhang et.al.|[2312.13537](http://arxiv.org/abs/2312.13537)|**[link](https://github.com/Rainbow0204/HyperEditor)**|
 |**2023-12-21**|**SPDGAN: A Generative Adversarial Network based on SPD Manifold Learning for Automatic Image Colorization**|Youssef Mourchid et.al.|[2312.13506](http://arxiv.org/abs/2312.13506)|null|
 |**2023-12-20**|**Texture Matching GAN for CT Image Enhancement**|Madhuri Nagare et.al.|[2312.13422](http://arxiv.org/abs/2312.13422)|null|
 |**2023-12-20**|**A 3D super-resolution of wind fields via physics-informed pixel-wise self-attention generative adversarial network**|Takuya Kurihana et.al.|[2312.13212](http://arxiv.org/abs/2312.13212)|null|
@@ -961,6 +967,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-26**|**One-dimensional Adapter to Rule Them All: Concepts, Diffusion Models and Erasing Applications**|Mengyao Lyu et.al.|[2312.16145](http://arxiv.org/abs/2312.16145)|null|
+|**2023-12-26**|**Compositional Search of Stable Crystalline Structures in Multi-Component Alloys Using Generative Diffusion Models**|Grzegorz Kaszuba et.al.|[2312.16073](http://arxiv.org/abs/2312.16073)|null|
+|**2023-12-26**|**HarmonyView: Harmonizing Consistency and Diversity in One-Image-to-3D**|Sangmin Woo et.al.|[2312.15980](http://arxiv.org/abs/2312.15980)|null|
+|**2023-12-26**|**Semantic Guidance Tuning for Text-To-Image Diffusion Models**|Hyun Kang et.al.|[2312.15964](http://arxiv.org/abs/2312.15964)|null|
+|**2023-12-26**|**Implied volatility (also) is path-dependent**|Hervé Andrès et.al.|[2312.15950](http://arxiv.org/abs/2312.15950)|null|
+|**2023-12-26**|**EnchantDance: Unveiling the Potential of Music-Driven Dance Movement**|Bo Han et.al.|[2312.15946](http://arxiv.org/abs/2312.15946)|null|
+|**2023-12-26**|**Generating and Reweighting Dense Contrastive Patterns for Unsupervised Anomaly Detection**|Songmin Dai et.al.|[2312.15911](http://arxiv.org/abs/2312.15911)|null|
+|**2023-12-26**|**Cross Initialization for Personalized Text-to-Image Generation**|Lianyu Pang et.al.|[2312.15905](http://arxiv.org/abs/2312.15905)|**[link](https://github.com/lyupang/crossinitialization)**|
+|**2023-12-25**|**Adversarial Item Promotion on Visually-Aware Recommender Systems by Guided Diffusion**|Lijian Chen et.al.|[2312.15826](http://arxiv.org/abs/2312.15826)|null|
+|**2023-12-25**|**High-Fidelity Diffusion-based Image Editing**|Chen Hou et.al.|[2312.15707](http://arxiv.org/abs/2312.15707)|null|
+|**2023-12-25**|**A Multi-Modal Contrastive Diffusion Model for Therapeutic Peptide Generation**|Yongkang Wang et.al.|[2312.15665](http://arxiv.org/abs/2312.15665)|**[link](https://github.com/wyky481l/mmcd)**|
+|**2023-12-25**|**Balanced SNR-Aware Distillation for Guided Text-to-Audio Generation**|Bingzhi Liu et.al.|[2312.15628](http://arxiv.org/abs/2312.15628)|null|
+|**2023-12-25**|**Conversational Co-Speech Gesture Generation via Modeling Dialog Intention, Emotion, and Context with Diffusion Models**|Haiwei Xue et.al.|[2312.15567](http://arxiv.org/abs/2312.15567)|null|
+|**2023-12-24**|**A-SDM: Accelerating Stable Diffusion through Redundancy Removal and Performance Optimization**|Jinchao Zhu et.al.|[2312.15516](http://arxiv.org/abs/2312.15516)|null|
+|**2023-12-24**|**Diffusion-EXR: Controllable Review Generation for Explainable Recommendation via Diffusion Models**|Ling Li et.al.|[2312.15490](http://arxiv.org/abs/2312.15490)|null|
+|**2023-12-24**|**A Two-stage Personalized Virtual Try-on Framework with Shape Control and Texture Guidance**|Shufang Zhang et.al.|[2312.15480](http://arxiv.org/abs/2312.15480)|null|
+|**2023-12-23**|**Prompt-Propose-Verify: A Reliable Hand-Object-Interaction Data Generation Framework using Foundational Models**|Gurusha Juneja et.al.|[2312.15247](http://arxiv.org/abs/2312.15247)|null|
+|**2023-12-23**|**CaLDiff: Camera Localization in NeRF via Pose Diffusion**|Rashik Shrestha et.al.|[2312.15242](http://arxiv.org/abs/2312.15242)|null|
+|**2023-12-23**|**Majority-based Preference Diffusion on Social Networks**|Ahad N. Zehmakan et.al.|[2312.15140](http://arxiv.org/abs/2312.15140)|null|
+|**2023-12-22**|**Spectrally Decomposed Diffusion Models for Generative Turbulence Recovery**|Mohammed Sardar et.al.|[2312.15029](http://arxiv.org/abs/2312.15029)|null|
 |**2023-12-22**|**MACS: Mass Conditioned 3D Hand and Object Motion Synthesis**|Soshi Shimada et.al.|[2312.14929](http://arxiv.org/abs/2312.14929)|null|
 |**2023-12-22**|**BrainVis: Exploring the Bridge between Brain and Visual Signals via Image Reconstruction**|Honghao Fu et.al.|[2312.14871](http://arxiv.org/abs/2312.14871)|null|
 |**2023-12-22**|**Neural-network-based regularization methods for inverse problems in imaging**|Andreas Habring et.al.|[2312.14849](http://arxiv.org/abs/2312.14849)|null|
@@ -3079,13 +3105,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-25**|**High-Fidelity Diffusion-based Image Editing**|Chen Hou et.al.|[2312.15707](http://arxiv.org/abs/2312.15707)|null|
+|**2023-12-25**|**Rotation Equivariant Proximal Operator for Deep Unfolding Methods in Image Restoration**|Jiahong Fu et.al.|[2312.15701](http://arxiv.org/abs/2312.15701)|**[link](https://github.com/jiahong-fu/equivariant-proximal-operator)**|
+|**2023-12-25**|**MuLA-GAN: Multi-Level Attention GAN for Enhanced Underwater Visibility**|Ahsan Baidar Bakht et.al.|[2312.15633](http://arxiv.org/abs/2312.15633)|null|
+|**2023-12-24**|**Perception-Distortion Balanced Super-Resolution: A Multi-Objective Optimization Perspective**|Lingchen Sun et.al.|[2312.15408](http://arxiv.org/abs/2312.15408)|**[link](https://github.com/csslc/ea-adam)**|
+|**2023-12-22**|**UniHuman: A Unified Model for Editing Human Images in the Wild**|Nannan Li et.al.|[2312.14985](http://arxiv.org/abs/2312.14985)|null|
 |**2023-12-22**|**Tuning-Free Inversion-Enhanced Control for Consistent Image Editing**|Xiaoyue Duan et.al.|[2312.14611](http://arxiv.org/abs/2312.14611)|null|
 |**2023-12-22**|**StyleRetoucher: Generalized Portrait Image Retouching with GAN Priors**|Wanchao Su et.al.|[2312.14389](http://arxiv.org/abs/2312.14389)|null|
 |**2023-12-22**|**Variance-insensitive and Target-preserving Mask Refinement for Interactive Image Segmentation**|Chaowei Fang et.al.|[2312.14387](http://arxiv.org/abs/2312.14387)|null|
 |**2023-12-22**|**Removing Interference and Recovering Content Imaginatively for Visible Watermark Removal**|Yicheng Leng et.al.|[2312.14383](http://arxiv.org/abs/2312.14383)|null|
 |**2023-12-20**|**Fairy: Fast Parallelized Instruction-Guided Video-to-Video Synthesis**|Bichen Wu et.al.|[2312.13834](http://arxiv.org/abs/2312.13834)|null|
 |**2023-12-22**|**AppAgent: Multimodal Agents as Smartphone Users**|Chi Zhang et.al.|[2312.13771](http://arxiv.org/abs/2312.13771)|null|
-|**2023-12-21**|**HyperEditor: Achieving Both Authenticity and Cross-Domain Capability in Image Editing via Hypernetworks**|Hai Zhang et.al.|[2312.13537](http://arxiv.org/abs/2312.13537)|null|
+|**2023-12-21**|**HyperEditor: Achieving Both Authenticity and Cross-Domain Capability in Image Editing via Hypernetworks**|Hai Zhang et.al.|[2312.13537](http://arxiv.org/abs/2312.13537)|**[link](https://github.com/Rainbow0204/HyperEditor)**|
 |**2023-12-21**|**RadEdit: stress-testing biomedical vision models via diffusion image editing**|Fernando Pérez-García et.al.|[2312.12865](http://arxiv.org/abs/2312.12865)|null|
 |**2023-12-21**|**RealCraft: Attention Control as A Solution for Zero-shot Long Video Editing**|Shutong Jin et.al.|[2312.12635](http://arxiv.org/abs/2312.12635)|null|
 |**2023-12-19**|**Fixed-point Inversion for Text-to-image diffusion models**|Barak Meiri et.al.|[2312.12540](http://arxiv.org/abs/2312.12540)|null|

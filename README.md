@@ -51,6 +51,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-28**|**Learning to Generate Text in Arbitrary Writing Styles**|Aleem Khan et.al.|[2312.17242](http://arxiv.org/abs/2312.17242)|null|
+|**2023-12-28**|**A GAN-based Semantic Communication for Text without CSI**|Jin Mao et.al.|[2312.16909](http://arxiv.org/abs/2312.16909)|null|
+|**2023-12-27**|**A Survey on Super Resolution for video Enhancement Using GAN**|Ankush Maity et.al.|[2312.16471](http://arxiv.org/abs/2312.16471)|null|
+|**2023-12-27**|**Active Third-Person Imitation Learning**|Timo Klein et.al.|[2312.16365](http://arxiv.org/abs/2312.16365)|null|
+|**2023-12-25**|**MetaScript: Few-Shot Handwritten Chinese Content Generation via Generative Adversarial Networks**|Xiangyuan Xue et.al.|[2312.16251](http://arxiv.org/abs/2312.16251)|null|
 |**2023-12-25**|**MuLA-GAN: Multi-Level Attention GAN for Enhanced Underwater Visibility**|Ahsan Baidar Bakht et.al.|[2312.15633](http://arxiv.org/abs/2312.15633)|null|
 |**2023-12-25**|**GanFinger: GAN-Based Fingerprint Generation for Deep Neural Network Ownership Verification**|Huali Ren et.al.|[2312.15617](http://arxiv.org/abs/2312.15617)|null|
 |**2023-12-23**|**AdamL: A fast adaptive gradient method incorporating loss function**|Lu Xia et.al.|[2312.15295](http://arxiv.org/abs/2312.15295)|null|
@@ -981,12 +986,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-28**|**iFusion: Inverting Diffusion for Pose-Free Reconstruction from Sparse Views**|Chin-Hsuan Wu et.al.|[2312.17250](http://arxiv.org/abs/2312.17250)|**[link](https://github.com/chinhsuanwu/ifusion)**|
+|**2023-12-28**|**Personalized Restoration via Dual-Pivot Tuning**|Pradyumna Chari et.al.|[2312.17234](http://arxiv.org/abs/2312.17234)|null|
+|**2023-12-28**|**4DGen: Grounded 4D Content Generation with Spatial-temporal Consistency**|Yuyang Yin et.al.|[2312.17225](http://arxiv.org/abs/2312.17225)|null|
+|**2023-12-28**|**Restoration by Generation with Constrained Priors**|Zheng Ding et.al.|[2312.17161](http://arxiv.org/abs/2312.17161)|null|
+|**2023-12-28**|**DiffKG: Knowledge Graph Diffusion Model for Recommendation**|Yangqin Jiang et.al.|[2312.16890](http://arxiv.org/abs/2312.16890)|**[link](https://github.com/hkuds/diffkg)**|
+|**2023-12-28**|**DiffusionGAN3D: Boosting Text-guided 3D Generation and Domain Adaption by Combining 3D GANs and Diffusion Priors**|Biwen Lei et.al.|[2312.16837](http://arxiv.org/abs/2312.16837)|null|
+|**2023-12-27**|**I2V-Adapter: A General Image-to-Video Adapter for Video Diffusion Models**|Xun Guo et.al.|[2312.16693](http://arxiv.org/abs/2312.16693)|null|
+|**2023-12-27**|**Forgery-aware Adaptive Transformer for Generalizable Synthetic Image Detection**|Huan Liu et.al.|[2312.16649](http://arxiv.org/abs/2312.16649)|null|
+|**2023-12-27**|**Image Restoration by Denoising Diffusion Models with Iteratively Preconditioned Guidance**|Tomer Garber et.al.|[2312.16519](http://arxiv.org/abs/2312.16519)|null|
+|**2023-12-27**|**PanGu-Draw: Advancing Resource-Efficient Text-to-Image Synthesis with Time-Decoupled Training and Reusable Coop-Diffusion**|Guansong Lu et.al.|[2312.16486](http://arxiv.org/abs/2312.16486)|null|
+|**2023-12-27**|**SVGDreamer: Text Guided SVG Generation with Diffusion Model**|Ximing Xing et.al.|[2312.16476](http://arxiv.org/abs/2312.16476)|null|
+|**2023-12-27**|**Natural Adversarial Patch Generation Method Based on Latent Diffusion Model**|Xianyi Chen et.al.|[2312.16401](http://arxiv.org/abs/2312.16401)|null|
 |**2023-12-26**|**One-dimensional Adapter to Rule Them All: Concepts, Diffusion Models and Erasing Applications**|Mengyao Lyu et.al.|[2312.16145](http://arxiv.org/abs/2312.16145)|null|
 |**2023-12-26**|**Compositional Search of Stable Crystalline Structures in Multi-Component Alloys Using Generative Diffusion Models**|Grzegorz Kaszuba et.al.|[2312.16073](http://arxiv.org/abs/2312.16073)|null|
 |**2023-12-26**|**HarmonyView: Harmonizing Consistency and Diversity in One-Image-to-3D**|Sangmin Woo et.al.|[2312.15980](http://arxiv.org/abs/2312.15980)|null|
 |**2023-12-26**|**Semantic Guidance Tuning for Text-To-Image Diffusion Models**|Hyun Kang et.al.|[2312.15964](http://arxiv.org/abs/2312.15964)|null|
-|**2023-12-26**|**Implied volatility (also) is path-dependent**|Hervé Andrès et.al.|[2312.15950](http://arxiv.org/abs/2312.15950)|null|
-|**2023-12-26**|**EnchantDance: Unveiling the Potential of Music-Driven Dance Movement**|Bo Han et.al.|[2312.15946](http://arxiv.org/abs/2312.15946)|null|
+|**2023-12-26**|**Implied volatility (also) is path-dependent**|Hervé Andrès et.al.|[2312.15950](http://arxiv.org/abs/2312.15950)|**[link](https://github.com/jordylek/volatilityismostlypathdependent)**|
+|**2023-12-26**|**EnchantDance: Unveiling the Potential of Music-Driven Dance Movement**|Bo Han et.al.|[2312.15946](http://arxiv.org/abs/2312.15946)|**[link](https://github.com/fluide1022/EnchantDance)**|
 |**2023-12-26**|**Generating and Reweighting Dense Contrastive Patterns for Unsupervised Anomaly Detection**|Songmin Dai et.al.|[2312.15911](http://arxiv.org/abs/2312.15911)|null|
 |**2023-12-26**|**Cross Initialization for Personalized Text-to-Image Generation**|Lianyu Pang et.al.|[2312.15905](http://arxiv.org/abs/2312.15905)|**[link](https://github.com/lyupang/crossinitialization)**|
 |**2023-12-25**|**Adversarial Item Promotion on Visually-Aware Recommender Systems by Guided Diffusion**|Lijian Chen et.al.|[2312.15826](http://arxiv.org/abs/2312.15826)|null|
@@ -3121,7 +3138,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-12-25**|**High-Fidelity Diffusion-based Image Editing**|Chen Hou et.al.|[2312.15707](http://arxiv.org/abs/2312.15707)|null|
+|**2023-12-28**|**Personalized Restoration via Dual-Pivot Tuning**|Pradyumna Chari et.al.|[2312.17234](http://arxiv.org/abs/2312.17234)|null|
+|**2023-12-28**|**Restoration by Generation with Constrained Priors**|Zheng Ding et.al.|[2312.17161](http://arxiv.org/abs/2312.17161)|null|
+|**2023-12-28**|**DarkShot: Lighting Dark Images with Low-Compute and High-Quality**|Jiazhang Zheng et.al.|[2312.16805](http://arxiv.org/abs/2312.16805)|null|
+|**2023-12-28**|**ZONE: Zero-Shot Instruction-Guided Local Editing**|Shanglin Li et.al.|[2312.16794](http://arxiv.org/abs/2312.16794)|null|
+|**2023-12-27**|**Efficient Deweather Mixture-of-Experts with Uncertainty-aware Feature-wise Linear Modulation**|Rongyu Zhang et.al.|[2312.16610](http://arxiv.org/abs/2312.16610)|null|
+|**2023-12-27**|**Image Restoration by Denoising Diffusion Models with Iteratively Preconditioned Guidance**|Tomer Garber et.al.|[2312.16519](http://arxiv.org/abs/2312.16519)|null|
+|**2023-12-28**|**High-Fidelity Diffusion-based Image Editing**|Chen Hou et.al.|[2312.15707](http://arxiv.org/abs/2312.15707)|null|
 |**2023-12-25**|**Rotation Equivariant Proximal Operator for Deep Unfolding Methods in Image Restoration**|Jiahong Fu et.al.|[2312.15701](http://arxiv.org/abs/2312.15701)|**[link](https://github.com/jiahong-fu/equivariant-proximal-operator)**|
 |**2023-12-25**|**MuLA-GAN: Multi-Level Attention GAN for Enhanced Underwater Visibility**|Ahsan Baidar Bakht et.al.|[2312.15633](http://arxiv.org/abs/2312.15633)|null|
 |**2023-12-24**|**Perception-Distortion Balanced Super-Resolution: A Multi-Objective Optimization Perspective**|Lingchen Sun et.al.|[2312.15408](http://arxiv.org/abs/2312.15408)|**[link](https://github.com/csslc/ea-adam)**|
@@ -3566,6 +3589,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-27**|**City-on-Web: Real-time Neural Rendering of Large-scale Scenes on the Web**|Kaiwen Song et.al.|[2312.16457](http://arxiv.org/abs/2312.16457)|null|
+|**2023-12-24**|**Hyper-VolTran: Fast and Generalizable One-Shot Image to 3D Object Structure via HyperNetworks**|Christian Simon et.al.|[2312.16218](http://arxiv.org/abs/2312.16218)|null|
+|**2023-12-24**|**SUNDIAL: 3D Satellite Understanding through Direct, Ambient, and Complex Lighting Decomposition**|Nikhil Behari et.al.|[2312.16215](http://arxiv.org/abs/2312.16215)|null|
 |**2023-12-17**|**PNeRFLoc: Visual Localization with Point-based Neural Radiance Fields**|Boming Zhao et.al.|[2312.10649](http://arxiv.org/abs/2312.10649)|null|
 |**2023-12-14**|**OccNeRF: Self-Supervised Multi-Camera Occupancy Prediction with Neural Radiance Fields**|Chubin Zhang et.al.|[2312.09243](http://arxiv.org/abs/2312.09243)|**[link](https://github.com/linshan-bin/occnerf)**|
 |**2023-12-13**|**Global Latent Neural Rendering**|Thomas Tanay et.al.|[2312.08338](http://arxiv.org/abs/2312.08338)|null|
@@ -3574,7 +3600,7 @@
 |**2023-12-10**|**Accurate Differential Operators for Hybrid Neural Fields**|Aditya Chetan et.al.|[2312.05984](http://arxiv.org/abs/2312.05984)|**[link](https://github.com/justachetan/hnf-derivatives)**|
 |**2023-12-10**|**R2Human: Real-Time 3D Human Appearance Rendering from a Single Image**|Qiao Feng et.al.|[2312.05826](http://arxiv.org/abs/2312.05826)|null|
 |**2023-12-08**|**IntrinsicAvatar: Physically Based Inverse Rendering of Dynamic Humans from Monocular Videos via Explicit Ray Tracing**|Shaofei Wang et.al.|[2312.05210](http://arxiv.org/abs/2312.05210)|null|
-|**2023-12-12**|**Towards Knowledge-driven Autonomous Driving**|Xin Li et.al.|[2312.04316](http://arxiv.org/abs/2312.04316)|**[link](https://github.com/pjlab-adg/awesome-knowledge-driven-ad)**|
+|**2023-12-27**|**Towards Knowledge-driven Autonomous Driving**|Xin Li et.al.|[2312.04316](http://arxiv.org/abs/2312.04316)|**[link](https://github.com/pjlab-adg/awesome-knowledge-driven-ad)**|
 |**2023-12-05**|**HybridNeRF: Efficient Neural Rendering via Adaptive Volumetric Surfaces**|Haithem Turki et.al.|[2312.03160](http://arxiv.org/abs/2312.03160)|null|
 |**2023-12-04**|**PointNeRF++: A multi-scale, point-based Neural Radiance Field**|Weiwei Sun et.al.|[2312.02362](http://arxiv.org/abs/2312.02362)|null|
 |**2023-12-04**|**ColonNeRF: Neural Radiance Fields for High-Fidelity Long-Sequence Colonoscopy Reconstruction**|Yufei Shi et.al.|[2312.02015](http://arxiv.org/abs/2312.02015)|null|
@@ -3766,6 +3792,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-28**|**DiffusionGAN3D: Boosting Text-guided 3D Generation and Domain Adaption by Combining 3D GANs and Diffusion Priors**|Biwen Lei et.al.|[2312.16837](http://arxiv.org/abs/2312.16837)|null|
 |**2023-12-22**|**StyleRetoucher: Generalized Portrait Image Retouching with GAN Priors**|Wanchao Su et.al.|[2312.14389](http://arxiv.org/abs/2312.14389)|null|
 |**2023-12-21**|**Video Recognition in Portrait Mode**|Mingfei Han et.al.|[2312.13746](http://arxiv.org/abs/2312.13746)|null|
 |**2023-12-21**|**DREAM-Talk: Diffusion-based Realistic Emotional Audio-driven Method for Single Image Talking Face Generation**|Chenxu Zhang et.al.|[2312.13578](http://arxiv.org/abs/2312.13578)|null|

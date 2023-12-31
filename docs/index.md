@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.30
+## Updated on 2023.12.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -43,7 +43,7 @@ layout: default
 |**2023-12-28**|**A GAN-based Semantic Communication for Text without CSI**|Jin Mao et.al.|[2312.16909](http://arxiv.org/abs/2312.16909)|null|
 |**2023-12-27**|**A Survey on Super Resolution for video Enhancement Using GAN**|Ankush Maity et.al.|[2312.16471](http://arxiv.org/abs/2312.16471)|null|
 |**2023-12-27**|**Active Third-Person Imitation Learning**|Timo Klein et.al.|[2312.16365](http://arxiv.org/abs/2312.16365)|null|
-|**2023-12-25**|**MetaScript: Few-Shot Handwritten Chinese Content Generation via Generative Adversarial Networks**|Xiangyuan Xue et.al.|[2312.16251](http://arxiv.org/abs/2312.16251)|null|
+|**2023-12-25**|**MetaScript: Few-Shot Handwritten Chinese Content Generation via Generative Adversarial Networks**|Xiangyuan Xue et.al.|[2312.16251](http://arxiv.org/abs/2312.16251)|**[link](https://github.com/xxyqwq/metascript)**|
 |**2023-12-25**|**MuLA-GAN: Multi-Level Attention GAN for Enhanced Underwater Visibility**|Ahsan Baidar Bakht et.al.|[2312.15633](http://arxiv.org/abs/2312.15633)|null|
 |**2023-12-25**|**GanFinger: GAN-Based Fingerprint Generation for Deep Neural Network Ownership Verification**|Huali Ren et.al.|[2312.15617](http://arxiv.org/abs/2312.15617)|null|
 |**2023-12-23**|**AdamL: A fast adaptive gradient method incorporating loss function**|Lu Xia et.al.|[2312.15295](http://arxiv.org/abs/2312.15295)|null|

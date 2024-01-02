@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.01
+## Updated on 2024.01.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -42,7 +42,7 @@ layout: default
 |**2023-12-29**|**Distance Guided Generative Adversarial Network for Explainable Binary Classifications**|Xiangyu Xiong et.al.|[2312.17538](http://arxiv.org/abs/2312.17538)|null|
 |**2023-12-28**|**Learning to Generate Text in Arbitrary Writing Styles**|Aleem Khan et.al.|[2312.17242](http://arxiv.org/abs/2312.17242)|null|
 |**2023-12-28**|**A GAN-based Semantic Communication for Text without CSI**|Jin Mao et.al.|[2312.16909](http://arxiv.org/abs/2312.16909)|null|
-|**2023-12-27**|**A Survey on Super Resolution for video Enhancement Using GAN**|Ankush Maity et.al.|[2312.16471](http://arxiv.org/abs/2312.16471)|null|
+|**2023-12-30**|**A Survey on Super Resolution for video Enhancement Using GAN**|Ankush Maity et.al.|[2312.16471](http://arxiv.org/abs/2312.16471)|null|
 |**2023-12-27**|**Active Third-Person Imitation Learning**|Timo Klein et.al.|[2312.16365](http://arxiv.org/abs/2312.16365)|null|
 |**2023-12-25**|**MetaScript: Few-Shot Handwritten Chinese Content Generation via Generative Adversarial Networks**|Xiangyuan Xue et.al.|[2312.16251](http://arxiv.org/abs/2312.16251)|**[link](https://github.com/xxyqwq/metascript)**|
 |**2023-12-25**|**MuLA-GAN: Multi-Level Attention GAN for Enhanced Underwater Visibility**|Ahsan Baidar Bakht et.al.|[2312.15633](http://arxiv.org/abs/2312.15633)|null|

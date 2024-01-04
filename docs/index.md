@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.03
+## Updated on 2024.01.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -39,6 +39,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-02**|**Automated Segmentation of Large Image Datasets using Artificial Intelligence for Microstructure Characterisation, Damage Analysis and High-Throughput Modelling Input**|Setareh Medghalchi et.al.|[2401.01147](http://arxiv.org/abs/2401.01147)|null|
+|**2024-01-02**|**Auffusion: Leveraging the Power of Diffusion and Large Language Models for Text-to-Audio Generation**|Jinlong Xue et.al.|[2401.01044](http://arxiv.org/abs/2401.01044)|**[link](https://github.com/happylittlecat2333/Auffusion)**|
+|**2024-01-01**|**An attempt to generate new bridge types from latent space of generative adversarial network**|Hongjun Zhang et.al.|[2401.00700](http://arxiv.org/abs/2401.00700)|**[link](https://github.com/QQ583304953/Bridge-GAN)**|
+|**2023-12-31**|**RainSD: Rain Style Diversification Module for Image Synthesis Enhancement using Feature-Level Style Distribution**|Hyeonjae Jeon et.al.|[2401.00460](http://arxiv.org/abs/2401.00460)|null|
+|**2023-12-31**|**TSGAN: An Optical-to-SAR Dual Conditional GAN for Optical based SAR Temporal Shifting**|Moien Rangzan et.al.|[2401.00440](http://arxiv.org/abs/2401.00440)|**[link](https://github.com/moienr/temporalgan)**|
 |**2023-12-29**|**Distance Guided Generative Adversarial Network for Explainable Binary Classifications**|Xiangyu Xiong et.al.|[2312.17538](http://arxiv.org/abs/2312.17538)|null|
 |**2023-12-28**|**Learning to Generate Text in Arbitrary Writing Styles**|Aleem Khan et.al.|[2312.17242](http://arxiv.org/abs/2312.17242)|null|
 |**2023-12-28**|**A GAN-based Semantic Communication for Text without CSI**|Jin Mao et.al.|[2312.16909](http://arxiv.org/abs/2312.16909)|null|
@@ -973,6 +978,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-02**|**VideoDrafter: Content-Consistent Multi-Scene Video Generation with LLM**|Fuchen Long et.al.|[2401.01256](http://arxiv.org/abs/2401.01256)|null|
+|**2024-01-02**|**Towards a Simultaneous and Granular Identity-Expression Control in Personalized Face Generation**|Renshuai Liu et.al.|[2401.01207](http://arxiv.org/abs/2401.01207)|null|
+|**2024-01-02**|**A comparative study of resistivity models for simulations of magnetic reconnection in the solar atmosphere. II. Plasmoid formation**|Øystein Håvard Færder et.al.|[2401.01177](http://arxiv.org/abs/2401.01177)|null|
+|**2024-01-02**|**Joint Generative Modeling of Scene Graphs and Images via Diffusion Models**|Bicheng Xu et.al.|[2401.01130](http://arxiv.org/abs/2401.01130)|null|
+|**2024-01-02**|**Robust single-particle cryo-EM image denoising and restoration**|Jing Zhang et.al.|[2401.01097](http://arxiv.org/abs/2401.01097)|null|
+|**2024-01-02**|**Auffusion: Leveraging the Power of Diffusion and Large Language Models for Text-to-Audio Generation**|Jinlong Xue et.al.|[2401.01044](http://arxiv.org/abs/2401.01044)|**[link](https://github.com/happylittlecat2333/Auffusion)**|
+|**2023-12-30**|**Improving the Stability of Diffusion Models for Content Consistent Super-Resolution**|Lingchen Sun et.al.|[2401.00877](http://arxiv.org/abs/2401.00877)|**[link](https://github.com/csslc/ccsr)**|
+|**2023-12-30**|**FlashVideo: A Framework for Swift Inference in Text-to-Video Generation**|Bin Lei et.al.|[2401.00869](http://arxiv.org/abs/2401.00869)|null|
+|**2024-01-01**|**DiffMorph: Text-less Image Morphing with Diffusion Models**|Shounak Chatterjee et.al.|[2401.00739](http://arxiv.org/abs/2401.00739)|null|
+|**2024-01-01**|**Diffusion Models, Image Super-Resolution And Everything: A Survey**|Brian B. Moser et.al.|[2401.00736](http://arxiv.org/abs/2401.00736)|null|
+|**2024-01-02**|**GD^2-NeRF: Generative Detail Compensation via GAN and Diffusion for One-shot Generalizable Neural Radiance Fields**|Xiao Pan et.al.|[2401.00616](http://arxiv.org/abs/2401.00616)|null|
+|**2024-01-03**|**Diff-PCR: Diffusion-Based Correspondence Searching in Doubly Stochastic Matrix Space for Point Cloud Registration**|Qianliang Wu et.al.|[2401.00436](http://arxiv.org/abs/2401.00436)|null|
+|**2023-12-31**|**SynCDR : Training Cross Domain Retrieval Models with Synthetic Data**|Samarth Mishra et.al.|[2401.00420](http://arxiv.org/abs/2401.00420)|**[link](https://github.com/samarth4149/syncdr)**|
+|**2023-12-31**|**Controllable Safety-Critical Closed-loop Traffic Simulation via Guided Diffusion**|Wei-Jer Chang et.al.|[2401.00391](http://arxiv.org/abs/2401.00391)|null|
+|**2023-12-30**|**Probing the Limits and Capabilities of Diffusion Models for the Anatomic Editing of Digital Twins**|Karim Kadry et.al.|[2401.00247](http://arxiv.org/abs/2401.00247)|null|
+|**2023-12-30**|**Inpaint4DNeRF: Promptable Spatio-Temporal NeRF Inpainting with Generative Diffusion Models**|Han Jiang et.al.|[2401.00208](http://arxiv.org/abs/2401.00208)|null|
+|**2023-12-30**|**Diffusion Model with Perceptual Loss**|Shanchuan Lin et.al.|[2401.00110](http://arxiv.org/abs/2401.00110)|null|
+|**2023-12-29**|**Generating Enhanced Negatives for Training Language-Based Object Detectors**|Shiyu Zhao et.al.|[2401.00094](http://arxiv.org/abs/2401.00094)|null|
 |**2023-12-29**|**FlowVid: Taming Imperfect Optical Flows for Consistent Video-to-Video Synthesis**|Feng Liang et.al.|[2312.17681](http://arxiv.org/abs/2312.17681)|null|
 |**2023-12-29**|**Data Augmentation for Supervised Graph Outlier Detection with Latent Diffusion Models**|Kay Liu et.al.|[2312.17679](http://arxiv.org/abs/2312.17679)|**[link](https://github.com/kayzliu/godm)**|
 |**2023-12-29**|**Leveraging Open-Vocabulary Diffusion to Camouflaged Instance Segmentation**|Tuan-Anh Vu et.al.|[2312.17505](http://arxiv.org/abs/2312.17505)|null|
@@ -3127,6 +3150,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-01**|**Bracketing is All You Need: Unifying Image Restoration and Enhancement Tasks with Multi-Exposure Images**|Zhilu Zhang et.al.|[2401.00766](http://arxiv.org/abs/2401.00766)|**[link](https://github.com/cszhilu1998/bracketire)**|
+|**2023-12-31**|**UGPNet: Universal Generative Prior for Image Restoration**|Hwayoon Lee et.al.|[2401.00370](http://arxiv.org/abs/2401.00370)|null|
 |**2023-12-28**|**Improving Image Restoration through Removing Degradations in Textual Representations**|Jingbo Lin et.al.|[2312.17334](http://arxiv.org/abs/2312.17334)|**[link](https://github.com/mrluin/textualdegremoval)**|
 |**2023-12-28**|**Personalized Restoration via Dual-Pivot Tuning**|Pradyumna Chari et.al.|[2312.17234](http://arxiv.org/abs/2312.17234)|null|
 |**2023-12-28**|**Restoration by Generation with Constrained Priors**|Zheng Ding et.al.|[2312.17161](http://arxiv.org/abs/2312.17161)|null|
@@ -3577,6 +3602,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-01**|**Sharp-NeRF: Grid-based Fast Deblurring Neural Radiance Fields Using Sharpness Prior**|Byeonghyeon Lee et.al.|[2401.00825](http://arxiv.org/abs/2401.00825)|**[link](https://github.com/benhenryl/sharpnerf)**|
+|**2023-12-31**|**Wild2Avatar: Rendering Humans Behind Occlusions**|Tiange Xiang et.al.|[2401.00431](http://arxiv.org/abs/2401.00431)|null|
 |**2023-12-27**|**City-on-Web: Real-time Neural Rendering of Large-scale Scenes on the Web**|Kaiwen Song et.al.|[2312.16457](http://arxiv.org/abs/2312.16457)|null|
 |**2023-12-24**|**Hyper-VolTran: Fast and Generalizable One-Shot Image to 3D Object Structure via HyperNetworks**|Christian Simon et.al.|[2312.16218](http://arxiv.org/abs/2312.16218)|null|
 |**2023-12-24**|**SUNDIAL: 3D Satellite Understanding through Direct, Ambient, and Complex Lighting Decomposition**|Nikhil Behari et.al.|[2312.16215](http://arxiv.org/abs/2312.16215)|null|
@@ -3776,6 +3803,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-02**|**Towards a Simultaneous and Granular Identity-Expression Control in Personalized Face Generation**|Renshuai Liu et.al.|[2401.01207](http://arxiv.org/abs/2401.01207)|null|
+|**2024-01-02**|**Dynamical stability and phase space analysis of an Emergent Universe with non-interacting and interacting fluids**|Bikash Chandra Roy et.al.|[2401.00782](http://arxiv.org/abs/2401.00782)|null|
+|**2024-01-01**|**Nonlinear vibration of a dipteran flight robot system with rotational geometric nonlinearity**|Yanwei Han et.al.|[2401.00637](http://arxiv.org/abs/2401.00637)|null|
 |**2023-12-28**|**Damage Rate Laws and Failure Statistics for Lumped Coupled-Field Systems via Averaging**|Arjun Roy et.al.|[2312.17350](http://arxiv.org/abs/2312.17350)|null|
 |**2023-12-29**|**DiffusionGAN3D: Boosting Text-guided 3D Generation and Domain Adaption by Combining 3D GANs and Diffusion Priors**|Biwen Lei et.al.|[2312.16837](http://arxiv.org/abs/2312.16837)|null|
 |**2023-12-22**|**StyleRetoucher: Generalized Portrait Image Retouching with GAN Priors**|Wanchao Su et.al.|[2312.14389](http://arxiv.org/abs/2312.14389)|null|

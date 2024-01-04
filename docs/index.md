@@ -39,7 +39,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-01-02**|**Automated Segmentation of Large Image Datasets using Artificial Intelligence for Microstructure Characterisation, Damage Analysis and High-Throughput Modelling Input**|Setareh Medghalchi et.al.|[2401.01147](http://arxiv.org/abs/2401.01147)|null|
+|**2024-01-03**|**Adversarial Machine Learning-Enabled Anonymization of OpenWiFi Data**|Samhita Kuili et.al.|[2401.01542](http://arxiv.org/abs/2401.01542)|null|
+|**2024-01-03**|**Automated Segmentation of Large Image Datasets using Artificial Intelligence for Microstructure Characterisation, Damage Analysis and High-Throughput Modelling Input**|Setareh Medghalchi et.al.|[2401.01147](http://arxiv.org/abs/2401.01147)|null|
 |**2024-01-02**|**Auffusion: Leveraging the Power of Diffusion and Large Language Models for Text-to-Audio Generation**|Jinlong Xue et.al.|[2401.01044](http://arxiv.org/abs/2401.01044)|**[link](https://github.com/happylittlecat2333/Auffusion)**|
 |**2024-01-01**|**An attempt to generate new bridge types from latent space of generative adversarial network**|Hongjun Zhang et.al.|[2401.00700](http://arxiv.org/abs/2401.00700)|**[link](https://github.com/QQ583304953/Bridge-GAN)**|
 |**2023-12-31**|**RainSD: Rain Style Diversification Module for Image Synthesis Enhancement using Feature-Level Style Distribution**|Hyeonjae Jeon et.al.|[2401.00460](http://arxiv.org/abs/2401.00460)|null|
@@ -978,6 +979,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-03**|**Moonshot: Towards Controllable Video Generation and Editing with Multimodal Conditions**|David Junhao Zhang et.al.|[2401.01827](http://arxiv.org/abs/2401.01827)|**[link](https://github.com/salesforce/lavis)**|
+|**2024-01-03**|**DiffYOLO: Object Detection for Anti-Noise via YOLO and Diffusion Models**|Yichen Liu et.al.|[2401.01659](http://arxiv.org/abs/2401.01659)|null|
+|**2024-01-03**|**SIGNeRF: Scene Integrated Generation for Neural Radiance Fields**|Jan-Niklas Dihlmann et.al.|[2401.01647](http://arxiv.org/abs/2401.01647)|null|
+|**2024-01-03**|**S $^{2}$ -DMs:Skip-Step Diffusion Models**|Yixuan Wang et.al.|[2401.01520](http://arxiv.org/abs/2401.01520)|**[link](https://github.com/kingkingofall/skip-step-diffusion)**|
+|**2024-01-02**|**ColorizeDiffusion: Adjustable Sketch Colorization with Reference Image and Text**|Dingkun Yan et.al.|[2401.01456](http://arxiv.org/abs/2401.01456)|null|
+|**2024-01-02**|**VALD-MD: Visual Attribution via Latent Diffusion for Medical Diagnostics**|Ammar A. Siddiqui et.al.|[2401.01414](http://arxiv.org/abs/2401.01414)|null|
+|**2024-01-01**|**DiffAugment: Diffusion based Long-Tailed Visual Relationship Recognition**|Parul Gupta et.al.|[2401.01387](http://arxiv.org/abs/2401.01387)|null|
 |**2024-01-02**|**VideoDrafter: Content-Consistent Multi-Scene Video Generation with LLM**|Fuchen Long et.al.|[2401.01256](http://arxiv.org/abs/2401.01256)|null|
 |**2024-01-02**|**Towards a Simultaneous and Granular Identity-Expression Control in Personalized Face Generation**|Renshuai Liu et.al.|[2401.01207](http://arxiv.org/abs/2401.01207)|null|
 |**2024-01-02**|**A comparative study of resistivity models for simulations of magnetic reconnection in the solar atmosphere. II. Plasmoid formation**|Øystein Håvard Færder et.al.|[2401.01177](http://arxiv.org/abs/2401.01177)|null|

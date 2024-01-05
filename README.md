@@ -51,12 +51,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-04**|**What You See is What You GAN: Rendering Every Pixel for High-Fidelity Geometry in 3D GANs**|Alex Trevithick et.al.|[2401.02411](http://arxiv.org/abs/2401.02411)|null|
+|**2024-01-04**|**CALPAGAN: Calorimetry for Particles using GANs**|Anil Dogru et.al.|[2401.02248](http://arxiv.org/abs/2401.02248)|null|
+|**2024-01-03**|**Representation Learning of Multivariate Time Series using Attention and Adversarial Training**|Leon Scharwächter et.al.|[2401.01987](http://arxiv.org/abs/2401.01987)|null|
+|**2024-01-03**|**Can We Generate Realistic Hands Only Using Convolution?**|Mehran Hosseini et.al.|[2401.01951](http://arxiv.org/abs/2401.01951)|null|
 |**2024-01-03**|**Adversarial Machine Learning-Enabled Anonymization of OpenWiFi Data**|Samhita Kuili et.al.|[2401.01542](http://arxiv.org/abs/2401.01542)|null|
 |**2024-01-03**|**Automated Segmentation of Large Image Datasets using Artificial Intelligence for Microstructure Characterisation, Damage Analysis and High-Throughput Modelling Input**|Setareh Medghalchi et.al.|[2401.01147](http://arxiv.org/abs/2401.01147)|null|
 |**2024-01-02**|**Auffusion: Leveraging the Power of Diffusion and Large Language Models for Text-to-Audio Generation**|Jinlong Xue et.al.|[2401.01044](http://arxiv.org/abs/2401.01044)|**[link](https://github.com/happylittlecat2333/Auffusion)**|
 |**2024-01-01**|**An attempt to generate new bridge types from latent space of generative adversarial network**|Hongjun Zhang et.al.|[2401.00700](http://arxiv.org/abs/2401.00700)|**[link](https://github.com/QQ583304953/Bridge-GAN)**|
 |**2023-12-31**|**RainSD: Rain Style Diversification Module for Image Synthesis Enhancement using Feature-Level Style Distribution**|Hyeonjae Jeon et.al.|[2401.00460](http://arxiv.org/abs/2401.00460)|null|
-|**2023-12-31**|**TSGAN: An Optical-to-SAR Dual Conditional GAN for Optical based SAR Temporal Shifting**|Moien Rangzan et.al.|[2401.00440](http://arxiv.org/abs/2401.00440)|**[link](https://github.com/moienr/temporalgan)**|
+|**2024-01-04**|**TSGAN: An Optical-to-SAR Dual Conditional GAN for Optical based SAR Temporal Shifting**|Moien Rangzan et.al.|[2401.00440](http://arxiv.org/abs/2401.00440)|**[link](https://github.com/moienr/temporalgan)**|
 |**2023-12-29**|**Distance Guided Generative Adversarial Network for Explainable Binary Classifications**|Xiangyu Xiong et.al.|[2312.17538](http://arxiv.org/abs/2312.17538)|**[link](https://github.com/yxiangxiong/disgan)**|
 |**2023-12-28**|**Learning to Generate Text in Arbitrary Writing Styles**|Aleem Khan et.al.|[2312.17242](http://arxiv.org/abs/2312.17242)|null|
 |**2023-12-28**|**A GAN-based Semantic Communication for Text without CSI**|Jin Mao et.al.|[2312.16909](http://arxiv.org/abs/2312.16909)|null|
@@ -993,6 +997,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-04**|**Bring Metric Functions into Diffusion Models**|Jie An et.al.|[2401.02414](http://arxiv.org/abs/2401.02414)|null|
+|**2024-01-04**|**GUESS:GradUally Enriching SyntheSis for Text-Driven Human Motion Generation**|Xuehao Gao et.al.|[2401.02142](http://arxiv.org/abs/2401.02142)|null|
+|**2024-01-04**|**Preserving Image Properties Through Initializations in Diffusion Models**|Jeffrey Zhang et.al.|[2401.02097](http://arxiv.org/abs/2401.02097)|null|
+|**2024-01-04**|**Energy based diffusion generator for efficient sampling of Boltzmann distributions**|Yan Wang et.al.|[2401.02080](http://arxiv.org/abs/2401.02080)|null|
+|**2024-01-04**|**DiffusionEdge: Diffusion Probabilistic Model for Crisp Edge Detection**|Yunfan Ye et.al.|[2401.02032](http://arxiv.org/abs/2401.02032)|**[link](https://github.com/guhuangai/diffusionedge)**|
+|**2024-01-04**|**Improving Diffusion-Based Image Synthesis with Context Prediction**|Ling Yang et.al.|[2401.02015](http://arxiv.org/abs/2401.02015)|null|
+|**2024-01-03**|**Instruct-Imagen: Image Generation with Multi-modal Instruction**|Hexiang Hu et.al.|[2401.01952](http://arxiv.org/abs/2401.01952)|null|
+|**2024-01-03**|**Can We Generate Realistic Hands Only Using Convolution?**|Mehran Hosseini et.al.|[2401.01951](http://arxiv.org/abs/2401.01951)|null|
 |**2024-01-03**|**Moonshot: Towards Controllable Video Generation and Editing with Multimodal Conditions**|David Junhao Zhang et.al.|[2401.01827](http://arxiv.org/abs/2401.01827)|**[link](https://github.com/salesforce/lavis)**|
 |**2024-01-03**|**DiffYOLO: Object Detection for Anti-Noise via YOLO and Diffusion Models**|Yichen Liu et.al.|[2401.01659](http://arxiv.org/abs/2401.01659)|null|
 |**2024-01-03**|**SIGNeRF: Scene Integrated Generation for Neural Radiance Fields**|Jan-Niklas Dihlmann et.al.|[2401.01647](http://arxiv.org/abs/2401.01647)|null|
@@ -3174,6 +3186,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-04**|**Enhancing RAW-to-sRGB with Decoupled Style Structure in Fourier Domain**|Xuanhua He et.al.|[2401.02161](http://arxiv.org/abs/2401.02161)|null|
+|**2024-01-04**|**Unified Diffusion-Based Rigid and Non-Rigid Editing with Text and Image Guidance**|Jiacheng Wang et.al.|[2401.02126](http://arxiv.org/abs/2401.02126)|**[link](https://github.com/kihensarn/ti-guided-edit)**|
 |**2024-01-01**|**Bracketing is All You Need: Unifying Image Restoration and Enhancement Tasks with Multi-Exposure Images**|Zhilu Zhang et.al.|[2401.00766](http://arxiv.org/abs/2401.00766)|**[link](https://github.com/cszhilu1998/bracketire)**|
 |**2023-12-31**|**UGPNet: Universal Generative Prior for Image Restoration**|Hwayoon Lee et.al.|[2401.00370](http://arxiv.org/abs/2401.00370)|null|
 |**2023-12-28**|**Improving Image Restoration through Removing Degradations in Textual Representations**|Jingbo Lin et.al.|[2312.17334](http://arxiv.org/abs/2312.17334)|**[link](https://github.com/mrluin/textualdegremoval)**|
@@ -3628,6 +3642,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-04**|**What You See is What You GAN: Rendering Every Pixel for High-Fidelity Geometry in 3D GANs**|Alex Trevithick et.al.|[2401.02411](http://arxiv.org/abs/2401.02411)|null|
 |**2024-01-01**|**Sharp-NeRF: Grid-based Fast Deblurring Neural Radiance Fields Using Sharpness Prior**|Byeonghyeon Lee et.al.|[2401.00825](http://arxiv.org/abs/2401.00825)|**[link](https://github.com/benhenryl/sharpnerf)**|
 |**2023-12-31**|**Wild2Avatar: Rendering Humans Behind Occlusions**|Tiange Xiang et.al.|[2401.00431](http://arxiv.org/abs/2401.00431)|null|
 |**2023-12-27**|**City-on-Web: Real-time Neural Rendering of Large-scale Scenes on the Web**|Kaiwen Song et.al.|[2312.16457](http://arxiv.org/abs/2312.16457)|null|

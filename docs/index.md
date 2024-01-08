@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.07
+## Updated on 2024.01.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -3827,7 +3827,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-01-02**|**Towards a Simultaneous and Granular Identity-Expression Control in Personalized Face Generation**|Renshuai Liu et.al.|[2401.01207](http://arxiv.org/abs/2401.01207)|null|
-|**2024-01-02**|**Dynamical stability and phase space analysis of an Emergent Universe with non-interacting and interacting fluids**|Bikash Chandra Roy et.al.|[2401.00782](http://arxiv.org/abs/2401.00782)|null|
+|**2024-01-05**|**Dynamical stability and phase space analysis of an Emergent Universe with non-interacting and interacting fluids**|Bikash Chandra Roy et.al.|[2401.00782](http://arxiv.org/abs/2401.00782)|null|
 |**2024-01-01**|**Nonlinear vibration of a dipteran flight robot system with rotational geometric nonlinearity**|Yanwei Han et.al.|[2401.00637](http://arxiv.org/abs/2401.00637)|null|
 |**2023-12-28**|**Damage Rate Laws and Failure Statistics for Lumped Coupled-Field Systems via Averaging**|Arjun Roy et.al.|[2312.17350](http://arxiv.org/abs/2312.17350)|null|
 |**2023-12-29**|**DiffusionGAN3D: Boosting Text-guided 3D Generation and Domain Adaption by Combining 3D GANs and Diffusion Priors**|Biwen Lei et.al.|[2312.16837](http://arxiv.org/abs/2312.16837)|null|

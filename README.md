@@ -51,6 +51,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-08**|**Generative adversarial wavelet neural operator: Application to fault detection and isolation of multivariate time series data**|Jyoti Rani et.al.|[2401.04004](http://arxiv.org/abs/2401.04004)|null|
+|**2024-01-07**|**Towards a Unified Method for Network Dynamic via Adversarial Weighted Link Prediction**|Meng Qin et.al.|[2401.03444](http://arxiv.org/abs/2401.03444)|null|
+|**2024-01-07**|**Advancing Noise-Resilient Twist Angle Characterization in Bilayer Graphene through Raman Spectroscopy via GAN-CNN Modeling**|Dan Hu et.al.|[2401.03371](http://arxiv.org/abs/2401.03371)|null|
+|**2024-01-04**|**An AI-enabled Bias-Free Respiratory Disease Diagnosis Model using Cough Audio: A Case Study for COVID-19**|Tabish Saeed et.al.|[2401.02996](http://arxiv.org/abs/2401.02996)|null|
 |**2024-01-05**|**Characteristics and prevalence of fake social media profiles with AI-generated faces**|Kai-Cheng Yang et.al.|[2401.02627](http://arxiv.org/abs/2401.02627)|**[link](https://github.com/osome-iu/fake_gan_accounts)**|
 |**2024-01-04**|**What You See is What You GAN: Rendering Every Pixel for High-Fidelity Geometry in 3D GANs**|Alex Trevithick et.al.|[2401.02411](http://arxiv.org/abs/2401.02411)|null|
 |**2024-01-04**|**CALPAGAN: Calorimetry for Particles using GANs**|Anil Dogru et.al.|[2401.02248](http://arxiv.org/abs/2401.02248)|null|
@@ -998,7 +1002,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-05**|**Uncovering the human motion pattern: Pattern Memory-based Diffusion Model for Trajectory Prediction**|Yuxin Yang et.al.|[2401.02916](http://arxiv.org/abs/2401.02916)|null|
+|**2024-01-08**|**scDiffusion: conditional generation of high-quality single-cell data using diffusion model**|Erpai Luo et.al.|[2401.03968](http://arxiv.org/abs/2401.03968)|**[link](https://github.com/eperluo/scdiffusion)**|
+|**2024-01-08**|**D3PRefiner: A Diffusion-based Denoise Method for 3D Human Pose Refinement**|Danqi Yan et.al.|[2401.03914](http://arxiv.org/abs/2401.03914)|null|
+|**2024-01-08**|**DDM-Lag : A Diffusion-based Decision-making Model for Autonomous Vehicles with Lagrangian Safety Enhancement**|Jiaqi Liu et.al.|[2401.03629](http://arxiv.org/abs/2401.03629)|null|
+|**2024-01-07**|**ROIC-DM: Robust Text Inference and Classification via Diffusion Model**|Shilong Yuan et.al.|[2401.03514](http://arxiv.org/abs/2401.03514)|null|
+|**2024-01-07**|**Freetalker: Controllable Speech and Text-Driven Gesture Generation Based on Diffusion Models for Enhanced Speaker Naturalness**|Sicheng Yang et.al.|[2401.03476](http://arxiv.org/abs/2401.03476)|null|
+|**2024-01-07**|**Deep Learning-based Image and Video Inpainting: A Survey**|Weize Quan et.al.|[2401.03395](http://arxiv.org/abs/2401.03395)|null|
+|**2024-01-06**|**Reflected Schrödinger Bridge for Constrained Generative Modeling**|Wei Deng et.al.|[2401.03228](http://arxiv.org/abs/2401.03228)|null|
+|**2024-01-06**|**MirrorDiffusion: Stabilizing Diffusion Process in Zero-shot Image Translation by Prompts Redescription and Beyond**|Yupei Lin et.al.|[2401.03221](http://arxiv.org/abs/2401.03221)|null|
+|**2024-01-06**|**Fair Sampling in Diffusion Models through Switching Mechanism**|Yujin Choi et.al.|[2401.03140](http://arxiv.org/abs/2401.03140)|**[link](https://github.com/uzn36/attributeswitching)**|
+|**2024-01-05**|**Latte: Latent Diffusion Transformer for Video Generation**|Xin Ma et.al.|[2401.03048](http://arxiv.org/abs/2401.03048)|**[link](https://github.com/maxin-cn/Latte)**|
+|**2024-01-05**|**The Rise of Diffusion Models in Time-Series Forecasting**|Caspar Meijer et.al.|[2401.03006](http://arxiv.org/abs/2401.03006)|null|
+|**2024-01-08**|**Uncovering the human motion pattern: Pattern Memory-based Diffusion Model for Trajectory Prediction**|Yuxin Yang et.al.|[2401.02916](http://arxiv.org/abs/2401.02916)|null|
 |**2024-01-05**|**Plug-in Diffusion Model for Sequential Recommendation**|Haokai Ma et.al.|[2401.02913](http://arxiv.org/abs/2401.02913)|null|
 |**2024-01-05**|**Diffusion Variational Inference: Diffusion Models as Expressive Variational Posteriors**|Top Piriyakulkij et.al.|[2401.02739](http://arxiv.org/abs/2401.02739)|null|
 |**2024-01-05**|**Geometric-Facilitated Denoising Diffusion Model for 3D Molecule Generation**|Can Xu et.al.|[2401.02683](http://arxiv.org/abs/2401.02683)|null|
@@ -3193,6 +3208,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-07**|**SpecRef: A Fast Training-free Baseline of Specific Reference-Condition Real Image Editing**|Songyan Chen et.al.|[2401.03433](http://arxiv.org/abs/2401.03433)|null|
+|**2024-01-07**|**Towards Effective Multiple-in-One Image Restoration: A Sequential and Prompt Learning Strategy**|Xiangtao Kong et.al.|[2401.03379](http://arxiv.org/abs/2401.03379)|null|
+|**2024-01-06**|**MirrorDiffusion: Stabilizing Diffusion Process in Zero-shot Image Translation by Prompts Redescription and Beyond**|Yupei Lin et.al.|[2401.03221](http://arxiv.org/abs/2401.03221)|null|
 |**2024-01-05**|**Generating Non-Stationary Textures using Self-Rectification**|Yang Zhou et.al.|[2401.02847](http://arxiv.org/abs/2401.02847)|**[link](https://github.com/xiaorongjun000/self-rectification)**|
 |**2024-01-05**|**Analysis of a wavelet frame based two-scale model for enhanced edges**|Bin Dong et.al.|[2401.02688](http://arxiv.org/abs/2401.02688)|null|
 |**2024-01-05**|**FED-NeRF: Achieve High 3D Consistency and Temporal Coherence for Face Video Editing on Dynamic NeRF**|Hao Zhang et.al.|[2401.02616](http://arxiv.org/abs/2401.02616)|**[link](https://github.com/zhang1023/fed-nerf)**|
@@ -3859,6 +3877,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-08**|**3D-SSGAN: Lifting 2D Semantics for 3D-Aware Compositional Portrait Synthesis**|Ruiqi Liu et.al.|[2401.03764](http://arxiv.org/abs/2401.03764)|null|
+|**2024-01-07**|**Automated construction of effective potential via algorithmic implicit bias**|Xingjie Helen Li et.al.|[2401.03511](http://arxiv.org/abs/2401.03511)|null|
 |**2024-01-02**|**Towards a Simultaneous and Granular Identity-Expression Control in Personalized Face Generation**|Renshuai Liu et.al.|[2401.01207](http://arxiv.org/abs/2401.01207)|null|
 |**2024-01-05**|**Dynamical stability and phase space analysis of an Emergent Universe with non-interacting and interacting fluids**|Bikash Chandra Roy et.al.|[2401.00782](http://arxiv.org/abs/2401.00782)|null|
 |**2024-01-01**|**Nonlinear vibration of a dipteran flight robot system with rotational geometric nonlinearity**|Yanwei Han et.al.|[2401.00637](http://arxiv.org/abs/2401.00637)|null|

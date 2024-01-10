@@ -39,6 +39,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-09**|**Advancing Ante-Hoc Explainable Models through Generative Adversarial Networks**|Tanmay Garg et.al.|[2401.04647](http://arxiv.org/abs/2401.04647)|null|
+|**2024-01-09**|**Let's Go Shopping (LGS) -- Web-Scale Image-Text Dataset for Visual Concept Understanding**|Yatong Bai et.al.|[2401.04575](http://arxiv.org/abs/2401.04575)|null|
+|**2024-01-09**|**Zero Shot Audio to Audio Emotion Transfer With Speaker Disentanglement**|Soumya Dutta et.al.|[2401.04511](http://arxiv.org/abs/2401.04511)|**[link](https://github.com/iiscleap/zest)**|
 |**2024-01-08**|**Generative adversarial wavelet neural operator: Application to fault detection and isolation of multivariate time series data**|Jyoti Rani et.al.|[2401.04004](http://arxiv.org/abs/2401.04004)|null|
 |**2024-01-07**|**Towards a Unified Method for Network Dynamic via Adversarial Weighted Link Prediction**|Meng Qin et.al.|[2401.03444](http://arxiv.org/abs/2401.03444)|null|
 |**2024-01-07**|**Advancing Noise-Resilient Twist Angle Characterization in Bilayer Graphene through Raman Spectroscopy via GAN-CNN Modeling**|Dan Hu et.al.|[2401.03371](http://arxiv.org/abs/2401.03371)|null|
@@ -988,10 +991,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-09**|**Morphable Diffusion: 3D-Consistent Diffusion for Single-image Avatar Creation**|Xiyi Chen et.al.|[2401.04728](http://arxiv.org/abs/2401.04728)|null|
+|**2024-01-09**|**Efficient estimation for ergodic diffusion processes sampled at high frequency**|Michael Sørensen et.al.|[2401.04689](http://arxiv.org/abs/2401.04689)|null|
+|**2024-01-09**|**EmoGen: Emotional Image Content Generation with Text-to-Image Diffusion Models**|Jingyuan Yang et.al.|[2401.04608](http://arxiv.org/abs/2401.04608)|null|
+|**2024-01-09**|**Enhanced Distribution Alignment for Post-Training Quantization of Diffusion Models**|Xuewen Liu et.al.|[2401.04585](http://arxiv.org/abs/2401.04585)|null|
+|**2024-01-09**|**MagicVideo-V2: Multi-Stage High-Aesthetic Video Generation**|Weimin Wang et.al.|[2401.04468](http://arxiv.org/abs/2401.04468)|null|
+|**2024-01-09**|**D3AD: Dynamic Denoising Diffusion Probabilistic Model for Anomaly Detection**|Justin Tebbe et.al.|[2401.04463](http://arxiv.org/abs/2401.04463)|null|
+|**2024-01-09**|**SonicVisionLM: Playing Sound with Vision Language Models**|Zhifeng Xie et.al.|[2401.04394](http://arxiv.org/abs/2401.04394)|null|
+|**2024-01-09**|**Representative Feature Extraction During Diffusion Process for Sketch Extraction with One Example**|Kwan Yun et.al.|[2401.04362](http://arxiv.org/abs/2401.04362)|null|
+|**2024-01-09**|**Memory-Efficient Personalization using Quantized Diffusion Model**|Hyogon Ryu et.al.|[2401.04339](http://arxiv.org/abs/2401.04339)|null|
+|**2024-01-08**|**FADI-AEC: Fast Score Based Diffusion Model Guided by Far-end Signal for Acoustic Echo Cancellation**|Yang Liu et.al.|[2401.04283](http://arxiv.org/abs/2401.04283)|null|
+|**2024-01-08**|**Robust Image Watermarking using Stable Diffusion**|Lijun Zhang et.al.|[2401.04247](http://arxiv.org/abs/2401.04247)|null|
+|**2024-01-07**|**The Stronger the Diffusion Model, the Easier the Backdoor: Data Poisoning to Induce Copyright Breaches Without Adjusting Finetuning Pipeline**|Haonan Wang et.al.|[2401.04136](http://arxiv.org/abs/2401.04136)|null|
 |**2024-01-08**|**scDiffusion: conditional generation of high-quality single-cell data using diffusion model**|Erpai Luo et.al.|[2401.03968](http://arxiv.org/abs/2401.03968)|**[link](https://github.com/eperluo/scdiffusion)**|
 |**2024-01-08**|**D3PRefiner: A Diffusion-based Denoise Method for 3D Human Pose Refinement**|Danqi Yan et.al.|[2401.03914](http://arxiv.org/abs/2401.03914)|null|
 |**2024-01-08**|**DDM-Lag : A Diffusion-based Decision-making Model for Autonomous Vehicles with Lagrangian Safety Enhancement**|Jiaqi Liu et.al.|[2401.03629](http://arxiv.org/abs/2401.03629)|null|
-|**2024-01-07**|**ROIC-DM: Robust Text Inference and Classification via Diffusion Model**|Shilong Yuan et.al.|[2401.03514](http://arxiv.org/abs/2401.03514)|null|
+|**2024-01-09**|**ROIC-DM: Robust Text Inference and Classification via Diffusion Model**|Shilong Yuan et.al.|[2401.03514](http://arxiv.org/abs/2401.03514)|null|
 |**2024-01-07**|**Freetalker: Controllable Speech and Text-Driven Gesture Generation Based on Diffusion Models for Enhanced Speaker Naturalness**|Sicheng Yang et.al.|[2401.03476](http://arxiv.org/abs/2401.03476)|null|
 |**2024-01-07**|**Deep Learning-based Image and Video Inpainting: A Survey**|Weize Quan et.al.|[2401.03395](http://arxiv.org/abs/2401.03395)|null|
 |**2024-01-06**|**Reflected Schrödinger Bridge for Constrained Generative Modeling**|Wei Deng et.al.|[2401.03228](http://arxiv.org/abs/2401.03228)|null|
@@ -3192,7 +3207,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-01-07**|**SpecRef: A Fast Training-free Baseline of Specific Reference-Condition Real Image Editing**|Songyan Chen et.al.|[2401.03433](http://arxiv.org/abs/2401.03433)|null|
+|**2024-01-07**|**SpecRef: A Fast Training-free Baseline of Specific Reference-Condition Real Image Editing**|Songyan Chen et.al.|[2401.03433](http://arxiv.org/abs/2401.03433)|**[link](https://github.com/jingjiqinggong/specp2p)**|
 |**2024-01-07**|**Towards Effective Multiple-in-One Image Restoration: A Sequential and Prompt Learning Strategy**|Xiangtao Kong et.al.|[2401.03379](http://arxiv.org/abs/2401.03379)|null|
 |**2024-01-06**|**MirrorDiffusion: Stabilizing Diffusion Process in Zero-shot Image Translation by Prompts Redescription and Beyond**|Yupei Lin et.al.|[2401.03221](http://arxiv.org/abs/2401.03221)|null|
 |**2024-01-05**|**Generating Non-Stationary Textures using Self-Rectification**|Yang Zhou et.al.|[2401.02847](http://arxiv.org/abs/2401.02847)|**[link](https://github.com/xiaorongjun000/self-rectification)**|

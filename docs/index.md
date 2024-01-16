@@ -1014,7 +1014,7 @@ layout: default
 |**2024-01-12**|**Seek for Incantations: Towards Accurate Text-to-Image Diffusion Synthesis through Prompt Engineering**|Chang Yu et.al.|[2401.06345](http://arxiv.org/abs/2401.06345)|null|
 |**2024-01-11**|**Frequency-Time Diffusion with Neural Cellular Automata**|John Kalkhof et.al.|[2401.06291](http://arxiv.org/abs/2401.06291)|null|
 |**2024-01-11**|**Demystifying Variational Diffusion Models**|Fabio De Sousa Ribeiro et.al.|[2401.06281](http://arxiv.org/abs/2401.06281)|null|
-|**2024-01-11**|**Efficient Deformable ConvNets: Rethinking Dynamic and Sparse Operator for Vision Applications**|Yuwen Xiong et.al.|[2401.06197](http://arxiv.org/abs/2401.06197)|null|
+|**2024-01-11**|**Efficient Deformable ConvNets: Rethinking Dynamic and Sparse Operator for Vision Applications**|Yuwen Xiong et.al.|[2401.06197](http://arxiv.org/abs/2401.06197)|**[link](https://github.com/opengvlab/dcnv4)**|
 |**2024-01-11**|**TriNeRFLet: A Wavelet Based Multiscale Triplane NeRF Representation**|Rajaei Khatib et.al.|[2401.06191](http://arxiv.org/abs/2401.06191)|null|
 |**2024-01-11**|**E $^{2}$ GAN: Efficient Training of Efficient GANs for Image-to-Image Translation**|Yifan Gong et.al.|[2401.06127](http://arxiv.org/abs/2401.06127)|null|
 |**2024-01-11**|**DiffDA: a diffusion model for weather-scale data assimilation**|Langwen Huang et.al.|[2401.05932](http://arxiv.org/abs/2401.05932)|null|

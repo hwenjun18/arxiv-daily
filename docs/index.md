@@ -39,6 +39,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-16**|**Inpainting Normal Maps for Lightstage data**|Hancheng Zuo et.al.|[2401.08099](http://arxiv.org/abs/2401.08099)|null|
+|**2024-01-16**|**Adversarial Masking Contrastive Learning for vein recognition**|Huafeng Qin et.al.|[2401.08079](http://arxiv.org/abs/2401.08079)|null|
+|**2024-01-15**|**Graph Transformer GANs with Graph Masked Modeling for Architectural Layout Generation**|Hao Tang et.al.|[2401.07721](http://arxiv.org/abs/2401.07721)|null|
+|**2024-01-15**|**Multimodal Crowd Counting with Pix2Pix GANs**|Muhammad Asif Khan et.al.|[2401.07591](http://arxiv.org/abs/2401.07591)|null|
+|**2024-01-15**|**Cross Domain Early Crop Mapping using CropGAN and CNN Classifier**|Yiqun Wang et.al.|[2401.07398](http://arxiv.org/abs/2401.07398)|null|
+|**2024-01-14**|**Generation of Synthetic Images for Pedestrian Detection Using a Sequence of GANs**|Viktor Seib et.al.|[2401.07370](http://arxiv.org/abs/2401.07370)|null|
+|**2024-01-14**|**A Survey on Statistical Theory of Deep Learning: Approximation, Training Dynamics, and Generative Models**|Namjoon Suh et.al.|[2401.07187](http://arxiv.org/abs/2401.07187)|null|
+|**2024-01-13**|**Quantum Generative Diffusion Model**|Chuangtao Chen et.al.|[2401.07039](http://arxiv.org/abs/2401.07039)|null|
 |**2024-01-12**|**Causally Aware Generative Adversarial Networks for Light Pollution Control**|Yuyao Zhang et.al.|[2401.06453](http://arxiv.org/abs/2401.06453)|null|
 |**2024-01-12**|**Towards High-Quality and Efficient Speech Bandwidth Extension with Parallel Amplitude and Phase Prediction**|Ye-Xin Lu et.al.|[2401.06387](http://arxiv.org/abs/2401.06387)|null|
 |**2024-01-11**|**E $^{2}$ GAN: Efficient Training of Efficient GANs for Image-to-Image Translation**|Yifan Gong et.al.|[2401.06127](http://arxiv.org/abs/2401.06127)|null|
@@ -1005,6 +1013,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-16**|**Modeling Spoof Noise by De-spoofing Diffusion and its Application in Face Anti-spoofing**|Bin Zhang et.al.|[2401.08275](http://arxiv.org/abs/2401.08275)|null|
+|**2024-01-16**|**Multi-scale 2D Temporal Map Diffusion Models for Natural Language Video Localization**|Chongzhi Zhang et.al.|[2401.08232](http://arxiv.org/abs/2401.08232)|null|
+|**2024-01-16**|**Photonic Modes Prediction via Multi-Modal Diffusion Model**|Jinyang Sun et.al.|[2401.08199](http://arxiv.org/abs/2401.08199)|null|
+|**2024-01-16**|**Key-point Guided Deformable Image Manipulation Using Diffusion Model**|Seok-Hwan Oh et.al.|[2401.08178](http://arxiv.org/abs/2401.08178)|null|
+|**2024-01-16**|**SpecSTG: A Fast Spectral Diffusion Framework for Probabilistic Spatio-Temporal Traffic Forecasting**|Lequan Lin et.al.|[2401.08119](http://arxiv.org/abs/2401.08119)|null|
+|**2024-01-16**|**DIFFRENT: A Diffusion Model for Recording Environment Transfer of Speech**|Jaekwon Im et.al.|[2401.08102](http://arxiv.org/abs/2401.08102)|null|
+|**2024-01-16**|**EmoTalker: Emotionally Editable Talking Face Generation via Diffusion Model**|Bingyuan Zhang et.al.|[2401.08049](http://arxiv.org/abs/2401.08049)|null|
+|**2024-01-16**|**Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities**|Xu Yan et.al.|[2401.08045](http://arxiv.org/abs/2401.08045)|**[link](https://github.com/zhanghm1995/forge_vfm4ad)**|
+|**2024-01-15**|**Regularity in diffusion models with gradient activation**|Damião Araújo et.al.|[2401.07979](http://arxiv.org/abs/2401.07979)|null|
+|**2024-01-15**|**HexaGen3D: StableDiffusion is just one step away from Fast and Diverse Text-to-3D Generation**|Antoine Mercier et.al.|[2401.07727](http://arxiv.org/abs/2401.07727)|null|
+|**2024-01-15**|**Towards Efficient Diffusion-Based Image Editing with Instant Attention Masks**|Siyu Zou et.al.|[2401.07709](http://arxiv.org/abs/2401.07709)|null|
+|**2024-01-15**|**Multifractal-spectral features enhance classification of anomalous diffusion**|Henrik Seckler et.al.|[2401.07646](http://arxiv.org/abs/2401.07646)|null|
+|**2024-01-15**|**InstantID: Zero-shot Identity-Preserving Generation in Seconds**|Qixun Wang et.al.|[2401.07519](http://arxiv.org/abs/2401.07519)|**[link](https://github.com/instantid/instantid)**|
+|**2024-01-15**|**Robo-ABC: Affordance Generalization Beyond Categories via Semantic Correspondence for Robot Manipulation**|Yuanchen Ju et.al.|[2401.07487](http://arxiv.org/abs/2401.07487)|null|
+|**2024-01-15**|**Hierarchical Fashion Design with Multi-stage Diffusion Models**|Zhifeng Xie et.al.|[2401.07450](http://arxiv.org/abs/2401.07450)|null|
+|**2024-01-14**|**A Survey on Statistical Theory of Deep Learning: Approximation, Training Dynamics, and Generative Models**|Namjoon Suh et.al.|[2401.07187](http://arxiv.org/abs/2401.07187)|null|
+|**2024-01-13**|**Exploring Adversarial Attacks against Latent Diffusion Model from the Perspective of Adversarial Transferability**|Junxi Chen et.al.|[2401.07087](http://arxiv.org/abs/2401.07087)|null|
+|**2024-01-13**|**Quantum Denoising Diffusion Models**|Michael Kölle et.al.|[2401.07049](http://arxiv.org/abs/2401.07049)|null|
+|**2024-01-13**|**Quantum Generative Diffusion Model**|Chuangtao Chen et.al.|[2401.07039](http://arxiv.org/abs/2401.07039)|null|
+|**2024-01-13**|**Denoising Diffusion Recommender Model**|Jujia Zhao et.al.|[2401.06982](http://arxiv.org/abs/2401.06982)|null|
 |**2024-01-12**|**A deep implicit-explicit minimizing movement method for option pricing in jump-diffusion models**|Emmanuil H. Georgoulis et.al.|[2401.06740](http://arxiv.org/abs/2401.06740)|null|
 |**2024-01-12**|**Decoupling Pixel Flipping and Occlusion Strategy for Consistent XAI Benchmarks**|Stefan Blücher et.al.|[2401.06654](http://arxiv.org/abs/2401.06654)|**[link](https://github.com/bluecher31/pixel-flipping)**|
 |**2024-01-12**|**Adversarial Examples are Misaligned in Diffusion Model Manifolds**|Peter Lorenz et.al.|[2401.06637](http://arxiv.org/abs/2401.06637)|null|
@@ -3248,6 +3276,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-16**|**Deep Linear Array Pushbroom Image Restoration: A Degradation Pipeline and Jitter-Aware Restoration Network**|Zida Chen et.al.|[2401.08171](http://arxiv.org/abs/2401.08171)|null|
+|**2024-01-15**|**Towards Efficient Diffusion-Based Image Editing with Instant Attention Masks**|Siyu Zou et.al.|[2401.07709](http://arxiv.org/abs/2401.07709)|null|
+|**2024-01-13**|**Exploring Adversarial Attacks against Latent Diffusion Model from the Perspective of Adversarial Transferability**|Junxi Chen et.al.|[2401.07087](http://arxiv.org/abs/2401.07087)|null|
 |**2024-01-12**|**LiDAR Depth Map Guided Image Compression Model**|Alessandro Gnutti et.al.|[2401.06517](http://arxiv.org/abs/2401.06517)|null|
 |**2024-01-12**|**RotationDrag: Point-based Image Editing with Rotated Diffusion Features**|Minxing Luo et.al.|[2401.06442](http://arxiv.org/abs/2401.06442)|**[link](https://github.com/tony-lowe/rotationdrag)**|
 |**2024-01-11**|**E $^{2}$ GAN: Efficient Training of Efficient GANs for Image-to-Image Translation**|Yifan Gong et.al.|[2401.06127](http://arxiv.org/abs/2401.06127)|null|
@@ -3918,6 +3949,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-16**|**EmoTalker: Emotionally Editable Talking Face Generation via Diffusion Model**|Bingyuan Zhang et.al.|[2401.08049](http://arxiv.org/abs/2401.08049)|null|
+|**2024-01-13**|**ENTED: Enhanced Neural Texture Extraction and Distribution for Reference-based Blind Face Restoration**|Yuen-Fui Lau et.al.|[2401.06978](http://arxiv.org/abs/2401.06978)|null|
 |**2024-01-11**|**Dynamic Analysis of electrostatically actuated fixed-fixed microbeams with midplane-stretching effects**|Ganesh Iyer et.al.|[2401.06037](http://arxiv.org/abs/2401.06037)|null|
 |**2024-01-10**|**Autonomous system analysis of the late-time cosmological solutions and their stability in higher-order symmetric teleparallel equivalent of general relativity**|Pooja Vishwakarma et.al.|[2401.05455](http://arxiv.org/abs/2401.05455)|null|
 |**2024-01-08**|**3D-SSGAN: Lifting 2D Semantics for 3D-Aware Compositional Portrait Synthesis**|Ruiqi Liu et.al.|[2401.03764](http://arxiv.org/abs/2401.03764)|null|

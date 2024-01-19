@@ -39,7 +39,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-01-17**|**Unsupervised Multiple Domain Translation through Controlled Disentanglement in Variational Autoencoder**|Almudévar Antonio et.al.|[2401.09180](http://arxiv.org/abs/2401.09180)|**[link](https://github.com/antonioalmudevar/variational_translation)**|
+|**2024-01-18**|**Image Translation as Diffusion Visual Programmers**|Cheng Han et.al.|[2401.09742](http://arxiv.org/abs/2401.09742)|null|
+|**2024-01-18**|**Artwork Protection Against Neural Style Transfer Using Locally Adaptive Adversarial Color Attack**|Zhongliang Guo et.al.|[2401.09673](http://arxiv.org/abs/2401.09673)|null|
+|**2024-01-17**|**MITS-GAN: Safeguarding Medical Imaging from Tampering with Generative Adversarial Networks**|Giovanni Pasqualino et.al.|[2401.09624](http://arxiv.org/abs/2401.09624)|null|
+|**2024-01-17**|**Efficient generative adversarial networks using linear additive-attention Transformers**|Emilio Morales-Juarez et.al.|[2401.09596](http://arxiv.org/abs/2401.09596)|null|
+|**2024-01-15**|**Uncertainty-Aware Hardware Trojan Detection Using Multimodal Deep Learning**|Rahul Vishwakarma et.al.|[2401.09479](http://arxiv.org/abs/2401.09479)|null|
+|**2024-01-18**|**Unsupervised Multiple Domain Translation through Controlled Disentanglement in Variational Autoencoder**|Antonio Almudévar et.al.|[2401.09180](http://arxiv.org/abs/2401.09180)|**[link](https://github.com/antonioalmudevar/variational_translation)**|
 |**2024-01-17**|**ACT-GAN: Radio map construction based on generative adversarial networks with ACT blocks**|Chen Qi et.al.|[2401.08976](http://arxiv.org/abs/2401.08976)|null|
 |**2024-01-12**|**A Physics-informed machine learning model for time-dependent wave runup prediction**|Saeed Saviz Naeini et.al.|[2401.08684](http://arxiv.org/abs/2401.08684)|null|
 |**2024-01-16**|**Inpainting Normal Maps for Lightstage data**|Hancheng Zuo et.al.|[2401.08099](http://arxiv.org/abs/2401.08099)|null|
@@ -1016,6 +1021,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-18**|**A Simple Latent Diffusion Approach for Panoptic Segmentation and Mask Inpainting**|Wouter Van Gansbeke et.al.|[2401.10227](http://arxiv.org/abs/2401.10227)|**[link](https://github.com/segments-ai/latent-diffusion-segmentation)**|
+|**2024-01-18**|**Motion-Zero: Zero-Shot Moving Object Control Framework for Diffusion-Based Video Generation**|Changgu Chen et.al.|[2401.10150](http://arxiv.org/abs/2401.10150)|null|
+|**2024-01-18**|**DiffusionGPT: LLM-Driven Text-to-Image Generation System**|Jie Qin et.al.|[2401.10061](http://arxiv.org/abs/2401.10061)|null|
+|**2024-01-18**|**CustomVideo: Customizing Text-to-Video Generation with Multiple Subjects**|Zhao Wang et.al.|[2401.09962](http://arxiv.org/abs/2401.09962)|null|
+|**2024-01-18**|**BlenDA: Domain Adaptive Object Detection through diffusion-based blending**|Tzuhsuan Huang et.al.|[2401.09921](http://arxiv.org/abs/2401.09921)|null|
+|**2024-01-18**|**Exploring Latent Cross-Channel Embedding for Accurate 3D Human Pose Reconstruction in a Diffusion Framework**|Junkun Jiang et.al.|[2401.09836](http://arxiv.org/abs/2401.09836)|null|
+|**2024-01-18**|**Wavelet-Guided Acceleration of Text Inversion in Diffusion-Based Image Editing**|Gwanhyeong Koo et.al.|[2401.09794](http://arxiv.org/abs/2401.09794)|null|
+|**2024-01-18**|**Image Translation as Diffusion Visual Programmers**|Cheng Han et.al.|[2401.09742](http://arxiv.org/abs/2401.09742)|null|
+|**2024-01-17**|**Total fraction of drug released from diffusion-controlled delivery systems with binding reactions**|Elliot J. Carr et.al.|[2401.09644](http://arxiv.org/abs/2401.09644)|null|
+|**2024-01-17**|**Efficient generative adversarial networks using linear additive-attention Transformers**|Emilio Morales-Juarez et.al.|[2401.09596](http://arxiv.org/abs/2401.09596)|null|
 |**2024-01-17**|**TextureDreamer: Image-guided Texture Synthesis through Geometry-aware Diffusion**|Yu-Ying Yeh et.al.|[2401.09416](http://arxiv.org/abs/2401.09416)|null|
 |**2024-01-17**|**Vlogger: Make Your Dream A Vlog**|Shaobin Zhuang et.al.|[2401.09414](http://arxiv.org/abs/2401.09414)|**[link](https://github.com/zhuangshaobin/vlogger)**|
 |**2024-01-17**|**On the $\varepsilon$ -Euler-Maruyama scheme for time inhomogeneous jump-driven SDEs**|Mireille Bossy et.al.|[2401.09338](http://arxiv.org/abs/2401.09338)|null|
@@ -1024,7 +1039,7 @@ layout: default
 |**2024-01-17**|**Training-Free Semantic Video Composition via Pre-trained Diffusion Model**|Jiaqi Guo et.al.|[2401.09195](http://arxiv.org/abs/2401.09195)|null|
 |**2024-01-17**|**Consistent3D: Towards Consistent High-Fidelity Text-to-3D Generation with Deterministic Sampling Prior**|Zike Wu et.al.|[2401.09050](http://arxiv.org/abs/2401.09050)|null|
 |**2024-01-17**|**Compose and Conquer: Diffusion-Based 3D Depth Aware Composable Image Synthesis**|Jonghyun Lee et.al.|[2401.09048](http://arxiv.org/abs/2401.09048)|**[link](https://github.com/tomtom1103/compose-and-conquer)**|
-|**2024-01-17**|**VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models**|Haoxin Chen et.al.|[2401.09047](http://arxiv.org/abs/2401.09047)|null|
+|**2024-01-17**|**VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models**|Haoxin Chen et.al.|[2401.09047](http://arxiv.org/abs/2401.09047)|**[link](https://github.com/ailab-cvc/videocrafter)**|
 |**2024-01-17**|**Data Attribution for Diffusion Models: Timestep-induced Bias in Influence Estimation**|Tong Xie et.al.|[2401.09031](http://arxiv.org/abs/2401.09031)|null|
 |**2024-01-17**|**3D Human Pose Analysis via Diffusion Synthesis**|Haorui Ji et.al.|[2401.08930](http://arxiv.org/abs/2401.08930)|null|
 |**2024-01-16**|**Adversarial Supervision Makes Layout-to-Image Diffusion Models Thrive**|Yumeng Li et.al.|[2401.08815](http://arxiv.org/abs/2401.08815)|**[link](https://github.com/boschresearch/aldm)**|
@@ -3295,6 +3310,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-18**|**Edit One for All: Interactive Batch Image Editing**|Thao Nguyen et.al.|[2401.10219](http://arxiv.org/abs/2401.10219)|null|
+|**2024-01-18**|**Boosting Few-Shot Semantic Segmentation Via Segment Anything Model**|Chen-Bin Feng et.al.|[2401.09826](http://arxiv.org/abs/2401.09826)|null|
+|**2024-01-18**|**Wavelet-Guided Acceleration of Text Inversion in Diffusion-Based Image Editing**|Gwanhyeong Koo et.al.|[2401.09794](http://arxiv.org/abs/2401.09794)|null|
+|**2024-01-03**|**Image Restoration: A Comparative Analysis of Image De noising Using Different Spatial Filtering Techniques**|E. G. Onyedinma et.al.|[2401.09460](http://arxiv.org/abs/2401.09460)|null|
 |**2024-01-16**|**Deep Linear Array Pushbroom Image Restoration: A Degradation Pipeline and Jitter-Aware Restoration Network**|Zida Chen et.al.|[2401.08171](http://arxiv.org/abs/2401.08171)|**[link](https://github.com/jhw2000/jarnet)**|
 |**2024-01-15**|**Towards Efficient Diffusion-Based Image Editing with Instant Attention Masks**|Siyu Zou et.al.|[2401.07709](http://arxiv.org/abs/2401.07709)|null|
 |**2024-01-13**|**Exploring Adversarial Attacks against Latent Diffusion Model from the Perspective of Adversarial Transferability**|Junxi Chen et.al.|[2401.07087](http://arxiv.org/abs/2401.07087)|null|
@@ -3762,6 +3781,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-18**|**GPAvatar: Generalizable and Precise Head Avatar from Image(s)**|Xuangeng Chu et.al.|[2401.10215](http://arxiv.org/abs/2401.10215)|null|
 |**2024-01-11**|**Dubbing for Everyone: Data-Efficient Visual Dubbing using Neural Rendering Priors**|Jack Saunders et.al.|[2401.06126](http://arxiv.org/abs/2401.06126)|null|
 |**2024-01-11**|**Gaussian Shadow Casting for Neural Characters**|Luis Bolanos et.al.|[2401.06116](http://arxiv.org/abs/2401.06116)|null|
 |**2024-01-10**|**URHand: Universal Relightable Hands**|Zhaoxi Chen et.al.|[2401.05334](http://arxiv.org/abs/2401.05334)|null|

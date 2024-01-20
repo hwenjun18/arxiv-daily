@@ -41,7 +41,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-01-18**|**Image Translation as Diffusion Visual Programmers**|Cheng Han et.al.|[2401.09742](http://arxiv.org/abs/2401.09742)|null|
 |**2024-01-18**|**Artwork Protection Against Neural Style Transfer Using Locally Adaptive Adversarial Color Attack**|Zhongliang Guo et.al.|[2401.09673](http://arxiv.org/abs/2401.09673)|null|
-|**2024-01-17**|**MITS-GAN: Safeguarding Medical Imaging from Tampering with Generative Adversarial Networks**|Giovanni Pasqualino et.al.|[2401.09624](http://arxiv.org/abs/2401.09624)|null|
+|**2024-01-17**|**MITS-GAN: Safeguarding Medical Imaging from Tampering with Generative Adversarial Networks**|Giovanni Pasqualino et.al.|[2401.09624](http://arxiv.org/abs/2401.09624)|**[link](https://github.com/giovannipasq/mits-gan)**|
 |**2024-01-17**|**Efficient generative adversarial networks using linear additive-attention Transformers**|Emilio Morales-Juarez et.al.|[2401.09596](http://arxiv.org/abs/2401.09596)|null|
 |**2024-01-15**|**Uncertainty-Aware Hardware Trojan Detection Using Multimodal Deep Learning**|Rahul Vishwakarma et.al.|[2401.09479](http://arxiv.org/abs/2401.09479)|null|
 |**2024-01-18**|**Unsupervised Multiple Domain Translation through Controlled Disentanglement in Variational Autoencoder**|Antonio Almudévar et.al.|[2401.09180](http://arxiv.org/abs/2401.09180)|**[link](https://github.com/antonioalmudevar/variational_translation)**|

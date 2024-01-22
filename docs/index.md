@@ -39,6 +39,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-12**|**GANs for EVT Based Model Parameter Estimation in Real-time Ultra-Reliable Communication**|Parmida Valiahdi et.al.|[2401.10280](http://arxiv.org/abs/2401.10280)|null|
 |**2024-01-18**|**Image Translation as Diffusion Visual Programmers**|Cheng Han et.al.|[2401.09742](http://arxiv.org/abs/2401.09742)|null|
 |**2024-01-18**|**Artwork Protection Against Neural Style Transfer Using Locally Adaptive Adversarial Color Attack**|Zhongliang Guo et.al.|[2401.09673](http://arxiv.org/abs/2401.09673)|null|
 |**2024-01-17**|**MITS-GAN: Safeguarding Medical Imaging from Tampering with Generative Adversarial Networks**|Giovanni Pasqualino et.al.|[2401.09624](http://arxiv.org/abs/2401.09624)|**[link](https://github.com/giovannipasq/mits-gan)**|
@@ -1021,6 +1022,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-19**|**Synthesizing Moving People with 3D Control**|Boyi Li et.al.|[2401.10889](http://arxiv.org/abs/2401.10889)|null|
+|**2024-01-19**|**ActAnywhere: Subject-Aware Video Background Generation**|Boxiao Pan et.al.|[2401.10822](http://arxiv.org/abs/2401.10822)|null|
+|**2024-01-19**|**From Market Saturation to Social Reinforcement: Understanding the Impact of Non-Linearity in Information Diffusion Models**|Tobias Friedrich et.al.|[2401.10818](http://arxiv.org/abs/2401.10818)|null|
+|**2024-01-19**|**Sat2Scene: 3D Urban Scene Generation from Satellite Images with Diffusion**|Zuoyue Li et.al.|[2401.10786](http://arxiv.org/abs/2401.10786)|null|
+|**2024-01-19**|**Safe Offline Reinforcement Learning with Feasibility-Guided Diffusion Model**|Yinan Zheng et.al.|[2401.10700](http://arxiv.org/abs/2401.10700)|null|
+|**2024-01-19**|**MAEDiff: Masked Autoencoder-enhanced Diffusion Models for Unsupervised Anomaly Detection in Brain Images**|Rui Xu et.al.|[2401.10561](http://arxiv.org/abs/2401.10561)|null|
+|**2024-01-18**|**Inflation with Diffusion: Efficient Temporal Adaptation for Text-to-Video Super-Resolution**|Xin Yuan et.al.|[2401.10404](http://arxiv.org/abs/2401.10404)|null|
 |**2024-01-18**|**A Simple Latent Diffusion Approach for Panoptic Segmentation and Mask Inpainting**|Wouter Van Gansbeke et.al.|[2401.10227](http://arxiv.org/abs/2401.10227)|**[link](https://github.com/segments-ai/latent-diffusion-segmentation)**|
 |**2024-01-19**|**Motion-Zero: Zero-Shot Moving Object Control Framework for Diffusion-Based Video Generation**|Changgu Chen et.al.|[2401.10150](http://arxiv.org/abs/2401.10150)|null|
 |**2024-01-18**|**DiffusionGPT: LLM-Driven Text-to-Image Generation System**|Jie Qin et.al.|[2401.10061](http://arxiv.org/abs/2401.10061)|null|
@@ -3310,6 +3318,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-19**|**MixNet: Towards Effective and Efficient UHD Low-Light Image Enhancement**|Chen Wu et.al.|[2401.10666](http://arxiv.org/abs/2401.10666)|null|
 |**2024-01-18**|**Edit One for All: Interactive Batch Image Editing**|Thao Nguyen et.al.|[2401.10219](http://arxiv.org/abs/2401.10219)|null|
 |**2024-01-18**|**Boosting Few-Shot Semantic Segmentation Via Segment Anything Model**|Chen-Bin Feng et.al.|[2401.09826](http://arxiv.org/abs/2401.09826)|null|
 |**2024-01-18**|**Wavelet-Guided Acceleration of Text Inversion in Diffusion-Based Image Editing**|Gwanhyeong Koo et.al.|[2401.09794](http://arxiv.org/abs/2401.09794)|null|
@@ -3781,6 +3790,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-19**|**Sat2Scene: 3D Urban Scene Generation from Satellite Images with Diffusion**|Zuoyue Li et.al.|[2401.10786](http://arxiv.org/abs/2401.10786)|null|
 |**2024-01-18**|**GPAvatar: Generalizable and Precise Head Avatar from Image(s)**|Xuangeng Chu et.al.|[2401.10215](http://arxiv.org/abs/2401.10215)|**[link](https://github.com/xg-chu/gpavatar)**|
 |**2024-01-11**|**Dubbing for Everyone: Data-Efficient Visual Dubbing using Neural Rendering Priors**|Jack Saunders et.al.|[2401.06126](http://arxiv.org/abs/2401.06126)|null|
 |**2024-01-11**|**Gaussian Shadow Casting for Neural Characters**|Luis Bolanos et.al.|[2401.06116](http://arxiv.org/abs/2401.06116)|null|

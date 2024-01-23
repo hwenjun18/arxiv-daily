@@ -39,6 +39,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-22**|**ScoreDec: A Phase-preserving High-Fidelity Audio Codec with A Generalized Score-based Diffusion Post-filter**|Yi-Chiao Wu et.al.|[2401.12160](http://arxiv.org/abs/2401.12160)|null|
+|**2024-01-22**|**Simulating Nighttime Visible Satellite Imagery of Tropical Cyclones Using Conditional Generative Adversarial Networks**|Jinghuai Yao et.al.|[2401.11679](http://arxiv.org/abs/2401.11679)|null|
+|**2024-01-19**|**Fast Registration of Photorealistic Avatars for VR Facial Animation**|Chaitanya Patel et.al.|[2401.11002](http://arxiv.org/abs/2401.11002)|null|
 |**2024-01-12**|**GANs for EVT Based Model Parameter Estimation in Real-time Ultra-Reliable Communication**|Parmida Valiahdi et.al.|[2401.10280](http://arxiv.org/abs/2401.10280)|null|
 |**2024-01-18**|**Image Translation as Diffusion Visual Programmers**|Cheng Han et.al.|[2401.09742](http://arxiv.org/abs/2401.09742)|null|
 |**2024-01-18**|**Artwork Protection Against Neural Style Transfer Using Locally Adaptive Adversarial Color Attack**|Zhongliang Guo et.al.|[2401.09673](http://arxiv.org/abs/2401.09673)|null|
@@ -1022,6 +1025,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-22**|**DITTO: Diffusion Inference-Time T-Optimization for Music Generation**|Zachary Novack et.al.|[2401.12179](http://arxiv.org/abs/2401.12179)|null|
+|**2024-01-22**|**Single-View 3D Human Digitalization with Large Reconstruction Models**|Zhenzhen Weng et.al.|[2401.12175](http://arxiv.org/abs/2401.12175)|null|
+|**2024-01-22**|**Feature Denoising Diffusion Model for Blind Image Quality Assessment**|Xudong Li et.al.|[2401.11949](http://arxiv.org/abs/2401.11949)|null|
+|**2024-01-22**|**EmerDiff: Emerging Pixel-level Semantic Knowledge in Diffusion Models**|Koichi Namekata et.al.|[2401.11739](http://arxiv.org/abs/2401.11739)|null|
+|**2024-01-22**|**Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs**|Ling Yang et.al.|[2401.11708](http://arxiv.org/abs/2401.11708)|**[link](https://github.com/yangling0818/rpg-diffusionmaster)**|
+|**2024-01-21**|**Scalable High-Resolution Pixel-Space Image Synthesis with Hourglass Diffusion Transformers**|Katherine Crowson et.al.|[2401.11605](http://arxiv.org/abs/2401.11605)|null|
+|**2024-01-20**|**Diffusion Model Conditioning on Gaussian Mixture Model and Negative Gaussian Mixture Gradient**|Weiguo Lu et.al.|[2401.11261](http://arxiv.org/abs/2401.11261)|null|
+|**2024-01-20**|**Product-Level Try-on: Characteristics-preserving Try-on with Realistic Clothes Shading and Wrinkles**|Yanlong Zang et.al.|[2401.11239](http://arxiv.org/abs/2401.11239)|null|
+|**2024-01-20**|**MotionMix: Weakly-Supervised Diffusion for Controllable Motion Generation**|Nhat M. Hoang et.al.|[2401.11115](http://arxiv.org/abs/2401.11115)|null|
+|**2024-01-20**|**UltrAvatar: A Realistic Animatable 3D Avatar Diffusion Model with Authenticity Guided Textures**|Mingyuan Zhou et.al.|[2401.11078](http://arxiv.org/abs/2401.11078)|null|
+|**2024-01-20**|**Make-A-Shape: a Ten-Million-scale 3D Shape Model**|Ka-Hei Hui et.al.|[2401.11067](http://arxiv.org/abs/2401.11067)|null|
 |**2024-01-19**|**Synthesizing Moving People with 3D Control**|Boyi Li et.al.|[2401.10889](http://arxiv.org/abs/2401.10889)|null|
 |**2024-01-19**|**ActAnywhere: Subject-Aware Video Background Generation**|Boxiao Pan et.al.|[2401.10822](http://arxiv.org/abs/2401.10822)|null|
 |**2024-01-19**|**From Market Saturation to Social Reinforcement: Understanding the Impact of Non-Linearity in Information Diffusion Models**|Tobias Friedrich et.al.|[2401.10818](http://arxiv.org/abs/2401.10818)|null|
@@ -1030,7 +1044,7 @@ layout: default
 |**2024-01-19**|**MAEDiff: Masked Autoencoder-enhanced Diffusion Models for Unsupervised Anomaly Detection in Brain Images**|Rui Xu et.al.|[2401.10561](http://arxiv.org/abs/2401.10561)|null|
 |**2024-01-18**|**Inflation with Diffusion: Efficient Temporal Adaptation for Text-to-Video Super-Resolution**|Xin Yuan et.al.|[2401.10404](http://arxiv.org/abs/2401.10404)|null|
 |**2024-01-18**|**A Simple Latent Diffusion Approach for Panoptic Segmentation and Mask Inpainting**|Wouter Van Gansbeke et.al.|[2401.10227](http://arxiv.org/abs/2401.10227)|**[link](https://github.com/segments-ai/latent-diffusion-segmentation)**|
-|**2024-01-19**|**Motion-Zero: Zero-Shot Moving Object Control Framework for Diffusion-Based Video Generation**|Changgu Chen et.al.|[2401.10150](http://arxiv.org/abs/2401.10150)|null|
+|**2024-01-22**|**Motion-Zero: Zero-Shot Moving Object Control Framework for Diffusion-Based Video Generation**|Changgu Chen et.al.|[2401.10150](http://arxiv.org/abs/2401.10150)|null|
 |**2024-01-18**|**DiffusionGPT: LLM-Driven Text-to-Image Generation System**|Jie Qin et.al.|[2401.10061](http://arxiv.org/abs/2401.10061)|null|
 |**2024-01-18**|**CustomVideo: Customizing Text-to-Video Generation with Multiple Subjects**|Zhao Wang et.al.|[2401.09962](http://arxiv.org/abs/2401.09962)|null|
 |**2024-01-18**|**BlenDA: Domain Adaptive Object Detection through diffusion-based blending**|Tzuhsuan Huang et.al.|[2401.09921](http://arxiv.org/abs/2401.09921)|null|
@@ -3318,6 +3332,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-21**|**Text-to-Image Cross-Modal Generation: A Systematic Review**|Maciej Żelaszczyk et.al.|[2401.11631](http://arxiv.org/abs/2401.11631)|null|
+|**2024-01-21**|**LLMRA: Multi-modal Large Language Model based Restoration Assistant**|Xiaoyu Jin et.al.|[2401.11401](http://arxiv.org/abs/2401.11401)|null|
 |**2024-01-19**|**MixNet: Towards Effective and Efficient UHD Low-Light Image Enhancement**|Chen Wu et.al.|[2401.10666](http://arxiv.org/abs/2401.10666)|null|
 |**2024-01-18**|**Edit One for All: Interactive Batch Image Editing**|Thao Nguyen et.al.|[2401.10219](http://arxiv.org/abs/2401.10219)|null|
 |**2024-01-20**|**Boosting Few-Shot Semantic Segmentation Via Segment Anything Model**|Chen-Bin Feng et.al.|[2401.09826](http://arxiv.org/abs/2401.09826)|null|
@@ -3999,6 +4015,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-20**|**Product-Level Try-on: Characteristics-preserving Try-on with Realistic Clothes Shading and Wrinkles**|Yanlong Zang et.al.|[2401.11239](http://arxiv.org/abs/2401.11239)|null|
 |**2024-01-20**|**Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis**|Zhenhui Ye et.al.|[2401.08503](http://arxiv.org/abs/2401.08503)|null|
 |**2024-01-16**|**EmoTalker: Emotionally Editable Talking Face Generation via Diffusion Model**|Bingyuan Zhang et.al.|[2401.08049](http://arxiv.org/abs/2401.08049)|null|
 |**2024-01-13**|**ENTED: Enhanced Neural Texture Extraction and Distribution for Reference-based Blind Face Restoration**|Yuen-Fui Lau et.al.|[2401.06978](http://arxiv.org/abs/2401.06978)|null|

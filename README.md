@@ -51,6 +51,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-25**|**Expression-aware video inpainting for HMD removal in XR applications**|Fatemeh Ghorbani Lohesara et.al.|[2401.14136](http://arxiv.org/abs/2401.14136)|null|
+|**2024-01-25**|**CreativeSynth: Creative Blending and Synthesis of Visual Arts based on Multimodal Diffusion**|Nisha Huang et.al.|[2401.14066](http://arxiv.org/abs/2401.14066)|**[link](https://github.com/haha-lisa/creativesynth)**|
+|**2024-01-24**|**Inference Attacks Against Face Recognition Model without Classification Layers**|Yuanqing Huang et.al.|[2401.13719](http://arxiv.org/abs/2401.13719)|null|
 |**2024-01-24**|**Generating Synthetic Health Sensor Data for Privacy-Preserving Wearable Stress Detection**|Lucas Lange et.al.|[2401.13327](http://arxiv.org/abs/2401.13327)|**[link](https://github.com/luckyos-code/privacy-preserving-smartwatch-health-data-generation-using-dp-gans)**|
 |**2024-01-23**|**CCA: Collaborative Competitive Agents for Image Editing**|Tiankai Hang et.al.|[2401.13011](http://arxiv.org/abs/2401.13011)|**[link](https://github.com/tiankaihang/cca)**|
 |**2024-01-23**|**Two-View Topogram-Based Anatomy-Guided CT Reconstruction for Prospective Risk Minimization**|Chang Liu et.al.|[2401.12725](http://arxiv.org/abs/2401.12725)|null|
@@ -1042,8 +1045,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-25**|**Deconstructing Denoising Diffusion Models for Self-Supervised Learning**|Xinlei Chen et.al.|[2401.14404](http://arxiv.org/abs/2401.14404)|null|
+|**2024-01-25**|**pix2gestalt: Amodal Segmentation by Synthesizing Wholes**|Ege Ozguroglu et.al.|[2401.14398](http://arxiv.org/abs/2401.14398)|**[link](https://github.com/cvlab-columbia/pix2gestalt)**|
+|**2024-01-25**|**UrbanGenAI: Reconstructing Urban Landscapes using Panoptic Segmentation and Diffusion Models**|Timo Kapsalis et.al.|[2401.14379](http://arxiv.org/abs/2401.14379)|null|
+|**2024-01-25**|**Sketch2NeRF: Multi-view Sketch-guided Text-to-3D Generation**|Minglin Chen et.al.|[2401.14257](http://arxiv.org/abs/2401.14257)|null|
+|**2024-01-25**|**Scene Graph to Image Synthesis: Integrating CLIP Guidance with Graph Conditioning in Diffusion Models**|Rameshwar Mishra et.al.|[2401.14111](http://arxiv.org/abs/2401.14111)|null|
+|**2024-01-25**|**CreativeSynth: Creative Blending and Synthesis of Visual Arts based on Multimodal Diffusion**|Nisha Huang et.al.|[2401.14066](http://arxiv.org/abs/2401.14066)|**[link](https://github.com/haha-lisa/creativesynth)**|
+|**2024-01-25**|**Diffusion-based Data Augmentation for Object Counting Problems**|Zhen Wang et.al.|[2401.13992](http://arxiv.org/abs/2401.13992)|null|
+|**2024-01-25**|**BootPIG: Bootstrapping Zero-shot Personalized Image Generation Capabilities in Pretrained Diffusion Models**|Senthil Purushwalkam et.al.|[2401.13974](http://arxiv.org/abs/2401.13974)|null|
+|**2024-01-25**|**StyleInject: Parameter Efficient Tuning of Text-to-Image Diffusion Models**|Yalong Bai et.al.|[2401.13942](http://arxiv.org/abs/2401.13942)|null|
+|**2024-01-24**|**Inverse Molecular Design with Multi-Conditional Diffusion Guidance**|Gang Liu et.al.|[2401.13858](http://arxiv.org/abs/2401.13858)|null|
+|**2024-01-24**|**Diffuse to Choose: Enriching Image Conditioned Inpainting in Latent Diffusion Models for Virtual Try-All**|Mehmet Saygin Seyfioglu et.al.|[2401.13795](http://arxiv.org/abs/2401.13795)|null|
 |**2024-01-24**|**Guided Diffusion for Fast Inverse Design of Density-based Mechanical Metamaterials**|Yanyan Yang et.al.|[2401.13570](http://arxiv.org/abs/2401.13570)|null|
-|**2024-01-24**|**UNIMO-G: Unified Image Generation through Multimodal Conditional Diffusion**|Wei Li et.al.|[2401.13388](http://arxiv.org/abs/2401.13388)|null|
+|**2024-01-25**|**UNIMO-G: Unified Image Generation through Multimodal Conditional Diffusion**|Wei Li et.al.|[2401.13388](http://arxiv.org/abs/2401.13388)|null|
 |**2024-01-24**|**Generative Design of Crystal Structures by Point Cloud Representations and Diffusion Model**|Zhelin Li et.al.|[2401.13192](http://arxiv.org/abs/2401.13192)|null|
 |**2024-01-24**|**Towards Multi-domain Face Landmark Detection with Synthetic Data from Diffusion model**|Yuanming Li et.al.|[2401.13191](http://arxiv.org/abs/2401.13191)|null|
 |**2024-01-24**|**Compositional Generative Inverse Design**|Tailin Wu et.al.|[2401.13171](http://arxiv.org/abs/2401.13171)|**[link](https://github.com/ai4science-westlakeu/cindm)**|
@@ -3364,6 +3378,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-25**|**Grounded SAM: Assembling Open-World Models for Diverse Visual Tasks**|Tianhe Ren et.al.|[2401.14159](http://arxiv.org/abs/2401.14159)|null|
+|**2024-01-25**|**CreativeSynth: Creative Blending and Synthesis of Visual Arts based on Multimodal Diffusion**|Nisha Huang et.al.|[2401.14066](http://arxiv.org/abs/2401.14066)|**[link](https://github.com/haha-lisa/creativesynth)**|
 |**2024-01-24**|**Scaling Up to Excellence: Practicing Model Scaling for Photo-Realistic Image Restoration In the Wild**|Fanghua Yu et.al.|[2401.13627](http://arxiv.org/abs/2401.13627)|null|
 |**2024-01-24**|**Unified-Width Adaptive Dynamic Network for All-In-One Image Restoration**|Yimin Xu et.al.|[2401.13221](http://arxiv.org/abs/2401.13221)|**[link](https://github.com/xuyimin0926/u-wadn)**|
 |**2024-01-23**|**CCA: Collaborative Competitive Agents for Image Editing**|Tiankai Hang et.al.|[2401.13011](http://arxiv.org/abs/2401.13011)|**[link](https://github.com/tiankaihang/cca)**|
@@ -3844,6 +3860,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-25**|**Learning Robust Generalizable Radiance Field with Visibility and Feature Augmented Point Representation**|Jiaxu Wang et.al.|[2401.14354](http://arxiv.org/abs/2401.14354)|null|
 |**2024-01-19**|**Sat2Scene: 3D Urban Scene Generation from Satellite Images with Diffusion**|Zuoyue Li et.al.|[2401.10786](http://arxiv.org/abs/2401.10786)|null|
 |**2024-01-18**|**GPAvatar: Generalizable and Precise Head Avatar from Image(s)**|Xuangeng Chu et.al.|[2401.10215](http://arxiv.org/abs/2401.10215)|**[link](https://github.com/xg-chu/gpavatar)**|
 |**2024-01-11**|**Dubbing for Everyone: Data-Efficient Visual Dubbing using Neural Rendering Priors**|Jack Saunders et.al.|[2401.06126](http://arxiv.org/abs/2401.06126)|null|
@@ -4057,6 +4074,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-25**|**Diverse and Lifespan Facial Age Transformation Synthesis with Identity Variation Rationality Metric**|Jiu-Cheng Xie et.al.|[2401.14036](http://arxiv.org/abs/2401.14036)|null|
 |**2024-01-24**|**Semi-Supervised Coupled Thin-Plate Spline Model for Rotation Correction and Beyond**|Lang Nie et.al.|[2401.13432](http://arxiv.org/abs/2401.13432)|**[link](https://github.com/nie-lang/coupledtps)**|
 |**2024-01-23**|**Brief Theory of Multiqubit Measurement**|Constantin Usenko et.al.|[2401.13122](http://arxiv.org/abs/2401.13122)|null|
 |**2024-01-22**|**PatternPortrait: Draw Me Like One of Your Scribbles**|Sabine Wieluch et.al.|[2401.13001](http://arxiv.org/abs/2401.13001)|null|

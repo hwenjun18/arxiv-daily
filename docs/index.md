@@ -39,7 +39,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-01-29**|**cDVGAN: One Flexible Model for Multi-class Gravitational Wave Signal and Glitch Generation**|Tom Dooney et.al.|[2401.16356](http://arxiv.org/abs/2401.16356)|null|
+|**2024-01-30**|**Evaluation in Neural Style Transfer: A Review**|Eleftherios Ioannou et.al.|[2401.17109](http://arxiv.org/abs/2401.17109)|null|
+|**2024-01-30**|**Active Generation Network of Human Skeleton for Action Recognition**|Long Liu et.al.|[2401.17086](http://arxiv.org/abs/2401.17086)|null|
+|**2024-01-30**|**WGAN-AFL: Seed Generation Augmented Fuzzer with Wasserstein-GAN**|Liqun Yang et.al.|[2401.16947](http://arxiv.org/abs/2401.16947)|null|
+|**2024-01-30**|**LATENTPATCH: A Non-Parametric Approach for Face Generation and Editing**|Benjamin Samuth et.al.|[2401.16830](http://arxiv.org/abs/2401.16830)|null|
+|**2024-01-30**|**A Literature Review on Fetus Brain Motion Correction in MRI**|Haoran Zhang et.al.|[2401.16782](http://arxiv.org/abs/2401.16782)|null|
+|**2024-01-30**|**cDVGAN: One Flexible Model for Multi-class Gravitational Wave Signal and Glitch Generation**|Tom Dooney et.al.|[2401.16356](http://arxiv.org/abs/2401.16356)|null|
 |**2024-01-29**|**Domain adaptation strategies for 3D reconstruction of the lumbar spine using real fluoroscopy data**|Sascha Jecklin et.al.|[2401.16027](http://arxiv.org/abs/2401.16027)|null|
 |**2024-01-28**|**On the Statistical Properties of Generative Adversarial Models for Low Intrinsic Data Dimension**|Saptarshi Chakraborty et.al.|[2401.15801](http://arxiv.org/abs/2401.15801)|null|
 |**2024-01-28**|**UP-CrackNet: Unsupervised Pixel-Wise Road Crack Detection via Adversarial Image Restoration**|Nachuan Ma et.al.|[2401.15647](http://arxiv.org/abs/2401.15647)|null|
@@ -1042,6 +1047,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-30**|**You Only Need One Step: Fast Super-Resolution with Stable Diffusion via Scale Distillation**|Mehdi Noroozi et.al.|[2401.17258](http://arxiv.org/abs/2401.17258)|null|
+|**2024-01-30**|**ContactGen: Contact-Guided Interactive 3D Human Generation for Partners**|Dongjun Gu et.al.|[2401.17212](http://arxiv.org/abs/2401.17212)|null|
+|**2024-01-30**|**Transfer Learning for Text Diffusion Models**|Kehang Han et.al.|[2401.17181](http://arxiv.org/abs/2401.17181)|null|
+|**2024-01-30**|**PlantoGraphy: Incorporating Iterative Design Process into Generative Artificial Intelligence for Landscape Rendering**|Rong Huang et.al.|[2401.17120](http://arxiv.org/abs/2401.17120)|null|
+|**2024-01-30**|**Local modification of subdiffusion by initial Fickian diffusion: Multiscale modeling, analysis and computation**|Xiangcheng Zheng et.al.|[2401.16885](http://arxiv.org/abs/2401.16885)|null|
+|**2024-01-30**|**A Literature Review on Fetus Brain Motion Correction in MRI**|Haoran Zhang et.al.|[2401.16782](http://arxiv.org/abs/2401.16782)|null|
+|**2024-01-30**|**BoostDream: Efficient Refining for High-Quality Text-to-3D Generation from Multi-View Diffusion**|Yonghao Yu et.al.|[2401.16764](http://arxiv.org/abs/2401.16764)|null|
+|**2024-01-30**|**Pick-and-Draw: Training-free Semantic Guidance for Text-to-Image Personalization**|Henglei Lv et.al.|[2401.16762](http://arxiv.org/abs/2401.16762)|null|
+|**2024-01-30**|**Diffusion model for relational inference**|Shuhan Zheng et.al.|[2401.16755](http://arxiv.org/abs/2401.16755)|null|
+|**2024-01-29**|**Bridging Generative and Discriminative Models for Unified Visual Perception with Diffusion Priors**|Shiyin Dong et.al.|[2401.16459](http://arxiv.org/abs/2401.16459)|null|
 |**2024-01-29**|**Using multiple Dirac delta points to describe inhomogeneous flux density over a cell boundary in a single-cell diffusion model**|Qiyao Peng et.al.|[2401.16261](http://arxiv.org/abs/2401.16261)|null|
 |**2024-01-29**|**Diffutoon: High-Resolution Editable Toon Shading via Diffusion Models**|Zhongjie Duan et.al.|[2401.16224](http://arxiv.org/abs/2401.16224)|null|
 |**2024-01-29**|**Spatial-Aware Latent Initialization for Controllable Image Generation**|Wenqiang Sun et.al.|[2401.16157](http://arxiv.org/abs/2401.16157)|null|
@@ -1049,7 +1064,7 @@ layout: default
 |**2024-01-29**|**Motion-I2V: Consistent and Controllable Image-to-Video Generation with Explicit Motion Modeling**|Xiaoyu Shi et.al.|[2401.15977](http://arxiv.org/abs/2401.15977)|null|
 |**2024-01-29**|**EmoDM: A Diffusion Model for Evolutionary Multi-objective Optimization**|Xueming Yan et.al.|[2401.15931](http://arxiv.org/abs/2401.15931)|null|
 |**2024-01-28**|**Object-Driven One-Shot Fine-tuning of Text-to-Image Diffusion with Prototypical Embedding**|Jianxiang Lu et.al.|[2401.15708](http://arxiv.org/abs/2401.15708)|null|
-|**2024-01-28**|**Media2Face: Co-speech Facial Animation Generation With Multi-Modality Guidance**|Qingcheng Zhao et.al.|[2401.15687](http://arxiv.org/abs/2401.15687)|null|
+|**2024-01-30**|**Media2Face: Co-speech Facial Animation Generation With Multi-Modality Guidance**|Qingcheng Zhao et.al.|[2401.15687](http://arxiv.org/abs/2401.15687)|null|
 |**2024-01-28**|**CPDM: Content-Preserving Diffusion Model for Underwater Image Enhancement**|Xiaowen Shi et.al.|[2401.15649](http://arxiv.org/abs/2401.15649)|null|
 |**2024-01-28**|**FreeStyle: Free Lunch for Text-guided Style Transfer using Diffusion Models**|Feihong He et.al.|[2401.15636](http://arxiv.org/abs/2401.15636)|null|
 |**2024-01-28**|**Generative AI-enabled Blockchain Networks: Fundamentals, Applications, and Case Study**|Cong T. Nguyen et.al.|[2401.15625](http://arxiv.org/abs/2401.15625)|null|
@@ -3394,7 +3409,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-01-28**|**Divide and Conquer: Language Models can Plan and Self-Correct for Compositional Text-to-Image Generation**|Zhenyu Wang et.al.|[2401.15688](http://arxiv.org/abs/2401.15688)|null|
+|**2024-01-30**|**LATENTPATCH: A Non-Parametric Approach for Face Generation and Editing**|Benjamin Samuth et.al.|[2401.16830](http://arxiv.org/abs/2401.16830)|null|
+|**2024-01-29**|**High-Quality Image Restoration Following Human Instructions**|Marcos V. Conde et.al.|[2401.16468](http://arxiv.org/abs/2401.16468)|**[link](https://github.com/mv-lab/InstructIR)**|
+|**2024-01-30**|**Divide and Conquer: Language Models can Plan and Self-Correct for Compositional Text-to-Image Generation**|Zhenyu Wang et.al.|[2401.15688](http://arxiv.org/abs/2401.15688)|null|
 |**2024-01-28**|**UP-CrackNet: Unsupervised Pixel-Wise Road Crack Detection via Adversarial Image Restoration**|Nachuan Ma et.al.|[2401.15647](http://arxiv.org/abs/2401.15647)|null|
 |**2024-01-26**|**CascadedGaze: Efficiency in Global Context Extraction for Image Restoration**|Amirhosein Ghasemabadi et.al.|[2401.15235](http://arxiv.org/abs/2401.15235)|null|
 |**2024-01-25**|**Grounded SAM: Assembling Open-World Models for Diverse Visual Tasks**|Tianhe Ren et.al.|[2401.14159](http://arxiv.org/abs/2401.14159)|**[link](https://github.com/IDEA-Research/Grounded-Segment-Anything)**|

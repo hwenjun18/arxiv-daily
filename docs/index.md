@@ -39,6 +39,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-30**|**Anything in Any Scene: Photorealistic Video Object Insertion**|Chen Bai et.al.|[2401.17509](http://arxiv.org/abs/2401.17509)|null|
 |**2024-01-30**|**Evaluation in Neural Style Transfer: A Review**|Eleftherios Ioannou et.al.|[2401.17109](http://arxiv.org/abs/2401.17109)|null|
 |**2024-01-30**|**Active Generation Network of Human Skeleton for Action Recognition**|Long Liu et.al.|[2401.17086](http://arxiv.org/abs/2401.17086)|null|
 |**2024-01-30**|**WGAN-AFL: Seed Generation Augmented Fuzzer with Wasserstein-GAN**|Liqun Yang et.al.|[2401.16947](http://arxiv.org/abs/2401.16947)|null|
@@ -1047,6 +1048,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-31**|**Motion Guidance: Diffusion-Based Image Editing with Differentiable Motion Estimators**|Daniel Geng et.al.|[2401.18085](http://arxiv.org/abs/2401.18085)|null|
+|**2024-01-31**|**Ljusternik-Schnirelmann eigenvalues for the fractional $m-$Laplacian without the $Δ_2$ condition**|Julian Fernandez Bonder et.al.|[2401.18041](http://arxiv.org/abs/2401.18041)|null|
+|**2024-01-31**|**Diagnosing the particle transport mechanism in the pulsar halo via X-ray observations**|Qi-Zuo Wu et.al.|[2401.17982](http://arxiv.org/abs/2401.17982)|null|
+|**2024-01-31**|**Convergence Analysis for General Probability Flow ODEs of Diffusion Models in Wasserstein Distances**|Xuefeng Gao et.al.|[2401.17958](http://arxiv.org/abs/2401.17958)|null|
+|**2024-01-31**|**AEROBLADE: Training-Free Detection of Latent Diffusion Images Using Autoencoder Reconstruction Error**|Jonas Ricker et.al.|[2401.17879](http://arxiv.org/abs/2401.17879)|null|
+|**2024-01-31**|**Drift Diffusion Model to understand (mis)information sharing dynamic in complex networks**|Lucila G. Alvarez-Zuzek et.al.|[2401.17846](http://arxiv.org/abs/2401.17846)|null|
+|**2024-01-31**|**A new class of efficient high order semi-Lagrangian IMEX discontinuous Galerkin methods on staggered unstructured meshes**|M. Tavelli et.al.|[2401.17806](http://arxiv.org/abs/2401.17806)|null|
+|**2024-01-31**|**Dance-to-Music Generation with Encoder-based Textual Inversion of Diffusion Models**|Sifei Li et.al.|[2401.17800](http://arxiv.org/abs/2401.17800)|null|
+|**2024-01-31**|**Image Anything: Towards Reasoning-coherent and Training-free Multi-modal Image Generation**|Yuanhuiyi Lyu et.al.|[2401.17664](http://arxiv.org/abs/2401.17664)|null|
+|**2024-01-31**|**Spatial-and-Frequency-aware Restoration method for Images based on Diffusion Models**|Kyungsung Lee et.al.|[2401.17629](http://arxiv.org/abs/2401.17629)|null|
+|**2024-01-31**|**Topology-Aware Latent Diffusion for 3D Shape Generation**|Jiangbei Hu et.al.|[2401.17603](http://arxiv.org/abs/2401.17603)|null|
+|**2024-01-31**|**Head and Neck Tumor Segmentation from [18F]F-FDG PET/CT Images Based on 3D Diffusion Model**|Yafei Dong et.al.|[2401.17593](http://arxiv.org/abs/2401.17593)|null|
+|**2024-01-31**|**Task-Oriented Diffusion Model Compression**|Geonung Kim et.al.|[2401.17547](http://arxiv.org/abs/2401.17547)|null|
+|**2024-01-31**|**Enhancing Score-Based Sampling Methods with Ensembles**|Tobias Bischoff et.al.|[2401.17539](http://arxiv.org/abs/2401.17539)|null|
 |**2024-01-30**|**You Only Need One Step: Fast Super-Resolution with Stable Diffusion via Scale Distillation**|Mehdi Noroozi et.al.|[2401.17258](http://arxiv.org/abs/2401.17258)|null|
 |**2024-01-30**|**ContactGen: Contact-Guided Interactive 3D Human Generation for Partners**|Dongjun Gu et.al.|[2401.17212](http://arxiv.org/abs/2401.17212)|null|
 |**2024-01-30**|**Transfer Learning for Text Diffusion Models**|Kehang Han et.al.|[2401.17181](http://arxiv.org/abs/2401.17181)|null|
@@ -3409,8 +3424,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-31**|**Motion Guidance: Diffusion-Based Image Editing with Differentiable Motion Estimators**|Daniel Geng et.al.|[2401.18085](http://arxiv.org/abs/2401.18085)|null|
+|**2024-01-31**|**Spatial-and-Frequency-aware Restoration method for Images based on Diffusion Models**|Kyungsung Lee et.al.|[2401.17629](http://arxiv.org/abs/2401.17629)|null|
+|**2024-01-31**|**Task-Oriented Diffusion Model Compression**|Geonung Kim et.al.|[2401.17547](http://arxiv.org/abs/2401.17547)|null|
 |**2024-01-30**|**LATENTPATCH: A Non-Parametric Approach for Face Generation and Editing**|Benjamin Samuth et.al.|[2401.16830](http://arxiv.org/abs/2401.16830)|null|
-|**2024-01-29**|**High-Quality Image Restoration Following Human Instructions**|Marcos V. Conde et.al.|[2401.16468](http://arxiv.org/abs/2401.16468)|**[link](https://github.com/mv-lab/InstructIR)**|
+|**2024-01-31**|**High-Quality Image Restoration Following Human Instructions**|Marcos V. Conde et.al.|[2401.16468](http://arxiv.org/abs/2401.16468)|**[link](https://github.com/mv-lab/InstructIR)**|
 |**2024-01-30**|**Divide and Conquer: Language Models can Plan and Self-Correct for Compositional Text-to-Image Generation**|Zhenyu Wang et.al.|[2401.15688](http://arxiv.org/abs/2401.15688)|null|
 |**2024-01-28**|**UP-CrackNet: Unsupervised Pixel-Wise Road Crack Detection via Adversarial Image Restoration**|Nachuan Ma et.al.|[2401.15647](http://arxiv.org/abs/2401.15647)|null|
 |**2024-01-26**|**CascadedGaze: Efficiency in Global Context Extraction for Image Restoration**|Amirhosein Ghasemabadi et.al.|[2401.15235](http://arxiv.org/abs/2401.15235)|null|
@@ -3894,6 +3912,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-31**|**CARFF: Conditional Auto-encoded Radiance Field for 3D Scene Forecasting**|Jiezhi Yang et.al.|[2401.18075](http://arxiv.org/abs/2401.18075)|null|
 |**2024-01-25**|**RPNR: Robust-Perception Neural Reshading**|Fouad Afiouni et.al.|[2401.14510](http://arxiv.org/abs/2401.14510)|null|
 |**2024-01-25**|**Learning Robust Generalizable Radiance Field with Visibility and Feature Augmented Point Representation**|Jiaxu Wang et.al.|[2401.14354](http://arxiv.org/abs/2401.14354)|null|
 |**2024-01-19**|**Sat2Scene: 3D Urban Scene Generation from Satellite Images with Diffusion**|Zuoyue Li et.al.|[2401.10786](http://arxiv.org/abs/2401.10786)|null|

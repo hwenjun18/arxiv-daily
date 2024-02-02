@@ -51,6 +51,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-01**|**Geometry Transfer for Stylizing Radiance Fields**|Hyunyoung Jung et.al.|[2402.00863](http://arxiv.org/abs/2402.00863)|null|
+|**2024-02-01**|**Profiling and Modeling of Power Characteristics of Leadership-Scale HPC System Workloads**|Ahmad Maroof Karimi et.al.|[2402.00729](http://arxiv.org/abs/2402.00729)|null|
+|**2024-02-01**|**Neural Style Transfer with Twin-Delayed DDPG for Shared Control of Robotic Manipulators**|Raul Fernandez-Fernandez et.al.|[2402.00722](http://arxiv.org/abs/2402.00722)|null|
+|**2024-02-01**|**Neural Policy Style Transfer**|Raul Fernandez-Fernandez et.al.|[2402.00677](http://arxiv.org/abs/2402.00677)|null|
+|**2024-02-01**|**Transferring human emotions to robot motions using Neural Policy Style Transfer**|Raul Fernandez-Fernandez et.al.|[2402.00663](http://arxiv.org/abs/2402.00663)|null|
+|**2024-02-01**|**Disentangled Multimodal Brain MR Image Translation via Transformer-based Modality Infuser**|Jihoon Cho et.al.|[2402.00375](http://arxiv.org/abs/2402.00375)|null|
+|**2024-02-01**|**DARCS: Memory-Efficient Deep Compressed Sensing Reconstruction for Acceleration of 3D Whole-Heart Coronary MR Angiography**|Zhihao Xue et.al.|[2402.00320](http://arxiv.org/abs/2402.00320)|null|
+|**2024-01-31**|**ViTacTip: Design and Verification of a Novel Biomimetic Physical Vision-Tactile Fusion Sensor**|Wen Fan et.al.|[2402.00199](http://arxiv.org/abs/2402.00199)|null|
+|**2024-01-31**|**Fully Data-Driven Model for Increasing Sampling Rate Frequency of Seismic Data using Super-Resolution Generative Adversarial Networks**|Navid Gholizadeh et.al.|[2402.00153](http://arxiv.org/abs/2402.00153)|null|
 |**2024-01-30**|**Anything in Any Scene: Photorealistic Video Object Insertion**|Chen Bai et.al.|[2401.17509](http://arxiv.org/abs/2401.17509)|null|
 |**2024-01-30**|**Evaluation in Neural Style Transfer: A Review**|Eleftherios Ioannou et.al.|[2401.17109](http://arxiv.org/abs/2401.17109)|null|
 |**2024-01-30**|**Active Generation Network of Human Skeleton for Action Recognition**|Long Liu et.al.|[2401.17086](http://arxiv.org/abs/2401.17086)|null|
@@ -1062,6 +1071,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-01**|**ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields**|Jiahua Dong et.al.|[2402.00864](http://arxiv.org/abs/2402.00864)|**[link](https://github.com/dongjiahua/vica-nerf)**|
+|**2024-02-01**|**An Analysis of the Variance of Diffusion-based Speech Enhancement**|Bunlong Lay et.al.|[2402.00811](http://arxiv.org/abs/2402.00811)|null|
+|**2024-02-01**|**Distilling Conditional Diffusion Models for Offline Reinforcement Learning through Trajectory Stitching**|Shangzhe Li et.al.|[2402.00807](http://arxiv.org/abs/2402.00807)|null|
+|**2024-02-01**|**AnimateLCM: Accelerating the Animation of Personalized Diffusion Models and Adapters with Decoupled Consistency Learning**|Fu-Yun Wang et.al.|[2402.00769](http://arxiv.org/abs/2402.00769)|**[link](https://github.com/g-u-n/animatelcm)**|
+|**2024-01-31**|**SeFi-IDE: Semantic-Fidelity Identity Embedding for Personalized Diffusion-Based Generation**|Yang Li et.al.|[2402.00631](http://arxiv.org/abs/2402.00631)|null|
+|**2024-02-01**|**Cylindrically symmetric diffusion model for relativistic heavy-ion collisions**|Johannes Hoelck et.al.|[2402.00628](http://arxiv.org/abs/2402.00628)|null|
+|**2024-02-01**|**CapHuman: Capture Your Moments in Parallel Universes**|Chao Liang et.al.|[2402.00627](http://arxiv.org/abs/2402.00627)|**[link](https://github.com/vamosc/caphuman)**|
+|**2024-02-01**|**Masked Conditional Diffusion Model for Enhancing Deepfake Detection**|Tiewen Chen et.al.|[2402.00541](http://arxiv.org/abs/2402.00541)|null|
+|**2024-02-01**|**Energetic Particles in the Central Starburst, Disc, and Halo of NGC253**|Yoel Rephaeli et.al.|[2402.00523](http://arxiv.org/abs/2402.00523)|null|
+|**2024-02-01**|**LRDif: Diffusion Models for Under-Display Camera Emotion Recognition**|Zhifeng Wang et.al.|[2402.00250](http://arxiv.org/abs/2402.00250)|null|
+|**2024-01-31**|**SuperDiff: Diffusion Models for Conditional Generation of Hypothetical New Families of Superconductors**|Samuel Yuan et.al.|[2402.00198](http://arxiv.org/abs/2402.00198)|null|
 |**2024-01-31**|**Motion Guidance: Diffusion-Based Image Editing with Differentiable Motion Estimators**|Daniel Geng et.al.|[2401.18085](http://arxiv.org/abs/2401.18085)|null|
 |**2024-01-31**|**Ljusternik-Schnirelmann eigenvalues for the fractional $m-$Laplacian without the $Δ_2$ condition**|Julian Fernandez Bonder et.al.|[2401.18041](http://arxiv.org/abs/2401.18041)|null|
 |**2024-01-31**|**Diagnosing the particle transport mechanism in the pulsar halo via X-ray observations**|Qi-Zuo Wu et.al.|[2401.17982](http://arxiv.org/abs/2401.17982)|null|
@@ -3930,6 +3950,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-01**|**Emo-Avatar: Efficient Monocular Video Style Avatar through Texture Rendering**|Pinxin Liu et.al.|[2402.00827](http://arxiv.org/abs/2402.00827)|null|
+|**2024-02-01**|**GS++: Error Analyzing and Optimal Gaussian Splatting**|Letian Huang et.al.|[2402.00752](http://arxiv.org/abs/2402.00752)|null|
+|**2024-02-01**|**DRSM: efficient neural 4d decomposition for dynamic reconstruction in stationary monocular cameras**|Weixing Xie et.al.|[2402.00740](http://arxiv.org/abs/2402.00740)|null|
+|**2024-01-06**|**Neural Rendering and Its Hardware Acceleration: A Review**|Xinkai Yan et.al.|[2402.00028](http://arxiv.org/abs/2402.00028)|null|
 |**2024-01-31**|**CARFF: Conditional Auto-encoded Radiance Field for 3D Scene Forecasting**|Jiezhi Yang et.al.|[2401.18075](http://arxiv.org/abs/2401.18075)|null|
 |**2024-01-25**|**RPNR: Robust-Perception Neural Reshading**|Fouad Afiouni et.al.|[2401.14510](http://arxiv.org/abs/2401.14510)|null|
 |**2024-01-25**|**Learning Robust Generalizable Radiance Field with Visibility and Feature Augmented Point Representation**|Jiaxu Wang et.al.|[2401.14354](http://arxiv.org/abs/2401.14354)|null|
@@ -4146,6 +4170,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-01**|**Emo-Avatar: Efficient Monocular Video Style Avatar through Texture Rendering**|Pinxin Liu et.al.|[2402.00827](http://arxiv.org/abs/2402.00827)|null|
+|**2024-02-01**|**CapHuman: Capture Your Moments in Parallel Universes**|Chao Liang et.al.|[2402.00627](http://arxiv.org/abs/2402.00627)|**[link](https://github.com/vamosc/caphuman)**|
 |**2024-01-31**|**Multilingual Text-to-Image Generation Magnifies Gender Stereotypes and Prompt Engineering May Not Help You**|Felix Friedrich et.al.|[2401.16092](http://arxiv.org/abs/2401.16092)|**[link](https://github.com/felifri/magbig)**|
 |**2024-01-28**|**IntentTuner: An Interactive Framework for Integrating Human Intents in Fine-tuning Text-to-Image Generative Models**|Xingchen Zeng et.al.|[2401.15559](http://arxiv.org/abs/2401.15559)|null|
 |**2024-01-25**|**Diverse and Lifespan Facial Age Transformation Synthesis with Identity Variation Rationality Metric**|Jiu-Cheng Xie et.al.|[2401.14036](http://arxiv.org/abs/2401.14036)|null|

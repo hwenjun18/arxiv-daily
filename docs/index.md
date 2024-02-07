@@ -39,7 +39,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-02-05**|**IGUANe: a 3D generalizable CycleGAN for multicenter harmonization of brain MR images**|Vincent Roca et.al.|[2402.03227](http://arxiv.org/abs/2402.03227)|null|
+|**2024-02-06**|**DeMarking: A Defense for Network Flow Watermarking in Real-Time**|Yali Yuan et.al.|[2402.03760](http://arxiv.org/abs/2402.03760)|null|
+|**2024-02-06**|**Reviewing FID and SID Metrics on Generative Adversarial Networks**|Ricardo de Deijn et.al.|[2402.03654](http://arxiv.org/abs/2402.03654)|null|
+|**2024-02-05**|**IGUANe: a 3D generalizable CycleGAN for multicenter harmonization of brain MR images**|Vincent Roca et.al.|[2402.03227](http://arxiv.org/abs/2402.03227)|**[link](https://github.com/rocavincent/iguane_harmonization)**|
 |**2024-02-05**|**ToonAging: Face Re-Aging upon Artistic Portrait Style Transfer**|Bumsoo Kim et.al.|[2402.02733](http://arxiv.org/abs/2402.02733)|null|
 |**2024-02-05**|**Fast and Accurate Cooperative Radio Map Estimation Enabled by GAN**|Zezhong Zhang et.al.|[2402.02729](http://arxiv.org/abs/2402.02729)|null|
 |**2024-02-03**|**Revisiting Generative Adversarial Networks for Binary Semantic Segmentation on Imbalanced Datasets**|Lei Xu et.al.|[2402.02245](http://arxiv.org/abs/2402.02245)|null|
@@ -1071,6 +1073,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-06**|**Polyp-DDPM: Diffusion-Based Semantic Polyp Synthesis for Enhanced Segmentation**|Zolnamar Dorjsembe et.al.|[2402.04031](http://arxiv.org/abs/2402.04031)|**[link](https://github.com/mobaidoctor/polyp-ddpm)**|
+|**2024-02-06**|**Space Group Constrained Crystal Generation**|Rui Jiao et.al.|[2402.03992](http://arxiv.org/abs/2402.03992)|null|
+|**2024-02-06**|**Controllable Diverse Sampling for Diffusion Based Motion Behavior Forecasting**|Yiming Xu et.al.|[2402.03981](http://arxiv.org/abs/2402.03981)|null|
+|**2024-02-06**|**EscherNet: A Generative Model for Scalable View Synthesis**|Xin Kong et.al.|[2402.03908](http://arxiv.org/abs/2402.03908)|null|
+|**2024-02-06**|**On gauge freedom, conservativity and intrinsic dimensionality estimation in diffusion models**|Christian Horvat et.al.|[2402.03845](http://arxiv.org/abs/2402.03845)|null|
+|**2024-02-06**|**SDEMG: Score-based Diffusion Model for Surface Electromyographic Signal Denoising**|Yu-Tung Liu et.al.|[2402.03808](http://arxiv.org/abs/2402.03808)|**[link](https://github.com/tonyliu0910/sdemg)**|
+|**2024-02-06**|**FoolSDEdit: Deceptively Steering Your Edits Towards Targeted Attribute-aware Distribution**|Qi Zhou et.al.|[2402.03705](http://arxiv.org/abs/2402.03705)|null|
+|**2024-02-06**|**Improving and Unifying Discrete&Continuous-time Discrete Denoising Diffusion**|Lingxiao Zhao et.al.|[2402.03701](http://arxiv.org/abs/2402.03701)|null|
+|**2024-02-06**|**Pard: Permutation-Invariant Autoregressive Diffusion for Graph Generation**|Lingxiao Zhao et.al.|[2402.03687](http://arxiv.org/abs/2402.03687)|null|
+|**2024-02-06**|**QuEST: Low-bit Diffusion Model Quantization via Efficient Selective Finetuning**|Haoxuan Wang et.al.|[2402.03666](http://arxiv.org/abs/2402.03666)|null|
+|**2024-02-05**|**Diffusion World Model**|Zihan Ding et.al.|[2402.03570](http://arxiv.org/abs/2402.03570)|null|
+|**2024-02-05**|**Projected Generative Diffusion Models for Constraint Satisfaction**|Jacob K Christopher et.al.|[2402.03559](http://arxiv.org/abs/2402.03559)|null|
+|**2024-02-05**|**AnaMoDiff: 2D Analogical Motion Diffusion via Disentangled Denoising**|Maham Tanveer et.al.|[2402.03549](http://arxiv.org/abs/2402.03549)|null|
+|**2024-02-05**|**Hyper-Diffusion: Estimating Epistemic and Aleatoric Uncertainty with a Single Model**|Matthew A. Chan et.al.|[2402.03478](http://arxiv.org/abs/2402.03478)|null|
+|**2024-02-05**|**Denoising Diffusion via Image-Based Rendering**|Titas Anciukevicius et.al.|[2402.03445](http://arxiv.org/abs/2402.03445)|null|
 |**2024-02-05**|**Do Diffusion Models Learn Semantically Meaningful and Efficient Representations?**|Qiyao Liang et.al.|[2402.03305](http://arxiv.org/abs/2402.03305)|null|
 |**2024-02-05**|**Zero-shot Object-Level OOD Detection with Context-Aware Inpainting**|Quang-Huy Nguyen et.al.|[2402.03292](http://arxiv.org/abs/2402.03292)|null|
 |**2024-02-05**|**InstanceDiffusion: Instance-level Control for Image Generation**|Xudong Wang et.al.|[2402.03290](http://arxiv.org/abs/2402.03290)|null|
@@ -3488,6 +3505,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-06**|**U-shaped Vision Mamba for Single Image Dehazing**|Zhuoran Zheng et.al.|[2402.04139](http://arxiv.org/abs/2402.04139)|null|
+|**2024-02-06**|**Analysis of Deep Image Prior and Exploiting Self-Guidance for Image Reconstruction**|Shijun Liang et.al.|[2402.04097](http://arxiv.org/abs/2402.04097)|null|
+|**2024-02-05**|**Rethinking RGB Color Representation for Image Restoration Models**|Jaerin Lee et.al.|[2402.03399](http://arxiv.org/abs/2402.03399)|null|
 |**2024-02-05**|**InteractiveVideo: User-Centric Controllable Video Generation with Synergistic Multimodal Instructions**|Yiyuan Zhang et.al.|[2402.03040](http://arxiv.org/abs/2402.03040)|**[link](https://github.com/invictus717/interactivevideo)**|
 |**2024-02-05**|**Knowledge-driven deep learning for fast MR imaging: undersampled MR image reconstruction from supervised to un-supervised learning**|Shanshan Wang et.al.|[2402.02704](http://arxiv.org/abs/2402.02704)|null|
 |**2024-02-04**|**Key-Graph Transformer for Image Restoration**|Bin Ren et.al.|[2402.02634](http://arxiv.org/abs/2402.02634)|null|
@@ -3983,6 +4003,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-06**|**OASim: an Open and Adaptive Simulator based on Neural Rendering for Autonomous Driving**|Guohang Yan et.al.|[2402.03830](http://arxiv.org/abs/2402.03830)|**[link](https://github.com/pjlab-adg/oasim)**|
 |**2024-02-05**|**AONeuS: A Neural Rendering Framework for Acoustic-Optical Sensor Fusion**|Mohamad Qadri et.al.|[2402.03309](http://arxiv.org/abs/2402.03309)|null|
 |**2024-02-01**|**Emo-Avatar: Efficient Monocular Video Style Avatar through Texture Rendering**|Pinxin Liu et.al.|[2402.00827](http://arxiv.org/abs/2402.00827)|null|
 |**2024-02-02**|**Optimal Projection for 3D Gaussian Splatting**|Letian Huang et.al.|[2402.00752](http://arxiv.org/abs/2402.00752)|null|
@@ -4200,6 +4221,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-06**|**VRMM: A Volumetric Relightable Morphable Head Model**|Haotian Yang et.al.|[2402.04101](http://arxiv.org/abs/2402.04101)|null|
+|**2024-02-06**|**Rig3DGS: Creating Controllable Portraits from Casual Monocular Videos**|Alfredo Rivero et.al.|[2402.03723](http://arxiv.org/abs/2402.03723)|null|
 |**2024-02-05**|**ToonAging: Face Re-Aging upon Artistic Portrait Style Transfer**|Bumsoo Kim et.al.|[2402.02733](http://arxiv.org/abs/2402.02733)|null|
 |**2024-02-04**|**On the local streamline pattern of planar polynomial velocity field with nonzero linear part**|Jian Gao et.al.|[2402.02419](http://arxiv.org/abs/2402.02419)|null|
 |**2024-02-02**|**EmoSpeaker: One-shot Fine-grained Emotion-Controlled Talking Face Generation**|Guanwen Feng et.al.|[2402.01422](http://arxiv.org/abs/2402.01422)|null|

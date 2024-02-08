@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.07
+## Updated on 2024.02.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -1091,7 +1091,7 @@ layout: default
 |**2024-02-05**|**Do Diffusion Models Learn Semantically Meaningful and Efficient Representations?**|Qiyao Liang et.al.|[2402.03305](http://arxiv.org/abs/2402.03305)|null|
 |**2024-02-05**|**Zero-shot Object-Level OOD Detection with Context-Aware Inpainting**|Quang-Huy Nguyen et.al.|[2402.03292](http://arxiv.org/abs/2402.03292)|null|
 |**2024-02-05**|**InstanceDiffusion: Instance-level Control for Image Generation**|Xudong Wang et.al.|[2402.03290](http://arxiv.org/abs/2402.03290)|null|
-|**2024-02-05**|**Organic or Diffused: Can We Distinguish Human Art from AI-generated Images?**|Anna Yoo Jeong Ha et.al.|[2402.03214](http://arxiv.org/abs/2402.03214)|null|
+|**2024-02-06**|**Organic or Diffused: Can We Distinguish Human Art from AI-generated Images?**|Anna Yoo Jeong Ha et.al.|[2402.03214](http://arxiv.org/abs/2402.03214)|null|
 |**2024-02-05**|**Light and Optimal Schrödinger Bridge Matching**|Nikita Gushchin et.al.|[2402.03207](http://arxiv.org/abs/2402.03207)|null|
 |**2024-02-05**|**Guidance with Spherical Gaussian Constraint for Conditional Diffusion**|Lingxiao Yang et.al.|[2402.03201](http://arxiv.org/abs/2402.03201)|null|
 |**2024-02-05**|**Direct-a-Video: Customized Video Generation with User-Directed Camera Movement and Object Motion**|Shiyuan Yang et.al.|[2402.03162](http://arxiv.org/abs/2402.03162)|null|

@@ -39,10 +39,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-08**|**AvatarMMC: 3D Head Avatar Generation and Editing with Multi-Modal Conditioning**|Wamiq Reyaz Para et.al.|[2402.05803](http://arxiv.org/abs/2402.05803)|null|
 |**2024-02-06**|**CEHR-GPT: Generating Electronic Health Records with Chronological Patient Timelines**|Chao Pang et.al.|[2402.04400](http://arxiv.org/abs/2402.04400)|null|
 |**2024-02-07**|**DeMarking: A Defense for Network Flow Watermarking in Real-Time**|Yali Yuan et.al.|[2402.03760](http://arxiv.org/abs/2402.03760)|null|
 |**2024-02-06**|**Reviewing FID and SID Metrics on Generative Adversarial Networks**|Ricardo de Deijn et.al.|[2402.03654](http://arxiv.org/abs/2402.03654)|null|
-|**2024-02-05**|**IGUANe: a 3D generalizable CycleGAN for multicenter harmonization of brain MR images**|Vincent Roca et.al.|[2402.03227](http://arxiv.org/abs/2402.03227)|**[link](https://github.com/rocavincent/iguane_harmonization)**|
+|**2024-02-08**|**IGUANe: a 3D generalizable CycleGAN for multicenter harmonization of brain MR images**|Vincent Roca et.al.|[2402.03227](http://arxiv.org/abs/2402.03227)|**[link](https://github.com/rocavincent/iguane_harmonization)**|
 |**2024-02-05**|**ToonAging: Face Re-Aging upon Artistic Portrait Style Transfer**|Bumsoo Kim et.al.|[2402.02733](http://arxiv.org/abs/2402.02733)|null|
 |**2024-02-05**|**Fast and Accurate Cooperative Radio Map Estimation Enabled by GAN**|Zezhong Zhang et.al.|[2402.02729](http://arxiv.org/abs/2402.02729)|null|
 |**2024-02-03**|**Revisiting Generative Adversarial Networks for Binary Semantic Segmentation on Imbalanced Datasets**|Lei Xu et.al.|[2402.02245](http://arxiv.org/abs/2402.02245)|null|
@@ -1074,6 +1075,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-08**|**InstaGen: Enhancing Object Detection by Training on Synthetic Dataset**|Chengjian Feng et.al.|[2402.05937](http://arxiv.org/abs/2402.05937)|null|
+|**2024-02-08**|**Time Series Diffusion in the Frequency Domain**|Jonathan Crabbé et.al.|[2402.05933](http://arxiv.org/abs/2402.05933)|null|
+|**2024-02-08**|**AvatarMMC: 3D Head Avatar Generation and Editing with Multi-Modal Conditioning**|Wamiq Reyaz Para et.al.|[2402.05803](http://arxiv.org/abs/2402.05803)|null|
+|**2024-02-08**|**DiffSpeaker: Speech-Driven 3D Facial Animation with Diffusion Transformer**|Zhiyuan Ma et.al.|[2402.05712](http://arxiv.org/abs/2402.05712)|**[link](https://github.com/theericma/diffspeaker)**|
+|**2024-02-08**|**Scalable Diffusion Models with State Space Backbone**|Zhengcong Fei et.al.|[2402.05608](http://arxiv.org/abs/2402.05608)|**[link](https://github.com/feizc/dis)**|
+|**2024-02-08**|**Get What You Want, Not What You Don't: Image Content Suppression for Text-to-Image Diffusion Models**|Senmao Li et.al.|[2402.05375](http://arxiv.org/abs/2402.05375)|**[link](https://github.com/sen-mao/suppresseot)**|
+|**2024-02-08**|**Descanning: From Scanned to the Original Images with a Color Correction Diffusion Model**|Junghun Cha et.al.|[2402.05350](http://arxiv.org/abs/2402.05350)|null|
+|**2024-02-07**|**SPAD : Spatially Aware Multiview Diffusers**|Yash Kant et.al.|[2402.05235](http://arxiv.org/abs/2402.05235)|null|
+|**2024-02-07**|**Anatomically-Controllable Medical Image Generation with Segmentation-Guided Diffusion Models**|Nicholas Konz et.al.|[2402.05210](http://arxiv.org/abs/2402.05210)|**[link](https://github.com/mazurowski-lab/segmentation-guided-diffusion)**|
+|**2024-02-07**|**$λ$ -ECLIPSE: Multi-Concept Personalized Text-to-Image Diffusion Models by Leveraging CLIP Latent Space**|Maitreya Patel et.al.|[2402.05195](http://arxiv.org/abs/2402.05195)|null|
 |**2024-02-07**|**On diffusion models for amortized inference: Benchmarking and improving stochastic control and sampling**|Marcin Sendera et.al.|[2402.05098](http://arxiv.org/abs/2402.05098)|null|
 |**2024-02-07**|**NITO: Neural Implicit Fields for Resolution-free Topology Optimization**|Amin Heyrani Nobari et.al.|[2402.05073](http://arxiv.org/abs/2402.05073)|null|
 |**2024-02-07**|**LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation**|Jiaxiang Tang et.al.|[2402.05054](http://arxiv.org/abs/2402.05054)|null|
@@ -3520,9 +3531,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-08**|**Minecraft-ify: Minecraft Style Image Generation with Text-guided Image Editing for In-Game Application**|Bumsoo Kim et.al.|[2402.05448](http://arxiv.org/abs/2402.05448)|null|
+|**2024-02-08**|**Descanning: From Scanned to the Original Images with a Color Correction Diffusion Model**|Junghun Cha et.al.|[2402.05350](http://arxiv.org/abs/2402.05350)|null|
 |**2024-02-07**|**Noise Map Guidance: Inversion with Spatial Context for Real Image Editing**|Hansam Cho et.al.|[2402.04625](http://arxiv.org/abs/2402.04625)|**[link](https://github.com/hansam95/nmg)**|
-|**2024-02-06**|**U-shaped Vision Mamba for Single Image Dehazing**|Zhuoran Zheng et.al.|[2402.04139](http://arxiv.org/abs/2402.04139)|null|
-|**2024-02-06**|**Analysis of Deep Image Prior and Exploiting Self-Guidance for Image Reconstruction**|Shijun Liang et.al.|[2402.04097](http://arxiv.org/abs/2402.04097)|null|
+|**2024-02-08**|**U-shaped Vision Mamba for Single Image Dehazing**|Zhuoran Zheng et.al.|[2402.04139](http://arxiv.org/abs/2402.04139)|**[link](https://github.com/zzr-idam/uvm-net)**|
+|**2024-02-08**|**Analysis of Deep Image Prior and Exploiting Self-Guidance for Image Reconstruction**|Shijun Liang et.al.|[2402.04097](http://arxiv.org/abs/2402.04097)|null|
 |**2024-02-05**|**Rethinking RGB Color Representation for Image Restoration Models**|Jaerin Lee et.al.|[2402.03399](http://arxiv.org/abs/2402.03399)|null|
 |**2024-02-05**|**InteractiveVideo: User-Centric Controllable Video Generation with Synergistic Multimodal Instructions**|Yiyuan Zhang et.al.|[2402.03040](http://arxiv.org/abs/2402.03040)|**[link](https://github.com/invictus717/interactivevideo)**|
 |**2024-02-05**|**Knowledge-driven deep learning for fast MR imaging: undersampled MR image reconstruction from supervised to un-supervised learning**|Shanshan Wang et.al.|[2402.02704](http://arxiv.org/abs/2402.02704)|null|

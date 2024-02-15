@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.14
+## Updated on 2024.02.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -42,7 +42,7 @@ layout: default
 |**2024-02-13**|**Generative VS non-Generative Models in Engineering Shape Optimization**|Muhammad Usama et.al.|[2402.08540](http://arxiv.org/abs/2402.08540)|null|
 |**2024-02-13**|**Unrestricted Global Phase Bias-Aware Single-channel Speech Enhancement with Conformer-based Metric GAN**|Shiqi Zhang et.al.|[2402.08252](http://arxiv.org/abs/2402.08252)|null|
 |**2024-02-12**|**Text Detoxification as Style Transfer in English and Hindi**|Sourabrata Mukherjee et.al.|[2402.07767](http://arxiv.org/abs/2402.07767)|null|
-|**2024-02-12**|**Re-DiffiNet: Modeling discrepancies in tumor segmentation using diffusion**|Tianyi Ren et.al.|[2402.07354](http://arxiv.org/abs/2402.07354)|null|
+|**2024-02-14**|**Re-DiffiNet: Modeling discrepancies loss in tumor segmentation using diffusion models**|Tianyi Ren et.al.|[2402.07354](http://arxiv.org/abs/2402.07354)|null|
 |**2024-02-10**|**Near-perfect Coverage Manifold Estimation in Cellular Networks via conditional GAN**|Washim Uddin Mondal et.al.|[2402.06901](http://arxiv.org/abs/2402.06901)|null|
 |**2024-02-09**|**Generative Nowcasting of Marine Fog Visibility in the Grand Banks area and Sable Island in Canada**|Eren Gultepe et.al.|[2402.06800](http://arxiv.org/abs/2402.06800)|null|
 |**2024-02-06**|**Explainable Adversarial Learning Framework on Physical Layer Secret Keys Combating Malicious Reconfigurable Intelligent Surface**|Zhuangkun Wei et.al.|[2402.06663](http://arxiv.org/abs/2402.06663)|null|

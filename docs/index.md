@@ -39,8 +39,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-16**|**GAN-driven Electromagnetic Imaging of 2-D Dielectric Scatterers**|Ehtasham Naseer et.al.|[2402.10831](http://arxiv.org/abs/2402.10831)|null|
+|**2024-02-16**|**RAGIC: Risk-Aware Generative Adversarial Model for Stock Interval Construction**|Jingyi Gu et.al.|[2402.10760](http://arxiv.org/abs/2402.10760)|null|
+|**2024-02-16**|**APCodec: A Neural Audio Codec with Parallel Amplitude and Phase Spectrum Encoding and Decoding**|Yang Ai et.al.|[2402.10533](http://arxiv.org/abs/2402.10533)|null|
+|**2024-02-16**|**Generative Modeling for Tabular Data via Penalized Optimal Transport Network**|Wenhui Sophia Lu et.al.|[2402.10456](http://arxiv.org/abs/2402.10456)|null|
+|**2024-02-16**|**Recurrent Neural Networks for Multivariate Loss Reserving and Risk Capital Analysis**|Pengfei Cai et.al.|[2402.10421](http://arxiv.org/abs/2402.10421)|null|
+|**2024-02-15**|**Interpretable Generative Adversarial Imitation Learning**|Wenliang Liu et.al.|[2402.10310](http://arxiv.org/abs/2402.10310)|null|
 |**2024-02-15**|**Utilizing GANs for Fraud Detection: Model Training with Synthetic Transaction Data**|Mengran Zhu et.al.|[2402.09830](http://arxiv.org/abs/2402.09830)|null|
-|**2024-02-15**|**Examining Pathological Bias in a Generative Adversarial Network Discriminator: A Case Study on a StyleGAN3 Model**|Alvin Grissom II et.al.|[2402.09786](http://arxiv.org/abs/2402.09786)|null|
+|**2024-02-16**|**Examining Pathological Bias in a Generative Adversarial Network Discriminator: A Case Study on a StyleGAN3 Model**|Alvin Grissom II et.al.|[2402.09786](http://arxiv.org/abs/2402.09786)|null|
 |**2024-02-14**|**TAI-GAN: A Temporally and Anatomically Informed Generative Adversarial Network for early-to-late frame conversion in dynamic cardiac PET inter-frame motion correction**|Xueqi Guo et.al.|[2402.09567](http://arxiv.org/abs/2402.09567)|null|
 |**2024-02-14**|**Towards Realistic Landmark-Guided Facial Video Inpainting Based on GANs**|Fatemeh Ghorbani Lohesara et.al.|[2402.09100](http://arxiv.org/abs/2402.09100)|null|
 |**2024-02-14**|**Review-Incorporated Model-Agnostic Profile Injection Attacks on Recommender Systems**|Shiyi Yang et.al.|[2402.09023](http://arxiv.org/abs/2402.09023)|null|
@@ -1090,12 +1096,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-16**|**3D Diffuser Actor: Policy Diffusion with 3D Scene Representations**|Tsung-Wei Ke et.al.|[2402.10885](http://arxiv.org/abs/2402.10885)|null|
+|**2024-02-16**|**Training Class-Imbalanced Diffusion Model Via Overlap Optimization**|Divin Yan et.al.|[2402.10821](http://arxiv.org/abs/2402.10821)|**[link](https://github.com/yanliang3612/diffrop)**|
+|**2024-02-16**|**VATr++: Choose Your Words Wisely for Handwritten Text Generation**|Bram Vanherle et.al.|[2402.10798](http://arxiv.org/abs/2402.10798)|null|
+|**2024-02-16**|**Rethinking Human-like Translation Strategy: Integrating Drift-Diffusion Model with Large Language Models for Machine Translation**|Hongbin Na et.al.|[2402.10699](http://arxiv.org/abs/2402.10699)|null|
+|**2024-02-16**|**Generative AI and Attentive User Interfaces: Five Strategies to Enhance Take-Over Quality in Automated Driving**|Patrick Ebel et.al.|[2402.10664](http://arxiv.org/abs/2402.10664)|null|
+|**2024-02-16**|**Speaking in Wavelet Domain: A Simple and Efficient Approach to Speed up Speech Diffusion Model**|Xiangyu Zhang et.al.|[2402.10642](http://arxiv.org/abs/2402.10642)|null|
+|**2024-02-16**|**U $^2$ MRPD: Unsupervised undersampled MRI reconstruction by prompting a large latent diffusion model**|Ziqi Gao et.al.|[2402.10609](http://arxiv.org/abs/2402.10609)|null|
+|**2024-02-16**|**A maximum likelihood estimation of Lévy-driven stochastic systems for univariate and multivariate time series of observations**|Babak M. S. Arani et.al.|[2402.10608](http://arxiv.org/abs/2402.10608)|null|
+|**2024-02-16**|**Make a Cheap Scaling: A Self-Cascade Diffusion Model for Higher-Resolution Adaptation**|Lanqing Guo et.al.|[2402.10491](http://arxiv.org/abs/2402.10491)|null|
+|**2024-02-16**|**Explaining generative diffusion models via visual analysis for interpretable decision-making process**|Ji-Hoon Park et.al.|[2402.10404](http://arxiv.org/abs/2402.10404)|null|
+|**2024-02-15**|**GaussianObject: Just Taking Four Images to Get A High-Quality 3D Object with Gaussian Splatting**|Chen Yang et.al.|[2402.10259](http://arxiv.org/abs/2402.10259)|null|
 |**2024-02-15**|**Self-Play Fine-Tuning of Diffusion Models for Text-to-Image Generation**|Huizhuo Yuan et.al.|[2402.10210](http://arxiv.org/abs/2402.10210)|null|
 |**2024-02-15**|**Rewards-in-Context: Multi-objective Alignment of Foundation Models with Dynamic Preference Adjustment**|Rui Yang et.al.|[2402.10207](http://arxiv.org/abs/2402.10207)|null|
 |**2024-02-15**|**Radio-astronomical Image Reconstruction with Conditional Denoising Diffusion Model**|Mariia Drozdova et.al.|[2402.10204](http://arxiv.org/abs/2402.10204)|**[link](https://github.com/mariiadrozdova/diffusion-for-sources-characterisation)**|
 |**2024-02-15**|**Classification Diffusion Models**|Shahar Yadin et.al.|[2402.10095](http://arxiv.org/abs/2402.10095)|null|
 |**2024-02-15**|**Diffusion Models Meet Contextual Bandits with Large Action Spaces**|Imad Aouali et.al.|[2402.10028](http://arxiv.org/abs/2402.10028)|null|
-|**2024-02-15**|**Zero-Shot Unsupervised and Text-Based Audio Editing Using DDPM Inversion**|Hila Manor et.al.|[2402.10009](http://arxiv.org/abs/2402.10009)|null|
+|**2024-02-16**|**Zero-Shot Unsupervised and Text-Based Audio Editing Using DDPM Inversion**|Hila Manor et.al.|[2402.10009](http://arxiv.org/abs/2402.10009)|null|
 |**2024-02-15**|**Accelerating Parallel Sampling of Diffusion Models**|Zhiwei Tang et.al.|[2402.09970](http://arxiv.org/abs/2402.09970)|null|
 |**2024-02-15**|**Textual Localization: Decomposing Multi-concept Images for Subject-Driven Text-to-Image Generation**|Junjie Shentu et.al.|[2402.09966](http://arxiv.org/abs/2402.09966)|**[link](https://github.com/junjie-shentu/textual-localization)**|
 |**2024-02-15**|**Lester: rotoscope animation through video object segmentation and tracking**|Ruben Tous et.al.|[2402.09883](http://arxiv.org/abs/2402.09883)|**[link](https://github.com/rtous/lester)**|

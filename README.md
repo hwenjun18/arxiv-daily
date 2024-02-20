@@ -51,6 +51,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-19**|**UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models**|Yihua Zhang et.al.|[2402.11846](http://arxiv.org/abs/2402.11846)|null|
+|**2024-02-18**|**MORL-Prompt: An Empirical Analysis of Multi-Objective Reinforcement Learning for Discrete Prompt Optimization**|Yasaman Jafari et.al.|[2402.11711](http://arxiv.org/abs/2402.11711)|null|
+|**2024-02-16**|**Cosmological multifield emulator**|Sambatra Andrianomena et.al.|[2402.10997](http://arxiv.org/abs/2402.10997)|null|
 |**2024-02-16**|**GAN-driven Electromagnetic Imaging of 2-D Dielectric Scatterers**|Ehtasham Naseer et.al.|[2402.10831](http://arxiv.org/abs/2402.10831)|null|
 |**2024-02-16**|**RAGIC: Risk-Aware Generative Adversarial Model for Stock Interval Construction**|Jingyi Gu et.al.|[2402.10760](http://arxiv.org/abs/2402.10760)|null|
 |**2024-02-16**|**APCodec: A Neural Audio Codec with Parallel Amplitude and Phase Spectrum Encoding and Decoding**|Yang Ai et.al.|[2402.10533](http://arxiv.org/abs/2402.10533)|null|
@@ -1110,6 +1113,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-19**|**FiT: Flexible Vision Transformer for Diffusion Model**|Zeyu Lu et.al.|[2402.12376](http://arxiv.org/abs/2402.12376)|**[link](https://github.com/whlzy/fit)**|
+|**2024-02-19**|**Synthetic location trajectory generation using categorical diffusion models**|Simon Dirmeier et.al.|[2402.12242](http://arxiv.org/abs/2402.12242)|null|
+|**2024-02-19**|**Adversarial Feature Alignment: Balancing Robustness and Accuracy in Deep Learning via Adversarial Training**|Leo Hyun Park et.al.|[2402.12187](http://arxiv.org/abs/2402.12187)|null|
+|**2024-02-19**|**Human Video Translation via Query Warping**|Haiming Zhu et.al.|[2402.12099](http://arxiv.org/abs/2402.12099)|null|
+|**2024-02-19**|**Direct Consistency Optimization for Compositional Text-to-Image Personalization**|Kyungmin Lee et.al.|[2402.12004](http://arxiv.org/abs/2402.12004)|null|
+|**2024-02-19**|**Privacy-Preserving Low-Rank Adaptation for Latent Diffusion Models**|Zihao Luo et.al.|[2402.11989](http://arxiv.org/abs/2402.11989)|**[link](https://github.com/williamluo0/stableprivatelora)**|
+|**2024-02-19**|**DiLightNet: Fine-grained Lighting Control for Diffusion-based Image Generation**|Chong Zeng et.al.|[2402.11929](http://arxiv.org/abs/2402.11929)|null|
+|**2024-02-19**|**A Generative Pre-Training Framework for Spatio-Temporal Graph Transfer Learning**|Yuan Yuan et.al.|[2402.11922](http://arxiv.org/abs/2402.11922)|null|
+|**2024-02-19**|**ComFusion: Personalized Subject Generation in Multiple Specific Scenes From Single Image**|Yan Hong et.al.|[2402.11849](http://arxiv.org/abs/2402.11849)|null|
+|**2024-02-19**|**UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models**|Yihua Zhang et.al.|[2402.11846](http://arxiv.org/abs/2402.11846)|null|
+|**2024-02-19**|**WildFake: A Large-scale Challenging Dataset for AI-Generated Images Detection**|Yan Hong et.al.|[2402.11843](http://arxiv.org/abs/2402.11843)|null|
+|**2024-02-19**|**Statistical Test for Generated Hypotheses by Diffusion Models**|Teruyuki Katsuoka et.al.|[2402.11789](http://arxiv.org/abs/2402.11789)|null|
+|**2024-02-19**|**Towards Theoretical Understandings of Self-Consuming Generative Models**|Shi Fu et.al.|[2402.11778](http://arxiv.org/abs/2402.11778)|null|
+|**2024-02-18**|**SDiT: Spiking Diffusion Model with Transformer**|Shu Yang et.al.|[2402.11588](http://arxiv.org/abs/2402.11588)|null|
+|**2024-02-18**|**CaloGraph: Graph-based diffusion model for fast shower generation in calorimeters with irregular geometry**|Dmitrii Kobylianskii et.al.|[2402.11575](http://arxiv.org/abs/2402.11575)|null|
+|**2024-02-18**|**Temporal Disentangled Contrastive Diffusion Model for Spatiotemporal Imputation**|Yakun Chen et.al.|[2402.11558](http://arxiv.org/abs/2402.11558)|null|
+|**2024-02-18**|**Visual Concept-driven Image Generation with Text-to-Image Diffusion Model**|Tanzila Rahman et.al.|[2402.11487](http://arxiv.org/abs/2402.11487)|null|
+|**2024-02-17**|**Partial Ly $α$ thermalization in an analytic nonlinear diffusion model**|Georg Wolschin et.al.|[2402.11320](http://arxiv.org/abs/2402.11320)|null|
+|**2024-02-17**|**TC-DiffRecon: Texture coordination MRI reconstruction method based on diffusion model and modified MF-UNet method**|Chenyan Zhang et.al.|[2402.11274](http://arxiv.org/abs/2402.11274)|**[link](https://github.com/justlfc03/tc-diffrecon)**|
+|**2024-02-17**|**DiffPoint: Single and Multi-view Point Cloud Reconstruction with ViT Based Diffusion Model**|Yu Feng et.al.|[2402.11241](http://arxiv.org/abs/2402.11241)|null|
 |**2024-02-16**|**3D Diffuser Actor: Policy Diffusion with 3D Scene Representations**|Tsung-Wei Ke et.al.|[2402.10885](http://arxiv.org/abs/2402.10885)|null|
 |**2024-02-16**|**Training Class-Imbalanced Diffusion Model Via Overlap Optimization**|Divin Yan et.al.|[2402.10821](http://arxiv.org/abs/2402.10821)|**[link](https://github.com/yanliang3612/diffrop)**|
 |**2024-02-16**|**VATr++: Choose Your Words Wisely for Handwritten Text Generation**|Bram Vanherle et.al.|[2402.10798](http://arxiv.org/abs/2402.10798)|null|
@@ -3631,6 +3654,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-08**|**Text2Data: Low-Resource Data Generation with Textual Control**|Shiyu Wang et.al.|[2402.10941](http://arxiv.org/abs/2402.10941)|null|
 |**2024-02-14**|**DestripeCycleGAN: Stripe Simulation CycleGAN for Unsupervised Infrared Image Destriping**|Shiqi Yang et.al.|[2402.09101](http://arxiv.org/abs/2402.09101)|null|
 |**2024-02-05**|**Point and Instruct: Enabling Precise Image Editing by Unifying Direct Manipulation and Text Instructions**|Alec Helbling et.al.|[2402.07925](http://arxiv.org/abs/2402.07925)|null|
 |**2024-02-10**|**Gyroscope-Assisted Motion Deblurring Network**|Simin Luan et.al.|[2402.06854](http://arxiv.org/abs/2402.06854)|**[link](https://github.com/lsmlovefm/GAMD-Net)**|
@@ -4370,7 +4394,7 @@
 |**2024-02-02**|**Dynamical system analysis in descending dark energy model**|M. Shahalam et.al.|[2402.01270](http://arxiv.org/abs/2402.01270)|null|
 |**2024-02-02**|**PRIME: Protect Your Videos From Malicious Editing**|Guanlin Li et.al.|[2402.01239](http://arxiv.org/abs/2402.01239)|null|
 |**2024-02-01**|**Emo-Avatar: Efficient Monocular Video Style Avatar through Texture Rendering**|Pinxin Liu et.al.|[2402.00827](http://arxiv.org/abs/2402.00827)|null|
-|**2024-02-01**|**CapHuman: Capture Your Moments in Parallel Universes**|Chao Liang et.al.|[2402.00627](http://arxiv.org/abs/2402.00627)|**[link](https://github.com/vamosc/caphuman)**|
+|**2024-02-19**|**CapHuman: Capture Your Moments in Parallel Universes**|Chao Liang et.al.|[2402.00627](http://arxiv.org/abs/2402.00627)|**[link](https://github.com/vamosc/caphuman)**|
 |**2024-01-31**|**Multilingual Text-to-Image Generation Magnifies Gender Stereotypes and Prompt Engineering May Not Help You**|Felix Friedrich et.al.|[2401.16092](http://arxiv.org/abs/2401.16092)|**[link](https://github.com/felifri/magbig)**|
 |**2024-01-28**|**IntentTuner: An Interactive Framework for Integrating Human Intents in Fine-tuning Text-to-Image Generative Models**|Xingchen Zeng et.al.|[2401.15559](http://arxiv.org/abs/2401.15559)|null|
 |**2024-01-25**|**Diverse and Lifespan Facial Age Transformation Synthesis with Identity Variation Rationality Metric**|Jiu-Cheng Xie et.al.|[2401.14036](http://arxiv.org/abs/2401.14036)|null|

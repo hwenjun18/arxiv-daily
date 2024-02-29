@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.28
+## Updated on 2024.02.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -45,7 +45,7 @@ layout: default
 |**2024-02-26**|**Taming the Tail in Class-Conditional GANs: Knowledge Sharing via Unconditional Training at Lower Resolutions**|Saeed Khorram et.al.|[2402.17065](http://arxiv.org/abs/2402.17065)|**[link](https://github.com/khorrams/utlo)**|
 |**2024-02-26**|**Penalized Generative Variable Selection**|Tong Wang et.al.|[2402.16661](http://arxiv.org/abs/2402.16661)|null|
 |**2024-02-26**|**Training Implicit Generative Models via an Invariant Statistical Loss**|José Manuel de Frutos et.al.|[2402.16435](http://arxiv.org/abs/2402.16435)|**[link](https://github.com/josemanuel22/isl)**|
-|**2024-02-25**|**Attention-GAN for Anomaly Detection: A Cutting-Edge Approach to Cybersecurity Threat Management**|Mohammed Abo Sen et.al.|[2402.15945](http://arxiv.org/abs/2402.15945)|null|
+|**2024-02-27**|**Attention-GAN for Anomaly Detection: A Cutting-Edge Approach to Cybersecurity Threat Management**|Mohammed Abo Sen et.al.|[2402.15945](http://arxiv.org/abs/2402.15945)|null|
 |**2024-02-24**|**Sandwich GAN: Image Reconstruction from Phase Mask based Anti-dazzle Imaging**|Xiaopeng Peng et.al.|[2402.15919](http://arxiv.org/abs/2402.15919)|null|
 |**2024-02-24**|**Enhanced Droplet Analysis Using Generative Adversarial Networks**|Tan-Hanh Pham et.al.|[2402.15909](http://arxiv.org/abs/2402.15909)|null|
 |**2024-02-24**|**A Generative Machine Learning Model for Material Microstructure 3D Reconstruction and Performance Evaluation**|Yilin Zheng et.al.|[2402.15815](http://arxiv.org/abs/2402.15815)|null|

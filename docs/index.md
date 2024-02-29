@@ -39,6 +39,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-28**|**MambaMIR: An Arbitrary-Masked Mamba for Joint Medical Image Reconstruction and Uncertainty Estimation**|Jiahao Huang et.al.|[2402.18451](http://arxiv.org/abs/2402.18451)|null|
+|**2024-02-28**|**Misalignment-Robust Frequency Distribution Loss for Image Transformation**|Zhangkai Ni et.al.|[2402.18192](http://arxiv.org/abs/2402.18192)|null|
+|**2024-02-28**|**Breaking the Black-Box: Confidence-Guided Model Inversion Attack for Distribution Shift**|Xinhao Liu et.al.|[2402.18027](http://arxiv.org/abs/2402.18027)|null|
 |**2024-02-27**|**How we won BraTS 2023 Adult Glioma challenge? Just faking it! Enhanced Synthetic Data Augmentation and Model Ensemble for brain tumour segmentation**|André Ferreira et.al.|[2402.17317](http://arxiv.org/abs/2402.17317)|null|
 |**2024-02-27**|**GAN Based Near-Field Channel Estimation for Extremely Large-Scale MIMO Systems**|Ming Ye et.al.|[2402.17281](http://arxiv.org/abs/2402.17281)|null|
 |**2024-02-27**|**Deep Umbra: A Generative Approach for Sunlight Access Computation in Urban Spaces**|Kazi Shahrukh Omar et.al.|[2402.17169](http://arxiv.org/abs/2402.17169)|null|
@@ -51,7 +54,7 @@ layout: default
 |**2024-02-24**|**A Generative Machine Learning Model for Material Microstructure 3D Reconstruction and Performance Evaluation**|Yilin Zheng et.al.|[2402.15815](http://arxiv.org/abs/2402.15815)|null|
 |**2024-02-24**|**IRConStyle: Image Restoration Framework Using Contrastive Learning and Style Transfer**|Dongqi Fan et.al.|[2402.15784](http://arxiv.org/abs/2402.15784)|**[link](https://github.com/dongqi-fan/irconstyle)**|
 |**2024-02-24**|**Intelligent Director: An Automatic Framework for Dynamic Visual Composition using ChatGPT**|Sixiao Zheng et.al.|[2402.15746](http://arxiv.org/abs/2402.15746)|null|
-|**2024-02-24**|**Text-guided HuBERT: Self-Supervised Speech Pre-training via Generative Adversarial Networks**|Duo Ma et.al.|[2402.15725](http://arxiv.org/abs/2402.15725)|null|
+|**2024-02-28**|**Text-guided HuBERT: Self-Supervised Speech Pre-training via Generative Adversarial Networks**|Duo Ma et.al.|[2402.15725](http://arxiv.org/abs/2402.15725)|null|
 |**2024-02-23**|**Counterfactual Generation with Identifiability Guarantees**|Hanqi Yan et.al.|[2402.15309](http://arxiv.org/abs/2402.15309)|**[link](https://github.com/hanqi-qi/matte)**|
 |**2024-02-23**|**A Survey of Music Generation in the Context of Interaction**|Ismael Agchar et.al.|[2402.15294](http://arxiv.org/abs/2402.15294)|null|
 |**2024-02-23**|**Modified CycleGAN for the synthesization of samples for wheat head segmentation**|Jaden Myers et.al.|[2402.15135](http://arxiv.org/abs/2402.15135)|null|
@@ -1127,12 +1130,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-28**|**Logarithmic Sobolev Inequalities for Bounded Domains and Applications to Drift-Diffusion Equations**|Elie Abdo et.al.|[2402.18572](http://arxiv.org/abs/2402.18572)|null|
+|**2024-02-28**|**Dynamical Regimes of Diffusion Models**|Giulio Biroli et.al.|[2402.18491](http://arxiv.org/abs/2402.18491)|null|
+|**2024-02-28**|**Deep Confident Steps to New Pockets: Strategies for Docking Generalization**|Gabriele Corso et.al.|[2402.18396](http://arxiv.org/abs/2402.18396)|**[link](https://github.com/gcorso/diffdock)**|
+|**2024-02-28**|**Objective and Interpretable Breast Cosmesis Evaluation with Attention Guided Denoising Diffusion Anomaly Detection Model**|Sangjoon Park et.al.|[2402.18362](http://arxiv.org/abs/2402.18362)|null|
+|**2024-02-28**|**FineDiffusion: Scaling up Diffusion Models for Fine-grained Image Generation with 10,000 Classes**|Ziying Pan et.al.|[2402.18331](http://arxiv.org/abs/2402.18331)|null|
+|**2024-02-28**|**Balancing Act: Distribution-Guided Debiasing in Diffusion Models**|Rishubh Parihar et.al.|[2402.18206](http://arxiv.org/abs/2402.18206)|null|
+|**2024-02-28**|**Diffusion-based Neural Network Weights Generation**|Bedionita Soro et.al.|[2402.18153](http://arxiv.org/abs/2402.18153)|null|
+|**2024-02-28**|**Context-aware Talking Face Video Generation**|Meidai Xuanyuan et.al.|[2402.18092](http://arxiv.org/abs/2402.18092)|null|
+|**2024-02-28**|**Coarse-to-Fine Latent Diffusion for Pose-Guided Person Image Synthesis**|Yanzuo Lu et.al.|[2402.18078](http://arxiv.org/abs/2402.18078)|**[link](https://github.com/YanzuoLu/CFLD)**|
+|**2024-02-28**|**SynArtifact: Classifying and Alleviating Artifacts in Synthetic Images via Vision-Language Model**|Bin Cao et.al.|[2402.18068](http://arxiv.org/abs/2402.18068)|null|
+|**2024-02-28**|**Diffusion Models as Constrained Samplers for Optimization with Unknown Constraints**|Lingkai Kong et.al.|[2402.18012](http://arxiv.org/abs/2402.18012)|null|
+|**2024-02-28**|**Imagine, Initialize, and Explore: An Effective Exploration Method in Multi-Agent Reinforcement Learning**|Zeyang Liu et.al.|[2402.17978](http://arxiv.org/abs/2402.17978)|null|
+|**2024-02-27**|**Box It to Bind It: Unified Layout Control and Attribute Binding in T2I Diffusion Models**|Ashkan Taghipour et.al.|[2402.17910](http://arxiv.org/abs/2402.17910)|null|
 |**2024-02-27**|**Diffusion Meets DAgger: Supercharging Eye-in-hand Imitation Learning**|Xiaoyu Zhang et.al.|[2402.17768](http://arxiv.org/abs/2402.17768)|null|
 |**2024-02-27**|**Structure-Guided Adversarial Training of Diffusion Models**|Ling Yang et.al.|[2402.17563](http://arxiv.org/abs/2402.17563)|null|
 |**2024-02-27**|**Diffusion Model-Based Image Editing: A Survey**|Yi Huang et.al.|[2402.17525](http://arxiv.org/abs/2402.17525)|**[link](https://github.com/siatmmlab/awesome-diffusion-model-based-image-editing-methods)**|
 |**2024-02-27**|**Label-Noise Robust Diffusion Models**|Byeonghu Na et.al.|[2402.17517](http://arxiv.org/abs/2402.17517)|**[link](https://github.com/byeonghu-na/tdsm)**|
 |**2024-02-27**|**EMO: Emote Portrait Alive - Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions**|Linrui Tian et.al.|[2402.17485](http://arxiv.org/abs/2402.17485)|null|
-|**2024-02-27**|**DiffuseKronA: A Parameter Efficient Fine-tuning Method for Personalized Diffusion Model**|Shyam Marjit et.al.|[2402.17412](http://arxiv.org/abs/2402.17412)|null|
+|**2024-02-28**|**DiffuseKronA: A Parameter Efficient Fine-tuning Method for Personalized Diffusion Models**|Shyam Marjit et.al.|[2402.17412](http://arxiv.org/abs/2402.17412)|null|
 |**2024-02-27**|**Generative diffusion model for surface structure discovery**|Nikolaj Rønne et.al.|[2402.17404](http://arxiv.org/abs/2402.17404)|null|
 |**2024-02-27**|**Denoising Diffusion Models for Inpainting of Healthy Brain Tissue**|Alicia Durrer et.al.|[2402.17307](http://arxiv.org/abs/2402.17307)|null|
 |**2024-02-27**|**DivAvatar: Diverse 3D Avatar Generation with a Single Prompt**|Weijing Tao et.al.|[2402.17292](http://arxiv.org/abs/2402.17292)|null|
@@ -3744,6 +3760,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-26**|**Randomized Algorithms for Solving Singular Value Decomposition Problems with Matlab Toolbox**|Xiaowen Li et.al.|[2402.17794](http://arxiv.org/abs/2402.17794)|null|
 |**2024-02-27**|**Diffusion Model-Based Image Editing: A Survey**|Yi Huang et.al.|[2402.17525](http://arxiv.org/abs/2402.17525)|**[link](https://github.com/siatmmlab/awesome-diffusion-model-based-image-editing-methods)**|
 |**2024-02-25**|**Diffusion Posterior Proximal Sampling for Image Restoration**|Hongjie Wu et.al.|[2402.16907](http://arxiv.org/abs/2402.16907)|null|
 |**2024-02-24**|**Sandwich GAN: Image Reconstruction from Phase Mask based Anti-dazzle Imaging**|Xiaopeng Peng et.al.|[2402.15919](http://arxiv.org/abs/2402.15919)|null|

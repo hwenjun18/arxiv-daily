@@ -39,6 +39,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-02**|**A Hybrid Model for Traffic Incident Detection based on Generative Adversarial Networks and Transformer Model**|Xinying Lu et.al.|[2403.01147](http://arxiv.org/abs/2403.01147)|null|
+|**2024-03-02**|**Distilling Text Style Transfer With Self-Explanation From LLMs**|Chiyu Zhang et.al.|[2403.01106](http://arxiv.org/abs/2403.01106)|null|
+|**2024-03-01**|**BasedAI: A decentralized P2P network for Zero Knowledge Large Language Models (ZK-LLMs)**|Sean Wellington et.al.|[2403.01008](http://arxiv.org/abs/2403.01008)|null|
+|**2024-03-01**|**Improving Android Malware Detection Through Data Augmentation Using Wasserstein Generative Adversarial Networks**|Kawana Stalin et.al.|[2403.00890](http://arxiv.org/abs/2403.00890)|null|
+|**2024-02-29**|**Learning to Find Missing Video Frames with Synthetic Data Augmentation: A General Framework and Application in Generating Thermal Images Using RGB Cameras**|Mathias Viborg Andersen et.al.|[2403.00196](http://arxiv.org/abs/2403.00196)|null|
 |**2024-02-29**|**SeD: Semantic-Aware Discriminator for Image Super-Resolution**|Bingchen Li et.al.|[2402.19387](http://arxiv.org/abs/2402.19387)|null|
 |**2024-02-29**|**Memory-Augmented Generative Adversarial Transformers**|Stephan Raaijmakers et.al.|[2402.19218](http://arxiv.org/abs/2402.19218)|null|
 |**2024-02-29**|**Generative models struggle with kirigami metamaterials**|Gerrit Felsch et.al.|[2402.19196](http://arxiv.org/abs/2402.19196)|null|
@@ -1136,6 +1141,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-02**|**DiffSal: Joint Audio and Video Learning for Diffusion Saliency Prediction**|Junwen Xiong et.al.|[2403.01226](http://arxiv.org/abs/2403.01226)|null|
+|**2024-03-02**|**TCIG: Two-Stage Controlled Image Generation with Quality Enhancement through Diffusion**|Salaheldin Mohamed et.al.|[2403.01212](http://arxiv.org/abs/2403.01212)|null|
+|**2024-03-02**|**Training Unbiased Diffusion Models From Biased Dataset**|Yeongmin Kim et.al.|[2403.01189](http://arxiv.org/abs/2403.01189)|**[link](https://github.com/alsdudrla10/tiw-dsm)**|
+|**2024-03-02**|**Volume diffusion modelling of a sheared granular gas**|Duncan Dockar et.al.|[2403.01188](http://arxiv.org/abs/2403.01188)|null|
+|**2024-03-02**|**Text-guided Explorable Image Super-resolution**|Kanchana Vaishnavi Gandikota et.al.|[2403.01124](http://arxiv.org/abs/2403.01124)|null|
+|**2024-03-02**|**Face Swap via Diffusion Model**|Feifei Wang et.al.|[2403.01108](http://arxiv.org/abs/2403.01108)|null|
+|**2024-03-01**|**A time-stepping deep gradient flow method for option pricing in (rough) diffusion models**|Antonis Papapantoleon et.al.|[2403.00746](http://arxiv.org/abs/2403.00746)|null|
+|**2024-03-01**|**Diff-Plugin: Revitalizing Details for Diffusion-based Low-level Tasks**|Yuhao Liu et.al.|[2403.00644](http://arxiv.org/abs/2403.00644)|null|
+|**2024-03-01**|**Improving Explicit Spatial Relationships in Text-to-Image Generation through an Automatically Derived Dataset**|Ander Salaberria et.al.|[2403.00587](http://arxiv.org/abs/2403.00587)|**[link](https://github.com/salanueva/sr4g)**|
+|**2024-03-01**|**Rethinking cluster-conditioned diffusion models**|Nikolas Adaloglou et.al.|[2403.00570](http://arxiv.org/abs/2403.00570)|null|
+|**2024-03-01**|**Waves, patterns and bifurcations: a tutorial review on the vertebrate segmentation clock**|Paul François et.al.|[2403.00457](http://arxiv.org/abs/2403.00457)|null|
+|**2024-03-01**|**An Ordinal Diffusion Model for Generating Medical Images with Different Severity Levels**|Shumpei Takezaki et.al.|[2403.00452](http://arxiv.org/abs/2403.00452)|null|
+|**2024-03-01**|**LoMOE: Localized Multi-Object Editing via Multi-Diffusion**|Goirik Chakrabarty et.al.|[2403.00437](http://arxiv.org/abs/2403.00437)|null|
+|**2024-03-01**|**Abductive Ego-View Accident Video Understanding for Safe Driving Perception**|Jianwu Fang et.al.|[2403.00436](http://arxiv.org/abs/2403.00436)|null|
+|**2024-03-01**|**HyperSDFusion: Bridging Hierarchical Structures in Language and Geometry for Enhanced 3D Text2Shape Generation**|Zhiying Leng et.al.|[2403.00372](http://arxiv.org/abs/2403.00372)|null|
+|**2024-03-01**|**Robust Policy Learning via Offline Skill Diffusion**|Woo Kyung Kim et.al.|[2403.00225](http://arxiv.org/abs/2403.00225)|null|
 |**2024-02-29**|**DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models**|Muyang Li et.al.|[2402.19481](http://arxiv.org/abs/2402.19481)|null|
 |**2024-02-29**|**Towards Generalizable Tumor Synthesis**|Qi Chen et.al.|[2402.19470](http://arxiv.org/abs/2402.19470)|null|
 |**2024-02-29**|**Listening to the Noise: Blind Denoising with Gibbs Diffusion**|David Heurtel-Depeiges et.al.|[2402.19455](http://arxiv.org/abs/2402.19455)|**[link](https://github.com/rubenohana/gibbs-diffusion)**|
@@ -3780,6 +3801,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-02**|**Extrapolated Plug-and-Play Three-Operator Splitting Methods for Nonconvex Optimization with Applications to Image Restoration**|Zhongming Wu et.al.|[2403.01144](http://arxiv.org/abs/2403.01144)|null|
+|**2024-03-01**|**LoMOE: Localized Multi-Object Editing via Multi-Diffusion**|Goirik Chakrabarty et.al.|[2403.00437](http://arxiv.org/abs/2403.00437)|null|
+|**2024-03-01**|**ChartReformer: Natural Language-Driven Chart Image Editing**|Pengyu Yan et.al.|[2403.00209](http://arxiv.org/abs/2403.00209)|null|
 |**2024-02-26**|**Randomized Algorithms for Solving Singular Value Decomposition Problems with Matlab Toolbox**|Xiaowen Li et.al.|[2402.17794](http://arxiv.org/abs/2402.17794)|null|
 |**2024-02-27**|**Diffusion Model-Based Image Editing: A Survey**|Yi Huang et.al.|[2402.17525](http://arxiv.org/abs/2402.17525)|**[link](https://github.com/siatmmlab/awesome-diffusion-model-based-image-editing-methods)**|
 |**2024-02-25**|**Diffusion Posterior Proximal Sampling for Image Restoration**|Hongjie Wu et.al.|[2402.16907](http://arxiv.org/abs/2402.16907)|null|
@@ -3796,7 +3820,7 @@ layout: default
 |**2024-02-14**|**DestripeCycleGAN: Stripe Simulation CycleGAN for Unsupervised Infrared Image Destriping**|Shiqi Yang et.al.|[2402.09101](http://arxiv.org/abs/2402.09101)|null|
 |**2024-02-05**|**Point and Instruct: Enabling Precise Image Editing by Unifying Direct Manipulation and Text Instructions**|Alec Helbling et.al.|[2402.07925](http://arxiv.org/abs/2402.07925)|null|
 |**2024-02-10**|**Gyroscope-Assisted Motion Deblurring Network**|Simin Luan et.al.|[2402.06854](http://arxiv.org/abs/2402.06854)|**[link](https://github.com/lsmlovefm/GAMD-Net)**|
-|**2024-02-08**|**Minecraft-ify: Minecraft Style Image Generation with Text-guided Image Editing for In-Game Application**|Bumsoo Kim et.al.|[2402.05448](http://arxiv.org/abs/2402.05448)|null|
+|**2024-03-03**|**Minecraft-ify: Minecraft Style Image Generation with Text-guided Image Editing for In-Game Application**|Bumsoo Kim et.al.|[2402.05448](http://arxiv.org/abs/2402.05448)|null|
 |**2024-02-08**|**Descanning: From Scanned to the Original Images with a Color Correction Diffusion Model**|Junghun Cha et.al.|[2402.05350](http://arxiv.org/abs/2402.05350)|null|
 |**2024-02-07**|**Noise Map Guidance: Inversion with Spatial Context for Real Image Editing**|Hansam Cho et.al.|[2402.04625](http://arxiv.org/abs/2402.04625)|**[link](https://github.com/hansam95/nmg)**|
 |**2024-02-16**|**U-shaped Vision Mamba for Single Image Dehazing**|Zhuoran Zheng et.al.|[2402.04139](http://arxiv.org/abs/2402.04139)|**[link](https://github.com/zzr-idam/uvm-net)**|
@@ -4478,6 +4502,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-04**|**Umwelt: Accessible Structured Editing of Multimodal Data Representations**|Jonathan Zong et.al.|[2403.00106](http://arxiv.org/abs/2403.00106)|null|
 |**2024-02-22**|**Semantic Image Synthesis with Unconditional Generator**|Jungwoo Chae et.al.|[2402.14395](http://arxiv.org/abs/2402.14395)|null|
 |**2024-01-20**|**Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis**|Zhenhui Ye et.al.|[2401.08503](http://arxiv.org/abs/2401.08503)|null|
 |**2023-12-03**|**Efficient Incremental Potential Contact for Actuated Face Simulation**|Bo Li et.al.|[2312.02999](http://arxiv.org/abs/2312.02999)|null|
@@ -4522,6 +4547,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-02**|**Face Swap via Diffusion Model**|Feifei Wang et.al.|[2403.01108](http://arxiv.org/abs/2403.01108)|null|
+|**2024-03-02**|**Nonlinear dynamics and stability analysis of locally-active Mott memristors using a physics-based compact model**|Wei Yi et.al.|[2403.01036](http://arxiv.org/abs/2403.01036)|null|
+|**2024-03-01**|**Dual symmetries of dense three and two-color QCD and some QCD-like NJL models**|T. G. Khunjua et.al.|[2403.00444](http://arxiv.org/abs/2403.00444)|null|
+|**2024-03-01**|**CustomListener: Text-guided Responsive Interaction for User-friendly Listening Head Generation**|Xi Liu et.al.|[2403.00274](http://arxiv.org/abs/2403.00274)|null|
 |**2024-02-29**|**SwitchLight: Co-design of Physics-driven Architecture and Pre-training Framework for Human Portrait Relighting**|Hoon Kim et.al.|[2402.18848](http://arxiv.org/abs/2402.18848)|null|
 |**2024-02-27**|**PHNet: Patch-based Normalization for Portrait Harmonization**|Karen Efremyan et.al.|[2402.17561](http://arxiv.org/abs/2402.17561)|**[link](https://github.com/ai-forever/phnet)**|
 |**2024-02-27**|**EMO: Emote Portrait Alive -- Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions**|Linrui Tian et.al.|[2402.17485](http://arxiv.org/abs/2402.17485)|null|
@@ -4532,7 +4561,7 @@ layout: default
 |**2024-02-07**|**Progressive Conservative Adaptation for Evolving Target Domains**|Gangming Zhao et.al.|[2402.04573](http://arxiv.org/abs/2402.04573)|null|
 |**2024-02-06**|**VRMM: A Volumetric Relightable Morphable Head Model**|Haotian Yang et.al.|[2402.04101](http://arxiv.org/abs/2402.04101)|null|
 |**2024-02-06**|**Rig3DGS: Creating Controllable Portraits from Casual Monocular Videos**|Alfredo Rivero et.al.|[2402.03723](http://arxiv.org/abs/2402.03723)|null|
-|**2024-02-05**|**ToonAging: Face Re-Aging upon Artistic Portrait Style Transfer**|Bumsoo Kim et.al.|[2402.02733](http://arxiv.org/abs/2402.02733)|null|
+|**2024-03-04**|**ToonAging: Face Re-Aging upon Artistic Portrait Style Transfer**|Bumsoo Kim et.al.|[2402.02733](http://arxiv.org/abs/2402.02733)|null|
 |**2024-02-04**|**On the local streamline pattern of planar polynomial velocity field with nonzero linear part**|Jian Gao et.al.|[2402.02419](http://arxiv.org/abs/2402.02419)|null|
 |**2024-02-02**|**EmoSpeaker: One-shot Fine-grained Emotion-Controlled Talking Face Generation**|Guanwen Feng et.al.|[2402.01422](http://arxiv.org/abs/2402.01422)|null|
 |**2024-02-02**|**Dynamical system analysis in descending dark energy model**|M. Shahalam et.al.|[2402.01270](http://arxiv.org/abs/2402.01270)|null|

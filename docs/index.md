@@ -41,7 +41,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-03-07**|**A Domain Translation Framework with an Adversarial Denoising Diffusion Model to Generate Synthetic Datasets of Echocardiography Images**|Cristiana Tiago et.al.|[2403.04612](http://arxiv.org/abs/2403.04612)|null|
 |**2024-03-07**|**DLP-GAN: learning to draw modern Chinese landscape photos with generative adversarial network**|Xiangquan Gui et.al.|[2403.03456](http://arxiv.org/abs/2403.03456)|null|
-|**2024-03-05**|**Doubly Abductive Counterfactual Inference for Text-based Image Editing**|Xue Song et.al.|[2403.02981](http://arxiv.org/abs/2403.02981)|null|
+|**2024-03-05**|**Doubly Abductive Counterfactual Inference for Text-based Image Editing**|Xue Song et.al.|[2403.02981](http://arxiv.org/abs/2403.02981)|**[link](https://github.com/xuesong39/dac)**|
 |**2024-03-05**|**Time Weaver: A Conditional Time Series Generation Model**|Sai Shankar Narasimhan et.al.|[2403.02682](http://arxiv.org/abs/2403.02682)|null|
 |**2024-03-04**|**AFBT GAN: enhanced explainability and diagnostic performance for cognitive decline by counterfactual generative adversarial network**|Xiongri Shen et.al.|[2403.01758](http://arxiv.org/abs/2403.01758)|**[link](https://github.com/sxr3015/afbt-gan)**|
 |**2024-03-02**|**A Hybrid Model for Traffic Incident Detection based on Generative Adversarial Networks and Transformer Model**|Xinying Lu et.al.|[2403.01147](http://arxiv.org/abs/2403.01147)|null|
@@ -1158,7 +1158,7 @@ layout: default
 |**2024-03-07**|**On-demand Quantization for Green Federated Generative Diffusion in Mobile Edge Networks**|Bingkun Lai et.al.|[2403.04430](http://arxiv.org/abs/2403.04430)|null|
 |**2024-03-07**|**Controllable Generation with Text-to-Image Diffusion Models: A Survey**|Pu Cao et.al.|[2403.04279](http://arxiv.org/abs/2403.04279)|**[link](https://github.com/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models)**|
 |**2024-03-06**|**PromptCharm: Text-to-Image Generation through Multi-modal Prompting and Refinement**|Zhijie Wang et.al.|[2403.04014](http://arxiv.org/abs/2403.04014)|**[link](https://github.com/ma-labo/promptcharm)**|
-|**2024-03-06**|**GUIDE: Guidance-based Incremental Learning with Diffusion Models**|Bartosz Cywiński et.al.|[2403.03938](http://arxiv.org/abs/2403.03938)|null|
+|**2024-03-06**|**GUIDE: Guidance-based Incremental Learning with Diffusion Models**|Bartosz Cywiński et.al.|[2403.03938](http://arxiv.org/abs/2403.03938)|**[link](https://github.com/cywinski/guide)**|
 |**2024-03-06**|**Latent Dataset Distillation with Diffusion Models**|Brian B. Moser et.al.|[2403.03881](http://arxiv.org/abs/2403.03881)|null|
 |**2024-03-06**|**Accelerating Convergence of Score-Based Diffusion Models, Provably**|Gen Li et.al.|[2403.03852](http://arxiv.org/abs/2403.03852)|null|
 |**2024-03-06**|**Diffusion on language model embeddings for protein sequence generation**|Viacheslav Meshchaninov et.al.|[2403.03726](http://arxiv.org/abs/2403.03726)|null|
@@ -3850,7 +3850,7 @@ layout: default
 |**2024-03-07**|**FriendNet: Detection-Friendly Dehazing Network**|Yihua Fan et.al.|[2403.04443](http://arxiv.org/abs/2403.04443)|null|
 |**2024-03-07**|**StableDrag: Stable Dragging for Point-based Image Editing**|Yutao Cui et.al.|[2403.04437](http://arxiv.org/abs/2403.04437)|null|
 |**2024-03-06**|**Towards Understanding Cross and Self-Attention in Stable Diffusion for Text-Guided Image Editing**|Bingyan Liu et.al.|[2403.03431](http://arxiv.org/abs/2403.03431)|null|
-|**2024-03-05**|**Doubly Abductive Counterfactual Inference for Text-based Image Editing**|Xue Song et.al.|[2403.02981](http://arxiv.org/abs/2403.02981)|null|
+|**2024-03-05**|**Doubly Abductive Counterfactual Inference for Text-based Image Editing**|Xue Song et.al.|[2403.02981](http://arxiv.org/abs/2403.02981)|**[link](https://github.com/xuesong39/dac)**|
 |**2024-03-02**|**Extrapolated Plug-and-Play Three-Operator Splitting Methods for Nonconvex Optimization with Applications to Image Restoration**|Zhongming Wu et.al.|[2403.01144](http://arxiv.org/abs/2403.01144)|null|
 |**2024-03-01**|**LoMOE: Localized Multi-Object Editing via Multi-Diffusion**|Goirik Chakrabarty et.al.|[2403.00437](http://arxiv.org/abs/2403.00437)|null|
 |**2024-03-01**|**ChartReformer: Natural Language-Driven Chart Image Editing**|Pengyu Yan et.al.|[2403.00209](http://arxiv.org/abs/2403.00209)|null|

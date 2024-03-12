@@ -39,6 +39,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-11**|**Data-Independent Operator: A Training-Free Artifact Representation Extractor for Generalizable Deepfake Detection**|Chuangchuang Tan et.al.|[2403.06803](http://arxiv.org/abs/2403.06803)|**[link](https://github.com/chuangchuangtan/data-independent-operator)**|
+|**2024-03-11**|**Galaxy Morphologies Revealed with Subaru HSC and Super-Resolution Techniques II: Environmental Dependence of Galaxy Mergers at z~2-5**|Takatoshi Shibuya et.al.|[2403.06729](http://arxiv.org/abs/2403.06729)|null|
+|**2024-03-11**|**3D-aware Image Generation and Editing with Multi-modal Conditions**|Bo Li et.al.|[2403.06470](http://arxiv.org/abs/2403.06470)|null|
+|**2024-03-11**|**A Zero Trust Framework for Realization and Defense Against Generative AI Attacks in Power Grid**|Md. Shirajum Munir et.al.|[2403.06388](http://arxiv.org/abs/2403.06388)|null|
+|**2024-03-10**|**Fast-Track of F-18 Positron paths simulations**|Youness Mellak et.al.|[2403.06307](http://arxiv.org/abs/2403.06307)|null|
+|**2024-03-10**|**MoST: Motion Style Transformer between Diverse Action Contents**|Boeun Kim et.al.|[2403.06225](http://arxiv.org/abs/2403.06225)|null|
+|**2024-03-10**|**S-DyRF: Reference-Based Stylized Radiance Fields for Dynamic Scenes**|Xingyi Li et.al.|[2403.06205](http://arxiv.org/abs/2403.06205)|null|
+|**2024-03-10**|**On depth prediction for autonomous driving using self-supervised learning**|Houssem Boulahbal et.al.|[2403.06194](http://arxiv.org/abs/2403.06194)|null|
+|**2024-03-09**|**Large Generative Model Assisted 3D Semantic Communication**|Feibo Jiang et.al.|[2403.05783](http://arxiv.org/abs/2403.05783)|null|
 |**2024-03-08**|**A Data Augmentation Pipeline to Generate Synthetic Labeled Datasets of 3D Echocardiography Images using a GAN**|Cristiana Tiago et.al.|[2403.05384](http://arxiv.org/abs/2403.05384)|null|
 |**2024-03-08**|**Federated Learning Method for Preserving Privacy in Face Recognition System**|Enoch Solomon et.al.|[2403.05344](http://arxiv.org/abs/2403.05344)|null|
 |**2024-03-08**|**GAN-based Massive MIMO Channel Model Trained on Measured Data**|Florian Euchner et.al.|[2403.05321](http://arxiv.org/abs/2403.05321)|null|
@@ -1155,6 +1164,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-11**|**BrushNet: A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion**|Xuan Ju et.al.|[2403.06976](http://arxiv.org/abs/2403.06976)|null|
+|**2024-03-11**|**Bayesian Diffusion Models for 3D Shape Reconstruction**|Haiyang Xu et.al.|[2403.06973](http://arxiv.org/abs/2403.06973)|null|
+|**2024-03-11**|**POD-ROM methods: from a finite set of snapshots to continuous-in-time approximations**|Bosco Garcia-Archilla et.al.|[2403.06967](http://arxiv.org/abs/2403.06967)|null|
+|**2024-03-11**|**SELMA: Learning and Merging Skill-Specific Text-to-Image Experts with Auto-Generated Data**|Jialu Li et.al.|[2403.06952](http://arxiv.org/abs/2403.06952)|null|
+|**2024-03-11**|**DEADiff: An Efficient Stylization Diffusion Model with Disentangled Representations**|Tianhao Qi et.al.|[2403.06951](http://arxiv.org/abs/2403.06951)|null|
+|**2024-03-11**|**Conditional Score-Based Diffusion Model for Cortical Thickness Trajectory Prediction**|Qing Xiao et.al.|[2403.06940](http://arxiv.org/abs/2403.06940)|null|
+|**2024-03-11**|**Estimation of parameters and local times in a discretely observed threshold diffusion model**|Sara Mazzonetto et.al.|[2403.06858](http://arxiv.org/abs/2403.06858)|null|
+|**2024-03-11**|**Multistep Consistency Models**|Jonathan Heek et.al.|[2403.06807](http://arxiv.org/abs/2403.06807)|null|
+|**2024-03-11**|**Distribution-Aware Data Expansion with Diffusion Models**|Haowei Zhu et.al.|[2403.06741](http://arxiv.org/abs/2403.06741)|**[link](https://github.com/haoweiz23/distdiff)**|
+|**2024-03-11**|**V3D: Video Diffusion Models are Effective 3D Generators**|Zilong Chen et.al.|[2403.06738](http://arxiv.org/abs/2403.06738)|**[link](https://github.com/heheyas/v3d)**|
+|**2024-03-11**|**Active Generation for Image Classification**|Tao Huang et.al.|[2403.06517](http://arxiv.org/abs/2403.06517)|null|
+|**2024-03-11**|**Advancing Text-Driven Chest X-Ray Generation with Policy-Based Reinforcement Learning**|Woojung Han et.al.|[2403.06516](http://arxiv.org/abs/2403.06516)|null|
+|**2024-03-11**|**Incorporating Improved Sinusoidal Threshold-based Semi-supervised Method and Diffusion Models for Osteoporosis Diagnosis**|Wenchi Ke et.al.|[2403.06498](http://arxiv.org/abs/2403.06498)|null|
+|**2024-03-11**|**Are you sure? Modelling Drivers' Confidence Judgments in Left-Turn Gap Acceptance Decisions**|Arkady Zgonnikov et.al.|[2403.06496](http://arxiv.org/abs/2403.06496)|null|
+|**2024-03-11**|**Text2QR: Harmonizing Aesthetic Customization and Scanning Robustness for Text-Guided QR Code Generation**|Guangyang Wu et.al.|[2403.06452](http://arxiv.org/abs/2403.06452)|null|
+|**2024-03-11**|**DivCon: Divide and Conquer for Progressive Text-to-Image Generation**|Yuhao Jia et.al.|[2403.06400](http://arxiv.org/abs/2403.06400)|**[link](https://github.com/divcon-gen/divcon)**|
+|**2024-03-11**|**FSViewFusion: Few-Shots View Generation of Novel Objects**|Rukhshanda Hussain et.al.|[2403.06394](http://arxiv.org/abs/2403.06394)|null|
+|**2024-03-11**|**Enhancing Semantic Fidelity in Text-to-Image Synthesis: Attention Regulation in Diffusion Models**|Yang Zhang et.al.|[2403.06381](http://arxiv.org/abs/2403.06381)|null|
+|**2024-03-11**|**Style2Talker: High-Resolution Talking Head Generation with Emotion Style and Art Style**|Shuai Tan et.al.|[2403.06365](http://arxiv.org/abs/2403.06365)|null|
+|**2024-03-10**|**Transferable Reinforcement Learning via Generalized Occupancy Models**|Chuning Zhu et.al.|[2403.06328](http://arxiv.org/abs/2403.06328)|null|
 |**2024-03-08**|**VideoElevator: Elevating Video Generation Quality with Versatile Text-to-Image Diffusion Models**|Yabo Zhang et.al.|[2403.05438](http://arxiv.org/abs/2403.05438)|**[link](https://github.com/ybybzhang/videoelevator)**|
 |**2024-03-08**|**DiffSF: Diffusion Models for Scene Flow Estimation**|Yushan Zhang et.al.|[2403.05327](http://arxiv.org/abs/2403.05327)|null|
 |**2024-03-08**|**Noise Level Adaptive Diffusion Model for Robust Reconstruction of Accelerated MRI**|Shoujin Huang et.al.|[2403.05245](http://arxiv.org/abs/2403.05245)|null|
@@ -3876,6 +3905,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-11**|**Boosting Image Restoration via Priors from Pre-trained Models**|Xiaogang Xu et.al.|[2403.06793](http://arxiv.org/abs/2403.06793)|null|
+|**2024-03-10**|**Universal Debiased Editing for Fair Medical Image Classification**|Ruinan Jin et.al.|[2403.06104](http://arxiv.org/abs/2403.06104)|null|
+|**2024-03-10**|**Implicit Image-to-Image Schrodinger Bridge for CT Super-Resolution and Denoising**|Yuang Wang et.al.|[2403.06069](http://arxiv.org/abs/2403.06069)|null|
+|**2024-03-10**|**Decoupled Data Consistency with Diffusion Purification for Image Restoration**|Xiang Li et.al.|[2403.06054](http://arxiv.org/abs/2403.06054)|null|
+|**2024-03-09**|**Segmentation Guided Sparse Transformer for Under-Display Camera Image Restoration**|Jingyun Xue et.al.|[2403.05906](http://arxiv.org/abs/2403.05906)|null|
+|**2024-03-09**|**Generalizing to Out-of-Sample Degradations via Model Reprogramming**|Runhua Jiang et.al.|[2403.05886](http://arxiv.org/abs/2403.05886)|**[link](https://github.com/ddghjikle/out-of-sample-restoration)**|
+|**2024-03-08**|**Decoupling Degradations with Recurrent Network for Video Restoration in Under-Display Camera**|Chengxu Liu et.al.|[2403.05660](http://arxiv.org/abs/2403.05660)|**[link](https://github.com/chengxuliu/ddrnet)**|
 |**2024-03-08**|**InstructGIE: Towards Generalizable Image Editing**|Zichong Meng et.al.|[2403.05018](http://arxiv.org/abs/2403.05018)|null|
 |**2024-03-07**|**An Item is Worth a Prompt: Versatile Image Editing with Disentangled Control**|Aosong Feng et.al.|[2403.04880](http://arxiv.org/abs/2403.04880)|null|
 |**2024-03-07**|**FriendNet: Detection-Friendly Dehazing Network**|Yihua Fan et.al.|[2403.04443](http://arxiv.org/abs/2403.04443)|null|
@@ -4630,6 +4666,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-11**|**Human-Exoskeleton Interaction Portrait**|Mohammad Shushtari et.al.|[2403.06851](http://arxiv.org/abs/2403.06851)|null|
+|**2024-03-10**|**DiffuMatting: Synthesizing Arbitrary Objects with Matting-level Annotation**|Xiaobin Hu et.al.|[2403.06168](http://arxiv.org/abs/2403.06168)|null|
 |**2024-03-02**|**Face Swap via Diffusion Model**|Feifei Wang et.al.|[2403.01108](http://arxiv.org/abs/2403.01108)|null|
 |**2024-03-02**|**Nonlinear dynamics and stability analysis of locally-active Mott memristors using a physics-based compact model**|Wei Yi et.al.|[2403.01036](http://arxiv.org/abs/2403.01036)|null|
 |**2024-03-01**|**Dual symmetries of dense three and two-color QCD and some QCD-like NJL models**|T. G. Khunjua et.al.|[2403.00444](http://arxiv.org/abs/2403.00444)|null|

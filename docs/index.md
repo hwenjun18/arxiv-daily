@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.14
+## Updated on 2024.03.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -1179,7 +1179,7 @@ layout: default
 |**2024-03-13**|**VLOGGER: Multimodal Diffusion for Embodied Avatar Synthesis**|Enric Corona et.al.|[2403.08764](http://arxiv.org/abs/2403.08764)|null|
 |**2024-03-13**|**Spatiotemporal Diffusion Model with Paired Sampling for Accelerated Cardiac Cine MRI**|Shihan Qiu et.al.|[2403.08758](http://arxiv.org/abs/2403.08758)|null|
 |**2024-03-13**|**Clinically Feasible Diffusion Reconstruction for Highly-Accelerated Cardiac Cine MRI**|Shihan Qiu et.al.|[2403.08749](http://arxiv.org/abs/2403.08749)|null|
-|**2024-03-13**|**GaussCtrl: Multi-View Consistent Text-Driven 3D Gaussian Splatting Editing**|Jing Wu et.al.|[2403.08733](http://arxiv.org/abs/2403.08733)|null|
+|**2024-03-14**|**GaussCtrl: Multi-View Consistent Text-Driven 3D Gaussian Splatting Editing**|Jing Wu et.al.|[2403.08733](http://arxiv.org/abs/2403.08733)|null|
 |**2024-03-13**|**Ambient Diffusion Posterior Sampling: Solving Inverse Problems with Diffusion Models trained on Corrupted Data**|Asad Aali et.al.|[2403.08728](http://arxiv.org/abs/2403.08728)|**[link](https://github.com/utcsilab/ambient-diffusion-mri)**|
 |**2024-03-13**|**Data Augmentation in Human-Centric Vision**|Wentao Jiang et.al.|[2403.08650](http://arxiv.org/abs/2403.08650)|null|
 |**2024-03-13**|**ActionDiffusion: An Action-aware Diffusion Model for Procedure Planning in Instructional Videos**|Lei Shi et.al.|[2403.08591](http://arxiv.org/abs/2403.08591)|null|
@@ -4501,7 +4501,7 @@ layout: default
 |**2024-02-09**|**Neural Rendering based Urban Scene Reconstruction for Autonomous Driving**|Shihao Shen et.al.|[2402.06826](http://arxiv.org/abs/2402.06826)|null|
 |**2024-02-06**|**OASim: an Open and Adaptive Simulator based on Neural Rendering for Autonomous Driving**|Guohang Yan et.al.|[2402.03830](http://arxiv.org/abs/2402.03830)|**[link](https://github.com/pjlab-adg/oasim)**|
 |**2024-02-05**|**AONeuS: A Neural Rendering Framework for Acoustic-Optical Sensor Fusion**|Mohamad Qadri et.al.|[2402.03309](http://arxiv.org/abs/2402.03309)|null|
-|**2024-02-01**|**Emo-Avatar: Efficient Monocular Video Style Avatar through Texture Rendering**|Pinxin Liu et.al.|[2402.00827](http://arxiv.org/abs/2402.00827)|null|
+|**2024-03-14**|**Emo-Avatar: Efficient Monocular Video Style Avatar through Texture Rendering**|Pinxin Liu et.al.|[2402.00827](http://arxiv.org/abs/2402.00827)|null|
 |**2024-02-29**|**On the Error Analysis of 3D Gaussian Splatting and an Optimal Projection Strategy**|Letian Huang et.al.|[2402.00752](http://arxiv.org/abs/2402.00752)|null|
 |**2024-02-01**|**DRSM: efficient neural 4d decomposition for dynamic reconstruction in stationary monocular cameras**|Weixing Xie et.al.|[2402.00740](http://arxiv.org/abs/2402.00740)|null|
 |**2024-01-06**|**Neural Rendering and Its Hardware Acceleration: A Review**|Xinkai Yan et.al.|[2402.00028](http://arxiv.org/abs/2402.00028)|null|
@@ -4727,7 +4727,7 @@ layout: default
 |**2024-03-01**|**Dual symmetries of dense three and two-color QCD and some QCD-like NJL models**|T. G. Khunjua et.al.|[2403.00444](http://arxiv.org/abs/2403.00444)|null|
 |**2024-03-01**|**CustomListener: Text-guided Responsive Interaction for User-friendly Listening Head Generation**|Xi Liu et.al.|[2403.00274](http://arxiv.org/abs/2403.00274)|null|
 |**2024-02-29**|**SwitchLight: Co-design of Physics-driven Architecture and Pre-training Framework for Human Portrait Relighting**|Hoon Kim et.al.|[2402.18848](http://arxiv.org/abs/2402.18848)|null|
-|**2024-03-08**|**PHNet: Patch-based Normalization for Portrait Harmonization**|Karen Efremyan et.al.|[2402.17561](http://arxiv.org/abs/2402.17561)|**[link](https://github.com/ai-forever/phnet)**|
+|**2024-03-08**|**PHNet: Patch-based Normalization for Portrait Harmonization**|Karen Efremyan et.al.|[2402.17561](http://arxiv.org/abs/2402.17561)|**[link](https://github.com/befozg/phnet)**|
 |**2024-02-27**|**EMO: Emote Portrait Alive -- Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions**|Linrui Tian et.al.|[2402.17485](http://arxiv.org/abs/2402.17485)|null|
 |**2024-02-26**|**Resolution-Agnostic Neural Compression for High-Fidelity Portrait Video Conferencing via Implicit Radiance Fields**|Yifei Li et.al.|[2402.16599](http://arxiv.org/abs/2402.16599)|null|
 |**2024-02-26**|**Uniform large deviations and metastability of random dynamical systems**|Jifa Jiang et.al.|[2402.16522](http://arxiv.org/abs/2402.16522)|null|

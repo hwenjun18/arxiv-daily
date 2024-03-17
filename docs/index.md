@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.16
+## Updated on 2024.03.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -39,7 +39,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-03-14**|**StainFuser: Controlling Diffusion for Faster Neural Style Transfer in Multi-Gigapixel Histology Images**|Robert Jewsbury et.al.|[2403.09302](http://arxiv.org/abs/2403.09302)|null|
+|**2024-03-14**|**StainFuser: Controlling Diffusion for Faster Neural Style Transfer in Multi-Gigapixel Histology Images**|Robert Jewsbury et.al.|[2403.09302](http://arxiv.org/abs/2403.09302)|**[link](https://github.com/r-j96/stainfuser)**|
 |**2024-03-13**|**LMStyle Benchmark: Evaluating Text Style Transfer for Chatbots**|Jianlin Chen et.al.|[2403.08943](http://arxiv.org/abs/2403.08943)|null|
 |**2024-03-13**|**Gaussian Splatting in Style**|Abhishek Saroha et.al.|[2403.08498](http://arxiv.org/abs/2403.08498)|null|
 |**2024-03-13**|**StyleDyRF: Zero-shot 4D Style Transfer for Dynamic Neural Radiance Fields**|Hongbin Xu et.al.|[2403.08310](http://arxiv.org/abs/2403.08310)|null|
@@ -1180,7 +1180,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-03-14**|**SCP-Diff: Photo-Realistic Semantic Image Synthesis with Spatial-Categorical Joint Prior**|Huan-ang Gao et.al.|[2403.09638](http://arxiv.org/abs/2403.09638)|null|
 |**2024-03-14**|**3D-VLA: A 3D Vision-Language-Action Generative World Model**|Haoyu Zhen et.al.|[2403.09631](http://arxiv.org/abs/2403.09631)|null|
-|**2024-03-14**|**Generalized Predictive Model for Autonomous Driving**|Jiazhi Yang et.al.|[2403.09630](http://arxiv.org/abs/2403.09630)|null|
+|**2024-03-14**|**Generalized Predictive Model for Autonomous Driving**|Jiazhi Yang et.al.|[2403.09630](http://arxiv.org/abs/2403.09630)|**[link](https://github.com/opendrivelab/driveagi)**|
 |**2024-03-14**|**Make-Your-3D: Fast and Consistent Subject-Driven 3D Content Generation**|Fangfu Liu et.al.|[2403.09625](http://arxiv.org/abs/2403.09625)|null|
 |**2024-03-14**|**Score-Guided Diffusion for 3D Human Recovery**|Anastasis Stathopoulos et.al.|[2403.09623](http://arxiv.org/abs/2403.09623)|**[link](https://github.com/statho/scorehmr)**|
 |**2024-03-14**|**Explore In-Context Segmentation via Latent Diffusion Models**|Chaoyang Wang et.al.|[2403.09616](http://arxiv.org/abs/2403.09616)|null|

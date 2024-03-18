@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.17
+## Updated on 2024.03.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -51,7 +51,7 @@ layout: default
 |**2024-03-12**|**Quantifying and Mitigating Privacy Risks for Tabular Generative Models**|Chaoyi Zhu et.al.|[2403.07842](http://arxiv.org/abs/2403.07842)|null|
 |**2024-03-12**|**StyleGaussian: Instant 3D Style Transfer with Gaussian Splatting**|Kunhao Liu et.al.|[2403.07807](http://arxiv.org/abs/2403.07807)|null|
 |**2024-03-13**|**Towards Model Extraction Attacks in GAN-Based Image Translation via Domain Shift Mitigation**|Di Mi et.al.|[2403.07673](http://arxiv.org/abs/2403.07673)|null|
-|**2024-03-12**|**Gender-ambiguous voice generation through feminine speaking style transfer in male voices**|Maria Koutsogiannaki et.al.|[2403.07661](http://arxiv.org/abs/2403.07661)|null|
+|**2024-03-15**|**Gender-ambiguous voice generation through feminine speaking style transfer in male voices**|Maria Koutsogiannaki et.al.|[2403.07661](http://arxiv.org/abs/2403.07661)|null|
 |**2024-03-12**|**Auxiliary CycleGAN-guidance for Task-Aware Domain Translation from Duplex to Monoplex IHC Images**|Nicolas Brieu et.al.|[2403.07389](http://arxiv.org/abs/2403.07389)|null|
 |**2024-03-11**|**Data-Independent Operator: A Training-Free Artifact Representation Extractor for Generalizable Deepfake Detection**|Chuangchuang Tan et.al.|[2403.06803](http://arxiv.org/abs/2403.06803)|**[link](https://github.com/chuangchuangtan/data-independent-operator)**|
 |**2024-03-11**|**Galaxy Morphologies Revealed with Subaru HSC and Super-Resolution Techniques II: Environmental Dependence of Galaxy Mergers at z~2-5**|Takatoshi Shibuya et.al.|[2403.06729](http://arxiv.org/abs/2403.06729)|null|

@@ -39,6 +39,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-19**|**NSGAN: A Non-Dominant Sorting Optimisation-Based Generative Adversarial Design Framework for Alloy Discovery**|Zhipeng Li et.al.|[2403.12495](http://arxiv.org/abs/2403.12495)|null|
+|**2024-03-18**|**E2F-Net: Eyes-to-Face Inpainting via StyleGAN Latent Space**|Ahmad Hassanpour et.al.|[2403.12197](http://arxiv.org/abs/2403.12197)|**[link](https://github.com/fatemejamalii/e2f-net)**|
+|**2024-03-19**|**Leveraging Spatial and Semantic Feature Extraction for Skin Cancer Diagnosis with Capsule Networks and Graph Neural Networks**|K. P. Santoso et.al.|[2403.12009](http://arxiv.org/abs/2403.12009)|null|
+|**2024-03-18**|**LayerDiff: Exploring Text-guided Multi-layered Composable Image Synthesis via Layer-Collaborative Diffusion Model**|Runhui Huang et.al.|[2403.11929](http://arxiv.org/abs/2403.11929)|null|
 |**2024-03-18**|**LocalStyleFool: Regional Video Style Transfer Attack Using Segment Anything Model**|Yuxin Cao et.al.|[2403.11656](http://arxiv.org/abs/2403.11656)|null|
 |**2024-03-18**|**VmambaIR: Visual State Space Model for Image Restoration**|Yuan Shi et.al.|[2403.11423](http://arxiv.org/abs/2403.11423)|**[link](https://github.com/alphacatplus/vmambair)**|
 |**2024-03-17**|**Forging the Forger: An Attempt to Improve Authorship Verification via Data Augmentation**|Silvia Corbara et.al.|[2403.11265](http://arxiv.org/abs/2403.11265)|null|
@@ -1188,6 +1192,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-19**|**FouriScale: A Frequency Perspective on Training-Free High-Resolution Image Synthesis**|Linjiang Huang et.al.|[2403.12963](http://arxiv.org/abs/2403.12963)|**[link](https://github.com/leonhlj/fouriscale)**|
+|**2024-03-19**|**FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation**|Shuai Yang et.al.|[2403.12962](http://arxiv.org/abs/2403.12962)|**[link](https://github.com/williamyang1991/fresco)**|
+|**2024-03-19**|**Zero-Reference Low-Light Enhancement via Physical Quadruple Priors**|Wenjing Wang et.al.|[2403.12933](http://arxiv.org/abs/2403.12933)|null|
+|**2024-03-19**|**Ultra-High-Resolution Image Synthesis with Pyramid Diffusion Model**|Jiajie Yang et.al.|[2403.12915](http://arxiv.org/abs/2403.12915)|**[link](https://github.com/rando11199/pyramid-diffusion)**|
+|**2024-03-19**|**D-Cubed: Latent Diffusion Trajectory Optimisation for Dexterous Deformable Manipulation**|Jun Yamada et.al.|[2403.12861](http://arxiv.org/abs/2403.12861)|null|
+|**2024-03-19**|**Generative Enhancement for 3D Medical Images**|Lingting Zhu et.al.|[2403.12852](http://arxiv.org/abs/2403.12852)|**[link](https://github.com/hku-medai/gem-3d)**|
+|**2024-03-19**|**Compositional 3D Scene Synthesis with Scene Graph Guided Layout-Shape Generation**|Yao Wei et.al.|[2403.12848](http://arxiv.org/abs/2403.12848)|null|
+|**2024-03-19**|**DreamDA: Generative Data Augmentation with Diffusion Models**|Yunxiang Fu et.al.|[2403.12803](http://arxiv.org/abs/2403.12803)|**[link](https://github.com/yunxiangfu2001/dreamda)**|
+|**2024-03-19**|**WaveFace: Authentic Face Restoration with Efficient Frequency Recovery**|Yunqi Miao et.al.|[2403.12760](http://arxiv.org/abs/2403.12760)|null|
+|**2024-03-19**|**Towards Controllable Face Generation with Semantic Latent Diffusion Models**|Alex Ergasti et.al.|[2403.12743](http://arxiv.org/abs/2403.12743)|**[link](https://github.com/ergastialex/ldm-diffusion-sem)**|
+|**2024-03-19**|**AnimateDiff-Lightning: Cross-Model Diffusion Distillation**|Shanchuan Lin et.al.|[2403.12706](http://arxiv.org/abs/2403.12706)|null|
+|**2024-03-19**|**Tuning-Free Image Customization with Image and Text Guidance**|Pengzhi Li et.al.|[2403.12658](http://arxiv.org/abs/2403.12658)|null|
+|**2024-03-19**|**LASPA: Latent Spatial Alignment for Fast Training-free Single Image Editing**|Yazeed Alharbi et.al.|[2403.12585](http://arxiv.org/abs/2403.12585)|null|
+|**2024-03-19**|**Generalized Consistency Trajectory Models for Image Manipulation**|Beomsu Kim et.al.|[2403.12510](http://arxiv.org/abs/2403.12510)|**[link](https://github.com/1202kbs/gctm)**|
+|**2024-03-19**|**SC-Diff: 3D Shape Completion with Latent Diffusion Models**|Juan D. Galvis et.al.|[2403.12470](http://arxiv.org/abs/2403.12470)|null|
+|**2024-03-19**|**Do Generated Data Always Help Contrastive Learning?**|Yifei Wang et.al.|[2403.12448](http://arxiv.org/abs/2403.12448)|**[link](https://github.com/pku-ml/adainf)**|
+|**2024-03-19**|**Precise-Physics Driven Text-to-3D Generation**|Qingshan Xu et.al.|[2403.12438](http://arxiv.org/abs/2403.12438)|null|
+|**2024-03-19**|**ComboVerse: Compositional 3D Assets Creation Using Spatially-Aware Diffusion Guidance**|Yongwei Chen et.al.|[2403.12409](http://arxiv.org/abs/2403.12409)|null|
+|**2024-03-19**|**Understanding Training-free Diffusion Guidance: Mechanisms and Limitations**|Yifei Shen et.al.|[2403.12404](http://arxiv.org/abs/2403.12404)|null|
+|**2024-03-19**|**OV9D: Open-Vocabulary Category-Level 9D Object Pose and Size Estimation**|Junhao Cai et.al.|[2403.12396](http://arxiv.org/abs/2403.12396)|null|
 |**2024-03-18**|**Generalized Multi-Source Inference for Text Conditioned Music Diffusion Models**|Emilian Postolache et.al.|[2403.11706](http://arxiv.org/abs/2403.11706)|**[link](https://github.com/gladia-research-group/gmsdi)**|
 |**2024-03-19**|**Urban Scene Diffusion through Semantic Occupancy Map**|Junge Zhang et.al.|[2403.11697](http://arxiv.org/abs/2403.11697)|null|
 |**2024-03-18**|**Binary Noise for Binary Tasks: Masked Bernoulli Diffusion for Unsupervised Anomaly Detection**|Julia Wolleb et.al.|[2403.11667](http://arxiv.org/abs/2403.11667)|null|
@@ -4021,6 +4045,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-19**|**Multispectral Image Restoration by Generalized Opponent Transformation Total Variation**|Zhantao Ma et.al.|[2403.12770](http://arxiv.org/abs/2403.12770)|null|
+|**2024-03-19**|**LASPA: Latent Spatial Alignment for Fast Training-free Single Image Editing**|Yazeed Alharbi et.al.|[2403.12585](http://arxiv.org/abs/2403.12585)|null|
+|**2024-03-19**|**Generalized Consistency Trajectory Models for Image Manipulation**|Beomsu Kim et.al.|[2403.12510](http://arxiv.org/abs/2403.12510)|**[link](https://github.com/1202kbs/gctm)**|
+|**2024-03-18**|**Fast High-Resolution Image Synthesis with Latent Adversarial Diffusion Distillation**|Axel Sauer et.al.|[2403.12015](http://arxiv.org/abs/2403.12015)|null|
+|**2024-03-18**|**DreamMotion: Space-Time Self-Similarity Score Distillation for Zero-Shot Video Editing**|Hyeonho Jeong et.al.|[2403.12002](http://arxiv.org/abs/2403.12002)|null|
+|**2024-03-18**|**LayerDiff: Exploring Text-guided Multi-layered Composable Image Synthesis via Layer-Collaborative Diffusion Model**|Runhui Huang et.al.|[2403.11929](http://arxiv.org/abs/2403.11929)|null|
+|**2024-03-18**|**View-Consistent 3D Editing with Gaussian Splatting**|Yuxuan Wang et.al.|[2403.11868](http://arxiv.org/abs/2403.11868)|null|
 |**2024-03-18**|**EffiVED:Efficient Video Editing via Text-instruction Diffusion Models**|Zhenghao Zhang et.al.|[2403.11568](http://arxiv.org/abs/2403.11568)|null|
 |**2024-03-18**|**Diffusion Models are Geometry Critics: Single Image 3D Editing Using Pre-Trained Diffusion Priors**|Ruicheng Wang et.al.|[2403.11503](http://arxiv.org/abs/2403.11503)|null|
 |**2024-03-18**|**CasSR: Activating Image Power for Real-World Image Super-Resolution**|Haolan Chen et.al.|[2403.11451](http://arxiv.org/abs/2403.11451)|null|
@@ -4580,6 +4611,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-18**|**FLex: Joint Pose and Dynamic Radiance Fields Optimization for Stereo Endoscopic Videos**|Florian Philipp Stilz et.al.|[2403.12198](http://arxiv.org/abs/2403.12198)|null|
+|**2024-03-18**|**LN3Diff: Scalable Latent Neural Fields Diffusion for Speedy 3D Generation**|Yushi Lan et.al.|[2403.12019](http://arxiv.org/abs/2403.12019)|null|
+|**2024-03-18**|**RoGUENeRF: A Robust Geometry-Consistent Universal Enhancer for NeRF**|Sibi Catley-Chandar et.al.|[2403.11909](http://arxiv.org/abs/2403.11909)|null|
+|**2024-03-19**|**BAD-Gaussians: Bundle Adjusted Deblur Gaussian Splatting**|Lingzhe Zhao et.al.|[2403.11831](http://arxiv.org/abs/2403.11831)|**[link](https://github.com/WU-CVGL/BAD-Gaussians)**|
 |**2024-03-16**|**HourglassNeRF: Casting an Hourglass as a Bundle of Rays for Few-shot Neural Rendering**|Seunghyeon Seo et.al.|[2403.10906](http://arxiv.org/abs/2403.10906)|null|
 |**2024-03-16**|**DPPE: Dense Pose Estimation in a Plenoxels Environment using Gradient Approximation**|Christopher Kolios et.al.|[2403.10773](http://arxiv.org/abs/2403.10773)|null|
 |**2024-03-18**|**A survey of synthetic data augmentation methods in computer vision**|Alhassan Mumuni et.al.|[2403.10075](http://arxiv.org/abs/2403.10075)|null|

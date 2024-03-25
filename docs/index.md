@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.24
+## Updated on 2024.03.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -40,7 +40,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-03-21**|**Implicit Style-Content Separation using B-LoRA**|Yarden Frenkel et.al.|[2403.14572](http://arxiv.org/abs/2403.14572)|null|
-|**2024-03-21**|**AnyV2V: A Plug-and-Play Framework For Any Video-to-Video Editing Tasks**|Max Ku et.al.|[2403.14468](http://arxiv.org/abs/2403.14468)|null|
+|**2024-03-22**|**AnyV2V: A Plug-and-Play Framework For Any Video-to-Video Editing Tasks**|Max Ku et.al.|[2403.14468](http://arxiv.org/abs/2403.14468)|null|
 |**2024-03-20**|**Enhancing Fingerprint Image Synthesis with GANs, Diffusion Models, and Style Transfer Techniques**|W. Tang et.al.|[2403.13916](http://arxiv.org/abs/2403.13916)|null|
 |**2024-03-20**|**The Bid Picture: Auction-Inspired Multi-player Generative Adversarial Networks Training**|Joo Yong Shim et.al.|[2403.13866](http://arxiv.org/abs/2403.13866)|null|
 |**2024-03-20**|**IIDM: Image-to-Image Diffusion Model for Semantic Image Synthesis**|Feng Liu et.al.|[2403.13378](http://arxiv.org/abs/2403.13378)|**[link](https://github.com/ader47/jittor-jieke-semantic_images_synthesis)**|
@@ -4090,7 +4090,7 @@ layout: default
 |**2024-03-21**|**AdaIR: Adaptive All-in-One Image Restoration via Frequency Mining and Modulation**|Yuning Cui et.al.|[2403.14614](http://arxiv.org/abs/2403.14614)|**[link](https://github.com/c-yn/adair)**|
 |**2024-03-21**|**ReNoise: Real Image Inversion Through Iterative Noising**|Daniel Garibi et.al.|[2403.14602](http://arxiv.org/abs/2403.14602)|null|
 |**2024-03-21**|**DesignEdit: Multi-Layered Latent Decomposition and Fusion for Unified & Accurate Image Editing**|Yueru Jia et.al.|[2403.14487](http://arxiv.org/abs/2403.14487)|null|
-|**2024-03-21**|**AnyV2V: A Plug-and-Play Framework For Any Video-to-Video Editing Tasks**|Max Ku et.al.|[2403.14468](http://arxiv.org/abs/2403.14468)|null|
+|**2024-03-22**|**AnyV2V: A Plug-and-Play Framework For Any Video-to-Video Editing Tasks**|Max Ku et.al.|[2403.14468](http://arxiv.org/abs/2403.14468)|null|
 |**2024-03-20**|**SeFFeC: Semantic Facial Feature Control for Fine-grained Face Editing**|Florian Strohm et.al.|[2403.13972](http://arxiv.org/abs/2403.13972)|null|
 |**2024-03-20**|**Step-Calibrated Diffusion for Biomedical Optical Image Restoration**|Yiwei Lyu et.al.|[2403.13680](http://arxiv.org/abs/2403.13680)|**[link](https://github.com/mlneurosurg/restorative_step-calibrated_diffusion)**|
 |**2024-03-20**|**Ground-A-Score: Scaling Up the Score Distillation for Multi-Attribute Editing**|Hangeol Chang et.al.|[2403.13551](http://arxiv.org/abs/2403.13551)|null|

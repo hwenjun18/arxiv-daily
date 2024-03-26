@@ -39,9 +39,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-25**|**Multi-Scale Texture Loss for CT denoising with GANs**|Francesco Di Feola et.al.|[2403.16640](http://arxiv.org/abs/2403.16640)|**[link](https://github.com/francescodifeola/denotextureloss)**|
+|**2024-03-25**|**Enhancing Cross-Dataset EEG Emotion Recognition: A Novel Approach with Emotional EEG Style Transfer Network**|Yijin Zhou et.al.|[2403.16540](http://arxiv.org/abs/2403.16540)|null|
+|**2024-03-25**|**Training Generative Adversarial Network-Based Vocoder with Limited Data Using Augmentation-Conditional Discriminator**|Takuhiro Kaneko et.al.|[2403.16464](http://arxiv.org/abs/2403.16464)|null|
+|**2024-03-25**|**Illuminating Systematic Trends in Nuclear Data with Generative Machine Learning Models**|Jordan M. R. Fox et.al.|[2403.16389](http://arxiv.org/abs/2403.16389)|null|
+|**2024-03-21**|**Rolling bearing fault diagnosis method based on generative adversarial enhanced multi-scale convolutional neural network model**|Maoxuan Zhou et.al.|[2403.15483](http://arxiv.org/abs/2403.15483)|null|
 |**2024-03-22**|**A Wasserstein perspective of Vanilla GANs**|Lea Kunkel et.al.|[2403.15312](http://arxiv.org/abs/2403.15312)|null|
 |**2024-03-22**|**Robust Utility Optimization via a GAN Approach**|Florian Krach et.al.|[2403.15243](http://arxiv.org/abs/2403.15243)|null|
-|**2024-03-22**|**Geometric Generative Models based on Morphological Equivariant PDEs and GANs**|El Hadji S. Diop et.al.|[2403.14897](http://arxiv.org/abs/2403.14897)|null|
+|**2024-03-25**|**Geometric Generative Models based on Morphological Equivariant PDEs and GANs**|El Hadji S. Diop et.al.|[2403.14897](http://arxiv.org/abs/2403.14897)|null|
 |**2024-03-21**|**Diffusion Attack: Leveraging Stable Diffusion for Naturalistic Image Attacking**|Qianyu Guo et.al.|[2403.14778](http://arxiv.org/abs/2403.14778)|null|
 |**2024-03-21**|**A task of anomaly detection for a smart satellite Internet of things system**|Zilong Shao et.al.|[2403.14738](http://arxiv.org/abs/2403.14738)|null|
 |**2024-03-21**|**Implicit Style-Content Separation using B-LoRA**|Yarden Frenkel et.al.|[2403.14572](http://arxiv.org/abs/2403.14572)|null|
@@ -1202,6 +1207,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-25**|**Improving Diffusion Models's Data-Corruption Resistance using Scheduled Pseudo-Huber Loss**|Artem Khrapov et.al.|[2403.16728](http://arxiv.org/abs/2403.16728)|null|
+|**2024-03-25**|**SDXS: Real-Time One-Step Latent Diffusion Models with Image Conditions**|Yuda Song et.al.|[2403.16627](http://arxiv.org/abs/2403.16627)|null|
+|**2024-03-25**|**SatSynth: Augmenting Image-Mask Pairs through Diffusion Models for Aerial Semantic Segmentation**|Aysim Toker et.al.|[2403.16605](http://arxiv.org/abs/2403.16605)|null|
+|**2024-03-25**|**Antigen-Specific Antibody Design via Direct Energy-based Preference Optimization**|Xiangxin Zhou et.al.|[2403.16576](http://arxiv.org/abs/2403.16576)|null|
+|**2024-03-25**|**An Intermediate Fusion ViT Enables Efficient Text-Image Alignment in Diffusion Models**|Zizhao Hu et.al.|[2403.16530](http://arxiv.org/abs/2403.16530)|null|
+|**2024-03-25**|**Let Real Images be as a Judger, Spotting Fake Images Synthesized with Generative Models**|Ziyou Liang et.al.|[2403.16513](http://arxiv.org/abs/2403.16513)|null|
+|**2024-03-25**|**Make-Your-Anchor: A Diffusion-based 2D Avatar Generation Framework**|Ziyao Huang et.al.|[2403.16510](http://arxiv.org/abs/2403.16510)|**[link](https://github.com/ictmcg/make-your-anchor)**|
+|**2024-03-25**|**Refining Text-to-Image Generation: Towards Accurate Training-Free Glyph-Enhanced Image Generation**|Sanyam Lakhanpal et.al.|[2403.16422](http://arxiv.org/abs/2403.16422)|null|
+|**2024-03-25**|**FlashEval: Towards Fast and Accurate Evaluation of Text-to-image Diffusion Generative Models**|Lin Zhao et.al.|[2403.16379](http://arxiv.org/abs/2403.16379)|null|
+|**2024-03-24**|**Laplacian-guided Entropy Model in Neural Codec with Blur-dissipated Synthesis**|Atefeh Khoshkhahtinat et.al.|[2403.16258](http://arxiv.org/abs/2403.16258)|null|
+|**2024-03-24**|**Skull-to-Face: Anatomy-Guided 3D Facial Reconstruction and Editing**|Yongqing Liang et.al.|[2403.16207](http://arxiv.org/abs/2403.16207)|null|
+|**2024-03-24**|**Diffusion Model is a Good Pose Estimator from 3D RF-Vision**|Junqiao Fan et.al.|[2403.16198](http://arxiv.org/abs/2403.16198)|null|
+|**2024-03-24**|**Pose-Guided Self-Training with Two-Stage Clustering for Unsupervised Landmark Discovery**|Siddharth Tourani et.al.|[2403.16194](http://arxiv.org/abs/2403.16194)|**[link](https://github.com/skt9/pose-proxy-uld)**|
+|**2024-03-24**|**Gaze-guided Hand-Object Interaction Synthesis: Benchmark and Method**|Jie Tian et.al.|[2403.16169](http://arxiv.org/abs/2403.16169)|null|
+|**2024-03-24**|**Robust Diffusion Models for Adversarial Purification**|Guang Lin et.al.|[2403.16067](http://arxiv.org/abs/2403.16067)|null|
+|**2024-03-24**|**A Unified Module for Accelerating STABLE-DIFFUSION: LCM-LORA**|Ayush Thakur et.al.|[2403.16024](http://arxiv.org/abs/2403.16024)|null|
+|**2024-03-23**|**Feature Manipulation for DDPM based Change Detection**|Zhenglin Li et.al.|[2403.15943](http://arxiv.org/abs/2403.15943)|null|
+|**2024-03-23**|**X-Portrait: Expressive Portrait Animation with Hierarchical Motion Attention**|You Xie et.al.|[2403.15931](http://arxiv.org/abs/2403.15931)|null|
+|**2024-03-23**|**Diffusion-based Aesthetic QR Code Generation via Scanning-Robust Perceptual Guidance**|Jia-Wei Liao et.al.|[2403.15878](http://arxiv.org/abs/2403.15878)|**[link](https://github.com/jwliao1209/diffqrcode)**|
+|**2024-03-23**|**In-Context Matting**|He Guo et.al.|[2403.15789](http://arxiv.org/abs/2403.15789)|null|
 |**2024-03-22**|**DiffusionMTL: Learning Multi-Task Denoising Diffusion Model from Partially Annotated Data**|Hanrong Ye et.al.|[2403.15389](http://arxiv.org/abs/2403.15389)|null|
 |**2024-03-22**|**Ultrasound Imaging based on the Variance of a Diffusion Restoration Model**|Yuxin Zhang et.al.|[2403.15316](http://arxiv.org/abs/2403.15316)|null|
 |**2024-03-22**|**Controlled Training Data Generation with Diffusion Models**|Teresa Yeo et.al.|[2403.15309](http://arxiv.org/abs/2403.15309)|null|
@@ -4108,8 +4133,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-25**|**Distilling Semantic Priors from SAM to Efficient Image Restoration Models**|Quan Zhang et.al.|[2403.16368](http://arxiv.org/abs/2403.16368)|null|
+|**2024-03-23**|**Graph Image Prior for Unsupervised Dynamic MRI Reconstruction**|Zhongsen Li et.al.|[2403.15770](http://arxiv.org/abs/2403.15770)|**[link](https://github.com/lizs17/gip_cardiac_mri)**|
+|**2024-03-22**|**Latent Neural Cellular Automata for Resource-Efficient Image Restoration**|Andrea Menta et.al.|[2403.15525](http://arxiv.org/abs/2403.15525)|null|
 |**2024-03-21**|**Osmosis: RGBD Diffusion Prior for Underwater Image Restoration**|Opher Bar Nathan et.al.|[2403.14837](http://arxiv.org/abs/2403.14837)|null|
-|**2024-03-21**|**Multimodal-Conditioned Latent Diffusion Models for Fashion Image Editing**|Alberto Baldrati et.al.|[2403.14828](http://arxiv.org/abs/2403.14828)|null|
+|**2024-03-25**|**Multimodal-Conditioned Latent Diffusion Models for Fashion Image Editing**|Alberto Baldrati et.al.|[2403.14828](http://arxiv.org/abs/2403.14828)|**[link](https://github.com/aimagelab/ti-mgd)**|
 |**2024-03-21**|**AdaIR: Adaptive All-in-One Image Restoration via Frequency Mining and Modulation**|Yuning Cui et.al.|[2403.14614](http://arxiv.org/abs/2403.14614)|**[link](https://github.com/c-yn/adair)**|
 |**2024-03-21**|**ReNoise: Real Image Inversion Through Iterative Noising**|Daniel Garibi et.al.|[2403.14602](http://arxiv.org/abs/2403.14602)|null|
 |**2024-03-21**|**DesignEdit: Multi-Layered Latent Decomposition and Fusion for Unified & Accurate Image Editing**|Yueru Jia et.al.|[2403.14487](http://arxiv.org/abs/2403.14487)|null|
@@ -4684,6 +4712,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-24**|**Are NeRFs ready for autonomous driving? Towards closing the real-to-simulation gap**|Carl Lindström et.al.|[2403.16092](http://arxiv.org/abs/2403.16092)|null|
 |**2024-03-20**|**Advancing 6D Pose Estimation in Augmented Reality -- Overcoming Projection Ambiguity with Uncontrolled Imagery**|Mayura Manawadu et.al.|[2403.13434](http://arxiv.org/abs/2403.13434)|null|
 |**2024-03-18**|**FLex: Joint Pose and Dynamic Radiance Fields Optimization for Stereo Endoscopic Videos**|Florian Philipp Stilz et.al.|[2403.12198](http://arxiv.org/abs/2403.12198)|null|
 |**2024-03-18**|**LN3Diff: Scalable Latent Neural Fields Diffusion for Speedy 3D Generation**|Yushi Lan et.al.|[2403.12019](http://arxiv.org/abs/2403.12019)|null|
@@ -4920,6 +4949,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-23**|**Adaptive Super Resolution For One-Shot Talking-Head Generation**|Luchuan Song et.al.|[2403.15944](http://arxiv.org/abs/2403.15944)|**[link](https://github.com/songluchuan/adasr-talkinghead)**|
+|**2024-03-23**|**X-Portrait: Expressive Portrait Animation with Hierarchical Motion Attention**|You Xie et.al.|[2403.15931](http://arxiv.org/abs/2403.15931)|null|
 |**2024-03-21**|**A Framework for Portrait Stylization with Skin-Tone Awareness and Nudity Identification**|Seungkwon Kim et.al.|[2403.14264](http://arxiv.org/abs/2403.14264)|null|
 |**2024-03-21**|**IDAdapter: Learning Mixed Features for Tuning-Free Personalization of Text-to-Image Models**|Siying Cui et.al.|[2403.13535](http://arxiv.org/abs/2403.13535)|null|
 |**2024-03-17**|**Bifurcation Analysis of an Influenza A (H1N1) Model with Treatment and Vaccination**|Kazi Mehedi Mohammad et.al.|[2403.11277](http://arxiv.org/abs/2403.11277)|null|

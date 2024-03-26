@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.25
+## Updated on 2024.03.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -4877,7 +4877,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-03-04**|**Umwelt: Accessible Structured Editing of Multimodal Data Representations**|Jonathan Zong et.al.|[2403.00106](http://arxiv.org/abs/2403.00106)|null|
 |**2024-02-22**|**Semantic Image Synthesis with Unconditional Generator**|Jungwoo Chae et.al.|[2402.14395](http://arxiv.org/abs/2402.14395)|null|
-|**2024-01-20**|**Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis**|Zhenhui Ye et.al.|[2401.08503](http://arxiv.org/abs/2401.08503)|null|
+|**2024-03-23**|**Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis**|Zhenhui Ye et.al.|[2401.08503](http://arxiv.org/abs/2401.08503)|null|
 |**2023-12-03**|**Efficient Incremental Potential Contact for Actuated Face Simulation**|Bo Li et.al.|[2312.02999](http://arxiv.org/abs/2312.02999)|null|
 |**2023-12-05**|**MyPortrait: Morphable Prior-Guided Personalized Portrait Generation**|Bo Ding et.al.|[2312.02703](http://arxiv.org/abs/2312.02703)|null|
 |**2023-12-02**|**DiffusionTalker: Personalization and Acceleration for Speech-Driven 3D Face Diffuser**|Peng Chen et.al.|[2311.16565](http://arxiv.org/abs/2311.16565)|null|

@@ -51,6 +51,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-03**|**Deep Privacy Funnel Model: From a Discriminative to a Generative Approach with an Application to Face Recognition**|Behrooz Razeghi et.al.|[2404.02696](http://arxiv.org/abs/2404.02696)|null|
+|**2024-04-03**|**Designing a Photonic Physically Unclonable Function Having Resilience to Machine Learning Attacks**|Elena R. Henderson et.al.|[2404.02440](http://arxiv.org/abs/2404.02440)|null|
+|**2024-04-02**|**A Generative Deep Learning Approach for Crash Severity Modeling with Imbalanced Data**|Junlan Chen et.al.|[2404.02187](http://arxiv.org/abs/2404.02187)|null|
+|**2024-04-01**|**Exploring Quantum-Enhanced Machine Learning for Computer Vision: Applications and Insights on Noisy Intermediate-Scale Quantum Devices**|Purnachandra Mandadapu et.al.|[2404.02177](http://arxiv.org/abs/2404.02177)|null|
 |**2024-04-02**|**Red-Teaming Segment Anything Model**|Krzysztof Jankowski et.al.|[2404.02067](http://arxiv.org/abs/2404.02067)|**[link](https://github.com/jankowskichristopher/red-teaming-segment-anything-model)**|
 |**2024-04-02**|**MultiParaDetox: Extending Text Detoxification with Parallel Data to New Languages**|Daryna Dementieva et.al.|[2404.02037](http://arxiv.org/abs/2404.02037)|null|
 |**2024-04-02**|**Enhancing Portfolio Optimization with Transformer-GAN Integration: A Novel Approach in the Black-Litterman Framework**|Enmin Zhu et.al.|[2404.02029](http://arxiv.org/abs/2404.02029)|null|
@@ -1242,6 +1246,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-03**|**LidarDM: Generative LiDAR Simulation in a Generated World**|Vlas Zyrianov et.al.|[2404.02903](http://arxiv.org/abs/2404.02903)|null|
+|**2024-04-03**|**Fast Diffusion Model For Seismic Data Noise Attenuation**|Junheng Peng et.al.|[2404.02767](http://arxiv.org/abs/2404.02767)|null|
+|**2024-04-03**|**Cross-Attention Makes Inference Cumbersome in Text-to-Image Diffusion Models**|Wentian Zhang et.al.|[2404.02747](http://arxiv.org/abs/2404.02747)|**[link](https://github.com/haozheliu-st/t-gate)**|
+|**2024-04-03**|**Deep Privacy Funnel Model: From a Discriminative to a Generative Approach with an Application to Face Recognition**|Behrooz Razeghi et.al.|[2404.02696](http://arxiv.org/abs/2404.02696)|null|
+|**2024-04-03**|**Diffexplainer: Towards Cross-modal Global Explanations with Diffusion Models**|Matteo Pennisi et.al.|[2404.02618](http://arxiv.org/abs/2404.02618)|null|
+|**2024-04-03**|**A Unified Editing Method for Co-Speech Gesture Generation via Diffusion Inversion**|Zeyu Zhao et.al.|[2404.02411](http://arxiv.org/abs/2404.02411)|null|
+|**2024-04-03**|**Enhancing Diffusion-based Point Cloud Generation with Smoothness Constraint**|Yukun Li et.al.|[2404.02396](http://arxiv.org/abs/2404.02396)|null|
+|**2024-04-02**|**Semantic Augmentation in Images using Language**|Sahiti Yerramilli et.al.|[2404.02353](http://arxiv.org/abs/2404.02353)|null|
+|**2024-04-02**|**Heat Death of Generative Models in Closed-Loop Learning**|Matteo Marchi et.al.|[2404.02325](http://arxiv.org/abs/2404.02325)|null|
+|**2024-04-02**|**APEX: Ambidextrous Dual-Arm Robotic Manipulation Using Collision-Free Generative Diffusion Models**|Apan Dastider et.al.|[2404.02284](http://arxiv.org/abs/2404.02284)|null|
+|**2024-04-02**|**Linear Combination of Saved Checkpoints Makes Consistency and Diffusion Models Better**|Enshu Liu et.al.|[2404.02241](http://arxiv.org/abs/2404.02241)|**[link](https://github.com/imagination-research/lcsc)**|
 |**2024-04-02**|**Diffusion $^2$ : Dynamic 3D Content Generation via Score Composition of Orthogonal Diffusion Models**|Zeyu Yang et.al.|[2404.02148](http://arxiv.org/abs/2404.02148)|**[link](https://github.com/fudan-zvg/diffusion-square)**|
 |**2024-04-02**|**WcDT: World-centric Diffusion Transformer for Traffic Scene Generation**|Chen Yang et.al.|[2404.02082](http://arxiv.org/abs/2404.02082)|**[link](https://github.com/yangchen1997/wcdt)**|
 |**2024-04-03**|**AUTODIFF: Autoregressive Diffusion Modeling for Structure-based Drug Design**|Xinze Li et.al.|[2404.02003](http://arxiv.org/abs/2404.02003)|null|
@@ -4257,6 +4272,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-03**|**Deep Image Composition Meets Image Forgery**|Eren Tahir et.al.|[2404.02897](http://arxiv.org/abs/2404.02897)|**[link](https://github.com/99eren99/dis25k)**|
+|**2024-04-03**|**MULAN: A Multi Layer Annotated Dataset for Controllable Text-to-Image Generation**|Petru-Daniel Tudosiu et.al.|[2404.02790](http://arxiv.org/abs/2404.02790)|null|
 |**2024-04-02**|**Dynamic Pre-training: Towards Efficient and Scalable All-in-One Image Restoration**|Akshay Dudhane et.al.|[2404.02154](http://arxiv.org/abs/2404.02154)|null|
 |**2024-04-02**|**3D Congealing: 3D-Aware Image Alignment in the Wild**|Yunzhi Zhang et.al.|[2404.02125](http://arxiv.org/abs/2404.02125)|null|
 |**2024-04-02**|**Fashion Style Editing with Generative Human Prior**|Chaerin Kong et.al.|[2404.01984](http://arxiv.org/abs/2404.01984)|null|

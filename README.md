@@ -51,6 +51,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-04**|**Mitigating analytical variability in fMRI results with style transfer**|Elodie Germani et.al.|[2404.03703](http://arxiv.org/abs/2404.03703)|null|
 |**2024-04-04**|**RaFE: Generative Radiance Fields Restoration**|Zhongkai Wu et.al.|[2404.03654](http://arxiv.org/abs/2404.03654)|null|
 |**2024-04-04**|**Reference-Based 3D-Aware Image Editing with Triplane**|Bahri Batuhan Bilecen et.al.|[2404.03632](http://arxiv.org/abs/2404.03632)|null|
 |**2024-04-04**|**Integrating Generative AI into Financial Market Prediction for Improved Decision Making**|Chang Che et.al.|[2404.03523](http://arxiv.org/abs/2404.03523)|null|
@@ -1253,6 +1254,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-05**|**Identity Decoupling for Multi-Subject Personalization of Text-to-Image Models**|Sangwon Jang et.al.|[2404.04243](http://arxiv.org/abs/2404.04243)|null|
+|**2024-04-05**|**ToolEENet: Tool Affordance 6D Pose Estimation**|Yunlong Wang et.al.|[2404.04193](http://arxiv.org/abs/2404.04193)|null|
+|**2024-04-05**|**Dynamic Prompt Optimizing for Text-to-Image Generation**|Wenyi Mo et.al.|[2404.04095](http://arxiv.org/abs/2404.04095)|**[link](https://github.com/mowenyii/pae)**|
+|**2024-04-05**|**Score identity Distillation: Exponentially Fast Distillation of Pretrained Diffusion Models for One-Step Generation**|Mingyuan Zhou et.al.|[2404.04057](http://arxiv.org/abs/2404.04057)|null|
+|**2024-04-05**|**Concept Weaver: Enabling Multi-Concept Fusion in Text-to-Image Models**|Gihyun Kwon et.al.|[2404.03913](http://arxiv.org/abs/2404.03913)|null|
+|**2024-04-04**|**Bi-level Guided Diffusion Models for Zero-Shot Medical Imaging Inverse Problems**|Hossein Askari et.al.|[2404.03706](http://arxiv.org/abs/2404.03706)|null|
+|**2024-04-04**|**Mitigating analytical variability in fMRI results with style transfer**|Elodie Germani et.al.|[2404.03703](http://arxiv.org/abs/2404.03703)|null|
 |**2024-04-04**|**MVD-Fusion: Single-view 3D via Depth-consistent Multi-view Generation**|Hanzhe Hu et.al.|[2404.03656](http://arxiv.org/abs/2404.03656)|null|
 |**2024-04-04**|**CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching**|Dongzhi Jiang et.al.|[2404.03653](http://arxiv.org/abs/2404.03653)|**[link](https://github.com/Karine-Huang/T2I-CompBench)**|
 |**2024-04-04**|**The More You See in 2D, the More You Perceive in 3D**|Xinyang Han et.al.|[2404.03652](http://arxiv.org/abs/2404.03652)|null|
@@ -4905,6 +4913,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-05**|**3D Facial Expressions through Analysis-by-Neural-Synthesis**|George Retsinas et.al.|[2404.04104](http://arxiv.org/abs/2404.04104)|null|
 |**2024-04-02**|**Efficient 3D Implicit Head Avatar with Mesh-anchored Hash Table Blendshapes**|Ziqian Bai et.al.|[2404.01543](http://arxiv.org/abs/2404.01543)|null|
 |**2024-04-01**|**SGCNeRF: Few-Shot Neural Rendering via Sparse Geometric Consistency Guidance**|Yuru Xiao et.al.|[2404.00992](http://arxiv.org/abs/2404.00992)|null|
 |**2024-03-29**|**SGD: Street View Synthesis with Gaussian Splatting and Diffusion Prior**|Zhongrui Yu et.al.|[2403.20079](http://arxiv.org/abs/2403.20079)|null|

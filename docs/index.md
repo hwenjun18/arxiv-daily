@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.08
+## Updated on 2024.04.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -40,7 +40,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-04**|**Mitigating analytical variability in fMRI results with style transfer**|Elodie Germani et.al.|[2404.03703](http://arxiv.org/abs/2404.03703)|null|
-|**2024-04-04**|**RaFE: Generative Radiance Fields Restoration**|Zhongkai Wu et.al.|[2404.03654](http://arxiv.org/abs/2404.03654)|null|
+|**2024-04-07**|**RaFE: Generative Radiance Fields Restoration**|Zhongkai Wu et.al.|[2404.03654](http://arxiv.org/abs/2404.03654)|null|
 |**2024-04-04**|**Reference-Based 3D-Aware Image Editing with Triplane**|Bahri Batuhan Bilecen et.al.|[2404.03632](http://arxiv.org/abs/2404.03632)|null|
 |**2024-04-04**|**Integrating Generative AI into Financial Market Prediction for Improved Decision Making**|Chang Che et.al.|[2404.03523](http://arxiv.org/abs/2404.03523)|null|
 |**2024-04-04**|**Knowledge Distillation-Based Model Extraction Attack using Private Counterfactual Explanations**|Fatima Ezzeddine et.al.|[2404.03348](http://arxiv.org/abs/2404.03348)|null|
@@ -54,11 +54,11 @@ layout: default
 |**2024-04-02**|**Red-Teaming Segment Anything Model**|Krzysztof Jankowski et.al.|[2404.02067](http://arxiv.org/abs/2404.02067)|**[link](https://github.com/jankowskichristopher/red-teaming-segment-anything-model)**|
 |**2024-04-02**|**MultiParaDetox: Extending Text Detoxification with Parallel Data to New Languages**|Daryna Dementieva et.al.|[2404.02037](http://arxiv.org/abs/2404.02037)|null|
 |**2024-04-04**|**Enhancing Portfolio Optimization with Transformer-GAN Integration: A Novel Approach in the Black-Litterman Framework**|Enmin Zhu et.al.|[2404.02029](http://arxiv.org/abs/2404.02029)|null|
-|**2024-04-02**|**Bi-LORA: A Vision-Language Approach for Synthetic Image Detection**|Mamadou Keita et.al.|[2404.01959](http://arxiv.org/abs/2404.01959)|null|
+|**2024-04-07**|**Bi-LORA: A Vision-Language Approach for Synthetic Image Detection**|Mamadou Keita et.al.|[2404.01959](http://arxiv.org/abs/2404.01959)|null|
 |**2024-03-31**|**Privacy Re-identification Attacks on Tabular GANs**|Abdallah Alshantti et.al.|[2404.00696](http://arxiv.org/abs/2404.00696)|null|
 |**2024-03-31**|**GAN with Skip Patch Discriminator for Biological Electron Microscopy Image Generation**|Nishith Ranjon Roy et.al.|[2404.00558](http://arxiv.org/abs/2404.00558)|null|
 |**2024-03-31**|**Creating synthetic energy meter data using conditional diffusion and building metadata**|Chun Fu et.al.|[2404.00525](http://arxiv.org/abs/2404.00525)|**[link](https://github.com/buds-lab/energy-diffusion)**|
-|**2024-04-02**|**CHAIN: Enhancing Generalization in Data-Efficient GANs via lipsCHitz continuity constrAIned Normalization**|Yao Ni et.al.|[2404.00521](http://arxiv.org/abs/2404.00521)|null|
+|**2024-04-07**|**CHAIN: Enhancing Generalization in Data-Efficient GANs via lipsCHitz continuity constrAIned Normalization**|Yao Ni et.al.|[2404.00521](http://arxiv.org/abs/2404.00521)|null|
 |**2024-03-29**|**Deepfake Sentry: Harnessing Ensemble Intelligence for Resilient Detection and Generalisation**|Liviu-Daniel Ştefan et.al.|[2404.00114](http://arxiv.org/abs/2404.00114)|null|
 |**2024-03-29**|**Molecular Generative Adversarial Network with Multi-Property Optimization**|Huidong Tang et.al.|[2404.00081](http://arxiv.org/abs/2404.00081)|null|
 |**2024-03-28**|**GANTASTIC: GAN-based Transfer of Interpretable Directions for Disentangled Image Editing in Text-to-Image Diffusion Models**|Yusuf Dalva et.al.|[2403.19645](http://arxiv.org/abs/2403.19645)|null|

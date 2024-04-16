@@ -39,6 +39,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-15**|**VFLGAN: Vertical Federated Learning-based Generative Adversarial Network for Vertically Partitioned Data Publication**|Xun Yuan et.al.|[2404.09722](http://arxiv.org/abs/2404.09722)|null|
+|**2024-04-15**|**Text-Driven Diverse Facial Texture Generation via Progressive Latent-Space Refinement**|Chi Wang et.al.|[2404.09540](http://arxiv.org/abs/2404.09540)|null|
+|**2024-04-15**|**Improved Object-Based Style Transfer with Single Deep Network**|Harshmohan Kulkarni et.al.|[2404.09461](http://arxiv.org/abs/2404.09461)|null|
+|**2024-04-14**|**Counteracting Concept Drift by Learning with Future Malware Predictions**|Branislav Bosansky et.al.|[2404.09352](http://arxiv.org/abs/2404.09352)|null|
+|**2024-04-12**|**Single-image driven 3d viewpoint training data augmentation for effective wine label recognition**|Yueh-Cheng Huang et.al.|[2404.08820](http://arxiv.org/abs/2404.08820)|null|
+|**2024-04-12**|**Multi-Branch Generative Models for Multichannel Imaging with an Application to PET/CT Joint Reconstruction**|Noel Jeffrey Pinton et.al.|[2404.08748](http://arxiv.org/abs/2404.08748)|null|
+|**2024-04-12**|**Synthesis of Through-Wall Micro-Doppler Signatures of Human Motions Using Generative Adversarial Networks**|Kainat Yasmeen Shobha Sundar Ram et.al.|[2404.08739](http://arxiv.org/abs/2404.08739)|null|
+|**2024-04-11**|**Synthetic Brain Images: Bridging the Gap in Brain Mapping With Generative Adversarial Model**|Drici Mourad et.al.|[2404.08703](http://arxiv.org/abs/2404.08703)|null|
 |**2024-04-12**|**An improved tabular data generator with VAE-GMM integration**|Patricia A. Apellániz et.al.|[2404.08434](http://arxiv.org/abs/2404.08434)|null|
 |**2024-04-11**|**GAN-based iterative motion estimation in HASTE MRI**|Mathias S. Feinler et.al.|[2404.07576](http://arxiv.org/abs/2404.07576)|null|
 |**2024-04-11**|**ObjBlur: A Curriculum Learning Approach With Progressive Object-Level Blurring for Improved Layout-to-Image Generation**|Stanislav Frolov et.al.|[2404.07564](http://arxiv.org/abs/2404.07564)|null|
@@ -1266,6 +1274,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-15**|**Equipping Diffusion Models with Differentiable Spatial Entropy for Low-Light Image Enhancement**|Wenyi Lian et.al.|[2404.09735](http://arxiv.org/abs/2404.09735)|**[link](https://github.com/shermanlian/spatial-entropy-loss)**|
+|**2024-04-15**|**Photo-Realistic Image Restoration in the Wild with Controlled Vision-Language Models**|Ziwei Luo et.al.|[2404.09732](http://arxiv.org/abs/2404.09732)|**[link](https://github.com/algolzw/daclip-uir)**|
+|**2024-04-15**|**All-in-one simulation-based inference**|Manuel Gloeckler et.al.|[2404.09636](http://arxiv.org/abs/2404.09636)|**[link](https://github.com/mackelab/simformer)**|
+|**2024-04-15**|**TMPQ-DM: Joint Timestep Reduction and Quantization Precision Selection for Efficient Diffusion Models**|Haojun Sun et.al.|[2404.09532](http://arxiv.org/abs/2404.09532)|null|
+|**2024-04-15**|**Magic Clothing: Controllable Garment-Driven Image Synthesis**|Weifeng Chen et.al.|[2404.09512](http://arxiv.org/abs/2404.09512)|**[link](https://github.com/shinechen1024/magicclothing)**|
+|**2024-04-15**|**PhyScene: Physically Interactable 3D Scene Synthesis for Embodied AI**|Yandan Yang et.al.|[2404.09465](http://arxiv.org/abs/2404.09465)|null|
+|**2024-04-15**|**Watermark-embedded Adversarial Examples for Copyright Protection against Diffusion Models**|Peifei Zhu et.al.|[2404.09401](http://arxiv.org/abs/2404.09401)|null|
+|**2024-04-14**|**Fault Detection in Mobile Networks Using Diffusion Models**|Mohamad Nabeel et.al.|[2404.09240](http://arxiv.org/abs/2404.09240)|null|
+|**2024-04-14**|**DreamScape: 3D Scene Creation via Gaussian Splatting joint Correlation Modeling**|Xuening Yuan et.al.|[2404.09227](http://arxiv.org/abs/2404.09227)|null|
+|**2024-04-14**|**LoopAnimate: Loopable Salient Object Animation**|Fanyi Wang et.al.|[2404.09172](http://arxiv.org/abs/2404.09172)|null|
+|**2024-04-14**|**RF-Diffusion: Radio Signal Generation via Time-Frequency Diffusion**|Guoxuan Chi et.al.|[2404.09140](http://arxiv.org/abs/2404.09140)|**[link](https://github.com/mobicom24/rf-diffusion)**|
+|**2024-04-13**|**Rethinking Iterative Stereo Matching from Diffusion Bridge Model Perspective**|Yuguang Shi et.al.|[2404.09051](http://arxiv.org/abs/2404.09051)|null|
+|**2024-04-13**|**Theoretical research on generative diffusion models: an overview**|Melike Nur Yeğin et.al.|[2404.09016](http://arxiv.org/abs/2404.09016)|null|
+|**2024-04-13**|**Multimodal Cross-Document Event Coreference Resolution Using Linear Semantic Transfer and Mixed-Modality Ensembles**|Abhijnan Nath et.al.|[2404.08949](http://arxiv.org/abs/2404.08949)|**[link](https://github.com/csu-signal/multimodal-coreference)**|
+|**2024-04-13**|**Enforcing Paraphrase Generation via Controllable Latent Diffusion**|Wei Zou et.al.|[2404.08938](http://arxiv.org/abs/2404.08938)|**[link](https://github.com/nil-zhuang/ld4pg)**|
+|**2024-04-13**|**Diffusion Models Meet Remote Sensing: Principles, Methods, and Perspectives**|Yidan Liu et.al.|[2404.08926](http://arxiv.org/abs/2404.08926)|null|
+|**2024-04-13**|**ChangeAnywhere: Sample Generation for Remote Sensing Change Detection via Semantic Latent Diffusion Model**|Kai Tang et.al.|[2404.08892](http://arxiv.org/abs/2404.08892)|null|
+|**2024-04-12**|**Semantic Approach to Quantifying the Consistency of Diffusion Model Image Generation**|Brinnae Bent et.al.|[2404.08799](http://arxiv.org/abs/2404.08799)|null|
+|**2024-04-12**|**Diffusion-Based Joint Temperature and Precipitation Emulation of Earth System Models**|Katie Christensen et.al.|[2404.08797](http://arxiv.org/abs/2404.08797)|null|
 |**2024-04-12**|**Lossy Image Compression with Foundation Diffusion Models**|Lucas Relic et.al.|[2404.08580](http://arxiv.org/abs/2404.08580)|null|
 |**2024-04-12**|**PiRD: Physics-informed Residual Diffusion for Flow Field Reconstruction**|Siming Shan et.al.|[2404.08412](http://arxiv.org/abs/2404.08412)|null|
 |**2024-04-12**|**Struggle with Adversarial Defense? Try Diffusion**|Yujie Li et.al.|[2404.08273](http://arxiv.org/abs/2404.08273)|null|
@@ -4379,6 +4406,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-15**|**Equipping Diffusion Models with Differentiable Spatial Entropy for Low-Light Image Enhancement**|Wenyi Lian et.al.|[2404.09735](http://arxiv.org/abs/2404.09735)|**[link](https://github.com/shermanlian/spatial-entropy-loss)**|
+|**2024-04-15**|**Photo-Realistic Image Restoration in the Wild with Controlled Vision-Language Models**|Ziwei Luo et.al.|[2404.09732](http://arxiv.org/abs/2404.09732)|**[link](https://github.com/algolzw/daclip-uir)**|
 |**2024-04-11**|**TBSN: Transformer-Based Blind-Spot Network for Self-Supervised Image Denoising**|Junyi Li et.al.|[2404.07846](http://arxiv.org/abs/2404.07846)|**[link](https://github.com/nagejacob/tbsn)**|
 |**2024-04-11**|**Joint Conditional Diffusion Model for Image Restoration with Mixed Degradations**|Yufeng Yue et.al.|[2404.07770](http://arxiv.org/abs/2404.07770)|null|
 |**2024-04-10**|**Object-Conditioned Energy-Based Attention Map Alignment in Text-to-Image Diffusion Models**|Yasi Zhang et.al.|[2404.07389](http://arxiv.org/abs/2404.07389)|null|
@@ -4993,6 +5022,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-15**|**3D Gaussian Splatting as Markov Chain Monte Carlo**|Shakiba Kheradmand et.al.|[2404.09591](http://arxiv.org/abs/2404.09591)|null|
 |**2024-04-10**|**Flying with Photons: Rendering Novel Views of Propagating Light**|Anagh Malik et.al.|[2404.06493](http://arxiv.org/abs/2404.06493)|null|
 |**2024-04-09**|**HFNeRF: Learning Human Biomechanic Features with Neural Radiance Fields**|Arnab Dey et.al.|[2404.06152](http://arxiv.org/abs/2404.06152)|null|
 |**2024-04-06**|**DATENeRF: Depth-Aware Text-based Editing of NeRFs**|Sara Rojas et.al.|[2404.04526](http://arxiv.org/abs/2404.04526)|null|
@@ -5005,7 +5035,7 @@ layout: default
 |**2024-03-28**|**Within the Dynamic Context: Inertia-aware 3D Human Modeling with Pose Sequence**|Yutong Chen et.al.|[2403.19160](http://arxiv.org/abs/2403.19160)|null|
 |**2024-03-29**|**Towards 3D Vision with Low-Cost Single-Photon Cameras**|Fangzhou Mu et.al.|[2403.17801](http://arxiv.org/abs/2403.17801)|null|
 |**2024-03-25**|**GSDF: 3DGS Meets SDF for Improved Rendering and Reconstruction**|Mulin Yu et.al.|[2403.16964](http://arxiv.org/abs/2403.16964)|null|
-|**2024-03-24**|**Are NeRFs ready for autonomous driving? Towards closing the real-to-simulation gap**|Carl Lindström et.al.|[2403.16092](http://arxiv.org/abs/2403.16092)|null|
+|**2024-04-15**|**Are NeRFs ready for autonomous driving? Towards closing the real-to-simulation gap**|Carl Lindström et.al.|[2403.16092](http://arxiv.org/abs/2403.16092)|null|
 |**2024-03-20**|**Advancing 6D Pose Estimation in Augmented Reality -- Overcoming Projection Ambiguity with Uncontrolled Imagery**|Mayura Manawadu et.al.|[2403.13434](http://arxiv.org/abs/2403.13434)|null|
 |**2024-03-18**|**FLex: Joint Pose and Dynamic Radiance Fields Optimization for Stereo Endoscopic Videos**|Florian Philipp Stilz et.al.|[2403.12198](http://arxiv.org/abs/2403.12198)|null|
 |**2024-03-18**|**LN3Diff: Scalable Latent Neural Fields Diffusion for Speedy 3D Generation**|Yushi Lan et.al.|[2403.12019](http://arxiv.org/abs/2403.12019)|null|
@@ -5242,6 +5272,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-15**|**From laminar to chaotic flow via stochastic resonance in viscoelastic channel flow**|Yuke Li et.al.|[2404.09508](http://arxiv.org/abs/2404.09508)|null|
 |**2024-04-08**|**Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs**|Keen You et.al.|[2404.05719](http://arxiv.org/abs/2404.05719)|null|
 |**2024-04-04**|**Reference-Based 3D-Aware Image Editing with Triplane**|Bahri Batuhan Bilecen et.al.|[2404.03632](http://arxiv.org/abs/2404.03632)|null|
 |**2024-04-01**|**BadPart: Unified Black-box Adversarial Patch Attacks against Pixel-wise Regression Tasks**|Zhiyuan Cheng et.al.|[2404.00924](http://arxiv.org/abs/2404.00924)|null|

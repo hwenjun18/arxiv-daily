@@ -51,6 +51,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-18**|**Alleviating Catastrophic Forgetting in Facial Expression Recognition with Emotion-Centered Models**|Israel A. Laurensi et.al.|[2404.12260](http://arxiv.org/abs/2404.12260)|null|
+|**2024-04-18**|**Generating synthetic electroretinogram waveforms using Artificial Intelligence to improve classification of retinal conditions in under-represented populations**|Mikhail Kulyabin et.al.|[2404.11842](http://arxiv.org/abs/2404.11842)|null|
+|**2024-04-18**|**Tailoring Generative Adversarial Networks for Smooth Airfoil Design**|Joyjit Chattoraj et.al.|[2404.11816](http://arxiv.org/abs/2404.11816)|null|
 |**2024-04-17**|**Towards Highly Realistic Artistic Style Transfer via Stable Diffusion with Step-aware and Layer-aware Prompt**|Zhanjie Zhang et.al.|[2404.11474](http://arxiv.org/abs/2404.11474)|**[link](https://github.com/jamie-cheung/lsast)**|
 |**2024-04-17**|**What-if Analysis Framework for Digital Twins in 6G Wireless Network Management**|Elif Ak et.al.|[2404.11394](http://arxiv.org/abs/2404.11394)|null|
 |**2024-04-17**|**KI-GAN: Knowledge-Informed Generative Adversarial Networks for Enhanced Multi-Vehicle Trajectory Forecasting at Signalized Intersections**|Chuheng Wei et.al.|[2404.11181](http://arxiv.org/abs/2404.11181)|**[link](https://github.com/chuhengwei/ki_gan)**|
@@ -1295,6 +1298,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-18**|**G-HOP: Generative Hand-Object Prior for Interaction Reconstruction and Grasp Synthesis**|Yufei Ye et.al.|[2404.12383](http://arxiv.org/abs/2404.12383)|null|
+|**2024-04-18**|**Learning the Domain Specific Inverse NUFFT for Accelerated Spiral MRI using Diffusion Models**|Trevor J. Chan et.al.|[2404.12361](http://arxiv.org/abs/2404.12361)|null|
+|**2024-04-18**|**AniClipart: Clipart Animation with Text-to-Video Priors**|Ronghuan Wu et.al.|[2404.12347](http://arxiv.org/abs/2404.12347)|null|
+|**2024-04-18**|**Guided Discrete Diffusion for Electronic Health Record Generation**|Zixiang Chen et.al.|[2404.12314](http://arxiv.org/abs/2404.12314)|null|
+|**2024-04-18**|**StyleBooth: Image Style Editing with Multimodal Instruction**|Zhen Han et.al.|[2404.12154](http://arxiv.org/abs/2404.12154)|null|
+|**2024-04-18**|**LD-Pruner: Efficient Pruning of Latent Diffusion Models using Task-Agnostic Insights**|Thibault Castells et.al.|[2404.11936](http://arxiv.org/abs/2404.11936)|null|
+|**2024-04-18**|**FreeDiff: Progressive Frequency Truncation for Image Editing with Diffusion Models**|Wei Wu et.al.|[2404.11895](http://arxiv.org/abs/2404.11895)|null|
+|**2024-04-17**|**Prompt-Driven Feature Diffusion for Open-World Semi-Supervised Learning**|Marzi Heidari et.al.|[2404.11795](http://arxiv.org/abs/2404.11795)|null|
+|**2024-04-17**|**Diffusion Schrödinger Bridge Models for High-Quality MR-to-CT Synthesis for Head and Neck Proton Treatment Planning**|Muheng Li et.al.|[2404.11741](http://arxiv.org/abs/2404.11741)|null|
 |**2024-04-17**|**Factorized Diffusion: Perceptual Illusions by Noise Decomposition**|Daniel Geng et.al.|[2404.11615](http://arxiv.org/abs/2404.11615)|null|
 |**2024-04-17**|**IntrinsicAnything: Learning Diffusion Priors for Inverse Rendering Under Unknown Illumination**|Xi Chen et.al.|[2404.11593](http://arxiv.org/abs/2404.11593)|null|
 |**2024-04-17**|**Prompt Optimizer of Text-to-Image Diffusion Models for Abstract Concept Understanding**|Zezhong Fan et.al.|[2404.11589](http://arxiv.org/abs/2404.11589)|null|
@@ -4461,6 +4473,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-18**|**Lazy Diffusion Transformer for Interactive Image Editing**|Yotam Nitzan et.al.|[2404.12382](http://arxiv.org/abs/2404.12382)|null|
+|**2024-04-18**|**Customizing Text-to-Image Diffusion with Camera Viewpoint Control**|Nupur Kumari et.al.|[2404.12333](http://arxiv.org/abs/2404.12333)|null|
+|**2024-04-18**|**StyleBooth: Image Style Editing with Multimodal Instruction**|Zhen Han et.al.|[2404.12154](http://arxiv.org/abs/2404.12154)|null|
+|**2024-04-18**|**FreeDiff: Progressive Frequency Truncation for Image Editing with Diffusion Models**|Wei Wu et.al.|[2404.11895](http://arxiv.org/abs/2404.11895)|null|
+|**2024-04-17**|**CU-Mamba: Selective State Space Models with Channel Learning for Image Restoration**|Rui Deng et.al.|[2404.11778](http://arxiv.org/abs/2404.11778)|null|
 |**2024-04-17**|**AdaIR: Exploiting Underlying Similarities of Image Restoration Tasks with Adapters**|Hao-Wei Chen et.al.|[2404.11475](http://arxiv.org/abs/2404.11475)|null|
 |**2024-04-17**|**TiNO-Edit: Timestep and Noise Optimization for Robust Diffusion-Based Image Editing**|Sherry X. Chen et.al.|[2404.11120](http://arxiv.org/abs/2404.11120)|**[link](https://github.com/sherryxtchen/tino-edit)**|
 |**2024-04-16**|**Improving Bracket Image Restoration and Enhancement with Flow-guided Alignment and Enhanced Feature Aggregation**|Wenjie Lin et.al.|[2404.10358](http://arxiv.org/abs/2404.10358)|null|
@@ -5086,6 +5103,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-18**|**Inverse Neural Rendering for Explainable Multi-Object Tracking**|Julian Ost et.al.|[2404.12359](http://arxiv.org/abs/2404.12359)|null|
+|**2024-04-18**|**Cicero: Addressing Algorithmic and Architectural Bottlenecks in Neural Rendering by Radiance Warping and Memory Optimizations**|Yu Feng et.al.|[2404.11852](http://arxiv.org/abs/2404.11852)|null|
 |**2024-04-17**|**RainyScape: Unsupervised Rainy Scene Reconstruction using Decoupled Neural Rendering**|Xianqiang Lyu et.al.|[2404.11401](http://arxiv.org/abs/2404.11401)|null|
 |**2024-04-16**|**Portrait3D: Text-Guided High-Quality 3D Portrait Generation Using Pyramid Representation and GANs Prior**|Yiqian Wu et.al.|[2404.10394](http://arxiv.org/abs/2404.10394)|null|
 |**2024-04-16**|**Plug-and-Play Acceleration of Occupancy Grid-based NeRF Rendering using VDB Grid and Hierarchical Ray Traversal**|Yoshio Kato et.al.|[2404.10272](http://arxiv.org/abs/2404.10272)|**[link](https://github.com/yosshi999/faster-occgrid)**|
@@ -5343,6 +5362,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-18**|**Portrait comparison of binary and weighted Skill Relatedness Networks**|Sergio A. De Raco et.al.|[2404.12193](http://arxiv.org/abs/2404.12193)|null|
 |**2024-04-17**|**Deep Portrait Quality Assessment. A NTIRE 2024 Challenge Survey**|Nicolas Chahine et.al.|[2404.11159](http://arxiv.org/abs/2404.11159)|**[link](https://github.com/dxomark-research/piq2023)**|
 |**2024-04-16**|**Portrait3D: Text-Guided High-Quality 3D Portrait Generation Using Pyramid Representation and GANs Prior**|Yiqian Wu et.al.|[2404.10394](http://arxiv.org/abs/2404.10394)|null|
 |**2024-04-15**|**EdgeRelight360: Text-Conditioned 360-Degree HDR Image Generation for Real-Time On-Device Video Portrait Relighting**|Min-Hui Lin et.al.|[2404.09918](http://arxiv.org/abs/2404.09918)|null|

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.23
+## Updated on 2024.04.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -44,7 +44,7 @@ layout: default
 |**2024-04-22**|**A Comparative Study on Enhancing Prediction in Social Network Advertisement through Data Augmentation**|Qikai Yang et.al.|[2404.13812](http://arxiv.org/abs/2404.13812)|null|
 |**2024-04-21**|**Counterfactual Reasoning Using Predicted Latent Personality Dimensions for Optimizing Persuasion Outcome**|Donghuo Zeng et.al.|[2404.13792](http://arxiv.org/abs/2404.13792)|null|
 |**2024-04-21**|**Towards General Conceptual Model Editing via Adversarial Representation Engineering**|Yihao Zhang et.al.|[2404.13752](http://arxiv.org/abs/2404.13752)|**[link](https://github.com/zhang-yihao/adversarial-representation-engineering)**|
-|**2024-04-21**|**A Dataset and Model for Realistic License Plate Deblurring**|Haoyan Gong et.al.|[2404.13677](http://arxiv.org/abs/2404.13677)|**[link](https://github.com/haoygong/lpdgan)**|
+|**2024-04-23**|**A Dataset and Model for Realistic License Plate Deblurring**|Haoyan Gong et.al.|[2404.13677](http://arxiv.org/abs/2404.13677)|**[link](https://github.com/haoygong/lpdgan)**|
 |**2024-04-21**|**Bt-GAN: Generating Fair Synthetic Healthdata via Bias-transforming Generative Adversarial Networks**|Resmi Ramachandranpillai et.al.|[2404.13634](http://arxiv.org/abs/2404.13634)|null|
 |**2024-04-21**|**Rethink Arbitrary Style Transfer with Transformer and Contrastive Learning**|Zhanjie Zhang et.al.|[2404.13584](http://arxiv.org/abs/2404.13584)|null|
 |**2024-04-21**|**Exploring Diverse Methods in Visual Question Answering**|Panfeng Li et.al.|[2404.13565](http://arxiv.org/abs/2404.13565)|null|
@@ -1310,12 +1310,12 @@ layout: default
 |**2024-04-22**|**Face2Face: Label-driven Facial Retouching Restoration**|Guanhua Zhao et.al.|[2404.14177](http://arxiv.org/abs/2404.14177)|null|
 |**2024-04-22**|**FLDM-VTON: Faithful Latent Diffusion Model for Virtual Try-on**|Chenhui Wang et.al.|[2404.14162](http://arxiv.org/abs/2404.14162)|null|
 |**2024-04-22**|**Generative Artificial Intelligence Assisted Wireless Sensing: Human Flow Detection in Practical Communication Environments**|Jiacheng Wang et.al.|[2404.14140](http://arxiv.org/abs/2404.14140)|null|
-|**2024-04-22**|**RingID: Rethinking Tree-Ring Watermarking for Enhanced Multi-Key Identification**|Hai Ci et.al.|[2404.14055](http://arxiv.org/abs/2404.14055)|null|
+|**2024-04-23**|**RingID: Rethinking Tree-Ring Watermarking for Enhanced Multi-Key Identification**|Hai Ci et.al.|[2404.14055](http://arxiv.org/abs/2404.14055)|null|
 |**2024-04-22**|**RHanDS: Refining Malformed Hands for Generated Images with Decoupled Structure and Style Guidance**|Chengrui Wang et.al.|[2404.13984](http://arxiv.org/abs/2404.13984)|null|
 |**2024-04-22**|**MaterialSeg3D: Segmenting Dense Materials from 2D Priors for 3D Assets**|Zeyu Li et.al.|[2404.13923](http://arxiv.org/abs/2404.13923)|null|
-|**2024-04-22**|**Accelerating Image Generation with Sub-path Linear Approximation Model**|Chen Xu et.al.|[2404.13903](http://arxiv.org/abs/2404.13903)|null|
+|**2024-04-23**|**Accelerating Image Generation with Sub-path Linear Approximation Model**|Chen Xu et.al.|[2404.13903](http://arxiv.org/abs/2404.13903)|null|
 |**2024-04-22**|**Towards Better Text-to-Image Generation Alignment via Attention Modulation**|Yihang Wu et.al.|[2404.13899](http://arxiv.org/abs/2404.13899)|null|
-|**2024-04-22**|**Decoherence of a charged Brownian particle in a magnetic field : an analysis of the roles of coupling via position and momentum variables**|Suraka Bhattacharjee et.al.|[2404.13883](http://arxiv.org/abs/2404.13883)|null|
+|**2024-04-23**|**Decoherence of a charged Brownian particle in a magnetic field : an analysis of the roles of coupling via position and momentum variables**|Suraka Bhattacharjee et.al.|[2404.13883](http://arxiv.org/abs/2404.13883)|null|
 |**2024-04-21**|**Universal Fingerprint Generation: Controllable Diffusion Model with Multimodal Conditions**|Steven A. Grosz et.al.|[2404.13791](http://arxiv.org/abs/2404.13791)|null|
 |**2024-04-21**|**Object-Attribute Binding in Text-to-Image Generation: Evaluation and Control**|Maria Mihaela Trusca et.al.|[2404.13766](http://arxiv.org/abs/2404.13766)|null|
 |**2024-04-21**|**A Splice Method for Local-to-Nonlocal Coupling of Weak Forms**|Shuai Jiang et.al.|[2404.13744](http://arxiv.org/abs/2404.13744)|null|
@@ -4510,7 +4510,7 @@ layout: default
 |**2024-04-22**|**GeoDiffuser: Geometry-Based Image Editing with Diffusion Models**|Rahul Sajnani et.al.|[2404.14403](http://arxiv.org/abs/2404.14403)|null|
 |**2024-04-22**|**Face2Face: Label-driven Facial Retouching Restoration**|Guanhua Zhao et.al.|[2404.14177](http://arxiv.org/abs/2404.14177)|null|
 |**2024-04-22**|**CRNet: A Detail-Preserving Network for Unified Image Restoration and Enhancement Task**|Kangzhen Yang et.al.|[2404.14132](http://arxiv.org/abs/2404.14132)|**[link](https://github.com/calvinyang0/crnet)**|
-|**2024-04-21**|**LASER: Tuning-Free LLM-Driven Attention Control for Efficient Text-conditioned Image-to-Animation**|Haoyu Zheng et.al.|[2404.13558](http://arxiv.org/abs/2404.13558)|null|
+|**2024-04-23**|**LASER: Tuning-Free LLM-Driven Attention Control for Efficient Text-conditioned Image-to-Animation**|Haoyu Zheng et.al.|[2404.13558](http://arxiv.org/abs/2404.13558)|null|
 |**2024-04-21**|**Bracketing Image Restoration and Enhancement with High-Low Frequency Decomposition**|Genggeng Chen et.al.|[2404.13537](http://arxiv.org/abs/2404.13537)|null|
 |**2024-04-20**|**PCQA: A Strong Baseline for AIGC Quality Assessment Based on Prompt Condition**|Xi Fang et.al.|[2404.13299](http://arxiv.org/abs/2404.13299)|null|
 |**2024-04-18**|**Lazy Diffusion Transformer for Interactive Image Editing**|Yotam Nitzan et.al.|[2404.12382](http://arxiv.org/abs/2404.12382)|null|

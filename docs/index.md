@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.25
+## Updated on 2024.04.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -54,7 +54,7 @@ layout: default
 |**2024-04-21**|**Rethink Arbitrary Style Transfer with Transformer and Contrastive Learning**|Zhanjie Zhang et.al.|[2404.13584](http://arxiv.org/abs/2404.13584)|null|
 |**2024-04-21**|**Exploring Diverse Methods in Visual Question Answering**|Panfeng Li et.al.|[2404.13565](http://arxiv.org/abs/2404.13565)|null|
 |**2024-04-21**|**Generalized Regression with Conditional GANs**|Deddy Jobson et.al.|[2404.13500](http://arxiv.org/abs/2404.13500)|**[link](https://github.com/deddyjobson/regressgan)**|
-|**2024-04-19**|**DensePANet: An improved generative adversarial network for photoacoustic tomography image reconstruction from sparse data**|Hesam hakimnejad et.al.|[2404.13101](http://arxiv.org/abs/2404.13101)|null|
+|**2024-04-19**|**DensePANet: An improved generative adversarial network for photoacoustic tomography image reconstruction from sparse data**|Hesam Hakimnejad et.al.|[2404.13101](http://arxiv.org/abs/2404.13101)|null|
 |**2024-04-19**|**RadRotator: 3D Rotation of Radiographs with Diffusion Models**|Pouria Rouzrokh et.al.|[2404.13000](http://arxiv.org/abs/2404.13000)|null|
 |**2024-04-19**|**Explainable Deepfake Video Detection using Convolutional Neural Network and CapsuleNet**|Gazi Hasin Ishrak et.al.|[2404.12841](http://arxiv.org/abs/2404.12841)|null|
 |**2024-04-19**|**PATE-TripleGAN: Privacy-Preserving Image Synthesis with Gaussian Differential Privacy**|Zepeng Jiang et.al.|[2404.12730](http://arxiv.org/abs/2404.12730)|null|
@@ -1306,7 +1306,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-24**|**Optimizing OOD Detection in Molecular Graphs: A Novel Approach with Diffusion Models**|Xu Shen et.al.|[2404.15625](http://arxiv.org/abs/2404.15625)|null|
-|**2024-04-24**|**A Dynamic Kernel Prior Model for Unsupervised Blind Image Super-Resolution**|Zhixiong Yang et.al.|[2404.15620](http://arxiv.org/abs/2404.15620)|null|
+|**2024-04-24**|**A Dynamic Kernel Prior Model for Unsupervised Blind Image Super-Resolution**|Zhixiong Yang et.al.|[2404.15620](http://arxiv.org/abs/2404.15620)|**[link](https://github.com/XYLGroup/DKP)**|
 |**2024-04-23**|**ID-Aligner: Enhancing Identity-Preserving Text-to-Image Generation with Reward Feedback Learning**|Weifeng Chen et.al.|[2404.15449](http://arxiv.org/abs/2404.15449)|null|
 |**2024-04-23**|**GLoD: Composing Global Contexts and Local Details in Image Generation**|Moyuru Yamada et.al.|[2404.15447](http://arxiv.org/abs/2404.15447)|null|
 |**2024-04-23**|**ControlTraj: Controllable Trajectory Generation with Topology-Constrained Diffusion Model**|Yuanshao Zhu et.al.|[2404.15380](http://arxiv.org/abs/2404.15380)|null|
@@ -1316,7 +1316,7 @@ layout: default
 |**2024-04-23**|**Perturbing Attention Gives You More Bang for the Buck: Subtle Imaging Perturbations That Efficiently Fool Customized Diffusion Models**|Jingyao Xu et.al.|[2404.15081](http://arxiv.org/abs/2404.15081)|null|
 |**2024-04-23**|**Music Style Transfer With Diffusion Model**|Hong Huang et.al.|[2404.14771](http://arxiv.org/abs/2404.14771)|null|
 |**2024-04-23**|**Gradient Guidance for Diffusion Models: An Optimization Perspective**|Yingqing Guo et.al.|[2404.14743](http://arxiv.org/abs/2404.14743)|null|
-|**2024-04-24**|**FlashSpeech: Efficient Zero-Shot Speech Synthesis**|Zhen Ye et.al.|[2404.14700](http://arxiv.org/abs/2404.14700)|null|
+|**2024-04-25**|**FlashSpeech: Efficient Zero-Shot Speech Synthesis**|Zhen Ye et.al.|[2404.14700](http://arxiv.org/abs/2404.14700)|null|
 |**2024-04-23**|**DreamPBR: Text-driven Generation of High-resolution SVBRDF with Multi-modal Guidance**|Linxuan Xin et.al.|[2404.14676](http://arxiv.org/abs/2404.14676)|null|
 |**2024-04-22**|**UVMap-ID: A Controllable and Personalized UV Map Generative Model**|Weijie Wang et.al.|[2404.14568](http://arxiv.org/abs/2404.14568)|null|
 |**2024-04-22**|**Align Your Steps: Optimizing Sampling Schedules in Diffusion Models**|Amirmojtaba Sabour et.al.|[2404.14507](http://arxiv.org/abs/2404.14507)|null|
@@ -4527,12 +4527,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-24**|**A Dynamic Kernel Prior Model for Unsupervised Blind Image Super-Resolution**|Zhixiong Yang et.al.|[2404.15620](http://arxiv.org/abs/2404.15620)|null|
+|**2024-04-24**|**A Dynamic Kernel Prior Model for Unsupervised Blind Image Super-Resolution**|Zhixiong Yang et.al.|[2404.15620](http://arxiv.org/abs/2404.15620)|**[link](https://github.com/XYLGroup/DKP)**|
 |**2024-04-22**|**GeoDiffuser: Geometry-Based Image Editing with Diffusion Models**|Rahul Sajnani et.al.|[2404.14403](http://arxiv.org/abs/2404.14403)|null|
 |**2024-04-22**|**Face2Face: Label-driven Facial Retouching Restoration**|Guanhua Zhao et.al.|[2404.14177](http://arxiv.org/abs/2404.14177)|null|
 |**2024-04-22**|**CRNet: A Detail-Preserving Network for Unified Image Restoration and Enhancement Task**|Kangzhen Yang et.al.|[2404.14132](http://arxiv.org/abs/2404.14132)|**[link](https://github.com/calvinyang0/crnet)**|
 |**2024-04-23**|**LASER: Tuning-Free LLM-Driven Attention Control for Efficient Text-conditioned Image-to-Animation**|Haoyu Zheng et.al.|[2404.13558](http://arxiv.org/abs/2404.13558)|null|
-|**2024-04-24**|**Bracketing Image Restoration and Enhancement with High-Low Frequency Decomposition**|Genggeng Chen et.al.|[2404.13537](http://arxiv.org/abs/2404.13537)|null|
+|**2024-04-24**|**Bracketing Image Restoration and Enhancement with High-Low Frequency Decomposition**|Genggeng Chen et.al.|[2404.13537](http://arxiv.org/abs/2404.13537)|**[link](https://github.com/chengeng0613/hlnet)**|
 |**2024-04-20**|**PCQA: A Strong Baseline for AIGC Quality Assessment Based on Prompt Condition**|Xi Fang et.al.|[2404.13299](http://arxiv.org/abs/2404.13299)|null|
 |**2024-04-18**|**Lazy Diffusion Transformer for Interactive Image Editing**|Yotam Nitzan et.al.|[2404.12382](http://arxiv.org/abs/2404.12382)|null|
 |**2024-04-18**|**Customizing Text-to-Image Diffusion with Camera Viewpoint Control**|Nupur Kumari et.al.|[2404.12333](http://arxiv.org/abs/2404.12333)|null|

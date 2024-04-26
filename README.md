@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.25
+## Updated on 2024.04.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -45,7 +45,7 @@
 |**2022-11-21**|**Towards Live 3D Reconstruction from Wearable Video: An Evaluation of V-SLAM, NeRF, and Videogrammetry Techniques**|David Ramirez et.al.|[2211.11836](http://arxiv.org/abs/2211.11836)|null|
 |**2022-11-14**|**Controllable GAN Synthesis Using Non-Rigid Structure-from-Motion**|René Haas et.al.|[2211.07195](http://arxiv.org/abs/2211.07195)|null|
 
-<p align=right>(<a href=#Updated-on-20240425>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240426>back to top</a>)</p>
 
 ## GAN
 
@@ -66,7 +66,7 @@
 |**2024-04-21**|**Rethink Arbitrary Style Transfer with Transformer and Contrastive Learning**|Zhanjie Zhang et.al.|[2404.13584](http://arxiv.org/abs/2404.13584)|null|
 |**2024-04-21**|**Exploring Diverse Methods in Visual Question Answering**|Panfeng Li et.al.|[2404.13565](http://arxiv.org/abs/2404.13565)|null|
 |**2024-04-21**|**Generalized Regression with Conditional GANs**|Deddy Jobson et.al.|[2404.13500](http://arxiv.org/abs/2404.13500)|**[link](https://github.com/deddyjobson/regressgan)**|
-|**2024-04-19**|**DensePANet: An improved generative adversarial network for photoacoustic tomography image reconstruction from sparse data**|Hesam hakimnejad et.al.|[2404.13101](http://arxiv.org/abs/2404.13101)|null|
+|**2024-04-19**|**DensePANet: An improved generative adversarial network for photoacoustic tomography image reconstruction from sparse data**|Hesam Hakimnejad et.al.|[2404.13101](http://arxiv.org/abs/2404.13101)|null|
 |**2024-04-19**|**RadRotator: 3D Rotation of Radiographs with Diffusion Models**|Pouria Rouzrokh et.al.|[2404.13000](http://arxiv.org/abs/2404.13000)|null|
 |**2024-04-19**|**Explainable Deepfake Video Detection using Convolutional Neural Network and CapsuleNet**|Gazi Hasin Ishrak et.al.|[2404.12841](http://arxiv.org/abs/2404.12841)|null|
 |**2024-04-19**|**PATE-TripleGAN: Privacy-Preserving Image Synthesis with Gaussian Differential Privacy**|Zepeng Jiang et.al.|[2404.12730](http://arxiv.org/abs/2404.12730)|null|
@@ -1313,14 +1313,14 @@
 |**2023-03-14**|**3D Face Arbitrary Style Transfer**|Xiangwen Deng et.al.|[2303.07709](http://arxiv.org/abs/2303.07709)|null|
 |**2023-03-13**|**AGTGAN: Unpaired Image Translation for Photographic Ancient Character Generation**|Hongxiang Huang et.al.|[2303.07012](http://arxiv.org/abs/2303.07012)|**[link](https://github.com/hellomystery/agtgan)**|
 
-<p align=right>(<a href=#Updated-on-20240425>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240426>back to top</a>)</p>
 
 ## Diffusion Model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-04-24**|**Optimizing OOD Detection in Molecular Graphs: A Novel Approach with Diffusion Models**|Xu Shen et.al.|[2404.15625](http://arxiv.org/abs/2404.15625)|null|
-|**2024-04-24**|**A Dynamic Kernel Prior Model for Unsupervised Blind Image Super-Resolution**|Zhixiong Yang et.al.|[2404.15620](http://arxiv.org/abs/2404.15620)|null|
+|**2024-04-24**|**A Dynamic Kernel Prior Model for Unsupervised Blind Image Super-Resolution**|Zhixiong Yang et.al.|[2404.15620](http://arxiv.org/abs/2404.15620)|**[link](https://github.com/XYLGroup/DKP)**|
 |**2024-04-23**|**ID-Aligner: Enhancing Identity-Preserving Text-to-Image Generation with Reward Feedback Learning**|Weifeng Chen et.al.|[2404.15449](http://arxiv.org/abs/2404.15449)|null|
 |**2024-04-23**|**GLoD: Composing Global Contexts and Local Details in Image Generation**|Moyuru Yamada et.al.|[2404.15447](http://arxiv.org/abs/2404.15447)|null|
 |**2024-04-23**|**ControlTraj: Controllable Trajectory Generation with Topology-Constrained Diffusion Model**|Yuanshao Zhu et.al.|[2404.15380](http://arxiv.org/abs/2404.15380)|null|
@@ -1330,7 +1330,7 @@
 |**2024-04-23**|**Perturbing Attention Gives You More Bang for the Buck: Subtle Imaging Perturbations That Efficiently Fool Customized Diffusion Models**|Jingyao Xu et.al.|[2404.15081](http://arxiv.org/abs/2404.15081)|null|
 |**2024-04-23**|**Music Style Transfer With Diffusion Model**|Hong Huang et.al.|[2404.14771](http://arxiv.org/abs/2404.14771)|null|
 |**2024-04-23**|**Gradient Guidance for Diffusion Models: An Optimization Perspective**|Yingqing Guo et.al.|[2404.14743](http://arxiv.org/abs/2404.14743)|null|
-|**2024-04-24**|**FlashSpeech: Efficient Zero-Shot Speech Synthesis**|Zhen Ye et.al.|[2404.14700](http://arxiv.org/abs/2404.14700)|null|
+|**2024-04-25**|**FlashSpeech: Efficient Zero-Shot Speech Synthesis**|Zhen Ye et.al.|[2404.14700](http://arxiv.org/abs/2404.14700)|null|
 |**2024-04-23**|**DreamPBR: Text-driven Generation of High-resolution SVBRDF with Multi-modal Guidance**|Linxuan Xin et.al.|[2404.14676](http://arxiv.org/abs/2404.14676)|null|
 |**2024-04-22**|**UVMap-ID: A Controllable and Personalized UV Map Generative Model**|Weijie Wang et.al.|[2404.14568](http://arxiv.org/abs/2404.14568)|null|
 |**2024-04-22**|**Align Your Steps: Optimizing Sampling Schedules in Diffusion Models**|Amirmojtaba Sabour et.al.|[2404.14507](http://arxiv.org/abs/2404.14507)|null|
@@ -4537,18 +4537,18 @@
 |**2023-03-15**|**DiffBEV: Conditional Diffusion Model for Bird's Eye View Perception**|Jiayu Zou et.al.|[2303.08333](http://arxiv.org/abs/2303.08333)|**[link](https://github.com/jiayuzou2020/diffbev)**|
 |**2023-03-16**|**VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation**|Zhengxiong Luo et.al.|[2303.08320](http://arxiv.org/abs/2303.08320)|null|
 
-<p align=right>(<a href=#Updated-on-20240425>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240426>back to top</a>)</p>
 
 ## Image Edit
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-24**|**A Dynamic Kernel Prior Model for Unsupervised Blind Image Super-Resolution**|Zhixiong Yang et.al.|[2404.15620](http://arxiv.org/abs/2404.15620)|null|
+|**2024-04-24**|**A Dynamic Kernel Prior Model for Unsupervised Blind Image Super-Resolution**|Zhixiong Yang et.al.|[2404.15620](http://arxiv.org/abs/2404.15620)|**[link](https://github.com/XYLGroup/DKP)**|
 |**2024-04-22**|**GeoDiffuser: Geometry-Based Image Editing with Diffusion Models**|Rahul Sajnani et.al.|[2404.14403](http://arxiv.org/abs/2404.14403)|null|
 |**2024-04-22**|**Face2Face: Label-driven Facial Retouching Restoration**|Guanhua Zhao et.al.|[2404.14177](http://arxiv.org/abs/2404.14177)|null|
 |**2024-04-22**|**CRNet: A Detail-Preserving Network for Unified Image Restoration and Enhancement Task**|Kangzhen Yang et.al.|[2404.14132](http://arxiv.org/abs/2404.14132)|**[link](https://github.com/calvinyang0/crnet)**|
 |**2024-04-23**|**LASER: Tuning-Free LLM-Driven Attention Control for Efficient Text-conditioned Image-to-Animation**|Haoyu Zheng et.al.|[2404.13558](http://arxiv.org/abs/2404.13558)|null|
-|**2024-04-24**|**Bracketing Image Restoration and Enhancement with High-Low Frequency Decomposition**|Genggeng Chen et.al.|[2404.13537](http://arxiv.org/abs/2404.13537)|null|
+|**2024-04-24**|**Bracketing Image Restoration and Enhancement with High-Low Frequency Decomposition**|Genggeng Chen et.al.|[2404.13537](http://arxiv.org/abs/2404.13537)|**[link](https://github.com/chengeng0613/hlnet)**|
 |**2024-04-20**|**PCQA: A Strong Baseline for AIGC Quality Assessment Based on Prompt Condition**|Xi Fang et.al.|[2404.13299](http://arxiv.org/abs/2404.13299)|null|
 |**2024-04-18**|**Lazy Diffusion Transformer for Interactive Image Editing**|Yotam Nitzan et.al.|[2404.12382](http://arxiv.org/abs/2404.12382)|null|
 |**2024-04-18**|**Customizing Text-to-Image Diffusion with Camera Viewpoint Control**|Nupur Kumari et.al.|[2404.12333](http://arxiv.org/abs/2404.12333)|null|
@@ -5174,7 +5174,7 @@
 |**2023-02-20**|**A Large Scale Homography Benchmark**|Daniel Barath et.al.|[2302.09997](http://arxiv.org/abs/2302.09997)|null|
 |**2023-02-19**|**LC-NeRF: Local Controllable Face Generation in Neural Randiance Field**|Wenyang Zhou et.al.|[2302.09486](http://arxiv.org/abs/2302.09486)|null|
 
-<p align=right>(<a href=#Updated-on-20240425>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240426>back to top</a>)</p>
 
 ## NeRF
 
@@ -5392,7 +5392,7 @@
 |**2022-12-30**|**NeRF-Gaze: A Head-Eye Redirection Parametric Model for Gaze Estimation**|Pengwei Yin et.al.|[2212.14710](http://arxiv.org/abs/2212.14710)|null|
 |**2023-03-21**|**Masked Wavelet Representation for Compact Neural Radiance Fields**|Daniel Rho et.al.|[2212.09069](http://arxiv.org/abs/2212.09069)|**[link](https://github.com/daniel03c1/masked_wavelet_nerf)**|
 
-<p align=right>(<a href=#Updated-on-20240425>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240426>back to top</a>)</p>
 
 ## Reshaping
 
@@ -5439,7 +5439,7 @@
 |**2022-05-13**|**F3A-GAN: Facial Flow for Face Animation with Generative Adversarial Networks**|Xintian Wu et.al.|[2205.06204](http://arxiv.org/abs/2205.06204)|null|
 |**2022-03-16**|**Efficient conditioned face animation using frontally-viewed embedding**|Maxime Oquab et.al.|[2203.08765](http://arxiv.org/abs/2203.08765)|null|
 
-<p align=right>(<a href=#Updated-on-20240425>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240426>back to top</a>)</p>
 
 ## Portrait 
 
@@ -5687,7 +5687,7 @@
 |**2023-03-01**|**DPE: Disentanglement of Pose and Expression for General Video Portrait Editing**|Youxin Pang et.al.|[2301.06281](http://arxiv.org/abs/2301.06281)|null|
 |**2023-01-03**|**StyleTalk: One-shot Talking Head Generation with Controllable Speaking Styles**|Yifeng Ma et.al.|[2301.01081](http://arxiv.org/abs/2301.01081)|**[link](https://github.com/fuxivirtualhuman/styletalk)**|
 
-<p align=right>(<a href=#Updated-on-20240425>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240426>back to top</a>)</p>
 
 ## Transfomer
 
@@ -5723,5 +5723,5 @@
 |**2012-01-21**|**Interior Static Stellar Model with Electric Charge as an Oscillator**|A. M. Baranov et.al.|[1201.4429](http://arxiv.org/abs/1201.4429)|null|
 |**2011-05-16**|**Exactness of the Euclidean algorithm and of the Rauzy induction on the space of interval exchange transfomations**|Tomasz Miernowski et.al.|[1104.3980](http://arxiv.org/abs/1104.3980)|null|
 
-<p align=right>(<a href=#Updated-on-20240425>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240426>back to top</a>)</p>
 

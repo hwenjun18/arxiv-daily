@@ -39,6 +39,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-24**|**Guardians of the Quantum GAN**|Archisman Ghosh et.al.|[2404.16156](http://arxiv.org/abs/2404.16156)|null|
+|**2024-04-24**|**Quantitative Characterization of Retinal Features in Translated OCTA**|Rashadul Hasan Badhon et.al.|[2404.16133](http://arxiv.org/abs/2404.16133)|null|
+|**2024-04-24**|**HDDGAN: A Heterogeneous Dual-Discriminator Generative Adversarial Network for Infrared and Visible Image Fusion**|Guosheng Lu et.al.|[2404.15992](http://arxiv.org/abs/2404.15992)|null|
+|**2024-04-24**|**Toward Physics-Aware Deep Learning Architectures for LiDAR Intensity Simulation**|Vivek Anand et.al.|[2404.15774](http://arxiv.org/abs/2404.15774)|null|
+|**2024-04-24**|**SRAGAN: Saliency Regularized and Attended Generative Adversarial Network for Chinese Ink-wash Painting Generation**|Xiang Gao et.al.|[2404.15743](http://arxiv.org/abs/2404.15743)|null|
+|**2024-04-24**|**Site-Specific Ground Motion Generative Model for Crustal Earthquakes in Japan Based on Generative Adversarial Networks**|Yuma Matsumoto et.al.|[2404.15640](http://arxiv.org/abs/2404.15640)|null|
 |**2024-04-24**|**Security Analysis of WiFi-based Sensing Systems: Threats from Perturbation Attacks**|Hangcheng Cao et.al.|[2404.15587](http://arxiv.org/abs/2404.15587)|null|
 |**2024-04-23**|**CoARF: Controllable 3D Artistic Style Transfer for Radiance Fields**|Deheng Zhang et.al.|[2404.14967](http://arxiv.org/abs/2404.14967)|null|
 |**2024-04-23**|**Music Style Transfer With Diffusion Model**|Hong Huang et.al.|[2404.14771](http://arxiv.org/abs/2404.14771)|null|
@@ -1305,6 +1311,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-25**|**Inferring solid-state diffusivity in lithium-ion battery active materials: improving upon the classical GITT method**|A. Emir Gumrukcuoglu et.al.|[2404.16658](http://arxiv.org/abs/2404.16658)|null|
+|**2024-04-25**|**MuseumMaker: Continual Style Customization without Catastrophic Forgetting**|Chenxi Liu et.al.|[2404.16612](http://arxiv.org/abs/2404.16612)|null|
+|**2024-04-25**|**Conditional Distribution Modelling for Few-Shot Image Synthesis with Diffusion Models**|Parul Gupta et.al.|[2404.16556](http://arxiv.org/abs/2404.16556)|null|
+|**2024-04-25**|**DiffSeg: A Segmentation Model for Skin Lesions Based on Diffusion Difference**|Zhihao Shuai et.al.|[2404.16474](http://arxiv.org/abs/2404.16474)|null|
+|**2024-04-25**|**TI2V-Zero: Zero-Shot Image Conditioning for Text-to-Video Diffusion Models**|Haomiao Ni et.al.|[2404.16306](http://arxiv.org/abs/2404.16306)|null|
+|**2024-04-25**|**CFMW: Cross-modality Fusion Mamba for Multispectral Object Detection under Adverse Weather Conditions**|Haoyuan Li et.al.|[2404.16302](http://arxiv.org/abs/2404.16302)|null|
+|**2024-04-25**|**One Noise to Rule Them All: Learning a Unified Model of Spatially-Varying Noise Patterns**|Arman Maesumi et.al.|[2404.16292](http://arxiv.org/abs/2404.16292)|null|
+|**2024-04-24**|**Editable Image Elements for Controllable Synthesis**|Jiteng Mu et.al.|[2404.16029](http://arxiv.org/abs/2404.16029)|null|
+|**2024-04-24**|**RetinaRegNet: A Versatile Approach for Retinal Image Registration**|Vishal Balaji Sivaraman et.al.|[2404.16017](http://arxiv.org/abs/2404.16017)|null|
+|**2024-04-24**|**MYCloth: Towards Intelligent and Interactive Online T-Shirt Customization based on User's Preference**|Yexin Liu et.al.|[2404.15801](http://arxiv.org/abs/2404.15801)|null|
+|**2024-04-24**|**MotionMaster: Training-free Camera Motion Transfer For Video Generation**|Teng Hu et.al.|[2404.15789](http://arxiv.org/abs/2404.15789)|null|
+|**2024-04-24**|**Unifying Bayesian Flow Networks and Diffusion Models through Stochastic Differential Equations**|Kaiwen Xue et.al.|[2404.15766](http://arxiv.org/abs/2404.15766)|**[link](https://github.com/ml-gsai/bfn-solver)**|
+|**2024-04-24**|**DeepFeatureX Net: Deep Features eXtractors based Network for discriminating synthetic from real images**|Orazio Pontorno et.al.|[2404.15697](http://arxiv.org/abs/2404.15697)|null|
+|**2024-04-24**|**Generative Diffusion Model (GDM) for Optimization of Wi-Fi Networks**|Tie Liu et.al.|[2404.15684](http://arxiv.org/abs/2404.15684)|null|
+|**2024-04-24**|**AnoFPDM: Anomaly Segmentation with Forward Process of Diffusion Models for Brain MRI**|Yiming Che et.al.|[2404.15683](http://arxiv.org/abs/2404.15683)|null|
+|**2024-04-24**|**CharacterFactory: Sampling Consistent Characters with GANs for Diffusion Models**|Qinghe Wang et.al.|[2404.15677](http://arxiv.org/abs/2404.15677)|null|
 |**2024-04-24**|**Optimizing OOD Detection in Molecular Graphs: A Novel Approach with Diffusion Models**|Xu Shen et.al.|[2404.15625](http://arxiv.org/abs/2404.15625)|null|
 |**2024-04-24**|**A Dynamic Kernel Prior Model for Unsupervised Blind Image Super-Resolution**|Zhixiong Yang et.al.|[2404.15620](http://arxiv.org/abs/2404.15620)|**[link](https://github.com/XYLGroup/DKP)**|
 |**2024-04-23**|**ID-Aligner: Enhancing Identity-Preserving Text-to-Image Generation with Reward Feedback Learning**|Weifeng Chen et.al.|[2404.15449](http://arxiv.org/abs/2404.15449)|null|
@@ -4527,6 +4549,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-25**|**NTIRE 2024 Quality Assessment of AI-Generated Content Challenge**|Xiaohong Liu et.al.|[2404.16687](http://arxiv.org/abs/2404.16687)|null|
+|**2024-04-25**|**AudioScenic: Audio-Driven Video Scene Editing**|Kaixin Shen et.al.|[2404.16581](http://arxiv.org/abs/2404.16581)|null|
+|**2024-04-24**|**Editable Image Elements for Controllable Synthesis**|Jiteng Mu et.al.|[2404.16029](http://arxiv.org/abs/2404.16029)|null|
+|**2024-04-24**|**A Survey on Visual Mamba**|Hanwei Zhang et.al.|[2404.15956](http://arxiv.org/abs/2404.15956)|null|
 |**2024-04-24**|**A Dynamic Kernel Prior Model for Unsupervised Blind Image Super-Resolution**|Zhixiong Yang et.al.|[2404.15620](http://arxiv.org/abs/2404.15620)|**[link](https://github.com/XYLGroup/DKP)**|
 |**2024-04-22**|**GeoDiffuser: Geometry-Based Image Editing with Diffusion Models**|Rahul Sajnani et.al.|[2404.14403](http://arxiv.org/abs/2404.14403)|null|
 |**2024-04-22**|**Face2Face: Label-driven Facial Retouching Restoration**|Guanhua Zhao et.al.|[2404.14177](http://arxiv.org/abs/2404.14177)|null|
@@ -5423,6 +5449,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-25**|**ConsistentID: Portrait Generation with Multimodal Fine-Grained Identity Preserving**|Jiehui Huang et.al.|[2404.16771](http://arxiv.org/abs/2404.16771)|**[link](https://github.com/JackAILab/ConsistentID)**|
 |**2024-04-23**|**ID-Aligner: Enhancing Identity-Preserving Text-to-Image Generation with Reward Feedback Learning**|Weifeng Chen et.al.|[2404.15449](http://arxiv.org/abs/2404.15449)|null|
 |**2024-04-23**|**From Parts to Whole: A Unified Reference Framework for Controllable Human Image Generation**|Zehuan Huang et.al.|[2404.15267](http://arxiv.org/abs/2404.15267)|null|
 |**2024-04-22**|**Structure-Aware Human Body Reshaping with Adaptive Affinity-Graph Network**|Qiwen Deng et.al.|[2404.13983](http://arxiv.org/abs/2404.13983)|null|

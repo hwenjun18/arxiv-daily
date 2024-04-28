@@ -44,11 +44,11 @@ layout: default
 |**2024-04-24**|**HDDGAN: A Heterogeneous Dual-Discriminator Generative Adversarial Network for Infrared and Visible Image Fusion**|Guosheng Lu et.al.|[2404.15992](http://arxiv.org/abs/2404.15992)|null|
 |**2024-04-24**|**Toward Physics-Aware Deep Learning Architectures for LiDAR Intensity Simulation**|Vivek Anand et.al.|[2404.15774](http://arxiv.org/abs/2404.15774)|null|
 |**2024-04-24**|**SRAGAN: Saliency Regularized and Attended Generative Adversarial Network for Chinese Ink-wash Painting Generation**|Xiang Gao et.al.|[2404.15743](http://arxiv.org/abs/2404.15743)|null|
-|**2024-04-24**|**Site-Specific Ground Motion Generative Model for Crustal Earthquakes in Japan Based on Generative Adversarial Networks**|Yuma Matsumoto et.al.|[2404.15640](http://arxiv.org/abs/2404.15640)|null|
+|**2024-04-24**|**Site-Specific Ground Motion Generative Model for Crustal Earthquakes in Japan Based on Generative Adversarial Networks**|Yuma Matsumoto et.al.|[2404.15640](http://arxiv.org/abs/2404.15640)|**[link](https://github.com/mat-main-00/ss_gmgm)**|
 |**2024-04-24**|**Security Analysis of WiFi-based Sensing Systems: Threats from Perturbation Attacks**|Hangcheng Cao et.al.|[2404.15587](http://arxiv.org/abs/2404.15587)|null|
 |**2024-04-23**|**CoARF: Controllable 3D Artistic Style Transfer for Radiance Fields**|Deheng Zhang et.al.|[2404.14967](http://arxiv.org/abs/2404.14967)|null|
 |**2024-04-23**|**Music Style Transfer With Diffusion Model**|Hong Huang et.al.|[2404.14771](http://arxiv.org/abs/2404.14771)|null|
-|**2024-04-23**|**Skip the Benchmark: Generating System-Level High-Level Synthesis Data using Generative Machine Learning**|Yuchao Liao et.al.|[2404.14754](http://arxiv.org/abs/2404.14754)|null|
+|**2024-04-23**|**Skip the Benchmark: Generating System-Level High-Level Synthesis Data using Generative Machine Learning**|Yuchao Liao et.al.|[2404.14754](http://arxiv.org/abs/2404.14754)|**[link](https://github.com/yuchaoliao/vaegan)**|
 |**2024-04-20**|**Generative Subspace Adversarial Active Learning for Outlier Detection in Multiple Views of High-dimensional Data**|Jose Cribeiro-Ramallo et.al.|[2404.14451](http://arxiv.org/abs/2404.14451)|null|
 |**2024-04-24**|**Regional Style and Color Transfer**|Zhicheng Ding et.al.|[2404.13880](http://arxiv.org/abs/2404.13880)|null|
 |**2024-04-22**|**Distributional Black-Box Model Inversion Attack with Multi-Agent Reinforcement Learning**|Huan Bao et.al.|[2404.13860](http://arxiv.org/abs/2404.13860)|null|
@@ -1316,7 +1316,7 @@ layout: default
 |**2024-04-25**|**Conditional Distribution Modelling for Few-Shot Image Synthesis with Diffusion Models**|Parul Gupta et.al.|[2404.16556](http://arxiv.org/abs/2404.16556)|null|
 |**2024-04-25**|**DiffSeg: A Segmentation Model for Skin Lesions Based on Diffusion Difference**|Zhihao Shuai et.al.|[2404.16474](http://arxiv.org/abs/2404.16474)|null|
 |**2024-04-25**|**TI2V-Zero: Zero-Shot Image Conditioning for Text-to-Video Diffusion Models**|Haomiao Ni et.al.|[2404.16306](http://arxiv.org/abs/2404.16306)|null|
-|**2024-04-25**|**CFMW: Cross-modality Fusion Mamba for Multispectral Object Detection under Adverse Weather Conditions**|Haoyuan Li et.al.|[2404.16302](http://arxiv.org/abs/2404.16302)|null|
+|**2024-04-25**|**CFMW: Cross-modality Fusion Mamba for Multispectral Object Detection under Adverse Weather Conditions**|Haoyuan Li et.al.|[2404.16302](http://arxiv.org/abs/2404.16302)|**[link](https://github.com/lhy-zjut/cfmw)**|
 |**2024-04-25**|**One Noise to Rule Them All: Learning a Unified Model of Spatially-Varying Noise Patterns**|Arman Maesumi et.al.|[2404.16292](http://arxiv.org/abs/2404.16292)|null|
 |**2024-04-24**|**Editable Image Elements for Controllable Synthesis**|Jiteng Mu et.al.|[2404.16029](http://arxiv.org/abs/2404.16029)|null|
 |**2024-04-24**|**RetinaRegNet: A Versatile Approach for Retinal Image Registration**|Vishal Balaji Sivaraman et.al.|[2404.16017](http://arxiv.org/abs/2404.16017)|null|

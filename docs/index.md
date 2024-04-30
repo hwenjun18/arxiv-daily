@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.29
+## Updated on 2024.04.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -58,7 +58,7 @@ layout: default
 |**2024-04-20**|**Generative Subspace Adversarial Active Learning for Outlier Detection in Multiple Views of High-dimensional Data**|Jose Cribeiro-Ramallo et.al.|[2404.14451](http://arxiv.org/abs/2404.14451)|null|
 |**2024-04-24**|**Regional Style and Color Transfer**|Zhicheng Ding et.al.|[2404.13880](http://arxiv.org/abs/2404.13880)|null|
 |**2024-04-22**|**Distributional Black-Box Model Inversion Attack with Multi-Agent Reinforcement Learning**|Huan Bao et.al.|[2404.13860](http://arxiv.org/abs/2404.13860)|null|
-|**2024-04-24**|**A Comparative Study on Enhancing Prediction in Social Network Advertisement through Data Augmentation**|Qikai Yang et.al.|[2404.13812](http://arxiv.org/abs/2404.13812)|null|
+|**2024-04-28**|**A Comparative Study on Enhancing Prediction in Social Network Advertisement through Data Augmentation**|Qikai Yang et.al.|[2404.13812](http://arxiv.org/abs/2404.13812)|null|
 |**2024-04-21**|**Counterfactual Reasoning Using Predicted Latent Personality Dimensions for Optimizing Persuasion Outcome**|Donghuo Zeng et.al.|[2404.13792](http://arxiv.org/abs/2404.13792)|null|
 |**2024-04-21**|**Towards General Conceptual Model Editing via Adversarial Representation Engineering**|Yihao Zhang et.al.|[2404.13752](http://arxiv.org/abs/2404.13752)|**[link](https://github.com/zhang-yihao/adversarial-representation-engineering)**|
 |**2024-04-23**|**A Dataset and Model for Realistic License Plate Deblurring**|Haoyan Gong et.al.|[2404.13677](http://arxiv.org/abs/2404.13677)|**[link](https://github.com/haoygong/lpdgan)**|
@@ -1320,7 +1320,7 @@ layout: default
 |**2024-04-26**|**MaPa: Text-driven Photorealistic Material Painting for 3D Shapes**|Shangzhan Zhang et.al.|[2404.17569](http://arxiv.org/abs/2404.17569)|null|
 |**2024-04-26**|**Chemotaxis-inspired PDE model for airborne infectious disease transmission: analysis and simulations**|Pierluigi Colli et.al.|[2404.17506](http://arxiv.org/abs/2404.17506)|null|
 |**2024-04-26**|**Multi-view Image Prompted Multi-view Diffusion for Improved 3D Generation**|Seungwook Kim et.al.|[2404.17419](http://arxiv.org/abs/2404.17419)|null|
-|**2024-04-26**|**MV-VTON: Multi-View Virtual Try-On with Diffusion Models**|Haoyu Wang et.al.|[2404.17364](http://arxiv.org/abs/2404.17364)|**[link](https://github.com/hywang2002/mv-vton)**|
+|**2024-04-29**|**MV-VTON: Multi-View Virtual Try-On with Diffusion Models**|Haoyu Wang et.al.|[2404.17364](http://arxiv.org/abs/2404.17364)|**[link](https://github.com/hywang2002/mv-vton)**|
 |**2024-04-26**|**Simultaneous Tri-Modal Medical Image Fusion and Super-Resolution using Conditional Diffusion Model**|Yushen Xu et.al.|[2404.17357](http://arxiv.org/abs/2404.17357)|null|
 |**2024-04-26**|**Trinity Detector:text-assisted and attention mechanisms based spectral fusion for diffusion generation image detection**|Jiawei Song et.al.|[2404.17254](http://arxiv.org/abs/2404.17254)|null|
 |**2024-04-26**|**Few-shot Calligraphy Style Learning**|Fangda Chen et.al.|[2404.17199](http://arxiv.org/abs/2404.17199)|**[link](https://github.com/kono-dada/xysffusion)**|
@@ -1328,7 +1328,7 @@ layout: default
 |**2024-04-25**|**Universal fragmentation in annihilation reactions with constrained kinetics**|Enrique Rozas Garcia et.al.|[2404.16950](http://arxiv.org/abs/2404.16950)|null|
 |**2024-04-25**|**Inferring solid-state diffusivity in lithium-ion battery active materials: improving upon the classical GITT method**|A. Emir Gumrukcuoglu et.al.|[2404.16658](http://arxiv.org/abs/2404.16658)|null|
 |**2024-04-25**|**MuseumMaker: Continual Style Customization without Catastrophic Forgetting**|Chenxi Liu et.al.|[2404.16612](http://arxiv.org/abs/2404.16612)|null|
-|**2024-04-25**|**Conditional Distribution Modelling for Few-Shot Image Synthesis with Diffusion Models**|Parul Gupta et.al.|[2404.16556](http://arxiv.org/abs/2404.16556)|null|
+|**2024-04-29**|**Conditional Distribution Modelling for Few-Shot Image Synthesis with Diffusion Models**|Parul Gupta et.al.|[2404.16556](http://arxiv.org/abs/2404.16556)|null|
 |**2024-04-25**|**DiffSeg: A Segmentation Model for Skin Lesions Based on Diffusion Difference**|Zhihao Shuai et.al.|[2404.16474](http://arxiv.org/abs/2404.16474)|null|
 |**2024-04-25**|**TI2V-Zero: Zero-Shot Image Conditioning for Text-to-Video Diffusion Models**|Haomiao Ni et.al.|[2404.16306](http://arxiv.org/abs/2404.16306)|null|
 |**2024-04-25**|**CFMW: Cross-modality Fusion Mamba for Multispectral Object Detection under Adverse Weather Conditions**|Haoyuan Li et.al.|[2404.16302](http://arxiv.org/abs/2404.16302)|**[link](https://github.com/lhy-zjut/cfmw)**|

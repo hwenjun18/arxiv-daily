@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.30
+## Updated on 2024.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -1335,7 +1335,7 @@ layout: default
 |**2024-04-28**|**Generative AI for Low-Carbon Artificial Intelligence of Things**|Jinbo Wen et.al.|[2404.18077](http://arxiv.org/abs/2404.18077)|null|
 |**2024-04-28**|**Grounded Compositional and Diverse Text-to-3D with Pretrained Multi-View Diffusion Model**|Xiaolong Li et.al.|[2404.18065](http://arxiv.org/abs/2404.18065)|null|
 |**2024-04-28**|**Exposing Text-Image Inconsistency Using Diffusion Models**|Mingzhen Huang et.al.|[2404.18033](http://arxiv.org/abs/2404.18033)|null|
-|**2024-04-27**|**Control randomisation approach for policy gradient and application to reinforcement learning in optimal switching**|Robert Denkert et.al.|[2404.17939](http://arxiv.org/abs/2404.17939)|null|
+|**2024-04-30**|**Control randomisation approach for policy gradient and application to reinforcement learning in optimal switching**|Robert Denkert et.al.|[2404.17939](http://arxiv.org/abs/2404.17939)|null|
 |**2024-04-27**|**Unsupervised Anomaly Detection via Masked Diffusion Posterior Sampling**|Di Wu et.al.|[2404.17900](http://arxiv.org/abs/2404.17900)|null|
 |**2024-04-27**|**DPER: Diffusion Prior Driven Neural Representation for Limited Angle and Sparse View CT Reconstruction**|Chenhe Du et.al.|[2404.17890](http://arxiv.org/abs/2404.17890)|null|
 |**2024-04-27**|**Diffusion-Aided Joint Source Channel Coding For High Realism Wireless Image Transmission**|Mingyu Yang et.al.|[2404.17736](http://arxiv.org/abs/2404.17736)|null|

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.01
+## Updated on 2024.05.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -41,10 +41,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-30**|**SwipeGANSpace: Swipe-to-Compare Image Generation via Efficient Latent Space Exploration**|Yuto Nakashima et.al.|[2404.19693](http://arxiv.org/abs/2404.19693)|null|
 |**2024-04-30**|**Seeing Through the Clouds: Cloud Gap Imputation with Prithvi Foundation Model**|Denys Godwin et.al.|[2404.19609](http://arxiv.org/abs/2404.19609)|null|
-|**2024-04-30**|**Mapping New Realities: Ground Truth Image Creation with Pix2Pix Image-to-Image Translation**|Zhenglin Li et.al.|[2404.19265](http://arxiv.org/abs/2404.19265)|null|
+|**2024-05-01**|**Mapping New Realities: Ground Truth Image Creation with Pix2Pix Image-to-Image Translation**|Zhenglin Li et.al.|[2404.19265](http://arxiv.org/abs/2404.19265)|null|
 |**2024-04-29**|**Socially Adaptive Path Planning Based on Generative Adversarial Network**|Yao Wang et.al.|[2404.18687](http://arxiv.org/abs/2404.18687)|null|
 |**2024-04-26**|**Generative Dataset Distillation: Balancing Global Structure and Local Details**|Longzhen Li et.al.|[2404.17732](http://arxiv.org/abs/2404.17732)|null|
-|**2024-04-26**|**Federated Transfer Component Analysis Towards Effective VNF Profiling**|Xunzheng ZhangB et.al.|[2404.17553](http://arxiv.org/abs/2404.17553)|null|
+|**2024-05-01**|**Federated Transfer Component Analysis Towards Effective VNF Profiling**|Xunzheng Zhang et.al.|[2404.17553](http://arxiv.org/abs/2404.17553)|null|
 |**2024-04-26**|**DPGAN: A Dual-Path Generative Adversarial Network for Missing Data Imputation in Graphs**|Xindi Zheng et.al.|[2404.17164](http://arxiv.org/abs/2404.17164)|null|
 |**2024-04-26**|**An Investigation of Time-Frequency Representation Discriminators for High-Fidelity Vocoder**|Yicheng Gu et.al.|[2404.17161](http://arxiv.org/abs/2404.17161)|null|
 |**2024-04-26**|**Synthesizing Iris Images using Generative Adversarial Networks: Survey and Comparative Analysis**|Shivangi Yadav et.al.|[2404.17105](http://arxiv.org/abs/2404.17105)|null|
@@ -1341,7 +1341,7 @@ layout: default
 |**2024-04-29**|**Bootstrap 3D Reconstructed Scenes from 3D Gaussian Splatting**|Yifei Gao et.al.|[2404.18669](http://arxiv.org/abs/2404.18669)|null|
 |**2024-04-29**|**FlexiFilm: Long Video Generation with Flexible Conditions**|Yichen Ouyang et.al.|[2404.18620](http://arxiv.org/abs/2404.18620)|**[link](https://github.com/Y-ichen/FlexiFilm)**|
 |**2024-04-29**|**Anywhere: A Multi-Agent Framework for Reliable and Diverse Foreground-Conditioned Image Inpainting**|Tianyidan Xie et.al.|[2404.18598](http://arxiv.org/abs/2404.18598)|null|
-|**2024-04-29**|**U-Nets as Belief Propagation: Efficient Classification, Denoising, and Diffusion in Generative Hierarchical Models**|Song Mei et.al.|[2404.18444](http://arxiv.org/abs/2404.18444)|null|
+|**2024-05-01**|**U-Nets as Belief Propagation: Efficient Classification, Denoising, and Diffusion in Generative Hierarchical Models**|Song Mei et.al.|[2404.18444](http://arxiv.org/abs/2404.18444)|null|
 |**2024-04-28**|**Fisher Information Improved Training-Free Conditional Diffusion Model**|Kaiyu Song et.al.|[2404.18252](http://arxiv.org/abs/2404.18252)|null|
 |**2024-04-28**|**Paint by Inpaint: Learning to Add Image Objects by Removing Them First**|Navve Wasserman et.al.|[2404.18212](http://arxiv.org/abs/2404.18212)|null|
 |**2024-04-28**|**Generative AI for Visualization: State of the Art and Future Directions**|Yilin Ye et.al.|[2404.18144](http://arxiv.org/abs/2404.18144)|null|

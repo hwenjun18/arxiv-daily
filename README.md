@@ -51,6 +51,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-02**|**Towards Inclusive Face Recognition Through Synthetic Ethnicity Alteration**|Praveen Kumar Chandaliya et.al.|[2405.01273](http://arxiv.org/abs/2405.01273)|null|
 |**2024-05-01**|**UWAFA-GAN: Ultra-Wide-Angle Fluorescein Angiography Transformation via Multi-scale Generation and Registration Enhancement**|Ruiquan Ge et.al.|[2405.00542](http://arxiv.org/abs/2405.00542)|**[link](https://github.com/tinysqua/uwafa-gan)**|
 |**2024-05-01**|**Beamforming Inferring by Conditional WGAN-GP for Holographic Antenna Arrays**|Fenghao Zhu et.al.|[2405.00391](http://arxiv.org/abs/2405.00391)|null|
 |**2024-04-30**|**IgCONDA-PET: Implicitly-Guided Counterfactual Diffusion for Detecting Anomalies in PET Images**|Shadab Ahamed et.al.|[2405.00239](http://arxiv.org/abs/2405.00239)|**[link](https://github.com/igcondapet/igconda-pet)**|
@@ -1339,6 +1340,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-02**|**LocInv: Localization-aware Inversion for Text-Guided Image Editing**|Chuanming Tang et.al.|[2405.01496](http://arxiv.org/abs/2405.01496)|**[link](https://github.com/wangkai930418/DPL)**|
+|**2024-05-02**|**Navigating Heterogeneity and Privacy in One-Shot Federated Learning with Diffusion Models**|Matias Mendieta et.al.|[2405.01494](http://arxiv.org/abs/2405.01494)|null|
+|**2024-05-02**|**Statistical algorithms for low-frequency diffusion data: A PDE approach**|Matteo Giordano et.al.|[2405.01372](http://arxiv.org/abs/2405.01372)|null|
+|**2024-05-02**|**DiffusionPipe: Training Large Diffusion Models with Efficient Pipelines**|Ye Tian et.al.|[2405.01248](http://arxiv.org/abs/2405.01248)|null|
+|**2024-05-02**|**Automated Virtual Product Placement and Assessment in Images using Diffusion Models**|Mohammad Mahmudul Alam et.al.|[2405.01130](http://arxiv.org/abs/2405.01130)|null|
+|**2024-05-02**|**Part-aware Shape Generation with Latent 3D Diffusion of Neural Voxel Fields**|Yuhang Huang et.al.|[2405.00998](http://arxiv.org/abs/2405.00998)|null|
+|**2024-05-02**|**Generative manufacturing systems using diffusion models and ChatGPT**|Xingyu Li et.al.|[2405.00958](http://arxiv.org/abs/2405.00958)|null|
+|**2024-05-02**|**EchoScene: Indoor Scene Generation via Information Echo over Scene Graph Diffusion**|Guangyao Zhai et.al.|[2405.00915](http://arxiv.org/abs/2405.00915)|null|
+|**2024-05-01**|**SonicDiffusion: Audio-Driven Image Generation and Editing with Pretrained Diffusion Models**|Burak Can Biner et.al.|[2405.00878](http://arxiv.org/abs/2405.00878)|null|
+|**2024-05-01**|**Guided Conditional Diffusion Classifier (ConDiff) for Enhanced Prediction of Infection in Diabetic Foot Ulcers**|Palawat Busaranuvong et.al.|[2405.00858](http://arxiv.org/abs/2405.00858)|null|
+|**2024-05-01**|**ADM: Accelerated Diffusion Model via Estimated Priors for Robust Motion Prediction under Uncertainties**|Jiahui Li et.al.|[2405.00797](http://arxiv.org/abs/2405.00797)|null|
+|**2024-05-01**|**Obtaining Favorable Layouts for Multiple Object Generation**|Barak Battash et.al.|[2405.00791](http://arxiv.org/abs/2405.00791)|null|
+|**2024-05-01**|**Deep Reward Supervisions for Tuning Text-to-Image Diffusion Models**|Xiaoshi Wu et.al.|[2405.00760](http://arxiv.org/abs/2405.00760)|null|
 |**2024-05-01**|**TexSliders: Diffusion-Based Texture Editing in CLIP Space**|Julia Guerrero-Viu et.al.|[2405.00672](http://arxiv.org/abs/2405.00672)|null|
 |**2024-05-01**|**RGB $\leftrightarrow$ X: Image decomposition and synthesis using material- and lighting-aware diffusion models**|Zheng Zeng et.al.|[2405.00666](http://arxiv.org/abs/2405.00666)|null|
 |**2024-05-01**|**Deep Metric Learning-Based Out-of-Distribution Detection with Synthetic Outlier Exposure**|Assefa Seyoum Wahd et.al.|[2405.00631](http://arxiv.org/abs/2405.00631)|null|
@@ -4632,6 +4646,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-02**|**LocInv: Localization-aware Inversion for Text-Guided Image Editing**|Chuanming Tang et.al.|[2405.01496](http://arxiv.org/abs/2405.01496)|**[link](https://github.com/wangkai930418/DPL)**|
+|**2024-05-01**|**SonicDiffusion: Audio-Driven Image Generation and Editing with Pretrained Diffusion Models**|Burak Can Biner et.al.|[2405.00878](http://arxiv.org/abs/2405.00878)|null|
 |**2024-05-01**|**TexSliders: Diffusion-Based Texture Editing in CLIP Space**|Julia Guerrero-Viu et.al.|[2405.00672](http://arxiv.org/abs/2405.00672)|null|
 |**2024-05-01**|**Streamlining Image Editing with Layered Diffusion Brushes**|Peyman Gholami et.al.|[2405.00313](http://arxiv.org/abs/2405.00313)|null|
 |**2024-04-29**|**Reconstructing Satellites in 3D from Amateur Telescope Images**|Zhiming Chang et.al.|[2404.18394](http://arxiv.org/abs/2404.18394)|null|
@@ -5548,6 +5564,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-01**|**"Sometimes You Just Gotta Risk it for the Biscuit": A Portrait of Student Risk-Taking**|Juho Leinonen et.al.|[2405.01477](http://arxiv.org/abs/2405.01477)|null|
+|**2024-05-01**|**Coherent 3D Portrait Video Reconstruction via Triplane Fusion**|Shengze Wang et.al.|[2405.00794](http://arxiv.org/abs/2405.00794)|null|
 |**2024-05-01**|**In Anticipation of Perfect Deepfake: Identity-anchored Artifact-agnostic Detection under Rebalanced Deepfake Detection Protocol**|Wei-Han Wang et.al.|[2405.00483](http://arxiv.org/abs/2405.00483)|null|
 |**2024-04-29**|**Embedded Representation Learning Network for Animating Styled Video Portrait**|Tianyong Wang et.al.|[2404.19038](http://arxiv.org/abs/2404.19038)|null|
 |**2024-04-27**|**Are Watermarks Bugs for Deepfake Detectors? Rethinking Proactive Forensics**|Xiaoshuai Wu et.al.|[2404.17867](http://arxiv.org/abs/2404.17867)|**[link](https://github.com/sh1newu/advmark)**|

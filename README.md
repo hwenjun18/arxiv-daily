@@ -51,6 +51,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-03**|**Reconstructing the mid-infrared spectra of galaxies using ultraviolet to submillimeter photometry and Deep Generative Networks**|Agapi Rissaki et.al.|[2405.02153](http://arxiv.org/abs/2405.02153)|null|
+|**2024-05-03**|**Three-Dimensional Amyloid-Beta PET Synthesis from Structural MRI with Conditional Generative Adversarial Networks**|Fernando Vega et.al.|[2405.02109](http://arxiv.org/abs/2405.02109)|null|
+|**2024-05-03**|**Report on the AAPM Grand Challenge on deep generative modeling for learning medical image statistics**|Rucha Deshpande et.al.|[2405.01822](http://arxiv.org/abs/2405.01822)|null|
+|**2024-05-02**|**Investigation on optimal microstructure of dual-phase steel with high strength and ductility by machine learning**|Misato Suzuki et.al.|[2405.01689](http://arxiv.org/abs/2405.01689)|null|
 |**2024-05-02**|**Towards Inclusive Face Recognition Through Synthetic Ethnicity Alteration**|Praveen Kumar Chandaliya et.al.|[2405.01273](http://arxiv.org/abs/2405.01273)|null|
 |**2024-05-01**|**UWAFA-GAN: Ultra-Wide-Angle Fluorescein Angiography Transformation via Multi-scale Generation and Registration Enhancement**|Ruiquan Ge et.al.|[2405.00542](http://arxiv.org/abs/2405.00542)|**[link](https://github.com/tinysqua/uwafa-gan)**|
 |**2024-05-01**|**Beamforming Inferring by Conditional WGAN-GP for Holographic Antenna Arrays**|Fenghao Zhu et.al.|[2405.00391](http://arxiv.org/abs/2405.00391)|null|
@@ -1340,6 +1344,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-03**|**DreamScene4D: Dynamic Multi-Object Scene Generation from Monocular Videos**|Wen-Hsuan Chu et.al.|[2405.02280](http://arxiv.org/abs/2405.02280)|null|
+|**2024-05-03**|**Multi-grid reaction-diffusion master equation: applications to morphogen gradient modelling**|Radek Erban et.al.|[2405.02117](http://arxiv.org/abs/2405.02117)|null|
+|**2024-05-03**|**DiffMap: Enhancing Map Segmentation with Map Prior Using Diffusion Model**|Peijin Jia et.al.|[2405.02008](http://arxiv.org/abs/2405.02008)|null|
+|**2024-05-03**|**Defect Image Sample Generation With Diffusion Prior for Steel Surface Defect Recognition**|Yichun Tai et.al.|[2405.01872](http://arxiv.org/abs/2405.01872)|null|
+|**2024-05-03**|**Creation of Novel Soft Robot Designs using Generative AI**|Wee Kiat Chan et.al.|[2405.01824](http://arxiv.org/abs/2405.01824)|null|
+|**2024-05-03**|**Report on the AAPM Grand Challenge on deep generative modeling for learning medical image statistics**|Rucha Deshpande et.al.|[2405.01822](http://arxiv.org/abs/2405.01822)|null|
+|**2024-05-02**|**Converting Anyone's Voice: End-to-End Expressive Voice Conversion with a Conditional Diffusion Model**|Zongyang Du et.al.|[2405.01730](http://arxiv.org/abs/2405.01730)|null|
+|**2024-05-02**|**Long Tail Image Generation Through Feature Space Augmentation and Iterated Learning**|Rafael Elberg et.al.|[2405.01705](http://arxiv.org/abs/2405.01705)|**[link](https://github.com/sugarfreemanatee/feature-space-augmentation-and-iterated-learning)**|
 |**2024-05-02**|**LocInv: Localization-aware Inversion for Text-Guided Image Editing**|Chuanming Tang et.al.|[2405.01496](http://arxiv.org/abs/2405.01496)|**[link](https://github.com/wangkai930418/DPL)**|
 |**2024-05-02**|**Navigating Heterogeneity and Privacy in One-Shot Federated Learning with Diffusion Models**|Matias Mendieta et.al.|[2405.01494](http://arxiv.org/abs/2405.01494)|null|
 |**2024-05-02**|**Statistical algorithms for low-frequency diffusion data: A PDE approach**|Matteo Giordano et.al.|[2405.01372](http://arxiv.org/abs/2405.01372)|null|
@@ -4646,6 +4658,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-02**|**SSUMamba: Spatial-Spectral Selective State Space Model for Hyperspectral Image Denoising**|Guanyiman Fu et.al.|[2405.01726](http://arxiv.org/abs/2405.01726)|null|
 |**2024-05-02**|**LocInv: Localization-aware Inversion for Text-Guided Image Editing**|Chuanming Tang et.al.|[2405.01496](http://arxiv.org/abs/2405.01496)|**[link](https://github.com/wangkai930418/DPL)**|
 |**2024-05-01**|**SonicDiffusion: Audio-Driven Image Generation and Editing with Pretrained Diffusion Models**|Burak Can Biner et.al.|[2405.00878](http://arxiv.org/abs/2405.00878)|null|
 |**2024-05-01**|**TexSliders: Diffusion-Based Texture Editing in CLIP Space**|Julia Guerrero-Viu et.al.|[2405.00672](http://arxiv.org/abs/2405.00672)|null|

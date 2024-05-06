@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.05
+## Updated on 2024.05.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -5542,7 +5542,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-01**|**"Sometimes You Just Gotta Risk it for the Biscuit": A Portrait of Student Risk-Taking**|Juho Leinonen et.al.|[2405.01477](http://arxiv.org/abs/2405.01477)|null|
+|**2024-05-03**|**"Sometimes You Just Gotta Risk It for the Biscuit": A Portrait of Student Risk-Taking**|Juho Leinonen et.al.|[2405.01477](http://arxiv.org/abs/2405.01477)|null|
 |**2024-05-01**|**Coherent 3D Portrait Video Reconstruction via Triplane Fusion**|Shengze Wang et.al.|[2405.00794](http://arxiv.org/abs/2405.00794)|null|
 |**2024-05-01**|**In Anticipation of Perfect Deepfake: Identity-anchored Artifact-agnostic Detection under Rebalanced Deepfake Detection Protocol**|Wei-Han Wang et.al.|[2405.00483](http://arxiv.org/abs/2405.00483)|null|
 |**2024-04-29**|**Embedded Representation Learning Network for Animating Styled Video Portrait**|Tianyong Wang et.al.|[2404.19038](http://arxiv.org/abs/2404.19038)|null|

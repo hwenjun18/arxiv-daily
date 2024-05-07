@@ -51,6 +51,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-06**|**CCDM: Continuous Conditional Diffusion Models for Image Generation**|Xin Ding et.al.|[2405.03546](http://arxiv.org/abs/2405.03546)|**[link](https://github.com/ubcdingxin/ccdm)**|
+|**2024-05-06**|**GLIP: Electromagnetic Field Exposure Map Completion by Deep Generative Networks**|Mohammed Mallik et.al.|[2405.03384](http://arxiv.org/abs/2405.03384)|null|
+|**2024-05-05**|**AnoGAN for Tabular Data: A Novel Approach to Anomaly Detection**|Aditya Singh et.al.|[2405.03075](http://arxiv.org/abs/2405.03075)|null|
+|**2024-05-05**|**Boundary-aware Decoupled Flow Networks for Realistic Extreme Rescaling**|Jinmin Li et.al.|[2405.02941](http://arxiv.org/abs/2405.02941)|null|
+|**2024-05-05**|**SMCD: High Realism Motion Style Transfer via Mamba-based Diffusion**|Ziyun Qian et.al.|[2405.02844](http://arxiv.org/abs/2405.02844)|null|
 |**2024-05-03**|**Reconstructing the mid-infrared spectra of galaxies using ultraviolet to submillimeter photometry and Deep Generative Networks**|Agapi Rissaki et.al.|[2405.02153](http://arxiv.org/abs/2405.02153)|null|
 |**2024-05-03**|**Three-Dimensional Amyloid-Beta PET Synthesis from Structural MRI with Conditional Generative Adversarial Networks**|Fernando Vega et.al.|[2405.02109](http://arxiv.org/abs/2405.02109)|null|
 |**2024-05-03**|**Report on the AAPM Grand Challenge on deep generative modeling for learning medical image statistics**|Rucha Deshpande et.al.|[2405.01822](http://arxiv.org/abs/2405.01822)|null|
@@ -1344,6 +1349,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-06**|**Bridging discrete and continuous state spaces: Exploring the Ehrenfest process in time-continuous diffusion models**|Ludwig Winkler et.al.|[2405.03549](http://arxiv.org/abs/2405.03549)|null|
+|**2024-05-06**|**CCDM: Continuous Conditional Diffusion Models for Image Generation**|Xin Ding et.al.|[2405.03546](http://arxiv.org/abs/2405.03546)|**[link](https://github.com/ubcdingxin/ccdm)**|
+|**2024-05-06**|**LGTM: Local-to-Global Text-Driven Human Motion Diffusion Model**|Haowen Sun et.al.|[2405.03485](http://arxiv.org/abs/2405.03485)|**[link](https://github.com/l-sun/lgtm)**|
+|**2024-05-06**|**Exploring the Frontiers of Softmax: Provable Optimization, Applications in Diffusion Model, and Beyond**|Jiuxiang Gu et.al.|[2405.03251](http://arxiv.org/abs/2405.03251)|null|
+|**2024-05-06**|**Hyperbolic Geometric Latent Diffusion Model for Graph Generation**|Xingcheng Fu et.al.|[2405.03188](http://arxiv.org/abs/2405.03188)|null|
+|**2024-05-06**|**DeepMpMRI: Tensor-decomposition Regularized Learning for Fast and High-Fidelity Multi-Parametric Microstructural MR Imaging**|Wenxin Fan et.al.|[2405.03159](http://arxiv.org/abs/2405.03159)|null|
+|**2024-05-06**|**Video Diffusion Models: A Survey**|Andrew Melnik et.al.|[2405.03150](http://arxiv.org/abs/2405.03150)|null|
+|**2024-05-06**|**AniTalker: Animate Vivid and Diverse Talking Faces through Identity-Decoupled Facial Motion Encoding**|Tao Liu et.al.|[2405.03121](http://arxiv.org/abs/2405.03121)|**[link](https://github.com/x-lance/anitalker)**|
+|**2024-05-05**|**Matten: Video Generation with Mamba-Attention**|Yu Gao et.al.|[2405.03025](http://arxiv.org/abs/2405.03025)|null|
+|**2024-05-05**|**Exploring Text-based Realistic Building Facades Editing Applicaiton**|Jing Wang et.al.|[2405.02967](http://arxiv.org/abs/2405.02967)|null|
+|**2024-05-05**|**Efficient Text-driven Motion Generation via Latent Consistency Training**|Mengxian Hu et.al.|[2405.02791](http://arxiv.org/abs/2405.02791)|null|
+|**2024-05-04**|**DiffuseTrace: A Transparent and Flexible Watermarking Scheme for Latent Diffusion Model**|Liangqi Lei et.al.|[2405.02696](http://arxiv.org/abs/2405.02696)|null|
+|**2024-05-03**|**Functional Imaging Constrained Diffusion for Brain PET Synthesis from Structural MRI**|Minhui Yu et.al.|[2405.02504](http://arxiv.org/abs/2405.02504)|null|
+|**2024-05-03**|**Continuous Learned Primal Dual**|Christina Runkel et.al.|[2405.02478](http://arxiv.org/abs/2405.02478)|null|
+|**2024-05-03**|**CogDPM: Diffusion Probabilistic Models via Cognitive Predictive Coding**|Kaiyuan Chen et.al.|[2405.02384](http://arxiv.org/abs/2405.02384)|null|
 |**2024-05-03**|**DreamScene4D: Dynamic Multi-Object Scene Generation from Monocular Videos**|Wen-Hsuan Chu et.al.|[2405.02280](http://arxiv.org/abs/2405.02280)|null|
 |**2024-05-03**|**Multi-grid reaction-diffusion master equation: applications to morphogen gradient modelling**|Radek Erban et.al.|[2405.02117](http://arxiv.org/abs/2405.02117)|null|
 |**2024-05-03**|**DiffMap: Enhancing Map Segmentation with Map Prior Using Diffusion Model**|Peijin Jia et.al.|[2405.02008](http://arxiv.org/abs/2405.02008)|null|
@@ -4658,6 +4678,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-05**|**Residual-Conditioned Optimal Transport: Towards Structure-preserving Unpaired and Paired Image Restoration**|Xiaole Tang et.al.|[2405.02843](http://arxiv.org/abs/2405.02843)|null|
+|**2024-05-04**|**Deep Image Restoration For Image Anti-Forensics**|Eren Tahir et.al.|[2405.02751](http://arxiv.org/abs/2405.02751)|**[link](https://github.com/99eren99/dirfiaf)**|
 |**2024-05-06**|**SSUMamba: Spatial-Spectral Selective State Space Model for Hyperspectral Image Denoising**|Guanyiman Fu et.al.|[2405.01726](http://arxiv.org/abs/2405.01726)|null|
 |**2024-05-02**|**LocInv: Localization-aware Inversion for Text-Guided Image Editing**|Chuanming Tang et.al.|[2405.01496](http://arxiv.org/abs/2405.01496)|**[link](https://github.com/wangkai930418/DPL)**|
 |**2024-05-01**|**SonicDiffusion: Audio-Driven Image Generation and Editing with Pretrained Diffusion Models**|Burak Can Biner et.al.|[2405.00878](http://arxiv.org/abs/2405.00878)|null|
@@ -5577,6 +5599,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-06**|**AniTalker: Animate Vivid and Diverse Talking Faces through Identity-Decoupled Facial Motion Encoding**|Tao Liu et.al.|[2405.03121](http://arxiv.org/abs/2405.03121)|**[link](https://github.com/x-lance/anitalker)**|
+|**2024-05-05**|**Responsible AI: Portraits with Intelligent Bibliometrics**|Yi Zhang et.al.|[2405.02846](http://arxiv.org/abs/2405.02846)|null|
 |**2024-05-03**|**"Sometimes You Just Gotta Risk It for the Biscuit": A Portrait of Student Risk-Taking**|Juho Leinonen et.al.|[2405.01477](http://arxiv.org/abs/2405.01477)|null|
 |**2024-05-01**|**Coherent 3D Portrait Video Reconstruction via Triplane Fusion**|Shengze Wang et.al.|[2405.00794](http://arxiv.org/abs/2405.00794)|null|
 |**2024-05-01**|**In Anticipation of Perfect Deepfake: Identity-anchored Artifact-agnostic Detection under Rebalanced Deepfake Detection Protocol**|Wei-Han Wang et.al.|[2405.00483](http://arxiv.org/abs/2405.00483)|null|

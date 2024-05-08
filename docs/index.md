@@ -39,6 +39,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-07**|**Data augmentation experiments with style-based quantum generative adversarial networks on trapped-ion and superconducting-qubit technologies**|Julien Baglio et.al.|[2405.04401](http://arxiv.org/abs/2405.04401)|null|
+|**2024-05-07**|**Diffusion-driven GAN Inversion for Multi-Modal Face Image Generation**|Jihyun Kim et.al.|[2405.04356](http://arxiv.org/abs/2405.04356)|null|
+|**2024-05-07**|**Improving Offline Reinforcement Learning with Inaccurate Simulators**|Yiwen Hou et.al.|[2405.04307](http://arxiv.org/abs/2405.04307)|null|
+|**2024-05-07**|**Bidirectional Adversarial Autoencoders for the design of Plasmonic Metasurfaces**|Yuansan Liu et.al.|[2405.04056](http://arxiv.org/abs/2405.04056)|**[link](https://github.com/lysarthas/inverse_design_biaae)**|
+|**2024-05-06**|**Generative adversarial learning with optimal input dimension and its adaptive generator architecture**|Zhiyao Tan et.al.|[2405.03723](http://arxiv.org/abs/2405.03723)|null|
 |**2024-05-06**|**CCDM: Continuous Conditional Diffusion Models for Image Generation**|Xin Ding et.al.|[2405.03546](http://arxiv.org/abs/2405.03546)|**[link](https://github.com/ubcdingxin/ccdm)**|
 |**2024-05-06**|**GLIP: Electromagnetic Field Exposure Map Completion by Deep Generative Networks**|Mohammed Mallik et.al.|[2405.03384](http://arxiv.org/abs/2405.03384)|null|
 |**2024-05-05**|**AnoGAN for Tabular Data: A Novel Approach to Anomaly Detection**|Aditya Singh et.al.|[2405.03075](http://arxiv.org/abs/2405.03075)|null|
@@ -1335,6 +1340,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-07**|**Tactile-Augmented Radiance Fields**|Yiming Dou et.al.|[2405.04534](http://arxiv.org/abs/2405.04534)|null|
+|**2024-05-07**|**Edit-Your-Motion: Space-Time Diffusion Decoupling Learning for Video Motion Editing**|Yi Zuo et.al.|[2405.04496](http://arxiv.org/abs/2405.04496)|null|
+|**2024-05-07**|**CloudDiff: Super-resolution ensemble retrieval of cloud properties for all day using the generative diffusion model**|Haixia Xiao et.al.|[2405.04483](http://arxiv.org/abs/2405.04483)|null|
+|**2024-05-07**|**Diff-IP2D: Diffusion-Based Hand-Object Interaction Prediction on Egocentric Videos**|Junyi Ma et.al.|[2405.04370](http://arxiv.org/abs/2405.04370)|null|
+|**2024-05-07**|**Diffusion-driven GAN Inversion for Multi-Modal Face Image Generation**|Jihyun Kim et.al.|[2405.04356](http://arxiv.org/abs/2405.04356)|null|
+|**2024-05-07**|**Inf-DiT: Upsampling Any-Resolution Image with Memory-Efficient Diffusion Transformer**|Zhuoyi Yang et.al.|[2405.04312](http://arxiv.org/abs/2405.04312)|**[link](https://github.com/thudm/inf-dit)**|
+|**2024-05-07**|**BUDDy: Single-Channel Blind Unsupervised Dereverberation with Diffusion Models**|Eloi Moliner et.al.|[2405.04272](http://arxiv.org/abs/2405.04272)|null|
+|**2024-05-07**|**Vidu: a Highly Consistent, Dynamic and Skilled Text-to-Video Generator with Diffusion Models**|Fan Bao et.al.|[2405.04233](http://arxiv.org/abs/2405.04233)|null|
+|**2024-05-07**|**Simple Drop-in LoRA Conditioning on Attention Layers Will Improve Your Diffusion Model**|Joo Young Choi et.al.|[2405.03958](http://arxiv.org/abs/2405.03958)|null|
+|**2024-05-06**|**MVDiff: Scalable and Flexible Multi-View Diffusion for 3D Object Reconstruction from Single-View**|Emmanuelle Bourigault et.al.|[2405.03894](http://arxiv.org/abs/2405.03894)|null|
+|**2024-05-06**|**MoDiPO: text-to-motion alignment via AI-feedback-driven Direct Preference Optimization**|Massimiliano Pappa et.al.|[2405.03803](http://arxiv.org/abs/2405.03803)|null|
+|**2024-05-06**|**Synthetic Data from Diffusion Models Improve Drug Discovery Prediction**|Bing Hu et.al.|[2405.03799](http://arxiv.org/abs/2405.03799)|null|
+|**2024-05-06**|**GraphSL: An Open-Source Library for Graph Source Localization Approaches and Benchmark Datasets**|Junxiang Wang et.al.|[2405.03724](http://arxiv.org/abs/2405.03724)|null|
 |**2024-05-06**|**Bridging discrete and continuous state spaces: Exploring the Ehrenfest process in time-continuous diffusion models**|Ludwig Winkler et.al.|[2405.03549](http://arxiv.org/abs/2405.03549)|null|
 |**2024-05-06**|**CCDM: Continuous Conditional Diffusion Models for Image Generation**|Xin Ding et.al.|[2405.03546](http://arxiv.org/abs/2405.03546)|**[link](https://github.com/ubcdingxin/ccdm)**|
 |**2024-05-06**|**LGTM: Local-to-Global Text-Driven Human Motion Diffusion Model**|Haowen Sun et.al.|[2405.03485](http://arxiv.org/abs/2405.03485)|**[link](https://github.com/l-sun/lgtm)**|
@@ -4662,6 +4680,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-07**|**DocRes: A Generalist Model Toward Unifying Document Image Restoration Tasks**|Jiaxin Zhang et.al.|[2405.04408](http://arxiv.org/abs/2405.04408)|**[link](https://github.com/zzzhang-jx/docres)**|
+|**2024-05-07**|**SEED-Data-Edit Technical Report: A Hybrid Dataset for Instructional Image Editing**|Yuying Ge et.al.|[2405.04007](http://arxiv.org/abs/2405.04007)|null|
 |**2024-05-05**|**Residual-Conditioned Optimal Transport: Towards Structure-preserving Unpaired and Paired Image Restoration**|Xiaole Tang et.al.|[2405.02843](http://arxiv.org/abs/2405.02843)|null|
 |**2024-05-04**|**Deep Image Restoration For Image Anti-Forensics**|Eren Tahir et.al.|[2405.02751](http://arxiv.org/abs/2405.02751)|**[link](https://github.com/99eren99/dirfiaf)**|
 |**2024-05-06**|**SSUMamba: Spatial-Spectral Selective State Space Model for Hyperspectral Image Denoising**|Guanyiman Fu et.al.|[2405.01726](http://arxiv.org/abs/2405.01726)|null|
@@ -5532,6 +5552,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-07**|**Edit-Your-Motion: Space-Time Diffusion Decoupling Learning for Video Motion Editing**|Yi Zuo et.al.|[2405.04496](http://arxiv.org/abs/2405.04496)|null|
 |**2024-03-04**|**Umwelt: Accessible Structured Editing of Multimodal Data Representations**|Jonathan Zong et.al.|[2403.00106](http://arxiv.org/abs/2403.00106)|null|
 |**2024-02-22**|**Semantic Image Synthesis with Unconditional Generator**|Jungwoo Chae et.al.|[2402.14395](http://arxiv.org/abs/2402.14395)|null|
 |**2024-03-23**|**Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis**|Zhenhui Ye et.al.|[2401.08503](http://arxiv.org/abs/2401.08503)|**[link](https://github.com/yerfor/Real3DPortrait)**|

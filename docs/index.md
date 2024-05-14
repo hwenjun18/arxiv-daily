@@ -39,6 +39,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-13**|**SAR Image Synthesis with Diffusion Models**|Denisa Qosja et.al.|[2405.07776](http://arxiv.org/abs/2405.07776)|null|
+|**2024-05-12**|**Semantic Loss Functions for Neuro-Symbolic Structured Prediction**|Kareem Ahmed et.al.|[2405.07387](http://arxiv.org/abs/2405.07387)|null|
+|**2024-05-12**|**PotatoGANs: Utilizing Generative Adversarial Networks, Instance Segmentation, and Explainable AI for Enhanced Potato Disease Identification and Classification**|Mohammad Shafiul Alam et.al.|[2405.07332](http://arxiv.org/abs/2405.07332)|null|
+|**2024-05-10**|**Deep MMD Gradient Flow without adversarial training**|Alexandre Galashov et.al.|[2405.06780](http://arxiv.org/abs/2405.06780)|null|
 |**2024-05-09**|**Photonic quantum generative adversarial networks for classical data**|Tigran Sedrakyan et.al.|[2405.06023](http://arxiv.org/abs/2405.06023)|null|
 |**2024-05-13**|**Characteristic Learning for Provable One Step Generation**|Zhao Ding et.al.|[2405.05512](http://arxiv.org/abs/2405.05512)|**[link](https://github.com/burning489/characteristicgenrator)**|
 |**2024-05-08**|**Cross-Modality Translation with Generative Adversarial Networks to Unveil Alzheimer's Disease Biomarkers**|Reihaneh Hassanzadeh et.al.|[2405.05462](http://arxiv.org/abs/2405.05462)|null|
@@ -1347,6 +1351,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-13**|**Stable Diffusion-based Data Augmentation for Federated Learning with Non-IID Data**|Mahdi Morafah et.al.|[2405.07925](http://arxiv.org/abs/2405.07925)|null|
+|**2024-05-13**|**CTRLorALTer: Conditional LoRAdapter for Efficient 0-Shot Control & Altering of T2I Models**|Nick Stracke et.al.|[2405.07913](http://arxiv.org/abs/2405.07913)|null|
+|**2024-05-13**|**SAR Image Synthesis with Diffusion Models**|Denisa Qosja et.al.|[2405.07776](http://arxiv.org/abs/2405.07776)|null|
+|**2024-05-13**|**CDFormer:When Degradation Prediction Embraces Diffusion Model for Blind Image Super-Resolution**|Qingguo Liu et.al.|[2405.07648](http://arxiv.org/abs/2405.07648)|**[link](https://github.com/i2-multimedia-lab/cdformer)**|
+|**2024-05-13**|**De novo antibody design with SE(3) diffusion**|Daniel Cutting et.al.|[2405.07622](http://arxiv.org/abs/2405.07622)|null|
+|**2024-05-13**|**Reducing Risk for Assistive Reinforcement Learning Policies with Diffusion Models**|Andrii Tytarenko et.al.|[2405.07603](http://arxiv.org/abs/2405.07603)|null|
+|**2024-05-13**|**PeRFlow: Piecewise Rectified Flow as Universal Plug-and-Play Accelerator**|Hanshu Yan et.al.|[2405.07510](http://arxiv.org/abs/2405.07510)|**[link](https://github.com/magic-research/piecewise-rectified-flow)**|
+|**2024-05-13**|**GaussianVTON: 3D Human Virtual Try-ON via Multi-Stage Gaussian Splatting Editing with Image Prompting**|Haodong Chen et.al.|[2405.07472](http://arxiv.org/abs/2405.07472)|null|
+|**2024-05-12**|**Erasing Concepts from Text-to-Image Diffusion Models with Few-shot Unlearning**|Masane Fuchi et.al.|[2405.07288](http://arxiv.org/abs/2405.07288)|null|
+|**2024-05-12**|**Modeling Pedestrian Intrinsic Uncertainty for Multimodal Stochastic Trajectory Prediction via Energy Plan Denoising**|Yao Liu et.al.|[2405.07164](http://arxiv.org/abs/2405.07164)|null|
+|**2024-05-12**|**Stable Signature is Unstable: Removing Image Watermark from Diffusion Models**|Yuepeng Hu et.al.|[2405.07145](http://arxiv.org/abs/2405.07145)|null|
+|**2024-05-11**|**Diffusion models as probabilistic neural operators for recovering unobserved states of dynamical systems**|Katsiaryna Haitsiukevich et.al.|[2405.07097](http://arxiv.org/abs/2405.07097)|null|
+|**2024-05-11**|**Semantic Guided Large Scale Factor Remote Sensing Image Super-resolution with Generative Diffusion Prior**|Ce Wang et.al.|[2405.07044](http://arxiv.org/abs/2405.07044)|**[link](https://github.com/wwangcece/sgdm)**|
+|**2024-05-11**|**Non-confusing Generation of Customized Concepts in Diffusion Models**|Wang Lin et.al.|[2405.06914](http://arxiv.org/abs/2405.06914)|null|
+|**2024-05-10**|**Self-Consistent Recursive Diffusion Bridge for Medical Image Translation**|Fuat Arslan et.al.|[2405.06789](http://arxiv.org/abs/2405.06789)|null|
+|**2024-05-10**|**Shape Conditioned Human Motion Generation with Diffusion Model**|Kebing Xue et.al.|[2405.06778](http://arxiv.org/abs/2405.06778)|null|
 |**2024-05-10**|**OneTo3D: One Image to Re-editable Dynamic 3D Model and Video Generation**|Jinwei Lin et.al.|[2405.06547](http://arxiv.org/abs/2405.06547)|**[link](https://github.com/lin-jinwei/OneTo3D)**|
 |**2024-05-10**|**SketchDream: Sketch-based Text-to-3D Generation and Editing**|Feng-Lin Liu et.al.|[2405.06461](http://arxiv.org/abs/2405.06461)|null|
 |**2024-05-10**|**PUMA: margin-based data pruning**|Javier Maroto et.al.|[2405.06298](http://arxiv.org/abs/2405.06298)|null|
@@ -4721,6 +4741,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-13**|**FRRffusion: Unveiling Authenticity with Diffusion-Based Face Retouching Reversal**|Fengchuang Xing et.al.|[2405.07582](http://arxiv.org/abs/2405.07582)|null|
+|**2024-05-12**|**Listen, Disentangle, and Control: Controllable Speech-Driven Talking Head Generation**|Changpeng Cai et.al.|[2405.07257](http://arxiv.org/abs/2405.07257)|null|
 |**2024-05-09**|**DragGaussian: Enabling Drag-style Manipulation on 3D Gaussian Representation**|Sitian Shen et.al.|[2405.05800](http://arxiv.org/abs/2405.05800)|null|
 |**2024-05-09**|**Exploring Text-Guided Single Image Editing for Remote Sensing Images**|Fangzhou Han et.al.|[2405.05769](http://arxiv.org/abs/2405.05769)|null|
 |**2024-05-09**|**RPBG: Towards Robust Neural Point-based Graphics in the Wild**|Qingtian Zhu et.al.|[2405.05663](http://arxiv.org/abs/2405.05663)|null|
@@ -5645,6 +5667,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-13**|**Stability of the Cosmological Dynamics of $O(D,D)$ -complete Stringy Gravity**|A. Savaş Arapoğlu et.al.|[2405.07825](http://arxiv.org/abs/2405.07825)|null|
 |**2024-05-09**|**On the higher-order smallest ring star network of Chialvo neurons under diffusive couplings**|Anjana S. Nair et.al.|[2405.06000](http://arxiv.org/abs/2405.06000)|null|
 |**2024-05-13**|**Dynamical properties of a small heterogeneous chain network of neurons in discrete time**|Indranil Ghosh et.al.|[2405.05675](http://arxiv.org/abs/2405.05675)|null|
 |**2024-05-09**|**Dynamics of a multilink wheeled vehicle: partial solutions and unbounded speedup**|Elizaveta Artemova et.al.|[2405.05661](http://arxiv.org/abs/2405.05661)|null|

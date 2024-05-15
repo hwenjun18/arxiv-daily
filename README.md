@@ -51,6 +51,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-13**|**RATLIP: Generative Adversarial CLIP Text-to-Image Synthesis Based on Recurrent Affine Transformations**|Chengde Lin et.al.|[2405.08114](http://arxiv.org/abs/2405.08114)|**[link](https://github.com/oxygenlu/ratlip)**|
 |**2024-05-13**|**SAR Image Synthesis with Diffusion Models**|Denisa Qosja et.al.|[2405.07776](http://arxiv.org/abs/2405.07776)|null|
 |**2024-05-12**|**Semantic Loss Functions for Neuro-Symbolic Structured Prediction**|Kareem Ahmed et.al.|[2405.07387](http://arxiv.org/abs/2405.07387)|null|
 |**2024-05-12**|**PotatoGANs: Utilizing Generative Adversarial Networks, Instance Segmentation, and Explainable AI for Enhanced Potato Disease Identification and Classification**|Mohammad Shafiul Alam et.al.|[2405.07332](http://arxiv.org/abs/2405.07332)|null|
@@ -1365,6 +1366,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-14**|**Expensive Multi-Objective Bayesian Optimization Based on Diffusion Models**|Bingdong Li et.al.|[2405.08674](http://arxiv.org/abs/2405.08674)|null|
+|**2024-05-14**|**Towards Multi-Task Generative-AI Edge Services with an Attention-based Diffusion DRL Approach**|Yaju Liu et.al.|[2405.08328](http://arxiv.org/abs/2405.08328)|null|
+|**2024-05-14**|**Compositional Text-to-Image Generation with Dense Blob Representations**|Weili Nie et.al.|[2405.08246](http://arxiv.org/abs/2405.08246)|null|
+|**2024-05-13**|**Infinite Texture: Text-guided High Resolution Diffusion Texture Synthesis**|Yifan Wang et.al.|[2405.08210](http://arxiv.org/abs/2405.08210)|null|
+|**2024-05-13**|**Do Bayesian imaging methods report trustworthy probabilities?**|David Y. W. Thong et.al.|[2405.08179](http://arxiv.org/abs/2405.08179)|null|
+|**2024-05-13**|**DiffTF++: 3D-aware Diffusion Transformer for Large-Vocabulary 3D Generation**|Ziang Cao et.al.|[2405.08055](http://arxiv.org/abs/2405.08055)|null|
+|**2024-05-13**|**Coin3D: Controllable and Interactive 3D Assets Generation with Proxy-Guided Conditioning**|Wenqi Dong et.al.|[2405.08054](http://arxiv.org/abs/2405.08054)|null|
+|**2024-05-11**|**Diff-ETS: Learning a Diffusion Probabilistic Model for Electromyography-to-Speech Conversion**|Zhao Ren et.al.|[2405.08021](http://arxiv.org/abs/2405.08021)|null|
 |**2024-05-13**|**Stable Diffusion-based Data Augmentation for Federated Learning with Non-IID Data**|Mahdi Morafah et.al.|[2405.07925](http://arxiv.org/abs/2405.07925)|null|
 |**2024-05-13**|**CTRLorALTer: Conditional LoRAdapter for Efficient 0-Shot Control & Altering of T2I Models**|Nick Stracke et.al.|[2405.07913](http://arxiv.org/abs/2405.07913)|null|
 |**2024-05-13**|**SAR Image Synthesis with Diffusion Models**|Denisa Qosja et.al.|[2405.07776](http://arxiv.org/abs/2405.07776)|null|
@@ -5689,6 +5698,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-14**|**Anomalous Landau damping and algebraic thermalization in two-dimensional superfluids far from equilibrium**|Clément Duval et.al.|[2405.08606](http://arxiv.org/abs/2405.08606)|null|
+|**2024-05-14**|**Dual-Branch Network for Portrait Image Quality Assessment**|Wei Sun et.al.|[2405.08555](http://arxiv.org/abs/2405.08555)|null|
 |**2024-05-13**|**Stability of the Cosmological Dynamics of $O(D,D)$ -complete Stringy Gravity**|A. Savaş Arapoğlu et.al.|[2405.07825](http://arxiv.org/abs/2405.07825)|null|
 |**2024-05-09**|**On the higher-order smallest ring star network of Chialvo neurons under diffusive couplings**|Anjana S. Nair et.al.|[2405.06000](http://arxiv.org/abs/2405.06000)|null|
 |**2024-05-13**|**Dynamical properties of a small heterogeneous chain network of neurons in discrete time**|Indranil Ghosh et.al.|[2405.05675](http://arxiv.org/abs/2405.05675)|null|

@@ -51,6 +51,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-19**|**Nickel and Diming Your GAN: A Dual-Method Approach to Enhancing GAN Efficiency via Knowledge Distillation**|Sangyeop Yeo et.al.|[2405.11614](http://arxiv.org/abs/2405.11614)|null|
+|**2024-05-19**|**A GAN-Based Data Poisoning Attack Against Federated Learning Systems and Its Countermeasure**|Wei Sun et.al.|[2405.11440](http://arxiv.org/abs/2405.11440)|null|
+|**2024-05-18**|**Few-Shot API Attack Detection: Overcoming Data Scarcity with GAN-Inspired Learning**|Udi Aharon et.al.|[2405.11258](http://arxiv.org/abs/2405.11258)|null|
 |**2024-05-16**|**An Autoencoder and Generative Adversarial Networks Approach for Multi-Omics Data Imbalanced Class Handling and Classification**|Ibrahim Al-Hurani et.al.|[2405.09756](http://arxiv.org/abs/2405.09756)|null|
 |**2024-05-15**|**Towards Evaluating the Robustness of Automatic Speech Recognition Systems via Audio Style Transfer**|Weifei Jin et.al.|[2405.09470](http://arxiv.org/abs/2405.09470)|null|
 |**2024-05-15**|**Deep Learning in Earthquake Engineering: A Comprehensive Review**|Yazhou Xie et.al.|[2405.09021](http://arxiv.org/abs/2405.09021)|null|
@@ -1369,6 +1372,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-20**|**Images that Sound: Composing Images and Sounds on a Single Canvas**|Ziyang Chen et.al.|[2405.12221](http://arxiv.org/abs/2405.12221)|null|
+|**2024-05-20**|**Slicedit: Zero-Shot Video Editing With Text-to-Image Diffusion Models Using Spatio-Temporal Slices**|Nathaniel Cohen et.al.|[2405.12211](http://arxiv.org/abs/2405.12211)|null|
+|**2024-05-20**|**Nonequilbrium physics of generative diffusion models**|Zhendong Yu et.al.|[2405.11932](http://arxiv.org/abs/2405.11932)|null|
+|**2024-05-20**|**"Set It Up!": Functional Object Arrangement with Compositional Generative Models**|Yiqing Xu et.al.|[2405.11928](http://arxiv.org/abs/2405.11928)|null|
+|**2024-05-20**|**Diff-BGM: A Diffusion Model for Video Background Music Generation**|Sizhe Li et.al.|[2405.11913](http://arxiv.org/abs/2405.11913)|null|
+|**2024-05-20**|**Out-of-Distribution Detection with a Single Unconditional Diffusion Model**|Alvin Heng et.al.|[2405.11881](http://arxiv.org/abs/2405.11881)|**[link](https://github.com/clear-nus/diffpath)**|
+|**2024-05-20**|**Evolving Storytelling: Benchmarks and Methods for New Character Customization with Diffusion Models**|Xiyu Wang et.al.|[2405.11852](http://arxiv.org/abs/2405.11852)|null|
+|**2024-05-20**|**Alternators For Sequence Modeling**|Mohammad Reza Rezaei et.al.|[2405.11848](http://arxiv.org/abs/2405.11848)|null|
+|**2024-05-20**|**ViViD: Video Virtual Try-on using Diffusion Models**|Zixun Fang et.al.|[2405.11794](http://arxiv.org/abs/2405.11794)|null|
+|**2024-05-20**|**Guided Multi-objective Generative AI to Enhance Structure-based Drug Design**|Amit Kadan et.al.|[2405.11785](http://arxiv.org/abs/2405.11785)|null|
+|**2024-05-20**|**Diffusion Models for Generating Ballistic Spacecraft Trajectories**|Tyler Presser et.al.|[2405.11738](http://arxiv.org/abs/2405.11738)|null|
+|**2024-05-19**|**InterAct: Capture and Modelling of Realistic, Expressive and Interactive Activities between Two Persons in Daily Scenarios**|Yinghao Huang et.al.|[2405.11690](http://arxiv.org/abs/2405.11690)|null|
+|**2024-05-19**|**Uncertainty-Aware PPG-2-ECG for Enhanced Cardiovascular Diagnosis using Diffusion Models**|Omer Belhasin et.al.|[2405.11566](http://arxiv.org/abs/2405.11566)|null|
+|**2024-05-19**|**Diffusion-Based Hierarchical Image Steganography**|Youmin Xu et.al.|[2405.11523](http://arxiv.org/abs/2405.11523)|null|
+|**2024-05-19**|**FIFO-Diffusion: Generating Infinite Videos from Text without Training**|Jihwan Kim et.al.|[2405.11473](http://arxiv.org/abs/2405.11473)|null|
+|**2024-05-19**|**Discrete-state Continuous-time Diffusion for Graph Generation**|Zhe Xu et.al.|[2405.11416](http://arxiv.org/abs/2405.11416)|null|
+|**2024-05-18**|**On the Trajectory Regularity of ODE-based Diffusion Sampling**|Defang Chen et.al.|[2405.11326](http://arxiv.org/abs/2405.11326)|null|
+|**2024-05-18**|**Diffusion Model Driven Test-Time Image Adaptation for Robust Skin Lesion Classification**|Ming Hu et.al.|[2405.11289](http://arxiv.org/abs/2405.11289)|null|
+|**2024-05-18**|**HR Human: Modeling Human Avatars with Triangular Mesh and High-Resolution Textures from Videos**|Qifeng Chen et.al.|[2405.11270](http://arxiv.org/abs/2405.11270)|null|
+|**2024-05-18**|**AquaLoRA: Toward White-box Protection for Customized Stable Diffusion Models via Watermark LoRA**|Weitao Feng et.al.|[2405.11135](http://arxiv.org/abs/2405.11135)|null|
 |**2024-05-17**|**Improving face generation quality and prompt following with synthetic captions**|Michail Tarasiou et.al.|[2405.10864](http://arxiv.org/abs/2405.10864)|null|
 |**2024-05-17**|**Deep Data Consistency: a Fast and Robust Diffusion Model-based Solver for Inverse Problems**|Hanyu Chen et.al.|[2405.10748](http://arxiv.org/abs/2405.10748)|**[link](https://github.com/hanyu-chen373/deepdataconsistency)**|
 |**2024-05-17**|**Numerical Recovery of the Diffusion Coefficient in Diffusion Equations from Terminal Measurement**|Bangti Jin et.al.|[2405.10708](http://arxiv.org/abs/2405.10708)|null|
@@ -4797,6 +4820,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-20**|**A New Cross-Space Total Variation Regularization Model for Color Image Restoration with Quaternion Blur Operator**|Zhigang Jia et.al.|[2405.12114](http://arxiv.org/abs/2405.12114)|null|
+|**2024-05-19**|**Unsupervised Image Prior via Prompt Learning and CLIP Semantic Guidance for Low-Light Image Enhancement**|Igor Morawski et.al.|[2405.11478](http://arxiv.org/abs/2405.11478)|null|
+|**2024-05-19**|**Emphasizing Crucial Features for Efficient Image Restoration**|Hu Gao et.al.|[2405.11468](http://arxiv.org/abs/2405.11468)|**[link](https://github.com/tombs98/ecfnet)**|
+|**2024-05-18**|**ReasonPix2Pix: Instruction Reasoning Dataset for Advanced Image Editing**|Ying Jin et.al.|[2405.11190](http://arxiv.org/abs/2405.11190)|null|
 |**2024-05-17**|**A Versatile Framework for Analyzing Galaxy Image Data by Implanting Human-in-the-loop on a Large Vision Model**|Mingxiang Fu et.al.|[2405.10890](http://arxiv.org/abs/2405.10890)|null|
 |**2024-05-16**|**RSDehamba: Lightweight Vision Mamba for Remote Sensing Satellite Image Dehazing**|Huiling Zhou et.al.|[2405.10030](http://arxiv.org/abs/2405.10030)|null|
 |**2024-05-16**|**NTIRE 2024 Restore Any Image Model (RAIM) in the Wild Challenge**|Jie Liang et.al.|[2405.09923](http://arxiv.org/abs/2405.09923)|null|

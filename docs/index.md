@@ -39,6 +39,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-21**|**Spatial-aware Attention Generative Adversarial Network for Semi-supervised Anomaly Detection in Medical Image**|Zerui Zhang et.al.|[2405.12872](http://arxiv.org/abs/2405.12872)|null|
+|**2024-05-21**|**A Dataset and Baselines for Measuring and Predicting the Music Piece Memorability**|Li-Yang Tseng et.al.|[2405.12847](http://arxiv.org/abs/2405.12847)|null|
+|**2024-05-20**|**Paired Conditional Generative Adversarial Network for Highly Accelerated Liver 4D MRI**|Di Xu et.al.|[2405.12357](http://arxiv.org/abs/2405.12357)|null|
+|**2024-05-20**|**EGAN: Evolutional GAN for Ransomware Evasion**|Daniel Commey et.al.|[2405.12266](http://arxiv.org/abs/2405.12266)|null|
 |**2024-05-19**|**Nickel and Diming Your GAN: A Dual-Method Approach to Enhancing GAN Efficiency via Knowledge Distillation**|Sangyeop Yeo et.al.|[2405.11614](http://arxiv.org/abs/2405.11614)|null|
 |**2024-05-21**|**A GAN-Based Data Poisoning Attack Against Federated Learning Systems and Its Countermeasure**|Wei Sun et.al.|[2405.11440](http://arxiv.org/abs/2405.11440)|null|
 |**2024-05-18**|**Few-Shot API Attack Detection: Overcoming Data Scarcity with GAN-Inspired Learning**|Udi Aharon et.al.|[2405.11258](http://arxiv.org/abs/2405.11258)|null|
@@ -1358,6 +1362,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-21**|**Personalized Residuals for Concept-Driven Text-to-Image Generation**|Cusuh Ham et.al.|[2405.12978](http://arxiv.org/abs/2405.12978)|null|
+|**2024-05-21**|**Face Adapter for Pre-Trained Diffusion Models with Fine-Grained ID and Attribute Control**|Yue Han et.al.|[2405.12970](http://arxiv.org/abs/2405.12970)|null|
+|**2024-05-21**|**Impact of inhomogeneous diffusion on secondary cosmic ray and antiproton local spectra**|Álvaro Tovar-Pardo et.al.|[2405.12918](http://arxiv.org/abs/2405.12918)|null|
+|**2024-05-21**|**Diffusion-RSCC: Diffusion Probabilistic Model for Change Captioning in Remote Sensing Images**|Xiaofei Yu et.al.|[2405.12875](http://arxiv.org/abs/2405.12875)|**[link](https://github.com/fay-y/diffusion-rscc)**|
+|**2024-05-21**|**Model Free Prediction with Uncertainty Assessment**|Yuling Jiao et.al.|[2405.12684](http://arxiv.org/abs/2405.12684)|null|
+|**2024-05-21**|**CustomText: Customized Textual Image Generation using Diffusion Models**|Shubham Paliwal et.al.|[2405.12531](http://arxiv.org/abs/2405.12531)|null|
+|**2024-05-21**|**Customize Your Own Paired Data via Few-shot Way**|Jinshu Chen et.al.|[2405.12490](http://arxiv.org/abs/2405.12490)|null|
+|**2024-05-21**|**One-step data-driven generative model via Schrödinger Bridge**|Hanwen Huang et.al.|[2405.12453](http://arxiv.org/abs/2405.12453)|null|
+|**2024-05-20**|**Diffusion for World Modeling: Visual Details Matter in Atari**|Eloi Alonso et.al.|[2405.12399](http://arxiv.org/abs/2405.12399)|**[link](https://github.com/eloialonso/diamond)**|
 |**2024-05-20**|**Images that Sound: Composing Images and Sounds on a Single Canvas**|Ziyang Chen et.al.|[2405.12221](http://arxiv.org/abs/2405.12221)|null|
 |**2024-05-20**|**Slicedit: Zero-Shot Video Editing With Text-to-Image Diffusion Models Using Spatio-Temporal Slices**|Nathaniel Cohen et.al.|[2405.12211](http://arxiv.org/abs/2405.12211)|null|
 |**2024-05-20**|**Nonequilbrium physics of generative diffusion models**|Zhendong Yu et.al.|[2405.11932](http://arxiv.org/abs/2405.11932)|null|
@@ -4804,6 +4817,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-21**|**Face Adapter for Pre-Trained Diffusion Models with Fine-Grained ID and Attribute Control**|Yue Han et.al.|[2405.12970](http://arxiv.org/abs/2405.12970)|null|
+|**2024-05-21**|**DARK: Denoising, Amplification, Restoration Kit**|Zhuoheng Li et.al.|[2405.12891](http://arxiv.org/abs/2405.12891)|null|
+|**2024-05-21**|**Spatial-aware Attention Generative Adversarial Network for Semi-supervised Anomaly Detection in Medical Image**|Zerui Zhang et.al.|[2405.12872](http://arxiv.org/abs/2405.12872)|null|
+|**2024-05-21**|**EmoEdit: Evoking Emotions through Image Manipulation**|Jingyuan Yang et.al.|[2405.12661](http://arxiv.org/abs/2405.12661)|null|
+|**2024-05-21**|**Customize Your Own Paired Data via Few-shot Way**|Jinshu Chen et.al.|[2405.12490](http://arxiv.org/abs/2405.12490)|null|
 |**2024-05-20**|**A New Cross-Space Total Variation Regularization Model for Color Image Restoration with Quaternion Blur Operator**|Zhigang Jia et.al.|[2405.12114](http://arxiv.org/abs/2405.12114)|null|
 |**2024-05-19**|**Unsupervised Image Prior via Prompt Learning and CLIP Semantic Guidance for Low-Light Image Enhancement**|Igor Morawski et.al.|[2405.11478](http://arxiv.org/abs/2405.11478)|null|
 |**2024-05-19**|**Emphasizing Crucial Features for Efficient Image Restoration**|Hu Gao et.al.|[2405.11468](http://arxiv.org/abs/2405.11468)|**[link](https://github.com/tombs98/ecfnet)**|
@@ -5738,6 +5756,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-21**|**Unveiling the Power of Intermediate Representations for Static Analysis: A Survey**|Bowen Zhang et.al.|[2405.12841](http://arxiv.org/abs/2405.12841)|null|
 |**2024-05-14**|**Anomalous Landau damping and algebraic thermalization in two-dimensional superfluids far from equilibrium**|Clément Duval et.al.|[2405.08606](http://arxiv.org/abs/2405.08606)|null|
 |**2024-05-14**|**Dual-Branch Network for Portrait Image Quality Assessment**|Wei Sun et.al.|[2405.08555](http://arxiv.org/abs/2405.08555)|**[link](https://github.com/sunwei925/dn-piqa)**|
 |**2024-05-13**|**Stability of the Cosmological Dynamics of $O(D,D)$ -complete Stringy Gravity**|A. Savaş Arapoğlu et.al.|[2405.07825](http://arxiv.org/abs/2405.07825)|null|

@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.29
+## Updated on 2024.05.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -45,7 +45,7 @@
 |**2022-11-21**|**Towards Live 3D Reconstruction from Wearable Video: An Evaluation of V-SLAM, NeRF, and Videogrammetry Techniques**|David Ramirez et.al.|[2211.11836](http://arxiv.org/abs/2211.11836)|null|
 |**2022-11-14**|**Controllable GAN Synthesis Using Non-Rigid Structure-from-Motion**|René Haas et.al.|[2211.07195](http://arxiv.org/abs/2211.07195)|null|
 
-<p align=right>(<a href=#Updated-on-20240529>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240530>back to top</a>)</p>
 
 ## GAN
 
@@ -1392,7 +1392,7 @@
 |**2023-03-14**|**3D Face Arbitrary Style Transfer**|Xiangwen Deng et.al.|[2303.07709](http://arxiv.org/abs/2303.07709)|null|
 |**2023-03-13**|**AGTGAN: Unpaired Image Translation for Photographic Ancient Character Generation**|Hongxiang Huang et.al.|[2303.07012](http://arxiv.org/abs/2303.07012)|**[link](https://github.com/hellomystery/agtgan)**|
 
-<p align=right>(<a href=#Updated-on-20240529>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240530>back to top</a>)</p>
 
 ## Diffusion Model
 
@@ -4929,7 +4929,7 @@
 |**2023-03-15**|**DiffBEV: Conditional Diffusion Model for Bird's Eye View Perception**|Jiayu Zou et.al.|[2303.08333](http://arxiv.org/abs/2303.08333)|**[link](https://github.com/jiayuzou2020/diffbev)**|
 |**2023-03-16**|**VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation**|Zhengxiong Luo et.al.|[2303.08320](http://arxiv.org/abs/2303.08320)|null|
 
-<p align=right>(<a href=#Updated-on-20240529>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240530>back to top</a>)</p>
 
 ## Image Edit
 
@@ -5622,15 +5622,15 @@
 |**2023-02-20**|**A Large Scale Homography Benchmark**|Daniel Barath et.al.|[2302.09997](http://arxiv.org/abs/2302.09997)|null|
 |**2023-02-19**|**LC-NeRF: Local Controllable Face Generation in Neural Randiance Field**|Wenyang Zhou et.al.|[2302.09486](http://arxiv.org/abs/2302.09486)|null|
 
-<p align=right>(<a href=#Updated-on-20240529>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240530>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-05-28**|**Self-supervised Pre-training for Transferable Multi-modal Perception**|Xiaohao Xu et.al.|[2405.17942](http://arxiv.org/abs/2405.17942)|null|
-|**2024-05-28**|**HFGS: 4D Gaussian Splatting with Emphasis on Spatial and Temporal High-Frequency Components for Endoscopic Scene Reconstruction**|Haoyu Zhao et.al.|[2405.17872](http://arxiv.org/abs/2405.17872)|null|
-|**2024-05-27**|**DC-Gaussian: Improving 3D Gaussian Splatting for Reflective Dash Cam Videos**|Linhan Wang et.al.|[2405.17705](http://arxiv.org/abs/2405.17705)|null|
+|**2024-05-29**|**HFGS: 4D Gaussian Splatting with Emphasis on Spatial and Temporal High-Frequency Components for Endoscopic Scene Reconstruction**|Haoyu Zhao et.al.|[2405.17872](http://arxiv.org/abs/2405.17872)|null|
+|**2024-05-29**|**DC-Gaussian: Improving 3D Gaussian Splatting for Reflective Dash Cam Videos**|Linhan Wang et.al.|[2405.17705](http://arxiv.org/abs/2405.17705)|null|
 |**2024-05-27**|**Memorize What Matters: Emergent Scene Decomposition from Multitraverse**|Yiming Li et.al.|[2405.17187](http://arxiv.org/abs/2405.17187)|null|
 |**2024-05-28**|**F-3DGS: Factorized Coordinates and Representations for 3D Gaussian Splatting**|Xiangyu Sun et.al.|[2405.17083](http://arxiv.org/abs/2405.17083)|null|
 |**2024-05-27**|**Part123: Part-aware 3D Reconstruction from a Single-view Image**|Anran Liu et.al.|[2405.16888](http://arxiv.org/abs/2405.16888)|null|
@@ -5854,7 +5854,7 @@
 |**2022-12-30**|**NeRF-Gaze: A Head-Eye Redirection Parametric Model for Gaze Estimation**|Pengwei Yin et.al.|[2212.14710](http://arxiv.org/abs/2212.14710)|null|
 |**2023-03-21**|**Masked Wavelet Representation for Compact Neural Radiance Fields**|Daniel Rho et.al.|[2212.09069](http://arxiv.org/abs/2212.09069)|**[link](https://github.com/daniel03c1/masked_wavelet_nerf)**|
 
-<p align=right>(<a href=#Updated-on-20240529>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240530>back to top</a>)</p>
 
 ## Reshaping
 
@@ -5902,14 +5902,14 @@
 |**2022-05-13**|**F3A-GAN: Facial Flow for Face Animation with Generative Adversarial Networks**|Xintian Wu et.al.|[2205.06204](http://arxiv.org/abs/2205.06204)|null|
 |**2022-03-16**|**Efficient conditioned face animation using frontally-viewed embedding**|Maxime Oquab et.al.|[2203.08765](http://arxiv.org/abs/2203.08765)|null|
 
-<p align=right>(<a href=#Updated-on-20240529>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240530>back to top</a>)</p>
 
 ## Portrait 
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-05-24**|**FreezeAsGuard: Mitigating Illegal Adaptation of Diffusion Models via Selective Tensor Freezing**|Kai Huang et.al.|[2405.17472](http://arxiv.org/abs/2405.17472)|null|
-|**2024-05-27**|**Jan Veth's paintings of Jacobus Kapteyn**|Pieter C. van der Kruit et.al.|[2405.16957](http://arxiv.org/abs/2405.16957)|null|
+|**2024-05-29**|**Jan Veth's paintings of Jacobus Kapteyn**|Pieter C. van der Kruit et.al.|[2405.16957](http://arxiv.org/abs/2405.16957)|null|
 |**2024-05-26**|**Protect-Your-IP: Scalable Source-Tracing and Attribution against Personalized Generation**|Runyi Li et.al.|[2405.16596](http://arxiv.org/abs/2405.16596)|null|
 |**2024-05-28**|**VOODOO XP: Expressive One-Shot Head Reenactment for VR Telepresence**|Phong Tran et.al.|[2405.16204](http://arxiv.org/abs/2405.16204)|null|
 |**2024-05-21**|**Unveiling the Power of Intermediate Representations for Static Analysis: A Survey**|Bowen Zhang et.al.|[2405.12841](http://arxiv.org/abs/2405.12841)|null|
@@ -6170,7 +6170,7 @@
 |**2023-03-01**|**DPE: Disentanglement of Pose and Expression for General Video Portrait Editing**|Youxin Pang et.al.|[2301.06281](http://arxiv.org/abs/2301.06281)|null|
 |**2023-01-03**|**StyleTalk: One-shot Talking Head Generation with Controllable Speaking Styles**|Yifeng Ma et.al.|[2301.01081](http://arxiv.org/abs/2301.01081)|**[link](https://github.com/fuxivirtualhuman/styletalk)**|
 
-<p align=right>(<a href=#Updated-on-20240529>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240530>back to top</a>)</p>
 
 ## Transfomer
 
@@ -6206,5 +6206,5 @@
 |**2012-01-21**|**Interior Static Stellar Model with Electric Charge as an Oscillator**|A. M. Baranov et.al.|[1201.4429](http://arxiv.org/abs/1201.4429)|null|
 |**2011-05-16**|**Exactness of the Euclidean algorithm and of the Rauzy induction on the space of interval exchange transfomations**|Tomasz Miernowski et.al.|[1104.3980](http://arxiv.org/abs/1104.3980)|null|
 
-<p align=right>(<a href=#Updated-on-20240529>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240530>back to top</a>)</p>
 

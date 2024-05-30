@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.29
+## Updated on 2024.05.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -5611,8 +5611,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-28**|**Self-supervised Pre-training for Transferable Multi-modal Perception**|Xiaohao Xu et.al.|[2405.17942](http://arxiv.org/abs/2405.17942)|null|
-|**2024-05-28**|**HFGS: 4D Gaussian Splatting with Emphasis on Spatial and Temporal High-Frequency Components for Endoscopic Scene Reconstruction**|Haoyu Zhao et.al.|[2405.17872](http://arxiv.org/abs/2405.17872)|null|
-|**2024-05-27**|**DC-Gaussian: Improving 3D Gaussian Splatting for Reflective Dash Cam Videos**|Linhan Wang et.al.|[2405.17705](http://arxiv.org/abs/2405.17705)|null|
+|**2024-05-29**|**HFGS: 4D Gaussian Splatting with Emphasis on Spatial and Temporal High-Frequency Components for Endoscopic Scene Reconstruction**|Haoyu Zhao et.al.|[2405.17872](http://arxiv.org/abs/2405.17872)|null|
+|**2024-05-29**|**DC-Gaussian: Improving 3D Gaussian Splatting for Reflective Dash Cam Videos**|Linhan Wang et.al.|[2405.17705](http://arxiv.org/abs/2405.17705)|null|
 |**2024-05-27**|**Memorize What Matters: Emergent Scene Decomposition from Multitraverse**|Yiming Li et.al.|[2405.17187](http://arxiv.org/abs/2405.17187)|null|
 |**2024-05-28**|**F-3DGS: Factorized Coordinates and Representations for 3D Gaussian Splatting**|Xiangyu Sun et.al.|[2405.17083](http://arxiv.org/abs/2405.17083)|null|
 |**2024-05-27**|**Part123: Part-aware 3D Reconstruction from a Single-view Image**|Anran Liu et.al.|[2405.16888](http://arxiv.org/abs/2405.16888)|null|
@@ -5887,7 +5887,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-24**|**FreezeAsGuard: Mitigating Illegal Adaptation of Diffusion Models via Selective Tensor Freezing**|Kai Huang et.al.|[2405.17472](http://arxiv.org/abs/2405.17472)|null|
-|**2024-05-27**|**Jan Veth's paintings of Jacobus Kapteyn**|Pieter C. van der Kruit et.al.|[2405.16957](http://arxiv.org/abs/2405.16957)|null|
+|**2024-05-29**|**Jan Veth's paintings of Jacobus Kapteyn**|Pieter C. van der Kruit et.al.|[2405.16957](http://arxiv.org/abs/2405.16957)|null|
 |**2024-05-26**|**Protect-Your-IP: Scalable Source-Tracing and Attribution against Personalized Generation**|Runyi Li et.al.|[2405.16596](http://arxiv.org/abs/2405.16596)|null|
 |**2024-05-28**|**VOODOO XP: Expressive One-Shot Head Reenactment for VR Telepresence**|Phong Tran et.al.|[2405.16204](http://arxiv.org/abs/2405.16204)|null|
 |**2024-05-21**|**Unveiling the Power of Intermediate Representations for Static Analysis: A Survey**|Bowen Zhang et.al.|[2405.12841](http://arxiv.org/abs/2405.12841)|null|

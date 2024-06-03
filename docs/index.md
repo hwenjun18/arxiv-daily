@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.02
+## Updated on 2024.06.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -1396,13 +1396,13 @@ layout: default
 |**2024-05-30**|**MOFA-Video: Controllable Image Animation via Generative Motion Field Adaptions in Frozen Image-to-Video Diffusion Model**|Muyao Niu et.al.|[2405.20222](http://arxiv.org/abs/2405.20222)|null|
 |**2024-05-30**|**Boost Your Own Human Image Generation Model via Direct Preference Optimization with AI Feedback**|Sanghyeon Na et.al.|[2405.20216](http://arxiv.org/abs/2405.20216)|null|
 |**2024-05-30**|**MotionDreamer: Zero-Shot 3D Mesh Animation from Video Diffusion Models**|Lukas Uzolas et.al.|[2405.20155](http://arxiv.org/abs/2405.20155)|null|
-|**2024-05-30**|**DP-IQA: Utilizing Diffusion Prior for Blind Image Quality Assessment in the Wild**|Honghao Fu et.al.|[2405.19996](http://arxiv.org/abs/2405.19996)|**[link](https://github.com/RomGai/DP-IQA)**|
+|**2024-05-31**|**DP-IQA: Utilizing Diffusion Prior for Blind Image Quality Assessment in the Wild**|Honghao Fu et.al.|[2405.19996](http://arxiv.org/abs/2405.19996)|**[link](https://github.com/RomGai/DP-IQA)**|
 |**2024-05-30**|**DiffPhysBA: Diffusion-based Physical Backdoor Attack against Person Re-Identification in Real-World**|Wenli Sun et.al.|[2405.19990](http://arxiv.org/abs/2405.19990)|null|
 |**2024-05-30**|**PLA4D: Pixel-Level Alignments for Text-to-4D Gaussian Splatting**|Qiaowei Miao et.al.|[2405.19957](http://arxiv.org/abs/2405.19957)|null|
 |**2024-05-30**|**Exploring Diffusion Models' Corruption Stage in Few-Shot Fine-tuning and Mitigating with Bayesian Neural Networks**|Xiaoyu Wu et.al.|[2405.19931](http://arxiv.org/abs/2405.19931)|null|
 |**2024-05-30**|**Learning from Random Demonstrations: Offline Reinforcement Learning with Importance-Sampled Diffusion Models**|Zeyu Fang et.al.|[2405.19878](http://arxiv.org/abs/2405.19878)|null|
-|**2024-05-30**|**HQ-DiT: Efficient Diffusion Transformer with FP4 Hybrid Quantization**|Wenxuan Liu et.al.|[2405.19751](http://arxiv.org/abs/2405.19751)|null|
-|**2024-05-30**|**Streaming Video Diffusion: Online Video Editing with Diffusion Models**|Feng Chen et.al.|[2405.19726](http://arxiv.org/abs/2405.19726)|null|
+|**2024-05-31**|**HQ-DiT: Efficient Diffusion Transformer with FP4 Hybrid Quantization**|Wenxuan Liu et.al.|[2405.19751](http://arxiv.org/abs/2405.19751)|null|
+|**2024-05-30**|**Streaming Video Diffusion: Online Video Editing with Diffusion Models**|Feng Chen et.al.|[2405.19726](http://arxiv.org/abs/2405.19726)|**[link](https://github.com/Chenfeng1271/SVDiff)**|
 |**2024-05-30**|**Text Guided Image Editing with Automatic Concept Locating and Forgetting**|Jia Li et.al.|[2405.19708](http://arxiv.org/abs/2405.19708)|null|
 |**2024-05-30**|**Diffusion Policies creating a Trust Region for Offline Reinforcement Learning**|Tianyu Chen et.al.|[2405.19690](http://arxiv.org/abs/2405.19690)|null|
 |**2024-05-30**|**Bridging Model-Based Optimization and Generative Modeling via Conservative Fine-Tuning of Diffusion Models**|Masatoshi Uehara et.al.|[2405.19673](http://arxiv.org/abs/2405.19673)|null|
@@ -4972,7 +4972,7 @@ layout: default
 |**2024-05-24**|**Efficient Degradation-aware Any Image Restoration**|Eduard Zamfir et.al.|[2405.15475](http://arxiv.org/abs/2405.15475)|null|
 |**2024-05-24**|**Enhancing Text-to-Image Editing via Hybrid Mask-Informed Fusion**|Aoxue Li et.al.|[2405.15313](http://arxiv.org/abs/2405.15313)|null|
 |**2024-05-24**|**Blaze3DM: Marry Triplane Representation with Diffusion for 3D Medical Inverse Problem Solving**|Jia He et.al.|[2405.15241](http://arxiv.org/abs/2405.15241)|null|
-|**2024-05-23**|**EditWorld: Simulating World Dynamics for Instruction-Following Image Editing**|Ling Yang et.al.|[2405.14785](http://arxiv.org/abs/2405.14785)|null|
+|**2024-05-23**|**EditWorld: Simulating World Dynamics for Instruction-Following Image Editing**|Ling Yang et.al.|[2405.14785](http://arxiv.org/abs/2405.14785)|**[link](https://github.com/yangling0818/editworld)**|
 |**2024-05-23**|**TIGER: Text-Instructed 3D Gaussian Retrieval and Coherent Editing**|Teng Xu et.al.|[2405.14455](http://arxiv.org/abs/2405.14455)|null|
 |**2024-05-23**|**Efficient Visual State Space Model for Image Deblurring**|Lingshun Kong et.al.|[2405.14343](http://arxiv.org/abs/2405.14343)|null|
 |**2024-05-22**|**Perceptual Fairness in Image Restoration**|Guy Ohayon et.al.|[2405.13805](http://arxiv.org/abs/2405.13805)|null|

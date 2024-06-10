@@ -39,6 +39,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-07**|**GANetic Loss for Generative Adversarial Networks with a Focus on Medical Applications**|Shakhnaz Akhmedova et.al.|[2406.05023](http://arxiv.org/abs/2406.05023)|**[link](https://github.com/ZKI-PH-ImageAnalysis/GANetic-Loss)**|
+|**2024-06-07**|**CityCraft: A Real Crafter for 3D City Generation**|Jie Deng et.al.|[2406.04983](http://arxiv.org/abs/2406.04983)|null|
+|**2024-06-07**|**Activation Map-based Vector Quantization for 360-degree Image Semantic Communication**|Yang Ma et.al.|[2406.04740](http://arxiv.org/abs/2406.04740)|null|
+|**2024-06-07**|**SC2: Towards Enhancing Content Preservation and Style Consistency in Long Text Style Transfer**|Jie Zhao et.al.|[2406.04578](http://arxiv.org/abs/2406.04578)|null|
 |**2024-06-05**|**Style Mixture of Experts for Expressive Text-To-Speech Synthesis**|Ahad Jawaid et.al.|[2406.03637](http://arxiv.org/abs/2406.03637)|null|
 |**2024-06-05**|**Npix2Cpix: A GAN-based Image-to-Image Translation Network with Retrieval-Classification Integration for Watermark Retrieval from Historical Document Images**|Utsab Saha et.al.|[2406.03556](http://arxiv.org/abs/2406.03556)|null|
 |**2024-06-05**|**LLM-based Rewriting of Inappropriate Argumentation using Reinforcement Learning from Machine Feedback**|Timon Ziegenbein et.al.|[2406.03363](http://arxiv.org/abs/2406.03363)|null|
@@ -1416,6 +1420,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-07**|**CoNo: Consistency Noise Injection for Tuning-free Long Video Diffusion**|Xingrui Wang et.al.|[2406.05082](http://arxiv.org/abs/2406.05082)|null|
+|**2024-06-07**|**Generative diffusion models for synthetic trajectories of heavy and light particles in turbulence**|Tianyi Li et.al.|[2406.05008](http://arxiv.org/abs/2406.05008)|null|
+|**2024-06-07**|**Learning Divergence Fields for Shift-Robust Graph Representations**|Qitian Wu et.al.|[2406.04963](http://arxiv.org/abs/2406.04963)|**[link](https://github.com/fannie1208/glind)**|
+|**2024-06-07**|**Combinatorial Complex Score-based Diffusion Modelling through Stochastic Differential Equations**|Adrien Carrel et.al.|[2406.04916](http://arxiv.org/abs/2406.04916)|null|
+|**2024-06-07**|**Online Continual Learning of Video Diffusion Models From a Single Video Stream**|Jason Yoo et.al.|[2406.04814](http://arxiv.org/abs/2406.04814)|null|
+|**2024-06-07**|**TEDi Policy: Temporally Entangled Diffusion for Robotic Control**|Sigmund H. Høeg et.al.|[2406.04806](http://arxiv.org/abs/2406.04806)|null|
+|**2024-06-07**|**Diffusion-based Generative Image Outpainting for Recovery of FOV-Truncated CT Images**|Michelle Espranita Liman et.al.|[2406.04769](http://arxiv.org/abs/2406.04769)|null|
+|**2024-06-07**|**PQPP: A Joint Benchmark for Text-to-Image Prompt and Query Performance Prediction**|Eduard Poesina et.al.|[2406.04746](http://arxiv.org/abs/2406.04746)|**[link](https://github.com/eduard6421/pqpp)**|
+|**2024-06-07**|**FlowMM: Generating Materials with Riemannian Flow Matching**|Benjamin Kurt Miller et.al.|[2406.04713](http://arxiv.org/abs/2406.04713)|null|
+|**2024-06-07**|**MeLFusion: Synthesizing Music from Image and Language Cues using Diffusion Models**|Sanjoy Chowdhury et.al.|[2406.04673](http://arxiv.org/abs/2406.04673)|null|
+|**2024-06-07**|**GenzIQA: Generalized Image Quality Assessment using Prompt-Guided Latent Diffusion Models**|Diptanu De et.al.|[2406.04654](http://arxiv.org/abs/2406.04654)|null|
+|**2024-06-07**|**Boosting Diffusion Model for Spectrogram Up-sampling in Text-to-speech: An Empirical Study**|Chong Zhang et.al.|[2406.04633](http://arxiv.org/abs/2406.04633)|null|
+|**2024-06-07**|**STAR: Skeleton-aware Text-based 4D Avatar Generation with In-Network Motion Retargeting**|Zenghao Chai et.al.|[2406.04629](http://arxiv.org/abs/2406.04629)|null|
+|**2024-06-07**|**CTSyn: A Foundational Model for Cross Tabular Data Generation**|Xiaofeng Lin et.al.|[2406.04619](http://arxiv.org/abs/2406.04619)|null|
+|**2024-06-07**|**Diverse Intra- and Inter-Domain Activity Style Fusion for Cross-Person Generalization in Activity Recognition**|Junru Zhang et.al.|[2406.04609](http://arxiv.org/abs/2406.04609)|null|
+|**2024-06-06**|**Improving Geo-diversity of Generated Images with Contextualized Vendi Score Guidance**|Reyhane Askari Hemmat et.al.|[2406.04551](http://arxiv.org/abs/2406.04551)|null|
 |**2024-06-07**|**Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion**|Fangfu Liu et.al.|[2406.04338](http://arxiv.org/abs/2406.04338)|null|
 |**2024-06-06**|**Coherent Zero-Shot Visual Instruction Generation**|Quynh Phung et.al.|[2406.04337](http://arxiv.org/abs/2406.04337)|null|
 |**2024-06-06**|**BitsFusion: 1.99 bits Weight Quantization of Diffusion Model**|Yang Sui et.al.|[2406.04333](http://arxiv.org/abs/2406.04333)|**[link](https://github.com/huggingface/diffusers)**|
@@ -5056,6 +5076,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-07**|**GenHeld: Generating and Editing Handheld Objects**|Chaerin Min et.al.|[2406.05059](http://arxiv.org/abs/2406.05059)|**[link](https://github.com/ChaerinMin/GenHeld)**|
+|**2024-06-06**|**GenAI Arena: An Open Evaluation Platform for Generative Models**|Dongfu Jiang et.al.|[2406.04485](http://arxiv.org/abs/2406.04485)|null|
+|**2024-06-06**|**Efficient 3D-Aware Facial Image Editing via Attribute-Specific Prompt Learning**|Amandeep Kumar et.al.|[2406.04413](http://arxiv.org/abs/2406.04413)|**[link](https://github.com/virobo-15/efficient-3d-aware-facial-image-editing)**|
 |**2024-06-06**|**Diffusion-based image inpainting with internal learning**|Nicolas Cherel et.al.|[2406.04206](http://arxiv.org/abs/2406.04206)|null|
 |**2024-06-06**|**JIGMARK: A Black-Box Approach for Enhancing Image Watermarks against Diffusion Model Edits**|Minzhou Pan et.al.|[2406.03720](http://arxiv.org/abs/2406.03720)|**[link](https://github.com/pmzzs/JigMark)**|
 |**2024-06-04**|**Deep Block Proximal Linearised Minimisation Algorithm for Non-convex Inverse Problems**|Chaoyan Huang et.al.|[2406.02458](http://arxiv.org/abs/2406.02458)|null|
@@ -5763,6 +5786,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-07**|**CityCraft: A Real Crafter for 3D City Generation**|Jie Deng et.al.|[2406.04983](http://arxiv.org/abs/2406.04983)|null|
 |**2024-06-04**|**3D-HGS: 3D Half-Gaussian Splatting**|Haolin Li et.al.|[2406.02720](http://arxiv.org/abs/2406.02720)|null|
 |**2024-05-30**|**Gated Fields: Learning Scene Reconstruction from Gated Videos**|Andrea Ramazzina et.al.|[2405.19819](http://arxiv.org/abs/2405.19819)|null|
 |**2024-05-30**|**GaussianRoom: Improving 3D Gaussian Splatting with SDF Guidance and Monocular Cues for Indoor Scene Reconstruction**|Haodong Xiang et.al.|[2405.19671](http://arxiv.org/abs/2405.19671)|null|

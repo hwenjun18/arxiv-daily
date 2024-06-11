@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.10
+## Updated on 2024.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -1432,12 +1432,12 @@ layout: default
 |**2024-06-07**|**MeLFusion: Synthesizing Music from Image and Language Cues using Diffusion Models**|Sanjoy Chowdhury et.al.|[2406.04673](http://arxiv.org/abs/2406.04673)|null|
 |**2024-06-07**|**GenzIQA: Generalized Image Quality Assessment using Prompt-Guided Latent Diffusion Models**|Diptanu De et.al.|[2406.04654](http://arxiv.org/abs/2406.04654)|null|
 |**2024-06-07**|**Boosting Diffusion Model for Spectrogram Up-sampling in Text-to-speech: An Empirical Study**|Chong Zhang et.al.|[2406.04633](http://arxiv.org/abs/2406.04633)|null|
-|**2024-06-07**|**STAR: Skeleton-aware Text-based 4D Avatar Generation with In-Network Motion Retargeting**|Zenghao Chai et.al.|[2406.04629](http://arxiv.org/abs/2406.04629)|null|
+|**2024-06-07**|**STAR: Skeleton-aware Text-based 4D Avatar Generation with In-Network Motion Retargeting**|Zenghao Chai et.al.|[2406.04629](http://arxiv.org/abs/2406.04629)|**[link](https://github.com/czh-98/STAR)**|
 |**2024-06-07**|**CTSyn: A Foundational Model for Cross Tabular Data Generation**|Xiaofeng Lin et.al.|[2406.04619](http://arxiv.org/abs/2406.04619)|null|
 |**2024-06-07**|**Diverse Intra- and Inter-Domain Activity Style Fusion for Cross-Person Generalization in Activity Recognition**|Junru Zhang et.al.|[2406.04609](http://arxiv.org/abs/2406.04609)|null|
 |**2024-06-06**|**Improving Geo-diversity of Generated Images with Contextualized Vendi Score Guidance**|Reyhane Askari Hemmat et.al.|[2406.04551](http://arxiv.org/abs/2406.04551)|null|
 |**2024-06-07**|**Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion**|Fangfu Liu et.al.|[2406.04338](http://arxiv.org/abs/2406.04338)|null|
-|**2024-06-06**|**Coherent Zero-Shot Visual Instruction Generation**|Quynh Phung et.al.|[2406.04337](http://arxiv.org/abs/2406.04337)|null|
+|**2024-06-08**|**Coherent Zero-Shot Visual Instruction Generation**|Quynh Phung et.al.|[2406.04337](http://arxiv.org/abs/2406.04337)|null|
 |**2024-06-06**|**BitsFusion: 1.99 bits Weight Quantization of Diffusion Model**|Yang Sui et.al.|[2406.04333](http://arxiv.org/abs/2406.04333)|**[link](https://github.com/huggingface/diffusers)**|
 |**2024-06-06**|**Simplified and Generalized Masked Diffusion for Discrete Data**|Jiaxin Shi et.al.|[2406.04329](http://arxiv.org/abs/2406.04329)|null|
 |**2024-06-06**|**SF-V: Single Forward Video Generation Model**|Zhixing Zhang et.al.|[2406.04324](http://arxiv.org/abs/2406.04324)|null|

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.11
+## Updated on 2024.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -43,7 +43,7 @@ layout: default
 |**2024-06-10**|**Improving Deep Learning-based Automatic Cranial Defect Reconstruction by Heavy Data Augmentation: From Image Registration to Latent Diffusion Models**|Marek Wodzinski et.al.|[2406.06372](http://arxiv.org/abs/2406.06372)|null|
 |**2024-06-09**|**Are Large Language Models Actually Good at Text Style Transfer?**|Sourabrata Mukherjee et.al.|[2406.05885](http://arxiv.org/abs/2406.05885)|null|
 |**2024-06-09**|**GANSky -- fast curved sky weak lensing simulations using Generative Adversarial Networks**|Supranta S. Boruah et.al.|[2406.05867](http://arxiv.org/abs/2406.05867)|null|
-|**2024-06-09**|**MLCM: Multistep Consistency Distillation of Latent Diffusion Model**|Qingsong Xie et.al.|[2406.05768](http://arxiv.org/abs/2406.05768)|null|
+|**2024-06-11**|**MLCM: Multistep Consistency Distillation of Latent Diffusion Model**|Qingsong Xie et.al.|[2406.05768](http://arxiv.org/abs/2406.05768)|null|
 |**2024-06-09**|**Hierarchical Features Matter: A Deep Exploration of GAN Priors for Improved Dataset Distillation**|Xinhao Zhong et.al.|[2406.05704](http://arxiv.org/abs/2406.05704)|null|
 |**2024-06-08**|**Novel Approach to Intrusion Detection: Introducing GAN-MSCNN-BILSTM with LIME Predictions**|Asmaa Benchama et.al.|[2406.05443](http://arxiv.org/abs/2406.05443)|null|
 |**2024-06-07**|**GANetic Loss for Generative Adversarial Networks with a Focus on Medical Applications**|Shakhnaz Akhmedova et.al.|[2406.05023](http://arxiv.org/abs/2406.05023)|**[link](https://github.com/ZKI-PH-ImageAnalysis/GANetic-Loss)**|
@@ -1436,7 +1436,7 @@ layout: default
 |**2024-06-10**|**Diffusion-RPO: Aligning Diffusion Models through Relative Preference Optimization**|Yi Gu et.al.|[2406.06382](http://arxiv.org/abs/2406.06382)|**[link](https://github.com/yigu1008/diffusion-rpo)**|
 |**2024-06-10**|**Improving Deep Learning-based Automatic Cranial Defect Reconstruction by Heavy Data Augmentation: From Image Registration to Latent Diffusion Models**|Marek Wodzinski et.al.|[2406.06372](http://arxiv.org/abs/2406.06372)|null|
 |**2024-06-10**|**MVGamba: Unify 3D Content Generation as State Space Sequence Modeling**|Xuanyu Yi et.al.|[2406.06367](http://arxiv.org/abs/2406.06367)|null|
-|**2024-06-10**|**Tuning-Free Visual Customization via View Iterative Self-Attention Control**|Xiaojie Li et.al.|[2406.06258](http://arxiv.org/abs/2406.06258)|null|
+|**2024-06-11**|**Tuning-Free Visual Customization via View Iterative Self-Attention Control**|Xiaojie Li et.al.|[2406.06258](http://arxiv.org/abs/2406.06258)|null|
 |**2024-06-10**|**Data Augmentation in Earth Observation: A Diffusion Model Approach**|Tiago Sousa et.al.|[2406.06218](http://arxiv.org/abs/2406.06218)|null|
 |**2024-06-10**|**The Effect of Training Dataset Size on Discriminative and Diffusion-Based Speech Enhancement Systems**|Philippe Gonzalez et.al.|[2406.06160](http://arxiv.org/abs/2406.06160)|null|
 |**2024-06-10**|**Thunder : Unified Regression-Diffusion Speech Enhancement with a Single Reverse Step using Brownian Bridge**|Thanapat Trachu et.al.|[2406.06139](http://arxiv.org/abs/2406.06139)|null|

@@ -39,6 +39,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-12**|**ICE-G: Image Conditional Editing of 3D Gaussian Splats**|Vishnu Jaganathan et.al.|[2406.08488](http://arxiv.org/abs/2406.08488)|null|
+|**2024-06-12**|**Small Scale Data-Free Knowledge Distillation**|He Liu et.al.|[2406.07876](http://arxiv.org/abs/2406.07876)|null|
+|**2024-06-11**|**Gene-Level Representation Learning via Interventional Style Transfer in Optical Pooled Screening**|Mahtab Bigverdi et.al.|[2406.07763](http://arxiv.org/abs/2406.07763)|null|
 |**2024-06-11**|**ICGAN: An implicit conditioning method for interpretable feature control of neural audio synthesis**|Yunyi Liu et.al.|[2406.07131](http://arxiv.org/abs/2406.07131)|null|
 |**2024-06-10**|**Monkey See, Monkey Do: Harnessing Self-attention in Motion Diffusion for Zero-shot Motion Transfer**|Sigal Raab et.al.|[2406.06508](http://arxiv.org/abs/2406.06508)|**[link](https://github.com/monkeyseedocg/momo-code)**|
 |**2024-06-10**|**Improving Deep Learning-based Automatic Cranial Defect Reconstruction by Heavy Data Augmentation: From Image Registration to Latent Diffusion Models**|Marek Wodzinski et.al.|[2406.06372](http://arxiv.org/abs/2406.06372)|null|
@@ -1428,6 +1431,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-12**|**Words Worth a Thousand Pictures: Measuring and Understanding Perceptual Variability in Text-to-Image Generation**|Raphael Tang et.al.|[2406.08482](http://arxiv.org/abs/2406.08482)|null|
+|**2024-06-12**|**Human 3Diffusion: Realistic Avatar Creation via Explicit 3D Consistent Diffusion Models**|Yuxuan Xue et.al.|[2406.08475](http://arxiv.org/abs/2406.08475)|null|
+|**2024-06-12**|**$\texttt{DiffLense}$ : A Conditional Diffusion Model for Super-Resolution of Gravitational Lensing Data**|Pranath Reddy et.al.|[2406.08442](http://arxiv.org/abs/2406.08442)|null|
+|**2024-06-12**|**Diffusion Soup: Model Merging for Text-to-Image Diffusion Models**|Benjamin Biggs et.al.|[2406.08431](http://arxiv.org/abs/2406.08431)|null|
+|**2024-06-12**|**FontStudio: Shape-Adaptive Diffusion Model for Coherent and Consistent Font Effect Generation**|Xinzhi Mu et.al.|[2406.08392](http://arxiv.org/abs/2406.08392)|null|
+|**2024-06-12**|**Diff-A-Riff: Musical Accompaniment Co-creation via Latent Diffusion Models**|Javier Nistal et.al.|[2406.08384](http://arxiv.org/abs/2406.08384)|null|
+|**2024-06-12**|**2.5D Multi-view Averaging Diffusion Model for 3D Medical Image Translation: Application to Low-count PET Reconstruction with CT-less Attenuation Correction**|Tianqi Chen et.al.|[2406.08374](http://arxiv.org/abs/2406.08374)|null|
+|**2024-06-12**|**WMAdapter: Adding WaterMark Control to Latent Diffusion Models**|Hai Ci et.al.|[2406.08337](http://arxiv.org/abs/2406.08337)|null|
+|**2024-06-12**|**Dataset Enhancement with Instance-Level Augmentations**|Orest Kupyn et.al.|[2406.08249](http://arxiv.org/abs/2406.08249)|null|
+|**2024-06-12**|**Diffusion-Promoted HDR Video Reconstruction**|Yuanshen Guan et.al.|[2406.08204](http://arxiv.org/abs/2406.08204)|null|
+|**2024-06-12**|**LAFMA: A Latent Flow Matching Model for Text-to-Audio Generation**|Wenhao Guan et.al.|[2406.08203](http://arxiv.org/abs/2406.08203)|null|
+|**2024-06-12**|**One-Step Effective Diffusion Network for Real-World Image Super-Resolution**|Rongyuan Wu et.al.|[2406.08177](http://arxiv.org/abs/2406.08177)|**[link](https://github.com/cswry/osediff)**|
+|**2024-06-12**|**Defect-related Anomalous Mobility of Small polarons in Oxides: the Case of Congruent Lithium Niobate**|Anton Pfannstiel et.al.|[2406.08123](http://arxiv.org/abs/2406.08123)|null|
+|**2024-06-12**|**Make Your Actor Talk: Generalizable and High-Fidelity Lip Sync with Motion and Appearance Disentanglement**|Runyi Yu et.al.|[2406.08096](http://arxiv.org/abs/2406.08096)|null|
+|**2024-06-12**|**CFG++: Manifold-constrained Classifier Free Guidance for Diffusion Models**|Hyungjin Chung et.al.|[2406.08070](http://arxiv.org/abs/2406.08070)|null|
+|**2024-06-12**|**Ablation Based Counterfactuals**|Zheng Dai et.al.|[2406.07908](http://arxiv.org/abs/2406.07908)|null|
+|**2024-06-12**|**DiffPop: Plausibility-Guided Object Placement Diffusion for Image Composition**|Jiacheng Liu et.al.|[2406.07852](http://arxiv.org/abs/2406.07852)|null|
+|**2024-06-12**|**Hierarchical Patch Diffusion Models for High-Resolution Video Generation**|Ivan Skorokhodov et.al.|[2406.07792](http://arxiv.org/abs/2406.07792)|null|
+|**2024-06-11**|**HOI-Swap: Swapping Objects in Videos with Hand-Object Interaction Awareness**|Zihui Xue et.al.|[2406.07754](http://arxiv.org/abs/2406.07754)|null|
+|**2024-06-11**|**CUPID: Contextual Understanding of Prompt-conditioned Image Distributions**|Yayan Zhao et.al.|[2406.07699](http://arxiv.org/abs/2406.07699)|null|
 |**2024-06-11**|**An Image is Worth 32 Tokens for Reconstruction and Generation**|Qihang Yu et.al.|[2406.07550](http://arxiv.org/abs/2406.07550)|null|
 |**2024-06-11**|**Ctrl-X: Controlling Structure and Appearance for Text-To-Image Generation Without Guidance**|Kuan Heng Lin et.al.|[2406.07540](http://arxiv.org/abs/2406.07540)|null|
 |**2024-06-11**|**Simple and Effective Masked Diffusion Language Models**|Subham Sekhar Sahoo et.al.|[2406.07524](http://arxiv.org/abs/2406.07524)|**[link](https://github.com/kuleshov-group/mdlm)**|
@@ -5123,6 +5146,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-12**|**DDR: Exploiting Deep Degradation Response as Flexible Image Descriptor**|Juncheng Wu et.al.|[2406.08377](http://arxiv.org/abs/2406.08377)|null|
+|**2024-06-12**|**One-Step Effective Diffusion Network for Real-World Image Super-Resolution**|Rongyuan Wu et.al.|[2406.08177](http://arxiv.org/abs/2406.08177)|**[link](https://github.com/cswry/osediff)**|
+|**2024-06-12**|**CFG++: Manifold-constrained Classifier Free Guidance for Diffusion Models**|Hyungjin Chung et.al.|[2406.08070](http://arxiv.org/abs/2406.08070)|null|
+|**2024-06-12**|**3D CBCT Challenge 2024: Improved Cone Beam CT Reconstruction using SwinIR-Based Sinogram and Image Enhancement**|Sasidhar Alavala et.al.|[2406.08048](http://arxiv.org/abs/2406.08048)|null|
+|**2024-06-12**|**DemosaicFormer: Coarse-to-Fine Demosaicing Network for HybridEVS Camera**|Senyan Xu et.al.|[2406.07951](http://arxiv.org/abs/2406.07951)|**[link](https://github.com/queahren/demosaicformer)**|
 |**2024-06-11**|**Zero-shot Image Editing with Reference Imitation**|Xi Chen et.al.|[2406.07547](http://arxiv.org/abs/2406.07547)|null|
 |**2024-06-11**|**Beware of Aliases -- Signal Preservation is Crucial for Robust Image Restoration**|Shashank Agnihotri et.al.|[2406.07435](http://arxiv.org/abs/2406.07435)|null|
 |**2024-06-11**|**Unleashing the Denoising Capability of Diffusion Prior for Solving Inverse Problems**|Jiawei Zhang et.al.|[2406.06959](http://arxiv.org/abs/2406.06959)|**[link](https://github.com/weigerzan/projdiff)**|
@@ -5838,6 +5866,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-12**|**Spatial Annealing Smoothing for Efficient Few-shot Neural Rendering**|Yuru Xiao et.al.|[2406.07828](http://arxiv.org/abs/2406.07828)|null|
 |**2024-06-09**|**RefGaussian: Disentangling Reflections from 3D Gaussian Splatting for Realistic Rendering**|Rui Zhang et.al.|[2406.05852](http://arxiv.org/abs/2406.05852)|null|
 |**2024-06-08**|**PAPR in Motion: Seamless Point-level 3D Scene Interpolation**|Shichong Peng et.al.|[2406.05533](http://arxiv.org/abs/2406.05533)|null|
 |**2024-06-07**|**CityCraft: A Real Crafter for 3D City Generation**|Jie Deng et.al.|[2406.04983](http://arxiv.org/abs/2406.04983)|null|

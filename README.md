@@ -51,6 +51,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-13**|**Advancing Graph Generation through Beta Diffusion**|Yilin He et.al.|[2406.09357](http://arxiv.org/abs/2406.09357)|null|
+|**2024-06-13**|**Investigate the Performance of Distribution Loading with Conditional Quantum Generative Adversarial Network Algorithm on Quantum Hardware with Error Suppression**|Anh Pham et.al.|[2406.09341](http://arxiv.org/abs/2406.09341)|null|
+|**2024-06-13**|**DiffPoGAN: Diffusion Policies with Generative Adversarial Networks for Offline Reinforcement Learning**|Xuemin Hu et.al.|[2406.09089](http://arxiv.org/abs/2406.09089)|null|
 |**2024-06-12**|**ICE-G: Image Conditional Editing of 3D Gaussian Splats**|Vishnu Jaganathan et.al.|[2406.08488](http://arxiv.org/abs/2406.08488)|null|
 |**2024-06-12**|**Small Scale Data-Free Knowledge Distillation**|He Liu et.al.|[2406.07876](http://arxiv.org/abs/2406.07876)|**[link](https://github.com/osvai/ssd-kd)**|
 |**2024-06-11**|**Gene-Level Representation Learning via Interventional Style Transfer in Optical Pooled Screening**|Mahtab Bigverdi et.al.|[2406.07763](http://arxiv.org/abs/2406.07763)|null|
@@ -1445,6 +1448,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-13**|**Alleviating Distortion in Image Generation via Multi-Resolution Diffusion Models**|Qihao Liu et.al.|[2406.09416](http://arxiv.org/abs/2406.09416)|null|
+|**2024-06-13**|**An Image is Worth More Than 16x16 Patches: Exploring Transformers on Individual Pixels**|Duy-Kien Nguyen et.al.|[2406.09415](http://arxiv.org/abs/2406.09415)|null|
+|**2024-06-13**|**Interpreting the Weight Space of Customized Diffusion Models**|Amil Dravid et.al.|[2406.09413](http://arxiv.org/abs/2406.09413)|**[link](https://github.com/snap-research/weights2weights)**|
+|**2024-06-13**|**ConsistDreamer: 3D-Consistent 2D Diffusion for High-Fidelity Scene Editing**|Jun-Kun Chen et.al.|[2406.09404](http://arxiv.org/abs/2406.09404)|null|
+|**2024-06-13**|**Instruct 4D-to-4D: Editing 4D Scenes as Pseudo-3D Scenes Using 2D Diffusion**|Linzhan Mou et.al.|[2406.09402](http://arxiv.org/abs/2406.09402)|null|
+|**2024-06-13**|**OmniTokenizer: A Joint Image-Video Tokenizer for Visual Generation**|Junke Wang et.al.|[2406.09399](http://arxiv.org/abs/2406.09399)|**[link](https://github.com/foundationvision/omnitokenizer)**|
+|**2024-06-13**|**SimGen: Simulator-conditioned Driving Scene Generation**|Yunsong Zhou et.al.|[2406.09386](http://arxiv.org/abs/2406.09386)|null|
+|**2024-06-13**|**CLIPAway: Harmonizing Focused Embeddings for Removing Objects via Diffusion Models**|Yigit Ekin et.al.|[2406.09368](http://arxiv.org/abs/2406.09368)|null|
+|**2024-06-13**|**Understanding Hallucinations in Diffusion Models through Mode Interpolation**|Sumukh K Aithal et.al.|[2406.09358](http://arxiv.org/abs/2406.09358)|**[link](https://github.com/locuslab/diffusion-model-hallucination)**|
+|**2024-06-13**|**Advancing Graph Generation through Beta Diffusion**|Yilin He et.al.|[2406.09357](http://arxiv.org/abs/2406.09357)|null|
+|**2024-06-13**|**StableMaterials: Enhancing Diversity in Material Generation via Semi-Supervised Learning**|Giuseppe Vecchio et.al.|[2406.09293](http://arxiv.org/abs/2406.09293)|null|
+|**2024-06-13**|**Neural Assets: 3D-Aware Multi-Object Scene Synthesis with Image Diffusion Models**|Ziyi Wu et.al.|[2406.09292](http://arxiv.org/abs/2406.09292)|null|
+|**2024-06-13**|**Generative Inverse Design of Crystal Structures via Diffusion Models with Transformers**|Izumi Takahara et.al.|[2406.09263](http://arxiv.org/abs/2406.09263)|null|
+|**2024-06-13**|**EMMA: Your Text-to-Image Diffusion Model Can Secretly Accept Multi-Modal Prompts**|Yucheng Han et.al.|[2406.09162](http://arxiv.org/abs/2406.09162)|null|
+|**2024-06-13**|**Complex Image-Generative Diffusion Transformer for Audio Denoising**|Junhui Li et.al.|[2406.09161](http://arxiv.org/abs/2406.09161)|null|
+|**2024-06-13**|**Diffusion Gaussian Mixture Audio Denoise**|Pu Wang et.al.|[2406.09154](http://arxiv.org/abs/2406.09154)|null|
+|**2024-06-13**|**Operator-informed score matching for Markov diffusion models**|Zheyang Shen et.al.|[2406.09084](http://arxiv.org/abs/2406.09084)|null|
+|**2024-06-13**|**EquiPrompt: Debiasing Diffusion Models via Iterative Bootstrapping in Chain of Thoughts**|Zahraa Al Sahili et.al.|[2406.09070](http://arxiv.org/abs/2406.09070)|null|
+|**2024-06-13**|**Preserving Identity with Variational Score for General-purpose 3D Editing**|Duong H. Le et.al.|[2406.08953](http://arxiv.org/abs/2406.08953)|null|
+|**2024-06-13**|**Step-by-Step Diffusion: An Elementary Tutorial**|Preetum Nakkiran et.al.|[2406.08929](http://arxiv.org/abs/2406.08929)|null|
 |**2024-06-12**|**Words Worth a Thousand Pictures: Measuring and Understanding Perceptual Variability in Text-to-Image Generation**|Raphael Tang et.al.|[2406.08482](http://arxiv.org/abs/2406.08482)|null|
 |**2024-06-12**|**Human 3Diffusion: Realistic Avatar Creation via Explicit 3D Consistent Diffusion Models**|Yuxuan Xue et.al.|[2406.08475](http://arxiv.org/abs/2406.08475)|null|
 |**2024-06-12**|**$\texttt{DiffLense}$ : A Conditional Diffusion Model for Super-Resolution of Gravitational Lensing Data**|Pranath Reddy et.al.|[2406.08442](http://arxiv.org/abs/2406.08442)|null|
@@ -5162,6 +5185,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-13**|**CLIPAway: Harmonizing Focused Embeddings for Removing Objects via Diffusion Models**|Yigit Ekin et.al.|[2406.09368](http://arxiv.org/abs/2406.09368)|null|
+|**2024-06-13**|**Toffee: Efficient Million-Scale Dataset Construction for Subject-Driven Text-to-Image Generation**|Yufan Zhou et.al.|[2406.09305](http://arxiv.org/abs/2406.09305)|null|
+|**2024-06-13**|**Preserving Identity with Variational Score for General-purpose 3D Editing**|Duong H. Le et.al.|[2406.08953](http://arxiv.org/abs/2406.08953)|null|
+|**2024-06-13**|**Blind Super-Resolution via Meta-learning and Markov Chain Monte Carlo Simulation**|Jingyuan Xia et.al.|[2406.08896](http://arxiv.org/abs/2406.08896)|**[link](https://github.com/xylgroup/mlmc)**|
+|**2024-06-12**|**LayeredDoc: Domain Adaptive Document Restoration with a Layer Separation Approach**|Maria Pilligua et.al.|[2406.08610](http://arxiv.org/abs/2406.08610)|**[link](https://github.com/mpilligua/layereddoc)**|
 |**2024-06-12**|**DDR: Exploiting Deep Degradation Response as Flexible Image Descriptor**|Juncheng Wu et.al.|[2406.08377](http://arxiv.org/abs/2406.08377)|null|
 |**2024-06-12**|**One-Step Effective Diffusion Network for Real-World Image Super-Resolution**|Rongyuan Wu et.al.|[2406.08177](http://arxiv.org/abs/2406.08177)|**[link](https://github.com/cswry/osediff)**|
 |**2024-06-12**|**CFG++: Manifold-constrained Classifier Free Guidance for Diffusion Models**|Hyungjin Chung et.al.|[2406.08070](http://arxiv.org/abs/2406.08070)|null|
@@ -5884,6 +5912,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-13**|**NeRF Director: Revisiting View Selection in Neural Volume Rendering**|Wenhui Xiao et.al.|[2406.08839](http://arxiv.org/abs/2406.08839)|null|
 |**2024-06-12**|**Spatial Annealing Smoothing for Efficient Few-shot Neural Rendering**|Yuru Xiao et.al.|[2406.07828](http://arxiv.org/abs/2406.07828)|**[link](https://github.com/pulangk97/SANeRF)**|
 |**2024-06-09**|**RefGaussian: Disentangling Reflections from 3D Gaussian Splatting for Realistic Rendering**|Rui Zhang et.al.|[2406.05852](http://arxiv.org/abs/2406.05852)|null|
 |**2024-06-08**|**PAPR in Motion: Seamless Point-level 3D Scene Interpolation**|Shichong Peng et.al.|[2406.05533](http://arxiv.org/abs/2406.05533)|null|
@@ -6173,6 +6202,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-13**|**Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation**|Mingwang Xu et.al.|[2406.08801](http://arxiv.org/abs/2406.08801)|null|
 |**2024-06-11**|**Neural Gaffer: Relighting Any Object via Diffusion**|Haian Jin et.al.|[2406.07520](http://arxiv.org/abs/2406.07520)|null|
 |**2024-06-11**|**A portrait of the rotation of Ultra-Cool Dwarfs revealed by TESS**|D. O. Fontinele et.al.|[2406.07154](http://arxiv.org/abs/2406.07154)|null|
 |**2024-06-09**|**GTR: Improving Large 3D Reconstruction Models through Geometry and Texture Refinement**|Peiye Zhuang et.al.|[2406.05649](http://arxiv.org/abs/2406.05649)|null|

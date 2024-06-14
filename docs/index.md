@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.13
+## Updated on 2024.06.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -40,7 +40,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-12**|**ICE-G: Image Conditional Editing of 3D Gaussian Splats**|Vishnu Jaganathan et.al.|[2406.08488](http://arxiv.org/abs/2406.08488)|null|
-|**2024-06-12**|**Small Scale Data-Free Knowledge Distillation**|He Liu et.al.|[2406.07876](http://arxiv.org/abs/2406.07876)|null|
+|**2024-06-12**|**Small Scale Data-Free Knowledge Distillation**|He Liu et.al.|[2406.07876](http://arxiv.org/abs/2406.07876)|**[link](https://github.com/osvai/ssd-kd)**|
 |**2024-06-11**|**Gene-Level Representation Learning via Interventional Style Transfer in Optical Pooled Screening**|Mahtab Bigverdi et.al.|[2406.07763](http://arxiv.org/abs/2406.07763)|null|
 |**2024-06-11**|**ICGAN: An implicit conditioning method for interpretable feature control of neural audio synthesis**|Yunyi Liu et.al.|[2406.07131](http://arxiv.org/abs/2406.07131)|null|
 |**2024-06-10**|**Monkey See, Monkey Do: Harnessing Self-attention in Motion Diffusion for Zero-shot Motion Transfer**|Sigal Raab et.al.|[2406.06508](http://arxiv.org/abs/2406.06508)|**[link](https://github.com/monkeyseedocg/momo-code)**|
@@ -1439,7 +1439,7 @@ layout: default
 |**2024-06-12**|**Diff-A-Riff: Musical Accompaniment Co-creation via Latent Diffusion Models**|Javier Nistal et.al.|[2406.08384](http://arxiv.org/abs/2406.08384)|null|
 |**2024-06-12**|**2.5D Multi-view Averaging Diffusion Model for 3D Medical Image Translation: Application to Low-count PET Reconstruction with CT-less Attenuation Correction**|Tianqi Chen et.al.|[2406.08374](http://arxiv.org/abs/2406.08374)|null|
 |**2024-06-12**|**WMAdapter: Adding WaterMark Control to Latent Diffusion Models**|Hai Ci et.al.|[2406.08337](http://arxiv.org/abs/2406.08337)|null|
-|**2024-06-12**|**Dataset Enhancement with Instance-Level Augmentations**|Orest Kupyn et.al.|[2406.08249](http://arxiv.org/abs/2406.08249)|null|
+|**2024-06-12**|**Dataset Enhancement with Instance-Level Augmentations**|Orest Kupyn et.al.|[2406.08249](http://arxiv.org/abs/2406.08249)|**[link](https://github.com/KupynOrest/instance_augmentation)**|
 |**2024-06-12**|**Diffusion-Promoted HDR Video Reconstruction**|Yuanshen Guan et.al.|[2406.08204](http://arxiv.org/abs/2406.08204)|null|
 |**2024-06-12**|**LAFMA: A Latent Flow Matching Model for Text-to-Audio Generation**|Wenhao Guan et.al.|[2406.08203](http://arxiv.org/abs/2406.08203)|null|
 |**2024-06-12**|**One-Step Effective Diffusion Network for Real-World Image Super-Resolution**|Rongyuan Wu et.al.|[2406.08177](http://arxiv.org/abs/2406.08177)|**[link](https://github.com/cswry/osediff)**|
@@ -5866,7 +5866,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-12**|**Spatial Annealing Smoothing for Efficient Few-shot Neural Rendering**|Yuru Xiao et.al.|[2406.07828](http://arxiv.org/abs/2406.07828)|null|
+|**2024-06-12**|**Spatial Annealing Smoothing for Efficient Few-shot Neural Rendering**|Yuru Xiao et.al.|[2406.07828](http://arxiv.org/abs/2406.07828)|**[link](https://github.com/pulangk97/SANeRF)**|
 |**2024-06-09**|**RefGaussian: Disentangling Reflections from 3D Gaussian Splatting for Realistic Rendering**|Rui Zhang et.al.|[2406.05852](http://arxiv.org/abs/2406.05852)|null|
 |**2024-06-08**|**PAPR in Motion: Seamless Point-level 3D Scene Interpolation**|Shichong Peng et.al.|[2406.05533](http://arxiv.org/abs/2406.05533)|null|
 |**2024-06-07**|**CityCraft: A Real Crafter for 3D City Generation**|Jie Deng et.al.|[2406.04983](http://arxiv.org/abs/2406.04983)|null|

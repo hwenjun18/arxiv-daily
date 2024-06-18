@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.17
+## Updated on 2024.06.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -5208,7 +5208,7 @@ layout: default
 |**2024-06-11**|**Unleashing the Denoising Capability of Diffusion Prior for Solving Inverse Problems**|Jiawei Zhang et.al.|[2406.06959](http://arxiv.org/abs/2406.06959)|**[link](https://github.com/weigerzan/projdiff)**|
 |**2024-06-09**|**PaRa: Personalizing Text-to-Image Diffusion via Parameter Rank Reduction**|Shangyu Chen et.al.|[2406.05641](http://arxiv.org/abs/2406.05641)|null|
 |**2024-06-07**|**Optimal Eye Surgeon: Finding Image Priors through Sparse Generators at Initialization**|Avrajit Ghosh et.al.|[2406.05288](http://arxiv.org/abs/2406.05288)|**[link](https://github.com/avra98/optimal-eye-surgeon)**|
-|**2024-06-10**|**GenHeld: Generating and Editing Handheld Objects**|Chaerin Min et.al.|[2406.05059](http://arxiv.org/abs/2406.05059)|**[link](https://github.com/ChaerinMin/GenHeld)**|
+|**2024-06-15**|**GenHeld: Generating and Editing Handheld Objects**|Chaerin Min et.al.|[2406.05059](http://arxiv.org/abs/2406.05059)|**[link](https://github.com/ChaerinMin/GenHeld)**|
 |**2024-06-06**|**GenAI Arena: An Open Evaluation Platform for Generative Models**|Dongfu Jiang et.al.|[2406.04485](http://arxiv.org/abs/2406.04485)|null|
 |**2024-06-06**|**Efficient 3D-Aware Facial Image Editing via Attribute-Specific Prompt Learning**|Amandeep Kumar et.al.|[2406.04413](http://arxiv.org/abs/2406.04413)|**[link](https://github.com/virobo-15/efficient-3d-aware-facial-image-editing)**|
 |**2024-06-06**|**Diffusion-based image inpainting with internal learning**|Nicolas Cherel et.al.|[2406.04206](http://arxiv.org/abs/2406.04206)|null|
@@ -6205,7 +6205,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-13**|**Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation**|Mingwang Xu et.al.|[2406.08801](http://arxiv.org/abs/2406.08801)|null|
+|**2024-06-16**|**Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation**|Mingwang Xu et.al.|[2406.08801](http://arxiv.org/abs/2406.08801)|null|
 |**2024-06-11**|**Neural Gaffer: Relighting Any Object via Diffusion**|Haian Jin et.al.|[2406.07520](http://arxiv.org/abs/2406.07520)|null|
 |**2024-06-11**|**A portrait of the rotation of Ultra-Cool Dwarfs revealed by TESS**|D. O. Fontinele et.al.|[2406.07154](http://arxiv.org/abs/2406.07154)|null|
 |**2024-06-13**|**GTR: Improving Large 3D Reconstruction Models through Geometry and Texture Refinement**|Peiye Zhuang et.al.|[2406.05649](http://arxiv.org/abs/2406.05649)|null|

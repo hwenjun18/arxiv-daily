@@ -39,6 +39,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-18**|**SDNIA-YOLO: A Robust Object Detection Model for Extreme Weather Conditions**|Yuexiong Ding et.al.|[2406.12395](http://arxiv.org/abs/2406.12395)|null|
 |**2024-06-17**|**Style Transfer with Multi-iteration Preference Optimization**|Shuai Liu et.al.|[2406.11581](http://arxiv.org/abs/2406.11581)|null|
 |**2024-06-17**|**Quaternion Generative Adversarial Neural Networks and Applications to Color Image Inpainting**|Duan Wang et.al.|[2406.11567](http://arxiv.org/abs/2406.11567)|null|
 |**2024-06-17**|**P-TA: Using Proximal Policy Optimization to Enhance Tabular Data Augmentation via Large Language Models**|Shuo Yang et.al.|[2406.11391](http://arxiv.org/abs/2406.11391)|null|
@@ -1442,6 +1443,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-18**|**Evaluating the design space of diffusion-based generative models**|Yuqing Wang et.al.|[2406.12839](http://arxiv.org/abs/2406.12839)|null|
+|**2024-06-18**|**Neural Approximate Mirror Maps for Constrained Diffusion Models**|Berthy T. Feng et.al.|[2406.12816](http://arxiv.org/abs/2406.12816)|null|
+|**2024-06-18**|**Extracting Training Data from Unconditional Diffusion Models**|Yunhao Chen et.al.|[2406.12752](http://arxiv.org/abs/2406.12752)|null|
+|**2024-06-18**|**Speak in the Scene: Diffusion-based Acoustic Scene Transfer toward Immersive Speech Generation**|Miseul Kim et.al.|[2406.12688](http://arxiv.org/abs/2406.12688)|null|
+|**2024-06-18**|**GeoBench: Benchmarking and Analyzing Monocular Geometry Estimation Models**|Yongtao Ge et.al.|[2406.12671](http://arxiv.org/abs/2406.12671)|**[link](https://github.com/aim-uofa/geobench)**|
+|**2024-06-18**|**Unmasking the Veil: An Investigation into Concept Ablation for Privacy and Copyright Protection in Images**|Shivank Garg et.al.|[2406.12592](http://arxiv.org/abs/2406.12592)|**[link](https://github.com/vlgiitr/unmasking-the-veil)**|
+|**2024-06-18**|**Training Diffusion Models with Federated Learning**|Matthijs de Goede et.al.|[2406.12575](http://arxiv.org/abs/2406.12575)|null|
+|**2024-06-18**|**Variational Distillation of Diffusion Policies into Mixture of Experts**|Hongyi Zhou et.al.|[2406.12538](http://arxiv.org/abs/2406.12538)|null|
+|**2024-06-18**|**HumanSplat: Generalizable Single-Image Human Gaussian Splatting with Structure Priors**|Panwang Pan et.al.|[2406.12459](http://arxiv.org/abs/2406.12459)|**[link](https://github.com/humansplat/humansplat.github.io)**|
+|**2024-06-18**|**Planning Using Schrödinger Bridge Diffusion Models**|Adarsh Srivastava et.al.|[2406.12458](http://arxiv.org/abs/2406.12458)|**[link](https://github.com/adrshsrvstv/bridge_diffusion_planning)**|
+|**2024-06-18**|**Deep Temporal Deaggregation: Large-Scale Spatio-Temporal Generative Models**|David Bergström et.al.|[2406.12423](http://arxiv.org/abs/2406.12423)|null|
+|**2024-06-18**|**TADM: Temporally-Aware Diffusion Model for Neurodegenerative Progression on Brain MRI**|Mattia Litrico et.al.|[2406.12411](http://arxiv.org/abs/2406.12411)|null|
+|**2024-06-18**|**Effective Generation of Feasible Solutions for Integer Programming via Guided Diffusion**|Hao Zeng et.al.|[2406.12349](http://arxiv.org/abs/2406.12349)|null|
+|**2024-06-18**|**Immiscible Diffusion: Accelerating Diffusion Training with Noise Assignment**|Yiheng Li et.al.|[2406.12303](http://arxiv.org/abs/2406.12303)|null|
+|**2024-06-17**|**COT Flow: Learning Optimal-Transport Image Sampling and Editing by Contrastive Pairs**|Xinrui Zu et.al.|[2406.12140](http://arxiv.org/abs/2406.12140)|null|
+|**2024-06-17**|**Adding Conditional Control to Diffusion Models with Reinforcement Learning**|Yulai Zhao et.al.|[2406.12120](http://arxiv.org/abs/2406.12120)|null|
+|**2024-06-17**|**Optimal withdrawals in a general diffusion model with control rates subject to a state-dependent upper bound**|Hélène Guérin et.al.|[2406.12067](http://arxiv.org/abs/2406.12067)|null|
+|**2024-06-17**|**ARTIST: Improving the Generation of Text-rich Images by Disentanglement**|Jianyi Zhang et.al.|[2406.12044](http://arxiv.org/abs/2406.12044)|null|
+|**2024-06-17**|**Not All Prompts Are Made Equal: Prompt-based Pruning of Text-to-Image Diffusion Models**|Alireza Ganjdanesh et.al.|[2406.12042](http://arxiv.org/abs/2406.12042)|null|
+|**2024-06-17**|**Decomposed evaluations of geographic disparities in text-to-image models**|Abhishek Sureddy et.al.|[2406.11988](http://arxiv.org/abs/2406.11988)|null|
 |**2024-06-17**|**Exploring the Role of Large Language Models in Prompt Encoding for Diffusion Models**|Bingqi Ma et.al.|[2406.11831](http://arxiv.org/abs/2406.11831)|null|
 |**2024-06-17**|**MegaScenes: Scene-Level View Synthesis at Scale**|Joseph Tung et.al.|[2406.11819](http://arxiv.org/abs/2406.11819)|null|
 |**2024-06-17**|**DiffMM: Multi-Modal Diffusion Model for Recommendation**|Yangqin Jiang et.al.|[2406.11781](http://arxiv.org/abs/2406.11781)|null|
@@ -5217,6 +5238,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-18**|**VIA: A Spatiotemporal Video Adaptation Framework for Global and Local Video Editing**|Jing Gu et.al.|[2406.12831](http://arxiv.org/abs/2406.12831)|null|
+|**2024-06-18**|**Restorer: Solving Multiple Image Restoration Tasks with One Set of Parameters**|Jiawei Mao et.al.|[2406.12587](http://arxiv.org/abs/2406.12587)|null|
 |**2024-06-17**|**Generative Visual Instruction Tuning**|Jefferson Hernandez et.al.|[2406.11262](http://arxiv.org/abs/2406.11262)|null|
 |**2024-06-16**|**Learning Relighting and Intrinsic Decomposition in Neural Radiance Fields**|Yixiong Yang et.al.|[2406.11077](http://arxiv.org/abs/2406.11077)|null|
 |**2024-06-15**|**The Devil is in the Details: StyleFeatureEditor for Detail-Rich StyleGAN Inversion and High Quality Image Editing**|Denis Bobkov et.al.|[2406.10601](http://arxiv.org/abs/2406.10601)|null|
@@ -5947,6 +5970,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-18**|**Latent Intuitive Physics: Learning to Transfer Hidden Physics from A 3D Video**|Xiangming Zhu et.al.|[2406.12769](http://arxiv.org/abs/2406.12769)|null|
 |**2024-06-17**|**InterNeRF: Scaling Radiance Fields via Parameter Interpolation**|Clinton Wang et.al.|[2406.11737](http://arxiv.org/abs/2406.11737)|null|
 |**2024-06-16**|**Learning Relighting and Intrinsic Decomposition in Neural Radiance Fields**|Yixiong Yang et.al.|[2406.11077](http://arxiv.org/abs/2406.11077)|null|
 |**2024-06-14**|**D-NPC: Dynamic Neural Point Clouds for Non-Rigid View Synthesis from Monocular Video**|Moritz Kappel et.al.|[2406.10078](http://arxiv.org/abs/2406.10078)|null|
@@ -6236,6 +6260,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-18**|**SUPER: Selfie Undistortion and Head Pose Editing with Identity Preservation**|Polina Karpikova et.al.|[2406.12700](http://arxiv.org/abs/2406.12700)|null|
 |**2024-06-18**|**A Comprehensive Taxonomy and Analysis of Talking Head Synthesis: Techniques for Portrait Generation, Driving Mechanisms, and Editing**|Ming Meng et.al.|[2406.10553](http://arxiv.org/abs/2406.10553)|null|
 |**2024-06-16**|**Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation**|Mingwang Xu et.al.|[2406.08801](http://arxiv.org/abs/2406.08801)|null|
 |**2024-06-11**|**Neural Gaffer: Relighting Any Object via Diffusion**|Haian Jin et.al.|[2406.07520](http://arxiv.org/abs/2406.07520)|null|
@@ -6245,7 +6270,7 @@ layout: default
 |**2024-06-05**|**Controllable Talking Face Generation by Implicit Facial Keypoints Editing**|Dong Zhao et.al.|[2406.02880](http://arxiv.org/abs/2406.02880)|null|
 |**2024-06-04**|**V-Express: Conditional Dropout for Progressive Training of Portrait Video Generation**|Cong Wang et.al.|[2406.02511](http://arxiv.org/abs/2406.02511)|null|
 |**2024-06-07**|**Follow-Your-Emoji: Fine-Controllable and Expressive Freestyle Portrait Animation**|Yue Ma et.al.|[2406.01900](http://arxiv.org/abs/2406.01900)|null|
-|**2024-06-18**|**MegActor: Harness the Power of Raw Video for Vivid Portrait Animation**|Shurong Yang et.al.|[2405.20851](http://arxiv.org/abs/2405.20851)|**[link](https://github.com/megvii-research/megfaceanimate)**|
+|**2024-06-18**|**MegActor: Harness the Power of Raw Video for Vivid Portrait Animation**|Shurong Yang et.al.|[2405.20851](http://arxiv.org/abs/2405.20851)|**[link](https://github.com/megvii-research/megactor)**|
 |**2024-05-30**|**Iterative Learning Control of Fast, Nonlinear, Oscillatory Dynamics (Preprint)**|John W. Brooks et.al.|[2405.20045](http://arxiv.org/abs/2405.20045)|null|
 |**2024-05-24**|**FreezeAsGuard: Mitigating Illegal Adaptation of Diffusion Models via Selective Tensor Freezing**|Kai Huang et.al.|[2405.17472](http://arxiv.org/abs/2405.17472)|**[link](https://github.com/pittisl/freezeasguard)**|
 |**2024-05-29**|**Jan Veth's paintings of Jacobus Kapteyn**|Pieter C. van der Kruit et.al.|[2405.16957](http://arxiv.org/abs/2405.16957)|null|

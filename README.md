@@ -51,6 +51,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-20**|**ForSE+: Simulating non-Gaussian CMB foregrounds at 3 arcminutes in a stochastic way based on a generative adversarial network**|Jian Yao et.al.|[2406.14519](http://arxiv.org/abs/2406.14519)|**[link](https://github.com/yaojian95/ForSEplus)**|
+|**2024-06-20**|**In Tree Structure Should Sentence Be Generated**|Yaguang Li et.al.|[2406.14189](http://arxiv.org/abs/2406.14189)|**[link](https://github.com/arklyg/sentree)**|
+|**2024-06-20**|**Urban-Focused Multi-Task Offline Reinforcement Learning with Contrastive Data Sharing**|Xinbo Zhao et.al.|[2406.14054](http://arxiv.org/abs/2406.14054)|null|
+|**2024-06-20**|**The Elusive Pursuit of Replicating PATE-GAN: Benchmarking, Auditing, Debugging**|Georgi Ganev et.al.|[2406.13985](http://arxiv.org/abs/2406.13985)|**[link](https://github.com/spalabucr/pategan-audit)**|
+|**2024-06-20**|**Synthesizing Multimodal Electronic Health Records via Predictive Diffusion Models**|Yuan Zhong et.al.|[2406.13942](http://arxiv.org/abs/2406.13942)|null|
+|**2024-06-19**|**Tree-Sliced Wasserstein Distance on a System of Lines**|Viet-Hoang Tran et.al.|[2406.13725](http://arxiv.org/abs/2406.13725)|null|
+|**2024-06-19**|**Hitchhiker's guide on Energy-Based Models: a comprehensive review on the relation with other generative models, sampling and statistical physics**|Davide Carbone et.al.|[2406.13661](http://arxiv.org/abs/2406.13661)|null|
+|**2024-06-19**|**Can AI be enabled to dynamical downscaling? Training a Latent Diffusion Model to mimic km-scale COSMO-CLM downscaling of ERA5 over Italy**|Elena Tomasi et.al.|[2406.13627](http://arxiv.org/abs/2406.13627)|null|
+|**2024-06-19**|**Enhance the Image: Super Resolution using Artificial Intelligence in MRI**|Ziyu Li et.al.|[2406.13625](http://arxiv.org/abs/2406.13625)|null|
+|**2024-06-19**|**Generative Modeling by Minimizing the Wasserstein-2 Loss**|Yu-Jui Huang et.al.|[2406.13619](http://arxiv.org/abs/2406.13619)|null|
+|**2024-06-19**|**Style-NeRF2NeRF: 3D Style Transfer From Style-Aligned Multi-View Images**|Haruo Fujiwara et.al.|[2406.13393](http://arxiv.org/abs/2406.13393)|null|
+|**2024-06-19**|**Search-based DNN Testing and Retraining with GAN-enhanced Simulations**|Mohammed Oualid Attaoui et.al.|[2406.13359](http://arxiv.org/abs/2406.13359)|null|
+|**2024-06-19**|**Quantum Generative Learning for High-Resolution Medical Image Generation**|Amena Khatun et.al.|[2406.13196](http://arxiv.org/abs/2406.13196)|null|
 |**2024-06-18**|**SDNIA-YOLO: A Robust Object Detection Model for Extreme Weather Conditions**|Yuexiong Ding et.al.|[2406.12395](http://arxiv.org/abs/2406.12395)|null|
 |**2024-06-17**|**Style Transfer with Multi-iteration Preference Optimization**|Shuai Liu et.al.|[2406.11581](http://arxiv.org/abs/2406.11581)|null|
 |**2024-06-17**|**Quaternion Generative Adversarial Neural Networks and Applications to Color Image Inpainting**|Duan Wang et.al.|[2406.11567](http://arxiv.org/abs/2406.11567)|null|
@@ -1457,6 +1470,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-20**|**A Survey of Multimodal-Guided Image Editing with Text-to-Image Diffusion Models**|Xincheng Shuai et.al.|[2406.14555](http://arxiv.org/abs/2406.14555)|**[link](https://github.com/xinchengshuai/awesome-image-editing)**|
+|**2024-06-20**|**Advancing Fine-Grained Classification by Structure and Subject Preserving Augmentation**|Eyal Michaeli et.al.|[2406.14551](http://arxiv.org/abs/2406.14551)|**[link](https://github.com/eyalmichaeli/saspa-aug)**|
+|**2024-06-20**|**Consistency Models Made Easy**|Zhengyang Geng et.al.|[2406.14548](http://arxiv.org/abs/2406.14548)|**[link](https://github.com/locuslab/ect)**|
+|**2024-06-20**|**Invertible Consistency Distillation for Text-Guided Image Editing in Around 7 Steps**|Nikita Starodubcev et.al.|[2406.14539](http://arxiv.org/abs/2406.14539)|null|
+|**2024-06-20**|**V-LASIK: Consistent Glasses-Removal from Videos Using Synthetic Data**|Rotem Shalev-Arkushin et.al.|[2406.14510](http://arxiv.org/abs/2406.14510)|null|
+|**2024-06-20**|**SafeSora: Towards Safety Alignment of Text2Video Generation via a Human Preference Dataset**|Josef Dai et.al.|[2406.14477](http://arxiv.org/abs/2406.14477)|**[link](https://github.com/pku-alignment/safe-sora)**|
+|**2024-06-20**|**CollaFuse: Collaborative Diffusion Models**|Simeon Allmendinger et.al.|[2406.14429](http://arxiv.org/abs/2406.14429)|**[link](https://github.com/simeonallmendinger/collafuse)**|
+|**2024-06-20**|**Active Diffusion Subsampling**|Oisin Nolan et.al.|[2406.14388](http://arxiv.org/abs/2406.14388)|null|
+|**2024-06-20**|**In Tree Structure Should Sentence Be Generated**|Yaguang Li et.al.|[2406.14189](http://arxiv.org/abs/2406.14189)|**[link](https://github.com/arklyg/sentree)**|
+|**2024-06-20**|**CriDiff: Criss-cross Injection Diffusion Framework via Generative Pre-train for Prostate Segmentation**|Tingwei Liu et.al.|[2406.14186](http://arxiv.org/abs/2406.14186)|null|
+|**2024-06-20**|**ExVideo: Extending Video Diffusion Models via Parameter-Efficient Post-Tuning**|Zhongjie Duan et.al.|[2406.14130](http://arxiv.org/abs/2406.14130)|null|
+|**2024-06-20**|**HeartBeat: Towards Controllable Echocardiography Video Synthesis with Multimodal Conditions-Guided Diffusion Models**|Xinrui Zhou et.al.|[2406.14098](http://arxiv.org/abs/2406.14098)|null|
+|**2024-06-20**|**Bridging bulk and surface: An interacting particle system towards the field-road diffusion model**|Matthieu Alfaro et.al.|[2406.14093](http://arxiv.org/abs/2406.14093)|null|
+|**2024-06-20**|**A Practical Diffusion Path for Sampling**|Omar Chehab et.al.|[2406.14040](http://arxiv.org/abs/2406.14040)|null|
+|**2024-06-20**|**Similarity-aware Syncretic Latent Diffusion Model for Medical Image Translation with Representation Learning**|Tingyi Lin et.al.|[2406.13977](http://arxiv.org/abs/2406.13977)|null|
+|**2024-06-20**|**Synthesizing Multimodal Electronic Health Records via Predictive Diffusion Models**|Yuan Zhong et.al.|[2406.13942](http://arxiv.org/abs/2406.13942)|null|
+|**2024-06-20**|**EnTruth: Enhancing the Traceability of Unauthorized Dataset Usage in Text-to-image Diffusion Models with Minimal and Robust Alterations**|Jie Ren et.al.|[2406.13933](http://arxiv.org/abs/2406.13933)|null|
+|**2024-06-19**|**INFusion: Diffusion Regularized Implicit Neural Representations for 2D and 3D accelerated MRI reconstruction**|Yamin Arefeen et.al.|[2406.13895](http://arxiv.org/abs/2406.13895)|null|
+|**2024-06-19**|**Stability and Generalizability in SDE Diffusion Models with Measure-Preserving Dynamics**|Weitong Zhang et.al.|[2406.13652](http://arxiv.org/abs/2406.13652)|null|
+|**2024-06-19**|**On AI-Inspired UI-Design**|Jialiang Wei et.al.|[2406.13631](http://arxiv.org/abs/2406.13631)|null|
 |**2024-06-18**|**Evaluating the design space of diffusion-based generative models**|Yuqing Wang et.al.|[2406.12839](http://arxiv.org/abs/2406.12839)|null|
 |**2024-06-18**|**Neural Approximate Mirror Maps for Constrained Diffusion Models**|Berthy T. Feng et.al.|[2406.12816](http://arxiv.org/abs/2406.12816)|null|
 |**2024-06-18**|**Extracting Training Data from Unconditional Diffusion Models**|Yunhao Chen et.al.|[2406.12752](http://arxiv.org/abs/2406.12752)|null|
@@ -5254,11 +5287,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-20**|**A Survey of Multimodal-Guided Image Editing with Text-to-Image Diffusion Models**|Xincheng Shuai et.al.|[2406.14555](http://arxiv.org/abs/2406.14555)|**[link](https://github.com/xinchengshuai/awesome-image-editing)**|
+|**2024-06-20**|**Invertible Consistency Distillation for Text-Guided Image Editing in Around 7 Steps**|Nikita Starodubcev et.al.|[2406.14539](http://arxiv.org/abs/2406.14539)|null|
+|**2024-06-19**|**Ultra-High-Definition Restoration: New Benchmarks and A Dual Interaction Prior-Driven Solution**|Liyan Wang et.al.|[2406.13607](http://arxiv.org/abs/2406.13607)|**[link](https://github.com/wlydlut/uhddip)**|
+|**2024-06-19**|**Diffusion Model-based FOD Restoration from High Distortion in dMRI**|Shuo Huang et.al.|[2406.13209](http://arxiv.org/abs/2406.13209)|null|
 |**2024-06-18**|**VIA: A Spatiotemporal Video Adaptation Framework for Global and Local Video Editing**|Jing Gu et.al.|[2406.12831](http://arxiv.org/abs/2406.12831)|null|
 |**2024-06-18**|**Restorer: Solving Multiple Image Restoration Tasks with One Set of Parameters**|Jiawei Mao et.al.|[2406.12587](http://arxiv.org/abs/2406.12587)|null|
 |**2024-06-17**|**Generative Visual Instruction Tuning**|Jefferson Hernandez et.al.|[2406.11262](http://arxiv.org/abs/2406.11262)|null|
 |**2024-06-16**|**Learning Relighting and Intrinsic Decomposition in Neural Radiance Fields**|Yixiong Yang et.al.|[2406.11077](http://arxiv.org/abs/2406.11077)|null|
-|**2024-06-15**|**The Devil is in the Details: StyleFeatureEditor for Detail-Rich StyleGAN Inversion and High Quality Image Editing**|Denis Bobkov et.al.|[2406.10601](http://arxiv.org/abs/2406.10601)|null|
+|**2024-06-15**|**The Devil is in the Details: StyleFeatureEditor for Detail-Rich StyleGAN Inversion and High Quality Image Editing**|Denis Bobkov et.al.|[2406.10601](http://arxiv.org/abs/2406.10601)|**[link](https://github.com/airi-institute/stylefeatureeditor)**|
 |**2024-06-14**|**InstructRL4Pix: Training Diffusion for Image Editing by Reinforcement Learning**|Tiancheng Li et.al.|[2406.09973](http://arxiv.org/abs/2406.09973)|null|
 |**2024-06-13**|**DSL-FIQA: Assessing Facial Image Quality via Dual-Set Degradation Learning and Landmark-Guided Transformer**|Wei-Ting Chen et.al.|[2406.09622](http://arxiv.org/abs/2406.09622)|null|
 |**2024-06-13**|**CLIPAway: Harmonizing Focused Embeddings for Removing Objects via Diffusion Models**|Yigit Ekin et.al.|[2406.09368](http://arxiv.org/abs/2406.09368)|null|
@@ -6282,6 +6319,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-20**|**Secular dynamics and the lifetimes of lunar artificial satellites under natural force-driven orbital evolution**|Edoardo Legnaro et.al.|[2406.14181](http://arxiv.org/abs/2406.14181)|null|
 |**2024-06-18**|**SUPER: Selfie Undistortion and Head Pose Editing with Identity Preservation**|Polina Karpikova et.al.|[2406.12700](http://arxiv.org/abs/2406.12700)|null|
 |**2024-06-18**|**A Comprehensive Taxonomy and Analysis of Talking Head Synthesis: Techniques for Portrait Generation, Driving Mechanisms, and Editing**|Ming Meng et.al.|[2406.10553](http://arxiv.org/abs/2406.10553)|null|
 |**2024-06-16**|**Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation**|Mingwang Xu et.al.|[2406.08801](http://arxiv.org/abs/2406.08801)|null|

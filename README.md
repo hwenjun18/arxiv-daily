@@ -51,6 +51,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-24**|**Concentration Inequalities for $(f,Γ)$ -GANs**|Jeremiah Birrell et.al.|[2406.16834](http://arxiv.org/abs/2406.16834)|null|
+|**2024-06-24**|**Improving Generative Adversarial Networks for Video Super-Resolution**|Daniel Wen et.al.|[2406.16359](http://arxiv.org/abs/2406.16359)|null|
+|**2024-06-23**|**Evaluation and Comparison of Emotionally Evocative Image Augmentation Methods**|Jan Ignatowicz et.al.|[2406.16187](http://arxiv.org/abs/2406.16187)|null|
+|**2024-06-23**|**Wound Tissue Segmentation in Diabetic Foot Ulcer Images Using Deep Learning: A Pilot Study**|Mrinal Kanti Dhar et.al.|[2406.16012](http://arxiv.org/abs/2406.16012)|**[link](https://github.com/uwm-bigdata/dfutissuesegnet)**|
+|**2024-06-22**|**Improving Unsupervised Clean-to-Rendered Guitar Tone Transformation Using GANs and Integrated Unaligned Clean Data**|Yu-Hua Chen et.al.|[2406.15751](http://arxiv.org/abs/2406.15751)|null|
+|**2024-06-21**|**TinyStyler: Efficient Few-Shot Text Style Transfer with Authorship Embeddings**|Zachary Horvitz et.al.|[2406.15586](http://arxiv.org/abs/2406.15586)|null|
 |**2024-06-21**|**Fingerprint Membership and Identity Inference Against Generative Adversarial Networks**|Saverio Cavasin et.al.|[2406.15253](http://arxiv.org/abs/2406.15253)|null|
 |**2024-06-21**|**Latent diffusion models for parameterization and data assimilation of facies-based geomodels**|Guido Di Federico et.al.|[2406.14815](http://arxiv.org/abs/2406.14815)|null|
 |**2024-06-20**|**ForSE+: Simulating non-Gaussian CMB foregrounds at 3 arcminutes in a stochastic way based on a generative adversarial network**|Jian Yao et.al.|[2406.14519](http://arxiv.org/abs/2406.14519)|**[link](https://github.com/yaojian95/ForSEplus)**|
@@ -1472,6 +1478,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-24**|**FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models**|Haonan Qiu et.al.|[2406.16863](http://arxiv.org/abs/2406.16863)|**[link](https://github.com/arthur-qiu/freetraj)**|
+|**2024-06-24**|**Dreamitate: Real-World Visuomotor Policy Learning via Video Generation**|Junbang Liang et.al.|[2406.16862](http://arxiv.org/abs/2406.16862)|null|
+|**2024-06-24**|**General Binding Affinity Guidance for Diffusion Models in Structure-Based Drug Design**|Yue Jian et.al.|[2406.16821](http://arxiv.org/abs/2406.16821)|null|
+|**2024-06-24**|**Portrait3D: 3D Head Generation from Single In-the-wild Portrait Image**|Jinkun Hao et.al.|[2406.16710](http://arxiv.org/abs/2406.16710)|null|
+|**2024-06-24**|**Geometry-Aware Score Distillation via 3D Consistent Noising and Gradient Consistency Modeling**|Min-Seop Kwak et.al.|[2406.16695](http://arxiv.org/abs/2406.16695)|null|
+|**2024-06-24**|**Repulsive Score Distillation for Diverse Sampling of Diffusion Models**|Nicolas Zilberstein et.al.|[2406.16683](http://arxiv.org/abs/2406.16683)|null|
+|**2024-06-24**|**OAML: Outlier Aware Metric Learning for OOD Detection Enhancement**|Heng Gao et.al.|[2406.16525](http://arxiv.org/abs/2406.16525)|null|
+|**2024-06-24**|**DaLPSR: Leverage Degradation-Aligned Language Prompt for Real-World Image Super-Resolution**|Aiwen Jiang et.al.|[2406.16477](http://arxiv.org/abs/2406.16477)|null|
+|**2024-06-24**|**ResMaster: Mastering High-Resolution Image Generation via Structural and Fine-Grained Guidance**|Shuwei Shi et.al.|[2406.16476](http://arxiv.org/abs/2406.16476)|null|
+|**2024-06-24**|**Prompt-Consistency Image Generation (PCIG): A Unified Framework Integrating LLMs, Knowledge Graphs, and Controllable Diffusion Models**|Yichen Sun et.al.|[2406.16333](http://arxiv.org/abs/2406.16333)|null|
+|**2024-06-24**|**YouDream: Generating Anatomically Controllable Consistent Text-to-3D Animals**|Sandeep Mishra et.al.|[2406.16273](http://arxiv.org/abs/2406.16273)|null|
+|**2024-06-24**|**Repairing Catastrophic-Neglect in Text-to-Image Diffusion Models via Attention-Guided Feature Enhancement**|Zhiyuan Chang et.al.|[2406.16272](http://arxiv.org/abs/2406.16272)|null|
+|**2024-06-24**|**Video-Infinity: Distributed Long Video Generation**|Zhenxiong Tan et.al.|[2406.16260](http://arxiv.org/abs/2406.16260)|null|
+|**2024-06-23**|**Provable Statistical Rates for Consistency Diffusion Models**|Zehao Dou et.al.|[2406.16213](http://arxiv.org/abs/2406.16213)|null|
+|**2024-06-23**|**UDHF2-Net: An Uncertainty-diffusion-model-based High-Frequency TransFormer Network for High-accuracy Interpretation of Remotely Sensed Imagery**|Pengfei Zhang et.al.|[2406.16129](http://arxiv.org/abs/2406.16129)|null|
+|**2024-06-23**|**Diffusion Spectral Representation for Reinforcement Learning**|Dmitry Shribak et.al.|[2406.16121](http://arxiv.org/abs/2406.16121)|null|
+|**2024-06-23**|**Pose-Diversified Augmentation with Diffusion Model for Person Re-Identification**|Inès Hyeonsu Kim et.al.|[2406.16042](http://arxiv.org/abs/2406.16042)|null|
+|**2024-06-23**|**TimeAutoDiff: Combining Autoencoder and Diffusion model for time series tabular data synthesizing**|Namjoon Suh et.al.|[2406.16028](http://arxiv.org/abs/2406.16028)|null|
+|**2024-06-22**|**PUDD: Towards Robust Multi-modal Prototype-based Deepfake Detection**|Alvaro Lopez Pellcier et.al.|[2406.15921](http://arxiv.org/abs/2406.15921)|null|
+|**2024-06-22**|**Soft Masked Mamba Diffusion Model for CT to MRI Conversion**|Zhenbin Wang et.al.|[2406.15910](http://arxiv.org/abs/2406.15910)|**[link](https://github.com/wongzbb/diffma-diffusion-mamba)**|
 |**2024-06-21**|**Masked Extended Attention for Zero-Shot Virtual Try-On In The Wild**|Nadav Orzech et.al.|[2406.15331](http://arxiv.org/abs/2406.15331)|null|
 |**2024-06-21**|**You Only Acquire Sparse-channel (YOAS): A Unified Framework for Dense-channel EEG Generation**|Hongyu Chen et.al.|[2406.15269](http://arxiv.org/abs/2406.15269)|null|
 |**2024-06-21**|**Unsupervised Bayesian Generation of Synthetic CT from CBCT Using Patient-Specific Score-Based Prior**|Junbo Peng et.al.|[2406.15219](http://arxiv.org/abs/2406.15219)|null|
@@ -5305,6 +5331,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-24**|**GIM: A Million-scale Benchmark for Generative Image Manipulation Detection and Localization**|Yirui Chen et.al.|[2406.16531](http://arxiv.org/abs/2406.16531)|null|
+|**2024-06-24**|**DaLPSR: Leverage Degradation-Aligned Language Prompt for Real-World Image Super-Resolution**|Aiwen Jiang et.al.|[2406.16477](http://arxiv.org/abs/2406.16477)|null|
+|**2024-06-22**|**MVOC: a training-free multiple video object composition method with diffusion models**|Wei Wang et.al.|[2406.15829](http://arxiv.org/abs/2406.15829)|null|
 |**2024-06-20**|**A Survey of Multimodal-Guided Image Editing with Text-to-Image Diffusion Models**|Xincheng Shuai et.al.|[2406.14555](http://arxiv.org/abs/2406.14555)|**[link](https://github.com/xinchengshuai/awesome-image-editing)**|
 |**2024-06-20**|**Invertible Consistency Distillation for Text-Guided Image Editing in Around 7 Steps**|Nikita Starodubcev et.al.|[2406.14539](http://arxiv.org/abs/2406.14539)|null|
 |**2024-06-22**|**Ultra-High-Definition Restoration: New Benchmarks and A Dual Interaction Prior-Driven Solution**|Liyan Wang et.al.|[2406.13607](http://arxiv.org/abs/2406.13607)|**[link](https://github.com/wlydlut/uhddip)**|
@@ -6337,6 +6366,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-24**|**Portrait3D: 3D Head Generation from Single In-the-wild Portrait Image**|Jinkun Hao et.al.|[2406.16710](http://arxiv.org/abs/2406.16710)|null|
+|**2024-06-24**|**Character-Adapter: Prompt-Guided Region Control for High-Fidelity Character Customization**|Yuhang Ma et.al.|[2406.16537](http://arxiv.org/abs/2406.16537)|null|
+|**2024-06-24**|**Dynamical structures of misaligned circumbinary planets under hierarchical three-body systems**|Hanlun Lei et.al.|[2406.16274](http://arxiv.org/abs/2406.16274)|null|
+|**2024-06-22**|**Quality-guided Skin Tone Enhancement for Portrait Photography**|Shiqi Gao et.al.|[2406.15848](http://arxiv.org/abs/2406.15848)|null|
 |**2024-06-21**|**Landscape More Secure Than Portrait? Zooming Into the Directionality of Digital Images With Security Implications**|Benedikt Lorch et.al.|[2406.15206](http://arxiv.org/abs/2406.15206)|null|
 |**2024-06-21**|**TraceNet: Segment one thing efficiently**|Mingyuan Wu et.al.|[2406.14874](http://arxiv.org/abs/2406.14874)|null|
 |**2024-06-21**|**Six-CD: Benchmarking Concept Removals for Benign Text-to-image Diffusion Models**|Jie Ren et.al.|[2406.14855](http://arxiv.org/abs/2406.14855)|null|

@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.27
+## Updated on 2024.06.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -45,7 +45,7 @@
 |**2022-11-21**|**Towards Live 3D Reconstruction from Wearable Video: An Evaluation of V-SLAM, NeRF, and Videogrammetry Techniques**|David Ramirez et.al.|[2211.11836](http://arxiv.org/abs/2211.11836)|null|
 |**2022-11-14**|**Controllable GAN Synthesis Using Non-Rigid Structure-from-Motion**|René Haas et.al.|[2211.07195](http://arxiv.org/abs/2211.07195)|null|
 
-<p align=right>(<a href=#Updated-on-20240627>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240628>back to top</a>)</p>
 
 ## GAN
 
@@ -62,7 +62,7 @@
 |**2024-06-22**|**Improving Unsupervised Clean-to-Rendered Guitar Tone Transformation Using GANs and Integrated Unaligned Clean Data**|Yu-Hua Chen et.al.|[2406.15751](http://arxiv.org/abs/2406.15751)|null|
 |**2024-06-21**|**TinyStyler: Efficient Few-Shot Text Style Transfer with Authorship Embeddings**|Zachary Horvitz et.al.|[2406.15586](http://arxiv.org/abs/2406.15586)|null|
 |**2024-06-21**|**Fingerprint Membership and Identity Inference Against Generative Adversarial Networks**|Saverio Cavasin et.al.|[2406.15253](http://arxiv.org/abs/2406.15253)|null|
-|**2024-06-21**|**Latent diffusion models for parameterization and data assimilation of facies-based geomodels**|Guido Di Federico et.al.|[2406.14815](http://arxiv.org/abs/2406.14815)|null|
+|**2024-06-26**|**Latent diffusion models for parameterization and data assimilation of facies-based geomodels**|Guido Di Federico et.al.|[2406.14815](http://arxiv.org/abs/2406.14815)|null|
 |**2024-06-20**|**ForSE+: Simulating non-Gaussian CMB foregrounds at 3 arcminutes in a stochastic way based on a generative adversarial network**|Jian Yao et.al.|[2406.14519](http://arxiv.org/abs/2406.14519)|**[link](https://github.com/yaojian95/ForSEplus)**|
 |**2024-06-20**|**In Tree Structure Should Sentence Be Generated**|Yaguang Li et.al.|[2406.14189](http://arxiv.org/abs/2406.14189)|**[link](https://github.com/arklyg/sentree)**|
 |**2024-06-20**|**Urban-Focused Multi-Task Offline Reinforcement Learning with Contrastive Data Sharing**|Xinbo Zhao et.al.|[2406.14054](http://arxiv.org/abs/2406.14054)|null|
@@ -1476,7 +1476,7 @@
 |**2023-03-14**|**3D Face Arbitrary Style Transfer**|Xiangwen Deng et.al.|[2303.07709](http://arxiv.org/abs/2303.07709)|null|
 |**2023-03-13**|**AGTGAN: Unpaired Image Translation for Photographic Ancient Character Generation**|Hongxiang Huang et.al.|[2303.07012](http://arxiv.org/abs/2303.07012)|**[link](https://github.com/hellomystery/agtgan)**|
 
-<p align=right>(<a href=#Updated-on-20240627>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240628>back to top</a>)</p>
 
 ## Diffusion Model
 
@@ -1486,13 +1486,13 @@
 |**2024-06-26**|**Denoising as Adaptation: Noise-Space Domain Adaptation for Image Restoration**|Kang Liao et.al.|[2406.18516](http://arxiv.org/abs/2406.18516)|**[link](https://github.com/kangliao929/noise-da)**|
 |**2024-06-26**|**DiffuseHigh: Training-free Progressive High-Resolution Image Synthesis through Structure Guidance**|Younghyun Kim et.al.|[2406.18459](http://arxiv.org/abs/2406.18459)|null|
 |**2024-06-26**|**Towards diffusion models for large-scale sea-ice modelling**|Tobias Sebastian Finn et.al.|[2406.18417](http://arxiv.org/abs/2406.18417)|null|
-|**2024-06-26**|**Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process**|Tianyu Lin et.al.|[2406.18361](http://arxiv.org/abs/2406.18361)|**[link](https://github.com/lin-tianyu/stable-diffusion-seg)**|
+|**2024-06-27**|**Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process**|Tianyu Lin et.al.|[2406.18361](http://arxiv.org/abs/2406.18361)|**[link](https://github.com/lin-tianyu/stable-diffusion-seg)**|
 |**2024-06-26**|**Molecular Diffusion Models with Virtual Receptors**|Matan Halfon et.al.|[2406.18330](http://arxiv.org/abs/2406.18330)|null|
 |**2024-06-26**|**Galaxy spectroscopy without spectra: Galaxy properties from photometric images with conditional diffusion models**|Lars Doorenbos et.al.|[2406.18175](http://arxiv.org/abs/2406.18175)|**[link](https://github.com/larsdoorenbos/generate-spectra)**|
 |**2024-06-26**|**Human-Aware 3D Scene Generation with Spatially-constrained Diffusion Models**|Xiaolin Hong et.al.|[2406.18159](http://arxiv.org/abs/2406.18159)|null|
 |**2024-06-26**|**Leveraging Pre-trained Models for FF-to-FFPE Histopathological Image Translation**|Qilai Zhang et.al.|[2406.18054](http://arxiv.org/abs/2406.18054)|null|
 |**2024-06-25**|**DiffusionPDE: Generative PDE-Solving Under Partial Observation**|Jiahe Huang et.al.|[2406.17763](http://arxiv.org/abs/2406.17763)|null|
-|**2024-06-25**|**Unified Auto-Encoding with Masked Diffusion**|Philippe Hansen-Estruch et.al.|[2406.17688](http://arxiv.org/abs/2406.17688)|null|
+|**2024-06-25**|**Unified Auto-Encoding with Masked Diffusion**|Philippe Hansen-Estruch et.al.|[2406.17688](http://arxiv.org/abs/2406.17688)|**[link](https://github.com/philippe-eecs/small-vision)**|
 |**2024-06-25**|**LaTable: Towards Large Tabular Models**|Boris van Breugel et.al.|[2406.17673](http://arxiv.org/abs/2406.17673)|null|
 |**2024-06-25**|**Aligning Diffusion Models with Noise-Conditioned Perception**|Alexander Gambashidze et.al.|[2406.17636](http://arxiv.org/abs/2406.17636)|null|
 |**2024-06-25**|**Diffusion-based Adversarial Purification for Intrusion Detection**|Mohamed Amine Merzouk et.al.|[2406.17606](http://arxiv.org/abs/2406.17606)|null|
@@ -1501,7 +1501,7 @@
 |**2024-06-25**|**Principal Component Clustering for Semantic Segmentation in Synthetic Data Generation**|Felix Stillger et.al.|[2406.17541](http://arxiv.org/abs/2406.17541)|null|
 |**2024-06-25**|**The Tree of Diffusion Life: Evolutionary Embeddings to Understand the Generation Process of Diffusion Models**|Vidya Prasad et.al.|[2406.17462](http://arxiv.org/abs/2406.17462)|null|
 |**2024-06-25**|**SyncNoise: Geometrically Consistent Noise Prediction for Text-based 3D Scene Editing**|Ruihuang Li et.al.|[2406.17396](http://arxiv.org/abs/2406.17396)|null|
-|**2024-06-25**|**Q-DiT: Accurate Post-Training Quantization for Diffusion Transformers**|Lei Chen et.al.|[2406.17343](http://arxiv.org/abs/2406.17343)|null|
+|**2024-06-25**|**Q-DiT: Accurate Post-Training Quantization for Diffusion Transformers**|Lei Chen et.al.|[2406.17343](http://arxiv.org/abs/2406.17343)|**[link](https://github.com/juanerx/q-dit)**|
 |**2024-06-25**|**Generative Modelling of Structurally Constrained Graphs**|Manuel Madeira et.al.|[2406.17341](http://arxiv.org/abs/2406.17341)|null|
 |**2024-06-25**|**Disentangled Motion Modeling for Video Frame Interpolation**|Jaihyun Lew et.al.|[2406.17256](http://arxiv.org/abs/2406.17256)|**[link](https://github.com/jhlew/momo)**|
 |**2024-06-25**|**Expansive Synthesis: Generating Large-Scale Datasets from Minimal Samples**|Vahid Jebraeeli et.al.|[2406.17238](http://arxiv.org/abs/2406.17238)|null|
@@ -5355,17 +5355,17 @@
 |**2023-03-15**|**DiffBEV: Conditional Diffusion Model for Bird's Eye View Perception**|Jiayu Zou et.al.|[2303.08333](http://arxiv.org/abs/2303.08333)|**[link](https://github.com/jiayuzou2020/diffbev)**|
 |**2023-03-16**|**VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation**|Zhengxiong Luo et.al.|[2303.08320](http://arxiv.org/abs/2303.08320)|null|
 
-<p align=right>(<a href=#Updated-on-20240627>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240628>back to top</a>)</p>
 
 ## Image Edit
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-06-26**|**Denoising as Adaptation: Noise-Space Domain Adaptation for Image Restoration**|Kang Liao et.al.|[2406.18516](http://arxiv.org/abs/2406.18516)|**[link](https://github.com/kangliao929/noise-da)**|
-|**2024-06-26**|**ConStyle v2: A Strong Prompter for All-in-One Image Restoration**|Dongqi Fan et.al.|[2406.18242](http://arxiv.org/abs/2406.18242)|null|
+|**2024-06-26**|**ConStyle v2: A Strong Prompter for All-in-One Image Restoration**|Dongqi Fan et.al.|[2406.18242](http://arxiv.org/abs/2406.18242)|**[link](https://github.com/Dongqi-Fan/ConStyle_v2)**|
 |**2024-06-26**|**MFDNet: Multi-Frequency Deflare Network for Efficient Nighttime Flare Removal**|Yiguo Jiang et.al.|[2406.18079](http://arxiv.org/abs/2406.18079)|null|
 |**2024-06-25**|**LIPE: Learning Personalized Identity Prior for Non-rigid Image Editing**|Aoyang Liu et.al.|[2406.17236](http://arxiv.org/abs/2406.17236)|null|
-|**2024-06-24**|**GIM: A Million-scale Benchmark for Generative Image Manipulation Detection and Localization**|Yirui Chen et.al.|[2406.16531](http://arxiv.org/abs/2406.16531)|null|
+|**2024-06-24**|**GIM: A Million-scale Benchmark for Generative Image Manipulation Detection and Localization**|Yirui Chen et.al.|[2406.16531](http://arxiv.org/abs/2406.16531)|**[link](https://github.com/chenyirui/gim)**|
 |**2024-06-24**|**DaLPSR: Leverage Degradation-Aligned Language Prompt for Real-World Image Super-Resolution**|Aiwen Jiang et.al.|[2406.16477](http://arxiv.org/abs/2406.16477)|null|
 |**2024-06-22**|**MVOC: a training-free multiple video object composition method with diffusion models**|Wei Wang et.al.|[2406.15829](http://arxiv.org/abs/2406.15829)|null|
 |**2024-06-20**|**A Survey of Multimodal-Guided Image Editing with Text-to-Image Diffusion Models**|Xincheng Shuai et.al.|[2406.14555](http://arxiv.org/abs/2406.14555)|**[link](https://github.com/xinchengshuai/awesome-image-editing)**|
@@ -6100,7 +6100,7 @@
 |**2023-02-20**|**A Large Scale Homography Benchmark**|Daniel Barath et.al.|[2302.09997](http://arxiv.org/abs/2302.09997)|null|
 |**2023-02-19**|**LC-NeRF: Local Controllable Face Generation in Neural Randiance Field**|Wenyang Zhou et.al.|[2302.09486](http://arxiv.org/abs/2302.09486)|null|
 
-<p align=right>(<a href=#Updated-on-20240627>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240628>back to top</a>)</p>
 
 ## NeRF
 
@@ -6346,7 +6346,7 @@
 |**2022-12-30**|**NeRF-Gaze: A Head-Eye Redirection Parametric Model for Gaze Estimation**|Pengwei Yin et.al.|[2212.14710](http://arxiv.org/abs/2212.14710)|null|
 |**2023-03-21**|**Masked Wavelet Representation for Compact Neural Radiance Fields**|Daniel Rho et.al.|[2212.09069](http://arxiv.org/abs/2212.09069)|**[link](https://github.com/daniel03c1/masked_wavelet_nerf)**|
 
-<p align=right>(<a href=#Updated-on-20240627>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240628>back to top</a>)</p>
 
 ## Reshaping
 
@@ -6394,7 +6394,7 @@
 |**2022-05-13**|**F3A-GAN: Facial Flow for Face Animation with Generative Adversarial Networks**|Xintian Wu et.al.|[2205.06204](http://arxiv.org/abs/2205.06204)|null|
 |**2022-03-16**|**Efficient conditioned face animation using frontally-viewed embedding**|Maxime Oquab et.al.|[2203.08765](http://arxiv.org/abs/2203.08765)|null|
 
-<p align=right>(<a href=#Updated-on-20240627>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240628>back to top</a>)</p>
 
 ## Portrait 
 
@@ -6407,7 +6407,7 @@
 |**2024-06-22**|**Quality-guided Skin Tone Enhancement for Portrait Photography**|Shiqi Gao et.al.|[2406.15848](http://arxiv.org/abs/2406.15848)|null|
 |**2024-06-21**|**Landscape More Secure Than Portrait? Zooming Into the Directionality of Digital Images With Security Implications**|Benedikt Lorch et.al.|[2406.15206](http://arxiv.org/abs/2406.15206)|null|
 |**2024-06-21**|**TraceNet: Segment one thing efficiently**|Mingyuan Wu et.al.|[2406.14874](http://arxiv.org/abs/2406.14874)|null|
-|**2024-06-21**|**Six-CD: Benchmarking Concept Removals for Benign Text-to-image Diffusion Models**|Jie Ren et.al.|[2406.14855](http://arxiv.org/abs/2406.14855)|null|
+|**2024-06-21**|**Six-CD: Benchmarking Concept Removals for Benign Text-to-image Diffusion Models**|Jie Ren et.al.|[2406.14855](http://arxiv.org/abs/2406.14855)|**[link](https://github.com/Artanisax/Six-CD)**|
 |**2024-06-21**|**Method for processing and analyzing tectonic earthquake aftershocks: A new look at old problem**|A. V. Guglielmi et.al.|[2406.14849](http://arxiv.org/abs/2406.14849)|null|
 |**2024-06-20**|**Secular dynamics and the lifetimes of lunar artificial satellites under natural force-driven orbital evolution**|Edoardo Legnaro et.al.|[2406.14181](http://arxiv.org/abs/2406.14181)|null|
 |**2024-06-18**|**SUPER: Selfie Undistortion and Head Pose Editing with Identity Preservation**|Polina Karpikova et.al.|[2406.12700](http://arxiv.org/abs/2406.12700)|null|
@@ -6684,7 +6684,7 @@
 |**2023-03-01**|**DPE: Disentanglement of Pose and Expression for General Video Portrait Editing**|Youxin Pang et.al.|[2301.06281](http://arxiv.org/abs/2301.06281)|null|
 |**2023-01-03**|**StyleTalk: One-shot Talking Head Generation with Controllable Speaking Styles**|Yifeng Ma et.al.|[2301.01081](http://arxiv.org/abs/2301.01081)|**[link](https://github.com/fuxivirtualhuman/styletalk)**|
 
-<p align=right>(<a href=#Updated-on-20240627>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240628>back to top</a>)</p>
 
 ## Transfomer
 
@@ -6721,5 +6721,5 @@
 |**2012-01-21**|**Interior Static Stellar Model with Electric Charge as an Oscillator**|A. M. Baranov et.al.|[1201.4429](http://arxiv.org/abs/1201.4429)|null|
 |**2011-05-16**|**Exactness of the Euclidean algorithm and of the Rauzy induction on the space of interval exchange transfomations**|Tomasz Miernowski et.al.|[1104.3980](http://arxiv.org/abs/1104.3980)|null|
 
-<p align=right>(<a href=#Updated-on-20240627>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240628>back to top</a>)</p>
 

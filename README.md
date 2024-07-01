@@ -51,6 +51,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-28**|**Concept Lens: Visually Analyzing the Consistency of Semantic Manipulation in GANs**|Sangwon Jeong et.al.|[2406.19987](http://arxiv.org/abs/2406.19987)|null|
+|**2024-06-28**|**Kolmogorov-Smirnov GAN**|Maciej Falkiewicz et.al.|[2406.19948](http://arxiv.org/abs/2406.19948)|null|
 |**2024-06-26**|**MUMU: Bootstrapping Multimodal Image Generation from Text-to-Image Data**|William Berman et.al.|[2406.18790](http://arxiv.org/abs/2406.18790)|null|
 |**2024-06-28**|**CSI4Free: GAN-Augmented mmWave CSI for Improved Pose Classification**|Nabeel Nisar Bhat et.al.|[2406.18684](http://arxiv.org/abs/2406.18684)|null|
 |**2024-06-26**|**Generalized Deepfake Attribution**|Sowdagar Mahammad Shahid et.al.|[2406.18278](http://arxiv.org/abs/2406.18278)|null|
@@ -1484,6 +1486,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-28**|**HouseCrafter: Lifting Floorplans to 3D Scenes with 2D Diffusion Model**|Hieu T. Nguyen et.al.|[2406.20077](http://arxiv.org/abs/2406.20077)|null|
+|**2024-06-28**|**Neural Differentiable Modeling with Diffusion-Based Super-resolution for Two-Dimensional Spatiotemporal Turbulence**|Xiantao Fan et.al.|[2406.20047](http://arxiv.org/abs/2406.20047)|null|
+|**2024-06-28**|**HAITCH: A Framework for Distortion and Motion Correction in Fetal Multi-Shell Diffusion-Weighted MRI**|Haykel Snoussi et.al.|[2406.20042](http://arxiv.org/abs/2406.20042)|null|
+|**2024-06-28**|**Deceptive Diffusion: Generating Synthetic Adversarial Examples**|Lucas Beerens et.al.|[2406.19807](http://arxiv.org/abs/2406.19807)|null|
+|**2024-06-28**|**Comprehensive Generative Replay for Task-Incremental Segmentation with Concurrent Appearance and Semantic Forgetting**|Wei Li et.al.|[2406.19796](http://arxiv.org/abs/2406.19796)|**[link](https://github.com/jingyzhang/cgr)**|
+|**2024-06-28**|**Decision Transformer for IRS-Assisted Systems with Diffusion-Driven Generative Channels**|Jie Zhang et.al.|[2406.19769](http://arxiv.org/abs/2406.19769)|null|
+|**2024-06-28**|**DISCO: Efficient Diffusion Solver for Large-Scale Combinatorial Optimization Problems**|Kexiong Yu et.al.|[2406.19705](http://arxiv.org/abs/2406.19705)|null|
+|**2024-06-28**|**Network Bending of Diffusion Models for Audio-Visual Generation**|Luke Dzwonczyk et.al.|[2406.19589](http://arxiv.org/abs/2406.19589)|null|
+|**2024-06-27**|**A Thermal Study of Terahertz Induced Protein Interactions**|Hadeel Elayan et.al.|[2406.19521](http://arxiv.org/abs/2406.19521)|null|
+|**2024-06-27**|**pop-cosmos: Scaleable inference of galaxy properties and redshifts with a data-driven population model**|Stephen Thorp et.al.|[2406.19437](http://arxiv.org/abs/2406.19437)|null|
 |**2024-06-27**|**Accelerating Multiphase Flow Simulations with Denoising Diffusion Model Driven Initializations**|Jaehong Chung et.al.|[2406.19333](http://arxiv.org/abs/2406.19333)|null|
 |**2024-06-27**|**Subtractive Training for Music Stem Insertion using Latent Diffusion Models**|Ivan Villa-Renteria et.al.|[2406.19328](http://arxiv.org/abs/2406.19328)|null|
 |**2024-06-27**|**Compositional Image Decomposition with Diffusion Models**|Jocelin Su et.al.|[2406.19298](http://arxiv.org/abs/2406.19298)|null|
@@ -5371,6 +5383,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-28**|**Network Bending of Diffusion Models for Audio-Visual Generation**|Luke Dzwonczyk et.al.|[2406.19589](http://arxiv.org/abs/2406.19589)|null|
 |**2024-06-27**|**Using diffusion model as constraint: Empower Image Restoration Network Training with Diffusion Model**|Jiangtong Tan et.al.|[2406.19030](http://arxiv.org/abs/2406.19030)|null|
 |**2024-06-26**|**Denoising as Adaptation: Noise-Space Domain Adaptation for Image Restoration**|Kang Liao et.al.|[2406.18516](http://arxiv.org/abs/2406.18516)|**[link](https://github.com/kangliao929/noise-da)**|
 |**2024-06-26**|**ConStyle v2: A Strong Prompter for All-in-One Image Restoration**|Dongqi Fan et.al.|[2406.18242](http://arxiv.org/abs/2406.18242)|**[link](https://github.com/Dongqi-Fan/ConStyle_v2)**|
@@ -6411,6 +6424,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-28**|**"Hidden" mechanisms for Gouy-Chapman layer and other critical features via Poisson-Boltzmann equations**|Kaiyin Huang et.al.|[2406.19696](http://arxiv.org/abs/2406.19696)|null|
 |**2024-06-27**|**Local and Global Dynamics of a Functionally Graded Dielectric Elastomer Plate**|Amin Alibakhshi et.al.|[2406.19145](http://arxiv.org/abs/2406.19145)|null|
 |**2024-06-28**|**FAGhead: Fully Animate Gaussian Head from Monocular Videos**|Yixin Xuan et.al.|[2406.19070](http://arxiv.org/abs/2406.19070)|null|
 |**2024-06-27**|**Investigating and Defending Shortcut Learning in Personalized Diffusion Models**|Yixin Liu et.al.|[2406.18944](http://arxiv.org/abs/2406.18944)|null|

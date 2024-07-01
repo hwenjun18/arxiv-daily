@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.30
+## Updated on 2024.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -40,7 +40,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-26**|**MUMU: Bootstrapping Multimodal Image Generation from Text-to-Image Data**|William Berman et.al.|[2406.18790](http://arxiv.org/abs/2406.18790)|null|
-|**2024-06-26**|**CSI4Free: GAN-Augmented mmWave CSI for Improved Pose Classification**|Nabeel Nisar Bhat et.al.|[2406.18684](http://arxiv.org/abs/2406.18684)|null|
+|**2024-06-28**|**CSI4Free: GAN-Augmented mmWave CSI for Improved Pose Classification**|Nabeel Nisar Bhat et.al.|[2406.18684](http://arxiv.org/abs/2406.18684)|null|
 |**2024-06-26**|**Generalized Deepfake Attribution**|Sowdagar Mahammad Shahid et.al.|[2406.18278](http://arxiv.org/abs/2406.18278)|null|
 |**2024-06-25**|**A Matrix Product State Model for Simultaneous Classification and Generation**|Alex Mossi et.al.|[2406.17441](http://arxiv.org/abs/2406.17441)|null|
 |**2024-06-25**|**Expansive Synthesis: Generating Large-Scale Datasets from Minimal Samples**|Vahid Jebraeeli et.al.|[2406.17238](http://arxiv.org/abs/2406.17238)|null|
@@ -1474,9 +1474,9 @@ layout: default
 |**2024-06-27**|**Subtractive Training for Music Stem Insertion using Latent Diffusion Models**|Ivan Villa-Renteria et.al.|[2406.19328](http://arxiv.org/abs/2406.19328)|null|
 |**2024-06-27**|**Compositional Image Decomposition with Diffusion Models**|Jocelin Su et.al.|[2406.19298](http://arxiv.org/abs/2406.19298)|null|
 |**2024-06-27**|**Using diffusion model as constraint: Empower Image Restoration Network Training with Diffusion Model**|Jiangtong Tan et.al.|[2406.19030](http://arxiv.org/abs/2406.19030)|null|
-|**2024-06-27**|**AnyControl: Create Your Artwork with Versatile Control on Text-to-Image Generation**|Yanan Sun et.al.|[2406.18958](http://arxiv.org/abs/2406.18958)|null|
+|**2024-06-28**|**AnyControl: Create Your Artwork with Versatile Control on Text-to-Image Generation**|Yanan Sun et.al.|[2406.18958](http://arxiv.org/abs/2406.18958)|null|
 |**2024-06-27**|**Investigating and Defending Shortcut Learning in Personalized Diffusion Models**|Yixin Liu et.al.|[2406.18944](http://arxiv.org/abs/2406.18944)|null|
-|**2024-06-27**|**AlignIT: Enhancing Prompt Alignment in Customization of Text-to-Image Models**|Aishwarya Agarwal et.al.|[2406.18893](http://arxiv.org/abs/2406.18893)|null|
+|**2024-06-28**|**AlignIT: Enhancing Prompt Alignment in Customization of Text-to-Image Models**|Aishwarya Agarwal et.al.|[2406.18893](http://arxiv.org/abs/2406.18893)|null|
 |**2024-06-27**|**Chemical Continuous Time Random Walks under Anomalous Diffusion**|Hong Zhang et.al.|[2406.18869](http://arxiv.org/abs/2406.18869)|null|
 |**2024-06-26**|**MultiDiff: Consistent Novel View Synthesis from a Single Image**|Norman Müller et.al.|[2406.18524](http://arxiv.org/abs/2406.18524)|null|
 |**2024-06-26**|**Denoising as Adaptation: Noise-Space Domain Adaptation for Image Restoration**|Kang Liao et.al.|[2406.18516](http://arxiv.org/abs/2406.18516)|**[link](https://github.com/kangliao929/noise-da)**|
@@ -1486,7 +1486,7 @@ layout: default
 |**2024-06-26**|**Molecular Diffusion Models with Virtual Receptors**|Matan Halfon et.al.|[2406.18330](http://arxiv.org/abs/2406.18330)|null|
 |**2024-06-26**|**Galaxy spectroscopy without spectra: Galaxy properties from photometric images with conditional diffusion models**|Lars Doorenbos et.al.|[2406.18175](http://arxiv.org/abs/2406.18175)|**[link](https://github.com/larsdoorenbos/generate-spectra)**|
 |**2024-06-26**|**Human-Aware 3D Scene Generation with Spatially-constrained Diffusion Models**|Xiaolin Hong et.al.|[2406.18159](http://arxiv.org/abs/2406.18159)|null|
-|**2024-06-26**|**Leveraging Pre-trained Models for FF-to-FFPE Histopathological Image Translation**|Qilai Zhang et.al.|[2406.18054](http://arxiv.org/abs/2406.18054)|null|
+|**2024-06-26**|**Leveraging Pre-trained Models for FF-to-FFPE Histopathological Image Translation**|Qilai Zhang et.al.|[2406.18054](http://arxiv.org/abs/2406.18054)|**[link](https://github.com/qilaizhang/diffusion-ffpe)**|
 |**2024-06-25**|**DiffusionPDE: Generative PDE-Solving Under Partial Observation**|Jiahe Huang et.al.|[2406.17763](http://arxiv.org/abs/2406.17763)|null|
 |**2024-06-25**|**Unified Auto-Encoding with Masked Diffusion**|Philippe Hansen-Estruch et.al.|[2406.17688](http://arxiv.org/abs/2406.17688)|**[link](https://github.com/philippe-eecs/small-vision)**|
 |**2024-06-25**|**LaTable: Towards Large Tabular Models**|Boris van Breugel et.al.|[2406.17673](http://arxiv.org/abs/2406.17673)|null|
@@ -6390,11 +6390,11 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-27**|**Local and Global Dynamics of a Functionally Graded Dielectric Elastomer Plate**|Amin Alibakhshi et.al.|[2406.19145](http://arxiv.org/abs/2406.19145)|null|
-|**2024-06-27**|**FAGhead: Fully Animate Gaussian Head from Monocular Videos**|Yixin Xuan et.al.|[2406.19070](http://arxiv.org/abs/2406.19070)|null|
+|**2024-06-28**|**FAGhead: Fully Animate Gaussian Head from Monocular Videos**|Yixin Xuan et.al.|[2406.19070](http://arxiv.org/abs/2406.19070)|null|
 |**2024-06-27**|**Investigating and Defending Shortcut Learning in Personalized Diffusion Models**|Yixin Liu et.al.|[2406.18944](http://arxiv.org/abs/2406.18944)|null|
 |**2024-06-24**|**Deep Learning for Prediction and Classifying the Dynamical behaviour of Piecewise Smooth Maps**|Vismaya V S et.al.|[2406.17001](http://arxiv.org/abs/2406.17001)|null|
 |**2024-06-24**|**Portrait3D: 3D Head Generation from Single In-the-wild Portrait Image**|Jinkun Hao et.al.|[2406.16710](http://arxiv.org/abs/2406.16710)|null|
-|**2024-06-24**|**Character-Adapter: Prompt-Guided Region Control for High-Fidelity Character Customization**|Yuhang Ma et.al.|[2406.16537](http://arxiv.org/abs/2406.16537)|null|
+|**2024-06-28**|**Character-Adapter: Prompt-Guided Region Control for High-Fidelity Character Customization**|Yuhang Ma et.al.|[2406.16537](http://arxiv.org/abs/2406.16537)|**[link](https://github.com/character-adapter/character-adapter)**|
 |**2024-06-24**|**Dynamical structures of misaligned circumbinary planets under hierarchical three-body systems**|Hanlun Lei et.al.|[2406.16274](http://arxiv.org/abs/2406.16274)|null|
 |**2024-06-22**|**Quality-guided Skin Tone Enhancement for Portrait Photography**|Shiqi Gao et.al.|[2406.15848](http://arxiv.org/abs/2406.15848)|null|
 |**2024-06-21**|**Landscape More Secure Than Portrait? Zooming Into the Directionality of Digital Images With Security Implications**|Benedikt Lorch et.al.|[2406.15206](http://arxiv.org/abs/2406.15206)|null|

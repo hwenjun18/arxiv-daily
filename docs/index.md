@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.03
+## Updated on 2024.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -42,7 +42,7 @@ layout: default
 |**2024-07-02**|**A Pattern Language for Machine Learning Tasks**|Benjamin Rodatz et.al.|[2407.02424](http://arxiv.org/abs/2407.02424)|null|
 |**2024-07-02**|**Unsupervised Face-Mask Speech Enhancement Using Generative Adversarial Networks with Human-in-the-Loop Assessment Metrics**|Syu-Siang Wang et.al.|[2407.01939](http://arxiv.org/abs/2407.01939)|null|
 |**2024-07-01**|**Purple-teaming LLMs with Adversarial Defender Training**|Jingyan Zhou et.al.|[2407.01850](http://arxiv.org/abs/2407.01850)|null|
-|**2024-07-01**|**Universal Quantum Tomography With Deep Neural Networks**|Nhan T. Luu et.al.|[2407.01734](http://arxiv.org/abs/2407.01734)|null|
+|**2024-07-03**|**Universal Quantum Tomography With Deep Neural Networks**|Nhan T. Luu et.al.|[2407.01734](http://arxiv.org/abs/2407.01734)|null|
 |**2024-06-25**|**Machine learning driven high-resolution Raman spectral generation for accurate molecular feature recognition**|Vikas Yadav et.al.|[2407.01597](http://arxiv.org/abs/2407.01597)|null|
 |**2024-07-01**|**Scalable Nested Optimization for Deep Learning**|Jonathan Lorraine et.al.|[2407.01526](http://arxiv.org/abs/2407.01526)|null|
 |**2024-07-01**|**StyleShot: A Snapshot on Any Style**|Junyao Gao et.al.|[2407.01414](http://arxiv.org/abs/2407.01414)|null|
@@ -6451,7 +6451,7 @@ layout: default
 |**2024-06-27**|**Investigating and Defending Shortcut Learning in Personalized Diffusion Models**|Yixin Liu et.al.|[2406.18944](http://arxiv.org/abs/2406.18944)|null|
 |**2024-06-24**|**Deep Learning for Prediction and Classifying the Dynamical behaviour of Piecewise Smooth Maps**|Vismaya V S et.al.|[2406.17001](http://arxiv.org/abs/2406.17001)|null|
 |**2024-06-24**|**Portrait3D: 3D Head Generation from Single In-the-wild Portrait Image**|Jinkun Hao et.al.|[2406.16710](http://arxiv.org/abs/2406.16710)|null|
-|**2024-06-28**|**Character-Adapter: Prompt-Guided Region Control for High-Fidelity Character Customization**|Yuhang Ma et.al.|[2406.16537](http://arxiv.org/abs/2406.16537)|**[link](https://github.com/character-adapter/character-adapter)**|
+|**2024-07-03**|**Character-Adapter: Prompt-Guided Region Control for High-Fidelity Character Customization**|Yuhang Ma et.al.|[2406.16537](http://arxiv.org/abs/2406.16537)|**[link](https://github.com/character-adapter/character-adapter)**|
 |**2024-06-24**|**Dynamical structures of misaligned circumbinary planets under hierarchical three-body systems**|Hanlun Lei et.al.|[2406.16274](http://arxiv.org/abs/2406.16274)|null|
 |**2024-06-22**|**Quality-guided Skin Tone Enhancement for Portrait Photography**|Shiqi Gao et.al.|[2406.15848](http://arxiv.org/abs/2406.15848)|null|
 |**2024-06-21**|**Landscape More Secure Than Portrait? Zooming Into the Directionality of Digital Images With Security Implications**|Benedikt Lorch et.al.|[2406.15206](http://arxiv.org/abs/2406.15206)|null|

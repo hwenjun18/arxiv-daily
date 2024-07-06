@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.05
+## Updated on 2024.07.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -6464,7 +6464,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-03**|**LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control**|Jianzhu Guo et.al.|[2407.03168](http://arxiv.org/abs/2407.03168)|null|
+|**2024-07-03**|**LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control**|Jianzhu Guo et.al.|[2407.03168](http://arxiv.org/abs/2407.03168)|**[link](https://github.com/KwaiVGI/LivePortrait)**|
 |**2024-07-01**|**Multimodal Conditional 3D Face Geometry Generation**|Christopher Otto et.al.|[2407.01074](http://arxiv.org/abs/2407.01074)|null|
 |**2024-06-28**|**"Hidden" mechanisms for Gouy-Chapman layer and other critical features via Poisson-Boltzmann equations**|Kaiyin Huang et.al.|[2406.19696](http://arxiv.org/abs/2406.19696)|null|
 |**2024-06-27**|**Local and Global Dynamics of a Functionally Graded Dielectric Elastomer Plate**|Amin Alibakhshi et.al.|[2406.19145](http://arxiv.org/abs/2406.19145)|null|

@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.12
+## Updated on 2024.07.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -45,7 +45,7 @@
 |**2022-11-21**|**Towards Live 3D Reconstruction from Wearable Video: An Evaluation of V-SLAM, NeRF, and Videogrammetry Techniques**|David Ramirez et.al.|[2211.11836](http://arxiv.org/abs/2211.11836)|null|
 |**2022-11-14**|**Controllable GAN Synthesis Using Non-Rigid Structure-from-Motion**|René Haas et.al.|[2211.07195](http://arxiv.org/abs/2211.07195)|null|
 
-<p align=right>(<a href=#Updated-on-20240712>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240713>back to top</a>)</p>
 
 ## GAN
 
@@ -61,7 +61,7 @@
 |**2024-07-09**|**Towards Physics-informed Cyclic Adversarial Multi-PSF Lensless Imaging**|Abeer Banerjee et.al.|[2407.06727](http://arxiv.org/abs/2407.06727)|null|
 |**2024-07-09**|**Deep-Motion-Net: GNN-based volumetric organ shape reconstruction from single-view 2D projections**|Isuru Wijesinghe et.al.|[2407.06692](http://arxiv.org/abs/2407.06692)|null|
 |**2024-07-09**|**Attack GAN (AGAN ): A new Security Evaluation Tool for Perceptual Encryption**|Umesh Kashyap et.al.|[2407.06570](http://arxiv.org/abs/2407.06570)|null|
-|**2024-07-09**|**DriftGAN: Using historical data for Unsupervised Recurring Drift Detection**|Christofer Fellicious et.al.|[2407.06543](http://arxiv.org/abs/2407.06543)|null|
+|**2024-07-09**|**DriftGAN: Using historical data for Unsupervised Recurring Drift Detection**|Christofer Fellicious et.al.|[2407.06543](http://arxiv.org/abs/2407.06543)|**[link](https://github.com/cfellicious/DriftGAN)**|
 |**2024-07-08**|**Tailor3D: Customized 3D Assets Editing and Generation with Dual-Side Images**|Zhangyang Qi et.al.|[2407.06191](http://arxiv.org/abs/2407.06191)|null|
 |**2024-07-08**|**The Tug-of-War Between Deepfake Generation and Detection**|Hannah Lee et.al.|[2407.06174](http://arxiv.org/abs/2407.06174)|null|
 |**2024-07-08**|**Accelerating Diffusion for SAR-to-Optical Image Translation via Adversarial Consistency Distillation**|Xinyu Bai et.al.|[2407.06095](http://arxiv.org/abs/2407.06095)|null|
@@ -1523,7 +1523,7 @@
 |**2023-03-14**|**3D Face Arbitrary Style Transfer**|Xiangwen Deng et.al.|[2303.07709](http://arxiv.org/abs/2303.07709)|null|
 |**2023-03-13**|**AGTGAN: Unpaired Image Translation for Photographic Ancient Character Generation**|Hongxiang Huang et.al.|[2303.07012](http://arxiv.org/abs/2303.07012)|**[link](https://github.com/hellomystery/agtgan)**|
 
-<p align=right>(<a href=#Updated-on-20240712>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240713>back to top</a>)</p>
 
 ## Diffusion Model
 
@@ -5531,7 +5531,7 @@
 |**2023-03-15**|**DiffBEV: Conditional Diffusion Model for Bird's Eye View Perception**|Jiayu Zou et.al.|[2303.08333](http://arxiv.org/abs/2303.08333)|**[link](https://github.com/jiayuzou2020/diffbev)**|
 |**2023-03-16**|**VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation**|Zhengxiong Luo et.al.|[2303.08320](http://arxiv.org/abs/2303.08320)|null|
 
-<p align=right>(<a href=#Updated-on-20240712>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240713>back to top</a>)</p>
 
 ## Image Edit
 
@@ -5552,7 +5552,7 @@
 |**2024-07-03**|**Learning Action and Reasoning-Centric Image Editing from Videos and Simulations**|Benno Krojer et.al.|[2407.03471](http://arxiv.org/abs/2407.03471)|**[link](https://github.com/McGill-NLP/AURORA)**|
 |**2024-07-02**|**Zero-shot Video Restoration and Enhancement Using Pre-Trained Image Diffusion Model**|Cong Cao et.al.|[2407.01960](http://arxiv.org/abs/2407.01960)|null|
 |**2024-06-30**|**Learning Frequency-Aware Dynamic Transformers for All-In-One Image Restoration**|Zenglin Shi et.al.|[2407.01636](http://arxiv.org/abs/2407.01636)|null|
-|**2024-07-01**|**Improving Diffusion Inverse Problem Solving with Decoupled Noise Annealing**|Bingliang Zhang et.al.|[2407.01521](http://arxiv.org/abs/2407.01521)|null|
+|**2024-07-01**|**Improving Diffusion Inverse Problem Solving with Decoupled Noise Annealing**|Bingliang Zhang et.al.|[2407.01521](http://arxiv.org/abs/2407.01521)|**[link](https://github.com/zhangbingliang2019/DAPS)**|
 |**2024-07-01**|**DiffIR2VR-Zero: Zero-Shot Video Restoration with Diffusion-based Image Restoration Models**|Chang-Han Yeh et.al.|[2407.01519](http://arxiv.org/abs/2407.01519)|null|
 |**2024-07-01**|**Unrolling Plug-and-Play Gradient Graph Laplacian Regularizer for Image Restoration**|Jianghe Cai et.al.|[2407.01469](http://arxiv.org/abs/2407.01469)|null|
 |**2024-07-01**|**Blind Inversion using Latent Diffusion Priors**|Weimin Bai et.al.|[2407.01027](http://arxiv.org/abs/2407.01027)|null|
@@ -6298,7 +6298,7 @@
 |**2023-02-20**|**A Large Scale Homography Benchmark**|Daniel Barath et.al.|[2302.09997](http://arxiv.org/abs/2302.09997)|null|
 |**2023-02-19**|**LC-NeRF: Local Controllable Face Generation in Neural Randiance Field**|Wenyang Zhou et.al.|[2302.09486](http://arxiv.org/abs/2302.09486)|null|
 
-<p align=right>(<a href=#Updated-on-20240712>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240713>back to top</a>)</p>
 
 ## NeRF
 
@@ -6554,7 +6554,7 @@
 |**2022-12-30**|**NeRF-Gaze: A Head-Eye Redirection Parametric Model for Gaze Estimation**|Pengwei Yin et.al.|[2212.14710](http://arxiv.org/abs/2212.14710)|null|
 |**2023-03-21**|**Masked Wavelet Representation for Compact Neural Radiance Fields**|Daniel Rho et.al.|[2212.09069](http://arxiv.org/abs/2212.09069)|**[link](https://github.com/daniel03c1/masked_wavelet_nerf)**|
 
-<p align=right>(<a href=#Updated-on-20240712>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240713>back to top</a>)</p>
 
 ## Reshaping
 
@@ -6602,7 +6602,7 @@
 |**2022-05-13**|**F3A-GAN: Facial Flow for Face Animation with Generative Adversarial Networks**|Xintian Wu et.al.|[2205.06204](http://arxiv.org/abs/2205.06204)|null|
 |**2022-03-16**|**Efficient conditioned face animation using frontally-viewed embedding**|Maxime Oquab et.al.|[2203.08765](http://arxiv.org/abs/2203.08765)|null|
 
-<p align=right>(<a href=#Updated-on-20240712>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240713>back to top</a>)</p>
 
 ## Portrait 
 
@@ -6904,7 +6904,7 @@
 |**2023-03-01**|**DPE: Disentanglement of Pose and Expression for General Video Portrait Editing**|Youxin Pang et.al.|[2301.06281](http://arxiv.org/abs/2301.06281)|null|
 |**2023-01-03**|**StyleTalk: One-shot Talking Head Generation with Controllable Speaking Styles**|Yifeng Ma et.al.|[2301.01081](http://arxiv.org/abs/2301.01081)|**[link](https://github.com/fuxivirtualhuman/styletalk)**|
 
-<p align=right>(<a href=#Updated-on-20240712>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240713>back to top</a>)</p>
 
 ## Transfomer
 
@@ -6941,5 +6941,5 @@
 |**2012-01-21**|**Interior Static Stellar Model with Electric Charge as an Oscillator**|A. M. Baranov et.al.|[1201.4429](http://arxiv.org/abs/1201.4429)|null|
 |**2011-05-16**|**Exactness of the Euclidean algorithm and of the Rauzy induction on the space of interval exchange transfomations**|Tomasz Miernowski et.al.|[1104.3980](http://arxiv.org/abs/1104.3980)|null|
 
-<p align=right>(<a href=#Updated-on-20240712>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240713>back to top</a>)</p>
 

@@ -39,6 +39,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-15**|**Leveraging Multimodal CycleGAN for the Generation of Anatomically Accurate Synthetic CT Scans from MRIs**|Leonardo Crespi et.al.|[2407.10888](http://arxiv.org/abs/2407.10888)|null|
 |**2024-07-12**|**StyleSplat: 3D Object Style Transfer with Gaussian Splatting**|Sahil Jain et.al.|[2407.09473](http://arxiv.org/abs/2407.09473)|null|
 |**2024-07-11**|**Diff-MST: Differentiable Mixing Style Transfer**|Soumya Sai Vanka et.al.|[2407.08889](http://arxiv.org/abs/2407.08889)|null|
 |**2024-07-11**|**A Survey on the Application of Generative Adversarial Networks in Cybersecurity: Prospective, Direction and Open Research Scopes**|Md Mashrur Arifin et.al.|[2407.08839](http://arxiv.org/abs/2407.08839)|null|
@@ -1518,6 +1519,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-15**|**Make-An-Agent: A Generalizable Policy Network Generator with Behavior-Prompted Diffusion**|Yongyuan Liang et.al.|[2407.10973](http://arxiv.org/abs/2407.10973)|null|
+|**2024-07-15**|**InVi: Object Insertion In Videos Using Off-the-Shelf Diffusion Models**|Nirat Saini et.al.|[2407.10958](http://arxiv.org/abs/2407.10958)|null|
+|**2024-07-15**|**DataDream: Few-shot Guided Dataset Generation**|Jae Myung Kim et.al.|[2407.10910](http://arxiv.org/abs/2407.10910)|**[link](https://github.com/explainableml/datadream)**|
+|**2024-07-15**|**Optical Diffusion Models for Image Generation**|Ilker Oguz et.al.|[2407.10897](http://arxiv.org/abs/2407.10897)|null|
+|**2024-07-15**|**R3D-AD: Reconstruction via Diffusion for 3D Anomaly Detection**|Zheyuan Zhou et.al.|[2407.10862](http://arxiv.org/abs/2407.10862)|null|
+|**2024-07-15**|**Physics-Inspired Generative Models in Medical Imaging: A Review**|Dennis Hein et.al.|[2407.10856](http://arxiv.org/abs/2407.10856)|null|
+|**2024-07-15**|**Conditional Guided Generative Diffusion for Particle Accelerator Beam Diagnostics**|Alexander Scheinker et.al.|[2407.10693](http://arxiv.org/abs/2407.10693)|null|
+|**2024-07-15**|**Addressing Image Hallucination in Text-to-Image Generation through Factual Image Retrieval**|Youngsun Lim et.al.|[2407.10683](http://arxiv.org/abs/2407.10683)|null|
+|**2024-07-15**|**Temporal Residual Guided Diffusion Framework for Event-Driven Video Reconstruction**|Lin Zhu et.al.|[2407.10636](http://arxiv.org/abs/2407.10636)|null|
+|**2024-07-15**|**WildVidFit: Video Virtual Try-On in the Wild via Image-Based Controlled Diffusion Models**|Zijian He et.al.|[2407.10625](http://arxiv.org/abs/2407.10625)|null|
+|**2024-07-15**|**InsertDiffusion: Identity Preserving Visualization of Objects through a Training-Free Diffusion Architecture**|Phillip Mueller et.al.|[2407.10592](http://arxiv.org/abs/2407.10592)|null|
+|**2024-07-15**|**Local Action-Guided Motion Diffusion Model for Text-to-Motion Generation**|Peng Jin et.al.|[2407.10528](http://arxiv.org/abs/2407.10528)|null|
+|**2024-07-15**|**Kinetic Typography Diffusion Model**|Seonmi Park et.al.|[2407.10476](http://arxiv.org/abs/2407.10476)|null|
+|**2024-07-15**|**GROOT: Generating Robust Watermark for Diffusion-Model-Based Audio Synthesis**|Weizhi Liu et.al.|[2407.10471](http://arxiv.org/abs/2407.10471)|null|
+|**2024-07-15**|**LiteFocus: Accelerated Diffusion Inference for Long Audio Synthesis**|Zhenxiong Tan et.al.|[2407.10468](http://arxiv.org/abs/2407.10468)|null|
+|**2024-07-15**|**DiffStega: Towards Universal Training-Free Coverless Image Steganography with Diffusion Models**|Yiwei Yang et.al.|[2407.10459](http://arxiv.org/abs/2407.10459)|**[link](https://github.com/evtricks/diffstega)**|
+|**2024-07-15**|**Mutual Learning for Acoustic Matching and Dereverberation via Visual Scene-driven Diffusion**|Jian Ma et.al.|[2407.10373](http://arxiv.org/abs/2407.10373)|null|
+|**2024-07-14**|**On an age-structured model in moving boundaries: The effects of nonlocal diffusion and harvesting pulse**|Haiyan Xu et.al.|[2407.10363](http://arxiv.org/abs/2407.10363)|null|
+|**2024-07-14**|**Addressing Class Imbalance and Data Limitations in Advanced Node Semiconductor Defect Inspection: A Generative Approach for SEM Images**|Bappaditya Dey et.al.|[2407.10348](http://arxiv.org/abs/2407.10348)|null|
+|**2024-07-14**|**Tree-D Fusion: Simulation-Ready Tree Dataset from Single Images with Diffusion Priors**|Jae Joong Lee et.al.|[2407.10330](http://arxiv.org/abs/2407.10330)|null|
 |**2024-07-12**|**Any-Property-Conditional Molecule Generation with Self-Criticism using Spanning Trees**|Alexia Jolicoeur-Martineau et.al.|[2407.09357](http://arxiv.org/abs/2407.09357)|null|
 |**2024-07-12**|**PID: Physics-Informed Diffusion Model for Infrared Image Generation**|Fangyuan Mao et.al.|[2407.09299](http://arxiv.org/abs/2407.09299)|**[link](https://github.com/fangyuanmao/pid)**|
 |**2024-07-12**|**Salt & Pepper Heatmaps: Diffusion-informed Landmark Detection Strategy**|Julian Wyatt et.al.|[2407.09192](http://arxiv.org/abs/2407.09192)|null|
@@ -5534,8 +5555,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-15**|**In-Loop Filtering via Trained Look-Up Tables**|Zhuoyuan Li et.al.|[2407.10926](http://arxiv.org/abs/2407.10926)|null|
+|**2024-07-15**|**MoE-DiffIR: Task-customized Diffusion Priors for Universal Compressed Image Restoration**|Yulin Ren et.al.|[2407.10833](http://arxiv.org/abs/2407.10833)|null|
+|**2024-07-15**|**Addressing Image Hallucination in Text-to-Image Generation through Factual Image Retrieval**|Youngsun Lim et.al.|[2407.10683](http://arxiv.org/abs/2407.10683)|null|
+|**2024-07-14**|**Restoring Images in Adverse Weather Conditions via Histogram Transformer**|Shangquan Sun et.al.|[2407.10172](http://arxiv.org/abs/2407.10172)|null|
 |**2024-07-12**|**Region Attention Transformer for Medical Image Restoration**|Zhiwen Yang et.al.|[2407.09268](http://arxiv.org/abs/2407.09268)|**[link](https://github.com/yaziwel/region-attention-transformer-for-medical-image-restoration)**|
-|**2024-07-12**|**Exploring Richer and More Accurate Information via Frequency Selection for Image Restoration**|Hu Gao et.al.|[2407.08950](http://arxiv.org/abs/2407.08950)|null|
+|**2024-07-12**|**Exploring Richer and More Accurate Information via Frequency Selection for Image Restoration**|Hu Gao et.al.|[2407.08950](http://arxiv.org/abs/2407.08950)|**[link](https://github.com/Tombs98/MSFSNet_)**|
 |**2024-07-11**|**Single-Image Shadow Removal Using Deep Learning: A Comprehensive Survey**|Laniqng Guo et.al.|[2407.08865](http://arxiv.org/abs/2407.08865)|null|
 |**2024-07-11**|**Haar Nuclear Norms with Applications to Remote Sensing Imagery Restoration**|Shuang Xu et.al.|[2407.08509](http://arxiv.org/abs/2407.08509)|null|
 |**2024-07-12**|**Neural Poisson Solver: A Universal and Continuous Framework for Natural Signal Blending**|Delong Wu et.al.|[2407.08457](http://arxiv.org/abs/2407.08457)|null|
@@ -6603,11 +6628,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-15**|**Lite2Relight: 3D-aware Single Image Portrait Relighting**|Pramod Rao et.al.|[2407.10487](http://arxiv.org/abs/2407.10487)|null|
+|**2024-07-12**|**Seq-to-Final: A Benchmark for Tuning from Sequential Distributions to a Final Time Point**|Christina X Ji et.al.|[2407.09642](http://arxiv.org/abs/2407.09642)|null|
 |**2024-07-12**|**EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditions**|Zhiyuan Chen et.al.|[2407.08136](http://arxiv.org/abs/2407.08136)|null|
 |**2024-07-10**|**Multimodal Self-Instruct: Synthetic Abstract Image and Visual Reasoning Instruction Using Language Model**|Wenqi Zhang et.al.|[2407.07053](http://arxiv.org/abs/2407.07053)|**[link](https://github.com/zwq2018/multi-modal-self-instruct)**|
 |**2024-07-11**|**RodinHD: High-Fidelity 3D Avatar Generation with Diffusion Models**|Bowen Zhang et.al.|[2407.06938](http://arxiv.org/abs/2407.06938)|null|
 |**2024-07-08**|**MobilePortrait: Real-Time One-Shot Neural Head Avatars on Mobile Devices**|Jianwen Jiang et.al.|[2407.05712](http://arxiv.org/abs/2407.05712)|null|
-|**2024-07-06**|**Irregular Fixation II: The orbits of irregular satellites**|Evgeni Grishin et.al.|[2407.05123](http://arxiv.org/abs/2407.05123)|null|
+|**2024-07-06**|**Irregular Fixation II: The orbits of irregular satellites**|Evgeni Grishin et.al.|[2407.05123](http://arxiv.org/abs/2407.05123)|**[link](https://github.com/eugeneg88/fixed_points_brown)**|
 |**2024-07-04**|**MobileExperts: A Dynamic Tool-Enabled Agent Team in Mobile Devices**|Jiayi Zhang et.al.|[2407.03913](http://arxiv.org/abs/2407.03913)|null|
 |**2024-07-03**|**LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control**|Jianzhu Guo et.al.|[2407.03168](http://arxiv.org/abs/2407.03168)|**[link](https://github.com/KwaiVGI/LivePortrait)**|
 |**2024-07-01**|**Multimodal Conditional 3D Face Geometry Generation**|Christopher Otto et.al.|[2407.01074](http://arxiv.org/abs/2407.01074)|null|
@@ -6905,7 +6932,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-12**|**Movie Recommendation with Poster Attention via Multi-modal Transformer Feature Fusion**|Linhan Xia et.al.|[2407.09157](http://arxiv.org/abs/2407.09157)|null|
 |**2024-05-28**|**Cardiovascular Disease Detection from Multi-View Chest X-rays with BI-Mamba**|Zefan Yang et.al.|[2405.18533](http://arxiv.org/abs/2405.18533)|**[link](https://github.com/RPIDIAL/BI-Mamba)**|
-|**2024-03-12**|**LaB-GATr: geometric algebra transformers for large biomedical surface and volume meshes**|Julian Suk et.al.|[2403.07536](http://arxiv.org/abs/2403.07536)|null|
+|**2024-03-12**|**LaB-GATr: geometric algebra transformers for large biomedical surface and volume meshes**|Julian Suk et.al.|[2403.07536](http://arxiv.org/abs/2403.07536)|**[link](https://github.com/sukjulian/lab-gatr)**|
 |**2023-11-06**|**$p$ -Adic hypergeometric functions and the trace of Frobenius of elliptic curves**|Sulakashna et.al.|[2311.03259](http://arxiv.org/abs/2311.03259)|null|
 |**2023-11-02**|**Polynomial rigidity and spectrum of Sidon automorphisms**|Valery V. Ryzhikov et.al.|[2310.10370](http://arxiv.org/abs/2310.10370)|null|
 |**2023-10-02**|**Efficient Remote Sensing Segmentation With Generative Adversarial Transformer**|Luyi Qiu et.al.|[2310.01292](http://arxiv.org/abs/2310.01292)|null|

@@ -39,6 +39,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-22**|**FDWST: Fingerphoto Deblurring using Wavelet Style Transfer**|David Keaton et.al.|[2407.15964](http://arxiv.org/abs/2407.15964)|null|
+|**2024-07-22**|**Semantics Guided Disentangled GAN for Chest X-ray Image Rib Segmentation**|Lili Huang et.al.|[2407.15903](http://arxiv.org/abs/2407.15903)|null|
 |**2024-07-22**|**SETTP: Style Extraction and Tunable Inference via Dual-level Transferable Prompt Learning**|Chunzhen Jin et.al.|[2407.15556](http://arxiv.org/abs/2407.15556)|null|
 |**2024-07-22**|**X-Recon: Learning-based Patient-specific High-Resolution CT Reconstruction from Orthogonal X-Ray Images**|Yunpeng Wang et.al.|[2407.15356](http://arxiv.org/abs/2407.15356)|**[link](https://github.com/wangyunpengbio/x-recon)**|
 |**2024-07-20**|**CBCTLiTS: A Synthetic, Paired CBCT/CT Dataset For Segmentation And Style Transfer**|Maximilian E. Tschuchnig et.al.|[2407.14853](http://arxiv.org/abs/2407.14853)|null|
@@ -1542,7 +1544,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-22**|**Artist: Aesthetically Controllable Text-Driven Stylization without Training**|Ruixiang Jiang et.al.|[2407.15842](http://arxiv.org/abs/2407.15842)|null|
+|**2024-07-23**|**Diffusion Models for Monocular Depth Estimation: Overcoming Challenging Conditions**|Fabio Tosi et.al.|[2407.16698](http://arxiv.org/abs/2407.16698)|**[link](https://github.com/fabiotosi92/diffusion4robustdepth)**|
+|**2024-07-23**|**From Imitation to Refinement -- Residual RL for Precise Visual Assembly**|Lars Ankile et.al.|[2407.16677](http://arxiv.org/abs/2407.16677)|null|
+|**2024-07-23**|**MovieDreamer: Hierarchical Generation for Coherent Long Visual Sequence**|Canyu Zhao et.al.|[2407.16655](http://arxiv.org/abs/2407.16655)|null|
+|**2024-07-23**|**DreamVTON: Customizing 3D Virtual Try-on with Personalized Diffusion Models**|Zhenyu Xie et.al.|[2407.16511](http://arxiv.org/abs/2407.16511)|null|
+|**2024-07-23**|**MonoWAD: Weather-Adaptive Diffusion Model for Robust Monocular 3D Object Detection**|Youngmin Oh et.al.|[2407.16448](http://arxiv.org/abs/2407.16448)|**[link](https://github.com/visualaikhu/monowad)**|
+|**2024-07-23**|**On Differentially Private 3D Medical Image Synthesis with Controllable Latent Diffusion Models**|Deniz Daum et.al.|[2407.16405](http://arxiv.org/abs/2407.16405)|**[link](https://github.com/compai-lab/2024-miccai-dgm-daum)**|
+|**2024-07-23**|**DreamDissector: Learning Disentangled Text-to-3D Generation from 2D Diffusion Priors**|Zizheng Yan et.al.|[2407.16260](http://arxiv.org/abs/2407.16260)|null|
+|**2024-07-23**|**OutfitAnyone: Ultra-high Quality Virtual Try-On for Any Clothing and Any Person**|Ke Sun et.al.|[2407.16224](http://arxiv.org/abs/2407.16224)|null|
+|**2024-07-23**|**Diff-Shadow: Global-guided Diffusion Model for Shadow Removal**|Jinting Luo et.al.|[2407.16214](http://arxiv.org/abs/2407.16214)|null|
+|**2024-07-23**|**CloudFixer: Test-Time Adaptation for 3D Point Clouds via Diffusion-Guided Geometric Transformation**|Hajin Shim et.al.|[2407.16193](http://arxiv.org/abs/2407.16193)|null|
+|**2024-07-23**|**No Re-Train, More Gain: Upgrading Backbones with Diffusion Model for Few-Shot Segmentation**|Shuai Chen et.al.|[2407.16182](http://arxiv.org/abs/2407.16182)|null|
+|**2024-07-23**|**Learning Trimodal Relation for AVQA with Missing Modality**|Kyu Ri Park et.al.|[2407.16171](http://arxiv.org/abs/2407.16171)|**[link](https://github.com/visualaikhu/missing-avqa)**|
+|**2024-07-23**|**Diffusion Models as Optimizers for Efficient Planning in Offline RL**|Renming Huang et.al.|[2407.16142](http://arxiv.org/abs/2407.16142)|**[link](https://github.com/renming-huang/trajectorydiffuser)**|
+|**2024-07-23**|**Diffusion Transformer Captures Spatial-Temporal Dependencies: A Theory for Gaussian Process Data**|Hengyu Fu et.al.|[2407.16134](http://arxiv.org/abs/2407.16134)|null|
+|**2024-07-23**|**Diffusion Prior-Based Amortized Variational Inference for Noisy Inverse Problems**|Sojin Lee et.al.|[2407.16125](http://arxiv.org/abs/2407.16125)|**[link](https://github.com/mlvlab/davi)**|
+|**2024-07-22**|**Setting of the Poincaré section for accurately calculating the phase of rhythmic spatiotemporal dynamics**|Takahiro Arai et.al.|[2407.16080](http://arxiv.org/abs/2407.16080)|null|
+|**2024-07-22**|**The Shadow of Fraud: The Emerging Danger of AI-powered Social Engineering and its Possible Cure**|Jingru Yu et.al.|[2407.15912](http://arxiv.org/abs/2407.15912)|null|
+|**2024-07-22**|**Artist: Aesthetically Controllable Text-Driven Stylization without Training**|Ruixiang Jiang et.al.|[2407.15842](http://arxiv.org/abs/2407.15842)|**[link](https://github.com/songrise/Artist)**|
 |**2024-07-22**|**Stretching Each Dollar: Diffusion Training from Scratch on a Micro-Budget**|Vikash Sehwag et.al.|[2407.15811](http://arxiv.org/abs/2407.15811)|null|
 |**2024-07-22**|**Diffusion Model Based Resource Allocation Strategy in Ultra-Reliable Wireless Networked Control Systems**|Amirhassan Babazadeh Darabi et.al.|[2407.15784](http://arxiv.org/abs/2407.15784)|null|
 |**2024-07-22**|**A Hamilton-Jacobi approach to road-field reaction-diffusion models**|Christopher Henderson et.al.|[2407.15760](http://arxiv.org/abs/2407.15760)|null|
@@ -5673,6 +5692,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-23**|**DreamDissector: Learning Disentangled Text-to-3D Generation from 2D Diffusion Priors**|Zizheng Yan et.al.|[2407.16260](http://arxiv.org/abs/2407.16260)|null|
+|**2024-07-23**|**CLII: Visual-Text Inpainting via Cross-Modal Predictive Interaction**|Liang Zhao et.al.|[2407.16204](http://arxiv.org/abs/2407.16204)|null|
+|**2024-07-23**|**Diffusion Prior-Based Amortized Variational Inference for Noisy Inverse Problems**|Sojin Lee et.al.|[2407.16125](http://arxiv.org/abs/2407.16125)|**[link](https://github.com/mlvlab/davi)**|
 |**2024-07-21**|**MedEdit: Counterfactual Diffusion-based Image Editing on Brain MRI**|Malek Ben Alaya et.al.|[2407.15270](http://arxiv.org/abs/2407.15270)|null|
 |**2024-07-21**|**Assessing Sample Quality via the Latent Space of Generative Models**|Jingyi Xu et.al.|[2407.15171](http://arxiv.org/abs/2407.15171)|null|
 |**2024-07-20**|**Deep Learning CT Image Restoration using System Blur and Noise Models**|Yijie Yuan et.al.|[2407.14983](http://arxiv.org/abs/2407.14983)|null|
@@ -6463,7 +6485,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-20**|**Modeling and Driving Human Body Soundfields through Acoustic Primitives**|Chao Huang et.al.|[2407.13083](http://arxiv.org/abs/2407.13083)|null|
 |**2024-07-17**|**Generalizable Human Gaussians for Sparse View Synthesis**|Youngjoong Kwon et.al.|[2407.12777](http://arxiv.org/abs/2407.12777)|null|
-|**2024-07-11**|**GAURA: Generalizable Approach for Unified Restoration and Rendering of Arbitrary Views**|Vinayak Gupta et.al.|[2407.08221](http://arxiv.org/abs/2407.08221)|null|
+|**2024-07-11**|**GAURA: Generalizable Approach for Unified Restoration and Rendering of Arbitrary Views**|Vinayak Gupta et.al.|[2407.08221](http://arxiv.org/abs/2407.08221)|**[link](https://github.com/Vinayak-VG/GAURA)**|
 |**2024-07-10**|**Protecting NeRFs' Copyright via Plug-And-Play Watermarking Base Model**|Qi Song et.al.|[2407.07735](http://arxiv.org/abs/2407.07735)|null|
 |**2024-07-09**|**Fine-Grained Multi-View Hand Reconstruction Using Inverse Rendering**|Qijun Gan et.al.|[2407.05680](http://arxiv.org/abs/2407.05680)|**[link](https://github.com/agnjason/fmhr)**|
 |**2024-07-07**|**PICA: Physics-Integrated Clothed Avatar**|Bo Peng et.al.|[2407.05324](http://arxiv.org/abs/2407.05324)|null|

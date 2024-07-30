@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.29
+## Updated on 2024.07.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -40,7 +40,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-26**|**Generative Adversarial Networks for Imputing Sparse Learning Performance**|Liang Zhang et.al.|[2407.18875](http://arxiv.org/abs/2407.18875)|null|
-|**2024-07-26**|**Speech Bandwidth Expansion Via High Fidelity Generative Adversarial Networks**|Mahmoud Salhab et.al.|[2407.18571](http://arxiv.org/abs/2407.18571)|null|
+|**2024-07-29**|**Speech Bandwidth Expansion Via High Fidelity Generative Adversarial Networks**|Mahmoud Salhab et.al.|[2407.18571](http://arxiv.org/abs/2407.18571)|null|
 |**2024-07-26**|**Machine Unlearning using a Multi-GAN based Model**|Amartya Hatua et.al.|[2407.18467](http://arxiv.org/abs/2407.18467)|null|
 |**2024-07-25**|**Generative AI like ChatGPT in Blockchain Federated Learning: use cases, opportunities and future**|Sai Puppala et.al.|[2407.18358](http://arxiv.org/abs/2407.18358)|null|
 |**2024-07-25**|**Enhancing Eye Disease Diagnosis with Deep Learning and Synthetic Data Augmentation**|Saideep Kilaru et.al.|[2407.17755](http://arxiv.org/abs/2407.17755)|null|

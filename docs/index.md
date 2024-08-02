@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.01
+## Updated on 2024.08.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -1581,7 +1581,7 @@ layout: default
 |**2024-07-30**|**Add-SD: Rational Generation without Manual Reference**|Lingfeng Yang et.al.|[2407.21016](http://arxiv.org/abs/2407.21016)|**[link](https://github.com/ylingfeng/add-sd)**|
 |**2024-07-30**|**Vulnerabilities in AI-generated Image Detection: The Challenge of Adversarial Attacks**|Yunfeng Diao et.al.|[2407.20836](http://arxiv.org/abs/2407.20836)|null|
 |**2024-07-30**|**Diffusion Augmented Agents: A Framework for Efficient Exploration and Transfer Learning**|Norman Di Palo et.al.|[2407.20798](http://arxiv.org/abs/2407.20798)|null|
-|**2024-07-30**|**SynthVLM: High-Efficiency and High-Quality Synthetic Data for Vision Language Models**|Zheng Liu et.al.|[2407.20756](http://arxiv.org/abs/2407.20756)|**[link](https://github.com/starriver030515/synthvlm)**|
+|**2024-08-01**|**SynthVLM: High-Efficiency and High-Quality Synthetic Data for Vision Language Models**|Zheng Liu et.al.|[2407.20756](http://arxiv.org/abs/2407.20756)|**[link](https://github.com/starriver030515/synthvlm)**|
 |**2024-07-30**|**EgoSonics: Generating Synchronized Audio for Silent Egocentric Videos**|Aashish Rai et.al.|[2407.20592](http://arxiv.org/abs/2407.20592)|null|
 |**2024-07-30**|**DiffusionCounterfactuals: Inferring High-dimensional Counterfactuals with Guidance of Causal Representations**|Jiageng Zhu et.al.|[2407.20553](http://arxiv.org/abs/2407.20553)|null|
 |**2024-07-29**|**Learning Feature-Preserving Portrait Editing from Generated Pairs**|Bowei Chen et.al.|[2407.20455](http://arxiv.org/abs/2407.20455)|null|

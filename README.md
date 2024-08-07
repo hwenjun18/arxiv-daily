@@ -51,6 +51,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-06**|**IPAdapter-Instruct: Resolving Ambiguity in Image-based Conditioning using Instruct Prompts**|Ciara Rowles et.al.|[2408.03209](http://arxiv.org/abs/2408.03209)|null|
+|**2024-08-06**|**A generative adversarial network for stellar core-collapse gravitational-waves**|Tarin Eccleston et.al.|[2408.02895](http://arxiv.org/abs/2408.02895)|null|
 |**2024-08-04**|**LDFaceNet: Latent Diffusion-based Network for High-Fidelity Deepfake Generation**|Dwij Mehta et.al.|[2408.02078](http://arxiv.org/abs/2408.02078)|null|
 |**2024-08-03**|**Supervised Image Translation from Visible to Infrared Domain for Object Detection**|Prahlad Anand et.al.|[2408.01843](http://arxiv.org/abs/2408.01843)|null|
 |**2024-08-03**|**ST-SACLF: Style Transfer Informed Self-Attention Classifier for Bias-Aware Painting Classification**|Mridula Vijendran et.al.|[2408.01827](http://arxiv.org/abs/2408.01827)|null|
@@ -1592,6 +1594,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-06**|**MDT-A2G: Exploring Masked Diffusion Transformers for Co-Speech Gesture Generation**|Xiaofeng Mao et.al.|[2408.03312](http://arxiv.org/abs/2408.03312)|null|
+|**2024-08-06**|**IPAdapter-Instruct: Resolving Ambiguity in Image-based Conditioning using Instruct Prompts**|Ciara Rowles et.al.|[2408.03209](http://arxiv.org/abs/2408.03209)|null|
+|**2024-08-06**|**Iterative CT Reconstruction via Latent Variable Optimization of Shallow Diffusion Models**|Sho Ozaki et.al.|[2408.03156](http://arxiv.org/abs/2408.03156)|null|
+|**2024-08-06**|**Training-Free Condition Video Diffusion Models for single frame Spatial-Semantic Echocardiogram Synthesis**|Van Phi Nguyen et.al.|[2408.03035](http://arxiv.org/abs/2408.03035)|null|
+|**2024-08-06**|**Diffusion Model Meets Non-Exemplar Class-Incremental Learning and Beyond**|Jichuan Zhang et.al.|[2408.02983](http://arxiv.org/abs/2408.02983)|null|
+|**2024-08-06**|**Data-Driven Stochastic Closure Modeling via Conditional Diffusion Model and Neural Operator**|Xinghao Dong et.al.|[2408.02965](http://arxiv.org/abs/2408.02965)|null|
+|**2024-08-06**|**Diverse Generation while Maintaining Semantic Coordination: A Diffusion-Based Data Augmentation Method for Object Detection**|Sen Nie et.al.|[2408.02891](http://arxiv.org/abs/2408.02891)|null|
+|**2024-08-05**|**Back-Projection Diffusion: Solving the Wideband Inverse Scattering Problem with Diffusion Models**|Borong Zhang et.al.|[2408.02866](http://arxiv.org/abs/2408.02866)|null|
+|**2024-08-05**|**Text Conditioned Symbolic Drumbeat Generation using Latent Diffusion Models**|Pushkar Jajoria et.al.|[2408.02711](http://arxiv.org/abs/2408.02711)|null|
+|**2024-08-05**|**RCDM: Enabling Robustness for Conditional Diffusion Model**|Weifeng Xu et.al.|[2408.02710](http://arxiv.org/abs/2408.02710)|null|
 |**2024-08-05**|**LaMamba-Diff: Linear-Time High-Fidelity Diffusion Models Based on Local Attention and Mamba**|Yunxiang Fu et.al.|[2408.02615](http://arxiv.org/abs/2408.02615)|null|
 |**2024-08-05**|**Multi-weather Cross-view Geo-localization Using Denoising Diffusion Models**|Tongtong Feng et.al.|[2408.02408](http://arxiv.org/abs/2408.02408)|null|
 |**2024-08-05**|**A Sharp Convergence Theory for The Probability Flow ODEs of Diffusion Models**|Gen Li et.al.|[2408.02320](http://arxiv.org/abs/2408.02320)|null|
@@ -6672,6 +6684,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-06**|**VirtualNexus: Enhancing 360-Degree Video AR/VR Collaboration with Environment Cutouts and Virtual Replicas**|Xincheng Huang et.al.|[2408.02914](http://arxiv.org/abs/2408.02914)|null|
 |**2024-08-03**|**iControl3D: An Interactive System for Controllable 3D Scene Generation**|Xingyi Li et.al.|[2408.01678](http://arxiv.org/abs/2408.01678)|null|
 |**2024-08-05**|**UlRe-NeRF: 3D Ultrasound Imaging through Neural Rendering with Ultrasound Reflection Direction Parameterization**|Ziwen Guo et.al.|[2408.00860](http://arxiv.org/abs/2408.00860)|null|
 |**2024-07-30**|**XHand: Real-time Expressive Hand Avatar**|Qijun Gan et.al.|[2407.21002](http://arxiv.org/abs/2407.21002)|**[link](https://github.com/agnjason/xhand)**|
@@ -6988,6 +7001,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-06**|**Employing Vector Field Techniques on the Analysis of Memristor Cellular Nonlinear Networks Cell Dynamics**|Chandan Singh et.al.|[2408.03260](http://arxiv.org/abs/2408.03260)|null|
 |**2024-08-03**|**IDNet: A Novel Dataset for Identity Document Analysis and Fraud Detection**|Hong Guan et.al.|[2408.01690](http://arxiv.org/abs/2408.01690)|null|
 |**2024-08-02**|**Finite Dynamical Laminations**|Forrest M. Hilton et.al.|[2408.01353](http://arxiv.org/abs/2408.01353)|null|
 |**2024-07-30**|**A Multiwavelength Portrait of the 3C 220.3 Lensed System**|Sóley Ó. Hyman et.al.|[2407.21020](http://arxiv.org/abs/2407.21020)|null|

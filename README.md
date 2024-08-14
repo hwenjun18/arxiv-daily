@@ -51,6 +51,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-13**|**Content and Style Aware Audio-Driven Facial Animation**|Qingju Liu et.al.|[2408.07005](http://arxiv.org/abs/2408.07005)|null|
+|**2024-08-13**|**SpectralGaussians: Semantic, spectral 3D Gaussian splatting for multi-spectral scene representation, visualization and analysis**|Saptarshi Neil Sinha et.al.|[2408.06975](http://arxiv.org/abs/2408.06975)|null|
+|**2024-08-13**|**VNet: A GAN-based Multi-Tier Discriminator Network for Speech Synthesis Vocoders**|Yubing Cao et.al.|[2408.06906](http://arxiv.org/abs/2408.06906)|null|
 |**2024-08-12**|**Open-Source Molecular Processing Pipeline for Generating Molecules**|Shreyas V et.al.|[2408.06261](http://arxiv.org/abs/2408.06261)|null|
 |**2024-08-12**|**Deep Learning System Boundary Testing through Latent Space Style Mixing**|Amr Abdellatif et.al.|[2408.06258](http://arxiv.org/abs/2408.06258)|null|
 |**2024-08-12**|**An Analysis for Image-to-Image Translation and Style Transfer**|Xiaoming Yu et.al.|[2408.06000](http://arxiv.org/abs/2408.06000)|null|
@@ -1612,6 +1615,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-13**|**Imagen 3**|Imagen-Team-Google et.al.|[2408.07009](http://arxiv.org/abs/2408.07009)|null|
+|**2024-08-13**|**Low-Bitwidth Floating Point Quantization for Efficient High-Quality Diffusion Models**|Cheng Chen et.al.|[2408.06995](http://arxiv.org/abs/2408.06995)|null|
+|**2024-08-13**|**DCMSA: Multi-Head Self-Attention Mechanism Based on Deformable Convolution For Seismic Data Denoising**|Wang Mingwei et.al.|[2408.06963](http://arxiv.org/abs/2408.06963)|null|
+|**2024-08-13**|**Diffusion Model for Slate Recommendation**|Federico Tomasi et.al.|[2408.06883](http://arxiv.org/abs/2408.06883)|null|
+|**2024-08-13**|**DiffLoRA: Generating Personalized Low-Rank Adaptation Weights with Diffusion**|Yujia Wu et.al.|[2408.06740](http://arxiv.org/abs/2408.06740)|null|
+|**2024-08-13**|**DiffSG: A Generative Solver for Network Optimization with Diffusion Model**|Ruihuai Liang et.al.|[2408.06701](http://arxiv.org/abs/2408.06701)|null|
+|**2024-08-13**|**DC3DO: Diffusion Classifier for 3D Objects**|Nursena Koprucu et.al.|[2408.06693](http://arxiv.org/abs/2408.06693)|null|
+|**2024-08-13**|**Leveraging Priors via Diffusion Bridge for Time Series Generation**|Jinseong Park et.al.|[2408.06672](http://arxiv.org/abs/2408.06672)|null|
+|**2024-08-13**|**Hybrid SD: Edge-Cloud Collaborative Inference for Stable Diffusion Models**|Chenqian Yan et.al.|[2408.06646](http://arxiv.org/abs/2408.06646)|null|
+|**2024-08-13**|**ViMo: Generating Motions from Casual Videos**|Liangdong Qiu et.al.|[2408.06614](http://arxiv.org/abs/2408.06614)|null|
+|**2024-08-12**|**Synthetic Photography Detection: A Visual Guidance for Identifying Synthetic Images Created by AI**|Melanie Mathys et.al.|[2408.06398](http://arxiv.org/abs/2408.06398)|null|
 |**2024-08-12**|**The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery**|Chris Lu et.al.|[2408.06292](http://arxiv.org/abs/2408.06292)|**[link](https://github.com/sakanaai/ai-scientist)**|
 |**2024-08-12**|**3D Reconstruction of Protein Structures from Multi-view AFM Images using Neural Radiance Fields (NeRFs)**|Jaydeep Rade et.al.|[2408.06244](http://arxiv.org/abs/2408.06244)|null|
 |**2024-08-12**|**Novel View Synthesis from a Single Image with Pretrained Diffusion Guidance**|Taewon Kang et.al.|[2408.06157](http://arxiv.org/abs/2408.06157)|null|
@@ -5926,6 +5940,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-13**|**Review Learning: Advancing All-in-One Ultra-High-Definition Image Restoration Training Method**|Xin Su et.al.|[2408.06709](http://arxiv.org/abs/2408.06709)|null|
+|**2024-08-13**|**EditScribe: Non-Visual Image Editing with Natural Language Verification Loops**|Ruei-Che Chang et.al.|[2408.06632](http://arxiv.org/abs/2408.06632)|null|
+|**2024-08-12**|**Wavelet based inpainting detection**|Barglazan Adrian-Alin et.al.|[2408.06429](http://arxiv.org/abs/2408.06429)|null|
 |**2024-08-10**|**Greedy randomized block Kaczmarz method for matrix equation AXB=C and its applications in color image restoration**|Wenli Wang et.al.|[2408.05444](http://arxiv.org/abs/2408.05444)|null|
 |**2024-08-09**|**Img-Diff: Contrastive Data Synthesis for Multimodal Large Language Models**|Qirui Jiao et.al.|[2408.04594](http://arxiv.org/abs/2408.04594)|**[link](https://github.com/modelscope/data-juicer)**|
 |**2024-08-08**|**Physical prior guided cooperative learning framework for joint turbulence degradation estimation and infrared video restoration**|Ziran Zhang et.al.|[2408.04227](http://arxiv.org/abs/2408.04227)|null|
@@ -6748,6 +6765,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-13**|**Potamoi: Accelerating Neural Rendering via a Unified Streaming Architecture**|Yu Feng et.al.|[2408.06608](http://arxiv.org/abs/2408.06608)|null|
 |**2024-08-06**|**VirtualNexus: Enhancing 360-Degree Video AR/VR Collaboration with Environment Cutouts and Virtual Replicas**|Xincheng Huang et.al.|[2408.02914](http://arxiv.org/abs/2408.02914)|null|
 |**2024-08-03**|**iControl3D: An Interactive System for Controllable 3D Scene Generation**|Xingyi Li et.al.|[2408.01678](http://arxiv.org/abs/2408.01678)|**[link](https://github.com/xingyi-li/icontrol3d)**|
 |**2024-08-05**|**UlRe-NeRF: 3D Ultrasound Imaging through Neural Rendering with Ultrasound Reflection Direction Parameterization**|Ziwen Guo et.al.|[2408.00860](http://arxiv.org/abs/2408.00860)|null|
@@ -7066,6 +7084,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-13**|**DiffLoRA: Generating Personalized Low-Rank Adaptation Weights with Diffusion**|Yujia Wu et.al.|[2408.06740](http://arxiv.org/abs/2408.06740)|null|
 |**2024-08-11**|**Riemann Surfaces and Winding Numbers of Rényi Phase Structure of Charged-Flat Black Holes**|F. Barzi et.al.|[2408.05870](http://arxiv.org/abs/2408.05870)|null|
 |**2024-08-10**|**ZePo: Zero-Shot Portrait Stylization with Faster Sampling**|Jin Liu et.al.|[2408.05492](http://arxiv.org/abs/2408.05492)|null|
 |**2024-08-09**|**Looking Back, Moving Forward: A First-Person Perspective Of How Past Artificial Intelligence Encounters Shape Today's Creative Practice**|Makayla Lewis et.al.|[2408.04978](http://arxiv.org/abs/2408.04978)|null|

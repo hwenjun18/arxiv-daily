@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.29
+## Updated on 2024.08.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -39,7 +39,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-28**|**GANs Conditioning Methods: A Survey**|Anis Bourou et.al.|[2408.15640](http://arxiv.org/abs/2408.15640)|null|
+|**2024-08-29**|**GANs Conditioning Methods: A Survey**|Anis Bourou et.al.|[2408.15640](http://arxiv.org/abs/2408.15640)|null|
 |**2024-08-28**|**Dissipation-driven quantum generative adversarial networks**|He Wang et.al.|[2408.15597](http://arxiv.org/abs/2408.15597)|null|
 |**2024-08-27**|**Histo-Diffusion: A Diffusion Super-Resolution Method for Digital Pathology with Comprehensive Quality Assessment**|Xuan Xu et.al.|[2408.15218](http://arxiv.org/abs/2408.15218)|null|
 |**2024-08-27**|**Automatic 8-tissue Segmentation for 6-month Infant Brains**|Yilan Dong et.al.|[2408.15198](http://arxiv.org/abs/2408.15198)|null|

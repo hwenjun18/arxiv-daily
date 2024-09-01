@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.31
+## Updated on 2024.09.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -1655,7 +1655,7 @@ layout: default
 |**2024-08-29**|**Enhanced Control for Diffusion Bridge in Image Restoration**|Conghan Yue et.al.|[2408.16303](http://arxiv.org/abs/2408.16303)|**[link](https://github.com/Hammour-steak/ECDB)**|
 |**2024-08-29**|**Advancing Architectural Floorplan Design with Geometry-enhanced Graph Diffusion**|Sizhe Hu et.al.|[2408.16258](http://arxiv.org/abs/2408.16258)|null|
 |**2024-08-29**|**Error analysis of conformal finite element method for nonlocal diffusion model**|Zuoqiang Shi et.al.|[2408.16243](http://arxiv.org/abs/2408.16243)|null|
-|**2024-08-29**|**Enhancing Conditional Image Generation with Explainable Latent Space Manipulation**|Kshitij Pathania et.al.|[2408.16232](http://arxiv.org/abs/2408.16232)|null|
+|**2024-08-29**|**Enhancing Conditional Image Generation with Explainable Latent Space Manipulation**|Kshitij Pathania et.al.|[2408.16232](http://arxiv.org/abs/2408.16232)|**[link](https://github.com/kshitij79/CS-7476-Improvements-in-Diffusion-Model)**|
 |**2024-08-28**|**TEDRA: Text-based Editing of Dynamic and Photoreal Actors**|Basavaraj Sunagad et.al.|[2408.15995](http://arxiv.org/abs/2408.15995)|null|
 |**2024-08-28**|**Distribution Backtracking Builds A Faster Convergence Trajectory for One-step Diffusion Distillation**|Shengyuan Zhang et.al.|[2408.15991](http://arxiv.org/abs/2408.15991)|**[link](https://github.com/syzhang0805/disback)**|
 |**2024-08-28**|**Gen-Swarms: Adapting Deep Generative Models to Swarms of Drones**|Carlos Plou et.al.|[2408.15899](http://arxiv.org/abs/2408.15899)|null|

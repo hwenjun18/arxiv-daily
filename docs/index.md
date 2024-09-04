@@ -45,7 +45,7 @@ layout: default
 |**2024-08-29**|**Anchor-Controlled Generative Adversarial Network for High-Fidelity Electromagnetic and Structurally Diverse Metasurface Design**|Yunhui Zeng et.al.|[2408.16231](http://arxiv.org/abs/2408.16231)|null|
 |**2024-08-28**|**Simulating realistic short tandem repeat capillary electrophoretic signal using a generative adversarial network**|Duncan Taylor et.al.|[2408.16169](http://arxiv.org/abs/2408.16169)|null|
 |**2024-08-28**|**ChartEye: A Deep Learning Framework for Chart Information Extraction**|Osama Mustafa et.al.|[2408.16123](http://arxiv.org/abs/2408.16123)|null|
-|**2024-08-29**|**GANs Conditioning Methods: A Survey**|Anis Bourou et.al.|[2408.15640](http://arxiv.org/abs/2408.15640)|null|
+|**2024-09-03**|**GANs Conditioning Methods: A Survey**|Anis Bourou et.al.|[2408.15640](http://arxiv.org/abs/2408.15640)|null|
 |**2024-08-28**|**Dissipation-driven quantum generative adversarial networks**|He Wang et.al.|[2408.15597](http://arxiv.org/abs/2408.15597)|null|
 |**2024-08-27**|**Histo-Diffusion: A Diffusion Super-Resolution Method for Digital Pathology with Comprehensive Quality Assessment**|Xuan Xu et.al.|[2408.15218](http://arxiv.org/abs/2408.15218)|null|
 |**2024-08-27**|**Automatic 8-tissue Segmentation for 6-month Infant Brains**|Yilan Dong et.al.|[2408.15198](http://arxiv.org/abs/2408.15198)|null|
@@ -1645,7 +1645,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-30**|**Subspace Diffusion Posterior Sampling for Travel-Time Tomography**|Xiang Cao et.al.|[2408.17333](http://arxiv.org/abs/2408.17333)|null|
-|**2024-08-30**|**RISSOLE: Parameter-efficient Diffusion Models via Block-wise Generation and Retrieval-Guidance**|Avideep Mukherjee et.al.|[2408.17095](http://arxiv.org/abs/2408.17095)|null|
+|**2024-09-02**|**RISSOLE: Parameter-efficient Diffusion Models via Block-wise Generation and Retrieval-Guidance**|Avideep Mukherjee et.al.|[2408.17095](http://arxiv.org/abs/2408.17095)|null|
 |**2024-09-02**|**Instant Adversarial Purification with Adversarial Consistency Distillation**|Chun Tong Lei et.al.|[2408.17064](http://arxiv.org/abs/2408.17064)|null|
 |**2024-08-30**|**Text-to-Image Generation Via Energy-Based CLIP**|Roy Ganz et.al.|[2408.17046](http://arxiv.org/abs/2408.17046)|null|
 |**2024-08-30**|**Contrastive Learning with Synthetic Positives**|Dewen Zeng et.al.|[2408.16965](http://arxiv.org/abs/2408.16965)|**[link](https://github.com/dewenzeng/clsp)**|
@@ -1653,7 +1653,7 @@ layout: default
 |**2024-08-29**|**ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model**|Fangfu Liu et.al.|[2408.16767](http://arxiv.org/abs/2408.16767)|null|
 |**2024-08-29**|**CSGO: Content-Style Composition in Text-to-Image Generation**|Peng Xing et.al.|[2408.16766](http://arxiv.org/abs/2408.16766)|null|
 |**2024-08-29**|**DriveGenVLM: Real-world Video Generation for Vision Language Model based Autonomous Driving**|Yongjie Fu et.al.|[2408.16647](http://arxiv.org/abs/2408.16647)|null|
-|**2024-08-29**|**RLCP: A Reinforcement Learning-based Copyright Protection Method for Text-to-Image Diffusion Model**|Zhuan Shi et.al.|[2408.16634](http://arxiv.org/abs/2408.16634)|null|
+|**2024-09-02**|**RLCP: A Reinforcement Learning-based Copyright Protection Method for Text-to-Image Diffusion Model**|Zhuan Shi et.al.|[2408.16634](http://arxiv.org/abs/2408.16634)|null|
 |**2024-08-29**|**A Score-based Generative Solver for PDE-constrained Inverse Problems with Complex Priors**|Yankun Hong et.al.|[2408.16626](http://arxiv.org/abs/2408.16626)|null|
 |**2024-08-29**|**GRPose: Learning Graph Relations for Human Image Generation with Pose Priors**|Xiangchen Yin et.al.|[2408.16540](http://arxiv.org/abs/2408.16540)|null|
 |**2024-08-29**|**Spiking Diffusion Models**|Jiahang Cao et.al.|[2408.16467](http://arxiv.org/abs/2408.16467)|**[link](https://github.com/andycao1125/sdm)**|
@@ -1662,7 +1662,7 @@ layout: default
 |**2024-08-29**|**Self-Improving Diffusion Models with Synthetic Data**|Sina Alemohammad et.al.|[2408.16333](http://arxiv.org/abs/2408.16333)|null|
 |**2024-08-29**|**Enhanced Control for Diffusion Bridge in Image Restoration**|Conghan Yue et.al.|[2408.16303](http://arxiv.org/abs/2408.16303)|**[link](https://github.com/Hammour-steak/ECDB)**|
 |**2024-08-29**|**Advancing Architectural Floorplan Design with Geometry-enhanced Graph Diffusion**|Sizhe Hu et.al.|[2408.16258](http://arxiv.org/abs/2408.16258)|null|
-|**2024-08-29**|**Error analysis of conformal finite element method for nonlocal diffusion model**|Zuoqiang Shi et.al.|[2408.16243](http://arxiv.org/abs/2408.16243)|null|
+|**2024-09-03**|**Error analysis of finite element method for nonlocal diffusion model**|Zuoqiang Shi et.al.|[2408.16243](http://arxiv.org/abs/2408.16243)|null|
 |**2024-08-29**|**Enhancing Conditional Image Generation with Explainable Latent Space Manipulation**|Kshitij Pathania et.al.|[2408.16232](http://arxiv.org/abs/2408.16232)|**[link](https://github.com/kshitij79/CS-7476-Improvements-in-Diffusion-Model)**|
 |**2024-08-28**|**TEDRA: Text-based Editing of Dynamic and Photoreal Actors**|Basavaraj Sunagad et.al.|[2408.15995](http://arxiv.org/abs/2408.15995)|null|
 |**2024-08-28**|**Distribution Backtracking Builds A Faster Convergence Trajectory for One-step Diffusion Distillation**|Shengyuan Zhang et.al.|[2408.15991](http://arxiv.org/abs/2408.15991)|**[link](https://github.com/syzhang0805/disback)**|

@@ -51,6 +51,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**Independence Constrained Disentangled Representation Learning from Epistemological Perspective**|Ruoyu Wang et.al.|[2409.02672](http://arxiv.org/abs/2409.02672)|null|
+|**2024-09-03**|**FastVoiceGrad: One-step Diffusion-Based Voice Conversion with Adversarial Conditional Diffusion Distillation**|Takuhiro Kaneko et.al.|[2409.02245](http://arxiv.org/abs/2409.02245)|null|
+|**2024-09-03**|**LSTM-QGAN: Scalable NISQ Generative Adversarial Network**|Cheng Chu et.al.|[2409.02212](http://arxiv.org/abs/2409.02212)|null|
+|**2024-09-03**|**LLM-GAN: Construct Generative Adversarial Network Through Large Language Models For Explainable Fake News Detection**|Yifeng Wang et.al.|[2409.01787](http://arxiv.org/abs/2409.01787)|null|
+|**2024-09-03**|**Pureformer-VC: Non-parallel One-Shot Voice Conversion with Pure Transformer Blocks and Triplet Discriminative Training**|Wenhan Yao et.al.|[2409.01668](http://arxiv.org/abs/2409.01668)|null|
+|**2024-09-03**|**A novel machine learning method to detect double- $Λ$ hypernuclear events in nuclear emulsions**|Yan He et.al.|[2409.01657](http://arxiv.org/abs/2409.01657)|null|
+|**2024-09-03**|**CTG-KrEW: Generating Synthetic Structured Contextually Correlated Content by Conditional Tabular GAN with K-Means Clustering and Efficient Word Embedding**|Riya Samanta et.al.|[2409.01628](http://arxiv.org/abs/2409.01628)|null|
+|**2024-09-03**|**Effective Noise-aware Data Simulation for Domain-adaptive Speech Enhancement Leveraging Dynamic Stochastic Perturbation**|Chien-Chun Wang et.al.|[2409.01545](http://arxiv.org/abs/2409.01545)|null|
+|**2024-09-02**|**Generating Packet-Level Header Traces Using GNN-powered GAN**|Zhen Xu et.al.|[2409.01265](http://arxiv.org/abs/2409.01265)|null|
+|**2024-09-02**|**3D Priors-Guided Diffusion for Blind Face Restoration**|Xiaobin Lu et.al.|[2409.00991](http://arxiv.org/abs/2409.00991)|null|
+|**2024-09-02**|**MMT-BERT: Chord-aware Symbolic Music Generation Based on Multitrack Music Transformer and MusicBERT**|Jinlong Zhu et.al.|[2409.00919](http://arxiv.org/abs/2409.00919)|null|
+|**2024-09-01**|**Diffusion based multi-domain neuroimaging harmonization method with preservation of anatomical details**|Haoyu Lan et.al.|[2409.00807](http://arxiv.org/abs/2409.00807)|null|
+|**2024-09-01**|**Comprehensive Botnet Detection by Mitigating Adversarial Attacks, Navigating the Subtleties of Perturbation Distances and Fortifying Predictions with Conformal Layers**|Rahul Yumlembam et.al.|[2409.00667](http://arxiv.org/abs/2409.00667)|null|
+|**2024-09-01**|**Style Transfer: From Stitching to Neural Networks**|Xinhe Xu et.al.|[2409.00606](http://arxiv.org/abs/2409.00606)|null|
+|**2024-08-31**|**PS-StyleGAN: Illustrative Portrait Sketching using Attention-Based Style Adaptation**|Kushal Kumar Jain et.al.|[2409.00345](http://arxiv.org/abs/2409.00345)|null|
+|**2024-08-31**|**LightPure: Realtime Adversarial Image Purification for Mobile Devices Using Diffusion Models**|Hossein Khalili et.al.|[2409.00340](http://arxiv.org/abs/2409.00340)|null|
+|**2024-08-30**|**A Generative Adversarial Network-based Method for LiDAR-Assisted Radar Image Enhancement**|Thakshila Thilakanayake et.al.|[2409.00196](http://arxiv.org/abs/2409.00196)|null|
 |**2024-08-30**|**FissionVAE: Federated Non-IID Image Generation with Latent Space and Decoder Decomposition**|Chen Hu et.al.|[2408.17090](http://arxiv.org/abs/2408.17090)|**[link](https://github.com/rand2ai/fissionvae)**|
 |**2024-09-02**|**Enabling Local Editing in Diffusion Models by Joint and Individual Component Analysis**|Theodoros Kouzelis et.al.|[2408.16845](http://arxiv.org/abs/2408.16845)|null|
 |**2024-09-04**|**CSGO: Content-Style Composition in Text-to-Image Generation**|Peng Xing et.al.|[2408.16766](http://arxiv.org/abs/2408.16766)|null|
@@ -1658,6 +1675,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**HiPrompt: Tuning-free Higher-Resolution Generation with Hierarchical MLLM Prompts**|Xinyu Liu et.al.|[2409.02919](http://arxiv.org/abs/2409.02919)|**[link](https://github.com/Liuxinyv/HiPrompt)**|
+|**2024-09-04**|**Masked Diffusion Models are Secretly Time-Agnostic Masked Models and Exploit Inaccurate Categorical Sampling**|Kaiwen Zheng et.al.|[2409.02908](http://arxiv.org/abs/2409.02908)|null|
+|**2024-09-04**|**Human-VDM: Learning Single-Image 3D Human Gaussian Splatting from Video Diffusion Models**|Zhibin Liu et.al.|[2409.02851](http://arxiv.org/abs/2409.02851)|null|
+|**2024-09-04**|**Multi-Track MusicLDM: Towards Versatile Music Generation with Latent Diffusion Model**|Tornike Karchkhadze et.al.|[2409.02845](http://arxiv.org/abs/2409.02845)|null|
+|**2024-09-04**|**Skip-and-Play: Depth-Driven Pose-Preserved Image Generation for Any Objects**|Kyungmin Jo et.al.|[2409.02653](http://arxiv.org/abs/2409.02653)|null|
+|**2024-09-04**|**MADiff: Motion-Aware Mamba Diffusion Models for Hand Trajectory Prediction on Egocentric Videos**|Junyi Ma et.al.|[2409.02638](http://arxiv.org/abs/2409.02638)|null|
+|**2024-09-04**|**Loopy: Taming Audio-Driven Portrait Avatar with Long-Term Motion Dependency**|Jianwen Jiang et.al.|[2409.02634](http://arxiv.org/abs/2409.02634)|null|
+|**2024-09-04**|**Rate-Adaptive Generative Semantic Communication Using Conditional Diffusion Models**|Pujing Yang et.al.|[2409.02597](http://arxiv.org/abs/2409.02597)|null|
+|**2024-09-04**|**Solving Video Inverse Problems Using Image Diffusion Models**|Taesung Kwon et.al.|[2409.02574](http://arxiv.org/abs/2409.02574)|null|
+|**2024-09-04**|**StyleTokenizer: Defining Image Style by a Single Instance for Controlling Diffusion Models**|Wen Li et.al.|[2409.02543](http://arxiv.org/abs/2409.02543)|**[link](https://github.com/alipay/style-tokenizer)**|
+|**2024-09-04**|**Sample what you cant compress**|Vighnesh Birodkar et.al.|[2409.02529](http://arxiv.org/abs/2409.02529)|null|
+|**2024-09-04**|**Continual Diffuser (CoD): Mastering Continual Offline Reinforcement Learning with Experience Rehearsal**|Jifeng Hu et.al.|[2409.02512](http://arxiv.org/abs/2409.02512)|null|
+|**2024-09-04**|**Training-free Color-Style Disentanglement for Constrained Text-to-Image Synthesis**|Aishwarya Agarwal et.al.|[2409.02429](http://arxiv.org/abs/2409.02429)|null|
+|**2024-09-04**|**Diffusion Models Learn Low-Dimensional Distributions via Subspace Clustering**|Peng Wang et.al.|[2409.02426](http://arxiv.org/abs/2409.02426)|null|
+|**2024-09-04**|**Exploring Low-Dimensional Subspaces in Diffusion Models for Controllable Image Editing**|Siyi Chen et.al.|[2409.02374](http://arxiv.org/abs/2409.02374)|null|
+|**2024-09-03**|**QID $^2$ : An Image-Conditioned Diffusion Model for Q-space Up-sampling of DWI Data**|Zijian Chen et.al.|[2409.02309](http://arxiv.org/abs/2409.02309)|null|
+|**2024-09-03**|**FastVoiceGrad: One-step Diffusion-Based Voice Conversion with Adversarial Conditional Diffusion Distillation**|Takuhiro Kaneko et.al.|[2409.02245](http://arxiv.org/abs/2409.02245)|null|
+|**2024-09-03**|**LinFusion: 1 GPU, 1 Minute, 16K Image**|Songhua Liu et.al.|[2409.02097](http://arxiv.org/abs/2409.02097)|**[link](https://github.com/huage001/linfusion)**|
+|**2024-09-03**|**DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos**|Wenbo Hu et.al.|[2409.02095](http://arxiv.org/abs/2409.02095)|null|
+|**2024-09-03**|**ViewCrafter: Taming Video Diffusion Models for High-fidelity Novel View Synthesis**|Wangbo Yu et.al.|[2409.02048](http://arxiv.org/abs/2409.02048)|null|
 |**2024-08-30**|**Subspace Diffusion Posterior Sampling for Travel-Time Tomography**|Xiang Cao et.al.|[2408.17333](http://arxiv.org/abs/2408.17333)|null|
 |**2024-09-02**|**RISSOLE: Parameter-efficient Diffusion Models via Block-wise Generation and Retrieval-Guidance**|Avideep Mukherjee et.al.|[2408.17095](http://arxiv.org/abs/2408.17095)|null|
 |**2024-09-02**|**Instant Adversarial Purification with Adversarial Consistency Distillation**|Chun Tong Lei et.al.|[2408.17064](http://arxiv.org/abs/2408.17064)|null|
@@ -6164,6 +6201,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**Diffusion Models Learn Low-Dimensional Distributions via Subspace Clustering**|Peng Wang et.al.|[2409.02426](http://arxiv.org/abs/2409.02426)|null|
+|**2024-09-04**|**Exploring Low-Dimensional Subspaces in Diffusion Models for Controllable Image Editing**|Siyi Chen et.al.|[2409.02374](http://arxiv.org/abs/2409.02374)|null|
+|**2024-09-03**|**Towards Real-World Adverse Weather Image Restoration: Enhancing Clearness and Semantics with Vision-Language Models**|Jiaqi Xu et.al.|[2409.02101](http://arxiv.org/abs/2409.02101)|null|
+|**2024-09-03**|**F2former: When Fractional Fourier Meets Deep Wiener Deconvolution and Selective Frequency Transformer for Image Deblurring**|Subhajit Paul et.al.|[2409.02056](http://arxiv.org/abs/2409.02056)|null|
+|**2024-09-03**|**GaussianPU: A Hybrid 2D-3D Upsampling Framework for Enhancing Color Point Clouds via 3D Gaussian Splatting**|Zixuan Guo et.al.|[2409.01581](http://arxiv.org/abs/2409.01581)|null|
+|**2024-09-02**|**Guide-and-Rescale: Self-Guidance Mechanism for Effective Tuning-Free Real Image Editing**|Vadim Titov et.al.|[2409.01322](http://arxiv.org/abs/2409.01322)|**[link](https://github.com/fusionbrainlab/guide-and-rescale)**|
+|**2024-09-02**|**DPDEdit: Detail-Preserved Diffusion Models for Multimodal Fashion Image Editing**|Xiaolong Wang et.al.|[2409.01086](http://arxiv.org/abs/2409.01086)|null|
+|**2024-09-01**|**ReMOVE: A Reference-free Metric for Object Erasure**|Aditya Chandrasekar et.al.|[2409.00707](http://arxiv.org/abs/2409.00707)|null|
+|**2024-09-01**|**Accurate Forgetting for All-in-One Image Restoration Model**|Xin Su et.al.|[2409.00685](http://arxiv.org/abs/2409.00685)|null|
+|**2024-09-01**|**Seed-to-Seed: Image Translation in Diffusion Seed Space**|Or Greenberg et.al.|[2409.00654](http://arxiv.org/abs/2409.00654)|null|
+|**2024-08-30**|**AWRaCLe: All-Weather Image Restoration using Visual In-Context Learning**|Sudarshan Rajagopalan et.al.|[2409.00263](http://arxiv.org/abs/2409.00263)|null|
 |**2024-08-30**|**Efficient Image Restoration through Low-Rank Adaptation and Stable Diffusion XL**|Haiyang Zhao et.al.|[2408.17060](http://arxiv.org/abs/2408.17060)|null|
 |**2024-08-29**|**GameIR: A Large-Scale Synthesized Ground-Truth Dataset for Image Restoration over Gaming Content**|Lebin Zhou et.al.|[2408.16866](http://arxiv.org/abs/2408.16866)|null|
 |**2024-08-29**|**What to Preserve and What to Transfer: Faithful, Identity-Preserving Diffusion-based Hairstyle Transfer**|Chaeyeon Chung et.al.|[2408.16450](http://arxiv.org/abs/2408.16450)|null|
@@ -7017,6 +7065,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**UC-NeRF: Uncertainty-aware Conditional Neural Radiance Fields from Endoscopic Sparse Views**|Jiaxin Guo et.al.|[2409.02917](http://arxiv.org/abs/2409.02917)|**[link](https://github.com/wrld/uc-nerf)**|
 |**2024-08-27**|**Drone-assisted Road Gaussian Splatting with Cross-view Uncertainty**|Saining Zhang et.al.|[2408.15242](http://arxiv.org/abs/2408.15242)|**[link](https://github.com/sainingzhang/uc-gs)**|
 |**2024-08-20**|**DEGAS: Detailed Expressions on Full-Body Gaussian Avatars**|Zhijing Shao et.al.|[2408.10588](http://arxiv.org/abs/2408.10588)|null|
 |**2024-08-13**|**Potamoi: Accelerating Neural Rendering via a Unified Streaming Architecture**|Yu Feng et.al.|[2408.06608](http://arxiv.org/abs/2408.06608)|null|
@@ -7287,6 +7336,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-02**|**KMTalk: Speech-Driven 3D Facial Animation with Key Motion Embedding**|Zhihao Xu et.al.|[2409.01113](http://arxiv.org/abs/2409.01113)|**[link](https://github.com/ffxzh/kmtalk)**|
 |**2024-08-23**|**G3FA: Geometry-guided GAN for Face Animation**|Alireza Javanmardi et.al.|[2408.13049](http://arxiv.org/abs/2408.13049)|null|
 |**2024-08-21**|**EmoFace: Emotion-Content Disentangled Speech-Driven 3D Talking Face with Mesh Attention**|Yihong Lin et.al.|[2408.11518](http://arxiv.org/abs/2408.11518)|null|
 |**2024-08-18**|**Meta-Learning Empowered Meta-Face: Personalized Speaking Style Adaptation for Audio-Driven 3D Talking Face Animation**|Xukun Zhou et.al.|[2408.09357](http://arxiv.org/abs/2408.09357)|null|
@@ -7341,6 +7391,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-01**|**Recoverable Anonymization for Pose Estimation: A Privacy-Enhancing Approach**|Wenjun Huang et.al.|[2409.02715](http://arxiv.org/abs/2409.02715)|null|
+|**2024-09-04**|**Loopy: Taming Audio-Driven Portrait Avatar with Long-Term Motion Dependency**|Jianwen Jiang et.al.|[2409.02634](http://arxiv.org/abs/2409.02634)|null|
+|**2024-09-02**|**Active Symbolic Discovery of Ordinary Differential Equations via Phase Portrait Sketching**|Nan Jiang et.al.|[2409.01416](http://arxiv.org/abs/2409.01416)|null|
+|**2024-08-31**|**PS-StyleGAN: Illustrative Portrait Sketching using Attention-Based Style Adaptation**|Kushal Kumar Jain et.al.|[2409.00345](http://arxiv.org/abs/2409.00345)|null|
 |**2024-08-28**|**220 GHz Urban Microcell Channel Measurement and Characterization on a University Campus**|Yuanbo Li et.al.|[2408.15772](http://arxiv.org/abs/2408.15772)|null|
 |**2024-08-27**|**MegActor- $Σ$ : Unlocking Flexible Mixed-Modal Control in Portrait Animation with Diffusion Transformer**|Shurong Yang et.al.|[2408.14975](http://arxiv.org/abs/2408.14975)|null|
 |**2024-08-26**|**Unicritical polynomials over $abc$ -fields: from uniform boundedness to dynamical Galois groups**|John R. Doyle et.al.|[2408.14657](http://arxiv.org/abs/2408.14657)|null|

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.06
+## Updated on 2024.09.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -1682,7 +1682,7 @@ layout: default
 |**2024-09-04**|**How DREAMS are made: Emulating Satellite Galaxy and Subhalo Populations with Diffusion Models and Point Clouds**|Tri Nguyen et.al.|[2409.02980](http://arxiv.org/abs/2409.02980)|null|
 |**2024-09-04**|**HiPrompt: Tuning-free Higher-Resolution Generation with Hierarchical MLLM Prompts**|Xinyu Liu et.al.|[2409.02919](http://arxiv.org/abs/2409.02919)|**[link](https://github.com/Liuxinyv/HiPrompt)**|
 |**2024-09-04**|**Masked Diffusion Models are Secretly Time-Agnostic Masked Models and Exploit Inaccurate Categorical Sampling**|Kaiwen Zheng et.al.|[2409.02908](http://arxiv.org/abs/2409.02908)|null|
-|**2024-09-04**|**Human-VDM: Learning Single-Image 3D Human Gaussian Splatting from Video Diffusion Models**|Zhibin Liu et.al.|[2409.02851](http://arxiv.org/abs/2409.02851)|null|
+|**2024-09-04**|**Human-VDM: Learning Single-Image 3D Human Gaussian Splatting from Video Diffusion Models**|Zhibin Liu et.al.|[2409.02851](http://arxiv.org/abs/2409.02851)|**[link](https://github.com/Human-VDM/Human-VDM)**|
 |**2024-09-04**|**Multi-Track MusicLDM: Towards Versatile Music Generation with Latent Diffusion Model**|Tornike Karchkhadze et.al.|[2409.02845](http://arxiv.org/abs/2409.02845)|null|
 |**2024-09-04**|**Skip-and-Play: Depth-Driven Pose-Preserved Image Generation for Any Objects**|Kyungmin Jo et.al.|[2409.02653](http://arxiv.org/abs/2409.02653)|null|
 |**2024-09-04**|**MADiff: Motion-Aware Mamba Diffusion Models for Hand Trajectory Prediction on Egocentric Videos**|Junyi Ma et.al.|[2409.02638](http://arxiv.org/abs/2409.02638)|null|

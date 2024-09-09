@@ -51,6 +51,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-06**|**How Fair is Your Diffusion Recommender Model?**|Daniele Malitesta et.al.|[2409.04339](http://arxiv.org/abs/2409.04339)|null|
+|**2024-09-05**|**Generating High Dimensional User-Specific Wireless Channels using Diffusion Models**|Taekyun Lee et.al.|[2409.03924](http://arxiv.org/abs/2409.03924)|null|
+|**2024-09-04**|**Interpretable Cyber Threat Detection for Enterprise Industrial Networks: A Computational Design Science Approach**|Prabhat Kumar et.al.|[2409.03798](http://arxiv.org/abs/2409.03798)|null|
 |**2024-09-05**|**Unsupervised Anomaly Detection and Localization with Generative Adversarial Networks**|Khouloud Abdelli et.al.|[2409.03657](http://arxiv.org/abs/2409.03657)|null|
 |**2024-09-05**|**RealisHuman: A Two-Stage Approach for Refining Malformed Human Parts in Generated Images**|Benzhi Wang et.al.|[2409.03644](http://arxiv.org/abs/2409.03644)|null|
 |**2024-09-05**|**VFLGAN-TS: Vertical Federated Learning-based Generative Adversarial Networks for Publication of Vertically Partitioned Time-Series Data**|Xun Yuan et.al.|[2409.03612](http://arxiv.org/abs/2409.03612)|null|
@@ -1681,6 +1684,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-06**|**VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation**|Yecheng Wu et.al.|[2409.04429](http://arxiv.org/abs/2409.04429)|null|
+|**2024-09-06**|**Exploring Foundation Models for Synthetic Medical Imaging: A Study on Chest X-Rays and Fine-Tuning Techniques**|Davide Clode da Silva et.al.|[2409.04424](http://arxiv.org/abs/2409.04424)|null|
+|**2024-09-06**|**How Fair is Your Diffusion Recommender Model?**|Daniele Malitesta et.al.|[2409.04339](http://arxiv.org/abs/2409.04339)|null|
+|**2024-09-06**|**Random effects estimation in a fractional diffusion model based on continuous observations**|Nesrine Chebli et.al.|[2409.04331](http://arxiv.org/abs/2409.04331)|null|
+|**2024-09-06**|**Breaking the Brownian Barrier: Models and Manifestations of Molecular Diffusion in Complex Fluids**|Harish Srinivasan et.al.|[2409.04199](http://arxiv.org/abs/2409.04199)|null|
+|**2024-09-06**|**GST: Precise 3D Human Body from a Single Image with Gaussian Splatting Transformers**|Lorenza Prospero et.al.|[2409.04196](http://arxiv.org/abs/2409.04196)|null|
+|**2024-09-06**|**D4: Text-guided diffusion model-based domain adaptive data augmentation for vineyard shoot detection**|Kentaro Hirahara et.al.|[2409.04060](http://arxiv.org/abs/2409.04060)|null|
+|**2024-09-06**|**One-Shot Diffusion Mimicker for Handwritten Text Generation**|Gang Dai et.al.|[2409.04004](http://arxiv.org/abs/2409.04004)|**[link](https://github.com/dailenson/one-dm)**|
+|**2024-09-06**|**DreamForge: Motion-Aware Autoregressive Video Generation for Multi-View Driving Scenes**|Jianbiao Mei et.al.|[2409.04003](http://arxiv.org/abs/2409.04003)|**[link](https://github.com/PJLab-ADG/DriveArena)**|
+|**2024-09-05**|**Data-Efficient Generation for Dataset Distillation**|Zhe Li et.al.|[2409.03929](http://arxiv.org/abs/2409.03929)|null|
+|**2024-09-05**|**Generating High Dimensional User-Specific Wireless Channels using Diffusion Models**|Taekyun Lee et.al.|[2409.03924](http://arxiv.org/abs/2409.03924)|null|
+|**2024-09-05**|**Neural Entropy**|Akhil Premkumar et.al.|[2409.03817](http://arxiv.org/abs/2409.03817)|null|
 |**2024-09-05**|**Lexicon3D: Probing Visual Foundation Models for Complex 3D Scene Understanding**|Yunze Man et.al.|[2409.03757](http://arxiv.org/abs/2409.03757)|**[link](https://github.com/yunzeman/lexicon3d)**|
 |**2024-09-05**|**ArtiFade: Learning to Generate High-quality Subject from Blemished Images**|Shuya Yang et.al.|[2409.03745](http://arxiv.org/abs/2409.03745)|null|
 |**2024-09-05**|**RealisHuman: A Two-Stage Approach for Refining Malformed Human Parts in Generated Images**|Benzhi Wang et.al.|[2409.03644](http://arxiv.org/abs/2409.03644)|null|
@@ -6220,6 +6235,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-06**|**Empirical Bayesian image restoration by Langevin sampling with a denoising diffusion implicit prior**|Charlesquin Kemajou Mbakam et.al.|[2409.04384](http://arxiv.org/abs/2409.04384)|null|
 |**2024-09-05**|**Data-free Distillation with Degradation-prompt Diffusion for Multi-weather Image Restoration**|Pei Wang et.al.|[2409.03455](http://arxiv.org/abs/2409.03455)|null|
 |**2024-09-05**|**Multiple weather images restoration using the task transformer and adaptive mixup strategy**|Yang Wen et.al.|[2409.03249](http://arxiv.org/abs/2409.03249)|null|
 |**2024-09-05**|**Perceptual-Distortion Balanced Image Super-Resolution is a Multi-Objective Optimization Problem**|Qiwen Zhu et.al.|[2409.03179](http://arxiv.org/abs/2409.03179)|**[link](https://github.com/ZhuKeven/MOBOSR)**|

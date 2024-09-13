@@ -39,6 +39,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-12**|**FPMT: Enhanced Semi-Supervised Model for Traffic Incident Detection**|Xinying Lu et.al.|[2409.07839](http://arxiv.org/abs/2409.07839)|null|
 |**2024-09-11**|**Some effects of limited wall-sensor availability on flow estimation with 3D-GANs**|Antonio Cuéllar et.al.|[2409.07348](http://arxiv.org/abs/2409.07348)|null|
 |**2024-09-11**|**Fidelity-optimized quantum surface code via GAN decoder and application to quantum teleportation**|Jiaxin Li et.al.|[2409.06984](http://arxiv.org/abs/2409.06984)|null|
 |**2024-09-10**|**Three-dimensional generative adversarial networks for turbulent flow estimation from wall measurements**|Antonio Cuéllar et.al.|[2409.06548](http://arxiv.org/abs/2409.06548)|null|
@@ -1681,6 +1682,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-12**|**DreamHOI: Subject-Driven Generation of 3D Human-Object Interactions with Diffusion Priors**|Thomas Hanwen Zhu et.al.|[2409.08278](http://arxiv.org/abs/2409.08278)|null|
+|**2024-09-12**|**DreamBeast: Distilling 3D Fantastical Animals with Part-Aware Knowledge Transfer**|Runjia Li et.al.|[2409.08271](http://arxiv.org/abs/2409.08271)|null|
+|**2024-09-12**|**Touch2Touch: Cross-Modal Tactile Generation for Object Manipulation**|Samanta Rodriguez et.al.|[2409.08269](http://arxiv.org/abs/2409.08269)|null|
+|**2024-09-12**|**Improving Text-guided Object Inpainting with Semantic Pre-inpainting**|Yifu Chen et.al.|[2409.08260](http://arxiv.org/abs/2409.08260)|**[link](https://github.com/nnn-s/catdiffusion)**|
+|**2024-09-12**|**Improving Virtual Try-On with Garment-focused Diffusion Models**|Siqi Wan et.al.|[2409.08258](http://arxiv.org/abs/2409.08258)|null|
+|**2024-09-12**|**LoRID: Low-Rank Iterative Diffusion for Adversarial Purification**|Geigh Zollicoffer et.al.|[2409.08255](http://arxiv.org/abs/2409.08255)|null|
+|**2024-09-12**|**Dynamic Prompting of Frozen Text-to-Image Diffusion Models for Panoptic Narrative Grounding**|Hongyu Li et.al.|[2409.08251](http://arxiv.org/abs/2409.08251)|null|
+|**2024-09-12**|**IFAdapter: Instance Feature Control for Grounded Text-to-Image Generation**|Yinwei Wu et.al.|[2409.08240](http://arxiv.org/abs/2409.08240)|null|
+|**2024-09-12**|**LT3SD: Latent Trees for 3D Scene Diffusion**|Quan Meng et.al.|[2409.08215](http://arxiv.org/abs/2409.08215)|null|
+|**2024-09-12**|**VI3DRM:Towards meticulous 3D Reconstruction from Sparse Views via Photo-Realistic Novel View Synthesis**|Hao Chen et.al.|[2409.08207](http://arxiv.org/abs/2409.08207)|null|
+|**2024-09-12**|**MagicStyle: Portrait Stylization Based on Reference Image**|Zhaoli Deng et.al.|[2409.08156](http://arxiv.org/abs/2409.08156)|null|
+|**2024-09-12**|**EZIGen: Enhancing zero-shot subject-driven image generation with precise subject encoding and decoupled guidance**|Zicheng Duan et.al.|[2409.08091](http://arxiv.org/abs/2409.08091)|null|
+|**2024-09-12**|**Diffusion-Based Image-to-Image Translation by Noise Correction via Prompt Interpolation**|Junsung Lee et.al.|[2409.08077](http://arxiv.org/abs/2409.08077)|null|
+|**2024-09-12**|**AI-accelerated discovery of high critical temperature superconductors**|Xiao-Qi Han et.al.|[2409.08065](http://arxiv.org/abs/2409.08065)|null|
+|**2024-09-12**|**Scribble-Guided Diffusion for Training-free Text-to-Image Generation**|Seonho Lee et.al.|[2409.08026](http://arxiv.org/abs/2409.08026)|null|
+|**2024-09-12**|**Estimating atmospheric variables from Digital Typhoon Satellite Images via Conditional Denoising Diffusion Models**|Zhangyue Ling et.al.|[2409.07961](http://arxiv.org/abs/2409.07961)|**[link](https://github.com/tammyling/typhoon-forecasting)**|
+|**2024-09-12**|**Detecting and Defending Against Adversarial Attacks on Automatic Speech Recognition via Diffusion Models**|Nikolai L. Kühne et.al.|[2409.07936](http://arxiv.org/abs/2409.07936)|null|
+|**2024-09-12**|**UGAD: Universal Generative AI Detector utilizing Frequency Fingerprints**|Inzamamul Alam et.al.|[2409.07913](http://arxiv.org/abs/2409.07913)|null|
+|**2024-09-12**|**XMOL: Explainable Multi-property Optimization of Molecules**|Aye Phyu Phyu Aung et.al.|[2409.07786](http://arxiv.org/abs/2409.07786)|null|
+|**2024-09-12**|**DiTAS: Quantizing Diffusion Transformers via Enhanced Activation Smoothing**|Zhenyuan Dong et.al.|[2409.07756](http://arxiv.org/abs/2409.07756)|null|
 |**2024-09-11**|**DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for Text-to-3D Generation**|Haibo Yang et.al.|[2409.07454](http://arxiv.org/abs/2409.07454)|null|
 |**2024-09-11**|**Hi3D: Pursuing High-Resolution Image-to-3D Generation with Video Diffusion Models**|Haibo Yang et.al.|[2409.07452](http://arxiv.org/abs/2409.07452)|**[link](https://github.com/yanghb22-fdu/hi3d-official)**|
 |**2024-09-11**|**FreeEnhance: Tuning-Free Image Enhancement via Content-Consistent Noising-and-Denoising Process**|Yang Luo et.al.|[2409.07451](http://arxiv.org/abs/2409.07451)|null|
@@ -6280,6 +6301,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-12**|**Click2Mask: Local Editing with Dynamic Mask Generation**|Omer Regev et.al.|[2409.08272](http://arxiv.org/abs/2409.08272)|null|
+|**2024-09-12**|**Quaternion Nuclear Norm minus Frobenius Norm Minimization for color image reconstruction**|Yu Guo et.al.|[2409.07797](http://arxiv.org/abs/2409.07797)|null|
 |**2024-09-11**|**PanAdapter: Two-Stage Fine-Tuning with Spatial-Spectral Priors Injecting for Pansharpening**|RuoCheng Wu et.al.|[2409.06980](http://arxiv.org/abs/2409.06980)|null|
 |**2024-09-10**|**GeoCalib: Learning Single-image Calibration with Geometric Optimization**|Alexander Veicht et.al.|[2409.06704](http://arxiv.org/abs/2409.06704)|**[link](https://github.com/cvg/geocalib)**|
 |**2024-09-10**|**Lightweight Multiscale Feature Fusion Super-Resolution Network Based on Two-branch Convolution and Transformer**|Li Ke et.al.|[2409.06590](http://arxiv.org/abs/2409.06590)|null|
@@ -7479,6 +7502,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-12**|**MagicStyle: Portrait Stylization Based on Reference Image**|Zhaoli Deng et.al.|[2409.08156](http://arxiv.org/abs/2409.08156)|null|
 |**2024-09-11**|**EMOdiffhead: Continuously Emotional Control in Talking Head Generation via Diffusion**|Jian Zhang et.al.|[2409.07255](http://arxiv.org/abs/2409.07255)|null|
 |**2024-09-05**|**SVP: Style-Enhanced Vivid Portrait Talking Head Diffusion Model**|Weipeng Tan et.al.|[2409.03270](http://arxiv.org/abs/2409.03270)|null|
 |**2024-09-01**|**Recoverable Anonymization for Pose Estimation: A Privacy-Enhancing Approach**|Wenjun Huang et.al.|[2409.02715](http://arxiv.org/abs/2409.02715)|null|

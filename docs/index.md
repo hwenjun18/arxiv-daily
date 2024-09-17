@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.16
+## Updated on 2024.09.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -6332,7 +6332,7 @@ layout: default
 |**2024-09-09**|**NeIn: Telling What You Don't Want**|Nhat-Tan Bui et.al.|[2409.06481](http://arxiv.org/abs/2409.06481)|null|
 |**2024-09-10**|**Multi-Weather Image Restoration via Histogram-Based Transformer Feature Enhancement**|Yang Wen et.al.|[2409.06334](http://arxiv.org/abs/2409.06334)|null|
 |**2024-09-10**|**AgileIR: Memory-Efficient Group Shifted Windows Attention for Agile Image Restoration**|Hongyi Cai et.al.|[2409.06206](http://arxiv.org/abs/2409.06206)|null|
-|**2024-09-09**|**MemoVis: A GenAI-Powered Tool for Creating Companion Reference Images for 3D Design Feedback**|Chen Chen et.al.|[2409.06082](http://arxiv.org/abs/2409.06082)|null|
+|**2024-09-15**|**MemoVis: A GenAI-Powered Tool for Creating Companion Reference Images for 3D Design Feedback**|Chen Chen et.al.|[2409.06082](http://arxiv.org/abs/2409.06082)|null|
 |**2024-09-07**|**Rethinking The Training And Evaluation of Rich-Context Layout-to-Image Generation**|Jiaxin Cheng et.al.|[2409.04847](http://arxiv.org/abs/2409.04847)|null|
 |**2024-09-07**|**Power Line Aerial Image Restoration under dverse Weather: Datasets and Baselines**|Sai Yang et.al.|[2409.04812](http://arxiv.org/abs/2409.04812)|**[link](https://github.com/ntuhubin/plair-aw)**|
 |**2024-09-06**|**Empirical Bayesian image restoration by Langevin sampling with a denoising diffusion implicit prior**|Charlesquin Kemajou Mbakam et.al.|[2409.04384](http://arxiv.org/abs/2409.04384)|null|

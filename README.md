@@ -51,6 +51,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**Training Datasets Generation for Machine Learning: Application to Vision Based Navigation**|Jérémy Lebreton et.al.|[2409.11383](http://arxiv.org/abs/2409.11383)|null|
+|**2024-09-16**|**LASERS: LAtent Space Encoding for Representations with Sparsity for Generative Modeling**|Xin Li et.al.|[2409.11184](http://arxiv.org/abs/2409.11184)|null|
+|**2024-09-16**|**A Missing Data Imputation GAN for Character Sprite Generation**|Flávio Coutinho et.al.|[2409.10721](http://arxiv.org/abs/2409.10721)|null|
 |**2024-09-16**|**Incorporating Classifier-Free Guidance in Diffusion Model-Based Recommendation**|Noah Buchanan et.al.|[2409.10494](http://arxiv.org/abs/2409.10494)|null|
 |**2024-09-16**|**Mamba-ST: State Space Model for Efficient Style Transfer**|Filippo Botti et.al.|[2409.10385](http://arxiv.org/abs/2409.10385)|null|
 |**2024-09-16**|**VAE-QWGAN: Improving Quantum GANs for High Resolution Image Generation**|Aaron Mark Thomas et.al.|[2409.10339](http://arxiv.org/abs/2409.10339)|null|
@@ -1705,6 +1708,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**Ultrasound Image Enhancement with the Variance of Diffusion Models**|Yuxin Zhang et.al.|[2409.11380](http://arxiv.org/abs/2409.11380)|**[link](https://github.com/yuxin-zhang-jasmine/ius2024_diffusion)**|
+|**2024-09-17**|**OSV: One Step is Enough for High-Quality Image to Video Generation**|Xiaofeng Mao et.al.|[2409.11367](http://arxiv.org/abs/2409.11367)|null|
+|**2024-09-17**|**Fine-Tuning Image-Conditional Diffusion Models is Easier than You Think**|Gonzalo Martin Garcia et.al.|[2409.11355](http://arxiv.org/abs/2409.11355)|null|
+|**2024-09-17**|**OmniGen: Unified Image Generation**|Shitao Xiao et.al.|[2409.11340](http://arxiv.org/abs/2409.11340)|**[link](https://github.com/vectorspacelab/omnigen)**|
+|**2024-09-17**|**fMRI-3D: A Comprehensive Dataset for Enhancing fMRI-based 3D Reconstruction**|Jianxiong Gao et.al.|[2409.11315](http://arxiv.org/abs/2409.11315)|null|
+|**2024-09-17**|**DroneDiffusion: Robust Quadrotor Dynamics Learning with Diffusion Models**|Avirup Das et.al.|[2409.11292](http://arxiv.org/abs/2409.11292)|null|
+|**2024-09-17**|**Score Forgetting Distillation: A Swift, Data-Free Method for Machine Unlearning in Diffusion Models**|Tianqi Chen et.al.|[2409.11219](http://arxiv.org/abs/2409.11219)|null|
+|**2024-09-17**|**High-Resolution Speech Restoration with Latent Diffusion Model**|Tushar Dhyani et.al.|[2409.11145](http://arxiv.org/abs/2409.11145)|null|
+|**2024-09-17**|**In-situ measurements of light diffusion in an optically dense atomic ensemble**|Antoine Glicenstein et.al.|[2409.11117](http://arxiv.org/abs/2409.11117)|null|
+|**2024-09-17**|**TacDiffusion: Force-domain Diffusion Policy for Precise Tactile Manipulation**|Yansong Wu et.al.|[2409.11047](http://arxiv.org/abs/2409.11047)|null|
+|**2024-09-17**|**Enhanced segmentation of femoral bone metastasis in CT scans of patients using synthetic data generation with 3D diffusion models**|Emile Saillard et.al.|[2409.11011](http://arxiv.org/abs/2409.11011)|null|
+|**2024-09-17**|**Edge-based Denoising Image Compression**|Ryugo Morita et.al.|[2409.10978](http://arxiv.org/abs/2409.10978)|null|
+|**2024-09-17**|**Towards Effective User Attribution for Latent Diffusion Models via Watermark-Informed Blending**|Yongyang Pan et.al.|[2409.10958](http://arxiv.org/abs/2409.10958)|null|
+|**2024-09-17**|**EzAudio: Enhancing Text-to-Audio Generation with Efficient Diffusion Transformer**|Jiarui Hai et.al.|[2409.10819](http://arxiv.org/abs/2409.10819)|null|
+|**2024-09-16**|**Using Generative Models to Produce Realistic Populations of the United Kingdom Windstorms**|Etron Yee Chun Tsoi et.al.|[2409.10696](http://arxiv.org/abs/2409.10696)|null|
+|**2024-09-16**|**Online Diffusion-Based 3D Occupancy Prediction at the Frontier with Probabilistic Map Reconciliation**|Alec Reed et.al.|[2409.10681](http://arxiv.org/abs/2409.10681)|null|
+|**2024-09-16**|**Optimizing Resource Consumption in Diffusion Models through Hallucination Early Detection**|Federico Betti et.al.|[2409.10597](http://arxiv.org/abs/2409.10597)|null|
 |**2024-09-16**|**Incorporating Classifier-Free Guidance in Diffusion Model-Based Recommendation**|Noah Buchanan et.al.|[2409.10494](http://arxiv.org/abs/2409.10494)|null|
 |**2024-09-16**|**SimInversion: A Simple Framework for Inversion-Based Text-to-Image Editing**|Qi Qian et.al.|[2409.10476](http://arxiv.org/abs/2409.10476)|null|
 |**2024-09-16**|**MacDiff: Unified Skeleton Modeling with Masked Conditional Diffusion**|Lehong Wu et.al.|[2409.10473](http://arxiv.org/abs/2409.10473)|null|
@@ -6365,6 +6385,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**OmniGen: Unified Image Generation**|Shitao Xiao et.al.|[2409.11340](http://arxiv.org/abs/2409.11340)|**[link](https://github.com/vectorspacelab/omnigen)**|
+|**2024-09-17**|**MM2Latent: Text-to-facial image generation and editing in GANs with multimodal assistance**|Debin Meng et.al.|[2409.11010](http://arxiv.org/abs/2409.11010)|**[link](https://github.com/open-debin/mm2latent)**|
 |**2024-09-16**|**SimInversion: A Simple Framework for Inversion-Based Text-to-Image Editing**|Qi Qian et.al.|[2409.10476](http://arxiv.org/abs/2409.10476)|null|
 |**2024-09-16**|**Taming Diffusion Models for Image Restoration: A Review**|Ziwei Luo et.al.|[2409.10353](http://arxiv.org/abs/2409.10353)|null|
 |**2024-09-15**|**TextureDiffusion: Target Prompt Disentangled Editing for Various Texture Transfer**|Zihan Su et.al.|[2409.09610](http://arxiv.org/abs/2409.09610)|null|
@@ -7248,6 +7270,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**HGSLoc: 3DGS-based Heuristic Camera Pose Refinement**|Zhongyan Niu et.al.|[2409.10925](http://arxiv.org/abs/2409.10925)|null|
 |**2024-09-15**|**Learning Transferable Features for Implicit Neural Representations**|Kushal Vyas et.al.|[2409.09566](http://arxiv.org/abs/2409.09566)|null|
 |**2024-09-11**|**Instant Facial Gaussians Translator for Relightable and Interactable Facial Rendering**|Dafei Qin et.al.|[2409.07441](http://arxiv.org/abs/2409.07441)|null|
 |**2024-09-11**|**Redundancy-Aware Camera Selection for Indoor Scene Neural Rendering**|Zehao Wang et.al.|[2409.07098](http://arxiv.org/abs/2409.07098)|null|
@@ -7577,6 +7600,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**MM2Latent: Text-to-facial image generation and editing in GANs with multimodal assistance**|Debin Meng et.al.|[2409.11010](http://arxiv.org/abs/2409.11010)|**[link](https://github.com/open-debin/mm2latent)**|
 |**2024-09-16**|**DreamHead: Learning Spatial-Temporal Correspondence via Hierarchical Diffusion for Audio-driven Talking Head Synthesis**|Fa-Ting Hong et.al.|[2409.10281](http://arxiv.org/abs/2409.10281)|null|
 |**2024-09-16**|**The Ancient Egyptian Cosmological Vignette: First Visual Evidence of the Milky Way and Trends in Coffin Depictions of the Sky Goddess Nut**|Or Graur et.al.|[2409.10265](http://arxiv.org/abs/2409.10265)|null|
 |**2024-09-14**|**StyleTalk++: A Unified Framework for Controlling the Speaking Styles of Talking Heads**|Suzhen Wang et.al.|[2409.09292](http://arxiv.org/abs/2409.09292)|null|

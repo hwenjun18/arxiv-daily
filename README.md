@@ -58,7 +58,7 @@
 |**2024-09-16**|**LASERS: LAtent Space Encoding for Representations with Sparsity for Generative Modeling**|Xin Li et.al.|[2409.11184](http://arxiv.org/abs/2409.11184)|null|
 |**2024-09-16**|**A Missing Data Imputation GAN for Character Sprite Generation**|Flávio Coutinho et.al.|[2409.10721](http://arxiv.org/abs/2409.10721)|null|
 |**2024-09-16**|**Incorporating Classifier-Free Guidance in Diffusion Model-Based Recommendation**|Noah Buchanan et.al.|[2409.10494](http://arxiv.org/abs/2409.10494)|null|
-|**2024-09-16**|**Mamba-ST: State Space Model for Efficient Style Transfer**|Filippo Botti et.al.|[2409.10385](http://arxiv.org/abs/2409.10385)|null|
+|**2024-09-16**|**Mamba-ST: State Space Model for Efficient Style Transfer**|Filippo Botti et.al.|[2409.10385](http://arxiv.org/abs/2409.10385)|**[link](https://github.com/filippobotti/mambast)**|
 |**2024-09-16**|**VAE-QWGAN: Improving Quantum GANs for High Resolution Image Generation**|Aaron Mark Thomas et.al.|[2409.10339](http://arxiv.org/abs/2409.10339)|null|
 |**2024-09-16**|**2S-ODIS: Two-Stage Omni-Directional Image Synthesis by Geometric Distortion Correction**|Atsuya Nakata et.al.|[2409.09969](http://arxiv.org/abs/2409.09969)|**[link](https://github.com/islab-sophia/2s-odis)**|
 |**2024-09-14**|**Text Prompt is Not Enough: Sound Event Enhanced Prompt Adapter for Target Style Audio Generation**|Chenxu Xiong et.al.|[2409.09381](http://arxiv.org/abs/2409.09381)|null|

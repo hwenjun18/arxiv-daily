@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.24
+## Updated on 2024.09.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -45,7 +45,7 @@
 |**2022-11-21**|**Towards Live 3D Reconstruction from Wearable Video: An Evaluation of V-SLAM, NeRF, and Videogrammetry Techniques**|David Ramirez et.al.|[2211.11836](http://arxiv.org/abs/2211.11836)|null|
 |**2022-11-14**|**Controllable GAN Synthesis Using Non-Rigid Structure-from-Motion**|René Haas et.al.|[2211.07195](http://arxiv.org/abs/2211.07195)|null|
 
-<p align=right>(<a href=#Updated-on-20240924>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240925>back to top</a>)</p>
 
 ## GAN
 
@@ -56,7 +56,7 @@
 |**2024-09-17**|**Using Physics Informed Generative Adversarial Networks to Model 3D porous media**|Zihan Ren et.al.|[2409.11541](http://arxiv.org/abs/2409.11541)|null|
 |**2024-09-17**|**Training Datasets Generation for Machine Learning: Application to Vision Based Navigation**|Jérémy Lebreton et.al.|[2409.11383](http://arxiv.org/abs/2409.11383)|null|
 |**2024-09-16**|**LASERS: LAtent Space Encoding for Representations with Sparsity for Generative Modeling**|Xin Li et.al.|[2409.11184](http://arxiv.org/abs/2409.11184)|null|
-|**2024-09-16**|**A Missing Data Imputation GAN for Character Sprite Generation**|Flávio Coutinho et.al.|[2409.10721](http://arxiv.org/abs/2409.10721)|null|
+|**2024-09-16**|**A Missing Data Imputation GAN for Character Sprite Generation**|Flávio Coutinho et.al.|[2409.10721](http://arxiv.org/abs/2409.10721)|**[link](https://github.com/fegemo/mdigan-characters)**|
 |**2024-09-16**|**Incorporating Classifier-Free Guidance in Diffusion Model-Based Recommendation**|Noah Buchanan et.al.|[2409.10494](http://arxiv.org/abs/2409.10494)|null|
 |**2024-09-16**|**Mamba-ST: State Space Model for Efficient Style Transfer**|Filippo Botti et.al.|[2409.10385](http://arxiv.org/abs/2409.10385)|**[link](https://github.com/filippobotti/mambast)**|
 |**2024-09-16**|**VAE-QWGAN: Improving Quantum GANs for High Resolution Image Generation**|Aaron Mark Thomas et.al.|[2409.10339](http://arxiv.org/abs/2409.10339)|null|
@@ -1705,7 +1705,7 @@
 |**2023-03-14**|**3D Face Arbitrary Style Transfer**|Xiangwen Deng et.al.|[2303.07709](http://arxiv.org/abs/2303.07709)|null|
 |**2023-03-13**|**AGTGAN: Unpaired Image Translation for Photographic Ancient Character Generation**|Hongxiang Huang et.al.|[2303.07012](http://arxiv.org/abs/2303.07012)|**[link](https://github.com/hellomystery/agtgan)**|
 
-<p align=right>(<a href=#Updated-on-20240924>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240925>back to top</a>)</p>
 
 ## Diffusion Model
 
@@ -6397,7 +6397,7 @@
 |**2023-03-15**|**DiffBEV: Conditional Diffusion Model for Bird's Eye View Perception**|Jiayu Zou et.al.|[2303.08333](http://arxiv.org/abs/2303.08333)|**[link](https://github.com/jiayuzou2020/diffbev)**|
 |**2023-03-16**|**VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation**|Zhengxiong Luo et.al.|[2303.08320](http://arxiv.org/abs/2303.08320)|null|
 
-<p align=right>(<a href=#Updated-on-20240924>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240925>back to top</a>)</p>
 
 ## Image Edit
 
@@ -6415,7 +6415,7 @@
 |**2024-09-12**|**Quaternion Nuclear Norm minus Frobenius Norm Minimization for color image reconstruction**|Yu Guo et.al.|[2409.07797](http://arxiv.org/abs/2409.07797)|null|
 |**2024-09-11**|**PanAdapter: Two-Stage Fine-Tuning with Spatial-Spectral Priors Injecting for Pansharpening**|RuoCheng Wu et.al.|[2409.06980](http://arxiv.org/abs/2409.06980)|null|
 |**2024-09-10**|**GeoCalib: Learning Single-image Calibration with Geometric Optimization**|Alexander Veicht et.al.|[2409.06704](http://arxiv.org/abs/2409.06704)|**[link](https://github.com/cvg/geocalib)**|
-|**2024-09-10**|**Lightweight Multiscale Feature Fusion Super-Resolution Network Based on Two-branch Convolution and Transformer**|Li Ke et.al.|[2409.06590](http://arxiv.org/abs/2409.06590)|null|
+|**2024-09-24**|**Lightweight single-image super-resolution network based on dual paths**|Li Ke et.al.|[2409.06590](http://arxiv.org/abs/2409.06590)|null|
 |**2024-09-09**|**NeIn: Telling What You Don't Want**|Nhat-Tan Bui et.al.|[2409.06481](http://arxiv.org/abs/2409.06481)|null|
 |**2024-09-10**|**Multi-Weather Image Restoration via Histogram-Based Transformer Feature Enhancement**|Yang Wen et.al.|[2409.06334](http://arxiv.org/abs/2409.06334)|null|
 |**2024-09-10**|**AgileIR: Memory-Efficient Group Shifted Windows Attention for Agile Image Restoration**|Hongyi Cai et.al.|[2409.06206](http://arxiv.org/abs/2409.06206)|null|
@@ -7284,7 +7284,7 @@
 |**2023-02-20**|**A Large Scale Homography Benchmark**|Daniel Barath et.al.|[2302.09997](http://arxiv.org/abs/2302.09997)|null|
 |**2023-02-19**|**LC-NeRF: Local Controllable Face Generation in Neural Randiance Field**|Wenyang Zhou et.al.|[2302.09486](http://arxiv.org/abs/2302.09486)|null|
 
-<p align=right>(<a href=#Updated-on-20240924>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240925>back to top</a>)</p>
 
 ## NeRF
 
@@ -7560,7 +7560,7 @@
 |**2022-12-30**|**NeRF-Gaze: A Head-Eye Redirection Parametric Model for Gaze Estimation**|Pengwei Yin et.al.|[2212.14710](http://arxiv.org/abs/2212.14710)|null|
 |**2023-03-21**|**Masked Wavelet Representation for Compact Neural Radiance Fields**|Daniel Rho et.al.|[2212.09069](http://arxiv.org/abs/2212.09069)|**[link](https://github.com/daniel03c1/masked_wavelet_nerf)**|
 
-<p align=right>(<a href=#Updated-on-20240924>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240925>back to top</a>)</p>
 
 ## Reshaping
 
@@ -7615,7 +7615,7 @@
 |**2022-05-13**|**F3A-GAN: Facial Flow for Face Animation with Generative Adversarial Networks**|Xintian Wu et.al.|[2205.06204](http://arxiv.org/abs/2205.06204)|null|
 |**2022-03-16**|**Efficient conditioned face animation using frontally-viewed embedding**|Maxime Oquab et.al.|[2203.08765](http://arxiv.org/abs/2203.08765)|null|
 
-<p align=right>(<a href=#Updated-on-20240924>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240925>back to top</a>)</p>
 
 ## Portrait 
 
@@ -7956,7 +7956,7 @@
 |**2023-03-01**|**DPE: Disentanglement of Pose and Expression for General Video Portrait Editing**|Youxin Pang et.al.|[2301.06281](http://arxiv.org/abs/2301.06281)|null|
 |**2023-01-03**|**StyleTalk: One-shot Talking Head Generation with Controllable Speaking Styles**|Yifeng Ma et.al.|[2301.01081](http://arxiv.org/abs/2301.01081)|**[link](https://github.com/fuxivirtualhuman/styletalk)**|
 
-<p align=right>(<a href=#Updated-on-20240924>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240925>back to top</a>)</p>
 
 ## Transfomer
 
@@ -7994,5 +7994,5 @@
 |**2012-01-21**|**Interior Static Stellar Model with Electric Charge as an Oscillator**|A. M. Baranov et.al.|[1201.4429](http://arxiv.org/abs/1201.4429)|null|
 |**2011-05-16**|**Exactness of the Euclidean algorithm and of the Rauzy induction on the space of interval exchange transfomations**|Tomasz Miernowski et.al.|[1104.3980](http://arxiv.org/abs/1104.3980)|null|
 
-<p align=right>(<a href=#Updated-on-20240924>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240925>back to top</a>)</p>
 

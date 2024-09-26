@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.25
+## Updated on 2024.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -39,6 +39,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-24**|**Machine learning approaches for automatic defect detection in photovoltaic systems**|Swayam Rajat Mohanty et.al.|[2409.16069](http://arxiv.org/abs/2409.16069)|null|
+|**2024-09-24**|**Enhanced Unsupervised Image-to-Image Translation Using Contrastive Learning and Histogram of Oriented Gradients**|Wanchen Zhao et.al.|[2409.16042](http://arxiv.org/abs/2409.16042)|null|
+|**2024-09-24**|**Deep chroma compression of tone-mapped images**|Xenios Milidonis et.al.|[2409.16032](http://arxiv.org/abs/2409.16032)|**[link](https://github.com/DeepCamera/HDR-chroma-compression)**|
+|**2024-09-24**|**StyleSinger 2: Zero-Shot Singing Voice Synthesis with Style Transfer and Multi-Level Style Control**|Yu Zhang et.al.|[2409.15977](http://arxiv.org/abs/2409.15977)|**[link](https://github.com/AaronZ345/StyleSinger2)**|
+|**2024-09-24**|**Data Augmentation for Sparse Multidimensional Learning Performance Data Using Generative AI**|Liang Zhang et.al.|[2409.15631](http://arxiv.org/abs/2409.15631)|null|
+|**2024-09-25**|**Interpretable Machine Learning for High-Strength High-Entropy Alloy Design**|Anurag Bajpai et.al.|[2409.14905](http://arxiv.org/abs/2409.14905)|null|
+|**2024-09-24**|**AEANet: Affinity Enhanced Attentional Networks for Arbitrary Style Transfer**|Gen Li et.al.|[2409.14652](http://arxiv.org/abs/2409.14652)|null|
+|**2024-09-22**|**LatentQGAN: A Hybrid QGAN with Classical Convolutional Autoencoder**|Vieloszynski Alexis et.al.|[2409.14622](http://arxiv.org/abs/2409.14622)|null|
+|**2024-09-22**|**A Visualized Malware Detection Framework with CNN and Conditional GAN**|Fang Wang et.al.|[2409.14439](http://arxiv.org/abs/2409.14439)|null|
+|**2024-09-21**|**Advancing Employee Behavior Analysis through Synthetic Data: Leveraging ABMs, GANs, and Statistical Models for Enhanced Organizational Efficiency**|Rakshitha Jayashankar et.al.|[2409.14197](http://arxiv.org/abs/2409.14197)|null|
+|**2024-09-21**|**ChronoGAN: Supervised and Embedded Generative Adversarial Networks for Time Series Generation**|MohammadReza EskandariNasab et.al.|[2409.14013](http://arxiv.org/abs/2409.14013)|null|
+|**2024-09-20**|**High-Resolution Flood Probability Mapping Using Generative Machine Learning with Large-Scale Synthetic Precipitation and Inundation Data**|Lipai Huang et.al.|[2409.13936](http://arxiv.org/abs/2409.13936)|null|
+|**2024-09-20**|**On the Extrapolation of Generative Adversarial Networks for downscaling precipitation extremes in warmer climates**|Neelesh Rampal et.al.|[2409.13934](http://arxiv.org/abs/2409.13934)|**[link](https://github.com/nram812/On-the-Extrapolation-of-Generative-Adversarial-Networks-for-downscaling-precipitation-extremes)**|
+|**2024-09-20**|**GTSinger: A Global Multi-Technique Singing Corpus with Realistic Music Scores for All Singing Tasks**|Yu Zhang et.al.|[2409.13832](http://arxiv.org/abs/2409.13832)|**[link](https://github.com/gtsinger/gtsinger)**|
+|**2024-09-20**|**Deep Generative Adversarial Network for Occlusion Removal from a Single Image**|Sankaraganesh Jonna et.al.|[2409.13242](http://arxiv.org/abs/2409.13242)|null|
+|**2024-09-19**|**DNI: Dilutional Noise Initialization for Diffusion Video Editing**|Sunjae Yoon et.al.|[2409.13037](http://arxiv.org/abs/2409.13037)|null|
+|**2024-09-19**|**Generation and Editing of Mandrill Faces: Application to Sex Editing and Assessment**|Nicolas M. Dibot et.al.|[2409.12705](http://arxiv.org/abs/2409.12705)|null|
+|**2024-09-19**|**Image inpainting for corrupted images by using the semi-super resolution GAN**|Mehrshad Momen-Tayefeh et.al.|[2409.12636](http://arxiv.org/abs/2409.12636)|null|
+|**2024-09-19**|**Channel-Aware Domain-Adaptive Generative Adversarial Network for Robust Speech Recognition**|Chien-Chun Wang et.al.|[2409.12386](http://arxiv.org/abs/2409.12386)|**[link](https://github.com/jethrowangsir/cada-gan)**|
+|**2024-09-19**|**Look Through Masks: Towards Masked Face Recognition with De-Occlusion Distillation**|Chenyu Li et.al.|[2409.12385](http://arxiv.org/abs/2409.12385)|null|
 |**2024-09-18**|**Latent fingerprint enhancement for accurate minutiae detection**|Abdul Wahab et.al.|[2409.11802](http://arxiv.org/abs/2409.11802)|null|
 |**2024-09-18**|**METEOR: Melody-aware Texture-controllable Symbolic Orchestral Music Generation**|Dinh-Viet-Toan Le et.al.|[2409.11753](http://arxiv.org/abs/2409.11753)|**[link](https://github.com/dinhviettoanle/meteor)**|
 |**2024-09-17**|**Using Physics Informed Generative Adversarial Networks to Model 3D porous media**|Zihan Ren et.al.|[2409.11541](http://arxiv.org/abs/2409.11541)|null|
@@ -1697,6 +1717,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-24**|**Generative Factor Chaining: Coordinated Manipulation with Diffusion-based Factor Graph**|Utkarsh A. Mishra et.al.|[2409.16275](http://arxiv.org/abs/2409.16275)|null|
+|**2024-09-24**|**MaskBit: Embedding-free Image Generation via Bit Tokens**|Mark Weber et.al.|[2409.16211](http://arxiv.org/abs/2409.16211)|null|
+|**2024-09-24**|**MIMO: Controllable Character Video Synthesis with Spatial Decomposed Modeling**|Yifang Men et.al.|[2409.16160](http://arxiv.org/abs/2409.16160)|null|
+|**2024-09-24**|**Spreading dynamics of a Fisher-KPP nonlocal diffusion model with a free boundary**|Lei Li et.al.|[2409.16101](http://arxiv.org/abs/2409.16101)|null|
+|**2024-09-24**|**PRESTO: Fast motion planning using diffusion models based on key-configuration environment representation**|Mingyo Seo et.al.|[2409.16012](http://arxiv.org/abs/2409.16012)|null|
+|**2024-09-24**|**Unleashing the Potential of Synthetic Images: A Study on Histopathology Image Classification**|Leire Benito-Del-Valle et.al.|[2409.16002](http://arxiv.org/abs/2409.16002)|**[link](https://github.com/leirebv/synthetic_histopathology_dataset)**|
+|**2024-09-24**|**ASD-Diffusion: Anomalous Sound Detection with Diffusion Models**|Fengrun Zhang et.al.|[2409.15957](http://arxiv.org/abs/2409.15957)|null|
+|**2024-09-24**|**Multiscale method for image denoising using nonlinear diffusion process: local denoising and spectral multiscale basis functions**|Maria Vasilyeva et.al.|[2409.15952](http://arxiv.org/abs/2409.15952)|null|
+|**2024-09-24**|**Identifying early tumour states in a Cahn-Hilliard-reaction-diffusion model**|Abramo Agosti et.al.|[2409.15925](http://arxiv.org/abs/2409.15925)|null|
+|**2024-09-24**|**Diffusion Models for Intelligent Transportation Systems: A Survey**|Mingxing Peng et.al.|[2409.15816](http://arxiv.org/abs/2409.15816)|null|
+|**2024-09-24**|**TFG: Unified Training-Free Guidance for Diffusion Models**|Haotian Ye et.al.|[2409.15761](http://arxiv.org/abs/2409.15761)|null|
+|**2024-09-24**|**ImPoster: Text and Frequency Guidance for Subject Driven Action Personalization using Diffusion Models**|Divya Kothandaraman et.al.|[2409.15650](http://arxiv.org/abs/2409.15650)|null|
+|**2024-09-23**|**Mixture of Efficient Diffusion Experts Through Automatic Interval and Sub-Network Selection**|Alireza Ganjdanesh et.al.|[2409.15557](http://arxiv.org/abs/2409.15557)|null|
+|**2024-09-23**|**Learning Diverse Robot Striking Motions with Diffusion Models and Kinematically Constrained Gradient Guidance**|Kin Man Lee et.al.|[2409.15528](http://arxiv.org/abs/2409.15528)|null|
+|**2024-09-23**|**Speech2rtMRI: Speech-Guided Diffusion Model for Real-time MRI Video of the Vocal Tract during Speech**|Hong Nguyen et.al.|[2409.15525](http://arxiv.org/abs/2409.15525)|null|
+|**2024-09-23**|**Bayesian computation with generative diffusion models by Multilevel Monte Carlo**|Abdul-Lateef Haji-Ali et.al.|[2409.15511](http://arxiv.org/abs/2409.15511)|null|
+|**2024-09-23**|**MaterialFusion: Enhancing Inverse Rendering with Material Diffusion Priors**|Yehonathan Litman et.al.|[2409.15273](http://arxiv.org/abs/2409.15273)|null|
+|**2024-09-23**|**S $^2$ AG-Vid: Enhancing Multi-Motion Alignment in Video Diffusion Models via Spatial and Syntactic Attention-Based Guidance**|Yuanhang Li et.al.|[2409.15259](http://arxiv.org/abs/2409.15259)|null|
+|**2024-09-23**|**LoVA: Long-form Video-to-Audio Generation**|Xin Cheng et.al.|[2409.15157](http://arxiv.org/abs/2409.15157)|null|
+|**2024-09-25**|**GALD-SE: Guided Anisotropic Lightweight Diffusion for Efficient Speech Enhancement**|Chengzhong Wang et.al.|[2409.15101](http://arxiv.org/abs/2409.15101)|null|
 |**2024-09-18**|**Massively Multi-Person 3D Human Motion Forecasting with Scene Context**|Felix B Mueller et.al.|[2409.12189](http://arxiv.org/abs/2409.12189)|null|
 |**2024-09-18**|**MoRAG -- Multi-Fusion Retrieval Augmented Generation for Human Motion**|Kalakonda Sai Shashank et.al.|[2409.12140](http://arxiv.org/abs/2409.12140)|null|
 |**2024-09-18**|**Brain-Streams: fMRI-to-Image Reconstruction with Multi-modal Guidance**|Jaehoon Joo et.al.|[2409.12099](http://arxiv.org/abs/2409.12099)|null|
@@ -6387,6 +6427,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-23**|**PixWizard: Versatile Image-to-Image Visual Assistant with Open-Language Instructions**|Weifeng Lin et.al.|[2409.15278](http://arxiv.org/abs/2409.15278)|null|
+|**2024-09-23**|**Can CLIP Count Stars? An Empirical Study on Quantity Bias in CLIP**|Zeliang Zhang et.al.|[2409.15035](http://arxiv.org/abs/2409.15035)|null|
+|**2024-09-23**|**ControlEdit: A MultiModal Local Clothing Image Editing Method**|Di Cheng et.al.|[2409.14720](http://arxiv.org/abs/2409.14720)|**[link](https://github.com/cd123-cd/ControlEdit)**|
+|**2024-09-23**|**Reflecting Reality: Enabling Diffusion Models to Produce Faithful Mirror Reflections**|Ankit Dhiman et.al.|[2409.14677](http://arxiv.org/abs/2409.14677)|null|
+|**2024-09-20**|**Colorful Diffuse Intrinsic Image Decomposition in the Wild**|Chris Careaga et.al.|[2409.13690](http://arxiv.org/abs/2409.13690)|null|
+|**2024-09-20**|**A Bottom-Up Approach to Class-Agnostic Image Segmentation**|Sebastian Dille et.al.|[2409.13687](http://arxiv.org/abs/2409.13687)|null|
+|**2024-09-19**|**Generation and Editing of Mandrill Faces: Application to Sex Editing and Assessment**|Nicolas M. Dibot et.al.|[2409.12705](http://arxiv.org/abs/2409.12705)|null|
 |**2024-09-18**|**Denoising diffusion models for high-resolution microscopy image restoration**|Pamela Osuna-Vargas et.al.|[2409.12078](http://arxiv.org/abs/2409.12078)|null|
 |**2024-09-18**|**InverseMeetInsert: Robust Real Image Editing via Geometric Accumulation Inversion in Guided Diffusion Models**|Yan Zheng et.al.|[2409.11734](http://arxiv.org/abs/2409.11734)|null|
 |**2024-09-17**|**OmniGen: Unified Image Generation**|Shitao Xiao et.al.|[2409.11340](http://arxiv.org/abs/2409.11340)|**[link](https://github.com/vectorspacelab/omnigen)**|
@@ -7272,6 +7319,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-24**|**AIR-Embodied: An Efficient Active 3DGS-based Interaction and Reconstruction Framework with Embodied Large Language Model**|Zhenghao Qi et.al.|[2409.16019](http://arxiv.org/abs/2409.16019)|null|
+|**2024-09-23**|**FusionRF: High-Fidelity Satellite Neural Radiance Fields from Multispectral and Panchromatic Acquisitions**|Michael Sprintson et.al.|[2409.15132](http://arxiv.org/abs/2409.15132)|null|
+|**2024-09-23**|**AIM 2024 Sparse Neural Rendering Challenge: Methods and Results**|Michal Nazarczuk et.al.|[2409.15045](http://arxiv.org/abs/2409.15045)|null|
+|**2024-09-23**|**AIM 2024 Sparse Neural Rendering Challenge: Dataset and Benchmark**|Michal Nazarczuk et.al.|[2409.15041](http://arxiv.org/abs/2409.15041)|null|
+|**2024-09-21**|**ExFMan: Rendering 3D Dynamic Humans with Hybrid Monocular Blurry Frames and Events**|Kanghao Chen et.al.|[2409.14103](http://arxiv.org/abs/2409.14103)|null|
+|**2024-09-20**|**Elite-EvGS: Learning Event-based 3D Gaussian Splatting by Distilling Event-to-Video Priors**|Zixin Zhang et.al.|[2409.13392](http://arxiv.org/abs/2409.13392)|null|
+|**2024-09-20**|**FreeAvatar: Robust 3D Facial Animation Transfer by Learning an Expression Foundation Model**|Feng Qiu et.al.|[2409.13180](http://arxiv.org/abs/2409.13180)|null|
 |**2024-09-18**|**Intraoperative Registration by Cross-Modal Inverse Neural Rendering**|Maximilian Fehrentz et.al.|[2409.11983](http://arxiv.org/abs/2409.11983)|null|
 |**2024-09-21**|**HGSLoc: 3DGS-based Heuristic Camera Pose Refinement**|Zhongyan Niu et.al.|[2409.10925](http://arxiv.org/abs/2409.10925)|null|
 |**2024-09-15**|**Learning Transferable Features for Implicit Neural Representations**|Kushal Vyas et.al.|[2409.09566](http://arxiv.org/abs/2409.09566)|null|
@@ -7546,6 +7600,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-23**|**MIMAFace: Face Animation via Motion-Identity Modulated Appearance Feature Learning**|Yue Han et.al.|[2409.15179](http://arxiv.org/abs/2409.15179)|null|
 |**2024-09-02**|**KMTalk: Speech-Driven 3D Facial Animation with Key Motion Embedding**|Zhihao Xu et.al.|[2409.01113](http://arxiv.org/abs/2409.01113)|**[link](https://github.com/ffxzh/kmtalk)**|
 |**2024-08-23**|**G3FA: Geometry-guided GAN for Face Animation**|Alireza Javanmardi et.al.|[2408.13049](http://arxiv.org/abs/2408.13049)|null|
 |**2024-08-21**|**EmoFace: Emotion-Content Disentangled Speech-Driven 3D Talking Face with Mesh Attention**|Yihong Lin et.al.|[2408.11518](http://arxiv.org/abs/2408.11518)|null|
@@ -7599,6 +7654,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-04**|**SketcherX: AI-Driven Interactive Robotic drawing with Diffusion model and Vectorization Techniques**|Jookyung Song et.al.|[2409.15292](http://arxiv.org/abs/2409.15292)|null|
+|**2024-09-22**|**Pomo3D: 3D-Aware Portrait Accessorizing and More**|Tzu-Chieh Liu et.al.|[2409.14430](http://arxiv.org/abs/2409.14430)|null|
+|**2024-09-22**|**GroupDiff: Diffusion-based Group Portrait Editing**|Yuming Jiang et.al.|[2409.14379](http://arxiv.org/abs/2409.14379)|null|
+|**2024-09-20**|**Reflection Matrix Imaging for Wave Velocity Tomography**|Flavien Bureau et.al.|[2409.13901](http://arxiv.org/abs/2409.13901)|null|
+|**2024-09-20**|**Portrait Video Editing Empowered by Multimodal Generative Priors**|Xuan Gao et.al.|[2409.13591](http://arxiv.org/abs/2409.13591)|null|
 |**2024-09-17**|**MM2Latent: Text-to-facial image generation and editing in GANs with multimodal assistance**|Debin Meng et.al.|[2409.11010](http://arxiv.org/abs/2409.11010)|**[link](https://github.com/open-debin/mm2latent)**|
 |**2024-09-16**|**DreamHead: Learning Spatial-Temporal Correspondence via Hierarchical Diffusion for Audio-driven Talking Head Synthesis**|Fa-Ting Hong et.al.|[2409.10281](http://arxiv.org/abs/2409.10281)|null|
 |**2024-09-16**|**The Ancient Egyptian Cosmological Vignette: First Visual Evidence of the Milky Way and Trends in Coffin Depictions of the Sky Goddess Nut**|Or Graur et.al.|[2409.10265](http://arxiv.org/abs/2409.10265)|null|

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.26
+## Updated on 2024.09.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -41,9 +41,9 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-25**|**WasteGAN: Data Augmentation for Robotic Waste Sorting through Generative Adversarial Networks**|Alberto Bacchin et.al.|[2409.16999](http://arxiv.org/abs/2409.16999)|**[link](https://github.com/bach05/wastegan)**|
 |**2024-09-24**|**Machine learning approaches for automatic defect detection in photovoltaic systems**|Swayam Rajat Mohanty et.al.|[2409.16069](http://arxiv.org/abs/2409.16069)|null|
-|**2024-09-24**|**Enhanced Unsupervised Image-to-Image Translation Using Contrastive Learning and Histogram of Oriented Gradients**|Wanchen Zhao et.al.|[2409.16042](http://arxiv.org/abs/2409.16042)|null|
+|**2024-09-26**|**Enhanced Unsupervised Image-to-Image Translation Using Contrastive Learning and Histogram of Oriented Gradients**|Wanchen Zhao et.al.|[2409.16042](http://arxiv.org/abs/2409.16042)|null|
 |**2024-09-24**|**Deep chroma compression of tone-mapped images**|Xenios Milidonis et.al.|[2409.16032](http://arxiv.org/abs/2409.16032)|**[link](https://github.com/DeepCamera/HDR-chroma-compression)**|
-|**2024-09-24**|**StyleSinger 2: Zero-Shot Singing Voice Synthesis with Style Transfer and Multi-Level Style Control**|Yu Zhang et.al.|[2409.15977](http://arxiv.org/abs/2409.15977)|**[link](https://github.com/AaronZ345/TCSinger)**|
+|**2024-09-26**|**TCSinger: Zero-Shot Singing Voice Synthesis with Style Transfer and Multi-Level Style Control**|Yu Zhang et.al.|[2409.15977](http://arxiv.org/abs/2409.15977)|**[link](https://github.com/AaronZ345/TCSinger)**|
 |**2024-09-24**|**Data Augmentation for Sparse Multidimensional Learning Performance Data Using Generative AI**|Liang Zhang et.al.|[2409.15631](http://arxiv.org/abs/2409.15631)|null|
 |**2024-09-25**|**Interpretable Machine Learning for High-Strength High-Entropy Alloy Design**|Anurag Bajpai et.al.|[2409.14905](http://arxiv.org/abs/2409.14905)|null|
 |**2024-09-24**|**AEANet: Affinity Enhanced Attentional Networks for Arbitrary Style Transfer**|Gen Li et.al.|[2409.14652](http://arxiv.org/abs/2409.14652)|null|
@@ -53,7 +53,7 @@ layout: default
 |**2024-09-21**|**ChronoGAN: Supervised and Embedded Generative Adversarial Networks for Time Series Generation**|MohammadReza EskandariNasab et.al.|[2409.14013](http://arxiv.org/abs/2409.14013)|null|
 |**2024-09-20**|**High-Resolution Flood Probability Mapping Using Generative Machine Learning with Large-Scale Synthetic Precipitation and Inundation Data**|Lipai Huang et.al.|[2409.13936](http://arxiv.org/abs/2409.13936)|null|
 |**2024-09-20**|**On the Extrapolation of Generative Adversarial Networks for downscaling precipitation extremes in warmer climates**|Neelesh Rampal et.al.|[2409.13934](http://arxiv.org/abs/2409.13934)|**[link](https://github.com/nram812/On-the-Extrapolation-of-Generative-Adversarial-Networks-for-downscaling-precipitation-extremes)**|
-|**2024-09-20**|**GTSinger: A Global Multi-Technique Singing Corpus with Realistic Music Scores for All Singing Tasks**|Yu Zhang et.al.|[2409.13832](http://arxiv.org/abs/2409.13832)|**[link](https://github.com/gtsinger/gtsinger)**|
+|**2024-09-26**|**GTSinger: A Global Multi-Technique Singing Corpus with Realistic Music Scores for All Singing Tasks**|Yu Zhang et.al.|[2409.13832](http://arxiv.org/abs/2409.13832)|**[link](https://github.com/gtsinger/gtsinger)**|
 |**2024-09-20**|**Deep Generative Adversarial Network for Occlusion Removal from a Single Image**|Sankaraganesh Jonna et.al.|[2409.13242](http://arxiv.org/abs/2409.13242)|null|
 |**2024-09-19**|**DNI: Dilutional Noise Initialization for Diffusion Video Editing**|Sunjae Yoon et.al.|[2409.13037](http://arxiv.org/abs/2409.13037)|null|
 |**2024-09-19**|**Generation and Editing of Mandrill Faces: Application to Sex Editing and Assessment**|Nicolas M. Dibot et.al.|[2409.12705](http://arxiv.org/abs/2409.12705)|null|

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.03
+## Updated on 2024.10.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -1756,7 +1756,7 @@ layout: default
 |**2024-10-01**|**Absorbing State Phase Transitions and Stability of Long-Range Coherence in Dissipative Quantum State Preparation**|Matthew Wampler et.al.|[2410.00819](http://arxiv.org/abs/2410.00819)|null|
 |**2024-10-01**|**Modeling Neural Switching via Drift-Diffusion Models**|Nicholas Marco et.al.|[2410.00781](http://arxiv.org/abs/2410.00781)|null|
 |**2024-10-01**|**Improved Generation of Synthetic Imaging Data Using Feature-Aligned Diffusion**|Lakshmi Nair et.al.|[2410.00731](http://arxiv.org/abs/2410.00731)|**[link](https://github.com/lnairgt/feature-aligned-diffusion)**|
-|**2024-10-01**|**NECOMIMI: Neural-Cognitive Multimodal EEG-informed Image Generation with Diffusion Models**|Chi-Sheng Chen et.al.|[2410.00712](http://arxiv.org/abs/2410.00712)|null|
+|**2024-10-03**|**NECOMIMI: Neural-Cognitive Multimodal EEG-informed Image Generation with Diffusion Models**|Chi-Sheng Chen et.al.|[2410.00712](http://arxiv.org/abs/2410.00712)|null|
 |**2024-09-30**|**COLLAGE: Collaborative Human-Agent Interaction Generation using Hierarchical Latent Diffusion and Language Models**|Divyanshu Daiya et.al.|[2409.20502](http://arxiv.org/abs/2409.20502)|null|
 |**2024-09-30**|**FreeMask: Rethinking the Importance of Attention Masks for Zero-Shot Video Editing**|Lingling Cai et.al.|[2409.20500](http://arxiv.org/abs/2409.20500)|null|
 |**2024-09-30**|**Ensemble Kalman Diffusion Guidance: A Derivative-free Method for Inverse Problems**|Hongkai Zheng et.al.|[2409.20175](http://arxiv.org/abs/2409.20175)|null|

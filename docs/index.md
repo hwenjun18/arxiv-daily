@@ -39,6 +39,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-04**|**Learning test generators for cyber-physical systems**|Jarkko Peltomäki et.al.|[2410.03202](http://arxiv.org/abs/2410.03202)|null|
+|**2024-10-04**|**MultiVerse: Efficient and Expressive Zero-Shot Multi-Task Text-to-Speech**|Taejun Bak et.al.|[2410.03192](http://arxiv.org/abs/2410.03192)|null|
+|**2024-10-04**|**Tuning Timestep-Distilled Diffusion Model Using Pairwise Sample Optimization**|Zichen Miao et.al.|[2410.03190](http://arxiv.org/abs/2410.03190)|null|
+|**2024-10-03**|**PixelShuffler: A Simple Image Translation Through Pixel Rearrangement**|Omar Zamzam et.al.|[2410.03021](http://arxiv.org/abs/2410.03021)|null|
 |**2024-10-02**|**TAEGAN: Generating Synthetic Tabular Data For Data Augmentation**|Jiayu Li et.al.|[2410.01933](http://arxiv.org/abs/2410.01933)|null|
 |**2024-10-02**|**Harnessing the Latent Diffusion Model for Training-Free Image Style Transfer**|Kento Masui et.al.|[2410.01366](http://arxiv.org/abs/2410.01366)|null|
 |**2024-10-01**|**Style-Specific Neurons for Steering LLMs in Text Style Transfer**|Wen Lai et.al.|[2410.00593](http://arxiv.org/abs/2410.00593)|null|
@@ -1738,6 +1742,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-04**|**Estimating Body and Hand Motion in an Ego-sensed World**|Brent Yi et.al.|[2410.03665](http://arxiv.org/abs/2410.03665)|null|
+|**2024-10-04**|**Real-World Benchmarks Make Membership Inference Attacks Fail on Diffusion Models**|Chumeng Liang et.al.|[2410.03640](http://arxiv.org/abs/2410.03640)|**[link](https://github.com/caradryanl/copymark)**|
+|**2024-10-04**|**How Discrete and Continuous Diffusion Meet: Comprehensive Analysis of Discrete Diffusion Models via a Stochastic Integral Framework**|Yinuo Ren et.al.|[2410.03601](http://arxiv.org/abs/2410.03601)|null|
+|**2024-10-04**|**Not All Diffusion Model Activations Have Been Evaluated as Discriminative Features**|Benyuan Meng et.al.|[2410.03558](http://arxiv.org/abs/2410.03558)|**[link](https://github.com/darkbblue/generic-diffusion-feature)**|
+|**2024-10-04**|**Diffusion State-Guided Projected Gradient for Inverse Problems**|Rayhan Zirvi et.al.|[2410.03463](http://arxiv.org/abs/2410.03463)|null|
+|**2024-10-04**|**Generative Semantic Communication for Text-to-Speech Synthesis**|Jiahao Zheng et.al.|[2410.03459](http://arxiv.org/abs/2410.03459)|null|
+|**2024-10-04**|**Dynamic Diffusion Transformer**|Wangbo Zhao et.al.|[2410.03456](http://arxiv.org/abs/2410.03456)|**[link](https://github.com/nus-hpc-ai-lab/dynamic-diffusion-transformer)**|
+|**2024-10-04**|**CLoSD: Closing the Loop between Simulation and Diffusion for multi-task character control**|Guy Tevet et.al.|[2410.03441](http://arxiv.org/abs/2410.03441)|null|
+|**2024-10-04**|**The scaling behaviour of localised and extended states in one-dimensional tight-binding models with disorder**|Luca Schaefer et.al.|[2410.03405](http://arxiv.org/abs/2410.03405)|null|
+|**2024-10-04**|**Latent Abstractions in Generative Diffusion Models**|Giulio Franzese et.al.|[2410.03368](http://arxiv.org/abs/2410.03368)|null|
+|**2024-10-04**|**LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding**|Doohyuk Jang et.al.|[2410.03355](http://arxiv.org/abs/2410.03355)|null|
+|**2024-10-04**|**Tuning Timestep-Distilled Diffusion Model Using Pairwise Sample Optimization**|Zichen Miao et.al.|[2410.03190](http://arxiv.org/abs/2410.03190)|null|
+|**2024-10-04**|**Autonomous Character-Scene Interaction Synthesis from Text Instruction**|Nan Jiang et.al.|[2410.03187](http://arxiv.org/abs/2410.03187)|null|
+|**2024-10-04**|**Redefining Temporal Modeling in Video Diffusion: The Vectorized Timestep Approach**|Yaofang Liu et.al.|[2410.03160](http://arxiv.org/abs/2410.03160)|**[link](https://github.com/yaofang-liu/fvdm)**|
+|**2024-10-04**|**A Training-Free Conditional Diffusion Model for Learning Stochastic Dynamical Systems**|Yanfang Liu et.al.|[2410.03108](http://arxiv.org/abs/2410.03108)|null|
+|**2024-10-04**|**Combing Text-based and Drag-based Editing for Precise and Flexible Image Editing**|Ziqi Jiang et.al.|[2410.03097](http://arxiv.org/abs/2410.03097)|null|
+|**2024-10-04**|**Generative Edge Detection with Stable Diffusion**|Caixia Zhou et.al.|[2410.03080](http://arxiv.org/abs/2410.03080)|null|
+|**2024-10-04**|**Multi-Robot Motion Planning with Diffusion Models**|Yorai Shaoul et.al.|[2410.03072](http://arxiv.org/abs/2410.03072)|**[link](https://github.com/yoraish/mmd)**|
+|**2024-10-03**|**Revealing the Unseen: Guiding Personalized Diffusion Models to Expose Training Data**|Xiaoyu Wu et.al.|[2410.03039](http://arxiv.org/abs/2410.03039)|null|
+|**2024-10-03**|**Flow Matching with Gaussian Process Priors for Probabilistic Time Series Forecasting**|Marcel Kollovieh et.al.|[2410.03024](http://arxiv.org/abs/2410.03024)|null|
 |**2024-10-03**|**Revisit Large-Scale Image-Caption Data in Pre-training Multimodal Foundation Models**|Zhengfeng Lai et.al.|[2410.02740](http://arxiv.org/abs/2410.02740)|null|
 |**2024-10-03**|**SteerDiff: Steering towards Safe Text-to-Image Diffusion Models**|Hongxiang Zhang et.al.|[2410.02710](http://arxiv.org/abs/2410.02710)|null|
 |**2024-10-03**|**ControlAR: Controllable Image Generation with Autoregressive Models**|Zongming Li et.al.|[2410.02705](http://arxiv.org/abs/2410.02705)|**[link](https://github.com/hustvl/controlar)**|
@@ -6560,6 +6584,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-04**|**Diffusion State-Guided Projected Gradient for Inverse Problems**|Rayhan Zirvi et.al.|[2410.03463](http://arxiv.org/abs/2410.03463)|null|
+|**2024-10-04**|**Combing Text-based and Drag-based Editing for Precise and Flexible Image Editing**|Ziqi Jiang et.al.|[2410.03097](http://arxiv.org/abs/2410.03097)|null|
 |**2024-10-03**|**PnP-Flow: Plug-and-Play Image Restoration with Flow Matching**|Ségolène Martin et.al.|[2410.02423](http://arxiv.org/abs/2410.02423)|null|
 |**2024-10-02**|**Posterior sampling via Langevin dynamics based on generative priors**|Vishal Purohit et.al.|[2410.02078](http://arxiv.org/abs/2410.02078)|null|
 |**2024-10-02**|**Run-time Observation Interventions Make Vision-Language-Action Models More Visually Robust**|Asher J. Hancock et.al.|[2410.01971](http://arxiv.org/abs/2410.01971)|null|

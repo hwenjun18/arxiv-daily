@@ -51,6 +51,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-20**|**Synthetic Data Generation for Residential Load Patterns via Recurrent GAN and Ensemble Method**|Xinyu Liang et.al.|[2410.15379](http://arxiv.org/abs/2410.15379)|null|
+|**2024-10-19**|**Group Diffusion Transformers are Unsupervised Multitask Learners**|Lianghua Huang et.al.|[2410.15027](http://arxiv.org/abs/2410.15027)|null|
+|**2024-10-19**|**DiffuseST: Unleashing the Capability of the Diffusion Model for Style Transfer**|Ying Hu et.al.|[2410.15007](http://arxiv.org/abs/2410.15007)|null|
+|**2024-10-19**|**Non-Invasive to Invasive: Enhancing FFA Synthesis from CFP with a Benchmark Dataset and a Novel Network**|Hongqiu Wang et.al.|[2410.14965](http://arxiv.org/abs/2410.14965)|null|
+|**2024-10-18**|**Medical AI for Early Detection of Lung Cancer: A Survey**|Guohui Cai et.al.|[2410.14769](http://arxiv.org/abs/2410.14769)|**[link](https://github.com/caiguohui123/awesome-lung-cancer-detection)**|
+|**2024-10-17**|**CFTS-GAN: Continual Few-Shot Teacher Student for Generative Adversarial Networks**|Munsif Ali et.al.|[2410.14749](http://arxiv.org/abs/2410.14749)|null|
 |**2024-10-15**|**From Real Artifacts to Virtual Reference: A Robust Framework for Translating Endoscopic Images**|unyang Wu et.al.|[2410.13896](http://arxiv.org/abs/2410.13896)|null|
 |**2024-10-17**|**Diffusing States and Matching Scores: A New Framework for Imitation Learning**|Runzhe Wu et.al.|[2410.13855](http://arxiv.org/abs/2410.13855)|**[link](https://github.com/ziqian2000/smiling)**|
 |**2024-10-17**|**An Active Learning Framework for Inclusive Generation by Large Language Models**|Sabit Hassan et.al.|[2410.13641](http://arxiv.org/abs/2410.13641)|null|
@@ -1788,6 +1794,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-21**|**MvDrag3D: Drag-based Creative 3D Editing via Multi-view Generation-Reconstruction Priors**|Honghua Chen et.al.|[2410.16272](http://arxiv.org/abs/2410.16272)|null|
+|**2024-10-21**|**A Framework for Evaluating Predictive Models Using Synthetic Image Covariates and Longitudinal Data**|Simon Deltadahl et.al.|[2410.16177](http://arxiv.org/abs/2410.16177)|null|
+|**2024-10-21**|**Warped Diffusion: Solving Video Inverse Problems with Image Diffusion Models**|Giannis Daras et.al.|[2410.16152](http://arxiv.org/abs/2410.16152)|null|
+|**2024-10-21**|**SeaDAG: Semi-autoregressive Diffusion for Conditional Directed Acyclic Graph Generation**|Xinyi Zhou et.al.|[2410.16119](http://arxiv.org/abs/2410.16119)|null|
+|**2024-10-21**|**Continuous Speech Synthesis using per-token Latent Diffusion**|Arnon Turetzky et.al.|[2410.16048](http://arxiv.org/abs/2410.16048)|null|
+|**2024-10-21**|**CamI2V: Camera-Controlled Image-to-Video Diffusion Model**|Guangcong Zheng et.al.|[2410.15957](http://arxiv.org/abs/2410.15957)|**[link](https://github.com/ZGCTroy/CamI2V)**|
+|**2024-10-21**|**Solving Continual Offline RL through Selective Weights Activation on Aligned Spaces**|Jifeng Hu et.al.|[2410.15698](http://arxiv.org/abs/2410.15698)|null|
+|**2024-10-21**|**Erasing Undesirable Concepts in Diffusion Models with Adversarial Preservation**|Anh Bui et.al.|[2410.15618](http://arxiv.org/abs/2410.15618)|**[link](https://github.com/tuananhbui89/erasing-adversarial-preservation)**|
+|**2024-10-20**|**Data Augmentation via Diffusion Model to Enhance AI Fairness**|Christina Hastings Blow et.al.|[2410.15470](http://arxiv.org/abs/2410.15470)|null|
+|**2024-10-20**|**MedDiff-FM: A Diffusion-based Foundation Model for Versatile Medical Image Applications**|Yongrui Yu et.al.|[2410.15432](http://arxiv.org/abs/2410.15432)|null|
+|**2024-10-20**|**ConSinger: Efficient High-Fidelity Singing Voice Generation with Minimal Steps**|Yulin Song et.al.|[2410.15342](http://arxiv.org/abs/2410.15342)|null|
+|**2024-10-20**|**Diffusion-PINN Sampler**|Zhekun Shi et.al.|[2410.15336](http://arxiv.org/abs/2410.15336)|null|
+|**2024-10-20**|**FoMo: A Foundation Model for Mobile Traffic Forecasting with Diffusion Model**|Haoye Chai et.al.|[2410.15322](http://arxiv.org/abs/2410.15322)|null|
+|**2024-10-20**|**FastSTI: A Fast Conditional Pseudo Numerical Diffusion Model for Spatio-temporal Traffic Data Imputation**|Shaokang Cheng et.al.|[2410.15248](http://arxiv.org/abs/2410.15248)|null|
+|**2024-10-19**|**Retrieval Augmented Diffusion Model for Structure-informed Antibody Design and Optimization**|Zichen Wang et.al.|[2410.15040](http://arxiv.org/abs/2410.15040)|null|
+|**2024-10-19**|**DiffuseST: Unleashing the Capability of the Diffusion Model for Style Transfer**|Ying Hu et.al.|[2410.15007](http://arxiv.org/abs/2410.15007)|null|
+|**2024-10-19**|**Attack as Defense: Run-time Backdoor Implantation for Image Content Protection**|Haichuan Zhang et.al.|[2410.14966](http://arxiv.org/abs/2410.14966)|null|
+|**2024-10-19**|**Straightness of Rectified Flow: A Theoretical Insight into Wasserstein Convergence**|Vansh Bansal et.al.|[2410.14949](http://arxiv.org/abs/2410.14949)|null|
+|**2024-10-19**|**ImmerseDiffusion: A Generative Spatial Audio Latent Diffusion Model**|Mojtaba Heydari et.al.|[2410.14945](http://arxiv.org/abs/2410.14945)|null|
+|**2024-10-19**|**Adversarial Score identity Distillation: Rapidly Surpassing the Teacher in One Step**|Mingyuan Zhou et.al.|[2410.14919](http://arxiv.org/abs/2410.14919)|null|
 |**2024-10-18**|**Multi-modal Pose Diffuser: A Multimodal Generative Conditional Pose Prior**|Calvin-Khang Ta et.al.|[2410.14540](http://arxiv.org/abs/2410.14540)|null|
 |**2024-10-18**|**LEAD: Latent Realignment for Human Motion Diffusion**|Nefeli Andreou et.al.|[2410.14508](http://arxiv.org/abs/2410.14508)|null|
 |**2024-10-18**|**Reinforcement Learning in Non-Markov Market-Making**|Luca Lalor et.al.|[2410.14504](http://arxiv.org/abs/2410.14504)|null|
@@ -6801,6 +6827,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-20**|**LoRA-IR: Taming Low-Rank Experts for Efficient All-in-One Image Restoration**|Yuang Ai et.al.|[2410.15385](http://arxiv.org/abs/2410.15385)|**[link](https://github.com/shallowdream204/lora-ir)**|
+|**2024-10-19**|**A Survey on All-in-One Image Restoration: Taxonomy, Evaluation and Future Trends**|Junjun Jiang et.al.|[2410.15067](http://arxiv.org/abs/2410.15067)|null|
+|**2024-10-19**|**Attack as Defense: Run-time Backdoor Implantation for Image Content Protection**|Haichuan Zhang et.al.|[2410.14966](http://arxiv.org/abs/2410.14966)|null|
 |**2024-10-18**|**ERDDCI: Exact Reversible Diffusion via Dual-Chain Inversion for High-Quality Image Editing**|Jimin Dai et.al.|[2410.14247](http://arxiv.org/abs/2410.14247)|null|
 |**2024-10-17**|**MMAD-Purify: A Precision-Optimized Framework for Efficient and Scalable Multi-Modal Attacks**|Xinxin Liu et.al.|[2410.14089](http://arxiv.org/abs/2410.14089)|null|
 |**2024-10-17**|**Generative Location Modeling for Spatially Aware Object Insertion**|Jooyeol Yun et.al.|[2410.13564](http://arxiv.org/abs/2410.13564)|null|
@@ -8107,7 +8136,7 @@
 |**2024-10-13**|**DFIMat: Decoupled Flexible Interactive Matting in Multi-Person Scenarios**|Siyi Jiao et.al.|[2410.09788](http://arxiv.org/abs/2410.09788)|**[link](https://github.com/jiaosiyi/dfimat)**|
 |**2024-10-11**|**RealEra: Semantic-level Concept Erasure via Neighbor-Concept Mining**|Yufan Liu et.al.|[2410.09140](http://arxiv.org/abs/2410.09140)|null|
 |**2024-10-10**|**MMHead: Towards Fine-grained Multi-modal 3D Facial Animation**|Sijing Wu et.al.|[2410.07757](http://arxiv.org/abs/2410.07757)|null|
-|**2024-10-14**|**Hallo2: Long-Duration and High-Resolution Audio-Driven Portrait Image Animation**|Jiahao Cui et.al.|[2410.07718](http://arxiv.org/abs/2410.07718)|null|
+|**2024-10-14**|**Hallo2: Long-Duration and High-Resolution Audio-Driven Portrait Image Animation**|Jiahao Cui et.al.|[2410.07718](http://arxiv.org/abs/2410.07718)|**[link](https://github.com/fudan-generative-vision/hallo2)**|
 |**2024-10-09**|**BBN Constraint on Heavy Neutrino Production and Decay**|Yu-Ming Chen et.al.|[2410.07343](http://arxiv.org/abs/2410.07343)|null|
 |**2024-10-07**|**Generative Portrait Shadow Removal**|Jae Shin Yoon et.al.|[2410.05525](http://arxiv.org/abs/2410.05525)|null|
 |**2024-10-07**|**Scalar polynomial vector fields in real and complex time**|Bernold Fiedler et.al.|[2410.05043](http://arxiv.org/abs/2410.05043)|null|

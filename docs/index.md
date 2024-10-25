@@ -39,6 +39,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-24**|**Generation of synthetic financial time series by diffusion models**|Tomonori Takahashi et.al.|[2410.18897](http://arxiv.org/abs/2410.18897)|null|
 |**2024-10-23**|**A Wavelet Diffusion GAN for Image Super-Resolution**|Lorenzo Aloisi et.al.|[2410.17966](http://arxiv.org/abs/2410.17966)|null|
 |**2024-10-23**|**Medical Imaging Complexity and its Effects on GAN Performance**|William Cagas et.al.|[2410.17959](http://arxiv.org/abs/2410.17959)|null|
 |**2024-10-23**|**Variational MineGAN: A Data-efficient Knowledge Transfer Architecture for Generative AI-assisted Design of Nanophotonic Structures**|Shahriar Tarvir Nushin et.al.|[2410.17889](http://arxiv.org/abs/2410.17889)|null|
@@ -46,7 +47,7 @@ layout: default
 |**2024-10-23**|**Deep Generative Models for 3D Medical Image Synthesis**|Paul Friedrich et.al.|[2410.17664](http://arxiv.org/abs/2410.17664)|null|
 |**2024-10-23**|**Testing Deep Learning Recommender Systems Models on Synthetic GAN-Generated Datasets**|Jesús Bobadilla et.al.|[2410.17651](http://arxiv.org/abs/2410.17651)|null|
 |**2024-10-19**|**Stool Recognition for Colorectal Cancer Detection through Deep Learning**|Glenda Hui En Tan et.al.|[2410.17288](http://arxiv.org/abs/2410.17288)|null|
-|**2024-10-22**|**PGCS: Physical Law embedded Generative Cloud Synthesis in Remote Sensing Images**|Liying Xu et.al.|[2410.16955](http://arxiv.org/abs/2410.16955)|null|
+|**2024-10-22**|**PGCS: Physical Law embedded Generative Cloud Synthesis in Remote Sensing Images**|Liying Xu et.al.|[2410.16955](http://arxiv.org/abs/2410.16955)|**[link](https://github.com/liying-xu/pgcs)**|
 |**2024-10-22**|**CK4Gen: A Knowledge Distillation Framework for Generating High-Utility Synthetic Survival Datasets in Healthcare**|Nicholas I-Hsien Kuo et.al.|[2410.16872](http://arxiv.org/abs/2410.16872)|null|
 |**2024-10-22**|**Evaluating the Effectiveness of Attack-Agnostic Features for Morphing Attack Detection**|Laurent Colbois et.al.|[2410.16802](http://arxiv.org/abs/2410.16802)|**[link](https://gitlab.idiap.ch/bob/bob.paper.ijcb2024_agnostic_features_mad)**|
 |**2024-10-22**|**Privacy-hardened and hallucination-resistant synthetic data generation with logic-solvers**|Mark A. Burgess et.al.|[2410.16705](http://arxiv.org/abs/2410.16705)|null|
@@ -1791,6 +1792,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-24**|**MotionCLR: Motion Generation and Training-free Editing via Understanding Attention Mechanisms**|Ling-Hao Chen et.al.|[2410.18977](http://arxiv.org/abs/2410.18977)|null|
+|**2024-10-24**|**3D-Adapter: Geometry-Consistent Multi-View Diffusion for High-Quality 3D Generation**|Hansheng Chen et.al.|[2410.18974](http://arxiv.org/abs/2410.18974)|**[link](https://github.com/Lakonik/MVEdit)**|
+|**2024-10-24**|**On the Crucial Role of Initialization for Matrix Factorization**|Bingcong Li et.al.|[2410.18965](http://arxiv.org/abs/2410.18965)|null|
+|**2024-10-24**|**Stable Consistency Tuning: Understanding and Improving Consistency Models**|Fu-Yun Wang et.al.|[2410.18958](http://arxiv.org/abs/2410.18958)|**[link](https://github.com/G-U-N/Stable-Consistency-Tuning)**|
+|**2024-10-24**|**Generation of synthetic financial time series by diffusion models**|Tomonori Takahashi et.al.|[2410.18897](http://arxiv.org/abs/2410.18897)|null|
+|**2024-10-24**|**The Cat and Mouse Game: The Ongoing Arms Race Between Diffusion Models and Detection Methods**|Linda Laurier et.al.|[2410.18866](http://arxiv.org/abs/2410.18866)|null|
+|**2024-10-24**|**Multi-Scale Diffusion: Enhancing Spatial Layout in High-Resolution Panoramic Image Generation**|Xiaoyu Zhang et.al.|[2410.18830](http://arxiv.org/abs/2410.18830)|null|
+|**2024-10-24**|**Fast constrained sampling in pre-trained diffusion models**|Alexandros Graikos et.al.|[2410.18804](http://arxiv.org/abs/2410.18804)|null|
+|**2024-10-24**|**Robust Watermarking Using Generative Priors Against Image Editing: From Benchmarking to Advances**|Shilin Lu et.al.|[2410.18775](http://arxiv.org/abs/2410.18775)|**[link](https://github.com/shilin-lu/vine)**|
+|**2024-10-24**|**Schedule Your Edit: A Simple yet Effective Diffusion Noise Schedule for Image Editing**|Haonan Lin et.al.|[2410.18756](http://arxiv.org/abs/2410.18756)|null|
+|**2024-10-24**|**Rectified Diffusion Guidance for Conditional Generation**|Mengfei Xia et.al.|[2410.18737](http://arxiv.org/abs/2410.18737)|null|
+|**2024-10-24**|**Retrieval-Augmented Diffusion Models for Time Series Forecasting**|Jingwei Liu et.al.|[2410.18712](http://arxiv.org/abs/2410.18712)|**[link](https://github.com/stanliu96/RATD)**|
+|**2024-10-24**|**Ali-AUG: Innovative Approaches to Labeled Data Augmentation using One-Step Diffusion Model**|Ali Hamza et.al.|[2410.18678](http://arxiv.org/abs/2410.18678)|null|
+|**2024-10-24**|**DreamClear: High-Capacity Real-World Image Restoration with Privacy-Safe Dataset Curation**|Yuang Ai et.al.|[2410.18666](http://arxiv.org/abs/2410.18666)|**[link](https://github.com/shallowdream204/dreamclear)**|
+|**2024-10-24**|**Diffusion Attribution Score: Evaluating Training Data Influence in Diffusion Model**|Jinxu Lin et.al.|[2410.18639](http://arxiv.org/abs/2410.18639)|null|
+|**2024-10-24**|**SMITE: Segment Me In TimE**|Amirhossein Alimohammadi et.al.|[2410.18538](http://arxiv.org/abs/2410.18538)|null|
+|**2024-10-24**|**Beyond Color and Lines: Zero-Shot Style-Specific Image Variations with Coordinated Semantics**|Jinghao Hu et.al.|[2410.18537](http://arxiv.org/abs/2410.18537)|null|
+|**2024-10-24**|**Scaling up Masked Diffusion Models on Text**|Shen Nie et.al.|[2410.18514](http://arxiv.org/abs/2410.18514)|**[link](https://github.com/ml-gsai/smdm)**|
+|**2024-10-24**|**FreCaS: Efficient Higher-Resolution Image Generation via Frequency-aware Cascaded Sampling**|Zhengqiang Zhang et.al.|[2410.18410](http://arxiv.org/abs/2410.18410)|**[link](https://github.com/xtudbxk/frecas)**|
+|**2024-10-23**|**DMTG: A Human-Like Mouse Trajectory Generation Bot Based on Entropy-Controlled Diffusion Networks**|Jiahua Liu et.al.|[2410.18233](http://arxiv.org/abs/2410.18233)|null|
 |**2024-10-23**|**DynamicCity: Large-Scale LiDAR Generation from Dynamic Scenes**|Hengwei Bian et.al.|[2410.18084](http://arxiv.org/abs/2410.18084)|null|
 |**2024-10-23**|**Prioritized Generative Replay**|Renhao Wang et.al.|[2410.18082](http://arxiv.org/abs/2410.18082)|null|
 |**2024-10-23**|**Optical Generative Models**|Shiqi Chen et.al.|[2410.17970](http://arxiv.org/abs/2410.17970)|null|
@@ -6860,6 +6881,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-24**|**Robust Watermarking Using Generative Priors Against Image Editing: From Benchmarking to Advances**|Shilin Lu et.al.|[2410.18775](http://arxiv.org/abs/2410.18775)|**[link](https://github.com/shilin-lu/vine)**|
+|**2024-10-24**|**Schedule Your Edit: A Simple yet Effective Diffusion Noise Schedule for Image Editing**|Haonan Lin et.al.|[2410.18756](http://arxiv.org/abs/2410.18756)|null|
+|**2024-10-24**|**DreamClear: High-Capacity Real-World Image Restoration with Privacy-Safe Dataset Curation**|Yuang Ai et.al.|[2410.18666](http://arxiv.org/abs/2410.18666)|**[link](https://github.com/shallowdream204/dreamclear)**|
 |**2024-10-23**|**TAGE: Trustworthy Attribute Group Editing for Stable Few-shot Image Generation**|Ruicheng Zhang et.al.|[2410.17855](http://arxiv.org/abs/2410.17855)|null|
 |**2024-10-23**|**DREB-Net: Dual-stream Restoration Embedding Blur-feature Fusion Network for High-mobility UAV Object Detection**|Qingpeng Li et.al.|[2410.17822](http://arxiv.org/abs/2410.17822)|**[link](https://github.com/eeic-lab/dreb-net)**|
 |**2024-10-23**|**An Intelligent Agentic System for Complex Image Restoration Problems**|Kaiwen Zhu et.al.|[2410.17809](http://arxiv.org/abs/2410.17809)|null|
@@ -6867,7 +6891,7 @@ layout: default
 |**2024-10-23**|**Diffusion Priors for Variational Likelihood Estimation and Image Denoising**|Jun Cheng et.al.|[2410.17521](http://arxiv.org/abs/2410.17521)|**[link](https://github.com/hust-tan/diffusionvi)**|
 |**2024-10-20**|**LoRA-IR: Taming Low-Rank Experts for Efficient All-in-One Image Restoration**|Yuang Ai et.al.|[2410.15385](http://arxiv.org/abs/2410.15385)|**[link](https://github.com/shallowdream204/lora-ir)**|
 |**2024-10-19**|**A Survey on All-in-One Image Restoration: Taxonomy, Evaluation and Future Trends**|Junjun Jiang et.al.|[2410.15067](http://arxiv.org/abs/2410.15067)|**[link](https://github.com/harbinzzy/all-in-one-image-restoration-survey)**|
-|**2024-10-19**|**Attack as Defense: Run-time Backdoor Implantation for Image Content Protection**|Haichuan Zhang et.al.|[2410.14966](http://arxiv.org/abs/2410.14966)|null|
+|**2024-10-19**|**Attack as Defense: Run-time Backdoor Implantation for Image Content Protection**|Haichuan Zhang et.al.|[2410.14966](http://arxiv.org/abs/2410.14966)|**[link](https://github.com/LeopoldZhang1610/Attack_as_Defense)**|
 |**2024-10-18**|**ERDDCI: Exact Reversible Diffusion via Dual-Chain Inversion for High-Quality Image Editing**|Jimin Dai et.al.|[2410.14247](http://arxiv.org/abs/2410.14247)|null|
 |**2024-10-17**|**MMAD-Purify: A Precision-Optimized Framework for Efficient and Scalable Multi-Modal Attacks**|Xinxin Liu et.al.|[2410.14089](http://arxiv.org/abs/2410.14089)|null|
 |**2024-10-17**|**Generative Location Modeling for Spatially Aware Object Insertion**|Jooyeol Yun et.al.|[2410.13564](http://arxiv.org/abs/2410.13564)|null|
@@ -7808,6 +7832,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-22**|**Advancing Super-Resolution in Neural Radiance Fields via Variational Diffusion Strategies**|Shrey Vishen et.al.|[2410.18137](http://arxiv.org/abs/2410.18137)|**[link](https://github.com/shreyvish5678/SR-NeRF-with-Variational-Diffusion-Strategies)**|
 |**2024-10-21**|**Large Body Language Models**|Saif Punjwani et.al.|[2410.16533](http://arxiv.org/abs/2410.16533)|null|
 |**2024-10-18**|**Neural Signed Distance Function Inference through Splatting 3D Gaussians Pulled on Zero-Level Set**|Wenyuan Zhang et.al.|[2410.14189](http://arxiv.org/abs/2410.14189)|null|
 |**2024-10-14**|**Fast and Accurate Neural Rendering Using Semi-Gradients**|In-Young Cho et.al.|[2410.10149](http://arxiv.org/abs/2410.10149)|null|
@@ -8161,6 +8186,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-24**|**Fractional Solitons: A Homotopic Continuation from the Biharmonic to the Harmonic $φ^4$ Model**|Robert J. Decker et.al.|[2410.18426](http://arxiv.org/abs/2410.18426)|null|
+|**2024-10-24**|**Real-time 3D-aware Portrait Video Relighting**|Ziqi Cai et.al.|[2410.18355](http://arxiv.org/abs/2410.18355)|**[link](https://github.com/GhostCai/PortraitRelighting)**|
 |**2024-10-07**|**Audio-Driven Emotional 3D Talking-Head Generation**|Wenqing Wang et.al.|[2410.17262](http://arxiv.org/abs/2410.17262)|null|
 |**2024-10-18**|**Takin-ADA: Emotion Controllable Audio-Driven Animation with Canonical and Landmark Loss Optimization**|Bin Lin et.al.|[2410.14283](http://arxiv.org/abs/2410.14283)|null|
 |**2024-10-18**|**DAWN: Dynamic Frame Avatar with Non-autoregressive Diffusion Framework for Talking Head Video Generation**|Hanbo Cheng et.al.|[2410.13726](http://arxiv.org/abs/2410.13726)|**[link](https://github.com/hanbo-cheng/dawn-pytorch)**|

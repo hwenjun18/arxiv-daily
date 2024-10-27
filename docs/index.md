@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.26
+## Updated on 2024.10.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -41,7 +41,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-24**|**Generation of synthetic financial time series by diffusion models**|Tomonori Takahashi et.al.|[2410.18897](http://arxiv.org/abs/2410.18897)|null|
 |**2024-10-23**|**A Wavelet Diffusion GAN for Image Super-Resolution**|Lorenzo Aloisi et.al.|[2410.17966](http://arxiv.org/abs/2410.17966)|null|
-|**2024-10-23**|**Medical Imaging Complexity and its Effects on GAN Performance**|William Cagas et.al.|[2410.17959](http://arxiv.org/abs/2410.17959)|null|
+|**2024-10-23**|**Medical Imaging Complexity and its Effects on GAN Performance**|William Cagas et.al.|[2410.17959](http://arxiv.org/abs/2410.17959)|**[link](https://github.com/willcagas/Synthetic-Medical-Image-Generation)**|
 |**2024-10-23**|**Variational MineGAN: A Data-efficient Knowledge Transfer Architecture for Generative AI-assisted Design of Nanophotonic Structures**|Shahriar Tarvir Nushin et.al.|[2410.17889](http://arxiv.org/abs/2410.17889)|null|
 |**2024-10-23**|**TAGE: Trustworthy Attribute Group Editing for Stable Few-shot Image Generation**|Ruicheng Zhang et.al.|[2410.17855](http://arxiv.org/abs/2410.17855)|null|
 |**2024-10-23**|**Deep Generative Models for 3D Medical Image Synthesis**|Paul Friedrich et.al.|[2410.17664](http://arxiv.org/abs/2410.17664)|null|

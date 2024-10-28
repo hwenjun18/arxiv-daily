@@ -51,6 +51,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-25**|**Microplastic Identification Using AI-Driven Image Segmentation and GAN-Generated Ecological Context**|Alex Dils et.al.|[2410.19604](http://arxiv.org/abs/2410.19604)|null|
+|**2024-10-25**|**Generative Diffusion Models for Sequential Recommendations**|Sharare Zolghadr et.al.|[2410.19429](http://arxiv.org/abs/2410.19429)|null|
+|**2024-10-22**|**Dual Space Training for GANs: A Pathway to Efficient and Creative Generative Models**|Beka Modrekiladze et.al.|[2410.19009](http://arxiv.org/abs/2410.19009)|null|
 |**2024-10-24**|**Generation of synthetic financial time series by diffusion models**|Tomonori Takahashi et.al.|[2410.18897](http://arxiv.org/abs/2410.18897)|null|
 |**2024-10-23**|**A Wavelet Diffusion GAN for Image Super-Resolution**|Lorenzo Aloisi et.al.|[2410.17966](http://arxiv.org/abs/2410.17966)|null|
 |**2024-10-23**|**Medical Imaging Complexity and its Effects on GAN Performance**|William Cagas et.al.|[2410.17959](http://arxiv.org/abs/2410.17959)|**[link](https://github.com/willcagas/Synthetic-Medical-Image-Generation)**|
@@ -1806,6 +1809,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-25**|**Adversarial Environment Design via Regret-Guided Diffusion Models**|Hojun Chung et.al.|[2410.19715](http://arxiv.org/abs/2410.19715)|null|
+|**2024-10-25**|**DiffGS: Functional Gaussian Splatting Diffusion**|Junsheng Zhou et.al.|[2410.19657](http://arxiv.org/abs/2410.19657)|null|
+|**2024-10-25**|**Diffusion models for lattice gauge field simulations**|Qianteng Zhu et.al.|[2410.19602](http://arxiv.org/abs/2410.19602)|null|
+|**2024-10-25**|**Utilizing Image Transforms and Diffusion Models for Generative Modeling of Short and Long Time Series**|Ilan Naiman et.al.|[2410.19538](http://arxiv.org/abs/2410.19538)|null|
+|**2024-10-25**|**Ensemble Data Assimilation for Particle-based Methods**|Marius Duvillard et.al.|[2410.19525](http://arxiv.org/abs/2410.19525)|null|
+|**2024-10-25**|**NeuroClips: Towards High-fidelity and Smooth fMRI-to-Video Reconstruction**|Zixuan Gong et.al.|[2410.19452](http://arxiv.org/abs/2410.19452)|**[link](https://github.com/gongzix/neuroclips)**|
+|**2024-10-25**|**Learned Reference-based Diffusion Sampling for multi-modal distributions**|Maxence Noble et.al.|[2410.19449](http://arxiv.org/abs/2410.19449)|null|
+|**2024-10-25**|**Generative Diffusion Models for Sequential Recommendations**|Sharare Zolghadr et.al.|[2410.19429](http://arxiv.org/abs/2410.19429)|null|
+|**2024-10-25**|**FasterCache: Training-Free Video Diffusion Model Acceleration with High Quality**|Zhengyao Lv et.al.|[2410.19355](http://arxiv.org/abs/2410.19355)|null|
+|**2024-10-25**|**High Resolution Seismic Waveform Generation using Denoising Diffusion**|Andreas Bergmeister et.al.|[2410.19343](http://arxiv.org/abs/2410.19343)|null|
+|**2024-10-25**|**Simpler Diffusion (SiD2): 1.5 FID on ImageNet512 with pixel-space diffusion**|Emiel Hoogeboom et.al.|[2410.19324](http://arxiv.org/abs/2410.19324)|null|
+|**2024-10-25**|**A prescriptive theory for brain-like inference**|Hadi Vafaii et.al.|[2410.19315](http://arxiv.org/abs/2410.19315)|null|
+|**2024-10-25**|**A Flow-based Truncated Denoising Diffusion Model for Super-resolution Magnetic Resonance Spectroscopic Imaging**|Siyuan Dong et.al.|[2410.19288](http://arxiv.org/abs/2410.19288)|null|
+|**2024-10-25**|**Learning Diffusion Policies from Demonstrations For Compliant Contact-rich Manipulation**|Malek Aburub et.al.|[2410.19235](http://arxiv.org/abs/2410.19235)|null|
+|**2024-10-24**|**Structured Diffusion Models with Mixture of Gaussians as Prior Distribution**|Nanshan Jia et.al.|[2410.19149](http://arxiv.org/abs/2410.19149)|null|
+|**2024-10-24**|**BIFRÖST: 3D-Aware Image compositing with Language Instructions**|Lingxiao Li et.al.|[2410.19079](http://arxiv.org/abs/2410.19079)|**[link](https://github.com/lingxiao-li/bifrost)**|
 |**2024-10-24**|**MotionCLR: Motion Generation and Training-free Editing via Understanding Attention Mechanisms**|Ling-Hao Chen et.al.|[2410.18977](http://arxiv.org/abs/2410.18977)|null|
 |**2024-10-24**|**3D-Adapter: Geometry-Consistent Multi-View Diffusion for High-Quality 3D Generation**|Hansheng Chen et.al.|[2410.18974](http://arxiv.org/abs/2410.18974)|**[link](https://github.com/Lakonik/MVEdit)**|
 |**2024-10-24**|**On the Crucial Role of Initialization for Matrix Factorization**|Bingcong Li et.al.|[2410.18965](http://arxiv.org/abs/2410.18965)|null|

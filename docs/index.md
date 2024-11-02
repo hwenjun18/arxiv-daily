@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.01
+## Updated on 2024.11.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -1822,14 +1822,14 @@ layout: default
 |**2024-10-31**|**DiffPano: Scalable and Consistent Text to Panorama Generation with Spherical Epipolar-Aware Diffusion**|Weicai Ye et.al.|[2410.24203](http://arxiv.org/abs/2410.24203)|**[link](https://github.com/zju3dv/diffpano)**|
 |**2024-10-31**|**Redefining <Creative> in Dictionary: Towards a Enhanced Semantic Understanding of Creative Generation**|Fu Feng et.al.|[2410.24160](http://arxiv.org/abs/2410.24160)|null|
 |**2024-10-31**|**Scaling Concept With Text-Guided Diffusion Models**|Chao Huang et.al.|[2410.24151](http://arxiv.org/abs/2410.24151)|null|
-|**2024-10-31**|**Understanding Generalizability of Diffusion Models Requires Rethinking the Hidden Gaussian Structure**|Xiang Li et.al.|[2410.24060](http://arxiv.org/abs/2410.24060)|null|
+|**2024-10-31**|**Understanding Generalizability of Diffusion Models Requires Rethinking the Hidden Gaussian Structure**|Xiang Li et.al.|[2410.24060](http://arxiv.org/abs/2410.24060)|**[link](https://github.com/Morefre/Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure)**|
 |**2024-10-31**|**TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation**|Sunjae Yoon et.al.|[2410.24037](http://arxiv.org/abs/2410.24037)|null|
 |**2024-10-31**|**DiffPAD: Denoising Diffusion-based Adversarial Patch Decontamination**|Jia Fu et.al.|[2410.24006](http://arxiv.org/abs/2410.24006)|null|
 |**2024-10-31**|**Breaking Determinism: Fuzzy Modeling of Sequential Recommendation Using Discrete State Space Diffusion Model**|Wenjia Xie et.al.|[2410.23994](http://arxiv.org/abs/2410.23994)|null|
 |**2024-10-31**|**Stochastic Reconstruction of Gappy Lagrangian Turbulent Signals by Conditional Diffusion Models**|Tianyi Li et.al.|[2410.23971](http://arxiv.org/abs/2410.23971)|null|
 |**2024-10-31**|**Image Synthesis with Class-Aware Semantic Diffusion Models for Surgical Scene Segmentation**|Yihang Zhou et.al.|[2410.23962](http://arxiv.org/abs/2410.23962)|null|
 |**2024-10-31**|**Text-DiFuse: An Interactive Multi-Modal Image Fusion Framework based on Text-modulated Diffusion Model**|Hao Zhang et.al.|[2410.23905](http://arxiv.org/abs/2410.23905)|**[link](https://github.com/leiii-cao/text-difuse)**|
-|**2024-10-31**|**DiffBatt: A Diffusion Model for Battery Degradation Prediction and Synthesis**|Hamidreza Eivazi et.al.|[2410.23893](http://arxiv.org/abs/2410.23893)|null|
+|**2024-10-31**|**DiffBatt: A Diffusion Model for Battery Degradation Prediction and Synthesis**|Hamidreza Eivazi et.al.|[2410.23893](http://arxiv.org/abs/2410.23893)|**[link](https://github.com/HamidrezaEiv/DiffBatt)**|
 |**2024-10-31**|**Denoising Diffusion Models for Anomaly Localization in Medical Images**|Cosmin I. Bercea et.al.|[2410.23834](http://arxiv.org/abs/2410.23834)|null|
 |**2024-10-31**|**Disentangling Disentangled Representations: Towards Improved Latent Units via Diffusion Models**|Youngjun Jun et.al.|[2410.23820](http://arxiv.org/abs/2410.23820)|null|
 |**2024-10-31**|**EDT: An Efficient Diffusion Transformer Framework Inspired by Human-like Sketching**|Xinwang Chen et.al.|[2410.23788](http://arxiv.org/abs/2410.23788)|**[link](https://github.com/xinwangchen/edt)**|
@@ -7005,7 +7005,7 @@ layout: default
 |**2024-10-31**|**Cycle-Constrained Adversarial Denoising Convolutional Network for PET Image Denoising: Multi-Dimensional Validation on Large Datasets with Reader Study and Real Low-Dose Data**|Yucun Hou et.al.|[2410.23628](http://arxiv.org/abs/2410.23628)|null|
 |**2024-10-31**|**MS-Glance: Non-semantic context vectors and the applications in supervising image reconstruction**|Ziqi Gao et.al.|[2410.23577](http://arxiv.org/abs/2410.23577)|**[link](https://github.com/z7gao/msglance)**|
 |**2024-10-31**|**Language-guided Hierarchical Fine-grained Image Forgery Detection and Localization**|Xiao Guo et.al.|[2410.23556](http://arxiv.org/abs/2410.23556)|null|
-|**2024-10-30**|**EnsIR: An Ensemble Algorithm for Image Restoration via Gaussian Mixture Models**|Shangquan Sun et.al.|[2410.22959](http://arxiv.org/abs/2410.22959)|null|
+|**2024-10-30**|**EnsIR: An Ensemble Algorithm for Image Restoration via Gaussian Mixture Models**|Shangquan Sun et.al.|[2410.22959](http://arxiv.org/abs/2410.22959)|**[link](https://github.com/sunshangquan/EnsIR)**|
 |**2024-10-25**|**ArCSEM: Artistic Colorization of SEM Images via Gaussian Splatting**|Takuma Nishimura et.al.|[2410.21310](http://arxiv.org/abs/2410.21310)|null|
 |**2024-10-24**|**Robust Watermarking Using Generative Priors Against Image Editing: From Benchmarking to Advances**|Shilin Lu et.al.|[2410.18775](http://arxiv.org/abs/2410.18775)|**[link](https://github.com/shilin-lu/vine)**|
 |**2024-10-28**|**Schedule Your Edit: A Simple yet Effective Diffusion Noise Schedule for Image Editing**|Haonan Lin et.al.|[2410.18756](http://arxiv.org/abs/2410.18756)|null|

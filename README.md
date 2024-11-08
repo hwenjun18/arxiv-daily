@@ -51,6 +51,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-07**|**End-to-end Inception-Unet based Generative Adversarial Networks for Snow and Rain Removals**|Ibrahim Kajo et.al.|[2411.04821](http://arxiv.org/abs/2411.04821)|null|
 |**2024-11-06**|**ParaGAN: A Scalable Distributed Training Framework for Generative Adversarial Networks**|Ziji Shi et.al.|[2411.03999](http://arxiv.org/abs/2411.03999)|null|
 |**2024-11-05**|**SynthSet: Generative Diffusion Model for Semantic Segmentation in Precision Agriculture**|Andrew Heschl et.al.|[2411.03505](http://arxiv.org/abs/2411.03505)|**[link](https://github.com/visionresearchlab/synthset)**|
 |**2024-11-05**|**Rainfall regression from C-band Synthetic Aperture Radar using Multi-Task Generative Adversarial Networks**|Aurélien Colin et.al.|[2411.03480](http://arxiv.org/abs/2411.03480)|null|
@@ -1845,6 +1846,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-07**|**SVDQunat: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models**|Muyang Li et.al.|[2411.05007](http://arxiv.org/abs/2411.05007)|**[link](https://github.com/mit-han-lab/deepcompressor)**|
+|**2024-11-07**|**ProEdit: Simple Progression is All You Need for High-Quality 3D Scene Editing**|Jun-Kun Chen et.al.|[2411.05006](http://arxiv.org/abs/2411.05006)|null|
+|**2024-11-07**|**Diff-2-in-1: Bridging Generation and Dense Perception with Diffusion Models**|Shuhong Zheng et.al.|[2411.05005](http://arxiv.org/abs/2411.05005)|null|
+|**2024-11-07**|**ReCapture: Generative Video Camera Controls for User-Provided Videos using Masked Video Fine-Tuning**|David Junhao Zhang et.al.|[2411.05003](http://arxiv.org/abs/2411.05003)|null|
+|**2024-11-07**|**SG-I2V: Self-Guided Trajectory Control in Image-to-Video Generation**|Koichi Namekata et.al.|[2411.04989](http://arxiv.org/abs/2411.04989)|null|
+|**2024-11-07**|**Uncovering Hidden Subspaces in Video Diffusion Models Using Re-Identification**|Mischa Dombrowski et.al.|[2411.04956](http://arxiv.org/abs/2411.04956)|null|
+|**2024-11-07**|**DimensionX: Create Any 3D and 4D Scenes from a Single Image with Controllable Video Diffusion**|Wenqiang Sun et.al.|[2411.04928](http://arxiv.org/abs/2411.04928)|null|
+|**2024-11-07**|**Stem-OB: Generalizable Visual Imitation Learning with Stem-Like Convergent Observation through Diffusion Inversion**|Kaizhe Hu et.al.|[2411.04919](http://arxiv.org/abs/2411.04919)|null|
+|**2024-11-06**|**Boosting Latent Diffusion with Perceptual Objectives**|Tariq Berrada et.al.|[2411.04873](http://arxiv.org/abs/2411.04873)|null|
+|**2024-11-07**|**Controlling Human Shape and Pose in Text-to-Image Diffusion Models via Domain Adaptation**|Benito Buchheim et.al.|[2411.04724](http://arxiv.org/abs/2411.04724)|null|
+|**2024-11-07**|**DanceFusion: A Spatio-Temporal Skeleton Diffusion Transformer for Audio-Driven Dance Motion Reconstruction**|Li Zhao et.al.|[2411.04646](http://arxiv.org/abs/2411.04646)|null|
+|**2024-11-07**|**Brain Tumour Removing and Missing Modality Generation using 3D WDM**|André Ferreira et.al.|[2411.04630](http://arxiv.org/abs/2411.04630)|**[link](https://github.com/shadowtwin41/brats_2023_2024_solutions)**|
+|**2024-11-07**|**Social EgoMesh Estimation**|Luca Scofano et.al.|[2411.04598](http://arxiv.org/abs/2411.04598)|**[link](https://github.com/l-scofano/seeme)**|
+|**2024-11-07**|**Series-to-Series Diffusion Bridge Model**|Hao Yang et.al.|[2411.04491](http://arxiv.org/abs/2411.04491)|null|
+|**2024-11-07**|**HandCraft: Anatomically Correct Restoration of Malformed Hands in Diffusion Generated Images**|Zhenyue Qin et.al.|[2411.04332](http://arxiv.org/abs/2411.04332)|null|
+|**2024-11-06**|**PocoLoco: A Point Cloud Diffusion Model of Human Shape in Loose Clothing**|Siddharth Seth et.al.|[2411.04249](http://arxiv.org/abs/2411.04249)|**[link](https://github.com/sidsunny/pocoloco)**|
+|**2024-11-06**|**Quantum Diffusion Models for Few-Shot Learning**|Ruhan Wang et.al.|[2411.04217](http://arxiv.org/abs/2411.04217)|null|
+|**2024-11-06**|**DiMSUM: Diffusion Mamba -- A Scalable and Unified Spatial-Frequency Method for Image Generation**|Hao Phung et.al.|[2411.04168](http://arxiv.org/abs/2411.04168)|null|
 |**2024-11-06**|**Community Forensics: Using Thousands of Generators to Train Fake Image Detectors**|Jeongsoo Park et.al.|[2411.04125](http://arxiv.org/abs/2411.04125)|null|
 |**2024-11-06**|**Synomaly Noise and Multi-Stage Diffusion: A Novel Approach for Unsupervised Anomaly Detection in Ultrasound Imaging**|Yuan Bi et.al.|[2411.04004](http://arxiv.org/abs/2411.04004)|null|
 |**2024-11-06**|**ET-SEED: Efficient Trajectory-Level SE(3) Equivariant Diffusion Policy**|Chenrui Tie et.al.|[2411.03990](http://arxiv.org/abs/2411.03990)|null|
@@ -7069,9 +7088,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-06**|**Multi-Reward as Condition for Instruction-based Image Editing**|Xin Gu et.al.|[2411.04713](http://arxiv.org/abs/2411.04713)|null|
 |**2024-11-06**|**ReEdit: Multimodal Exemplar-Based Image Editing with Diffusion Models**|Ashutosh Srivastava et.al.|[2411.03982](http://arxiv.org/abs/2411.03982)|null|
 |**2024-11-05**|**CrowdGenUI: Enhancing LLM-Based UI Widget Generation with a Crowdsourced Preference Library**|Yimeng Liu et.al.|[2411.03477](http://arxiv.org/abs/2411.03477)|null|
-|**2024-11-05**|**DiT4Edit: Diffusion Transformer for Image Editing**|Kunyu Feng et.al.|[2411.03286](http://arxiv.org/abs/2411.03286)|null|
+|**2024-11-07**|**DiT4Edit: Diffusion Transformer for Image Editing**|Kunyu Feng et.al.|[2411.03286](http://arxiv.org/abs/2411.03286)|null|
 |**2024-11-05**|**Local Lesion Generation is Effective for Capsule Endoscopy Image Data Augmentation in a Limited Data Setting**|Adrian B. Chłopowiec et.al.|[2411.03098](http://arxiv.org/abs/2411.03098)|null|
 |**2024-11-04**|**DiffuMask-Editor: A Novel Paradigm of Integration Between the Segmentation Diffusion Model and Image Editing to Improve Segmentation Ability**|Bo Gao et.al.|[2411.01819](http://arxiv.org/abs/2411.01819)|null|
 |**2024-11-03**|**Degradation-Aware Residual-Conditioned Optimal Transport for Unified Image Restoration**|Xiaole Tang et.al.|[2411.01656](http://arxiv.org/abs/2411.01656)|**[link](https://github.com/xl-tang3/DA-RCOT)**|
@@ -8397,6 +8417,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-07**|**MegaPortrait: Revisiting Diffusion Control for High-fidelity Portrait Generation**|Han Yang et.al.|[2411.04357](http://arxiv.org/abs/2411.04357)|null|
 |**2024-11-03**|**FaceDig: Automated tool for placing landmarks on facial portraits for geometric morphometrics users**|Karel Kleisner et.al.|[2411.01508](http://arxiv.org/abs/2411.01508)|null|
 |**2024-11-02**|**Unified strategy of flat band engineering, electronic transport and other spectral properties for different kagome ribbon variants**|Atanu Nandy et.al.|[2411.01202](http://arxiv.org/abs/2411.01202)|null|
 |**2024-11-01**|**All-frequency Full-body Human Image Relighting**|Daichi Tajima et.al.|[2411.00356](http://arxiv.org/abs/2411.00356)|null|

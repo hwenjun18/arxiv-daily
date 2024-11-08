@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.07
+## Updated on 2024.11.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -42,7 +42,7 @@ layout: default
 |**2024-11-06**|**ParaGAN: A Scalable Distributed Training Framework for Generative Adversarial Networks**|Ziji Shi et.al.|[2411.03999](http://arxiv.org/abs/2411.03999)|null|
 |**2024-11-05**|**SynthSet: Generative Diffusion Model for Semantic Segmentation in Precision Agriculture**|Andrew Heschl et.al.|[2411.03505](http://arxiv.org/abs/2411.03505)|**[link](https://github.com/visionresearchlab/synthset)**|
 |**2024-11-05**|**Rainfall regression from C-band Synthetic Aperture Radar using Multi-Task Generative Adversarial Networks**|Aurélien Colin et.al.|[2411.03480](http://arxiv.org/abs/2411.03480)|null|
-|**2024-11-03**|**Undermining Image and Text Classification Algorithms Using Adversarial Attacks**|Langalibalele Lunga et.al.|[2411.03348](http://arxiv.org/abs/2411.03348)|null|
+|**2024-11-07**|**Undermining Image and Text Classification Algorithms Using Adversarial Attacks**|Langalibalele Lunga et.al.|[2411.03348](http://arxiv.org/abs/2411.03348)|null|
 |**2024-11-05**|**Local Lesion Generation is Effective for Capsule Endoscopy Image Data Augmentation in a Limited Data Setting**|Adrian B. Chłopowiec et.al.|[2411.03098](http://arxiv.org/abs/2411.03098)|null|
 |**2024-11-03**|**Privacy-Preserving Customer Churn Prediction Model in the Context of Telecommunication Industry**|Joydeb Kumar Sana et.al.|[2411.01447](http://arxiv.org/abs/2411.01447)|null|
 |**2024-11-03**|**TPOT: Topology Preserving Optimal Transport in Retinal Fundus Image Enhancement**|Xuanzhao Dong et.al.|[2411.01403](http://arxiv.org/abs/2411.01403)|null|

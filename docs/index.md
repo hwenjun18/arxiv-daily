@@ -1843,7 +1843,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-12**|**Scaling Properties of Diffusion Models for Perceptual Tasks**|Rahul Ravishankar et.al.|[2411.08034](http://arxiv.org/abs/2411.08034)|null|
+|**2024-11-13**|**4D Gaussian Splatting in the Wild with Uncertainty-Aware Regularization**|Mijeong Kim et.al.|[2411.08879](http://arxiv.org/abs/2411.08879)|null|
+|**2024-11-13**|**Offline Adaptation of Quadruped Locomotion using Diffusion Models**|Reece O'Mahoney et.al.|[2411.08832](http://arxiv.org/abs/2411.08832)|null|
+|**2024-11-13**|**Towards More Accurate Fake Detection on Images Generated from Advanced Generative and Neural Rendering Models**|Chengdong Dong et.al.|[2411.08642](http://arxiv.org/abs/2411.08642)|null|
+|**2024-11-13**|**V2X-R: Cooperative LiDAR-4D Radar Fusion for 3D Object Detection with Denoising Diffusion**|Xun Huang et.al.|[2411.08402](http://arxiv.org/abs/2411.08402)|**[link](https://github.com/ylwhxht/v2x-r)**|
+|**2024-11-13**|**Physics Informed Distillation for Diffusion Models**|Joshua Tian Jin Tee et.al.|[2411.08378](http://arxiv.org/abs/2411.08378)|**[link](https://github.com/pantheon5100/pid_diffusion)**|
+|**2024-11-13**|**Generative AI for Data Augmentation in Wireless Networks: Analysis, Applications, and Case Study**|Jinbo Wen et.al.|[2411.08341](http://arxiv.org/abs/2411.08341)|null|
+|**2024-11-13**|**Motion Control for Enhanced Complex Action Video Generation**|Qiang Zhou et.al.|[2411.08328](http://arxiv.org/abs/2411.08328)|null|
+|**2024-11-13**|**DNN Task Assignment in UAV Networks: A Generative AI Enhanced Multi-Agent Reinforcement Learning Approach**|Xin Tang et.al.|[2411.08299](http://arxiv.org/abs/2411.08299)|null|
+|**2024-11-12**|**Joint Diffusion models in Continual Learning**|Paweł Skierś et.al.|[2411.08224](http://arxiv.org/abs/2411.08224)|null|
+|**2024-11-12**|**Latent Space Disentanglement in Diffusion Transformers Enables Precise Zero-shot Semantic Editing**|Zitao Shuai et.al.|[2411.08196](http://arxiv.org/abs/2411.08196)|null|
+|**2024-11-12**|**Well-posedness of a Variable-Exponent Telegraph Equation Applied to Image Despeckling**|Sudeb Majee et.al.|[2411.08175](http://arxiv.org/abs/2411.08175)|null|
+|**2024-11-12**|**An age-structured diffusive model for epidemic modelling: Lie symmetries and exact solutions**|Roman Cherniha et.al.|[2411.08083](http://arxiv.org/abs/2411.08083)|null|
+|**2024-11-13**|**Scaling Properties of Diffusion Models for Perceptual Tasks**|Rahul Ravishankar et.al.|[2411.08034](http://arxiv.org/abs/2411.08034)|null|
 |**2024-11-12**|**GaussianAnything: Interactive Point Cloud Latent Diffusion for 3D Generation**|Yushi Lan et.al.|[2411.08033](http://arxiv.org/abs/2411.08033)|null|
 |**2024-11-12**|**Diverse capability and scaling of diffusion and auto-regressive models when learning abstract rules**|Binxu Wang et.al.|[2411.07873](http://arxiv.org/abs/2411.07873)|null|
 |**2024-11-12**|**Novel View Synthesis with Pixel-Space Diffusion Models**|Noam Elata et.al.|[2411.07765](http://arxiv.org/abs/2411.07765)|null|
@@ -7125,6 +7137,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-13**|**A Survey on Vision Autoregressive Model**|Kai Jiang et.al.|[2411.08666](http://arxiv.org/abs/2411.08666)|null|
+|**2024-11-12**|**Latent Space Disentanglement in Diffusion Transformers Enables Precise Zero-shot Semantic Editing**|Zitao Shuai et.al.|[2411.08196](http://arxiv.org/abs/2411.08196)|null|
 |**2024-11-12**|**Joint multi-dimensional dynamic attention and transformer for general image restoration**|Huan Zhang et.al.|[2411.07893](http://arxiv.org/abs/2411.07893)|**[link](https://github.com/house-yuyu/mdda-former)**|
 |**2024-11-12**|**All-in-one Weather-degraded Image Restoration via Adaptive Degradation-aware Self-prompting Model**|Yuanbo Wen et.al.|[2411.07445](http://arxiv.org/abs/2411.07445)|null|
 |**2024-11-12**|**Add-it: Training-Free Object Insertion in Images With Pretrained Diffusion Models**|Yoad Tewel et.al.|[2411.07232](http://arxiv.org/abs/2411.07232)|null|
@@ -8100,6 +8114,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-13**|**Towards More Accurate Fake Detection on Images Generated from Advanced Generative and Neural Rendering Models**|Chengdong Dong et.al.|[2411.08642](http://arxiv.org/abs/2411.08642)|null|
+|**2024-11-13**|**Generalized Pose Space Embeddings for Training In-the-Wild using Anaylis-by-Synthesis**|Dominik Borer et.al.|[2411.08603](http://arxiv.org/abs/2411.08603)|null|
 |**2024-11-01**|**Intensity Field Decomposition for Tissue-Guided Neural Tomography**|Meng-Xun Li et.al.|[2411.00900](http://arxiv.org/abs/2411.00900)|null|
 |**2024-10-27**|**Neural rendering enables dynamic tomography**|Ivan Grega et.al.|[2410.20558](http://arxiv.org/abs/2410.20558)|null|
 |**2024-10-22**|**Advancing Super-Resolution in Neural Radiance Fields via Variational Diffusion Strategies**|Shrey Vishen et.al.|[2410.18137](http://arxiv.org/abs/2410.18137)|**[link](https://github.com/shreyvish5678/advancing-super-resolution-in-neural-radiance-fields-via-variational-diffusion-strategies)**|

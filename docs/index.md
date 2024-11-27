@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.26
+## Updated on 2024.11.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -43,7 +43,7 @@ layout: default
 |**2024-11-25**|**Unsupervised Event Outlier Detection in Continuous Time**|Somjit Nath et.al.|[2411.16427](http://arxiv.org/abs/2411.16427)|null|
 |**2024-11-25**|**Comparison of Generative Learning Methods for Turbulence Modeling**|Claudia Drygala et.al.|[2411.16417](http://arxiv.org/abs/2411.16417)|null|
 |**2024-11-25**|**Synthesising Handwritten Music with GANs: A Comprehensive Evaluation of CycleWGAN, ProGAN, and DCGAN**|Elona Shatri et.al.|[2411.16405](http://arxiv.org/abs/2411.16405)|null|
-|**2024-11-25**|**BadSFL: Backdoor Attack against Scaffold Federated Learning**|Xingshuo Han et.al.|[2411.16167](http://arxiv.org/abs/2411.16167)|null|
+|**2024-11-26**|**BadSFL: Backdoor Attack against Scaffold Federated Learning**|Xingshuo Han et.al.|[2411.16167](http://arxiv.org/abs/2411.16167)|null|
 |**2024-11-25**|**Debiasing Classifiers by Amplifying Bias with Latent Diffusion and Large Language Models**|Donggeun Ko et.al.|[2411.16079](http://arxiv.org/abs/2411.16079)|null|
 |**2024-11-24**|**CNNs for Style Transfer of Digital to Film Photography**|Pierre Mackenzie et.al.|[2411.15967](http://arxiv.org/abs/2411.15967)|null|
 |**2024-11-24**|**A Training-Free Approach for Music Style Transfer with Latent Diffusion Models**|Sooyoung Kim et.al.|[2411.15913](http://arxiv.org/abs/2411.15913)|null|
@@ -1890,7 +1890,7 @@ layout: default
 |**2024-11-25**|**Fancy123: One Image to High-Quality 3D Mesh Generation via Plug-and-Play Deformation**|Qiao Yu et.al.|[2411.16185](http://arxiv.org/abs/2411.16185)|null|
 |**2024-11-25**|**Image Generation Diversity Issues and How to Tame Them**|Mischa Dombrowski et.al.|[2411.16171](http://arxiv.org/abs/2411.16171)|**[link](https://github.com/mischad/beyondfid)**|
 |**2024-11-25**|**Text-to-Image Synthesis: A Decade Survey**|Nonghai Zhang et.al.|[2411.16164](http://arxiv.org/abs/2411.16164)|null|
-|**2024-11-25**|**MVGenMaster: Scaling Multi-View Generation from Any Image via 3D Priors Enhanced Diffusion Model**|Chenjie Cao et.al.|[2411.16157](http://arxiv.org/abs/2411.16157)|**[link](https://github.com/ewrfcas/mvgenmaster)**|
+|**2024-11-26**|**MVGenMaster: Scaling Multi-View Generation from Any Image via 3D Priors Enhanced Diffusion Model**|Chenjie Cao et.al.|[2411.16157](http://arxiv.org/abs/2411.16157)|**[link](https://github.com/ewrfcas/mvgenmaster)**|
 |**2024-11-22**|**DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving**|Bencheng Liao et.al.|[2411.15139](http://arxiv.org/abs/2411.15139)|**[link](https://github.com/hustvl/diffusiondrive)**|
 |**2024-11-22**|**Material Anything: Generating Materials for Any 3D Object via Diffusion**|Xin Huang et.al.|[2411.15138](http://arxiv.org/abs/2411.15138)|null|
 |**2024-11-22**|**VideoRepair: Improving Text-to-Video Generation via Misalignment Evaluation and Localized Refinement**|Daeun Lee et.al.|[2411.15115](http://arxiv.org/abs/2411.15115)|null|
@@ -7297,7 +7297,7 @@ layout: default
 |**2024-11-25**|**Mixed Degradation Image Restoration via Local Dynamic Optimization and Conditional Embedding**|Yubin Gu et.al.|[2411.16217](http://arxiv.org/abs/2411.16217)|null|
 |**2024-11-25**|**U2NeRF: Unsupervised Underwater Image Restoration and Neural Radiance Fields**|Vinayak Gupta et.al.|[2411.16172](http://arxiv.org/abs/2411.16172)|null|
 |**2024-11-24**|**PromptHSI: Universal Hyperspectral Image Restoration Framework for Composite Degradation**|Chia-Ming Lee et.al.|[2411.15922](http://arxiv.org/abs/2411.15922)|null|
-|**2024-11-24**|**Unveil Inversion and Invariance in Flow Transformer for Versatile Image Editing**|Pengcheng Xu et.al.|[2411.15843](http://arxiv.org/abs/2411.15843)|null|
+|**2024-11-26**|**Unveil Inversion and Invariance in Flow Transformer for Versatile Image Editing**|Pengcheng Xu et.al.|[2411.15843](http://arxiv.org/abs/2411.15843)|null|
 |**2024-11-24**|**LTCF-Net: A Transformer-Enhanced Dual-Channel Fourier Framework for Low-Light Image Restoration**|Gaojing Zhang et.al.|[2411.15740](http://arxiv.org/abs/2411.15740)|null|
 |**2024-11-24**|**AnyEdit: Mastering Unified High-Quality Image Editing for Any Idea**|Qifan Yu et.al.|[2411.15738](http://arxiv.org/abs/2411.15738)|null|
 |**2024-11-23**|**Large-Scale Text-to-Image Model with Inpainting is a Zero-Shot Subject-Driven Image Generator**|Chaehun Shin et.al.|[2411.15466](http://arxiv.org/abs/2411.15466)|null|
@@ -8603,7 +8603,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-25**|**Pantograph: A Fluid and Typed Structure Editor**|Jacob Prinz et.al.|[2411.16571](http://arxiv.org/abs/2411.16571)|null|
+|**2024-11-26**|**Pantograph: A Fluid and Typed Structure Editor**|Jacob Prinz et.al.|[2411.16571](http://arxiv.org/abs/2411.16571)|null|
 |**2024-10-21**|**DocEdit-v2: Document Structure Editing Via Multimodal LLM Grounding**|Manan Suri et.al.|[2410.16472](http://arxiv.org/abs/2410.16472)|null|
 |**2024-10-14**|**STACKFEED: Structured Textual Actor-Critic Knowledge Base Editing with FeedBack**|Naman Gupta et.al.|[2410.10584](http://arxiv.org/abs/2410.10584)|null|
 |**2024-09-23**|**MIMAFace: Face Animation via Motion-Identity Modulated Appearance Feature Learning**|Yue Han et.al.|[2409.15179](http://arxiv.org/abs/2409.15179)|null|

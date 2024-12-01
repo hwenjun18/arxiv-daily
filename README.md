@@ -7367,8 +7367,8 @@
 |**2024-11-26**|**GenDeg: Diffusion-Based Degradation Synthesis for Generalizable All-in-One Image Restoration**|Sudarshan Rajagopalan et.al.|[2411.17687](http://arxiv.org/abs/2411.17687)|null|
 |**2024-11-26**|**Puzzle Similarity: A Perceptually-guided No-Reference Metric for Artifact Detection in 3D Scene Reconstructions**|Nicolai Hermann et.al.|[2411.17489](http://arxiv.org/abs/2411.17489)|null|
 |**2024-11-26**|**InsightEdit: Towards Better Instruction Following for Image Editing**|Yingjing Xu et.al.|[2411.17323](http://arxiv.org/abs/2411.17323)|null|
-|**2024-11-26**|**MLI-NeRF: Multi-Light Intrinsic-Aware Neural Radiance Fields**|Yixiong Yang et.al.|[2411.17235](http://arxiv.org/abs/2411.17235)|null|
-|**2024-11-26**|**MWFormer: Multi-Weather Image Restoration Using Degradation-Aware Transformers**|Ruoxi Zhu et.al.|[2411.17226](http://arxiv.org/abs/2411.17226)|null|
+|**2024-11-26**|**MLI-NeRF: Multi-Light Intrinsic-Aware Neural Radiance Fields**|Yixiong Yang et.al.|[2411.17235](http://arxiv.org/abs/2411.17235)|**[link](https://github.com/liulisixin/mli-nerf)**|
+|**2024-11-26**|**MWFormer: Multi-Weather Image Restoration Using Degradation-Aware Transformers**|Ruoxi Zhu et.al.|[2411.17226](http://arxiv.org/abs/2411.17226)|**[link](https://github.com/taco-group/mwformer)**|
 |**2024-11-26**|**DreamMix: Decoupling Object Attributes for Enhanced Editability in Customized Image Inpainting**|Yicheng Yang et.al.|[2411.17223](http://arxiv.org/abs/2411.17223)|**[link](https://github.com/mycfhs/dreammix)**|
 |**2024-11-25**|**Edit Away and My Face Will not Stay: Personal Biometric Defense against Malicious Generative Editing**|Hanhui Wang et.al.|[2411.16832](http://arxiv.org/abs/2411.16832)|**[link](https://github.com/taco-group/facelock)**|
 |**2024-11-25**|**Pathways on the Image Manifold: Image Editing via Video Generation**|Noam Rotstein et.al.|[2411.16819](http://arxiv.org/abs/2411.16819)|null|

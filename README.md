@@ -1904,17 +1904,17 @@
 |**2024-11-29**|**Uniform Attention Maps: Boosting Image Fidelity in Reconstruction and Editing**|Wenyi Mo et.al.|[2411.19652](http://arxiv.org/abs/2411.19652)|**[link](https://github.com/mowenyii/uniform-attention-maps)**|
 |**2024-11-29**|**Deepfake Media Generation and Detection in the Generative AI Era: A Survey and Outlook**|Florinel-Alin Croitoru et.al.|[2411.19537](http://arxiv.org/abs/2411.19537)|**[link](https://github.com/croitorualin/biodeep)**|
 |**2024-11-29**|**Ditto: Motion-Space Diffusion for Controllable Realtime Talking Head Synthesis**|Tianqi Li et.al.|[2411.19509](http://arxiv.org/abs/2411.19509)|null|
-|**2024-11-29**|**Diffusion Models Meet Network Management: Improving Traffic Matrix Analysis with Diffusion-based Approach**|Xinyu Yuan et.al.|[2411.19493](http://arxiv.org/abs/2411.19493)|null|
+|**2024-11-29**|**Diffusion Models Meet Network Management: Improving Traffic Matrix Analysis with Diffusion-based Approach**|Xinyu Yuan et.al.|[2411.19493](http://arxiv.org/abs/2411.19493)|**[link](https://github.com/Y-debug-sys/DTM)**|
 |**2024-11-28**|**DreamBlend: Advancing Personalized Fine-tuning of Text-to-Image Diffusion Models**|Shwetha Ram et.al.|[2411.19390](http://arxiv.org/abs/2411.19390)|null|
 |**2024-11-28**|**Enhancing Sketch Animation: Text-to-Video Diffusion Models with Temporal Consistency and Rigidity Constraints**|Gaurav Rai et.al.|[2411.19381](http://arxiv.org/abs/2411.19381)|null|
 |**2024-11-28**|**Towards a Mechanistic Explanation of Diffusion Model Generalization**|Matthew Niedoba et.al.|[2411.19339](http://arxiv.org/abs/2411.19339)|null|
 |**2024-11-28**|**Trajectory Attention for Fine-grained Video Motion Control**|Zeqi Xiao et.al.|[2411.19324](http://arxiv.org/abs/2411.19324)|null|
 |**2024-11-28**|**Improving Multi-Subject Consistency in Open-Domain Image Generation with Isolation and Reposition Attention**|Huiguo He et.al.|[2411.19261](http://arxiv.org/abs/2411.19261)|null|
-|**2024-11-28**|**Gaussians-to-Life: Text-Driven Animation of 3D Gaussian Splatting Scenes**|Thomas Wimmer et.al.|[2411.19233](http://arxiv.org/abs/2411.19233)|null|
+|**2024-11-28**|**Gaussians-to-Life: Text-Driven Animation of 3D Gaussian Splatting Scenes**|Thomas Wimmer et.al.|[2411.19233](http://arxiv.org/abs/2411.19233)|**[link](https://github.com/wimmerth/gaussians2life)**|
 |**2024-11-28**|**Z-STAR+: A Zero-shot Style Transfer Method via Adjusting Style Distribution**|Yingying Deng et.al.|[2411.19231](http://arxiv.org/abs/2411.19231)|null|
 |**2024-11-28**|**Video Depth without Video Models**|Bingxin Ke et.al.|[2411.19189](http://arxiv.org/abs/2411.19189)|null|
 |**2024-11-28**|**SOWing Information: Cultivating Contextual Coherence with MLLMs in Image Generation**|Yuhan Pei et.al.|[2411.19182](http://arxiv.org/abs/2411.19182)|null|
-|**2024-11-28**|**Bayesian Deconvolution of Astronomical Images with Diffusion Models: Quantifying Prior-Driven Features in Reconstructions**|Alessio Spagnoletti et.al.|[2411.19158](http://arxiv.org/abs/2411.19158)|null|
+|**2024-11-28**|**Bayesian Deconvolution of Astronomical Images with Diffusion Models: Quantifying Prior-Driven Features in Reconstructions**|Alessio Spagnoletti et.al.|[2411.19158](http://arxiv.org/abs/2411.19158)|**[link](https://github.com/astrodeepnet/diffusion4astro)**|
 |**2024-11-28**|**Timestep Embedding Tells: It's Time to Cache for Video Diffusion Model**|Feng Liu et.al.|[2411.19108](http://arxiv.org/abs/2411.19108)|null|
 |**2024-11-28**|**I Dream My Painting: Connecting MLLMs and Diffusion Models via Prompt Generation for Text-Guided Multi-Mask Inpainting**|Nicola Fanelli et.al.|[2411.19050](http://arxiv.org/abs/2411.19050)|**[link](https://github.com/cilabuniba/i-dream-my-painting)**|
 |**2024-11-28**|**3D-WAG: Hierarchical Wavelet-Guided Autoregressive Generation for High-Fidelity 3D Shapes**|Tejaswini Medi et.al.|[2411.19037](http://arxiv.org/abs/2411.19037)|null|

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.05
+## Updated on 2024.12.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -7440,7 +7440,7 @@ layout: default
 |**2024-12-01**|**Beyond Pixels: Text Enhances Generalization in Real-World Image Restoration**|Haoze Sun et.al.|[2412.00878](http://arxiv.org/abs/2412.00878)|null|
 |**2024-11-30**|**Blind Inverse Problem Solving Made Easy by Text-to-Image Latent Diffusion**|Michail Dontas et.al.|[2412.00557](http://arxiv.org/abs/2412.00557)|null|
 |**2024-11-27**|**Steering Rectified Flow Models in the Vector Field for Controlled Image Generation**|Maitreya Patel et.al.|[2412.00100](http://arxiv.org/abs/2412.00100)|null|
-|**2024-11-28**|**LoRA of Change: Learning to Generate LoRA for the Editing Instruction from A Single Before-After Image Pair**|Xue Song et.al.|[2411.19156](http://arxiv.org/abs/2411.19156)|null|
+|**2024-12-05**|**LoRA of Change: Learning to Generate LoRA for the Editing Instruction from A Single Before-After Image Pair**|Xue Song et.al.|[2411.19156](http://arxiv.org/abs/2411.19156)|null|
 |**2024-11-28**|**Descriptions of women are longer than that of men: An analysis of gender portrayal prompts in Stable Diffusion**|Yan Asadchy et.al.|[2411.18994](http://arxiv.org/abs/2411.18994)|null|
 |**2024-11-27**|**Hierarchical Information Flow for Generalized Efficient Image Restoration**|Yawei Li et.al.|[2411.18588](http://arxiv.org/abs/2411.18588)|null|
 |**2024-11-27**|**Complexity Experts are Task-Discriminative Learners for Any Image Restoration**|Eduard Zamfir et.al.|[2411.18466](http://arxiv.org/abs/2411.18466)|null|
@@ -8834,7 +8834,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-02**|**EmojiDiff: Advanced Facial Expression Control with High Identity Preservation in Portrait Generation**|Liangwei Jiang et.al.|[2412.01254](http://arxiv.org/abs/2412.01254)|null|
 |**2024-12-04**|**FLOAT: Generative Motion Latent Flow Matching for Audio-driven Talking Portrait**|Taekyung Ki et.al.|[2412.01064](http://arxiv.org/abs/2412.01064)|null|
-|**2024-12-01**|**Hallo3: Highly Dynamic and Realistic Portrait Image Animation with Diffusion Transformer Networks**|Jiahao Cui et.al.|[2412.00733](http://arxiv.org/abs/2412.00733)|**[link](https://github.com/fudan-generative-vision/hallo3)**|
+|**2024-12-05**|**Hallo3: Highly Dynamic and Realistic Portrait Image Animation with Diffusion Transformer Networks**|Jiahao Cui et.al.|[2412.00733](http://arxiv.org/abs/2412.00733)|**[link](https://github.com/fudan-generative-vision/hallo3)**|
 |**2024-11-29**|**LokiTalk: Learning Fine-Grained and Generalizable Correspondences to Enhance NeRF-based Talking Head Synthesis**|Tianqi Li et.al.|[2411.19525](http://arxiv.org/abs/2411.19525)|null|
 |**2024-11-28**|**Kirchhoff's analogy for a planar ferromagnetic rod**|G. R. Krishna Chand Avatar et.al.|[2411.19270](http://arxiv.org/abs/2411.19270)|null|
 |**2024-11-25**|**Edit Away and My Face Will not Stay: Personal Biometric Defense against Malicious Generative Editing**|Hanhui Wang et.al.|[2411.16832](http://arxiv.org/abs/2411.16832)|**[link](https://github.com/taco-group/facelock)**|

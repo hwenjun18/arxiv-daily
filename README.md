@@ -51,6 +51,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-10**|**StyleMaster: Stylize Your Video with Artistic Generation and Translation**|Zixuan Ye et.al.|[2412.07744](http://arxiv.org/abs/2412.07744)|null|
+|**2024-12-10**|**Fine-grained Text to Image Synthesis**|Xu Ouyang et.al.|[2412.07196](http://arxiv.org/abs/2412.07196)|null|
+|**2024-12-10**|**A Step towards Automated and Generalizable Tactile Map Generation using Generative Adversarial Networks**|David G Hobson et.al.|[2412.07191](http://arxiv.org/abs/2412.07191)|null|
+|**2024-12-10**|**StyleMark: A Robust Watermarking Method for Art Style Images Against Black-Box Arbitrary Style Transfer**|Yunming Zhang et.al.|[2412.07129](http://arxiv.org/abs/2412.07129)|null|
+|**2024-12-10**|**A Review of Human Emotion Synthesis Based on Generative Technology**|Fei Ma et.al.|[2412.07116](http://arxiv.org/abs/2412.07116)|null|
+|**2024-12-10**|**Creative Portraiture: Exploring Creative Adversarial Networks and Conditional Creative Adversarial Networks**|Sebastian Hereu et.al.|[2412.07091](http://arxiv.org/abs/2412.07091)|null|
+|**2024-12-09**|**Enhancing operational wind downscaling capabilities over Canada: Application of a Conditional Wasserstein GAN methodology**|Jorge Guevara et.al.|[2412.06958](http://arxiv.org/abs/2412.06958)|null|
 |**2024-12-09**|**Echocardiography to Cardiac MRI View Transformation for Real-Time Blind Restoration**|Ilke Adalioglu et.al.|[2412.06445](http://arxiv.org/abs/2412.06445)|null|
 |**2024-12-09**|**Exploring the Impact of Synthetic Data on Human Gesture Recognition Tasks Using GANs**|George Kontogiannis et.al.|[2412.06389](http://arxiv.org/abs/2412.06389)|null|
 |**2024-12-07**|**A Tiered GAN Approach for Monet-Style Image Generation**|FNU Neha et.al.|[2412.05724](http://arxiv.org/abs/2412.05724)|null|
@@ -1927,6 +1934,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-10**|**Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets**|Zhen Liu et.al.|[2412.07775](http://arxiv.org/abs/2412.07775)|null|
+|**2024-12-10**|**From Slow Bidirectional to Fast Causal Video Generators**|Tianwei Yin et.al.|[2412.07772](http://arxiv.org/abs/2412.07772)|null|
+|**2024-12-10**|**Make-A-Texture: Fast Shape-Aware Texture Generation in 3 Seconds**|Xiaoyu Xiang et.al.|[2412.07766](http://arxiv.org/abs/2412.07766)|null|
+|**2024-12-10**|**Repurposing Pre-trained Video Diffusion Models for Event-based Video Interpolation**|Jingxi Chen et.al.|[2412.07761](http://arxiv.org/abs/2412.07761)|null|
+|**2024-12-10**|**SynCamMaster: Synchronizing Multi-Camera Video Generation from Diverse Viewpoints**|Jianhong Bai et.al.|[2412.07760](http://arxiv.org/abs/2412.07760)|**[link](https://github.com/kwaivgi/syncammaster)**|
+|**2024-12-10**|**Multi-Shot Character Consistency for Text-to-Video Generation**|Yuval Atzmon et.al.|[2412.07750](http://arxiv.org/abs/2412.07750)|null|
+|**2024-12-10**|**FiVA: Fine-grained Visual Attribute Dataset for Text-to-Image Diffusion Models**|Tong Wu et.al.|[2412.07674](http://arxiv.org/abs/2412.07674)|null|
+|**2024-12-10**|**TraSCE: Trajectory Steering for Concept Erasure**|Anubhav Jain et.al.|[2412.07658](http://arxiv.org/abs/2412.07658)|null|
+|**2024-12-10**|**Motion Artifact Removal in Pixel-Frequency Domain via Alternate Masks and Diffusion Model**|Jiahua Xu et.al.|[2412.07590](http://arxiv.org/abs/2412.07590)|**[link](https://github.com/medcx/PFAD)**|
+|**2024-12-10**|**DiffSensei: Bridging Multi-Modal LLMs and Diffusion Models for Customized Manga Generation**|Jianzong Wu et.al.|[2412.07589](http://arxiv.org/abs/2412.07589)|null|
+|**2024-12-10**|**Mobile Video Diffusion**|Haitam Ben Yahia et.al.|[2412.07583](http://arxiv.org/abs/2412.07583)|null|
+|**2024-12-10**|**Parallel simulation for sampling under isoperimetry and score-based diffusion models**|Huanjian Zhou et.al.|[2412.07435](http://arxiv.org/abs/2412.07435)|null|
+|**2024-12-10**|**Non-Progressive Influence Maximization in Dynamic Social Networks**|Yunming Hui et.al.|[2412.07402](http://arxiv.org/abs/2412.07402)|null|
+|**2024-12-10**|**Fusion Embedding for Pose-Guided Person Image Synthesis with Diffusion Model**|Donghwna Lee et.al.|[2412.07333](http://arxiv.org/abs/2412.07333)|null|
+|**2024-12-10**|**AppGen: Mobility-aware App Usage Behavior Generation for Mobile Users**|Zihan Huang et.al.|[2412.07267](http://arxiv.org/abs/2412.07267)|null|
+|**2024-12-10**|**Optimization Can Learn Johnson Lindenstrauss Embeddings**|Nikos Tsikouras et.al.|[2412.07242](http://arxiv.org/abs/2412.07242)|null|
+|**2024-12-10**|**Hero-SR: One-Step Diffusion for Super-Resolution with Human Perception Priors**|Jiangang Wang et.al.|[2412.07152](http://arxiv.org/abs/2412.07152)|null|
+|**2024-12-10**|**RAP-SR: RestorAtion Prior Enhancement in Diffusion Models for Realistic Image Super-Resolution**|Jiangang Wang et.al.|[2412.07149](http://arxiv.org/abs/2412.07149)|null|
+|**2024-12-10**|**FIRE: Robust Detection of Diffusion-Generated Images via Frequency-Guided Reconstruction Error**|Beilin Chu et.al.|[2412.07140](http://arxiv.org/abs/2412.07140)|null|
+|**2024-12-10**|**A Review of Human Emotion Synthesis Based on Generative Technology**|Fei Ma et.al.|[2412.07116](http://arxiv.org/abs/2412.07116)|null|
 |**2024-12-09**|**[MASK] is All You Need**|Vincent Tao Hu et.al.|[2412.06787](http://arxiv.org/abs/2412.06787)|**[link](https://github.com/CompVis/mask)**|
 |**2024-12-09**|**Tactile DreamFusion: Exploiting Tactile Sensing for 3D Generation**|Ruihan Gao et.al.|[2412.06785](http://arxiv.org/abs/2412.06785)|**[link](https://github.com/ruihangao/tactiledreamfusion)**|
 |**2024-12-09**|**Diverse Score Distillation**|Yanbo Xu et.al.|[2412.06780](http://arxiv.org/abs/2412.06780)|null|
@@ -7511,6 +7538,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-10**|**Modeling Dual-Exposure Quad-Bayer Patterns for Joint Denoising and Deblurring**|Yuzhi Zhao et.al.|[2412.07256](http://arxiv.org/abs/2412.07256)|**[link](https://github.com/zhaoyuzhi/qrnet)**|
+|**2024-12-10**|**EchoIR: Advancing Image Restoration with Echo Upsampling and Bi-Level Optimization**|Yuhan He et.al.|[2412.07225](http://arxiv.org/abs/2412.07225)|null|
+|**2024-12-10**|**A Progressive Image Restoration Network for High-order Degradation Imaging in Remote Sensing**|Yujie Feng et.al.|[2412.07195](http://arxiv.org/abs/2412.07195)|null|
 |**2024-12-09**|**InstantRestore: Single-Step Personalized Face Restoration with Shared-Image Attention**|Howard Zhang et.al.|[2412.06753](http://arxiv.org/abs/2412.06753)|null|
 |**2024-12-09**|**PrEditor3D: Fast and Precise 3D Shape Editing**|Ziya Erkoç et.al.|[2412.06592](http://arxiv.org/abs/2412.06592)|null|
 |**2024-12-09**|**MoViE: Mobile Diffusion for Video Editing**|Adil Karjauv et.al.|[2412.06578](http://arxiv.org/abs/2412.06578)|null|
@@ -8946,6 +8976,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-10**|**Ultra-compact Objects of Non-minimally Coupled Dark Matter**|Francesco Benetti et.al.|[2412.07533](http://arxiv.org/abs/2412.07533)|null|
+|**2024-12-10**|**Creative Portraiture: Exploring Creative Adversarial Networks and Conditional Creative Adversarial Networks**|Sebastian Hereu et.al.|[2412.07091](http://arxiv.org/abs/2412.07091)|null|
 |**2024-12-05**|**The Census-Stub Graph Invariant Descriptor**|Matt I. B. Oddo et.al.|[2412.04582](http://arxiv.org/abs/2412.04582)|null|
 |**2024-12-05**|**MEMO: Memory-Guided Diffusion for Expressive Talking Video Generation**|Longtao Zheng et.al.|[2412.04448](http://arxiv.org/abs/2412.04448)|null|
 |**2024-12-05**|**INFP: Audio-Driven Interactive Head Generation in Dyadic Conversations**|Yongming Zhu et.al.|[2412.04037](http://arxiv.org/abs/2412.04037)|null|

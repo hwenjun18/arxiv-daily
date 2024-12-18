@@ -39,17 +39,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**A New Adversarial Perspective for LiDAR-based 3D Object Detection**|Shijun Zheng et.al.|[2412.13017](http://arxiv.org/abs/2412.13017)|null|
+|**2024-12-17**|**Progressive Monitoring of Generative Model Training Evolution**|Vidya Prasad et.al.|[2412.12755](http://arxiv.org/abs/2412.12755)|null|
+|**2024-12-17**|**Addressing Small and Imbalanced Medical Image Datasets Using Generative Models: A Comparative Study of DDPM and PGGANs with Random and Greedy K Sampling**|Iman Khazrak et.al.|[2412.12532](http://arxiv.org/abs/2412.12532)|**[link](https://github.com/imankhazrak/DDPM_X-Ray)**|
 |**2024-12-16**|**Ensemble Learning and 3D Pix2Pix for Comprehensive Brain Tumor Analysis in Multimodal MRI**|Ramy A. Zeineldin et.al.|[2412.11849](http://arxiv.org/abs/2412.11849)|null|
 |**2024-12-16**|**Multilingual and Explainable Text Detoxification with Parallel Corpora**|Daryna Dementieva et.al.|[2412.11691](http://arxiv.org/abs/2412.11691)|**[link](https://github.com/textdetox/multilingual_explainable_paradetox)**|
 |**2024-12-16**|**Scaled Conjugate Gradient Method for Nonconvex Optimization in Deep Neural Networks**|Naoki Sato et.al.|[2412.11400](http://arxiv.org/abs/2412.11400)|null|
-|**2024-12-16**|**Adapting Segment Anything Model (SAM) to Experimental Datasets via Fine-Tuning on GAN-based Simulation: A Case Study in Additive Manufacturing**|Anika Tabassum et.al.|[2412.11381](http://arxiv.org/abs/2412.11381)|null|
+|**2024-12-16**|**Adapting Segment Anything Model (SAM) to Experimental Datasets via Fine-Tuning on GAN-based Simulation: A Case Study in Additive Manufacturing**|Anika Tabassum et.al.|[2412.11381](http://arxiv.org/abs/2412.11381)|**[link](https://github.com/anikat1/sam-material-gan)**|
 |**2024-12-15**|**Grassmannian Geometry Meets Dynamic Mode Decomposition in DMD-GEN: A New Metric for Mode Collapse in Time Series Generative Models**|Amime Mohamed Aboussalah et.al.|[2412.11292](http://arxiv.org/abs/2412.11292)|null|
 |**2024-12-15**|**Macro2Micro: Cross-modal Magnetic Resonance Imaging Synthesis Leveraging Multi-scale Brain Structures**|Sooyoung Kim et.al.|[2412.11277](http://arxiv.org/abs/2412.11277)|null|
-|**2024-12-15**|**Unpaired Multi-Domain Histopathology Virtual Staining using Dual Path Prompted Inversion**|Bing Xiong et.al.|[2412.11106](http://arxiv.org/abs/2412.11106)|null|
+|**2024-12-15**|**Unpaired Multi-Domain Histopathology Virtual Staining using Dual Path Prompted Inversion**|Bing Xiong et.al.|[2412.11106](http://arxiv.org/abs/2412.11106)|**[link](https://github.com/DianaNerualNetwork/StainPromptInversion)**|
 |**2024-12-14**|**Generative AI: A Pix2pix-GAN-Based Machine Learning Approach for Robust and Efficient Lung Segmentation**|Sharmin Akter et.al.|[2412.10826](http://arxiv.org/abs/2412.10826)|null|
 |**2024-12-14**|**Control of Overfitting with Physics**|Sergei V. Kozyrev et.al.|[2412.10716](http://arxiv.org/abs/2412.10716)|null|
 |**2024-12-13**|**FaceShield: Defending Facial Image against Deepfake Threats**|Jaehwan Jeong et.al.|[2412.09921](http://arxiv.org/abs/2412.09921)|null|
-|**2024-12-13**|**ProxyLLM : LLM-Driven Framework for Customer Support Through Text-Style Transfer**|Sehyeong Jo et.al.|[2412.09916](http://arxiv.org/abs/2412.09916)|null|
+|**2024-12-17**|**ProxyLLM : LLM-Driven Framework for Customer Support Through Text-Style Transfer**|Sehyeong Jo et.al.|[2412.09916](http://arxiv.org/abs/2412.09916)|null|
 |**2024-12-13**|**T-GMSI: A transformer-based generative model for spatial interpolation under sparse measurements**|Xiangxi Tian et.al.|[2412.09886](http://arxiv.org/abs/2412.09886)|null|
 |**2024-12-12**|**Transfer Learning of RSSI to Improve Indoor Localisation Performance**|Thanaphon Suwannaphong et.al.|[2412.09292](http://arxiv.org/abs/2412.09292)|**[link](https://github.com/AloeUoB/RSSI_GAN)**|
 |**2024-12-17**|**DASK: Distribution Rehearsing via Adaptive Style Kernel Learning for Exemplar-Free Lifelong Person Re-Identification**|Kunlun Xu et.al.|[2412.09224](http://arxiv.org/abs/2412.09224)|null|
@@ -1937,6 +1940,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**CoMPaSS: Enhancing Spatial Understanding in Text-to-Image Diffusion Models**|Gaoyang Zhang et.al.|[2412.13195](http://arxiv.org/abs/2412.13195)|**[link](https://github.com/blurgyy/compass)**|
+|**2024-12-17**|**StreetCrafter: Street View Synthesis with Controllable Video Diffusion Models**|Yunzhi Yan et.al.|[2412.13188](http://arxiv.org/abs/2412.13188)|null|
+|**2024-12-17**|**Move-in-2D: 2D-Conditioned Human Motion Generation**|Hsin-Ping Huang et.al.|[2412.13185](http://arxiv.org/abs/2412.13185)|null|
+|**2024-12-17**|**Prompt Augmentation for Self-supervised Text-guided Image Manipulation**|Rumeysa Bodur et.al.|[2412.13081](http://arxiv.org/abs/2412.13081)|null|
+|**2024-12-17**|**3D MedDiffusion: A 3D Medical Diffusion Model for Controllable and High-quality Medical Image Generation**|Haoshen Wang et.al.|[2412.13059](http://arxiv.org/abs/2412.13059)|null|
+|**2024-12-17**|**Attentive Eraser: Unleashing Diffusion Model's Object Removal Potential via Self-Attention Redirection Guidance**|Wenhao Sun et.al.|[2412.12974](http://arxiv.org/abs/2412.12974)|**[link](https://github.com/anonym0u3/attentiveeraser)**|
+|**2024-12-17**|**ArchesWeather & ArchesWeatherGen: a deterministic and generative model for efficient ML weather forecasting**|Guillaume Couairon et.al.|[2412.12971](http://arxiv.org/abs/2412.12971)|**[link](https://github.com/inria/geoarches)**|
+|**2024-12-17**|**Generation of cosmic ray trajectories by a Diffusion Model trained on test particles in 3D magnetohydrodynamic turbulence**|Johannes Martin et.al.|[2412.12923](http://arxiv.org/abs/2412.12923)|null|
+|**2024-12-17**|**Unsupervised Region-Based Image Editing of Denoising Diffusion Models**|Zixiang Li et.al.|[2412.12912](http://arxiv.org/abs/2412.12912)|null|
+|**2024-12-17**|**ArtAug: Enhancing Text-to-Image Generation through Synthesis-Understanding Interaction**|Zhongjie Duan et.al.|[2412.12888](http://arxiv.org/abs/2412.12888)|**[link](https://github.com/modelscope/DiffSynth-Studio)**|
+|**2024-12-17**|**Rethinking Diffusion-Based Image Generators for Fundus Fluorescein Angiography Synthesis on Limited Data**|Chengzhou Yu et.al.|[2412.12778](http://arxiv.org/abs/2412.12778)|null|
+|**2024-12-17**|**Guided and Variance-Corrected Fusion with One-shot Style Alignment for Large-Content Image Generation**|Shoukun Sun et.al.|[2412.12771](http://arxiv.org/abs/2412.12771)|null|
+|**2024-12-17**|**Towards a Training Free Approach for 3D Scene Editing**|Vivek Madhavaram et.al.|[2412.12766](http://arxiv.org/abs/2412.12766)|null|
+|**2024-12-17**|**RDPI: A Refine Diffusion Probability Generation Method for Spatiotemporal Data Imputation**|Zijin Liu et.al.|[2412.12642](http://arxiv.org/abs/2412.12642)|**[link](https://github.com/liuzjin/RDPI)**|
+|**2024-12-17**|**A Simple and Efficient Baseline for Zero-Shot Generative Classification**|Zipeng Qi et.al.|[2412.12594](http://arxiv.org/abs/2412.12594)|null|
+|**2024-12-17**|**Consistent Diffusion: Denoising Diffusion Model with Data-Consistent Training for Image Restoration**|Xinlong Cheng et.al.|[2412.12550](http://arxiv.org/abs/2412.12550)|null|
+|**2024-12-17**|**Stiefel Flow Matching for Moment-Constrained Structure Elucidation**|Austin Cheng et.al.|[2412.12540](http://arxiv.org/abs/2412.12540)|null|
+|**2024-12-17**|**Pattern Analogies: Learning to Perform Programmatic Image Edits by Analogy**|Aditya Ganeshan et.al.|[2412.12463](http://arxiv.org/abs/2412.12463)|null|
+|**2024-12-16**|**DeepSN: A Sheaf Neural Framework for Influence Maximization**|Asela Hevapathige et.al.|[2412.12416](http://arxiv.org/abs/2412.12416)|null|
+|**2024-12-16**|**OmniPrism: Learning Disentangled Visual Concept for Image Generation**|Yangyang Li et.al.|[2412.12242](http://arxiv.org/abs/2412.12242)|null|
 |**2024-12-16**|**Causal Diffusion Transformers for Generative Modeling**|Chaorui Deng et.al.|[2412.12095](http://arxiv.org/abs/2412.12095)|**[link](https://github.com/causalfusion/causalfusion)**|
 |**2024-12-16**|**CAP4D: Creating Animatable 4D Portrait Avatars with Morphable Multi-View Diffusion Models**|Felix Taubner et.al.|[2412.12093](http://arxiv.org/abs/2412.12093)|null|
 |**2024-12-16**|**Wonderland: Navigating 3D Scenes from a Single Image**|Hanwen Liang et.al.|[2412.12091](http://arxiv.org/abs/2412.12091)|null|
@@ -7618,6 +7641,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**Prompt Augmentation for Self-supervised Text-guided Image Manipulation**|Rumeysa Bodur et.al.|[2412.13081](http://arxiv.org/abs/2412.13081)|null|
+|**2024-12-17**|**Unsupervised Region-Based Image Editing of Denoising Diffusion Models**|Zixiang Li et.al.|[2412.12912](http://arxiv.org/abs/2412.12912)|null|
+|**2024-12-17**|**Consistent Diffusion: Denoising Diffusion Model with Data-Consistent Training for Image Restoration**|Xinlong Cheng et.al.|[2412.12550](http://arxiv.org/abs/2412.12550)|null|
+|**2024-12-17**|**Pattern Analogies: Learning to Perform Programmatic Image Edits by Analogy**|Aditya Ganeshan et.al.|[2412.12463](http://arxiv.org/abs/2412.12463)|null|
 |**2024-12-15**|**Dual-Schedule Inversion: Training- and Tuning-Free Inversion for Real Image Editing**|Jiancheng Huang et.al.|[2412.11152](http://arxiv.org/abs/2412.11152)|null|
 |**2024-12-15**|**Towards Context-aware Convolutional Network for Image Restoration**|Fangwei Hao et.al.|[2412.11008](http://arxiv.org/abs/2412.11008)|null|
 |**2024-12-14**|**Boosting ViT-based MRI Reconstruction from the Perspectives of Frequency Modulation, Spatial Purification, and Scale Diversification**|Yucong Meng et.al.|[2412.10776](http://arxiv.org/abs/2412.10776)|null|
@@ -7629,7 +7656,7 @@ layout: default
 |**2024-12-12**|**OFTSR: One-Step Flow for Image Super-Resolution with Tunable Fidelity-Realism Trade-offs**|Yuanzhi Zhu et.al.|[2412.09465](http://arxiv.org/abs/2412.09465)|**[link](https://github.com/yuanzhi-zhu/oftsr)**|
 |**2024-12-13**|**Are Conditional Latent Diffusion Models Effective for Image Restoration?**|Yunchen Yuan et.al.|[2412.09324](http://arxiv.org/abs/2412.09324)|null|
 |**2024-12-12**|**ExpRDiff: Short-exposure Guided Diffusion Model for Realistic Local Motion Deblurring**|Zhongbao Yang et.al.|[2412.09193](http://arxiv.org/abs/2412.09193)|null|
-|**2024-12-17**|**Dynamic Contrastive Knowledge Distillation for Efficient Image Restoration**|Yunshuai Zhou et.al.|[2412.08939](http://arxiv.org/abs/2412.08939)|null|
+|**2024-12-17**|**Dynamic Contrastive Knowledge Distillation for Efficient Image Restoration**|Yunshuai Zhou et.al.|[2412.08939](http://arxiv.org/abs/2412.08939)|**[link](https://github.com/super-SSS/DCKD)**|
 |**2024-12-11**|**SegFace: Face Segmentation of Long-Tail Classes**|Kartik Narayan et.al.|[2412.08647](http://arxiv.org/abs/2412.08647)|**[link](https://github.com/kartik-3004/segface)**|
 |**2024-12-11**|**Convergence Analysis of a Proximal Stochastic Denoising Regularization Algorithm**|Marien Renaud et.al.|[2412.08262](http://arxiv.org/abs/2412.08262)|null|
 |**2024-12-10**|**Modeling Dual-Exposure Quad-Bayer Patterns for Joint Denoising and Deblurring**|Yuzhi Zhao et.al.|[2412.07256](http://arxiv.org/abs/2412.07256)|**[link](https://github.com/zhaoyuzhi/qrnet)**|

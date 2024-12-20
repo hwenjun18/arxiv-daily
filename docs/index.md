@@ -39,6 +39,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-19**|**Generative AI for Banks: Benchmarks and Algorithms for Synthetic Financial Transaction Data**|Fabian Sven Karst et.al.|[2412.14730](http://arxiv.org/abs/2412.14730)|**[link](https://github.com/faruman/comparison_financialdatageneration)**|
+|**2024-12-19**|**Dynamic User Interface Generation for Enhanced Human-Computer Interaction Using Variational Autoencoders**|Runsheng Zhang et.al.|[2412.14521](http://arxiv.org/abs/2412.14521)|null|
+|**2024-12-18**|**Distilled Pooling Transformer Encoder for Efficient Realistic Image Dehazing**|Le-Anh Tran et.al.|[2412.14220](http://arxiv.org/abs/2412.14220)|**[link](https://github.com/tranleanh/dpte-net)**|
 |**2024-12-18**|**Super-Resolution Generative Adversarial Network for Data Compression of Direct Numerical Simulations**|Ludovico Nista et.al.|[2412.14150](http://arxiv.org/abs/2412.14150)|null|
 |**2024-12-18**|**Hybrid Data-Free Knowledge Distillation**|Jialiang Tang et.al.|[2412.13525](http://arxiv.org/abs/2412.13525)|**[link](https://github.com/tangjialiang97/hidfd)**|
 |**2024-12-17**|**A New Adversarial Perspective for LiDAR-based 3D Object Detection**|Shijun Zheng et.al.|[2412.13017](http://arxiv.org/abs/2412.13017)|null|
@@ -54,7 +57,7 @@ layout: default
 |**2024-12-14**|**Generative AI: A Pix2pix-GAN-Based Machine Learning Approach for Robust and Efficient Lung Segmentation**|Sharmin Akter et.al.|[2412.10826](http://arxiv.org/abs/2412.10826)|null|
 |**2024-12-14**|**Control of Overfitting with Physics**|Sergei V. Kozyrev et.al.|[2412.10716](http://arxiv.org/abs/2412.10716)|null|
 |**2024-12-13**|**FaceShield: Defending Facial Image against Deepfake Threats**|Jaehwan Jeong et.al.|[2412.09921](http://arxiv.org/abs/2412.09921)|null|
-|**2024-12-17**|**ProxyLLM : LLM-Driven Framework for Customer Support Through Text-Style Transfer**|Sehyeong Jo et.al.|[2412.09916](http://arxiv.org/abs/2412.09916)|null|
+|**2024-12-17**|**ProxyLLM : LLM-Driven Framework for Customer Support Through Text-Style Transfer**|Sehyeong Jo et.al.|[2412.09916](http://arxiv.org/abs/2412.09916)|**[link](https://github.com/sayjoupstack/Proxy-LLM)**|
 |**2024-12-13**|**T-GMSI: A transformer-based generative model for spatial interpolation under sparse measurements**|Xiangxi Tian et.al.|[2412.09886](http://arxiv.org/abs/2412.09886)|null|
 |**2024-12-12**|**Transfer Learning of RSSI to Improve Indoor Localisation Performance**|Thanaphon Suwannaphong et.al.|[2412.09292](http://arxiv.org/abs/2412.09292)|**[link](https://github.com/AloeUoB/RSSI_GAN)**|
 |**2024-12-17**|**DASK: Distribution Rehearsing via Adaptive Style Kernel Learning for Exemplar-Free Lifelong Person Re-Identification**|Kunlun Xu et.al.|[2412.09224](http://arxiv.org/abs/2412.09224)|null|
@@ -1942,6 +1945,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-19**|**LeviTor: 3D Trajectory Oriented Image-to-Video Synthesis**|Hanlin Wang et.al.|[2412.15214](http://arxiv.org/abs/2412.15214)|null|
+|**2024-12-19**|**Flowing from Words to Pixels: A Framework for Cross-Modality Evolution**|Qihao Liu et.al.|[2412.15213](http://arxiv.org/abs/2412.15213)|null|
+|**2024-12-19**|**Generative Multiview Relighting for 3D Reconstruction under Extreme Illumination Variation**|Hadi Alzayer et.al.|[2412.15211](http://arxiv.org/abs/2412.15211)|null|
+|**2024-12-19**|**AV-Link: Temporally-Aligned Diffusion Features for Cross-Modal Audio-Video Generation**|Moayed Haji-Ali et.al.|[2412.15191](http://arxiv.org/abs/2412.15191)|null|
+|**2024-12-19**|**Tiled Diffusion**|Or Madar et.al.|[2412.15185](http://arxiv.org/abs/2412.15185)|null|
+|**2024-12-19**|**OnlineVPO: Align Video Diffusion Model with Online Video-Centric Preference Optimization**|Jiacheng Zhang et.al.|[2412.15159](http://arxiv.org/abs/2412.15159)|null|
+|**2024-12-19**|**Prompt-A-Video: Prompt Your Video Diffusion Model via Preference-Aligned LLM**|Yatai Ji et.al.|[2412.15156](http://arxiv.org/abs/2412.15156)|**[link](https://github.com/jiyt17/prompt-a-video)**|
+|**2024-12-19**|**Jet: A Modern Transformer-Based Normalizing Flow**|Alexander Kolesnikov et.al.|[2412.15129](http://arxiv.org/abs/2412.15129)|null|
+|**2024-12-19**|**Uni-Renderer: Unifying Rendering and Inverse Rendering Via Dual Stream Diffusion**|Zhifei Chen et.al.|[2412.15050](http://arxiv.org/abs/2412.15050)|null|
+|**2024-12-19**|**DCTdiff: Intriguing Properties of Image Generative Modeling in the DCT Space**|Mang Ning et.al.|[2412.15032](http://arxiv.org/abs/2412.15032)|**[link](https://github.com/forever208/dctdiff)**|
+|**2024-12-19**|**Stable-V2A: Synthesis of Synchronized Sound Effects with Temporal and Semantic Controls**|Riccardo Fosco Gramaccioni et.al.|[2412.15023](http://arxiv.org/abs/2412.15023)|null|
+|**2024-12-19**|**MagicNaming: Consistent Identity Generation by Finding a "Name Space" in T2I Diffusion Models**|Jing Zhao et.al.|[2412.14902](http://arxiv.org/abs/2412.14902)|null|
+|**2024-12-19**|**Diffusion priors for Bayesian 3D reconstruction from incomplete measurements**|Julian L. Möbius et.al.|[2412.14897](http://arxiv.org/abs/2412.14897)|null|
+|**2024-12-19**|**Generative CKM Construction using Partially Observed Data with Diffusion Model**|Shen Fu et.al.|[2412.14812](http://arxiv.org/abs/2412.14812)|null|
+|**2024-12-19**|**Video Prediction Policy: A Generalist Robot Policy with Predictive Visual Representations**|Yucheng Hu et.al.|[2412.14803](http://arxiv.org/abs/2412.14803)|null|
+|**2024-12-19**|**EnergyMoGen: Compositional Human Motion Generation with Energy-Based Diffusion Model in Latent Space**|Jianrong Zhang et.al.|[2412.14706](http://arxiv.org/abs/2412.14706)|null|
+|**2024-12-19**|**Event-assisted 12-stop HDR Imaging of Dynamic Scene**|Shi Guo et.al.|[2412.14705](http://arxiv.org/abs/2412.14705)|null|
+|**2024-12-19**|**Unified Image Restoration and Enhancement: Degradation Calibrated Cycle Reconstruction Diffusion Model**|Minglong Xue et.al.|[2412.14630](http://arxiv.org/abs/2412.14630)|**[link](https://github.com/hejh8/cyclerdm)**|
+|**2024-12-19**|**Qua $^2$ SeDiMo: Quantifiable Quantization Sensitivity of Diffusion Models**|Keith G. Mills et.al.|[2412.14628](http://arxiv.org/abs/2412.14628)|null|
+|**2024-12-19**|**LDP: Generalizing to Multilingual Visual Information Extraction by Language Decoupled Pretraining**|Huawen Shen et.al.|[2412.14596](http://arxiv.org/abs/2412.14596)|null|
 |**2024-12-18**|**AniDoc: Animation Creation Made Easier**|Yihao Meng et.al.|[2412.14173](http://arxiv.org/abs/2412.14173)|null|
 |**2024-12-19**|**E-CAR: Efficient Continuous Autoregressive Image Generation via Multistage Modeling**|Zhihang Yuan et.al.|[2412.14170](http://arxiv.org/abs/2412.14170)|null|
 |**2024-12-18**|**Autoregressive Video Generation without Vector Quantization**|Haoge Deng et.al.|[2412.14169](http://arxiv.org/abs/2412.14169)|**[link](https://github.com/baaivision/nova)**|
@@ -7663,6 +7686,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-19**|**UIP2P: Unsupervised Instruction-based Image Editing via Cycle Edit Consistency**|Enis Simsar et.al.|[2412.15216](http://arxiv.org/abs/2412.15216)|null|
+|**2024-12-19**|**Unified Image Restoration and Enhancement: Degradation Calibrated Cycle Reconstruction Diffusion Model**|Minglong Xue et.al.|[2412.14630](http://arxiv.org/abs/2412.14630)|**[link](https://github.com/hejh8/cyclerdm)**|
+|**2024-12-19**|**Affordance-Aware Object Insertion via Mask-Aware Dual Diffusion**|Jixuan He et.al.|[2412.14462](http://arxiv.org/abs/2412.14462)|**[link](https://github.com/kakituken/affordance-aware-any)**|
+|**2024-12-18**|**Personalized Generative Low-light Image Denoising and Enhancement**|Xijun Wang et.al.|[2412.14327](http://arxiv.org/abs/2412.14327)|null|
+|**2024-12-18**|**Distilled Pooling Transformer Encoder for Efficient Realistic Image Dehazing**|Le-Anh Tran et.al.|[2412.14220](http://arxiv.org/abs/2412.14220)|**[link](https://github.com/tranleanh/dpte-net)**|
 |**2024-12-18**|**Text2Relight: Creative Portrait Relighting with Text Guidance**|Junuk Cha et.al.|[2412.13734](http://arxiv.org/abs/2412.13734)|null|
 |**2024-12-18**|**DarkIR: Robust Low-Light Image Restoration**|Daniel Feijoo et.al.|[2412.13443](http://arxiv.org/abs/2412.13443)|null|
 |**2024-12-17**|**Prompt Augmentation for Self-supervised Text-guided Image Manipulation**|Rumeysa Bodur et.al.|[2412.13081](http://arxiv.org/abs/2412.13081)|null|
@@ -9119,6 +9147,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-18**|**Universality of the Weyl-Heisenberg symmetry and its covariant quantisations**|Jean-Pierre Gazeau et.al.|[2412.14227](http://arxiv.org/abs/2412.14227)|null|
 |**2024-12-18**|**Text2Relight: Creative Portrait Relighting with Text Guidance**|Junuk Cha et.al.|[2412.13734](http://arxiv.org/abs/2412.13734)|null|
 |**2024-12-18**|**Real-time One-Step Diffusion-based Expressive Portrait Videos Generation**|Hanzhong Guo et.al.|[2412.13479](http://arxiv.org/abs/2412.13479)|null|
 |**2024-12-16**|**CAP4D: Creating Animatable 4D Portrait Avatars with Morphable Multi-View Diffusion Models**|Felix Taubner et.al.|[2412.12093](http://arxiv.org/abs/2412.12093)|null|

@@ -39,6 +39,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-22**|**Style Transfer Dataset: What Makes A Good Stylization?**|Victor Kitov et.al.|[2412.17139](http://arxiv.org/abs/2412.17139)|null|
+|**2024-12-22**|**DTSGAN: Learning Dynamic Textures via Spatiotemporal Generative Adversarial Network**|Xiangtian Li et.al.|[2412.16948](http://arxiv.org/abs/2412.16948)|null|
+|**2024-12-21**|**Optoelectronic generative adversarial networks**|Jumin Qiu et.al.|[2412.16672](http://arxiv.org/abs/2412.16672)|null|
+|**2024-12-21**|**Adversarial Attack Against Images Classification based on Generative Adversarial Networks**|Yahe Yang et.al.|[2412.16662](http://arxiv.org/abs/2412.16662)|null|
+|**2024-12-21**|**Enhancing Nighttime Vehicle Detection with Day-to-Night Style Transfer and Labeling-Free Augmentation**|Yunxiang Yang et.al.|[2412.16478](http://arxiv.org/abs/2412.16478)|null|
 |**2024-12-20**|**A Thorough Investigation into the Application of Deep CNN for Enhancing Natural Language Processing Capabilities**|Chang Weng et.al.|[2412.15900](http://arxiv.org/abs/2412.15900)|null|
 |**2024-12-20**|**Robustness-enhanced Myoelectric Control with GAN-based Open-set Recognition**|Cheng Wang et.al.|[2412.15819](http://arxiv.org/abs/2412.15819)|null|
 |**2024-12-19**|**Uncertainty Estimation for Super-Resolution using ESRGAN**|Maniraj Sai Adapa et.al.|[2412.15439](http://arxiv.org/abs/2412.15439)|null|
@@ -1949,6 +1954,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-23**|**FaceLift: Single Image to 3D Head with View Generation and GS-LRM**|Weijie Lyu et.al.|[2412.17812](http://arxiv.org/abs/2412.17812)|null|
+|**2024-12-23**|**PepTune: De Novo Generation of Therapeutic Peptides with Multi-Objective-Guided Discrete Diffusion**|Sophia Tang et.al.|[2412.17780](http://arxiv.org/abs/2412.17780)|null|
+|**2024-12-23**|**The Superposition of Diffusion Models Using the Itô Density Estimator**|Marta Skreta et.al.|[2412.17762](http://arxiv.org/abs/2412.17762)|null|
+|**2024-12-23**|**A Bias-Free Training Paradigm for More General AI-generated Image Detection**|Fabrizio Guillaro et.al.|[2412.17671](http://arxiv.org/abs/2412.17671)|null|
+|**2024-12-23**|**Benchmarking Generative AI Models for Deep Learning Test Input Generation**|Maryam et.al.|[2412.17652](http://arxiv.org/abs/2412.17652)|**[link](https://github.com/maryammaryam877/genai_tigs)**|
+|**2024-12-23**|**DreamFit: Garment-Centric Human Generation via a Lightweight Anything-Dressing Encoder**|Ente Lin et.al.|[2412.17644](http://arxiv.org/abs/2412.17644)|null|
+|**2024-12-23**|**Retention Score: Quantifying Jailbreak Risks for Vision Language Models**|Zaitang Li et.al.|[2412.17544](http://arxiv.org/abs/2412.17544)|null|
+|**2024-12-23**|**DiffusionAttacker: Diffusion-Driven Prompt Manipulation for LLM Jailbreak**|Hao Wang et.al.|[2412.17522](http://arxiv.org/abs/2412.17522)|null|
+|**2024-12-23**|**Heterogeneous carrying capacities and global extinction in metapopulations**|Jakub Hesoun et.al.|[2412.17461](http://arxiv.org/abs/2412.17461)|null|
+|**2024-12-23**|**AeroDiT: Diffusion Transformers for Reynolds-Averaged Navier-Stokes Simulations of Airfoil Flows**|Hui Xiang et.al.|[2412.17394](http://arxiv.org/abs/2412.17394)|null|
+|**2024-12-23**|**Singular Value Scaling: Efficient Generative Model Compression via Pruned Weights Refinement**|Hyeonjin Kim et.al.|[2412.17387](http://arxiv.org/abs/2412.17387)|null|
+|**2024-12-23**|**Broadband Ground Motion Synthesis by Diffusion Model with Minimal Condition**|Jaeheun Jung et.al.|[2412.17333](http://arxiv.org/abs/2412.17333)|null|
+|**2024-12-23**|**Free-viewpoint Human Animation with Pose-correlated Reference Selection**|Fa-Ting Hong et.al.|[2412.17290](http://arxiv.org/abs/2412.17290)|null|
+|**2024-12-23**|**Enhancing Multi-Text Long Video Generation Consistency without Tuning: Time-Frequency Analysis, Prompt Alignment, and Theory**|Xingyao Li et.al.|[2412.17254](http://arxiv.org/abs/2412.17254)|null|
+|**2024-12-23**|**OLiDM: Object-aware LiDAR Diffusion Models for Autonomous Driving**|Tianyi Yan et.al.|[2412.17226](http://arxiv.org/abs/2412.17226)|null|
+|**2024-12-23**|**CharGen: High Accurate Character-Level Visual Text Generation Model with MultiModal Encoder**|Lichen Ma et.al.|[2412.17225](http://arxiv.org/abs/2412.17225)|null|
+|**2024-12-23**|**Discriminative Image Generation with Diffusion Models for Zero-Shot Learning**|Dingjie Fu et.al.|[2412.17219](http://arxiv.org/abs/2412.17219)|null|
+|**2024-12-22**|**Generative Diffusion Modeling: A Practical Handbook**|Zihan Ding et.al.|[2412.17162](http://arxiv.org/abs/2412.17162)|null|
+|**2024-12-22**|**Similarity Trajectories: Linking Sampling Process to Artifacts in Diffusion-Generated Images**|Dennis Menn et.al.|[2412.17109](http://arxiv.org/abs/2412.17109)|null|
+|**2024-12-22**|**Adapting Image-to-Video Diffusion Models for Large-Motion Frame Interpolation**|Luoxu Jin et.al.|[2412.17042](http://arxiv.org/abs/2412.17042)|null|
 |**2024-12-20**|**Personalized Representation from Personalized Generation**|Shobhita Sundaram et.al.|[2412.16156](http://arxiv.org/abs/2412.16156)|**[link](https://github.com/ssundaram21/personalized-rep)**|
 |**2024-12-20**|**Predicting human cooperation: sensitizing drift-diffusion model to interaction and external stimuli**|Lucila G. Alvarez-Zuzek et.al.|[2412.16121](http://arxiv.org/abs/2412.16121)|null|
 |**2024-12-20**|**Differentially Private Federated Learning of Diffusion Models for Synthetic Tabular Data Generation**|Timur Sattarov et.al.|[2412.16083](http://arxiv.org/abs/2412.16083)|null|
@@ -7710,6 +7735,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-23**|**The Superposition of Diffusion Models Using the Itô Density Estimator**|Marta Skreta et.al.|[2412.17762](http://arxiv.org/abs/2412.17762)|null|
+|**2024-12-21**|**Optoelectronic generative adversarial networks**|Jumin Qiu et.al.|[2412.16672](http://arxiv.org/abs/2412.16672)|null|
+|**2024-12-20**|**Mapping the Mind of an Instruction-based Image Editing using SMILE**|Zeinab Dehghani et.al.|[2412.16277](http://arxiv.org/abs/2412.16277)|null|
 |**2024-12-20**|**NeuroPump: Simultaneous Geometric and Color Rectification for Underwater Images**|Yue Guo et.al.|[2412.15890](http://arxiv.org/abs/2412.15890)|null|
 |**2024-12-20**|**Multi-dimensional Visual Prompt Enhanced Image Restoration via Mamba-Transformer Aggregation**|Aiwen Jiang et.al.|[2412.15845](http://arxiv.org/abs/2412.15845)|**[link](https://github.com/12138-chr/mtair)**|
 |**2024-12-20**|**Diffusion-Based Conditional Image Editing through Optimized Inference with Guidance**|Hyunsoo Lee et.al.|[2412.15798](http://arxiv.org/abs/2412.15798)|null|
@@ -8807,7 +8835,7 @@ layout: default
 |**2024-12-04**|**SGSST: Scaling Gaussian Splatting StyleTransfer**|Bruno Galerne et.al.|[2412.03371](http://arxiv.org/abs/2412.03371)|**[link](https://github.com/JianlingWANG2021/SGSST)**|
 |**2024-12-02**|**Planar Gaussian Splatting**|Farhad G. Zanjani et.al.|[2412.01931](http://arxiv.org/abs/2412.01931)|null|
 |**2024-12-02**|**HDGS: Textured 2D Gaussian Splatting for Enhanced Scene Rendering**|Yunzhou Song et.al.|[2412.01823](http://arxiv.org/abs/2412.01823)|null|
-|**2024-11-29**|**Ditto: Motion-Space Diffusion for Controllable Realtime Talking Head Synthesis**|Tianqi Li et.al.|[2411.19509](http://arxiv.org/abs/2411.19509)|null|
+|**2024-12-23**|**Ditto: Motion-Space Diffusion for Controllable Realtime Talking Head Synthesis**|Tianqi Li et.al.|[2411.19509](http://arxiv.org/abs/2411.19509)|null|
 |**2024-11-27**|**SpotLight: Shadow-Guided Object Relighting via Diffusion**|Frédéric Fortier-Chouinard et.al.|[2411.18665](http://arxiv.org/abs/2411.18665)|null|
 |**2024-11-25**|**The Radiance of Neural Fields: Democratizing Photorealistic and Dynamic Robotic Simulation**|Georgina Nuthall et.al.|[2411.16940](http://arxiv.org/abs/2411.16940)|null|
 |**2024-11-27**|**SplatAD: Real-Time Lidar and Camera Rendering with 3D Gaussian Splatting for Autonomous Driving**|Georg Hess et.al.|[2411.16816](http://arxiv.org/abs/2411.16816)|**[link](https://github.com/carlinds/splatad)**|
@@ -9174,6 +9202,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-21**|**Stability analysis of the nonlinear pendulums under stochastic perturbations**|Yan Luo et.al.|[2412.16639](http://arxiv.org/abs/2412.16639)|null|
 |**2024-12-18**|**Universality of the Weyl-Heisenberg symmetry and its covariant quantisations**|Jean-Pierre Gazeau et.al.|[2412.14227](http://arxiv.org/abs/2412.14227)|null|
 |**2024-12-18**|**Text2Relight: Creative Portrait Relighting with Text Guidance**|Junuk Cha et.al.|[2412.13734](http://arxiv.org/abs/2412.13734)|null|
 |**2024-12-18**|**Real-time One-Step Diffusion-based Expressive Portrait Videos Generation**|Hanzhong Guo et.al.|[2412.13479](http://arxiv.org/abs/2412.13479)|**[link](https://github.com/Guohanzhong/OSA-LCM)**|
@@ -9191,7 +9220,7 @@ layout: default
 |**2024-12-02**|**EmojiDiff: Advanced Facial Expression Control with High Identity Preservation in Portrait Generation**|Liangwei Jiang et.al.|[2412.01254](http://arxiv.org/abs/2412.01254)|null|
 |**2024-12-04**|**FLOAT: Generative Motion Latent Flow Matching for Audio-driven Talking Portrait**|Taekyung Ki et.al.|[2412.01064](http://arxiv.org/abs/2412.01064)|null|
 |**2024-12-05**|**Hallo3: Highly Dynamic and Realistic Portrait Image Animation with Diffusion Transformer Networks**|Jiahao Cui et.al.|[2412.00733](http://arxiv.org/abs/2412.00733)|**[link](https://github.com/fudan-generative-vision/hallo3)**|
-|**2024-11-29**|**LokiTalk: Learning Fine-Grained and Generalizable Correspondences to Enhance NeRF-based Talking Head Synthesis**|Tianqi Li et.al.|[2411.19525](http://arxiv.org/abs/2411.19525)|null|
+|**2024-12-23**|**LokiTalk: Learning Fine-Grained and Generalizable Correspondences to Enhance NeRF-based Talking Head Synthesis**|Tianqi Li et.al.|[2411.19525](http://arxiv.org/abs/2411.19525)|null|
 |**2024-11-28**|**Kirchhoff's analogy for a planar ferromagnetic rod**|G. R. Krishna Chand Avatar et.al.|[2411.19270](http://arxiv.org/abs/2411.19270)|null|
 |**2024-11-25**|**Edit Away and My Face Will not Stay: Personal Biometric Defense against Malicious Generative Editing**|Hanhui Wang et.al.|[2411.16832](http://arxiv.org/abs/2411.16832)|**[link](https://github.com/taco-group/facelock)**|
 |**2024-11-24**|**LetsTalk: Latent Diffusion Transformer for Talking Video Synthesis**|Haojie Zhang et.al.|[2411.16748](http://arxiv.org/abs/2411.16748)|null|

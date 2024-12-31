@@ -51,6 +51,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-30**|**Redesign Quantum Circuits on Quantum Hardware Device**|Runhong He et.al.|[2412.20893](http://arxiv.org/abs/2412.20893)|null|
+|**2024-12-30**|**Generative Deep Synthesis of MIMO Sensing Waveforms with Desired Transmit Beampattern**|Vesa Saarinen et.al.|[2412.20883](http://arxiv.org/abs/2412.20883)|null|
+|**2024-12-29**|**Protégé: Learn and Generate Basic Makeup Styles with Generative Adversarial Networks (GANs)**|Jia Wei Sii et.al.|[2412.20381](http://arxiv.org/abs/2412.20381)|null|
+|**2024-12-28**|**Comprehensive Review of EEG-to-Output Research: Decoding Neural Signals into Images, Videos, and Audio**|Yashvir Sabharwal et.al.|[2412.19999](http://arxiv.org/abs/2412.19999)|null|
+|**2024-12-25**|**Conditional Balance: Improving Multi-Conditioning Trade-Offs in Image Generation**|Nadav Z. Cohen et.al.|[2412.19853](http://arxiv.org/abs/2412.19853)|null|
+|**2024-12-24**|**A Review of Latent Representation Models in Neuroimaging**|C. Vázquez-García et.al.|[2412.19844](http://arxiv.org/abs/2412.19844)|null|
 |**2024-12-27**|**StyleRWKV: High-Quality and High-Efficiency Style Transfer with RWKV-like Architecture**|Miaomiao Dai et.al.|[2412.19535](http://arxiv.org/abs/2412.19535)|null|
 |**2024-12-27**|**Estimation of System Parameters Including Repeated Cross-Sectional Data through Emulator-Informed Deep Generative Model**|Hyunwoo Cho et.al.|[2412.19517](http://arxiv.org/abs/2412.19517)|null|
 |**2024-12-27**|**Generative Adversarial Network on Motion-Blur Image Restoration**|Zhengdong Li et.al.|[2412.19479](http://arxiv.org/abs/2412.19479)|null|
@@ -1981,6 +1987,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-30**|**Prometheus: 3D-Aware Latent Diffusion Models for Feed-Forward Text-to-3D Scene Generation**|Yuanbo Yang et.al.|[2412.21117](http://arxiv.org/abs/2412.21117)|null|
+|**2024-12-30**|**Quantum Diffusion Model for Quark and Gluon Jet Generation**|Mariia Baidachna et.al.|[2412.21082](http://arxiv.org/abs/2412.21082)|null|
+|**2024-12-30**|**Edicho: Consistent Image Editing in the Wild**|Qingyan Bai et.al.|[2412.21079](http://arxiv.org/abs/2412.21079)|**[link](https://github.com/ezioby/edicho)**|
+|**2024-12-30**|**Varformer: Adapting VAR's Generative Prior for Image Restoration**|Siyang Wang et.al.|[2412.21063](http://arxiv.org/abs/2412.21063)|null|
+|**2024-12-30**|**E2EDiff: Direct Mapping from Noise to Data for Enhanced Diffusion Models**|Zhiyu Tan et.al.|[2412.21044](http://arxiv.org/abs/2412.21044)|null|
+|**2024-12-30**|**Visual Style Prompt Learning Using Diffusion Models for Blind Face Restoration**|Wanglong Lu et.al.|[2412.21042](http://arxiv.org/abs/2412.21042)|**[link](https://github.com/longlongaaago/vspbfr)**|
+|**2024-12-30**|**AlignAb: Pareto-Optimal Energy Alignment for Designing Nature-Like Antibodies**|Yibo Wen et.al.|[2412.20984](http://arxiv.org/abs/2412.20984)|null|
+|**2024-12-30**|**Influence Maximization in Temporal Networks with Persistent and Reactive Behaviors**|Aaqib Zahoor et.al.|[2412.20936](http://arxiv.org/abs/2412.20936)|null|
+|**2024-12-30**|**DDIM sampling for Generative AIBIM, a faster intelligent structural design framework**|Zhili He et.al.|[2412.20899](http://arxiv.org/abs/2412.20899)|null|
+|**2024-12-30**|**VMix: Improving Text-to-Image Diffusion Model with Cross-Attention Mixing Control**|Shaojin Wu et.al.|[2412.20800](http://arxiv.org/abs/2412.20800)|**[link](https://github.com/fenfenfenfan/VMix)**|
+|**2024-12-30**|**M $^3$ oralBench: A MultiModal Moral Benchmark for LVLMs**|Bei Yan et.al.|[2412.20718](http://arxiv.org/abs/2412.20718)|null|
+|**2024-12-30**|**HFI: A unified framework for training-free detection and implicit watermarking of latent diffusion model generated images**|Sungik Choi et.al.|[2412.20704](http://arxiv.org/abs/2412.20704)|null|
+|**2024-12-30**|**Diffgrasp: Whole-Body Grasping Synthesis Guided by Object Motion Using a Diffusion Model**|Yonghao Zhang et.al.|[2412.20657](http://arxiv.org/abs/2412.20657)|null|
+|**2024-12-30**|**Latent Drifting in Diffusion Models for Counterfactual Medical Image Synthesis**|Yousef Yeganeh et.al.|[2412.20651](http://arxiv.org/abs/2412.20651)|null|
+|**2024-12-29**|**Zero-Shot Image Restoration Using Few-Step Guidance of Consistency Models (and Beyond)**|Tomer Garber et.al.|[2412.20596](http://arxiv.org/abs/2412.20596)|null|
+|**2024-12-29**|**Testing and Improving the Robustness of Amortized Bayesian Inference for Cognitive Models**|Yufei Wu et.al.|[2412.20586](http://arxiv.org/abs/2412.20586)|null|
+|**2024-12-29**|**Derivations of Animal Movement Models with Explicit Memory**|Tianxu Wang et.al.|[2412.20568](http://arxiv.org/abs/2412.20568)|null|
+|**2024-12-29**|**DPBridge: Latent Diffusion Bridge for Dense Prediction**|Haorui Ji et.al.|[2412.20506](http://arxiv.org/abs/2412.20506)|null|
+|**2024-12-29**|**Single-image reflection removal via self-supervised diffusion models**|Zhengyang Lu et.al.|[2412.20466](http://arxiv.org/abs/2412.20466)|null|
+|**2024-12-29**|**Image Augmentation Agent for Weakly Supervised Semantic Segmentation**|Wangyu Wu et.al.|[2412.20439](http://arxiv.org/abs/2412.20439)|null|
 |**2024-12-27**|**VideoMaker: Zero-shot Customized Video Generation with the Inherent Force of Video Diffusion Models**|Tao Wu et.al.|[2412.19645](http://arxiv.org/abs/2412.19645)|null|
 |**2024-12-27**|**StyleRWKV: High-Quality and High-Efficiency Style Transfer with RWKV-like Architecture**|Miaomiao Dai et.al.|[2412.19535](http://arxiv.org/abs/2412.19535)|null|
 |**2024-12-27**|**RobotDiffuse: Motion Planning for Redundant Manipulator based on Diffusion Model**|Xiaohan Zhang et.al.|[2412.19500](http://arxiv.org/abs/2412.19500)|null|
@@ -7803,6 +7829,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-30**|**Edicho: Consistent Image Editing in the Wild**|Qingyan Bai et.al.|[2412.21079](http://arxiv.org/abs/2412.21079)|**[link](https://github.com/ezioby/edicho)**|
+|**2024-12-30**|**Varformer: Adapting VAR's Generative Prior for Image Restoration**|Siyang Wang et.al.|[2412.21063](http://arxiv.org/abs/2412.21063)|null|
+|**2024-12-29**|**Zero-Shot Image Restoration Using Few-Step Guidance of Consistency Models (and Beyond)**|Tomer Garber et.al.|[2412.20596](http://arxiv.org/abs/2412.20596)|null|
+|**2024-12-28**|**UniRestorer: Universal Image Restoration via Adaptively Estimating Image Degradation at Proper Granularity**|Jingbo Lin et.al.|[2412.20157](http://arxiv.org/abs/2412.20157)|**[link](https://github.com/mrluin/unirestorer)**|
+|**2024-12-28**|**MaIR: A Locality- and Continuity-Preserving Mamba for Image Restoration**|Boyun Li et.al.|[2412.20066](http://arxiv.org/abs/2412.20066)|null|
+|**2024-12-28**|**MADiff: Text-Guided Fashion Image Editing with Mask Prediction and Attention-Enhanced Diffusion**|Zechao Zhan et.al.|[2412.20062](http://arxiv.org/abs/2412.20062)|null|
+|**2024-12-28**|**An Ordinary Differential Equation Sampler with Stochastic Start for Diffusion Bridge Models**|Yuang Wang et.al.|[2412.19992](http://arxiv.org/abs/2412.19992)|null|
 |**2024-12-27**|**Generative Adversarial Network on Motion-Blur Image Restoration**|Zhengdong Li et.al.|[2412.19479](http://arxiv.org/abs/2412.19479)|null|
 |**2024-12-25**|**DRDM: A Disentangled Representations Diffusion Model for Synthesizing Realistic Person Images**|Enbo Huang et.al.|[2412.18797](http://arxiv.org/abs/2412.18797)|null|
 |**2024-12-24**|**Underwater Image Restoration via Polymorphic Large Kernel CNNs**|Xiaojiao Guo et.al.|[2412.18459](http://arxiv.org/abs/2412.18459)|**[link](https://github.com/CXH-Research/UIR-PolyKernel)**|
@@ -9283,6 +9316,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-30**|**PERSE: Personalized 3D Generative Avatars from A Single Portrait**|Hyunsoo Cha et.al.|[2412.21206](http://arxiv.org/abs/2412.21206)|null|
+|**2024-12-28**|**DEGSTalk: Decomposed Per-Embedding Gaussian Fields for Hair-Preserving Talking Face Synthesis**|Kaijun Deng et.al.|[2412.20148](http://arxiv.org/abs/2412.20148)|**[link](https://github.com/cvi-szu/degstalk)**|
+|**2024-12-26**|**UniAvatar: Taming Lifelike Audio-Driven Talking Head Generation with Comprehensive Motion and Lighting Control**|Wenzhang Sun et.al.|[2412.19860](http://arxiv.org/abs/2412.19860)|null|
 |**2024-12-26**|**An End-to-End Depth-Based Pipeline for Selfie Image Rectification**|Ahmed Alhawwary et.al.|[2412.19189](http://arxiv.org/abs/2412.19189)|null|
 |**2024-12-25**|**DRDM: A Disentangled Representations Diffusion Model for Synthesizing Realistic Person Images**|Enbo Huang et.al.|[2412.18797](http://arxiv.org/abs/2412.18797)|null|
 |**2024-12-24**|**Weyl-Heisenberg covariant quantization for the discrete torus**|Romain Murenzi et.al.|[2412.18521](http://arxiv.org/abs/2412.18521)|null|

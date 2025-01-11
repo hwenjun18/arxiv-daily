@@ -54,8 +54,8 @@ layout: default
 |**2025-01-04**|**Diabetic Retinopathy Detection Using CNN with Residual Block with DCGAN**|Debjany Ghosh Aronno et.al.|[2501.02300](http://arxiv.org/abs/2501.02300)|null|
 |**2025-01-04**|**Generating Multimodal Images with GAN: Integrating Text, Image, and Style**|Chaoyi Tan et.al.|[2501.02167](http://arxiv.org/abs/2501.02167)|null|
 |**2025-01-03**|**ArtCrafter: Text-Image Aligning Style Transfer via Embedding Reframing**|Nisha Huang et.al.|[2501.02064](http://arxiv.org/abs/2501.02064)|null|
-|**2025-01-03**|**Creating Artificial Students that Never Existed: Leveraging Large Language Models and CTGANs for Synthetic Data Generation**|Mohammad Khalil et.al.|[2501.01793](http://arxiv.org/abs/2501.01793)|null|
-|**2025-01-03**|**Multivariate Time Series Anomaly Detection using DiffGAN Model**|Guangqiang Wu et.al.|[2501.01591](http://arxiv.org/abs/2501.01591)|null|
+|**2025-01-03**|**Creating Artificial Students that Never Existed: Leveraging Large Language Models and CTGANs for Synthetic Data Generation**|Mohammad Khalil et.al.|[2501.01793](http://arxiv.org/abs/2501.01793)|**[link](https://github.com/mohdkhalil/repository-supplementary-for-lak-25-paper--creating-artificial-students-that-never-existed)**|
+|**2025-01-03**|**Multivariate Time Series Anomaly Detection using DiffGAN Model**|Guangqiang Wu et.al.|[2501.01591](http://arxiv.org/abs/2501.01591)|**[link](https://github.com/guangqiangwu/diffgan)**|
 |**2024-12-30**|**LS-GAN: Human Motion Synthesis with Latent-space GANs**|Avinash Amballa et.al.|[2501.01449](http://arxiv.org/abs/2501.01449)|null|
 |**2025-01-02**|**ProjectedEx: Enhancing Generation in Explainable AI for Prostate Cancer**|Xuyin Qi et.al.|[2501.01392](http://arxiv.org/abs/2501.01392)|**[link](https://github.com/richardqiyi/projectedex)**|
 |**2025-01-02**|**MalCL: Leveraging GAN-Based Generative Replay to Combat Catastrophic Forgetting in Malware Classification**|Jimin Park et.al.|[2501.01110](http://arxiv.org/abs/2501.01110)|null|

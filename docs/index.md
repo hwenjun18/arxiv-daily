@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.10
+## Updated on 2025.01.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -7929,7 +7929,7 @@ layout: default
 |**2025-01-08**|**Edit as You See: Image-guided Video Editing via Masked Motion Modeling**|Zhi-Lin Huang et.al.|[2501.04325](http://arxiv.org/abs/2501.04325)|null|
 |**2025-01-07**|**Fixed Points of Deep Neural Networks: Emergence, Stability, and Applications**|L. Berlyand et.al.|[2501.04182](http://arxiv.org/abs/2501.04182)|null|
 |**2025-01-07**|**Convergent Primal-Dual Plug-and-Play Image Restoration: A General Algorithm and Applications**|Yodai Suzuki et.al.|[2501.03780](http://arxiv.org/abs/2501.03780)|null|
-|**2025-01-07**|**Materialist: Physically Based Editing Using Single-Image Inverse Rendering**|Lezhong Wang et.al.|[2501.03717](http://arxiv.org/abs/2501.03717)|null|
+|**2025-01-07**|**Materialist: Physically Based Editing Using Single-Image Inverse Rendering**|Lezhong Wang et.al.|[2501.03717](http://arxiv.org/abs/2501.03717)|**[link](https://github.com/lez-s/materialist)**|
 |**2025-01-07**|**Exploring Optimal Latent Trajetory for Zero-shot Image Editing**|Maomao Li et.al.|[2501.03631](http://arxiv.org/abs/2501.03631)|null|
 |**2025-01-07**|**Textualize Visual Prompt for Image Editing via Diffusion Bridge**|Pengcheng Xu et.al.|[2501.03495](http://arxiv.org/abs/2501.03495)|null|
 |**2025-01-06**|**ImageMM: Joint multi-frame image restoration and super-resolution**|Yashil Sukurdeep et.al.|[2501.03002](http://arxiv.org/abs/2501.03002)|null|
@@ -9040,7 +9040,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-07**|**Materialist: Physically Based Editing Using Single-Image Inverse Rendering**|Lezhong Wang et.al.|[2501.03717](http://arxiv.org/abs/2501.03717)|null|
+|**2025-01-07**|**Materialist: Physically Based Editing Using Single-Image Inverse Rendering**|Lezhong Wang et.al.|[2501.03717](http://arxiv.org/abs/2501.03717)|**[link](https://github.com/lez-s/materialist)**|
 |**2025-01-07**|**MoDec-GS: Global-to-Local Motion Decomposition and Temporal Interval Adjustment for Compact Dynamic 3D Gaussian Splatting**|Sangwoon Kwak et.al.|[2501.03714](http://arxiv.org/abs/2501.03714)|null|
 |**2025-01-03**|**DreamDrive: Generative 4D Scene Modeling from Street View Images**|Jiageng Mao et.al.|[2501.00601](http://arxiv.org/abs/2501.00601)|null|
 |**2024-12-26**|**MVS-GS: High-Quality 3D Gaussian Splatting Mapping via Online Multi-View Stereo**|Byeonggwon Lee et.al.|[2412.19130](http://arxiv.org/abs/2412.19130)|null|

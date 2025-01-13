@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.12
+## Updated on 2025.01.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -2003,11 +2003,11 @@ layout: default
 |**2025-01-09**|**Accelerated Diffusion Models via Speculative Sampling**|Valentin De Bortoli et.al.|[2501.05370](http://arxiv.org/abs/2501.05370)|null|
 |**2025-01-09**|**CROPS: Model-Agnostic Training-Free Framework for Safe Image Synthesis with Latent Diffusion Models**|Junha Park et.al.|[2501.05359](http://arxiv.org/abs/2501.05359)|null|
 |**2025-01-09**|**Light Transport-aware Diffusion Posterior Sampling for Single-View Reconstruction of 3D Volumes**|Ludwic Leonard et.al.|[2501.05226](http://arxiv.org/abs/2501.05226)|null|
-|**2025-01-09**|**FaceMe: Robust Blind Face Restoration with Personal Identification**|Siyu Liu et.al.|[2501.05177](http://arxiv.org/abs/2501.05177)|null|
+|**2025-01-10**|**FaceMe: Robust Blind Face Restoration with Personal Identification**|Siyu Liu et.al.|[2501.05177](http://arxiv.org/abs/2501.05177)|null|
 |**2025-01-09**|**EquiBoost: An Equivariant Boosting Approach to Molecular Conformation Generation**|Yixuan Yang et.al.|[2501.05109](http://arxiv.org/abs/2501.05109)|null|
 |**2025-01-09**|**Recovery of activation propagation and self-sustained oscillation abilities in stroke brain networks**|Yingpeng Liu et.al.|[2501.05099](http://arxiv.org/abs/2501.05099)|null|
-|**2025-01-09**|**ResPanDiff: Diffusion Model with Disentangled Modulations for Image Fusion**|Shiqi Cao et.al.|[2501.05091](http://arxiv.org/abs/2501.05091)|null|
-|**2025-01-09**|**D3RM: A Discrete Denoising Diffusion Refinement Model for Piano Transcription**|Hounsu Kim et.al.|[2501.05068](http://arxiv.org/abs/2501.05068)|null|
+|**2025-01-10**|**ResPanDiff: Diffusion Model for Pansharpening by Inferring Residual Inference**|Shiqi Cao et.al.|[2501.05091](http://arxiv.org/abs/2501.05091)|null|
+|**2025-01-09**|**D3RM: A Discrete Denoising Diffusion Refinement Model for Piano Transcription**|Hounsu Kim et.al.|[2501.05068](http://arxiv.org/abs/2501.05068)|**[link](https://github.com/hanshounsu/d3rm)**|
 |**2025-01-09**|**On a reaction-diffusion virus model with general boundary conditions in heterogeneous environments**|Mingxin Wang et.al.|[2501.04992](http://arxiv.org/abs/2501.04992)|null|
 |**2025-01-09**|**FLowHigh: Towards Efficient and High-Quality Audio Super-Resolution with Single-Step Flow Matching**|Jun-Hak Yun et.al.|[2501.04926](http://arxiv.org/abs/2501.04926)|null|
 |**2025-01-08**|**Geophysical inverse problems with measurement-guided diffusion models**|Matteo Ravasi et.al.|[2501.04881](http://arxiv.org/abs/2501.04881)|null|

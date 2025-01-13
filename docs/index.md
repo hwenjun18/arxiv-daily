@@ -39,6 +39,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-10**|**HFMF: Hierarchical Fusion Meets Multi-Stream Models for Deepfake Detection**|Anant Mehta et.al.|[2501.05631](http://arxiv.org/abs/2501.05631)|**[link](https://github.com/taco-group/hfmf)**|
+|**2025-01-09**|**Towards Probabilistic Inference of Human Motor Intentions by Assistive Mobile Robots Controlled via a Brain-Computer Interface**|Xiaoshan Zhou et.al.|[2501.05610](http://arxiv.org/abs/2501.05610)|null|
 |**2025-01-09**|**Patch-GAN Transfer Learning with Reconstructive Models for Cloud Removal**|Wanli Ma et.al.|[2501.05265](http://arxiv.org/abs/2501.05265)|null|
 |**2025-01-07**|**Generative Style Transfer for MRI Image Segmentation: A Case of Glioma Segmentation in Sub-Saharan Africa**|Rancy Chepchirchir et.al.|[2501.04734](http://arxiv.org/abs/2501.04734)|**[link](https://github.com/CAMERA-MRI/SPARK2023/tree/main/SPARK_BTS_KIFARU)**|
 |**2025-01-08**|**Optimal Trading of a Charging-Station Company in Auction Markets for Electricity**|Farnaz Sohrabi et.al.|[2501.04647](http://arxiv.org/abs/2501.04647)|null|
@@ -1995,7 +1997,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-09**|**Decentralized Diffusion Models**|David McAllister et.al.|[2501.05450](http://arxiv.org/abs/2501.05450)|null|
+|**2025-01-10**|**From discrete-time policies to continuous-time diffusion samplers: Asymptotic equivalences and faster training**|Julius Berner et.al.|[2501.06148](http://arxiv.org/abs/2501.06148)|**[link](https://github.com/gfnorg/gfn-diffusion)**|
+|**2025-01-10**|**Nonisotropic Gaussian Diffusion for Realistic 3D Human Motion Prediction**|Cecilia Curreli et.al.|[2501.06035](http://arxiv.org/abs/2501.06035)|null|
+|**2025-01-10**|**CamCtrl3D: Single-Image Scene Exploration with Precise 3D Camera Control**|Stefan Popov et.al.|[2501.06006](http://arxiv.org/abs/2501.06006)|null|
+|**2025-01-10**|**Estimation and Restoration of Unknown Nonlinear Distortion using Diffusion**|Michal Švento et.al.|[2501.05959](http://arxiv.org/abs/2501.05959)|null|
+|**2025-01-10**|**Beyond Flat Text: Dual Self-inherited Guidance for Visual Text Generation**|Minxing Luo et.al.|[2501.05892](http://arxiv.org/abs/2501.05892)|null|
+|**2025-01-10**|**Poetry in Pixels: Prompt Tuning for Poem Image Generation via Diffusion Models**|Sofia Jamil et.al.|[2501.05839](http://arxiv.org/abs/2501.05839)|**[link](https://github.com/sofeeyaj/poetry-in-pixels-coling2025)**|
+|**2025-01-10**|**Diffusion Models for Smarter UAVs: Decision-Making and Modeling**|Yousef Emami et.al.|[2501.05819](http://arxiv.org/abs/2501.05819)|null|
+|**2025-01-10**|**Alignment without Over-optimization: Training-Free Solution for Diffusion Models**|Sunwoo Kim et.al.|[2501.05803](http://arxiv.org/abs/2501.05803)|**[link](https://github.com/krafton-ai/das)**|
+|**2025-01-10**|**Conditional Diffusion Model for Electrical Impedance Tomography**|Duanpeng Shi et.al.|[2501.05769](http://arxiv.org/abs/2501.05769)|null|
+|**2025-01-10**|**StarGen: A Spatiotemporal Autoregression Framework with Video Diffusion Model for Scalable and Controllable Scene Generation**|Shangjin Zhai et.al.|[2501.05763](http://arxiv.org/abs/2501.05763)|null|
+|**2025-01-10**|**UAV Swarm-enabled Collaborative Post-disaster Communications in Low Altitude Economy via a Two-stage Optimization Approach**|Xiaoya Zheng et.al.|[2501.05742](http://arxiv.org/abs/2501.05742)|null|
+|**2025-01-10**|**EXION: Exploiting Inter- and Intra-Iteration Output Sparsity for Diffusion Models**|Jaehoon Heo et.al.|[2501.05680](http://arxiv.org/abs/2501.05680)|null|
+|**2025-01-10**|**Network Diffuser for Placing-Scheduling Service Function Chains with Inverse Demonstration**|Zuyuan Zhang et.al.|[2501.05673](http://arxiv.org/abs/2501.05673)|null|
+|**2025-01-10**|**Diffusion-Enhanced Optimization of Variational Quantum Eigensolver for General Hamiltonians**|Shikun Zhang et.al.|[2501.05666](http://arxiv.org/abs/2501.05666)|null|
+|**2025-01-10**|**HFMF: Hierarchical Fusion Meets Multi-Stream Models for Deepfake Detection**|Anant Mehta et.al.|[2501.05631](http://arxiv.org/abs/2501.05631)|**[link](https://github.com/taco-group/hfmf)**|
+|**2025-01-10**|**Decentralized Diffusion Models**|David McAllister et.al.|[2501.05450](http://arxiv.org/abs/2501.05450)|null|
 |**2025-01-09**|**Progressive Growing of Video Tokenizers for Highly Compressed Latent Spaces**|Aniruddha Mahapatra et.al.|[2501.05442](http://arxiv.org/abs/2501.05442)|null|
 |**2025-01-09**|**The GAN is dead; long live the GAN! A Modern GAN Baseline**|Yiwen Huang et.al.|[2501.05441](http://arxiv.org/abs/2501.05441)|**[link](https://github.com/brownvc/r3gan)**|
 |**2025-01-09**|**Zero-1-to-G: Taming Pretrained 2D Diffusion Model for Direct 3D Generation**|Xuyi Meng et.al.|[2501.05427](http://arxiv.org/abs/2501.05427)|null|
@@ -7923,6 +7940,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-09**|**Bit-depth color recovery via off-the-shelf super-resolution models**|Xuanshuo Fu et.al.|[2501.05611](http://arxiv.org/abs/2501.05611)|null|
 |**2025-01-08**|**Color Correction Meets Cross-Spectral Refinement: A Distribution-Aware Diffusion for Underwater Image Restoration**|Laibin Chang et.al.|[2501.04740](http://arxiv.org/abs/2501.04740)|null|
 |**2025-01-08**|**EditAR: Unified Conditional Generation with Autoregressive Models**|Jiteng Mu et.al.|[2501.04699](http://arxiv.org/abs/2501.04699)|null|
 |**2025-01-08**|**MB-TaylorFormer V2: Improved Multi-branch Linear Transformer Expanded by Taylor Formula for Image Restoration**|Zhi Jin et.al.|[2501.04486](http://arxiv.org/abs/2501.04486)|**[link](https://github.com/fvl2020/mb-taylorformerv2)**|
@@ -9053,7 +9071,7 @@ layout: default
 |**2024-12-04**|**SGSST: Scaling Gaussian Splatting StyleTransfer**|Bruno Galerne et.al.|[2412.03371](http://arxiv.org/abs/2412.03371)|**[link](https://github.com/JianlingWANG2021/SGSST)**|
 |**2024-12-02**|**Planar Gaussian Splatting**|Farhad G. Zanjani et.al.|[2412.01931](http://arxiv.org/abs/2412.01931)|null|
 |**2024-12-02**|**HDGS: Textured 2D Gaussian Splatting for Enhanced Scene Rendering**|Yunzhou Song et.al.|[2412.01823](http://arxiv.org/abs/2412.01823)|null|
-|**2024-12-23**|**Ditto: Motion-Space Diffusion for Controllable Realtime Talking Head Synthesis**|Tianqi Li et.al.|[2411.19509](http://arxiv.org/abs/2411.19509)|null|
+|**2024-12-23**|**Ditto: Motion-Space Diffusion for Controllable Realtime Talking Head Synthesis**|Tianqi Li et.al.|[2411.19509](http://arxiv.org/abs/2411.19509)|**[link](https://github.com/antgroup/ditto-talkinghead)**|
 |**2024-11-27**|**SpotLight: Shadow-Guided Object Relighting via Diffusion**|Frédéric Fortier-Chouinard et.al.|[2411.18665](http://arxiv.org/abs/2411.18665)|null|
 |**2024-11-25**|**The Radiance of Neural Fields: Democratizing Photorealistic and Dynamic Robotic Simulation**|Georgina Nuthall et.al.|[2411.16940](http://arxiv.org/abs/2411.16940)|null|
 |**2024-11-27**|**SplatAD: Real-Time Lidar and Camera Rendering with 3D Gaussian Splatting for Autonomous Driving**|Georg Hess et.al.|[2411.16816](http://arxiv.org/abs/2411.16816)|**[link](https://github.com/carlinds/splatad)**|

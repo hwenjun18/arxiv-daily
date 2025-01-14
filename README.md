@@ -51,6 +51,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-13**|**SFC-GAN: A Generative Adversarial Network for Brain Functional and Structural Connectome Translation**|Yee-Fan Tan et.al.|[2501.07055](http://arxiv.org/abs/2501.07055)|null|
+|**2025-01-13**|**Detection of AI Deepfake and Fraud in Online Payments Using GAN-Based Models**|Zong Ke et.al.|[2501.07033](http://arxiv.org/abs/2501.07033)|null|
+|**2025-01-12**|**Super-Resolution of 3D Micro-CT Images Using Generative Adversarial Networks: Enhancing Resolution and Segmentation Accuracy**|Evgeny Ugolkov et.al.|[2501.06939](http://arxiv.org/abs/2501.06939)|**[link](https://github.com/evgenyugolkov/8x_super-resolution)**|
+|**2025-01-12**|**Defect Detection Network In PCB Circuit Devices Based on GAN Enhanced YOLOv11**|Jiayi Huang et.al.|[2501.06879](http://arxiv.org/abs/2501.06879)|null|
+|**2025-01-12**|**ODPG: Outfitting Diffusion with Pose Guided Condition**|Seohyun Lee et.al.|[2501.06769](http://arxiv.org/abs/2501.06769)|null|
+|**2025-01-11**|**Enhancing Path Planning Performance through Image Representation Learning of High-Dimensional Configuration Spaces**|Jorge Ocampo Jimenez et.al.|[2501.06639](http://arxiv.org/abs/2501.06639)|null|
+|**2025-01-11**|**Determination of galaxy photometric redshifts using Conditional Generative Adversarial Networks (CGANs)**|M. Garcia-Fernandez et.al.|[2501.06532](http://arxiv.org/abs/2501.06532)|**[link](https://github.com/mgarciafernandez-uem/cgan-photoz)**|
+|**2025-01-10**|**Underwater Image Enhancement using Generative Adversarial Networks: A Survey**|Kancharagunta Kishan Babu et.al.|[2501.06273](http://arxiv.org/abs/2501.06273)|null|
+|**2025-01-07**|**Generating and Detecting Various Types of Fake Image and Audio Content: A Review of Modern Deep Learning Technologies and Tools**|Arash Dehghani et.al.|[2501.06227](http://arxiv.org/abs/2501.06227)|null|
 |**2025-01-10**|**HFMF: Hierarchical Fusion Meets Multi-Stream Models for Deepfake Detection**|Anant Mehta et.al.|[2501.05631](http://arxiv.org/abs/2501.05631)|**[link](https://github.com/taco-group/hfmf)**|
 |**2025-01-09**|**Towards Probabilistic Inference of Human Motor Intentions by Assistive Mobile Robots Controlled via a Brain-Computer Interface**|Xiaoshan Zhou et.al.|[2501.05610](http://arxiv.org/abs/2501.05610)|null|
 |**2025-01-09**|**Patch-GAN Transfer Learning with Reconstructive Models for Cloud Removal**|Wanli Ma et.al.|[2501.05265](http://arxiv.org/abs/2501.05265)|null|
@@ -2011,6 +2020,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-13**|**Training-Free Motion-Guided Video Generation with Enhanced Temporal Consistency Using Motion Consistency Loss**|Xinyu Zhang et.al.|[2501.07563](http://arxiv.org/abs/2501.07563)|null|
+|**2025-01-13**|**Confident Pseudo-labeled Diffusion Augmentation for Canine Cardiomegaly Detection**|Shiman Zhang et.al.|[2501.07533](http://arxiv.org/abs/2501.07533)|**[link](https://github.com/shira7z/cda)**|
+|**2025-01-13**|**IP-FaceDiff: Identity-Preserving Facial Video Editing with Diffusion**|Tharun Anand et.al.|[2501.07530](http://arxiv.org/abs/2501.07530)|null|
+|**2025-01-13**|**PrecipDiff: Leveraging image diffusion models to enhance satellite-based precipitation observations**|Ting-Yu Dai et.al.|[2501.07447](http://arxiv.org/abs/2501.07447)|null|
+|**2025-01-13**|**Diff-Ensembler: Learning to Ensemble 2D Diffusion Models for Volume-to-Volume Medical Image Translation**|Xiyue Zhu et.al.|[2501.07430](http://arxiv.org/abs/2501.07430)|null|
+|**2025-01-13**|**OCORD: Open-Campus Object Removal Dataset**|Shuo Zhang et.al.|[2501.07397](http://arxiv.org/abs/2501.07397)|null|
+|**2025-01-13**|**Bigger Isn't Always Better: Towards a General Prior for Medical Image Reconstruction**|Lukas Glaszner et.al.|[2501.07376](http://arxiv.org/abs/2501.07376)|null|
+|**2025-01-13**|**Skip Mamba Diffusion for Monocular 3D Semantic Scene Completion**|Li Liang et.al.|[2501.07260](http://arxiv.org/abs/2501.07260)|**[link](https://github.com/xrkong/skimba)**|
+|**2025-01-13**|**D3MES: Diffusion Transformer with multihead equivariant self-attention for 3D molecule generation**|Zhejun Zhang et.al.|[2501.07077](http://arxiv.org/abs/2501.07077)|**[link](https://github.com/physilearn/d3mes)**|
+|**2025-01-13**|**Erasing Noise in Signal Detection with Diffusion Model: From Theory to Application**|Xiucheng Wang et.al.|[2501.07030](http://arxiv.org/abs/2501.07030)|null|
+|**2025-01-13**|**Global Search for Optimal Low Thrust Spacecraft Trajectories using Diffusion Models and the Indirect Method**|Jannik Graebner et.al.|[2501.07005](http://arxiv.org/abs/2501.07005)|null|
+|**2025-01-13**|**Likelihood Training of Cascaded Diffusion Models via Hierarchical Volume-preserving Maps**|Henry Li et.al.|[2501.06999](http://arxiv.org/abs/2501.06999)|**[link](https://github.com/lihenryhfl/pcdm)**|
+|**2025-01-12**|**A General Framework for Inference-time Scaling and Steering of Diffusion Models**|Raghav Singhal et.al.|[2501.06848](http://arxiv.org/abs/2501.06848)|**[link](https://github.com/zacharyhorvitz/fk-diffusion-steering)**|
+|**2025-01-12**|**ODPG: Outfitting Diffusion with Pose Guided Condition**|Seohyun Lee et.al.|[2501.06769](http://arxiv.org/abs/2501.06769)|null|
+|**2025-01-12**|**Padding Tone: A Mechanistic Analysis of Padding Tokens in T2I Models**|Michael Toker et.al.|[2501.06751](http://arxiv.org/abs/2501.06751)|null|
+|**2025-01-12**|**DRDT3: Diffusion-Refined Decision Test-Time Training Model**|Xingshuai Huang et.al.|[2501.06718](http://arxiv.org/abs/2501.06718)|null|
+|**2025-01-11**|**Personalized Preference Fine-tuning of Diffusion Models**|Meihua Dang et.al.|[2501.06655](http://arxiv.org/abs/2501.06655)|null|
+|**2025-01-11**|**Boundary-enhanced time series data imputation with long-term dependency diffusion models**|Chunjing Xiao et.al.|[2501.06585](http://arxiv.org/abs/2501.06585)|null|
+|**2025-01-11**|**A Diffusive Data Augmentation Framework for Reconstruction of Complex Network Evolutionary History**|En Xu et.al.|[2501.06485](http://arxiv.org/abs/2501.06485)|null|
+|**2025-01-10**|**MEt3R: Measuring Multi-View Consistency in Generated Images**|Mohammad Asim et.al.|[2501.06336](http://arxiv.org/abs/2501.06336)|null|
 |**2025-01-10**|**From discrete-time policies to continuous-time diffusion samplers: Asymptotic equivalences and faster training**|Julius Berner et.al.|[2501.06148](http://arxiv.org/abs/2501.06148)|**[link](https://github.com/gfnorg/gfn-diffusion)**|
 |**2025-01-10**|**Nonisotropic Gaussian Diffusion for Realistic 3D Human Motion Prediction**|Cecilia Curreli et.al.|[2501.06035](http://arxiv.org/abs/2501.06035)|null|
 |**2025-01-10**|**CamCtrl3D: Single-Image Scene Exploration with Precise 3D Camera Control**|Stefan Popov et.al.|[2501.06006](http://arxiv.org/abs/2501.06006)|null|
@@ -9460,6 +9489,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-11**|**Qffusion: Controllable Portrait Video Editing via Quadrant-Grid Attention Learning**|Maomao Li et.al.|[2501.06438](http://arxiv.org/abs/2501.06438)|null|
 |**2025-01-02**|**FaceSpeak: Expressive and High-Quality Speech Synthesis from Human Portraits of Different Styles**|Tian-Hao Zhang et.al.|[2501.03181](http://arxiv.org/abs/2501.03181)|null|
 |**2025-01-09**|**MoEE: Mixture of Emotion Experts for Audio-Driven Portrait Animation**|Huaize Liu et.al.|[2501.01808](http://arxiv.org/abs/2501.01808)|null|
 |**2025-01-03**|**SVFR: A Unified Framework for Generalized Video Face Restoration**|Zhiyao Wang et.al.|[2501.01235](http://arxiv.org/abs/2501.01235)|**[link](https://github.com/wangzhiyaoo/svfr)**|

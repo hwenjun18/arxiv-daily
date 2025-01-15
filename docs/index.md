@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.14
+## Updated on 2025.01.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -7983,7 +7983,7 @@ layout: default
 |**2025-01-06**|**Underwater Image Restoration Through a Prior Guided Hybrid Sense Approach and Extensive Benchmark Analysis**|Xiaojiao Guo et.al.|[2501.02701](http://arxiv.org/abs/2501.02701)|**[link](https://github.com/cxh-research/guidedhybsensuir)**|
 |**2025-01-01**|**Text2Earth: Unlocking Text-driven Remote Sensing Image Generation with a Global-Scale Dataset and a Foundation Model**|Chenyang Liu et.al.|[2501.00895](http://arxiv.org/abs/2501.00895)|null|
 |**2024-12-31**|**SoundBrush: Sound as a Brush for Visual Scene Editing**|Kim Sung-Bin et.al.|[2501.00645](http://arxiv.org/abs/2501.00645)|null|
-|**2025-01-02**|**Edicho: Consistent Image Editing in the Wild**|Qingyan Bai et.al.|[2412.21079](http://arxiv.org/abs/2412.21079)|**[link](https://github.com/ezioby/edicho)**|
+|**2025-01-14**|**Edicho: Consistent Image Editing in the Wild**|Qingyan Bai et.al.|[2412.21079](http://arxiv.org/abs/2412.21079)|**[link](https://github.com/ezioby/edicho)**|
 |**2024-12-30**|**Varformer: Adapting VAR's Generative Prior for Image Restoration**|Siyang Wang et.al.|[2412.21063](http://arxiv.org/abs/2412.21063)|**[link](https://github.com/siywang541/Varformer)**|
 |**2024-12-29**|**Zero-Shot Image Restoration Using Few-Step Guidance of Consistency Models (and Beyond)**|Tomer Garber et.al.|[2412.20596](http://arxiv.org/abs/2412.20596)|null|
 |**2024-12-28**|**UniRestorer: Universal Image Restoration via Adaptively Estimating Image Degradation at Proper Granularity**|Jingbo Lin et.al.|[2412.20157](http://arxiv.org/abs/2412.20157)|**[link](https://github.com/mrluin/unirestorer)**|

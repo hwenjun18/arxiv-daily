@@ -51,6 +51,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-16**|**Dynamic Neural Style Transfer for Artistic Image Generation using VGG19**|Kapil Kashyap et.al.|[2501.09420](http://arxiv.org/abs/2501.09420)|null|
+|**2025-01-15**|**Generating Realistic Synthetic Head Rotation Data for Extended Reality using Deep Learning**|Jakob Struye et.al.|[2501.09050](http://arxiv.org/abs/2501.09050)|null|
 |**2025-01-15**|**Multimodal LLMs Can Reason about Aesthetics in Zero-Shot**|Ruixiang Jiang et.al.|[2501.09012](http://arxiv.org/abs/2501.09012)|**[link](https://github.com/songrise/mllm4art)**|
 |**2025-01-15**|**VECT-GAN: A variationally encoded generative model for overcoming data scarcity in pharmaceutical science**|Youssef Abdalla et.al.|[2501.08995](http://arxiv.org/abs/2501.08995)|**[link](https://github.com/y-babdalla/vect_gan)**|
 |**2025-01-15**|**Enhanced Multi-Scale Cross-Attention for Person Image Generation**|Hao Tang et.al.|[2501.08900](http://arxiv.org/abs/2501.08900)|null|
@@ -2030,6 +2032,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-16**|**SynthLight: Portrait Relighting with Diffusion Model by Learning to Re-render Synthetic Faces**|Sumit Chaturvedi et.al.|[2501.09756](http://arxiv.org/abs/2501.09756)|null|
+|**2025-01-16**|**Inference-Time Scaling for Diffusion Models beyond Scaling Denoising Steps**|Nanye Ma et.al.|[2501.09732](http://arxiv.org/abs/2501.09732)|null|
+|**2025-01-16**|**Reward-Guided Controlled Generation for Inference-Time Alignment in Diffusion Models: Tutorial and Review**|Masatoshi Uehara et.al.|[2501.09685](http://arxiv.org/abs/2501.09685)|null|
+|**2025-01-16**|**Pruning for Sparse Diffusion Models based on Gradient Flow**|Ben Wan et.al.|[2501.09464](http://arxiv.org/abs/2501.09464)|null|
+|**2025-01-16**|**CaPa: Carve-n-Paint Synthesis for Efficient 4K Textured Mesh Generation**|Hwan Heo et.al.|[2501.09433](http://arxiv.org/abs/2501.09433)|null|
+|**2025-01-16**|**Contract-Inspired Contest Theory for Controllable Image Generation in Mobile Edge Metaverse**|Guangyuan Liu et.al.|[2501.09391](http://arxiv.org/abs/2501.09391)|null|
+|**2025-01-16**|**UVRM: A Scalable 3D Reconstruction Model from Unposed Videos**|Shiu-hong Kao et.al.|[2501.09347](http://arxiv.org/abs/2501.09347)|null|
+|**2025-01-16**|**Domain-conditioned and Temporal-guided Diffusion Modeling for Accelerated Dynamic MRI Reconstruction**|Liping Zhang et.al.|[2501.09305](http://arxiv.org/abs/2501.09305)|null|
+|**2025-01-16**|**Text Semantics to Flexible Design: A Residential Layout Generation Method Based on Stable Diffusion Model**|Zijin Qiu et.al.|[2501.09279](http://arxiv.org/abs/2501.09279)|null|
+|**2025-01-16**|**PATCHEDSERVE: A Patch Management Framework for SLO-Optimized Hybrid Resolution Diffusion Serving**|Desen Sun et.al.|[2501.09253](http://arxiv.org/abs/2501.09253)|null|
+|**2025-01-15**|**Grounding Text-To-Image Diffusion Models For Controlled High-Quality Image Generation**|Ahmad Süleyman et.al.|[2501.09194](http://arxiv.org/abs/2501.09194)|null|
+|**2025-01-15**|**Generative diffusion model with inverse renormalization group flows**|Kanta Masuki et.al.|[2501.09064](http://arxiv.org/abs/2501.09064)|**[link](https://github.com/kantamasuki/rgdm)**|
+|**2025-01-15**|**NeurOp-Diff:Continuous Remote Sensing Image Super-Resolution via Neural Operator Diffusion**|Zihao Xu et.al.|[2501.09054](http://arxiv.org/abs/2501.09054)|null|
 |**2025-01-15**|**SimGen: A Diffusion-Based Framework for Simultaneous Surgical Image and Segmentation Mask Generation**|Aditya Bhat et.al.|[2501.09008](http://arxiv.org/abs/2501.09008)|null|
 |**2025-01-15**|**RepVideo: Rethinking Cross-Layer Representation for Video Generation**|Chenyang Si et.al.|[2501.08994](http://arxiv.org/abs/2501.08994)|null|
 |**2025-01-15**|**Boosting Diffusion Guidance via Learning Degradation-Aware Models for Blind Super Resolution**|Shao-Hao Lu et.al.|[2501.08819](http://arxiv.org/abs/2501.08819)|**[link](https://github.com/ryanlu2240/boosting-diffusion-guidance-via-learning-degradation-aware-models-for-blind-super-resolution)**|
@@ -8023,6 +8038,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-16**|**Soft Knowledge Distillation with Multi-Dimensional Cross-Net Attention for Image Restoration Models Compression**|Yongheng Zhang et.al.|[2501.09321](http://arxiv.org/abs/2501.09321)|null|
+|**2025-01-16**|**Knowledge Distillation for Image Restoration : Simultaneous Learning from Degraded and Clean Images**|Yongheng Zhang et.al.|[2501.09268](http://arxiv.org/abs/2501.09268)|null|
 |**2025-01-14**|**FramePainter: Endowing Interactive Image Editing with Video Diffusion Priors**|Yabo Zhang et.al.|[2501.08225](http://arxiv.org/abs/2501.08225)|**[link](https://github.com/ybybzhang/framepainter)**|
 |**2025-01-09**|**Bit-depth color recovery via off-the-shelf super-resolution models**|Xuanshuo Fu et.al.|[2501.05611](http://arxiv.org/abs/2501.05611)|null|
 |**2025-01-08**|**Color Correction Meets Cross-Spectral Refinement: A Distribution-Aware Diffusion for Underwater Image Restoration**|Laibin Chang et.al.|[2501.04740](http://arxiv.org/abs/2501.04740)|null|
@@ -9528,6 +9545,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-16**|**SynthLight: Portrait Relighting with Diffusion Model by Learning to Re-render Synthetic Faces**|Sumit Chaturvedi et.al.|[2501.09756](http://arxiv.org/abs/2501.09756)|null|
 |**2025-01-15**|**Joint Learning of Depth and Appearance for Portrait Image Animation**|Xinya Ji et.al.|[2501.08649](http://arxiv.org/abs/2501.08649)|null|
 |**2025-01-14**|**A Political Spectrograph: High-Resolution Examinations of the United States' Ideological Landscape**|David Sabin-Miller et.al.|[2501.08433](http://arxiv.org/abs/2501.08433)|null|
 |**2025-01-15**|**Make-A-Character 2: Animatable 3D Character Generation From a Single Image**|Lin Liu et.al.|[2501.07870](http://arxiv.org/abs/2501.07870)|null|

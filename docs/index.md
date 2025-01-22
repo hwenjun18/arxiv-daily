@@ -39,7 +39,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-17**|**Credit Risk Identification in Supply Chains Using Generative Adversarial Networks**|Zizhou Zhang et.al.|[2501.10348](http://arxiv.org/abs/2501.10348)|null|
+|**2025-01-21**|**Regressor-Guided Image Editing Regulates Emotional Response to Reduce Online Engagement**|Christoph Gebhardt et.al.|[2501.12289](http://arxiv.org/abs/2501.12289)|null|
+|**2025-01-20**|**StAyaL | Multilingual Style Transfer**|Karishma Thakrar et.al.|[2501.11639](http://arxiv.org/abs/2501.11639)|null|
+|**2025-01-20**|**StyleSSP: Sampling StartPoint Enhancement for Training-free Diffusion-based Method for Style Transfer**|Ruojun Xu et.al.|[2501.11319](http://arxiv.org/abs/2501.11319)|null|
+|**2025-01-20**|**Nested Annealed Training Scheme for Generative Adversarial Networks**|Chang Wan et.al.|[2501.11318](http://arxiv.org/abs/2501.11318)|null|
+|**2025-01-20**|**A New Formulation of Lipschitz Constrained With Functional Gradient Learning for GANs**|Chang Wan et.al.|[2501.11236](http://arxiv.org/abs/2501.11236)|null|
+|**2025-01-20**|**Leveraging GANs For Active Appearance Models Optimized Model Fitting**|Anurag Awasthi et.al.|[2501.11218](http://arxiv.org/abs/2501.11218)|null|
+|**2025-01-19**|**Quantum Latent Diffusion Models**|Francesca De Falco et.al.|[2501.11174](http://arxiv.org/abs/2501.11174)|null|
+|**2025-01-18**|**Efficient Transmission of Radiomaps via Physics-Enhanced Semantic Communications**|Yueling Zhou et.al.|[2501.10654](http://arxiv.org/abs/2501.10654)|null|
+|**2025-01-17**|**Diffusion Models in Recommendation Systems: A Survey**|Ting-Ruen Wei et.al.|[2501.10548](http://arxiv.org/abs/2501.10548)|null|
+|**2025-01-20**|**Credit Risk Identification in Supply Chains Using Generative Adversarial Networks**|Zizhou Zhang et.al.|[2501.10348](http://arxiv.org/abs/2501.10348)|null|
 |**2025-01-17**|**HiFi-SR: A Unified Generative Transformer-Convolutional Adversarial Network for High-Fidelity Speech Super-Resolution**|Shengkui Zhao et.al.|[2501.10045](http://arxiv.org/abs/2501.10045)|**[link](https://github.com/modelscope/ClearerVoice-Studio)**|
 |**2025-01-17**|**Spatiotemporal Prediction of Secondary Crashes by Rebalancing Dynamic and Static Data with Generative Adversarial Networks**|Junlan Chen et.al.|[2501.10041](http://arxiv.org/abs/2501.10041)|null|
 |**2025-01-16**|**Dynamic Neural Style Transfer for Artistic Image Generation using VGG19**|Kapil Kashyap et.al.|[2501.09420](http://arxiv.org/abs/2501.09420)|null|
@@ -48,7 +57,7 @@ layout: default
 |**2025-01-17**|**VECT-GAN: A variationally encoded generative model for overcoming data scarcity in pharmaceutical science**|Youssef Abdalla et.al.|[2501.08995](http://arxiv.org/abs/2501.08995)|**[link](https://github.com/y-babdalla/vect_gan)**|
 |**2025-01-15**|**Enhanced Multi-Scale Cross-Attention for Person Image Generation**|Hao Tang et.al.|[2501.08900](http://arxiv.org/abs/2501.08900)|null|
 |**2025-01-15**|**Investigating Parameter-Efficiency of Hybrid QuGANs Based on Geometric Properties of Generated Sea Route Graphs**|Tobias Rohe et.al.|[2501.08678](http://arxiv.org/abs/2501.08678)|null|
-|**2025-01-15**|**A Novel Multiple Interval Prediction Method for Electricity Prices based on Scenarios Generation: Results**|Lu Xin et.al.|[2501.08532](http://arxiv.org/abs/2501.08532)|null|
+|**2025-01-21**|**Scenarios Generation-based Multiple Interval Prediction Method for Electricity Prices**|Lu Xin et.al.|[2501.08532](http://arxiv.org/abs/2501.08532)|null|
 |**2025-01-15**|**A Novel Multiple Interval Prediction Method for Electricity Prices based on Scenarios Generation: Definition and Method**|Lu Xin et.al.|[2501.08531](http://arxiv.org/abs/2501.08531)|null|
 |**2025-01-14**|**Time series forecasting for multidimensional telemetry data using GAN and BiLSTM in a Digital Twin**|Joao Carmo de Almeida Neto et.al.|[2501.08464](http://arxiv.org/abs/2501.08464)|null|
 |**2025-01-14**|**Prediction Interval Construction Method for Electricity Prices**|Xin Lu et.al.|[2501.07827](http://arxiv.org/abs/2501.07827)|null|
@@ -2021,6 +2030,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-21**|**Towards Affordance-Aware Articulation Synthesis for Rigged Objects**|Yu-Chu Yu et.al.|[2501.12393](http://arxiv.org/abs/2501.12393)|null|
+|**2025-01-21**|**GPS as a Control Signal for Image Generation**|Chao Feng et.al.|[2501.12390](http://arxiv.org/abs/2501.12390)|null|
+|**2025-01-21**|**Audio Texture Manipulation by Exemplar-Based Analogy**|Kan Jen Cheng et.al.|[2501.12385](http://arxiv.org/abs/2501.12385)|null|
+|**2025-01-21**|**DiffDoctor: Diagnosing Image Diffusion Models Before Treating**|Yiyang Wang et.al.|[2501.12382](http://arxiv.org/abs/2501.12382)|null|
+|**2025-01-21**|**VipDiff: Towards Coherent and Diverse Video Inpainting via Training-free Denoising Diffusion Models**|Chaohao Xie et.al.|[2501.12267](http://arxiv.org/abs/2501.12267)|null|
+|**2025-01-21**|**Joint Reconstruction and Motion Estimation in Sparse-View 4DCT Using Diffusion Models within a Blind Inverse Problem Framework**|Antoine De Paepe et.al.|[2501.12249](http://arxiv.org/abs/2501.12249)|null|
+|**2025-01-21**|**TokenVerse: Versatile Multi-concept Personalization in Token Modulation Space**|Daniel Garibi et.al.|[2501.12224](http://arxiv.org/abs/2501.12224)|null|
+|**2025-01-21**|**Hunyuan3D 2.0: Scaling Diffusion Models for High Resolution Textured 3D Assets Generation**|Zibo Zhao et.al.|[2501.12202](http://arxiv.org/abs/2501.12202)|**[link](https://github.com/tencent/hunyuan3d-2)**|
+|**2025-01-21**|**ComposeAnyone: Controllable Layout-to-Human Generation with Decoupled Multimodal Conditions**|Shiyue Zhang et.al.|[2501.12173](http://arxiv.org/abs/2501.12173)|**[link](https://github.com/zhangshy1019/composeanyone)**|
+|**2025-01-20**|**EfficientVITON: An Efficient Virtual Try-On Model using Optimized Diffusion Process**|Mostafa Atef et.al.|[2501.11776](http://arxiv.org/abs/2501.11776)|null|
+|**2025-01-20**|**SILO: Solving Inverse Problems with Latent Operators**|Ron Raphaeli et.al.|[2501.11746](http://arxiv.org/abs/2501.11746)|null|
+|**2025-01-20**|**Exploring Preference-Guided Diffusion Model for Cross-Domain Recommendation**|Xiaodong Li et.al.|[2501.11671](http://arxiv.org/abs/2501.11671)|null|
+|**2025-01-20**|**Recurrent Diffusion for Large-Scale Parameter Generation**|Kai Wang et.al.|[2501.11587](http://arxiv.org/abs/2501.11587)|**[link](https://github.com/nus-hpc-ai-lab/recurrent-parameter-generation)**|
+|**2025-01-20**|**Graph Defense Diffusion Model**|Xin He et.al.|[2501.11568](http://arxiv.org/abs/2501.11568)|null|
+|**2025-01-20**|**A Survey on Diffusion Models for Anomaly Detection**|Jing Liu et.al.|[2501.11430](http://arxiv.org/abs/2501.11430)|null|
+|**2025-01-20**|**Nested Annealed Training Scheme for Generative Adversarial Networks**|Chang Wan et.al.|[2501.11318](http://arxiv.org/abs/2501.11318)|null|
+|**2025-01-20**|**MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching**|Yepeng Liu et.al.|[2501.11299](http://arxiv.org/abs/2501.11299)|null|
+|**2025-01-20**|**Successive Interference Cancellation-aided Diffusion Models for Joint Channel Estimation and Data Detection in Low Rank Channel Scenarios**|Sagnik Bhattacharya et.al.|[2501.11229](http://arxiv.org/abs/2501.11229)|null|
+|**2025-01-20**|**Ditto: Accelerating Diffusion Model via Temporal Value Similarity**|Sungbin Kim et.al.|[2501.11211](http://arxiv.org/abs/2501.11211)|null|
+|**2025-01-19**|**Quantum Latent Diffusion Models**|Francesca De Falco et.al.|[2501.11174](http://arxiv.org/abs/2501.11174)|null|
 |**2025-01-17**|**DiffStereo: High-Frequency Aware Diffusion Model for Stereo Image Restoration**|Huiyun Cao et.al.|[2501.10325](http://arxiv.org/abs/2501.10325)|null|
 |**2025-01-17**|**DiffVSR: Enhancing Real-World Video Super-Resolution with Diffusion Models for Advanced Visual Quality and Temporal Consistency**|Xiaohui Li et.al.|[2501.10110](http://arxiv.org/abs/2501.10110)|null|
 |**2025-01-17**|**Conditional Latent Diffusion-Based Speech Enhancement Via Dual Context Learning**|Shengkui Zhao et.al.|[2501.10052](http://arxiv.org/abs/2501.10052)|null|
@@ -8035,6 +8064,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-21**|**Regressor-Guided Image Editing Regulates Emotional Response to Reduce Online Engagement**|Christoph Gebhardt et.al.|[2501.12289](http://arxiv.org/abs/2501.12289)|null|
+|**2025-01-21**|**Proxies for Distortion and Consistency with Applications for Real-World Image Restoration**|Sean Man et.al.|[2501.12102](http://arxiv.org/abs/2501.12102)|null|
+|**2025-01-20**|**SILO: Solving Inverse Problems with Latent Operators**|Ron Raphaeli et.al.|[2501.11746](http://arxiv.org/abs/2501.11746)|null|
+|**2025-01-20**|**PlotEdit: Natural Language-Driven Accessible Chart Editing in PDFs via Multimodal LLM Agents**|Kanika Goswami et.al.|[2501.11233](http://arxiv.org/abs/2501.11233)|null|
 |**2025-01-17**|**DiffStereo: High-Frequency Aware Diffusion Model for Stereo Image Restoration**|Huiyun Cao et.al.|[2501.10325](http://arxiv.org/abs/2501.10325)|null|
 |**2025-01-17**|**IE-Bench: Advancing the Measurement of Text-Driven Image Editing for Human Perception Alignment**|Shangkun Sun et.al.|[2501.09927](http://arxiv.org/abs/2501.09927)|null|
 |**2025-01-16**|**PIXELS: Progressive Image Xemplar-based Editing with Latent Surgery**|Shristi Das Biswas et.al.|[2501.09826](http://arxiv.org/abs/2501.09826)|**[link](https://github.com/amazon-science/pixels)**|
@@ -9159,6 +9192,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-21**|**DNRSelect: Active Best View Selection for Deferred Neural Rendering**|Dongli Wu et.al.|[2501.12150](http://arxiv.org/abs/2501.12150)|null|
+|**2025-01-16**|**Poxel: Voxel Reconstruction for 3D Printing**|Ruixiang Cao et.al.|[2501.10474](http://arxiv.org/abs/2501.10474)|null|
 |**2025-01-07**|**Materialist: Physically Based Editing Using Single-Image Inverse Rendering**|Lezhong Wang et.al.|[2501.03717](http://arxiv.org/abs/2501.03717)|**[link](https://github.com/lez-s/materialist)**|
 |**2025-01-07**|**MoDec-GS: Global-to-Local Motion Decomposition and Temporal Interval Adjustment for Compact Dynamic 3D Gaussian Splatting**|Sangwoon Kwak et.al.|[2501.03714](http://arxiv.org/abs/2501.03714)|null|
 |**2025-01-03**|**DreamDrive: Generative 4D Scene Modeling from Street View Images**|Jiageng Mao et.al.|[2501.00601](http://arxiv.org/abs/2501.00601)|null|
@@ -9539,6 +9574,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-20**|**Artificial Neural Networks for Magnetoencephalography: A review of an emerging field**|Arthur Dehgan et.al.|[2501.11566](http://arxiv.org/abs/2501.11566)|null|
+|**2025-01-20**|**Nonlinear optomechanical systems with quasi-periodic and chaotic dynamics**|A. P. Saiko et.al.|[2501.11344](http://arxiv.org/abs/2501.11344)|null|
 |**2025-01-16**|**SynthLight: Portrait Relighting with Diffusion Model by Learning to Re-render Synthetic Faces**|Sumit Chaturvedi et.al.|[2501.09756](http://arxiv.org/abs/2501.09756)|null|
 |**2025-01-15**|**Joint Learning of Depth and Appearance for Portrait Image Animation**|Xinya Ji et.al.|[2501.08649](http://arxiv.org/abs/2501.08649)|null|
 |**2025-01-14**|**A Political Spectrograph: High-Resolution Examinations of the United States' Ideological Landscape**|David Sabin-Miller et.al.|[2501.08433](http://arxiv.org/abs/2501.08433)|null|

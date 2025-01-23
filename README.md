@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.22
+## Updated on 2025.01.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -45,14 +45,14 @@
 |**2022-11-21**|**Towards Live 3D Reconstruction from Wearable Video: An Evaluation of V-SLAM, NeRF, and Videogrammetry Techniques**|David Ramirez et.al.|[2211.11836](http://arxiv.org/abs/2211.11836)|null|
 |**2022-11-14**|**Controllable GAN Synthesis Using Non-Rigid Structure-from-Motion**|René Haas et.al.|[2211.07195](http://arxiv.org/abs/2211.07195)|null|
 
-<p align=right>(<a href=#Updated-on-20250122>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250123>back to top</a>)</p>
 
 ## GAN
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-01-21**|**Regressor-Guided Image Editing Regulates Emotional Response to Reduce Online Engagement**|Christoph Gebhardt et.al.|[2501.12289](http://arxiv.org/abs/2501.12289)|null|
-|**2025-01-20**|**StAyaL | Multilingual Style Transfer**|Karishma Thakrar et.al.|[2501.11639](http://arxiv.org/abs/2501.11639)|null|
+|**2025-01-22**|**StAyaL | Multilingual Style Transfer**|Karishma Thakrar et.al.|[2501.11639](http://arxiv.org/abs/2501.11639)|null|
 |**2025-01-20**|**StyleSSP: Sampling StartPoint Enhancement for Training-free Diffusion-based Method for Style Transfer**|Ruojun Xu et.al.|[2501.11319](http://arxiv.org/abs/2501.11319)|null|
 |**2025-01-20**|**Nested Annealed Training Scheme for Generative Adversarial Networks**|Chang Wan et.al.|[2501.11318](http://arxiv.org/abs/2501.11318)|null|
 |**2025-01-20**|**A New Formulation of Lipschitz Constrained With Functional Gradient Learning for GANs**|Chang Wan et.al.|[2501.11236](http://arxiv.org/abs/2501.11236)|null|
@@ -2038,27 +2038,27 @@
 |**2023-03-14**|**3D Face Arbitrary Style Transfer**|Xiangwen Deng et.al.|[2303.07709](http://arxiv.org/abs/2303.07709)|null|
 |**2023-03-13**|**AGTGAN: Unpaired Image Translation for Photographic Ancient Character Generation**|Hongxiang Huang et.al.|[2303.07012](http://arxiv.org/abs/2303.07012)|**[link](https://github.com/hellomystery/agtgan)**|
 
-<p align=right>(<a href=#Updated-on-20250122>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250123>back to top</a>)</p>
 
 ## Diffusion Model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-01-21**|**Towards Affordance-Aware Articulation Synthesis for Rigged Objects**|Yu-Chu Yu et.al.|[2501.12393](http://arxiv.org/abs/2501.12393)|null|
-|**2025-01-21**|**GPS as a Control Signal for Image Generation**|Chao Feng et.al.|[2501.12390](http://arxiv.org/abs/2501.12390)|null|
+|**2025-01-22**|**GPS as a Control Signal for Image Generation**|Chao Feng et.al.|[2501.12390](http://arxiv.org/abs/2501.12390)|null|
 |**2025-01-21**|**Audio Texture Manipulation by Exemplar-Based Analogy**|Kan Jen Cheng et.al.|[2501.12385](http://arxiv.org/abs/2501.12385)|null|
 |**2025-01-21**|**DiffDoctor: Diagnosing Image Diffusion Models Before Treating**|Yiyang Wang et.al.|[2501.12382](http://arxiv.org/abs/2501.12382)|null|
 |**2025-01-21**|**VipDiff: Towards Coherent and Diverse Video Inpainting via Training-free Denoising Diffusion Models**|Chaohao Xie et.al.|[2501.12267](http://arxiv.org/abs/2501.12267)|null|
 |**2025-01-21**|**Joint Reconstruction and Motion Estimation in Sparse-View 4DCT Using Diffusion Models within a Blind Inverse Problem Framework**|Antoine De Paepe et.al.|[2501.12249](http://arxiv.org/abs/2501.12249)|null|
 |**2025-01-21**|**TokenVerse: Versatile Multi-concept Personalization in Token Modulation Space**|Daniel Garibi et.al.|[2501.12224](http://arxiv.org/abs/2501.12224)|null|
-|**2025-01-21**|**Hunyuan3D 2.0: Scaling Diffusion Models for High Resolution Textured 3D Assets Generation**|Zibo Zhao et.al.|[2501.12202](http://arxiv.org/abs/2501.12202)|**[link](https://github.com/tencent/hunyuan3d-2)**|
+|**2025-01-22**|**Hunyuan3D 2.0: Scaling Diffusion Models for High Resolution Textured 3D Assets Generation**|Zibo Zhao et.al.|[2501.12202](http://arxiv.org/abs/2501.12202)|**[link](https://github.com/tencent/hunyuan3d-2)**|
 |**2025-01-21**|**ComposeAnyone: Controllable Layout-to-Human Generation with Decoupled Multimodal Conditions**|Shiyue Zhang et.al.|[2501.12173](http://arxiv.org/abs/2501.12173)|**[link](https://github.com/zhangshy1019/composeanyone)**|
 |**2025-01-20**|**EfficientVITON: An Efficient Virtual Try-On Model using Optimized Diffusion Process**|Mostafa Atef et.al.|[2501.11776](http://arxiv.org/abs/2501.11776)|null|
 |**2025-01-20**|**SILO: Solving Inverse Problems with Latent Operators**|Ron Raphaeli et.al.|[2501.11746](http://arxiv.org/abs/2501.11746)|null|
 |**2025-01-20**|**Exploring Preference-Guided Diffusion Model for Cross-Domain Recommendation**|Xiaodong Li et.al.|[2501.11671](http://arxiv.org/abs/2501.11671)|null|
 |**2025-01-20**|**Recurrent Diffusion for Large-Scale Parameter Generation**|Kai Wang et.al.|[2501.11587](http://arxiv.org/abs/2501.11587)|**[link](https://github.com/nus-hpc-ai-lab/recurrent-parameter-generation)**|
 |**2025-01-20**|**Graph Defense Diffusion Model**|Xin He et.al.|[2501.11568](http://arxiv.org/abs/2501.11568)|null|
-|**2025-01-20**|**A Survey on Diffusion Models for Anomaly Detection**|Jing Liu et.al.|[2501.11430](http://arxiv.org/abs/2501.11430)|null|
+|**2025-01-22**|**A Survey on Diffusion Models for Anomaly Detection**|Jing Liu et.al.|[2501.11430](http://arxiv.org/abs/2501.11430)|null|
 |**2025-01-20**|**Nested Annealed Training Scheme for Generative Adversarial Networks**|Chang Wan et.al.|[2501.11318](http://arxiv.org/abs/2501.11318)|null|
 |**2025-01-20**|**MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching**|Yepeng Liu et.al.|[2501.11299](http://arxiv.org/abs/2501.11299)|null|
 |**2025-01-20**|**Successive Interference Cancellation-aided Diffusion Models for Joint Channel Estimation and Data Detection in Low Rank Channel Scenarios**|Sagnik Bhattacharya et.al.|[2501.11229](http://arxiv.org/abs/2501.11229)|null|
@@ -8074,7 +8074,7 @@
 |**2023-03-15**|**DiffBEV: Conditional Diffusion Model for Bird's Eye View Perception**|Jiayu Zou et.al.|[2303.08333](http://arxiv.org/abs/2303.08333)|**[link](https://github.com/jiayuzou2020/diffbev)**|
 |**2023-03-16**|**VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation**|Zhengxiong Luo et.al.|[2303.08320](http://arxiv.org/abs/2303.08320)|null|
 
-<p align=right>(<a href=#Updated-on-20250122>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250123>back to top</a>)</p>
 
 ## Image Edit
 
@@ -9204,7 +9204,7 @@
 |**2023-02-20**|**A Large Scale Homography Benchmark**|Daniel Barath et.al.|[2302.09997](http://arxiv.org/abs/2302.09997)|null|
 |**2023-02-19**|**LC-NeRF: Local Controllable Face Generation in Neural Randiance Field**|Wenyang Zhou et.al.|[2302.09486](http://arxiv.org/abs/2302.09486)|null|
 
-<p align=right>(<a href=#Updated-on-20250122>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250123>back to top</a>)</p>
 
 ## NeRF
 
@@ -9531,7 +9531,7 @@
 |**2022-12-30**|**NeRF-Gaze: A Head-Eye Redirection Parametric Model for Gaze Estimation**|Pengwei Yin et.al.|[2212.14710](http://arxiv.org/abs/2212.14710)|null|
 |**2023-03-21**|**Masked Wavelet Representation for Compact Neural Radiance Fields**|Daniel Rho et.al.|[2212.09069](http://arxiv.org/abs/2212.09069)|**[link](https://github.com/daniel03c1/masked_wavelet_nerf)**|
 
-<p align=right>(<a href=#Updated-on-20250122>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250123>back to top</a>)</p>
 
 ## Reshaping
 
@@ -9590,7 +9590,7 @@
 |**2022-05-13**|**F3A-GAN: Facial Flow for Face Animation with Generative Adversarial Networks**|Xintian Wu et.al.|[2205.06204](http://arxiv.org/abs/2205.06204)|null|
 |**2022-03-16**|**Efficient conditioned face animation using frontally-viewed embedding**|Maxime Oquab et.al.|[2203.08765](http://arxiv.org/abs/2203.08765)|null|
 
-<p align=right>(<a href=#Updated-on-20250122>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250123>back to top</a>)</p>
 
 ## Portrait 
 
@@ -10009,7 +10009,7 @@
 |**2023-03-01**|**DPE: Disentanglement of Pose and Expression for General Video Portrait Editing**|Youxin Pang et.al.|[2301.06281](http://arxiv.org/abs/2301.06281)|null|
 |**2023-01-03**|**StyleTalk: One-shot Talking Head Generation with Controllable Speaking Styles**|Yifeng Ma et.al.|[2301.01081](http://arxiv.org/abs/2301.01081)|**[link](https://github.com/fuxivirtualhuman/styletalk)**|
 
-<p align=right>(<a href=#Updated-on-20250122>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250123>back to top</a>)</p>
 
 ## Transfomer
 
@@ -10049,5 +10049,5 @@
 |**2012-01-21**|**Interior Static Stellar Model with Electric Charge as an Oscillator**|A. M. Baranov et.al.|[1201.4429](http://arxiv.org/abs/1201.4429)|null|
 |**2011-05-16**|**Exactness of the Euclidean algorithm and of the Rauzy induction on the space of interval exchange transfomations**|Tomasz Miernowski et.al.|[1104.3980](http://arxiv.org/abs/1104.3980)|null|
 
-<p align=right>(<a href=#Updated-on-20250122>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250123>back to top</a>)</p>
 

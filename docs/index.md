@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.22
+## Updated on 2025.01.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -40,7 +40,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-21**|**Regressor-Guided Image Editing Regulates Emotional Response to Reduce Online Engagement**|Christoph Gebhardt et.al.|[2501.12289](http://arxiv.org/abs/2501.12289)|null|
-|**2025-01-20**|**StAyaL | Multilingual Style Transfer**|Karishma Thakrar et.al.|[2501.11639](http://arxiv.org/abs/2501.11639)|null|
+|**2025-01-22**|**StAyaL | Multilingual Style Transfer**|Karishma Thakrar et.al.|[2501.11639](http://arxiv.org/abs/2501.11639)|null|
 |**2025-01-20**|**StyleSSP: Sampling StartPoint Enhancement for Training-free Diffusion-based Method for Style Transfer**|Ruojun Xu et.al.|[2501.11319](http://arxiv.org/abs/2501.11319)|null|
 |**2025-01-20**|**Nested Annealed Training Scheme for Generative Adversarial Networks**|Chang Wan et.al.|[2501.11318](http://arxiv.org/abs/2501.11318)|null|
 |**2025-01-20**|**A New Formulation of Lipschitz Constrained With Functional Gradient Learning for GANs**|Chang Wan et.al.|[2501.11236](http://arxiv.org/abs/2501.11236)|null|
@@ -2031,20 +2031,20 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-21**|**Towards Affordance-Aware Articulation Synthesis for Rigged Objects**|Yu-Chu Yu et.al.|[2501.12393](http://arxiv.org/abs/2501.12393)|null|
-|**2025-01-21**|**GPS as a Control Signal for Image Generation**|Chao Feng et.al.|[2501.12390](http://arxiv.org/abs/2501.12390)|null|
+|**2025-01-22**|**GPS as a Control Signal for Image Generation**|Chao Feng et.al.|[2501.12390](http://arxiv.org/abs/2501.12390)|null|
 |**2025-01-21**|**Audio Texture Manipulation by Exemplar-Based Analogy**|Kan Jen Cheng et.al.|[2501.12385](http://arxiv.org/abs/2501.12385)|null|
 |**2025-01-21**|**DiffDoctor: Diagnosing Image Diffusion Models Before Treating**|Yiyang Wang et.al.|[2501.12382](http://arxiv.org/abs/2501.12382)|null|
 |**2025-01-21**|**VipDiff: Towards Coherent and Diverse Video Inpainting via Training-free Denoising Diffusion Models**|Chaohao Xie et.al.|[2501.12267](http://arxiv.org/abs/2501.12267)|null|
 |**2025-01-21**|**Joint Reconstruction and Motion Estimation in Sparse-View 4DCT Using Diffusion Models within a Blind Inverse Problem Framework**|Antoine De Paepe et.al.|[2501.12249](http://arxiv.org/abs/2501.12249)|null|
 |**2025-01-21**|**TokenVerse: Versatile Multi-concept Personalization in Token Modulation Space**|Daniel Garibi et.al.|[2501.12224](http://arxiv.org/abs/2501.12224)|null|
-|**2025-01-21**|**Hunyuan3D 2.0: Scaling Diffusion Models for High Resolution Textured 3D Assets Generation**|Zibo Zhao et.al.|[2501.12202](http://arxiv.org/abs/2501.12202)|**[link](https://github.com/tencent/hunyuan3d-2)**|
+|**2025-01-22**|**Hunyuan3D 2.0: Scaling Diffusion Models for High Resolution Textured 3D Assets Generation**|Zibo Zhao et.al.|[2501.12202](http://arxiv.org/abs/2501.12202)|**[link](https://github.com/tencent/hunyuan3d-2)**|
 |**2025-01-21**|**ComposeAnyone: Controllable Layout-to-Human Generation with Decoupled Multimodal Conditions**|Shiyue Zhang et.al.|[2501.12173](http://arxiv.org/abs/2501.12173)|**[link](https://github.com/zhangshy1019/composeanyone)**|
 |**2025-01-20**|**EfficientVITON: An Efficient Virtual Try-On Model using Optimized Diffusion Process**|Mostafa Atef et.al.|[2501.11776](http://arxiv.org/abs/2501.11776)|null|
 |**2025-01-20**|**SILO: Solving Inverse Problems with Latent Operators**|Ron Raphaeli et.al.|[2501.11746](http://arxiv.org/abs/2501.11746)|null|
 |**2025-01-20**|**Exploring Preference-Guided Diffusion Model for Cross-Domain Recommendation**|Xiaodong Li et.al.|[2501.11671](http://arxiv.org/abs/2501.11671)|null|
 |**2025-01-20**|**Recurrent Diffusion for Large-Scale Parameter Generation**|Kai Wang et.al.|[2501.11587](http://arxiv.org/abs/2501.11587)|**[link](https://github.com/nus-hpc-ai-lab/recurrent-parameter-generation)**|
 |**2025-01-20**|**Graph Defense Diffusion Model**|Xin He et.al.|[2501.11568](http://arxiv.org/abs/2501.11568)|null|
-|**2025-01-20**|**A Survey on Diffusion Models for Anomaly Detection**|Jing Liu et.al.|[2501.11430](http://arxiv.org/abs/2501.11430)|null|
+|**2025-01-22**|**A Survey on Diffusion Models for Anomaly Detection**|Jing Liu et.al.|[2501.11430](http://arxiv.org/abs/2501.11430)|null|
 |**2025-01-20**|**Nested Annealed Training Scheme for Generative Adversarial Networks**|Chang Wan et.al.|[2501.11318](http://arxiv.org/abs/2501.11318)|null|
 |**2025-01-20**|**MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching**|Yepeng Liu et.al.|[2501.11299](http://arxiv.org/abs/2501.11299)|null|
 |**2025-01-20**|**Successive Interference Cancellation-aided Diffusion Models for Joint Channel Estimation and Data Detection in Low Rank Channel Scenarios**|Sagnik Bhattacharya et.al.|[2501.11229](http://arxiv.org/abs/2501.11229)|null|

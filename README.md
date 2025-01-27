@@ -51,6 +51,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-24**|**Training-Free Style and Content Transfer by Leveraging U-Net Skip Connections in Stable Diffusion 2.***|Ludovica Schaerf et.al.|[2501.14524](http://arxiv.org/abs/2501.14524)|null|
+|**2025-01-24**|**CDI: Blind Image Restoration Fidelity Evaluation based on Consistency with Degraded Image**|Xiaojun Tang et.al.|[2501.14264](http://arxiv.org/abs/2501.14264)|null|
+|**2025-01-22**|**Synthetic CT image generation from CBCT: A Systematic Review**|Alzahra Altalib et.al.|[2501.13972](http://arxiv.org/abs/2501.13972)|null|
 |**2025-01-23**|**Everyone-Can-Sing: Zero-Shot Singing Voice Synthesis and Conversion with Speech Reference**|Shuqi Dai et.al.|[2501.13870](http://arxiv.org/abs/2501.13870)|null|
 |**2025-01-23**|**The Lock Generative Adversarial Network for Medical Waveform Anomaly Detection**|Wenjie Xu et.al.|[2501.13858](http://arxiv.org/abs/2501.13858)|null|
 |**2025-01-23**|**Predicting Compact Phrasal Rewrites with Large Language Models for ASR Post Editing**|Hao Zhang et.al.|[2501.13831](http://arxiv.org/abs/2501.13831)|null|
@@ -2051,6 +2054,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-24**|**Diffusion based Text-to-Music Generationwith Global and Local Text based Conditioning**|Jisi Zhang et.al.|[2501.14680](http://arxiv.org/abs/2501.14680)|null|
+|**2025-01-24**|**Training-Free Style and Content Transfer by Leveraging U-Net Skip Connections in Stable Diffusion 2.***|Ludovica Schaerf et.al.|[2501.14524](http://arxiv.org/abs/2501.14524)|null|
+|**2025-01-24**|**Advancing data-driven broadband seismic wavefield simulation with multi-conditional diffusion model**|Zhengfa Bi et.al.|[2501.14348](http://arxiv.org/abs/2501.14348)|null|
+|**2025-01-24**|**Stochastic Method for Delayed Neutron Precursors Transport in Liquid Fuel**|Mathis Caprais et.al.|[2501.14332](http://arxiv.org/abs/2501.14332)|null|
+|**2025-01-24**|**CDI: Blind Image Restoration Fidelity Evaluation based on Consistency with Degraded Image**|Xiaojun Tang et.al.|[2501.14264](http://arxiv.org/abs/2501.14264)|null|
+|**2025-01-24**|**TFG-Flow: Training-free Guidance in Multimodal Generative Flow**|Haowei Lin et.al.|[2501.14216](http://arxiv.org/abs/2501.14216)|null|
+|**2025-01-23**|**INDIGO+: A Unified INN-Guided Probabilistic Diffusion Algorithm for Blind and Non-Blind Image Restoration**|Di You et.al.|[2501.14014](http://arxiv.org/abs/2501.14014)|null|
 |**2025-01-23**|**IMAGINE-E: Image Generation Intelligence Evaluation of State-of-the-art Text-to-Image Models**|Jiayi Lei et.al.|[2501.13920](http://arxiv.org/abs/2501.13920)|null|
 |**2025-01-23**|**Improving Video Generation with Human Feedback**|Jie Liu et.al.|[2501.13918](http://arxiv.org/abs/2501.13918)|null|
 |**2025-01-23**|**Unveiling the Power of Noise Priors: Enhancing Diffusion Models for Mobile Traffic Prediction**|Zhi Sheng et.al.|[2501.13794](http://arxiv.org/abs/2501.13794)|null|
@@ -8115,6 +8125,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-24**|**Training-Free Style and Content Transfer by Leveraging U-Net Skip Connections in Stable Diffusion 2.***|Ludovica Schaerf et.al.|[2501.14524](http://arxiv.org/abs/2501.14524)|null|
+|**2025-01-24**|**CDI: Blind Image Restoration Fidelity Evaluation based on Consistency with Degraded Image**|Xiaojun Tang et.al.|[2501.14264](http://arxiv.org/abs/2501.14264)|null|
+|**2025-01-23**|**INDIGO+: A Unified INN-Guided Probabilistic Diffusion Algorithm for Blind and Non-Blind Image Restoration**|Di You et.al.|[2501.14014](http://arxiv.org/abs/2501.14014)|null|
 |**2025-01-23**|**IMAGINE-E: Image Generation Intelligence Evaluation of State-of-the-art Text-to-Image Models**|Jiayi Lei et.al.|[2501.13920](http://arxiv.org/abs/2501.13920)|null|
 |**2025-01-23**|**Binary Diffusion Probabilistic Model**|Vitaliy Kinakh et.al.|[2501.13915](http://arxiv.org/abs/2501.13915)|null|
 |**2025-01-23**|**Training-Free Consistency Pipeline for Fashion Repose**|Potito Aghilar et.al.|[2501.13692](http://arxiv.org/abs/2501.13692)|null|
@@ -9638,6 +9651,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-24**|**Planar Kolmogorov systems with infinitely many singular points at infinity**|Érika Diz-Pita et.al.|[2501.14416](http://arxiv.org/abs/2501.14416)|null|
 |**2025-01-23**|**Global phase portraits of a predator-prey system**|Érika Diz-Pita et.al.|[2501.13728](http://arxiv.org/abs/2501.13728)|null|
 |**2025-01-23**|**Phase portraits of a family of Kolmogorov systems depending on six parameters**|Érika Diz-Pita et.al.|[2501.13714](http://arxiv.org/abs/2501.13714)|null|
 |**2025-01-20**|**Artificial Neural Networks for Magnetoencephalography: A review of an emerging field**|Arthur Dehgan et.al.|[2501.11566](http://arxiv.org/abs/2501.11566)|null|

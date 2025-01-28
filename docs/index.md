@@ -39,6 +39,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-27**|**Generating Spatial Synthetic Populations Using Wasserstein Generative Adversarial Network: A Case Study with EU-SILC Data for Helsinki and Thessaloniki**|Vanja Falck et.al.|[2501.16080](http://arxiv.org/abs/2501.16080)|null|
+|**2025-01-27**|**Can Location Embeddings Enhance Super-Resolution of Satellite Imagery?**|Daniel Panangian et.al.|[2501.15847](http://arxiv.org/abs/2501.15847)|null|
+|**2025-01-26**|**Comparative clinical evaluation of "memory-efficient" synthetic 3d generative adversarial networks (gan) head-to-head to state of art: results on computed tomography of the chest**|Mahshid shiri et.al.|[2501.15572](http://arxiv.org/abs/2501.15572)|null|
 |**2025-01-24**|**Training-Free Style and Content Transfer by Leveraging U-Net Skip Connections in Stable Diffusion 2.***|Ludovica Schaerf et.al.|[2501.14524](http://arxiv.org/abs/2501.14524)|null|
 |**2025-01-24**|**CDI: Blind Image Restoration Fidelity Evaluation based on Consistency with Degraded Image**|Xiaojun Tang et.al.|[2501.14264](http://arxiv.org/abs/2501.14264)|null|
 |**2025-01-22**|**Synthetic CT image generation from CBCT: A Systematic Review**|Alzahra Altalib et.al.|[2501.13972](http://arxiv.org/abs/2501.13972)|null|
@@ -2040,6 +2043,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-27**|**RelightVid: Temporal-Consistent Diffusion Model for Video Relighting**|Ye Fang et.al.|[2501.16330](http://arxiv.org/abs/2501.16330)|null|
+|**2025-01-27**|**Congested Crossing Pedestrian Traffic Flow : Dispersion vs. Transport in Crowded Areas**|Mariam Al Khatib et.al.|[2501.16275](http://arxiv.org/abs/2501.16275)|null|
+|**2025-01-27**|**UDBE: Unsupervised Diffusion-based Brightness Enhancement in Underwater Images**|Tatiana Taís Schein et.al.|[2501.16211](http://arxiv.org/abs/2501.16211)|**[link](https://github.com/gusanagy/udbe)**|
+|**2025-01-27**|**Multi-front dynamics in spatially inhomogeneous Allen-Cahn equations**|Robbin Bastiaansen et.al.|[2501.16195](http://arxiv.org/abs/2501.16195)|null|
+|**2025-01-27**|**BAG: Body-Aligned 3D Wearable Asset Generation**|Zhongjin Luo et.al.|[2501.16177](http://arxiv.org/abs/2501.16177)|null|
+|**2025-01-27**|**Efficient Portrait Matte Creation With Layer Diffusion and Connectivity Priors**|Zhiyuan Lu et.al.|[2501.16147](http://arxiv.org/abs/2501.16147)|null|
+|**2025-01-27**|**Using Generative Models to Produce Realistic Populations of UK Windstorms**|Yee Chun Tsoi et.al.|[2501.16110](http://arxiv.org/abs/2501.16110)|null|
+|**2025-01-27**|**Improving Tropical Cyclone Forecasting With Video Diffusion Models**|Zhibo Ren et.al.|[2501.16003](http://arxiv.org/abs/2501.16003)|**[link](https://github.com/ren-creater/forecast-video-diffmodels)**|
+|**2025-01-27**|**MatCLIP: Light- and Shape-Insensitive Assignment of PBR Material Models**|Michael Birsak et.al.|[2501.15981](http://arxiv.org/abs/2501.15981)|null|
+|**2025-01-27**|**Generative AI for Lyapunov Optimization Theory in UAV-based Low-Altitude Economy Networking**|Zhang Liu et.al.|[2501.15928](http://arxiv.org/abs/2501.15928)|null|
+|**2025-01-27**|**Slot-Guided Adaptation of Pre-trained Diffusion Models for Object-Centric Learning and Compositional Generation**|Adil Kaan Akan et.al.|[2501.15878](http://arxiv.org/abs/2501.15878)|null|
+|**2025-01-27**|**Can Location Embeddings Enhance Super-Resolution of Satellite Imagery?**|Daniel Panangian et.al.|[2501.15847](http://arxiv.org/abs/2501.15847)|null|
+|**2025-01-27**|**Memorization and Regularization in Generative Diffusion Models**|Ricardo Baptista et.al.|[2501.15785](http://arxiv.org/abs/2501.15785)|null|
+|**2025-01-26**|**BoKDiff: Best-of-K Diffusion Alignment for Target-Specific 3D Molecule Generation**|Ali Khodabandeh Yalabadi et.al.|[2501.15631](http://arxiv.org/abs/2501.15631)|**[link](https://github.com/khodabandeh-ali/bokdiff)**|
+|**2025-01-26**|**Cross-Cultural Fashion Design via Interactive Large Language Models and Diffusion Models**|Spencer Ramsey et.al.|[2501.15571](http://arxiv.org/abs/2501.15571)|null|
+|**2025-01-26**|**CE-SDWV: Effective and Efficient Concept Erasure for Text-to-Image Diffusion Models via a Semantic-Driven Word Vocabulary**|Jiahang Tu et.al.|[2501.15562](http://arxiv.org/abs/2501.15562)|null|
+|**2025-01-26**|**Distributionally Robust Graph Out-of-Distribution Recommendation via Diffusion Model**|Chu Zhao et.al.|[2501.15555](http://arxiv.org/abs/2501.15555)|null|
+|**2025-01-26**|**LoRAGuard: An Effective Black-box Watermarking Approach for LoRAs**|Peizhuo Lv et.al.|[2501.15478](http://arxiv.org/abs/2501.15478)|null|
+|**2025-01-26**|**SQ-DM: Accelerating Diffusion Models with Aggressive Quantization and Temporal Sparsity**|Zichen Fan et.al.|[2501.15448](http://arxiv.org/abs/2501.15448)|null|
+|**2025-01-26**|**StochSync: Stochastic Diffusion Synchronization for Image Generation in Arbitrary Spaces**|Kyeongmin Yeo et.al.|[2501.15445](http://arxiv.org/abs/2501.15445)|null|
 |**2025-01-24**|**Diffusion based Text-to-Music Generationwith Global and Local Text based Conditioning**|Jisi Zhang et.al.|[2501.14680](http://arxiv.org/abs/2501.14680)|null|
 |**2025-01-24**|**Training-Free Style and Content Transfer by Leveraging U-Net Skip Connections in Stable Diffusion 2.***|Ludovica Schaerf et.al.|[2501.14524](http://arxiv.org/abs/2501.14524)|null|
 |**2025-01-24**|**Advancing data-driven broadband seismic wavefield simulation with multi-conditional diffusion model**|Zhengfa Bi et.al.|[2501.14348](http://arxiv.org/abs/2501.14348)|null|
@@ -8109,6 +8132,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-27**|**CausalSR: Structural Causal Model-Driven Super-Resolution with Counterfactual Inference**|Zhengyang Lu et.al.|[2501.15852](http://arxiv.org/abs/2501.15852)|null|
+|**2025-01-26**|**Universal Image Restoration Pre-training via Degradation Classification**|JiaKui Hu et.al.|[2501.15510](http://arxiv.org/abs/2501.15510)|**[link](https://github.com/milab-pku/dcpt)**|
+|**2025-01-24**|**MATCHA:Towards Matching Anything**|Fei Xue et.al.|[2501.14945](http://arxiv.org/abs/2501.14945)|null|
 |**2025-01-24**|**Training-Free Style and Content Transfer by Leveraging U-Net Skip Connections in Stable Diffusion 2.***|Ludovica Schaerf et.al.|[2501.14524](http://arxiv.org/abs/2501.14524)|null|
 |**2025-01-24**|**CDI: Blind Image Restoration Fidelity Evaluation based on Consistency with Degraded Image**|Xiaojun Tang et.al.|[2501.14264](http://arxiv.org/abs/2501.14264)|null|
 |**2025-01-23**|**INDIGO+: A Unified INN-Guided Probabilistic Diffusion Algorithm for Blind and Non-Blind Image Restoration**|Di You et.al.|[2501.14014](http://arxiv.org/abs/2501.14014)|null|
@@ -9629,6 +9655,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-27**|**Efficient Portrait Matte Creation With Layer Diffusion and Connectivity Priors**|Zhiyuan Lu et.al.|[2501.16147](http://arxiv.org/abs/2501.16147)|null|
 |**2025-01-24**|**Planar Kolmogorov systems with infinitely many singular points at infinity**|Érika Diz-Pita et.al.|[2501.14416](http://arxiv.org/abs/2501.14416)|null|
 |**2025-01-23**|**Global phase portraits of a predator-prey system**|Érika Diz-Pita et.al.|[2501.13728](http://arxiv.org/abs/2501.13728)|null|
 |**2025-01-23**|**Phase portraits of a family of Kolmogorov systems depending on six parameters**|Érika Diz-Pita et.al.|[2501.13714](http://arxiv.org/abs/2501.13714)|null|

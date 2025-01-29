@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.28
+## Updated on 2025.01.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -2053,7 +2053,7 @@ layout: default
 |**2025-01-27**|**Improving Tropical Cyclone Forecasting With Video Diffusion Models**|Zhibo Ren et.al.|[2501.16003](http://arxiv.org/abs/2501.16003)|**[link](https://github.com/ren-creater/forecast-video-diffmodels)**|
 |**2025-01-27**|**MatCLIP: Light- and Shape-Insensitive Assignment of PBR Material Models**|Michael Birsak et.al.|[2501.15981](http://arxiv.org/abs/2501.15981)|null|
 |**2025-01-27**|**Generative AI for Lyapunov Optimization Theory in UAV-based Low-Altitude Economy Networking**|Zhang Liu et.al.|[2501.15928](http://arxiv.org/abs/2501.15928)|null|
-|**2025-01-27**|**Slot-Guided Adaptation of Pre-trained Diffusion Models for Object-Centric Learning and Compositional Generation**|Adil Kaan Akan et.al.|[2501.15878](http://arxiv.org/abs/2501.15878)|null|
+|**2025-01-28**|**Slot-Guided Adaptation of Pre-trained Diffusion Models for Object-Centric Learning and Compositional Generation**|Adil Kaan Akan et.al.|[2501.15878](http://arxiv.org/abs/2501.15878)|null|
 |**2025-01-27**|**Can Location Embeddings Enhance Super-Resolution of Satellite Imagery?**|Daniel Panangian et.al.|[2501.15847](http://arxiv.org/abs/2501.15847)|null|
 |**2025-01-27**|**Memorization and Regularization in Generative Diffusion Models**|Ricardo Baptista et.al.|[2501.15785](http://arxiv.org/abs/2501.15785)|null|
 |**2025-01-26**|**BoKDiff: Best-of-K Diffusion Alignment for Target-Specific 3D Molecule Generation**|Ali Khodabandeh Yalabadi et.al.|[2501.15631](http://arxiv.org/abs/2501.15631)|**[link](https://github.com/khodabandeh-ali/bokdiff)**|
@@ -9604,7 +9604,7 @@ layout: default
 |**2024-09-23**|**MIMAFace: Face Animation via Motion-Identity Modulated Appearance Feature Learning**|Yue Han et.al.|[2409.15179](http://arxiv.org/abs/2409.15179)|null|
 |**2024-09-02**|**KMTalk: Speech-Driven 3D Facial Animation with Key Motion Embedding**|Zhihao Xu et.al.|[2409.01113](http://arxiv.org/abs/2409.01113)|**[link](https://github.com/ffxzh/kmtalk)**|
 |**2024-08-23**|**G3FA: Geometry-guided GAN for Face Animation**|Alireza Javanmardi et.al.|[2408.13049](http://arxiv.org/abs/2408.13049)|null|
-|**2024-08-21**|**EmoFace: Emotion-Content Disentangled Speech-Driven 3D Talking Face with Mesh Attention**|Yihong Lin et.al.|[2408.11518](http://arxiv.org/abs/2408.11518)|null|
+|**2025-01-28**|**EmoFace: Emotion-Content Disentangled Speech-Driven 3D Talking Face Animation**|Yihong Lin et.al.|[2408.11518](http://arxiv.org/abs/2408.11518)|null|
 |**2024-08-18**|**Meta-Learning Empowered Meta-Face: Personalized Speaking Style Adaptation for Audio-Driven 3D Talking Face Animation**|Xukun Zhou et.al.|[2408.09357](http://arxiv.org/abs/2408.09357)|null|
 |**2024-12-11**|**DEEPTalk: Dynamic Emotion Embedding for Probabilistic Speech-Driven 3D Face Animation**|Jisoo Kim et.al.|[2408.06010](http://arxiv.org/abs/2408.06010)|null|
 |**2024-07-17**|**EmoFace: Audio-driven Emotional 3D Face Animation**|Chang Liu et.al.|[2407.12501](http://arxiv.org/abs/2407.12501)|**[link](https://github.com/sjtu-lucy/emoface)**|

@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.28
+## Updated on 2025.01.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -45,7 +45,7 @@
 |**2022-11-21**|**Towards Live 3D Reconstruction from Wearable Video: An Evaluation of V-SLAM, NeRF, and Videogrammetry Techniques**|David Ramirez et.al.|[2211.11836](http://arxiv.org/abs/2211.11836)|null|
 |**2022-11-14**|**Controllable GAN Synthesis Using Non-Rigid Structure-from-Motion**|René Haas et.al.|[2211.07195](http://arxiv.org/abs/2211.07195)|null|
 
-<p align=right>(<a href=#Updated-on-20250128>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250129>back to top</a>)</p>
 
 ## GAN
 
@@ -2051,7 +2051,7 @@
 |**2023-03-14**|**3D Face Arbitrary Style Transfer**|Xiangwen Deng et.al.|[2303.07709](http://arxiv.org/abs/2303.07709)|null|
 |**2023-03-13**|**AGTGAN: Unpaired Image Translation for Photographic Ancient Character Generation**|Hongxiang Huang et.al.|[2303.07012](http://arxiv.org/abs/2303.07012)|**[link](https://github.com/hellomystery/agtgan)**|
 
-<p align=right>(<a href=#Updated-on-20250128>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250129>back to top</a>)</p>
 
 ## Diffusion Model
 
@@ -2067,7 +2067,7 @@
 |**2025-01-27**|**Improving Tropical Cyclone Forecasting With Video Diffusion Models**|Zhibo Ren et.al.|[2501.16003](http://arxiv.org/abs/2501.16003)|**[link](https://github.com/ren-creater/forecast-video-diffmodels)**|
 |**2025-01-27**|**MatCLIP: Light- and Shape-Insensitive Assignment of PBR Material Models**|Michael Birsak et.al.|[2501.15981](http://arxiv.org/abs/2501.15981)|null|
 |**2025-01-27**|**Generative AI for Lyapunov Optimization Theory in UAV-based Low-Altitude Economy Networking**|Zhang Liu et.al.|[2501.15928](http://arxiv.org/abs/2501.15928)|null|
-|**2025-01-27**|**Slot-Guided Adaptation of Pre-trained Diffusion Models for Object-Centric Learning and Compositional Generation**|Adil Kaan Akan et.al.|[2501.15878](http://arxiv.org/abs/2501.15878)|null|
+|**2025-01-28**|**Slot-Guided Adaptation of Pre-trained Diffusion Models for Object-Centric Learning and Compositional Generation**|Adil Kaan Akan et.al.|[2501.15878](http://arxiv.org/abs/2501.15878)|null|
 |**2025-01-27**|**Can Location Embeddings Enhance Super-Resolution of Satellite Imagery?**|Daniel Panangian et.al.|[2501.15847](http://arxiv.org/abs/2501.15847)|null|
 |**2025-01-27**|**Memorization and Regularization in Generative Diffusion Models**|Ricardo Baptista et.al.|[2501.15785](http://arxiv.org/abs/2501.15785)|null|
 |**2025-01-26**|**BoKDiff: Best-of-K Diffusion Alignment for Target-Specific 3D Molecule Generation**|Ali Khodabandeh Yalabadi et.al.|[2501.15631](http://arxiv.org/abs/2501.15631)|**[link](https://github.com/khodabandeh-ali/bokdiff)**|
@@ -8142,7 +8142,7 @@
 |**2023-03-15**|**DiffBEV: Conditional Diffusion Model for Bird's Eye View Perception**|Jiayu Zou et.al.|[2303.08333](http://arxiv.org/abs/2303.08333)|**[link](https://github.com/jiayuzou2020/diffbev)**|
 |**2023-03-16**|**VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation**|Zhengxiong Luo et.al.|[2303.08320](http://arxiv.org/abs/2303.08320)|null|
 
-<p align=right>(<a href=#Updated-on-20250128>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250129>back to top</a>)</p>
 
 ## Image Edit
 
@@ -9285,7 +9285,7 @@
 |**2023-02-20**|**A Large Scale Homography Benchmark**|Daniel Barath et.al.|[2302.09997](http://arxiv.org/abs/2302.09997)|null|
 |**2023-02-19**|**LC-NeRF: Local Controllable Face Generation in Neural Randiance Field**|Wenyang Zhou et.al.|[2302.09486](http://arxiv.org/abs/2302.09486)|null|
 
-<p align=right>(<a href=#Updated-on-20250128>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250129>back to top</a>)</p>
 
 ## NeRF
 
@@ -9612,7 +9612,7 @@
 |**2022-12-30**|**NeRF-Gaze: A Head-Eye Redirection Parametric Model for Gaze Estimation**|Pengwei Yin et.al.|[2212.14710](http://arxiv.org/abs/2212.14710)|null|
 |**2023-03-21**|**Masked Wavelet Representation for Compact Neural Radiance Fields**|Daniel Rho et.al.|[2212.09069](http://arxiv.org/abs/2212.09069)|**[link](https://github.com/daniel03c1/masked_wavelet_nerf)**|
 
-<p align=right>(<a href=#Updated-on-20250128>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250129>back to top</a>)</p>
 
 ## Reshaping
 
@@ -9624,7 +9624,7 @@
 |**2024-09-23**|**MIMAFace: Face Animation via Motion-Identity Modulated Appearance Feature Learning**|Yue Han et.al.|[2409.15179](http://arxiv.org/abs/2409.15179)|null|
 |**2024-09-02**|**KMTalk: Speech-Driven 3D Facial Animation with Key Motion Embedding**|Zhihao Xu et.al.|[2409.01113](http://arxiv.org/abs/2409.01113)|**[link](https://github.com/ffxzh/kmtalk)**|
 |**2024-08-23**|**G3FA: Geometry-guided GAN for Face Animation**|Alireza Javanmardi et.al.|[2408.13049](http://arxiv.org/abs/2408.13049)|null|
-|**2024-08-21**|**EmoFace: Emotion-Content Disentangled Speech-Driven 3D Talking Face with Mesh Attention**|Yihong Lin et.al.|[2408.11518](http://arxiv.org/abs/2408.11518)|null|
+|**2025-01-28**|**EmoFace: Emotion-Content Disentangled Speech-Driven 3D Talking Face Animation**|Yihong Lin et.al.|[2408.11518](http://arxiv.org/abs/2408.11518)|null|
 |**2024-08-18**|**Meta-Learning Empowered Meta-Face: Personalized Speaking Style Adaptation for Audio-Driven 3D Talking Face Animation**|Xukun Zhou et.al.|[2408.09357](http://arxiv.org/abs/2408.09357)|null|
 |**2024-12-11**|**DEEPTalk: Dynamic Emotion Embedding for Probabilistic Speech-Driven 3D Face Animation**|Jisoo Kim et.al.|[2408.06010](http://arxiv.org/abs/2408.06010)|null|
 |**2024-07-17**|**EmoFace: Audio-driven Emotional 3D Face Animation**|Chang Liu et.al.|[2407.12501](http://arxiv.org/abs/2407.12501)|**[link](https://github.com/sjtu-lucy/emoface)**|
@@ -9671,7 +9671,7 @@
 |**2022-05-13**|**F3A-GAN: Facial Flow for Face Animation with Generative Adversarial Networks**|Xintian Wu et.al.|[2205.06204](http://arxiv.org/abs/2205.06204)|null|
 |**2022-03-16**|**Efficient conditioned face animation using frontally-viewed embedding**|Maxime Oquab et.al.|[2203.08765](http://arxiv.org/abs/2203.08765)|null|
 
-<p align=right>(<a href=#Updated-on-20250128>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250129>back to top</a>)</p>
 
 ## Portrait 
 
@@ -10094,7 +10094,7 @@
 |**2023-03-01**|**DPE: Disentanglement of Pose and Expression for General Video Portrait Editing**|Youxin Pang et.al.|[2301.06281](http://arxiv.org/abs/2301.06281)|null|
 |**2023-01-03**|**StyleTalk: One-shot Talking Head Generation with Controllable Speaking Styles**|Yifeng Ma et.al.|[2301.01081](http://arxiv.org/abs/2301.01081)|**[link](https://github.com/fuxivirtualhuman/styletalk)**|
 
-<p align=right>(<a href=#Updated-on-20250128>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250129>back to top</a>)</p>
 
 ## Transfomer
 
@@ -10134,5 +10134,5 @@
 |**2012-01-21**|**Interior Static Stellar Model with Electric Charge as an Oscillator**|A. M. Baranov et.al.|[1201.4429](http://arxiv.org/abs/1201.4429)|null|
 |**2011-05-16**|**Exactness of the Euclidean algorithm and of the Rauzy induction on the space of interval exchange transfomations**|Tomasz Miernowski et.al.|[1104.3980](http://arxiv.org/abs/1104.3980)|null|
 
-<p align=right>(<a href=#Updated-on-20250128>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250129>back to top</a>)</p>
 

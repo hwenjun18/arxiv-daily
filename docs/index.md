@@ -39,6 +39,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**CGAN-Based Framework for Meson Mass and Width Prediction**|S. Rostami et.al.|[2501.18562](http://arxiv.org/abs/2501.18562)|null|
+|**2025-01-30**|**LLMs can see and hear without any training**|Kumar Ashutosh et.al.|[2501.18096](http://arxiv.org/abs/2501.18096)|**[link](https://github.com/facebookresearch/mils)**|
+|**2025-01-29**|**Generative AI for Vision: A Comprehensive Study of Frameworks and Applications**|Fouad Bousetouane et.al.|[2501.18033](http://arxiv.org/abs/2501.18033)|null|
 |**2025-01-29**|**Trustworthy image-to-image translation: evaluating uncertainty calibration in unpaired training scenarios**|Ciaran Bench et.al.|[2501.17570](http://arxiv.org/abs/2501.17570)|null|
 |**2025-01-25**|**Deep Learning in Wireless Communication Receiver: A Survey**|Shadman Rahman Doha et.al.|[2501.17184](http://arxiv.org/abs/2501.17184)|null|
 |**2025-01-28**|**MAUCell: An Adaptive Multi-Attention Framework for Video Frame Prediction**|Shreyam Gupta et.al.|[2501.16997](http://arxiv.org/abs/2501.16997)|null|
@@ -2047,6 +2050,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**DiffusionRenderer: Neural Inverse and Forward Rendering with Video Diffusion Models**|Ruofan Liang et.al.|[2501.18590](http://arxiv.org/abs/2501.18590)|null|
+|**2025-01-30**|**Free-T2M: Frequency Enhanced Text-to-Motion Diffusion Model With Consistency Loss**|Wenshuo Chen et.al.|[2501.18232](http://arxiv.org/abs/2501.18232)|**[link](https://github.com/Hxxxz0/Free-T2m)**|
+|**2025-01-30**|**Inverse source problem of sub-diffusion of variable exponent**|Zhiyuan Li et.al.|[2501.18228](http://arxiv.org/abs/2501.18228)|null|
+|**2025-01-29**|**SAeUron: Interpretable Concept Unlearning in Diffusion Models with Sparse Autoencoders**|Bartosz Cywiński et.al.|[2501.18052](http://arxiv.org/abs/2501.18052)|null|
+|**2025-01-28**|**ProcTex: Consistent and Interactive Text-to-texture Synthesis for Procedural Models**|Ruiqi Xu et.al.|[2501.17895](http://arxiv.org/abs/2501.17895)|null|
 |**2025-01-29**|**VICCA: Visual Interpretation and Comprehension of Chest X-ray Anomalies in Generated Report Without Human Feedback**|Sayeh Gholipour Picha et.al.|[2501.17726](http://arxiv.org/abs/2501.17726)|null|
 |**2025-01-29**|**Distinguished Quantized Guidance for Diffusion-based Sequence Recommendation**|Wenyu Mao et.al.|[2501.17670](http://arxiv.org/abs/2501.17670)|null|
 |**2025-01-29**|**Solving Inverse Problems using Diffusion with Fast Iterative Renoising**|Matt C. Bendel et.al.|[2501.17468](http://arxiv.org/abs/2501.17468)|null|
@@ -8154,6 +8162,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**DiffusionRenderer: Neural Inverse and Forward Rendering with Video Diffusion Models**|Ruofan Liang et.al.|[2501.18590](http://arxiv.org/abs/2501.18590)|null|
+|**2025-01-30**|**Integrating Spatial and Frequency Information for Under-Display Camera Image Restoration**|Kyusu Ahn et.al.|[2501.18517](http://arxiv.org/abs/2501.18517)|null|
+|**2025-01-30**|**MatIR: A Hybrid Mamba-Transformer Image Restoration Model**|Juan Wen et.al.|[2501.18401](http://arxiv.org/abs/2501.18401)|null|
 |**2025-01-27**|**Directing Mamba to Complex Textures: An Efficient Texture-Aware State Space Model for Image Restoration**|Long Peng et.al.|[2501.16583](http://arxiv.org/abs/2501.16583)|null|
 |**2025-01-27**|**CausalSR: Structural Causal Model-Driven Super-Resolution with Counterfactual Inference**|Zhengyang Lu et.al.|[2501.15852](http://arxiv.org/abs/2501.15852)|**[link](https://github.com/Mnster00/CasualSR)**|
 |**2025-01-26**|**Universal Image Restoration Pre-training via Degradation Classification**|JiaKui Hu et.al.|[2501.15510](http://arxiv.org/abs/2501.15510)|**[link](https://github.com/milab-pku/dcpt)**|

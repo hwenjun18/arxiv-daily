@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.05
+## Updated on 2025.02.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -2080,7 +2080,7 @@ layout: default
 |**2025-02-04**|**On the Guidance of Flow Matching**|Ruiqi Feng et.al.|[2502.02150](http://arxiv.org/abs/2502.02150)|null|
 |**2025-02-04**|**One Diffusion Step to Real-World Super-Resolution via Flow Trajectory Distillation**|Jianze Li et.al.|[2502.01993](http://arxiv.org/abs/2502.01993)|null|
 |**2025-02-04**|**Rethinking Timesteps Samplers and Prediction Types**|Bin Xie et.al.|[2502.01990](http://arxiv.org/abs/2502.01990)|null|
-|**2025-02-04**|**T-SCEND: Test-time Scalable MCTS-enhanced Diffusion Model**|Tao Zhang et.al.|[2502.01989](http://arxiv.org/abs/2502.01989)|null|
+|**2025-02-05**|**T-SCEND: Test-time Scalable MCTS-enhanced Diffusion Model**|Tao Zhang et.al.|[2502.01989](http://arxiv.org/abs/2502.01989)|null|
 |**2025-02-04**|**Generative Data Mining with Longtail-Guided Diffusion**|David S. Hayden et.al.|[2502.01980](http://arxiv.org/abs/2502.01980)|null|
 |**2025-01-31**|**Beyond Fixed Horizons: A Theoretical Framework for Adaptive Denoising Diffusions**|Sören Christensen et.al.|[2501.19373](http://arxiv.org/abs/2501.19373)|null|
 |**2025-01-31**|**Pathological MRI Segmentation by Synthetic Pathological Data Generation in Fetuses and Neonates**|Misha P. T Kaandorp et.al.|[2501.19338](http://arxiv.org/abs/2501.19338)|null|

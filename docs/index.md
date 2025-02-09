@@ -43,7 +43,7 @@ layout: default
 |**2025-02-06**|**Generative Adversarial Networks Bridging Art and Machine Intelligence**|Junhao Song et.al.|[2502.04116](http://arxiv.org/abs/2502.04116)|null|
 |**2025-02-04**|**Controllable Video Generation with Provable Disentanglement**|Yifan Shen et.al.|[2502.02690](http://arxiv.org/abs/2502.02690)|null|
 |**2025-02-04**|**Muographic Image Upsampling with Machine Learning for Built Infrastructure Applications**|William O'Donnell et.al.|[2502.02624](http://arxiv.org/abs/2502.02624)|null|
-|**2025-02-05**|**AAD-DCE: An Aggregated Multimodal Attention Mechanism for Early and Late Dynamic Contrast Enhanced Prostate MRI Synthesis**|Divya Bharti et.al.|[2502.02555](http://arxiv.org/abs/2502.02555)|null|
+|**2025-02-05**|**AAD-DCE: An Aggregated Multimodal Attention Mechanism for Early and Late Dynamic Contrast Enhanced Prostate MRI Synthesis**|Divya Bharti et.al.|[2502.02555](http://arxiv.org/abs/2502.02555)|**[link](https://github.com/bhartidivya/aad-dce)**|
 |**2025-02-04**|**Style transfer as data augmentation: evaluating unpaired image-to-image translation models in mammography**|Emir Ahmed et.al.|[2502.02475](http://arxiv.org/abs/2502.02475)|null|
 |**2025-02-03**|**Texture Image Synthesis Using Spatial GAN Based on Vision Transformers**|Elahe Salari et.al.|[2502.01842](http://arxiv.org/abs/2502.01842)|null|
 |**2025-02-01**|**Semantic Communication based on Generative AI: A New Approach to Image Compression and Edge Optimization**|Francesco Pezone et.al.|[2502.01675](http://arxiv.org/abs/2502.01675)|null|

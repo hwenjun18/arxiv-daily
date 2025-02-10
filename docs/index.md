@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.09
+## Updated on 2025.02.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -2081,7 +2081,7 @@ layout: default
 |**2025-02-05**|**Towards Physical Understanding in Video Generation: A 3D Point Regularization Approach**|Yunuo Chen et.al.|[2502.03639](http://arxiv.org/abs/2502.03639)|null|
 |**2025-02-05**|**SymmCD: Symmetry-Preserving Crystal Generation with Diffusion Models**|Daniel Levy et.al.|[2502.03638](http://arxiv.org/abs/2502.03638)|null|
 |**2025-02-05**|**Simultaneous Multi-Robot Motion Planning with Projected Diffusion Models**|Jinhao Liang et.al.|[2502.03607](http://arxiv.org/abs/2502.03607)|null|
-|**2025-02-05**|**Path Planning for Masked Diffusion Model Sampling**|Fred Zhangzhi Peng et.al.|[2502.03540](http://arxiv.org/abs/2502.03540)|null|
+|**2025-02-07**|**Path Planning for Masked Diffusion Model Sampling**|Fred Zhangzhi Peng et.al.|[2502.03540](http://arxiv.org/abs/2502.03540)|null|
 |**2025-02-05**|**Dress-1-to-3: Single Image to Simulation-Ready 3D Outfit with Diffusion Prior and Differentiable Physics**|Xuan Li et.al.|[2502.03449](http://arxiv.org/abs/2502.03449)|null|
 |**2025-02-05**|**Masked Autoencoders Are Effective Tokenizers for Diffusion Models**|Hao Chen et.al.|[2502.03444](http://arxiv.org/abs/2502.03444)|null|
 |**2025-02-05**|**TruePose: Human-Parsing-guided Attention Diffusion for Full-ID Preserving Pose Transfer**|Zhihong Xu et.al.|[2502.03426](http://arxiv.org/abs/2502.03426)|null|

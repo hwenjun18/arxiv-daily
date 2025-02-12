@@ -51,6 +51,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-11**|**Direct Ascent Synthesis: Revealing Hidden Generative Capabilities in Discriminative Models**|Stanislav Fort et.al.|[2502.07753](http://arxiv.org/abs/2502.07753)|null|
+|**2025-02-11**|**Towards THz-based Obstacle Sensing: A Generative Radio Environment Awareness Framework**|Tianyu Hu et.al.|[2502.07504](http://arxiv.org/abs/2502.07504)|null|
+|**2025-02-11**|**Less is More: Masking Elements in Image Condition Features Avoids Content Leakages in Style Transfer Diffusion Models**|Lin Zhu et.al.|[2502.07466](http://arxiv.org/abs/2502.07466)|null|
+|**2025-02-10**|**Likelihood-Free Estimation for Spatiotemporal Hawkes processes with missing data and application to predictive policing**|Pramit Das et.al.|[2502.07111](http://arxiv.org/abs/2502.07111)|null|
+|**2025-02-08**|**BF-GAN: Development of an AI-driven Bubbly Flow Image Generation Model Using Generative Adversarial Networks**|Wen Zhou et.al.|[2502.06863](http://arxiv.org/abs/2502.06863)|null|
 |**2025-02-09**|**A Conditional Tabular GAN-Enhanced Intrusion Detection System for Rare Attacks in IoT Networks**|Safaa Menssouri et.al.|[2502.06031](http://arxiv.org/abs/2502.06031)|null|
 |**2025-02-09**|**A Semi-Supervised Text Generation Framework Combining a Deep Transformer and a GAN**|Shengquan Wang et.al.|[2502.05937](http://arxiv.org/abs/2502.05937)|null|
 |**2025-02-08**|**4D VQ-GAN: Synthesising Medical Scans at Any Time Point for Personalised Disease Progression Modelling of Idiopathic Pulmonary Fibrosis**|An Zhao et.al.|[2502.05713](http://arxiv.org/abs/2502.05713)|null|
@@ -2096,6 +2101,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-11**|**MatSwap: Light-aware material transfers in images**|Ivan Lopes et.al.|[2502.07784](http://arxiv.org/abs/2502.07784)|null|
+|**2025-02-11**|**Consistency Training with Physical Constraints**|Che-Chia Chang et.al.|[2502.07636](http://arxiv.org/abs/2502.07636)|null|
+|**2025-02-11**|**Generative Modeling with Bayesian Sample Inference**|Marten Lienen et.al.|[2502.07580](http://arxiv.org/abs/2502.07580)|null|
+|**2025-02-11**|**Single-Step Consistent Diffusion Samplers**|Pascal Jutras-Dubé et.al.|[2502.07579](http://arxiv.org/abs/2502.07579)|null|
+|**2025-02-11**|**The Devil is in the Prompts: De-Identification Traces Enhance Memorization Risks in Synthetic Chest X-Ray Generation**|Raman Dutt et.al.|[2502.07516](http://arxiv.org/abs/2502.07516)|null|
+|**2025-02-11**|**Less is More: Masking Elements in Image Condition Features Avoids Content Leakages in Style Transfer Diffusion Models**|Lin Zhu et.al.|[2502.07466](http://arxiv.org/abs/2502.07466)|null|
+|**2025-02-11**|**Spatial Degradation-Aware and Temporal Consistent Diffusion Model for Compressed Video Super-Resolution**|Hongyu An et.al.|[2502.07381](http://arxiv.org/abs/2502.07381)|null|
+|**2025-02-11**|**Semantic to Structure: Learning Structural Representations for Infringement Detection**|Chuanwei Huang et.al.|[2502.07323](http://arxiv.org/abs/2502.07323)|null|
+|**2025-02-11**|**Generation of Drug-Induced Cardiac Reactions towards Virtual Clinical Trials**|Qian Shao et.al.|[2502.07297](http://arxiv.org/abs/2502.07297)|null|
+|**2025-02-11**|**Exploratory Diffusion Policy for Unsupervised Reinforcement Learning**|Chengyang Ying et.al.|[2502.07279](http://arxiv.org/abs/2502.07279)|null|
+|**2025-02-11**|**Articulate That Object Part (ATOP): 3D Part Articulation from Text and Motion Personalization**|Aditya Vora et.al.|[2502.07278](http://arxiv.org/abs/2502.07278)|null|
+|**2025-02-11**|**CAT: Contrastive Adversarial Training for Evaluating the Robustness of Protective Perturbations in Latent Diffusion Models**|Sen Peng et.al.|[2502.07225](http://arxiv.org/abs/2502.07225)|null|
+|**2025-02-11**|**Improve the Training Efficiency of DRL for Wireless Communication Resource Allocation: The Role of Generative Diffusion Models**|Xinren Zhang et.al.|[2502.07211](http://arxiv.org/abs/2502.07211)|null|
+|**2025-02-11**|**Monte Carlo Tree Diffusion for System 2 Planning**|Jaesik Yoon et.al.|[2502.07202](http://arxiv.org/abs/2502.07202)|null|
+|**2025-02-11**|**HDCompression: Hybrid-Diffusion Image Compression for Ultra-Low Bitrates**|Lei Lu et.al.|[2502.07160](http://arxiv.org/abs/2502.07160)|null|
+|**2025-02-10**|**Generative Distribution Prediction: A Unified Approach to Multimodal Learning**|Xinyu Tian et.al.|[2502.07090](http://arxiv.org/abs/2502.07090)|null|
+|**2025-02-10**|**From Image to Video: An Empirical Study of Diffusion Representations**|Pedro Vélez et.al.|[2502.07001](http://arxiv.org/abs/2502.07001)|null|
+|**2025-02-10**|**Outsourced diffusion sampling: Efficient posterior inference in latent spaces of generative models**|Siddarth Venkatraman et.al.|[2502.06999](http://arxiv.org/abs/2502.06999)|null|
+|**2025-02-10**|**Conditional diffusion model with spatial attention and latent embedding for medical image segmentation**|Behzad Hejrati et.al.|[2502.06997](http://arxiv.org/abs/2502.06997)|null|
+|**2025-02-10**|**Model Diffusion for Certifiable Few-shot Transfer Learning**|Fady Rezk et.al.|[2502.06970](http://arxiv.org/abs/2502.06970)|null|
 |**2025-02-10**|**Train for the Worst, Plan for the Best: Understanding Token Ordering in Masked Diffusions**|Jaeyeon Kim et.al.|[2502.06768](http://arxiv.org/abs/2502.06768)|null|
 |**2025-02-10**|**History-Guided Video Diffusion**|Kiwhan Song et.al.|[2502.06764](http://arxiv.org/abs/2502.06764)|null|
 |**2025-02-10**|**Transfer Your Perspective: Controllable 3D Generation from Any Viewpoint in a Driving Scene**|Tai-Yu Pan et.al.|[2502.06682](http://arxiv.org/abs/2502.06682)|null|
@@ -9476,6 +9501,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-11**|**Few-Shot Multi-Human Neural Rendering Using Geometry Constraints**|Qian li et.al.|[2502.07140](http://arxiv.org/abs/2502.07140)|null|
 |**2025-01-31**|**JGHand: Joint-Driven Animatable Hand Avater via 3D Gaussian Splatting**|Zhoutao Sun et.al.|[2501.19088](http://arxiv.org/abs/2501.19088)|null|
 |**2025-01-21**|**DNRSelect: Active Best View Selection for Deferred Neural Rendering**|Dongli Wu et.al.|[2501.12150](http://arxiv.org/abs/2501.12150)|null|
 |**2025-01-16**|**Poxel: Voxel Reconstruction for 3D Printing**|Ruixiang Cao et.al.|[2501.10474](http://arxiv.org/abs/2501.10474)|null|
@@ -9864,6 +9890,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-11**|**Playmate: Flexible Control of Portrait Animation via 3D-Implicit Space Guided Diffusion**|Xingpei Ma et.al.|[2502.07203](http://arxiv.org/abs/2502.07203)|null|
 |**2025-02-06**|**Black Hole Evaporation in Loop Quantum Gravity**|Abhay Ashtekar et.al.|[2502.04252](http://arxiv.org/abs/2502.04252)|null|
 |**2025-02-05**|**Can Text-to-Image Generative Models Accurately Depict Age? A Comparative Study on Synthetic Portrait Generation and Age Estimation**|Alexey A. Novikov et.al.|[2502.03420](http://arxiv.org/abs/2502.03420)|null|
 |**2025-02-09**|**Towards Consistent and Controllable Image Synthesis for Face Editing**|Mengting Wei et.al.|[2502.02465](http://arxiv.org/abs/2502.02465)|null|

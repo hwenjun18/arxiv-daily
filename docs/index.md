@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.13
+## Updated on 2025.02.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -44,7 +44,7 @@ layout: default
 |**2025-02-11**|**Towards THz-based Obstacle Sensing: A Generative Radio Environment Awareness Framework**|Tianyu Hu et.al.|[2502.07504](http://arxiv.org/abs/2502.07504)|null|
 |**2025-02-11**|**Less is More: Masking Elements in Image Condition Features Avoids Content Leakages in Style Transfer Diffusion Models**|Lin Zhu et.al.|[2502.07466](http://arxiv.org/abs/2502.07466)|null|
 |**2025-02-10**|**Likelihood-Free Estimation for Spatiotemporal Hawkes processes with missing data and application to predictive policing**|Pramit Das et.al.|[2502.07111](http://arxiv.org/abs/2502.07111)|null|
-|**2025-02-08**|**BF-GAN: Development of an AI-driven Bubbly Flow Image Generation Model Using Generative Adversarial Networks**|Wen Zhou et.al.|[2502.06863](http://arxiv.org/abs/2502.06863)|null|
+|**2025-02-08**|**BF-GAN: Development of an AI-driven Bubbly Flow Image Generation Model Using Generative Adversarial Networks**|Wen Zhou et.al.|[2502.06863](http://arxiv.org/abs/2502.06863)|**[link](https://github.com/zhouzhouwen/bf-gan)**|
 |**2025-02-09**|**A Conditional Tabular GAN-Enhanced Intrusion Detection System for Rare Attacks in IoT Networks**|Safaa Menssouri et.al.|[2502.06031](http://arxiv.org/abs/2502.06031)|null|
 |**2025-02-09**|**A Semi-Supervised Text Generation Framework Combining a Deep Transformer and a GAN**|Shengquan Wang et.al.|[2502.05937](http://arxiv.org/abs/2502.05937)|null|
 |**2025-02-08**|**4D VQ-GAN: Synthesising Medical Scans at Any Time Point for Personalised Disease Progression Modelling of Idiopathic Pulmonary Fibrosis**|An Zhao et.al.|[2502.05713](http://arxiv.org/abs/2502.05713)|null|
@@ -56,8 +56,8 @@ layout: default
 |**2025-02-07**|**Investigating the impact of kernel harmonization and deformable registration on inspiratory and expiratory chest CT images for people with COPD**|Aravind R. Krishnan et.al.|[2502.05119](http://arxiv.org/abs/2502.05119)|null|
 |**2025-02-07**|**ARTInp: CBCT-to-CT Image Inpainting and Image Translation in Radiotherapy**|Ricardo Coimbra Brioso et.al.|[2502.04898](http://arxiv.org/abs/2502.04898)|null|
 |**2025-02-07**|**Evaluating Text Style Transfer Evaluation: Are There Any Reliable Metrics?**|Sourabrata Mukherjee et.al.|[2502.04718](http://arxiv.org/abs/2502.04718)|null|
-|**2025-02-07**|**Multiscale style transfer based on a Laplacian pyramid for traditional Chinese painting**|Kunxiao Liu et.al.|[2502.04597](http://arxiv.org/abs/2502.04597)|null|
-|**2025-02-06**|**ImprovNet: Generating Controllable Musical Improvisations with Iterative Corruption Refinement**|Keshav Bhandari et.al.|[2502.04522](http://arxiv.org/abs/2502.04522)|null|
+|**2025-02-07**|**Multiscale style transfer based on a Laplacian pyramid for traditional Chinese painting**|Kunxiao Liu et.al.|[2502.04597](http://arxiv.org/abs/2502.04597)|**[link](https://github.com/toby-katakuri/lp_styletransfernet)**|
+|**2025-02-06**|**ImprovNet: Generating Controllable Musical Improvisations with Iterative Corruption Refinement**|Keshav Bhandari et.al.|[2502.04522](http://arxiv.org/abs/2502.04522)|**[link](https://github.com/keshavbhandari/improvnet)**|
 |**2025-02-05**|**DILLEMA: Diffusion and Large Language Models for Multi-Modal Augmentation**|Luciano Baresi et.al.|[2502.04378](http://arxiv.org/abs/2502.04378)|null|
 |**2025-02-05**|**HSI: A Holistic Style Injector for Arbitrary Style Transfer**|Shuhao Zhang et.al.|[2502.04369](http://arxiv.org/abs/2502.04369)|null|
 |**2025-02-05**|**LLMs can be easily Confused by Instructional Distractions**|Yerin Hwang et.al.|[2502.04362](http://arxiv.org/abs/2502.04362)|null|
@@ -2104,7 +2104,7 @@ layout: default
 |**2025-02-12**|**DNNs May Determine Major Properties of Their Outputs Early, with Timing Possibly Driven by Bias**|Song Park et.al.|[2502.08167](http://arxiv.org/abs/2502.08167)|null|
 |**2025-02-12**|**PoGDiff: Product-of-Gaussians Diffusion Models for Imbalanced Text-to-Image Generation**|Ziyan Wang et.al.|[2502.08106](http://arxiv.org/abs/2502.08106)|null|
 |**2025-02-12**|**End-to-End Predictive Planner for Autonomous Driving with Consistency Models**|Anjian Li et.al.|[2502.08033](http://arxiv.org/abs/2502.08033)|null|
-|**2025-02-11**|**Training-Free Safe Denoisers for Safe Use of Diffusion Models**|Mingyu Kim et.al.|[2502.08011](http://arxiv.org/abs/2502.08011)|null|
+|**2025-02-13**|**Training-Free Safe Denoisers for Safe Use of Diffusion Models**|Mingyu Kim et.al.|[2502.08011](http://arxiv.org/abs/2502.08011)|null|
 |**2025-02-11**|**Greed is Good: Guided Generation from a Greedy Perspective**|Zander W. Blasingame et.al.|[2502.08006](http://arxiv.org/abs/2502.08006)|null|
 |**2025-02-11**|**Towards Training One-Step Diffusion Models Without Distillation**|Mingtian Zhang et.al.|[2502.08005](http://arxiv.org/abs/2502.08005)|null|
 |**2025-02-11**|**SurGrID: Controllable Surgical Simulation via Scene Graph to Image Diffusion**|Yannik Frisch et.al.|[2502.07945](http://arxiv.org/abs/2502.07945)|null|
@@ -8343,10 +8343,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-11**|**MRS: A Fast Sampler for Mean Reverting Diffusion based on ODE and SDE Solvers**|Ao Li et.al.|[2502.07856](http://arxiv.org/abs/2502.07856)|null|
+|**2025-02-13**|**MRS: A Fast Sampler for Mean Reverting Diffusion based on ODE and SDE Solvers**|Ao Li et.al.|[2502.07856](http://arxiv.org/abs/2502.07856)|null|
 |**2025-02-10**|**Predictive Red Teaming: Breaking Policies Without Breaking Robots**|Anirudha Majumdar et.al.|[2502.06575](http://arxiv.org/abs/2502.06575)|null|
 |**2025-02-10**|**UniDemoiré: Towards Universal Image Demoiréing with Data Generation and Synthesis**|Zemin Yang et.al.|[2502.06324](http://arxiv.org/abs/2502.06324)|null|
-|**2025-02-11**|**UniDB: A Unified Diffusion Bridge Framework via Stochastic Optimal Control**|Kaizhen Zhu et.al.|[2502.05749](http://arxiv.org/abs/2502.05749)|null|
+|**2025-02-11**|**UniDB: A Unified Diffusion Bridge Framework via Stochastic Optimal Control**|Kaizhen Zhu et.al.|[2502.05749](http://arxiv.org/abs/2502.05749)|**[link](https://github.com/unidb-soc/unidb)**|
 |**2025-02-07**|**Self-supervised Conformal Prediction for Uncertainty Quantification in Imaging Problems**|Jasper M. Everink et.al.|[2502.05127](http://arxiv.org/abs/2502.05127)|null|
 |**2025-02-05**|**Lost in Edits? A $λ$ -Compass for AIGC Provenance**|Wenhao You et.al.|[2502.04364](http://arxiv.org/abs/2502.04364)|null|
 |**2025-02-06**|**PartEdit: Fine-Grained Image Editing using Pre-Trained Diffusion Models**|Aleksandar Cvejic et.al.|[2502.04050](http://arxiv.org/abs/2502.04050)|null|
@@ -9505,7 +9505,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-12**|**Re $^3$ Sim: Generating High-Fidelity Simulation Data via 3D-Photorealistic Real-to-Sim for Robotic Manipulation**|Xiaoshen Han et.al.|[2502.08645](http://arxiv.org/abs/2502.08645)|null|
+|**2025-02-13**|**Re $^3$ Sim: Generating High-Fidelity Simulation Data via 3D-Photorealistic Real-to-Sim for Robotic Manipulation**|Xiaoshen Han et.al.|[2502.08645](http://arxiv.org/abs/2502.08645)|null|
 |**2025-02-11**|**Few-Shot Multi-Human Neural Rendering Using Geometry Constraints**|Qian li et.al.|[2502.07140](http://arxiv.org/abs/2502.07140)|null|
 |**2025-01-31**|**JGHand: Joint-Driven Animatable Hand Avater via 3D Gaussian Splatting**|Zhoutao Sun et.al.|[2501.19088](http://arxiv.org/abs/2501.19088)|null|
 |**2025-01-21**|**DNRSelect: Active Best View Selection for Deferred Neural Rendering**|Dongli Wu et.al.|[2501.12150](http://arxiv.org/abs/2501.12150)|null|
@@ -9895,7 +9895,7 @@ layout: default
 |**2025-02-06**|**Black Hole Evaporation in Loop Quantum Gravity**|Abhay Ashtekar et.al.|[2502.04252](http://arxiv.org/abs/2502.04252)|null|
 |**2025-02-05**|**Can Text-to-Image Generative Models Accurately Depict Age? A Comparative Study on Synthetic Portrait Generation and Age Estimation**|Alexey A. Novikov et.al.|[2502.03420](http://arxiv.org/abs/2502.03420)|null|
 |**2025-02-09**|**Towards Consistent and Controllable Image Synthesis for Face Editing**|Mengting Wei et.al.|[2502.02465](http://arxiv.org/abs/2502.02465)|null|
-|**2025-02-03**|**OmniHuman-1: Rethinking the Scaling-Up of One-Stage Conditioned Human Animation Models**|Gaojie Lin et.al.|[2502.01061](http://arxiv.org/abs/2502.01061)|null|
+|**2025-02-13**|**OmniHuman-1: Rethinking the Scaling-Up of One-Stage Conditioned Human Animation Models**|Gaojie Lin et.al.|[2502.01061](http://arxiv.org/abs/2502.01061)|null|
 |**2025-02-02**|**Effect of 2 $^\text{nd}$ harmonic current--phase relation on a behavior of a Josephson Traveling Wave Parametric Amplifier**|Claudio Guarcello et.al.|[2502.00804](http://arxiv.org/abs/2502.00804)|null|
 |**2025-01-31**|**GDO: Gradual Domain Osmosis**|Zixi Wang et.al.|[2501.19159](http://arxiv.org/abs/2501.19159)|null|
 |**2025-01-31**|**IC-Portrait: In-Context Matching for View-Consistent Personalized Portrait**|Han Yang et.al.|[2501.17159](http://arxiv.org/abs/2501.17159)|null|

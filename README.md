@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.15
+## Updated on 2025.02.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -45,7 +45,7 @@
 |**2022-11-21**|**Towards Live 3D Reconstruction from Wearable Video: An Evaluation of V-SLAM, NeRF, and Videogrammetry Techniques**|David Ramirez et.al.|[2211.11836](http://arxiv.org/abs/2211.11836)|null|
 |**2022-11-14**|**Controllable GAN Synthesis Using Non-Rigid Structure-from-Motion**|René Haas et.al.|[2211.07195](http://arxiv.org/abs/2211.07195)|null|
 
-<p align=right>(<a href=#Updated-on-20250215>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250216>back to top</a>)</p>
 
 ## GAN
 
@@ -60,7 +60,7 @@
 |**2025-02-12**|**Rapid prediction of organisation in engineered corneal, glial and fibroblast tissues using machine learning and biophysical models**|Allison E. Andrews et.al.|[2502.08062](http://arxiv.org/abs/2502.08062)|null|
 |**2025-02-11**|**Direct Ascent Synthesis: Revealing Hidden Generative Capabilities in Discriminative Models**|Stanislav Fort et.al.|[2502.07753](http://arxiv.org/abs/2502.07753)|null|
 |**2025-02-11**|**Towards THz-based Obstacle Sensing: A Generative Radio Environment Awareness Framework**|Tianyu Hu et.al.|[2502.07504](http://arxiv.org/abs/2502.07504)|null|
-|**2025-02-11**|**Less is More: Masking Elements in Image Condition Features Avoids Content Leakages in Style Transfer Diffusion Models**|Lin Zhu et.al.|[2502.07466](http://arxiv.org/abs/2502.07466)|null|
+|**2025-02-11**|**Less is More: Masking Elements in Image Condition Features Avoids Content Leakages in Style Transfer Diffusion Models**|Lin Zhu et.al.|[2502.07466](http://arxiv.org/abs/2502.07466)|**[link](https://github.com/linllll/maskst)**|
 |**2025-02-10**|**Likelihood-Free Estimation for Spatiotemporal Hawkes processes with missing data and application to predictive policing**|Pramit Das et.al.|[2502.07111](http://arxiv.org/abs/2502.07111)|null|
 |**2025-02-08**|**BF-GAN: Development of an AI-driven Bubbly Flow Image Generation Model Using Generative Adversarial Networks**|Wen Zhou et.al.|[2502.06863](http://arxiv.org/abs/2502.06863)|**[link](https://github.com/zhouzhouwen/bf-gan)**|
 |**2025-02-09**|**A Conditional Tabular GAN-Enhanced Intrusion Detection System for Rare Attacks in IoT Networks**|Safaa Menssouri et.al.|[2502.06031](http://arxiv.org/abs/2502.06031)|null|
@@ -70,7 +70,7 @@
 |**2025-02-08**|**4DR P2T: 4D Radar Tensor Synthesis with Point Clouds**|Woo-Jin Jung et.al.|[2502.05550](http://arxiv.org/abs/2502.05550)|null|
 |**2025-02-08**|**Enhancing Expressive Voice Conversion with Discrete Pitch-Conditioned Flow Matching Model**|Jialong Zuo et.al.|[2502.05471](http://arxiv.org/abs/2502.05471)|null|
 |**2025-02-08**|**Coarse-to-Fine Structure-Aware Artistic Style Transfer**|Kunxiao Liu et.al.|[2502.05387](http://arxiv.org/abs/2502.05387)|null|
-|**2025-02-07**|**Deep Generative model that uses physical quantities to generate and retrieve solar magnetic active regions**|Subhamoy Chatterjee et.al.|[2502.05351](http://arxiv.org/abs/2502.05351)|null|
+|**2025-02-07**|**Deep Generative model that uses physical quantities to generate and retrieve solar magnetic active regions**|Subhamoy Chatterjee et.al.|[2502.05351](http://arxiv.org/abs/2502.05351)|**[link](https://github.com/subhamoysgit/Generative_Interrogator)**|
 |**2025-02-07**|**Investigating the impact of kernel harmonization and deformable registration on inspiratory and expiratory chest CT images for people with COPD**|Aravind R. Krishnan et.al.|[2502.05119](http://arxiv.org/abs/2502.05119)|null|
 |**2025-02-07**|**ARTInp: CBCT-to-CT Image Inpainting and Image Translation in Radiotherapy**|Ricardo Coimbra Brioso et.al.|[2502.04898](http://arxiv.org/abs/2502.04898)|null|
 |**2025-02-07**|**Evaluating Text Style Transfer Evaluation: Are There Any Reliable Metrics?**|Sourabrata Mukherjee et.al.|[2502.04718](http://arxiv.org/abs/2502.04718)|null|
@@ -2102,7 +2102,7 @@
 |**2023-03-14**|**3D Face Arbitrary Style Transfer**|Xiangwen Deng et.al.|[2303.07709](http://arxiv.org/abs/2303.07709)|null|
 |**2023-03-13**|**AGTGAN: Unpaired Image Translation for Photographic Ancient Character Generation**|Hongxiang Huang et.al.|[2303.07012](http://arxiv.org/abs/2303.07012)|**[link](https://github.com/hellomystery/agtgan)**|
 
-<p align=right>(<a href=#Updated-on-20250215>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250216>back to top</a>)</p>
 
 ## Diffusion Model
 
@@ -2117,7 +2117,7 @@
 |**2025-02-13**|**Diffusing DeBias: a Recipe for Turning a Bug into a Feature**|Massimiliano Ciranni et.al.|[2502.09564](http://arxiv.org/abs/2502.09564)|null|
 |**2025-02-13**|**Long-Term TalkingFace Generation via Motion-Prior Conditional Diffusion Model**|Fei Shen et.al.|[2502.09533](http://arxiv.org/abs/2502.09533)|null|
 |**2025-02-13**|**Diffusion Models for Molecules: A Survey of Methods and Tasks**|Liang Wang et.al.|[2502.09511](http://arxiv.org/abs/2502.09511)|null|
-|**2025-02-13**|**Redistribute Ensemble Training for Mitigating Memorization in Diffusion Models**|Xiaoliu Guan et.al.|[2502.09434](http://arxiv.org/abs/2502.09434)|null|
+|**2025-02-13**|**Redistribute Ensemble Training for Mitigating Memorization in Diffusion Models**|Xiaoliu Guan et.al.|[2502.09434](http://arxiv.org/abs/2502.09434)|**[link](https://github.com/liuxiao-guan/iet_agc)**|
 |**2025-02-13**|**ImageRAG: Dynamic Image Retrieval for Reference-Guided Image Generation**|Rotem Shalev-Arkushin et.al.|[2502.09411](http://arxiv.org/abs/2502.09411)|null|
 |**2025-02-13**|**Non-asymptotic Analysis of Diffusion Annealed Langevin Monte Carlo for Generative Modelling**|Paula Cordero-Encinar et.al.|[2502.09306](http://arxiv.org/abs/2502.09306)|null|
 |**2025-02-13**|**ConsistentDreamer: View-Consistent Meshes Through Balanced Multi-View Gaussian Optimization**|Onat Şahin et.al.|[2502.09278](http://arxiv.org/abs/2502.09278)|null|
@@ -8379,7 +8379,7 @@
 |**2023-03-15**|**DiffBEV: Conditional Diffusion Model for Bird's Eye View Perception**|Jiayu Zou et.al.|[2303.08333](http://arxiv.org/abs/2303.08333)|**[link](https://github.com/jiayuzou2020/diffbev)**|
 |**2023-03-16**|**VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation**|Zhengxiong Luo et.al.|[2303.08320](http://arxiv.org/abs/2303.08320)|null|
 
-<p align=right>(<a href=#Updated-on-20250215>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250216>back to top</a>)</p>
 
 ## Image Edit
 
@@ -9544,7 +9544,7 @@
 |**2023-02-20**|**A Large Scale Homography Benchmark**|Daniel Barath et.al.|[2302.09997](http://arxiv.org/abs/2302.09997)|null|
 |**2023-02-19**|**LC-NeRF: Local Controllable Face Generation in Neural Randiance Field**|Wenyang Zhou et.al.|[2302.09486](http://arxiv.org/abs/2302.09486)|null|
 
-<p align=right>(<a href=#Updated-on-20250215>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250216>back to top</a>)</p>
 
 ## NeRF
 
@@ -9874,7 +9874,7 @@
 |**2022-12-30**|**NeRF-Gaze: A Head-Eye Redirection Parametric Model for Gaze Estimation**|Pengwei Yin et.al.|[2212.14710](http://arxiv.org/abs/2212.14710)|null|
 |**2023-03-21**|**Masked Wavelet Representation for Compact Neural Radiance Fields**|Daniel Rho et.al.|[2212.09069](http://arxiv.org/abs/2212.09069)|**[link](https://github.com/daniel03c1/masked_wavelet_nerf)**|
 
-<p align=right>(<a href=#Updated-on-20250215>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250216>back to top</a>)</p>
 
 ## Reshaping
 
@@ -9934,7 +9934,7 @@
 |**2022-05-13**|**F3A-GAN: Facial Flow for Face Animation with Generative Adversarial Networks**|Xintian Wu et.al.|[2205.06204](http://arxiv.org/abs/2205.06204)|null|
 |**2022-03-16**|**Efficient conditioned face animation using frontally-viewed embedding**|Maxime Oquab et.al.|[2203.08765](http://arxiv.org/abs/2203.08765)|null|
 
-<p align=right>(<a href=#Updated-on-20250215>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250216>back to top</a>)</p>
 
 ## Portrait 
 
@@ -10365,7 +10365,7 @@
 |**2023-03-01**|**DPE: Disentanglement of Pose and Expression for General Video Portrait Editing**|Youxin Pang et.al.|[2301.06281](http://arxiv.org/abs/2301.06281)|null|
 |**2023-01-03**|**StyleTalk: One-shot Talking Head Generation with Controllable Speaking Styles**|Yifeng Ma et.al.|[2301.01081](http://arxiv.org/abs/2301.01081)|**[link](https://github.com/fuxivirtualhuman/styletalk)**|
 
-<p align=right>(<a href=#Updated-on-20250215>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250216>back to top</a>)</p>
 
 ## Transfomer
 
@@ -10405,5 +10405,5 @@
 |**2012-01-21**|**Interior Static Stellar Model with Electric Charge as an Oscillator**|A. M. Baranov et.al.|[1201.4429](http://arxiv.org/abs/1201.4429)|null|
 |**2011-05-16**|**Exactness of the Euclidean algorithm and of the Rauzy induction on the space of interval exchange transfomations**|Tomasz Miernowski et.al.|[1104.3980](http://arxiv.org/abs/1104.3980)|null|
 
-<p align=right>(<a href=#Updated-on-20250215>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250216>back to top</a>)</p>
 

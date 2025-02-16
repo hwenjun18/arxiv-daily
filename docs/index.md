@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.15
+## Updated on 2025.02.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -48,7 +48,7 @@ layout: default
 |**2025-02-12**|**Rapid prediction of organisation in engineered corneal, glial and fibroblast tissues using machine learning and biophysical models**|Allison E. Andrews et.al.|[2502.08062](http://arxiv.org/abs/2502.08062)|null|
 |**2025-02-11**|**Direct Ascent Synthesis: Revealing Hidden Generative Capabilities in Discriminative Models**|Stanislav Fort et.al.|[2502.07753](http://arxiv.org/abs/2502.07753)|null|
 |**2025-02-11**|**Towards THz-based Obstacle Sensing: A Generative Radio Environment Awareness Framework**|Tianyu Hu et.al.|[2502.07504](http://arxiv.org/abs/2502.07504)|null|
-|**2025-02-11**|**Less is More: Masking Elements in Image Condition Features Avoids Content Leakages in Style Transfer Diffusion Models**|Lin Zhu et.al.|[2502.07466](http://arxiv.org/abs/2502.07466)|null|
+|**2025-02-11**|**Less is More: Masking Elements in Image Condition Features Avoids Content Leakages in Style Transfer Diffusion Models**|Lin Zhu et.al.|[2502.07466](http://arxiv.org/abs/2502.07466)|**[link](https://github.com/linllll/maskst)**|
 |**2025-02-10**|**Likelihood-Free Estimation for Spatiotemporal Hawkes processes with missing data and application to predictive policing**|Pramit Das et.al.|[2502.07111](http://arxiv.org/abs/2502.07111)|null|
 |**2025-02-08**|**BF-GAN: Development of an AI-driven Bubbly Flow Image Generation Model Using Generative Adversarial Networks**|Wen Zhou et.al.|[2502.06863](http://arxiv.org/abs/2502.06863)|**[link](https://github.com/zhouzhouwen/bf-gan)**|
 |**2025-02-09**|**A Conditional Tabular GAN-Enhanced Intrusion Detection System for Rare Attacks in IoT Networks**|Safaa Menssouri et.al.|[2502.06031](http://arxiv.org/abs/2502.06031)|null|
@@ -58,7 +58,7 @@ layout: default
 |**2025-02-08**|**4DR P2T: 4D Radar Tensor Synthesis with Point Clouds**|Woo-Jin Jung et.al.|[2502.05550](http://arxiv.org/abs/2502.05550)|null|
 |**2025-02-08**|**Enhancing Expressive Voice Conversion with Discrete Pitch-Conditioned Flow Matching Model**|Jialong Zuo et.al.|[2502.05471](http://arxiv.org/abs/2502.05471)|null|
 |**2025-02-08**|**Coarse-to-Fine Structure-Aware Artistic Style Transfer**|Kunxiao Liu et.al.|[2502.05387](http://arxiv.org/abs/2502.05387)|null|
-|**2025-02-07**|**Deep Generative model that uses physical quantities to generate and retrieve solar magnetic active regions**|Subhamoy Chatterjee et.al.|[2502.05351](http://arxiv.org/abs/2502.05351)|null|
+|**2025-02-07**|**Deep Generative model that uses physical quantities to generate and retrieve solar magnetic active regions**|Subhamoy Chatterjee et.al.|[2502.05351](http://arxiv.org/abs/2502.05351)|**[link](https://github.com/subhamoysgit/Generative_Interrogator)**|
 |**2025-02-07**|**Investigating the impact of kernel harmonization and deformable registration on inspiratory and expiratory chest CT images for people with COPD**|Aravind R. Krishnan et.al.|[2502.05119](http://arxiv.org/abs/2502.05119)|null|
 |**2025-02-07**|**ARTInp: CBCT-to-CT Image Inpainting and Image Translation in Radiotherapy**|Ricardo Coimbra Brioso et.al.|[2502.04898](http://arxiv.org/abs/2502.04898)|null|
 |**2025-02-07**|**Evaluating Text Style Transfer Evaluation: Are There Any Reliable Metrics?**|Sourabrata Mukherjee et.al.|[2502.04718](http://arxiv.org/abs/2502.04718)|null|
@@ -2103,7 +2103,7 @@ layout: default
 |**2025-02-13**|**Diffusing DeBias: a Recipe for Turning a Bug into a Feature**|Massimiliano Ciranni et.al.|[2502.09564](http://arxiv.org/abs/2502.09564)|null|
 |**2025-02-13**|**Long-Term TalkingFace Generation via Motion-Prior Conditional Diffusion Model**|Fei Shen et.al.|[2502.09533](http://arxiv.org/abs/2502.09533)|null|
 |**2025-02-13**|**Diffusion Models for Molecules: A Survey of Methods and Tasks**|Liang Wang et.al.|[2502.09511](http://arxiv.org/abs/2502.09511)|null|
-|**2025-02-13**|**Redistribute Ensemble Training for Mitigating Memorization in Diffusion Models**|Xiaoliu Guan et.al.|[2502.09434](http://arxiv.org/abs/2502.09434)|null|
+|**2025-02-13**|**Redistribute Ensemble Training for Mitigating Memorization in Diffusion Models**|Xiaoliu Guan et.al.|[2502.09434](http://arxiv.org/abs/2502.09434)|**[link](https://github.com/liuxiao-guan/iet_agc)**|
 |**2025-02-13**|**ImageRAG: Dynamic Image Retrieval for Reference-Guided Image Generation**|Rotem Shalev-Arkushin et.al.|[2502.09411](http://arxiv.org/abs/2502.09411)|null|
 |**2025-02-13**|**Non-asymptotic Analysis of Diffusion Annealed Langevin Monte Carlo for Generative Modelling**|Paula Cordero-Encinar et.al.|[2502.09306](http://arxiv.org/abs/2502.09306)|null|
 |**2025-02-13**|**ConsistentDreamer: View-Consistent Meshes Through Balanced Multi-View Gaussian Optimization**|Onat Şahin et.al.|[2502.09278](http://arxiv.org/abs/2502.09278)|null|

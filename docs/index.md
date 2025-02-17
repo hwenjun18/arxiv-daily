@@ -39,10 +39,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-13**|**Zero-shot generation of synthetic neurosurgical data with large language models**|Austin A. Barr et.al.|[2502.09566](http://arxiv.org/abs/2502.09566)|null|
+|**2025-02-14**|**Ocular Disease Classification Using CNN with Deep Convolutional Generative Adversarial Network**|Arun Kunwar et.al.|[2502.10334](http://arxiv.org/abs/2502.10334)|null|
+|**2025-02-11**|**GraphCompNet: A Position-Aware Model for Predicting and Compensating Shape Deviations in 3D Printing**|Lei et.al.|[2502.09652](http://arxiv.org/abs/2502.09652)|null|
+|**2025-02-13**|**Zero-shot generation of synthetic neurosurgical data with large language models**|Austin A. Barr et.al.|[2502.09566](http://arxiv.org/abs/2502.09566)|**[link](https://github.com/aabarr/Synthetic-Neurosurgical-Data)**|
 |**2025-02-13**|**DiffRenderGAN: Addressing Training Data Scarcity in Deep Segmentation Networks for Quantitative Nanomaterial Analysis through Differentiable Rendering and Generative Modelling**|Dennis Possart et.al.|[2502.09477](http://arxiv.org/abs/2502.09477)|null|
 |**2025-02-13**|**Joint Attention Mechanism Learning to Facilitate Opto-physiological Monitoring during Physical Activity**|Xiaoyu Zheng et.al.|[2502.09291](http://arxiv.org/abs/2502.09291)|null|
-|**2025-02-12**|**DejAIvu: Identifying and Explaining AI Art on the Web in Real-Time with Saliency Maps**|Jocelyn Dzuong et.al.|[2502.08821](http://arxiv.org/abs/2502.08821)|null|
+|**2025-02-12**|**DejAIvu: Identifying and Explaining AI Art on the Web in Real-Time with Saliency Maps**|Jocelyn Dzuong et.al.|[2502.08821](http://arxiv.org/abs/2502.08821)|**[link](https://github.com/noodulz/dejaivu)**|
 |**2025-02-12**|**Deep EEG Super-Resolution: Upsampling EEG Spatial Resolution with Generative Adversarial Networks**|Isaac Corley et.al.|[2502.08803](http://arxiv.org/abs/2502.08803)|null|
 |**2025-02-11**|**Unpaired Image-to-Image Translation with Content Preserving Perspective: A Review**|Mehran Safayani et.al.|[2502.08667](http://arxiv.org/abs/2502.08667)|null|
 |**2025-02-12**|**Rapid prediction of organisation in engineered corneal, glial and fibroblast tissues using machine learning and biophysical models**|Allison E. Andrews et.al.|[2502.08062](http://arxiv.org/abs/2502.08062)|null|
@@ -2094,6 +2096,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-14**|**Region-Adaptive Sampling for Diffusion Transformers**|Ziming Liu et.al.|[2502.10389](http://arxiv.org/abs/2502.10389)|null|
+|**2025-02-14**|**ReStyle3D: Scene-Level Appearance Transfer with Semantic Correspondences**|Liyuan Zhu et.al.|[2502.10377](http://arxiv.org/abs/2502.10377)|null|
+|**2025-02-14**|**Dimension-free Score Matching and Time Bootstrapping for Diffusion Models**|Syamantak Kumar et.al.|[2502.10354](http://arxiv.org/abs/2502.10354)|null|
+|**2025-02-14**|**DiOpt: Self-supervised Diffusion for Constrained Optimization**|Shutong Ding et.al.|[2502.10330](http://arxiv.org/abs/2502.10330)|null|
+|**2025-02-14**|**Generalised Parallel Tempering: Flexible Replica Exchange via Flows and Diffusions**|Leo Zhang et.al.|[2502.10328](http://arxiv.org/abs/2502.10328)|null|
+|**2025-02-14**|**Dark Matter Attenuation Effects: Sensitivity Ceilings for Spin-Dependent and Spin-Independent Interactions**|QUEST-DMC Collaboration et.al.|[2502.10251](http://arxiv.org/abs/2502.10251)|null|
+|**2025-02-14**|**Shaping Inductive Bias in Diffusion Models through Frequency-Based Noise Control**|Thomas Jiralerspong et.al.|[2502.10236](http://arxiv.org/abs/2502.10236)|null|
+|**2025-02-14**|**Agentic End-to-End De Novo Protein Design for Tailored Dynamics Using a Language Diffusion Model**|Bo Ni et.al.|[2502.10173](http://arxiv.org/abs/2502.10173)|null|
+|**2025-02-14**|**IRS-assisted Edge Computing for Vehicular Networks: A Generative Diffusion Model-based Stackelberg Game Approach**|Yixian Wang et.al.|[2502.10149](http://arxiv.org/abs/2502.10149)|null|
+|**2025-02-14**|**Diffusion Trajectory-guided Policy for Long-horizon Robot Manipulation**|Shichao Fan et.al.|[2502.10040](http://arxiv.org/abs/2502.10040)|null|
+|**2025-02-14**|**Large Language Diffusion Models**|Shen Nie et.al.|[2502.09992](http://arxiv.org/abs/2502.09992)|null|
+|**2025-02-14**|**Generating on Generated: An Approach Towards Self-Evolving Diffusion Models**|Xulu Zhang et.al.|[2502.09963](http://arxiv.org/abs/2502.09963)|null|
+|**2025-02-14**|**Precise Parameter Localization for Textual Generation in Diffusion Models**|Łukasz Staniszewski et.al.|[2502.09935](http://arxiv.org/abs/2502.09935)|null|
+|**2025-02-14**|**Symmetry-Preserving Diffusion Models via Target Symmetrization**|Vinh Tong et.al.|[2502.09890](http://arxiv.org/abs/2502.09890)|null|
+|**2025-02-14**|**Compression-Aware One-Step Diffusion Model for JPEG Artifact Removal**|Jinpei Guo et.al.|[2502.09873](http://arxiv.org/abs/2502.09873)|null|
+|**2025-02-13**|**Noise Controlled CT Super-Resolution with Conditional Diffusion Model**|Yuang Wang et.al.|[2502.09793](http://arxiv.org/abs/2502.09793)|null|
+|**2025-02-13**|**Non-Markovian Discrete Diffusion with Causal Language Models**|Yangtian Zhang et.al.|[2502.09767](http://arxiv.org/abs/2502.09767)|null|
 |**2025-02-13**|**Theoretical Benefit and Limitation of Diffusion Language Model**|Guhao Feng et.al.|[2502.09622](http://arxiv.org/abs/2502.09622)|null|
 |**2025-02-13**|**RigAnything: Template-Free Autoregressive Rigging for Diverse 3D Assets**|Isabella Liu et.al.|[2502.09615](http://arxiv.org/abs/2502.09615)|null|
 |**2025-02-14**|**Score-of-Mixture Training: Training One-Step Generative Models Made Simple via Score Estimation of Mixture Distributions**|Tejas Jayashankar et.al.|[2502.09609](http://arxiv.org/abs/2502.09609)|null|
@@ -8369,6 +8388,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-14**|**PromptArtisan: Multi-instruction Image Editing in Single Pass with Complete Attention Control**|Kunal Swami et.al.|[2502.10258](http://arxiv.org/abs/2502.10258)|null|
+|**2025-02-14**|**Hands-off Image Editing: Language-guided Editing without any Task-specific Labeling, Masking or even Training**|Rodrigo Santos et.al.|[2502.10064](http://arxiv.org/abs/2502.10064)|null|
+|**2025-02-14**|**Compression-Aware One-Step Diffusion Model for JPEG Artifact Removal**|Jinpei Guo et.al.|[2502.09873](http://arxiv.org/abs/2502.09873)|null|
 |**2025-02-13**|**Source function from two-particle correlation function through entropy-regularized Richardson-Lucy deblurring**|C. K. Tam et.al.|[2502.09478](http://arxiv.org/abs/2502.09478)|null|
 |**2025-02-13**|**MRS: A Fast Sampler for Mean Reverting Diffusion based on ODE and SDE Solvers**|Ao Li et.al.|[2502.07856](http://arxiv.org/abs/2502.07856)|null|
 |**2025-02-10**|**Predictive Red Teaming: Breaking Policies Without Breaking Robots**|Anirudha Majumdar et.al.|[2502.06575](http://arxiv.org/abs/2502.06575)|null|

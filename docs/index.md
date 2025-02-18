@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.17
+## Updated on 2025.02.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -46,7 +46,7 @@ layout: default
 |**2025-02-13**|**Joint Attention Mechanism Learning to Facilitate Opto-physiological Monitoring during Physical Activity**|Xiaoyu Zheng et.al.|[2502.09291](http://arxiv.org/abs/2502.09291)|null|
 |**2025-02-12**|**DejAIvu: Identifying and Explaining AI Art on the Web in Real-Time with Saliency Maps**|Jocelyn Dzuong et.al.|[2502.08821](http://arxiv.org/abs/2502.08821)|**[link](https://github.com/noodulz/dejaivu)**|
 |**2025-02-12**|**Deep EEG Super-Resolution: Upsampling EEG Spatial Resolution with Generative Adversarial Networks**|Isaac Corley et.al.|[2502.08803](http://arxiv.org/abs/2502.08803)|null|
-|**2025-02-11**|**Unpaired Image-to-Image Translation with Content Preserving Perspective: A Review**|Mehran Safayani et.al.|[2502.08667](http://arxiv.org/abs/2502.08667)|null|
+|**2025-02-15**|**Unpaired Image-to-Image Translation with Content Preserving Perspective: A Review**|Mehran Safayani et.al.|[2502.08667](http://arxiv.org/abs/2502.08667)|null|
 |**2025-02-12**|**Rapid prediction of organisation in engineered corneal, glial and fibroblast tissues using machine learning and biophysical models**|Allison E. Andrews et.al.|[2502.08062](http://arxiv.org/abs/2502.08062)|null|
 |**2025-02-11**|**Direct Ascent Synthesis: Revealing Hidden Generative Capabilities in Discriminative Models**|Stanislav Fort et.al.|[2502.07753](http://arxiv.org/abs/2502.07753)|null|
 |**2025-02-11**|**Towards THz-based Obstacle Sensing: A Generative Radio Environment Awareness Framework**|Tianyu Hu et.al.|[2502.07504](http://arxiv.org/abs/2502.07504)|null|

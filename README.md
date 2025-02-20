@@ -2120,6 +2120,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-19**|**IP-Composer: Semantic Composition of Visual Concepts**|Sara Dorfman et.al.|[2502.13951](http://arxiv.org/abs/2502.13951)|null|
+|**2025-02-19**|**TESS 2: A Large-Scale Generalist Diffusion Language Model**|Jaesung Tae et.al.|[2502.13917](http://arxiv.org/abs/2502.13917)|null|
+|**2025-02-19**|**Reverse Markov Learning: Multi-Step Generative Models for Complex Distributions**|Xinwei Shen et.al.|[2502.13747](http://arxiv.org/abs/2502.13747)|null|
+|**2025-02-19**|**RestoreGrad: Signal Restoration Using Conditional Denoising Diffusion Models with Jointly Learned Prior**|Ching-Hua Lee et.al.|[2502.13574](http://arxiv.org/abs/2502.13574)|null|
+|**2025-02-19**|**Diffusion Model Agnostic Social Influence Maximization in Hyperbolic Space**|Hongliang Qiao et.al.|[2502.13571](http://arxiv.org/abs/2502.13571)|null|
+|**2025-02-19**|**Interleaved Gibbs Diffusion for Constrained Generation**|Gautham Govind Anil et.al.|[2502.13450](http://arxiv.org/abs/2502.13450)|null|
+|**2025-02-18**|**Secure and Efficient Watermarking for Latent Diffusion Models in Model Distribution Scenarios**|Liangqi Lei et.al.|[2502.13345](http://arxiv.org/abs/2502.13345)|null|
+|**2025-02-18**|**Geometry-Aware Diffusion Models for Multiview Scene Inpainting**|Ahmad Salimi et.al.|[2502.13335](http://arxiv.org/abs/2502.13335)|null|
+|**2025-02-18**|**MotionMatcher: Motion Customization of Text-to-Video Diffusion Models via Motion Feature Matching**|Yen-Siang Wu et.al.|[2502.13234](http://arxiv.org/abs/2502.13234)|null|
+|**2025-02-18**|**Fundus2Globe: Generative AI-Driven 3D Digital Twins for Personalized Myopia Management**|Danli Shi et.al.|[2502.13182](http://arxiv.org/abs/2502.13182)|null|
 |**2025-02-18**|**Is Noise Conditioning Necessary for Denoising Generative Models?**|Qiao Sun et.al.|[2502.13129](http://arxiv.org/abs/2502.13129)|null|
 |**2025-02-18**|**Score Matching Riemannian Diffusion Means**|Frederik Möbius Rygaard et.al.|[2502.13106](http://arxiv.org/abs/2502.13106)|null|
 |**2025-02-18**|**Personalized Image Generation with Deep Generative Models: A Decade Survey**|Yuxiang Wei et.al.|[2502.13081](http://arxiv.org/abs/2502.13081)|null|
@@ -8452,6 +8462,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-19**|**RestoreGrad: Signal Restoration Using Conditional Denoising Diffusion Models with Jointly Learned Prior**|Ching-Hua Lee et.al.|[2502.13574](http://arxiv.org/abs/2502.13574)|null|
 |**2025-02-18**|**AnyRefill: A Unified, Data-Efficient Framework for Left-Prompt-Guided Vision Tasks**|Ming Xie et.al.|[2502.11158](http://arxiv.org/abs/2502.11158)|null|
 |**2025-02-14**|**PromptArtisan: Multi-instruction Image Editing in Single Pass with Complete Attention Control**|Kunal Swami et.al.|[2502.10258](http://arxiv.org/abs/2502.10258)|null|
 |**2025-02-14**|**Hands-off Image Editing: Language-guided Editing without any Task-specific Labeling, Masking or even Training**|Rodrigo Santos et.al.|[2502.10064](http://arxiv.org/abs/2502.10064)|null|
@@ -9621,7 +9632,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-18**|**IM360: Textured Mesh Reconstruction for Large-scale Indoor Mapping with 360 $^\circ$ Cameras**|Dongki Jung et.al.|[2502.12545](http://arxiv.org/abs/2502.12545)|null|
+|**2025-02-19**|**IM360: Textured Mesh Reconstruction for Large-scale Indoor Mapping with 360 $^\circ$ Cameras**|Dongki Jung et.al.|[2502.12545](http://arxiv.org/abs/2502.12545)|null|
 |**2025-02-17**|**Real-time Neural Rendering of LiDAR Point Clouds**|Joni Vanherck et.al.|[2502.11618](http://arxiv.org/abs/2502.11618)|null|
 |**2025-02-16**|**OMG: Opacity Matters in Material Modeling with Gaussian Splatting**|Silong Yong et.al.|[2502.10988](http://arxiv.org/abs/2502.10988)|null|
 |**2025-02-18**|**TEASER: Token Enhanced Spatial Modeling for Expressions Reconstruction**|Yunfei Liu et.al.|[2502.10982](http://arxiv.org/abs/2502.10982)|null|
@@ -9955,6 +9966,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-19**|**Bridging the Editing Gap in LLMs: FineEdit for Precise and Targeted Text Modifications**|Yiming Zeng et.al.|[2502.13358](http://arxiv.org/abs/2502.13358)|null|
 |**2025-02-16**|**Organometallic-Inorganic Hybrid MXenes with Tunable Superconductivity**|Qi Fan et.al.|[2502.11035](http://arxiv.org/abs/2502.11035)|null|
 |**2025-01-29**|**Learning Semantic Facial Descriptors for Accurate Face Animation**|Lei Zhu et.al.|[2501.17718](http://arxiv.org/abs/2501.17718)|null|
 |**2024-11-26**|**Pantograph: A Fluid and Typed Structure Editor**|Jacob Prinz et.al.|[2411.16571](http://arxiv.org/abs/2411.16571)|null|

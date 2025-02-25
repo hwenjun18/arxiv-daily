@@ -39,11 +39,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-24**|**Conditional Generative Adversarial Networks for Channel Estimation in RIS-Assisted ISAC Systems**|Alice Faisal et.al.|[2502.17128](http://arxiv.org/abs/2502.17128)|null|
+|**2025-02-24**|**Diffusion Models for Tabular Data: Challenges, Current Progress, and Future Directions**|Zhong Li et.al.|[2502.17119](http://arxiv.org/abs/2502.17119)|null|
+|**2025-02-24**|**Generative Models in Decision Making: A Survey**|Yinchuan Li et.al.|[2502.17100](http://arxiv.org/abs/2502.17100)|null|
+|**2025-02-24**|**Predicting Liquidity-Aware Bond Yields using Causal GANs and Deep Reinforcement Learning with LLM Evaluation**|Jaskaran Singh Walia et.al.|[2502.17011](http://arxiv.org/abs/2502.17011)|null|
+|**2025-02-24**|**PQDAST: Depth-Aware Arbitrary Style Transfer for Games via Perceptual Quality-Guided Distillation**|Eleftherios Ioannou et.al.|[2502.16996](http://arxiv.org/abs/2502.16996)|null|
+|**2025-02-23**|**Rebalancing the Scales: A Systematic Mapping Study of Generative Adversarial Networks (GANs) in Addressing Data Imbalance**|Pankaj Yadav et.al.|[2502.16535](http://arxiv.org/abs/2502.16535)|null|
+|**2025-02-23**|**Auxiliary Discrminator Sequence Generative Adversarial Networks (ADSeqGAN) for Few Sample Molecule Generation**|Haocheng Tang et.al.|[2502.16446](http://arxiv.org/abs/2502.16446)|null|
+|**2025-02-22**|**Revealing Microscopic Objects in Fluorescence Live Imaging by Video-to-video Translation Based on A Spatial-temporal Generative Adversarial Network**|Yang Jiao et.al.|[2502.16342](http://arxiv.org/abs/2502.16342)|null|
 |**2025-02-21**|**Methods and Trends in Detecting Generated Images: A Comprehensive Review**|Arpan Mahara et.al.|[2502.15176](http://arxiv.org/abs/2502.15176)|null|
 |**2025-02-21**|**mStyleDistance: Multilingual Style Embeddings and their Evaluation**|Justin Qiu et.al.|[2502.15168](http://arxiv.org/abs/2502.15168)|null|
-|**2025-02-20**|**A Meta-Evaluation of Style and Attribute Transfer Metrics**|Amalie Brogaard Pauli et.al.|[2502.15022](http://arxiv.org/abs/2502.15022)|null|
+|**2025-02-24**|**A Meta-Evaluation of Style and Attribute Transfer Metrics**|Amalie Brogaard Pauli et.al.|[2502.15022](http://arxiv.org/abs/2502.15022)|null|
 |**2025-02-20**|**Generative adversarial networks vs large language models: a comparative study on synthetic tabular data generation**|Austin A. Barr et.al.|[2502.14523](http://arxiv.org/abs/2502.14523)|**[link](https://github.com/aabarr/synthetic-datasets)**|
-|**2025-02-20**|**PhotoDoodle: Learning Artistic Image Editing from Few-Shot Pairwise Data**|Shijie Huang et.al.|[2502.14397](http://arxiv.org/abs/2502.14397)|**[link](https://github.com/showlab/PhotoDoodle)**|
+|**2025-02-23**|**PhotoDoodle: Learning Artistic Image Editing from Few-Shot Pairwise Data**|Shijie Huang et.al.|[2502.14397](http://arxiv.org/abs/2502.14397)|**[link](https://github.com/showlab/PhotoDoodle)**|
 |**2025-02-19**|**A Racing Dataset and Baseline Model for Track Detection in Autonomous Racing**|Shreya Ghosh et.al.|[2502.14068](http://arxiv.org/abs/2502.14068)|null|
 |**2025-02-19**|**d-Sketch: Improving Visual Fidelity of Sketch-to-Image Translation with Pretrained Latent Diffusion Models without Retraining**|Prasun Roy et.al.|[2502.14007](http://arxiv.org/abs/2502.14007)|**[link](https://github.com/prasunroy/dsketch)**|
 |**2025-02-19**|**SigStyle: Signature Style Transfer via Personalized Text-to-Image Models**|Ye Wang et.al.|[2502.13997](http://arxiv.org/abs/2502.13997)|null|
@@ -2114,6 +2122,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-24**|**GCC: Generative Color Constancy via Diffusing a Color Checker**|Chen-Wei Chang et.al.|[2502.17435](http://arxiv.org/abs/2502.17435)|null|
+|**2025-02-24**|**S4S: Solving for a Diffusion Model Solver**|Eric Frankel et.al.|[2502.17423](http://arxiv.org/abs/2502.17423)|null|
+|**2025-02-24**|**X-Dancer: Expressive Music to Human Dance Video Generation**|Zeyuan Chen et.al.|[2502.17414](http://arxiv.org/abs/2502.17414)|null|
+|**2025-02-24**|**AnyTop: Character Animation Diffusion with Any Topology**|Inbar Gat et.al.|[2502.17327](http://arxiv.org/abs/2502.17327)|null|
+|**2025-02-24**|**VideoGrain: Modulating Space-Time Attention for Multi-grained Video Editing**|Xiangpeng Yang et.al.|[2502.17258](http://arxiv.org/abs/2502.17258)|null|
+|**2025-02-24**|**Dimitra: Audio-driven Diffusion model for Expressive Talking Head Generation**|Baptiste Chopin et.al.|[2502.17198](http://arxiv.org/abs/2502.17198)|null|
+|**2025-02-24**|**DICEPTION: A Generalist Diffusion Model for Visual Perceptual Tasks**|Canyu Zhao et.al.|[2502.17157](http://arxiv.org/abs/2502.17157)|**[link](https://github.com/aim-uofa/Diception)**|
+|**2025-02-24**|**Diffusion Models for Tabular Data: Challenges, Current Progress, and Future Directions**|Zhong Li et.al.|[2502.17119](http://arxiv.org/abs/2502.17119)|null|
+|**2025-02-24**|**SFLD: Reducing the content bias for AI-generated Image Detection**|Seoyeon Gye et.al.|[2502.17105](http://arxiv.org/abs/2502.17105)|null|
+|**2025-02-24**|**Generative Models in Decision Making: A Survey**|Yinchuan Li et.al.|[2502.17100](http://arxiv.org/abs/2502.17100)|null|
+|**2025-02-24**|**Conditional Diffusion-Flow models for generating 3D cosmic density fields: applications to f(R) cosmologies**|Julieth Katherine Riveros et.al.|[2502.17087](http://arxiv.org/abs/2502.17087)|null|
+|**2025-02-24**|**SpecDM: Hyperspectral Dataset Synthesis with Pixel-level Semantic Annotations**|Wendi Liu et.al.|[2502.17056](http://arxiv.org/abs/2502.17056)|null|
+|**2025-02-24**|**TraFlow: Trajectory Distillation on Pre-Trained Rectified Flow**|Zhangkai Wu et.al.|[2502.16972](http://arxiv.org/abs/2502.16972)|null|
+|**2025-02-24**|**Autoregressive Image Generation Guided by Chains of Thought**|Miaomiao Cai et.al.|[2502.16965](http://arxiv.org/abs/2502.16965)|null|
+|**2025-02-24**|**MAD-AD: Masked Diffusion for Unsupervised Brain Anomaly Detection**|Farzad Beizaee et.al.|[2502.16943](http://arxiv.org/abs/2502.16943)|null|
+|**2025-02-24**|**Multi-Dimensional Quality Assessment for Text-to-3D Assets: Dataset and Model**|Kang Fu et.al.|[2502.16915](http://arxiv.org/abs/2502.16915)|null|
+|**2025-02-24**|**Mitigating Hallucinations in Diffusion Models through Adaptive Attention Modulation**|Trevine Oorloff et.al.|[2502.16872](http://arxiv.org/abs/2502.16872)|null|
+|**2025-02-24**|**Posterior Inference with Diffusion Models for High-dimensional Black-box Optimization**|Taeyoung Yun et.al.|[2502.16824](http://arxiv.org/abs/2502.16824)|null|
+|**2025-02-24**|**Fast, Accurate Manifold Denoising by Tunneling Riemannian Optimization**|Shiyu Wang et.al.|[2502.16819](http://arxiv.org/abs/2502.16819)|null|
+|**2025-02-24**|**DiffKAN-Inpainting: KAN-based Diffusion model for brain tumor inpainting**|Tianli Tao et.al.|[2502.16771](http://arxiv.org/abs/2502.16771)|null|
 |**2025-02-21**|**One-step Diffusion Models with $f$ -Divergence Distribution Matching**|Yilun Xu et.al.|[2502.15681](http://arxiv.org/abs/2502.15681)|null|
 |**2025-02-21**|**Modeling Infectious Diseases: From SIR Models to Diffusion-Based Approaches and Numerical Solutions**|Ayesha Baig et.al.|[2502.15439](http://arxiv.org/abs/2502.15439)|null|
 |**2025-02-21**|**BundleFlow: Deep Menus for Combinatorial Auctions by Diffusion-Based Optimization**|Tonghan Wang et.al.|[2502.15283](http://arxiv.org/abs/2502.15283)|null|
@@ -8477,7 +8505,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-20**|**PhotoDoodle: Learning Artistic Image Editing from Few-Shot Pairwise Data**|Shijie Huang et.al.|[2502.14397](http://arxiv.org/abs/2502.14397)|**[link](https://github.com/showlab/PhotoDoodle)**|
+|**2025-02-24**|**KV-Edit: Training-Free Image Editing for Precise Background Preservation**|Tianrui Zhu et.al.|[2502.17363](http://arxiv.org/abs/2502.17363)|null|
+|**2025-02-24**|**Splitting Regularized Wasserstein Proximal Algorithms for Nonsmooth Sampling Problems**|Fuqun Han et.al.|[2502.16773](http://arxiv.org/abs/2502.16773)|null|
+|**2025-02-22**|**DualNeRF: Text-Driven 3D Scene Editing via Dual-Field Representation**|Yuxuan Xiong et.al.|[2502.16302](http://arxiv.org/abs/2502.16302)|null|
+|**2025-02-23**|**PhotoDoodle: Learning Artistic Image Editing from Few-Shot Pairwise Data**|Shijie Huang et.al.|[2502.14397](http://arxiv.org/abs/2502.14397)|**[link](https://github.com/showlab/PhotoDoodle)**|
 |**2025-02-19**|**RestoreGrad: Signal Restoration Using Conditional Denoising Diffusion Models with Jointly Learned Prior**|Ching-Hua Lee et.al.|[2502.13574](http://arxiv.org/abs/2502.13574)|null|
 |**2025-02-18**|**AnyRefill: A Unified, Data-Efficient Framework for Left-Prompt-Guided Vision Tasks**|Ming Xie et.al.|[2502.11158](http://arxiv.org/abs/2502.11158)|null|
 |**2025-02-14**|**PromptArtisan: Multi-instruction Image Editing in Single Pass with Complete Attention Control**|Kunal Swami et.al.|[2502.10258](http://arxiv.org/abs/2502.10258)|null|

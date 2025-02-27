@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.26
+## Updated on 2025.02.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -8524,7 +8524,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-25**|**Bayesian Optimization for Controlled Image Editing via LLMs**|Chengkun Cai et.al.|[2502.18116](http://arxiv.org/abs/2502.18116)|null|
+|**2025-02-26**|**Bayesian Optimization for Controlled Image Editing via LLMs**|Chengkun Cai et.al.|[2502.18116](http://arxiv.org/abs/2502.18116)|null|
 |**2025-02-25**|**KV-Edit: Training-Free Image Editing for Precise Background Preservation**|Tianrui Zhu et.al.|[2502.17363](http://arxiv.org/abs/2502.17363)|**[link](https://github.com/Xilluill/KV-Edit)**|
 |**2025-02-24**|**Splitting Regularized Wasserstein Proximal Algorithms for Nonsmooth Sampling Problems**|Fuqun Han et.al.|[2502.16773](http://arxiv.org/abs/2502.16773)|null|
 |**2025-02-22**|**DualNeRF: Text-Driven 3D Scene Editing via Dual-Field Representation**|Yuxuan Xiong et.al.|[2502.16302](http://arxiv.org/abs/2502.16302)|null|

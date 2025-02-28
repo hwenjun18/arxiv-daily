@@ -2140,6 +2140,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-27**|**Tight Inversion: Image-Conditioned Inversion for Real Image Editing**|Edo Kadosh et.al.|[2502.20376](http://arxiv.org/abs/2502.20376)|null|
+|**2025-02-27**|**Constrained Generative Modeling with Manually Bridged Diffusion Models**|Saeid Naderiparizi et.al.|[2502.20371](http://arxiv.org/abs/2502.20371)|null|
+|**2025-02-27**|**FlexVAR: Flexible Visual Autoregressive Modeling without Residual Prediction**|Siyu Jiao et.al.|[2502.20313](http://arxiv.org/abs/2502.20313)|null|
+|**2025-02-27**|**Mobius: Text to Seamless Looping Video Generation via Latent Shift**|Xiuli Bi et.al.|[2502.20307](http://arxiv.org/abs/2502.20307)|null|
+|**2025-02-27**|**Explainable, Multi-modal Wound Infection Classification from Images Augmented with Generated Captions**|Palawat Busaranuvong et.al.|[2502.20277](http://arxiv.org/abs/2502.20277)|null|
+|**2025-02-27**|**Attention Distillation: A Unified Approach to Visual Characteristics Transfer**|Yang Zhou et.al.|[2502.20235](http://arxiv.org/abs/2502.20235)|**[link](https://github.com/xugao97/AttentionDistillation)**|
+|**2025-02-27**|**Multimodal Representation Alignment for Image Generation: Text-Image Interleaved Control Is Easier Than You Think**|Liang Chen et.al.|[2502.20172](http://arxiv.org/abs/2502.20172)|null|
+|**2025-02-27**|**Scalability of the second-order reliability method for stochastic differential equations with multiplicative noise**|Timo Schorlepp et.al.|[2502.20114](http://arxiv.org/abs/2502.20114)|null|
+|**2025-02-27**|**Generative augmentations for improved cardiac ultrasound segmentation using diffusion models**|Gilles Van De Vyver et.al.|[2502.20100](http://arxiv.org/abs/2502.20100)|null|
+|**2025-02-27**|**Image Referenced Sketch Colorization Based on Animation Creation Workflow**|Dingkun Yan et.al.|[2502.19937](http://arxiv.org/abs/2502.19937)|null|
+|**2025-02-27**|**DiffCSS: Diverse and Expressive Conversational Speech Synthesis with Diffusion Models**|Weihao wu et.al.|[2502.19924](http://arxiv.org/abs/2502.19924)|null|
+|**2025-02-27**|**High-Fidelity Relightable Monocular Portrait Animation with Lighting-Controllable Video Diffusion Model**|Mingtao Guo et.al.|[2502.19894](http://arxiv.org/abs/2502.19894)|null|
+|**2025-02-27**|**C-Drag: Chain-of-Thought Driven Motion Controller for Video Generation**|Yuhao Li et.al.|[2502.19868](http://arxiv.org/abs/2502.19868)|null|
+|**2025-02-27**|**One-for-More: Continual Diffusion Model for Anomaly Detection**|Xiaofan Li et.al.|[2502.19848](http://arxiv.org/abs/2502.19848)|null|
+|**2025-02-27**|**Analyzing CLIP's Performance Limitations in Multi-Object Scenarios: A Controlled High-Resolution Study**|Reza Abbasi et.al.|[2502.19828](http://arxiv.org/abs/2502.19828)|null|
+|**2025-02-27**|**Implicit Search via Discrete Diffusion: A Study on Chess**|Jiacheng Ye et.al.|[2502.19805](http://arxiv.org/abs/2502.19805)|null|
+|**2025-02-27**|**UIFace: Unleashing Inherent Model Capabilities to Enhance Intra-Class Diversity in Synthetic Face Recognition**|Xiao Lin et.al.|[2502.19803](http://arxiv.org/abs/2502.19803)|null|
+|**2025-02-27**|**MFSR: Multi-fractal Feature for Super-resolution Reconstruction with Fine Details Recovery**|Lianping Yang et.al.|[2502.19797](http://arxiv.org/abs/2502.19797)|null|
+|**2025-02-27**|**Finding Local Diffusion Schrödinger Bridge using Kolmogorov-Arnold Network**|Xingyu Qiu et.al.|[2502.19754](http://arxiv.org/abs/2502.19754)|null|
+|**2025-02-27**|**Recent Advances on Generalizable Diffusion-generated Image Detection**|Qijie Xu et.al.|[2502.19716](http://arxiv.org/abs/2502.19716)|null|
 |**2025-02-26**|**HDM: Hybrid Diffusion Model for Unified Image Anomaly Detection**|Zekang Weng et.al.|[2502.19200](http://arxiv.org/abs/2502.19200)|null|
 |**2025-02-27**|**RetinaRegen: A Hybrid Model for Readability and Detail Restoration in Fundus Images**|Yuhan Tang et.al.|[2502.19153](http://arxiv.org/abs/2502.19153)|null|
 |**2025-02-26**|**Modulation of the galactic cosmic ray spectrum in an anisotropic diffusion approach**|V. D. Borisov et.al.|[2502.19062](http://arxiv.org/abs/2502.19062)|null|
@@ -8550,6 +8570,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-27**|**Tight Inversion: Image-Conditioned Inversion for Real Image Editing**|Edo Kadosh et.al.|[2502.20376](http://arxiv.org/abs/2502.20376)|null|
+|**2025-02-27**|**Identity-preserving Distillation Sampling by Fixed-Point Iterator**|SeonHwa Kim et.al.|[2502.19930](http://arxiv.org/abs/2502.19930)|null|
+|**2025-02-26**|**SVGEditBench V2: A Benchmark for Instruction-based SVG Editing**|Kunato Nishina et.al.|[2502.19453](http://arxiv.org/abs/2502.19453)|null|
 |**2025-02-26**|**Self-supervised conformal prediction for uncertainty quantification in Poisson imaging problems**|Bernardin Tamo Amougou et.al.|[2502.19194](http://arxiv.org/abs/2502.19194)|null|
 |**2025-02-26**|**Multi-level Attention-guided Graph Neural Network for Image Restoration**|Jiatao Jiang et.al.|[2502.19181](http://arxiv.org/abs/2502.19181)|null|
 |**2025-02-27**|**RetinaRegen: A Hybrid Model for Readability and Detail Restoration in Fundus Images**|Yuhan Tang et.al.|[2502.19153](http://arxiv.org/abs/2502.19153)|null|
@@ -10127,6 +10150,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-27**|**High-Fidelity Relightable Monocular Portrait Animation with Lighting-Controllable Video Diffusion Model**|Mingtao Guo et.al.|[2502.19894](http://arxiv.org/abs/2502.19894)|null|
+|**2025-02-26**|**FLAP: Fully-controllable Audio-driven Portrait Video Generation through 3D head conditioned diffusion mode**|Lingzhou Mu et.al.|[2502.19455](http://arxiv.org/abs/2502.19455)|null|
 |**2025-02-19**|**DP-Adapter: Dual-Pathway Adapter for Boosting Fidelity and Text Consistency in Customizable Human Image Generation**|Ye Wang et.al.|[2502.13999](http://arxiv.org/abs/2502.13999)|null|
 |**2025-02-18**|**KAPPA: A Generic Patent Analysis Framework with Keyphrase-Based Portraits**|Xin Xia et.al.|[2502.13076](http://arxiv.org/abs/2502.13076)|null|
 |**2025-02-16**|**Adjust Your Focus: Defocus Deblurring From Dual-Pixel Images Using Explicit Multi-Scale Cross-Correlation**|Kunal Swami et.al.|[2502.11002](http://arxiv.org/abs/2502.11002)|null|

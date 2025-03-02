@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.01
+## Updated on 2025.03.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -39,10 +39,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-25**|**Inverse Materials Design by Large Language Model-Assisted Generative Framework**|Yun Hao et.al.|[2502.18127](http://arxiv.org/abs/2502.18127)|null|
+|**2025-02-25**|**Inverse Materials Design by Large Language Model-Assisted Generative Framework**|Yun Hao et.al.|[2502.18127](http://arxiv.org/abs/2502.18127)|**[link](https://github.com/photon-git/AlloyGAN)**|
 |**2025-02-25**|**TagGAN: A Generative Model for Data Tagging**|Muhammad Nawaz et.al.|[2502.17836](http://arxiv.org/abs/2502.17836)|null|
 |**2025-02-24**|**IBURD: Image Blending for Underwater Robotic Detection**|Jungseok Hong et.al.|[2502.17706](http://arxiv.org/abs/2502.17706)|null|
-|**2025-02-24**|**Flexible Counterfactual Explanations with Generative Models**|Stig Hellemans et.al.|[2502.17613](http://arxiv.org/abs/2502.17613)|null|
+|**2025-02-24**|**Flexible Counterfactual Explanations with Generative Models**|Stig Hellemans et.al.|[2502.17613](http://arxiv.org/abs/2502.17613)|**[link](https://github.com/stighellemans/fcegan)**|
 |**2025-02-24**|**Conditional Generative Adversarial Networks for Channel Estimation in RIS-Assisted ISAC Systems**|Alice Faisal et.al.|[2502.17128](http://arxiv.org/abs/2502.17128)|null|
 |**2025-02-24**|**Diffusion Models for Tabular Data: Challenges, Current Progress, and Future Directions**|Zhong Li et.al.|[2502.17119](http://arxiv.org/abs/2502.17119)|**[link](https://github.com/diffusion-model-leiden/awesome-diffusion-models-for-tabular-data)**|
 |**2025-02-25**|**Generative Models in Decision Making: A Survey**|Yinchuan Li et.al.|[2502.17100](http://arxiv.org/abs/2502.17100)|null|
@@ -8563,7 +8563,7 @@ layout: default
 |**2025-02-26**|**Dynamic Degradation Decomposition Network for All-in-One Image Restoration**|Huiqiang Wang et.al.|[2502.19068](http://arxiv.org/abs/2502.19068)|null|
 |**2025-02-26**|**Bayesian Optimization for Controlled Image Editing via LLMs**|Chengkun Cai et.al.|[2502.18116](http://arxiv.org/abs/2502.18116)|null|
 |**2025-02-25**|**KV-Edit: Training-Free Image Editing for Precise Background Preservation**|Tianrui Zhu et.al.|[2502.17363](http://arxiv.org/abs/2502.17363)|**[link](https://github.com/Xilluill/KV-Edit)**|
-|**2025-02-24**|**Splitting Regularized Wasserstein Proximal Algorithms for Nonsmooth Sampling Problems**|Fuqun Han et.al.|[2502.16773](http://arxiv.org/abs/2502.16773)|null|
+|**2025-02-24**|**Splitting Regularized Wasserstein Proximal Algorithms for Nonsmooth Sampling Problems**|Fuqun Han et.al.|[2502.16773](http://arxiv.org/abs/2502.16773)|**[link](https://github.com/fq-han/brwp-splitting)**|
 |**2025-02-22**|**DualNeRF: Text-Driven 3D Scene Editing via Dual-Field Representation**|Yuxuan Xiong et.al.|[2502.16302](http://arxiv.org/abs/2502.16302)|null|
 |**2025-02-23**|**PhotoDoodle: Learning Artistic Image Editing from Few-Shot Pairwise Data**|Shijie Huang et.al.|[2502.14397](http://arxiv.org/abs/2502.14397)|**[link](https://github.com/showlab/PhotoDoodle)**|
 |**2025-02-19**|**RestoreGrad: Signal Restoration Using Conditional Denoising Diffusion Models with Jointly Learned Prior**|Ching-Hua Lee et.al.|[2502.13574](http://arxiv.org/abs/2502.13574)|null|

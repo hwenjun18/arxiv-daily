@@ -9772,8 +9772,8 @@
 |**2025-02-19**|**Inter3D: A Benchmark and Strong Baseline for Human-Interactive 3D Object Reconstruction**|Gan Chen et.al.|[2502.14004](http://arxiv.org/abs/2502.14004)|**[link](https://github.com/Inter3D-ui/Inter3D)**|
 |**2025-02-19**|**IM360: Textured Mesh Reconstruction for Large-scale Indoor Mapping with 360 $^\circ$ Cameras**|Dongki Jung et.al.|[2502.12545](http://arxiv.org/abs/2502.12545)|null|
 |**2025-02-17**|**Real-time Neural Rendering of LiDAR Point Clouds**|Joni Vanherck et.al.|[2502.11618](http://arxiv.org/abs/2502.11618)|null|
-|**2025-02-16**|**OMG: Opacity Matters in Material Modeling with Gaussian Splatting**|Silong Yong et.al.|[2502.10988](http://arxiv.org/abs/2502.10988)|null|
-|**2025-02-18**|**TEASER: Token Enhanced Spatial Modeling for Expressions Reconstruction**|Yunfei Liu et.al.|[2502.10982](http://arxiv.org/abs/2502.10982)|null|
+|**2025-03-03**|**OMG: Opacity Matters in Material Modeling with Gaussian Splatting**|Silong Yong et.al.|[2502.10988](http://arxiv.org/abs/2502.10988)|null|
+|**2025-03-02**|**TEASER: Token Enhanced Spatial Modeling for Expressions Reconstruction**|Yunfei Liu et.al.|[2502.10982](http://arxiv.org/abs/2502.10982)|null|
 |**2025-02-16**|**Re $^3$ Sim: Generating High-Fidelity Simulation Data via 3D-Photorealistic Real-to-Sim for Robotic Manipulation**|Xiaoshen Han et.al.|[2502.08645](http://arxiv.org/abs/2502.08645)|null|
 |**2025-02-11**|**Few-Shot Multi-Human Neural Rendering Using Geometry Constraints**|Qian li et.al.|[2502.07140](http://arxiv.org/abs/2502.07140)|null|
 |**2025-01-31**|**JGHand: Joint-Driven Animatable Hand Avater via 3D Gaussian Splatting**|Zhoutao Sun et.al.|[2501.19088](http://arxiv.org/abs/2501.19088)|null|
@@ -10184,7 +10184,7 @@
 |**2025-01-24**|**Planar Kolmogorov systems with infinitely many singular points at infinity**|Érika Diz-Pita et.al.|[2501.14416](http://arxiv.org/abs/2501.14416)|null|
 |**2025-01-23**|**Global phase portraits of a predator-prey system**|Érika Diz-Pita et.al.|[2501.13728](http://arxiv.org/abs/2501.13728)|null|
 |**2025-01-23**|**Phase portraits of a family of Kolmogorov systems depending on six parameters**|Érika Diz-Pita et.al.|[2501.13714](http://arxiv.org/abs/2501.13714)|null|
-|**2025-01-20**|**Artificial Neural Networks for Magnetoencephalography: A review of an emerging field**|Arthur Dehgan et.al.|[2501.11566](http://arxiv.org/abs/2501.11566)|null|
+|**2025-03-01**|**Artificial Neural Networks for Magnetoencephalography: A review of an emerging field**|Arthur Dehgan et.al.|[2501.11566](http://arxiv.org/abs/2501.11566)|null|
 |**2025-01-20**|**Nonlinear optomechanical systems with quasi-periodic and chaotic dynamics**|A. P. Saiko et.al.|[2501.11344](http://arxiv.org/abs/2501.11344)|null|
 |**2025-01-16**|**SynthLight: Portrait Relighting with Diffusion Model by Learning to Re-render Synthetic Faces**|Sumit Chaturvedi et.al.|[2501.09756](http://arxiv.org/abs/2501.09756)|null|
 |**2025-01-15**|**Joint Learning of Depth and Appearance for Portrait Image Animation**|Xinya Ji et.al.|[2501.08649](http://arxiv.org/abs/2501.08649)|null|

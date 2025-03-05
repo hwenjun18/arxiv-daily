@@ -39,6 +39,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-04**|**Large-Angle Convergent-Beam Electron Diffraction Patterns via Conditional Generative Adversarial Networks**|Joseph. J Webb et.al.|[2503.02852](http://arxiv.org/abs/2503.02852)|null|
+|**2025-03-04**|**YARE-GAN: Yet Another Resting State EEG-GAN**|Yeganeh Farahzadi et.al.|[2503.02636](http://arxiv.org/abs/2503.02636)|null|
+|**2025-03-04**|**$\mathbfΦ$ -GAN: Physics-Inspired GAN for Generating SAR Images Under Limited Data**|Xidan Zhang et.al.|[2503.02242](http://arxiv.org/abs/2503.02242)|null|
+|**2025-02-28**|**VAEs and GANs: Implicitly Approximating Complex Distributions with Simple Base Distributions and Deep Neural Networks -- Principles, Necessity, and Limitations**|Yuan-Hao Wei et.al.|[2503.01898](http://arxiv.org/abs/2503.01898)|null|
+|**2025-03-02**|**Exploring fully-heavy tetraquarks through the CGAN framework: Mass and width**|M. Malekhosseini et.al.|[2503.00993](http://arxiv.org/abs/2503.00993)|null|
+|**2025-03-02**|**Using Synthetic Images to Augment Small Medical Image Datasets**|Minh H. Vu et.al.|[2503.00962](http://arxiv.org/abs/2503.00962)|null|
+|**2025-03-02**|**Cross Modality Medical Image Synthesis for Improving Liver Segmentation**|Muhammad Rafiq et.al.|[2503.00945](http://arxiv.org/abs/2503.00945)|null|
+|**2025-03-01**|**Synergy Between Sufficient Changes and Sparse Mixing Procedure for Disentangled Representation Learning**|Zijian Li et.al.|[2503.00639](http://arxiv.org/abs/2503.00639)|null|
+|**2025-03-01**|**XIRVIO: Critic-guided Iterative Refinement for Visual-Inertial Odometry with Explainable Adaptive Weighting**|Chit Yuen Lam et.al.|[2503.00315](http://arxiv.org/abs/2503.00315)|null|
+|**2025-02-28**|**Seeing Eye to AI? Applying Deep-Feature-Based Similarity Metrics to Information Visualization**|Sheng Long et.al.|[2503.00228](http://arxiv.org/abs/2503.00228)|null|
+|**2025-02-28**|**Learning Vision-Based Neural Network Controllers with Semi-Probabilistic Safety Guarantees**|Xinhang Ma et.al.|[2503.00191](http://arxiv.org/abs/2503.00191)|null|
+|**2025-02-26**|**PCE-GAN: A Generative Adversarial Network for Point Cloud Attribute Quality Enhancement based on Optimal Transport**|Tian Guo et.al.|[2503.00047](http://arxiv.org/abs/2503.00047)|null|
 |**2025-02-28**|**A Review on Generative AI For Text-To-Image and Image-To-Image Generation and Implications To Scientific Images**|Zineb Sordo et.al.|[2502.21151](http://arxiv.org/abs/2502.21151)|null|
 |**2025-02-28**|**Deep learning-based filtering of cross-spectral matrices using generative adversarial networks**|Christof Puhle et.al.|[2502.21097](http://arxiv.org/abs/2502.21097)|null|
 |**2025-02-28**|**Synthesizing Tabular Data Using Selectivity Enhanced Generative Adversarial Networks**|Youran Zhou et.al.|[2502.21034](http://arxiv.org/abs/2502.21034)|null|
@@ -2130,6 +2142,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-04**|**Generating Reliable Initial Velocity Models for Full-waveform Inversion with Well and Structural Constraints**|Qingchen Zhang et.al.|[2503.02815](http://arxiv.org/abs/2503.02815)|null|
+|**2025-03-04**|**StageDesigner: Artistic Stage Generation for Scenography via Theater Scripts**|Zhaoxing Gan et.al.|[2503.02595](http://arxiv.org/abs/2503.02595)|null|
+|**2025-03-04**|**TS-CGNet: Temporal-Spatial Fusion Meets Centerline-Guided Diffusion for BEV Mapping**|Xinying Hong et.al.|[2503.02578](http://arxiv.org/abs/2503.02578)|null|
+|**2025-03-04**|**SPG: Improving Motion Diffusion by Smooth Perturbation Guidance**|Boseong Jeon et.al.|[2503.02577](http://arxiv.org/abs/2503.02577)|null|
+|**2025-03-04**|**RectifiedHR: Enable Efficient High-Resolution Image Generation via Energy Rectification**|Zhen Yang et.al.|[2503.02537](http://arxiv.org/abs/2503.02537)|null|
+|**2025-03-04**|**BRIDGE: Bootstrapping Text to Control Time-Series Generation via Multi-Agent Iterative Optimization and Diffusion Modelling**|Hao Li et.al.|[2503.02445](http://arxiv.org/abs/2503.02445)|null|
+|**2025-03-04**|**Controllable Motion Generation via Diffusion Modal Coupling**|Luobin Wang et.al.|[2503.02353](http://arxiv.org/abs/2503.02353)|null|
+|**2025-03-04**|**CQ CNN: A Hybrid Classical Quantum Convolutional Neural Network for Alzheimer's Disease Detection Using Diffusion Generated and U Net Segmented 3D MRI**|Mominul Islam et.al.|[2503.02345](http://arxiv.org/abs/2503.02345)|null|
+|**2025-03-04**|**Diffusion-Based mmWave Radar Point Cloud Enhancement Driven by Range Images**|Ruixin Wu et.al.|[2503.02300](http://arxiv.org/abs/2503.02300)|null|
+|**2025-03-04**|**h-Edit: Effective and Flexible Diffusion-Based Editing via Doob's h-Transform**|Toan Nguyen et.al.|[2503.02187](http://arxiv.org/abs/2503.02187)|null|
+|**2025-03-03**|**HanDrawer: Leveraging Spatial Information to Render Realistic Hands Using a Conditional Diffusion Model in Single Stage**|Qifan Fu et.al.|[2503.02127](http://arxiv.org/abs/2503.02127)|null|
+|**2025-03-03**|**Generalized Diffusion Detector: Mining Robust Features from Diffusion Models for Domain-Generalized Detection**|Boyong He et.al.|[2503.02101](http://arxiv.org/abs/2503.02101)|null|
+|**2025-03-03**|**Superscopes: Amplifying Internal Feature Representations for Language Model Interpretation**|Jonathan Jacobi et.al.|[2503.02078](http://arxiv.org/abs/2503.02078)|null|
+|**2025-03-03**|**FRMD: Fast Robot Motion Diffusion with Consistency-Distilled Movement Primitives for Smooth Action Generation**|Xirui Shi et.al.|[2503.02048](http://arxiv.org/abs/2503.02048)|null|
+|**2025-03-03**|**Quantifying Point Contributions: A Lightweight Framework for Efficient and Effective Query-Driven Trajectory Simplification**|Yumeng Song et.al.|[2503.02047](http://arxiv.org/abs/2503.02047)|null|
+|**2025-03-03**|**Dynamic Search for Inference-Time Alignment in Diffusion Models**|Xiner Li et.al.|[2503.02039](http://arxiv.org/abs/2503.02039)|null|
+|**2025-03-03**|**Morpheus: Text-Driven 3D Gaussian Splat Shape and Color Stylization**|Jamie Wynn et.al.|[2503.02009](http://arxiv.org/abs/2503.02009)|null|
+|**2025-03-03**|**Denoising Functional Maps: Diffusion Models for Shape Correspondence**|Aleksei Zhuravlev et.al.|[2503.01845](http://arxiv.org/abs/2503.01845)|null|
+|**2025-03-03**|**Difix3D+: Improving 3D Reconstructions with Single-Step Diffusion Models**|Jay Zhangjie Wu et.al.|[2503.01774](http://arxiv.org/abs/2503.01774)|null|
+|**2025-03-03**|**Self-attention-based Diffusion Model for Time-series Imputation in Partial Blackout Scenarios**|Mohammad Rafid Ul Islam et.al.|[2503.01737](http://arxiv.org/abs/2503.01737)|null|
 |**2025-02-28**|**Raccoon: Multi-stage Diffusion Training with Coarse-to-Fine Curating Videos**|Zhiyu Tan et.al.|[2502.21314](http://arxiv.org/abs/2502.21314)|null|
 |**2025-02-28**|**Does Generation Require Memorization? Creative Diffusion Models using Ambient Diffusion**|Kulin Shah et.al.|[2502.21278](http://arxiv.org/abs/2502.21278)|null|
 |**2025-02-28**|**A Review on Generative AI For Text-To-Image and Image-To-Image Generation and Implications To Scientific Images**|Zineb Sordo et.al.|[2502.21151](http://arxiv.org/abs/2502.21151)|null|
@@ -8569,6 +8601,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-04**|**ERetinex: Event Camera Meets Retinex Theory for Low-Light Image Enhancement**|Xuejian Guo et.al.|[2503.02484](http://arxiv.org/abs/2503.02484)|null|
+|**2025-03-04**|**Semantic Prior Distillation with Vision Foundation Model for Enhanced Rapid Bone Scintigraphy Image Restoration**|Pengchen Liang et.al.|[2503.02321](http://arxiv.org/abs/2503.02321)|null|
+|**2025-03-04**|**h-Edit: Effective and Flexible Diffusion-Based Editing via Doob's h-Transform**|Toan Nguyen et.al.|[2503.02187](http://arxiv.org/abs/2503.02187)|null|
+|**2025-03-03**|**MRI super-resolution reconstruction using efficient diffusion probabilistic model with residual shifting**|Mojtaba Safari et.al.|[2503.01576](http://arxiv.org/abs/2503.01576)|**[link](https://github.com/mosaf/res-srdiff)**|
+|**2025-03-03**|**Wavelet-Enhanced Desnowing: A Novel Single Image Restoration Approach for Traffic Surveillance under Adverse Weather Conditions**|Zihan Shen et.al.|[2503.01339](http://arxiv.org/abs/2503.01339)|null|
+|**2025-03-03**|**Reconciling Stochastic and Deterministic Strategies for Zero-shot Image Restoration using Diffusion Model in Dual**|Chong Wang et.al.|[2503.01288](http://arxiv.org/abs/2503.01288)|**[link](https://github.com/chongwang1024/rdmd)**|
+|**2025-03-03**|**VideoHandles: Editing 3D Object Compositions in Videos Using Video Generative Priors**|Juil Koo et.al.|[2503.01107](http://arxiv.org/abs/2503.01107)|null|
+|**2025-03-01**|**GenVDM: Generating Vector Displacement Maps From a Single Image**|Yuezhi Yang et.al.|[2503.00605](http://arxiv.org/abs/2503.00605)|null|
 |**2025-02-28**|**Diffusion Restoration Adapter for Real-World Image Restoration**|Hanbang Liang et.al.|[2502.20679](http://arxiv.org/abs/2502.20679)|null|
 |**2025-02-27**|**Tight Inversion: Image-Conditioned Inversion for Real Image Editing**|Edo Kadosh et.al.|[2502.20376](http://arxiv.org/abs/2502.20376)|null|
 |**2025-02-27**|**Identity-preserving Distillation Sampling by Fixed-Point Iterator**|SeonHwa Kim et.al.|[2502.19930](http://arxiv.org/abs/2502.19930)|null|
@@ -10084,6 +10124,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-01**|**Towards High-fidelity 3D Talking Avatar with Personalized Dynamic Texture**|Xuanchen Li et.al.|[2503.00495](http://arxiv.org/abs/2503.00495)|null|
 |**2025-02-19**|**Bridging the Editing Gap in LLMs: FineEdit for Precise and Targeted Text Modifications**|Yiming Zeng et.al.|[2502.13358](http://arxiv.org/abs/2502.13358)|null|
 |**2025-02-16**|**Organometallic-Inorganic Hybrid MXenes with Tunable Superconductivity**|Qi Fan et.al.|[2502.11035](http://arxiv.org/abs/2502.11035)|null|
 |**2025-01-29**|**Learning Semantic Facial Descriptors for Accurate Face Animation**|Lei Zhu et.al.|[2501.17718](http://arxiv.org/abs/2501.17718)|null|
@@ -10144,6 +10185,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-04**|**ttta: Tools for Temporal Text Analysis**|Kai-Robin Lange et.al.|[2503.02625](http://arxiv.org/abs/2503.02625)|null|
+|**2025-03-02**|**FaceShot: Bring Any Character into Life**|Junyao Gao et.al.|[2503.00740](http://arxiv.org/abs/2503.00740)|null|
 |**2025-02-27**|**High-Fidelity Relightable Monocular Portrait Animation with Lighting-Controllable Video Diffusion Model**|Mingtao Guo et.al.|[2502.19894](http://arxiv.org/abs/2502.19894)|**[link](https://github.com/MingtaoGuo/relightable-portrait-animation)**|
 |**2025-02-26**|**FLAP: Fully-controllable Audio-driven Portrait Video Generation through 3D head conditioned diffusion mode**|Lingzhou Mu et.al.|[2502.19455](http://arxiv.org/abs/2502.19455)|null|
 |**2025-02-19**|**DP-Adapter: Dual-Pathway Adapter for Boosting Fidelity and Text Consistency in Customizable Human Image Generation**|Ye Wang et.al.|[2502.13999](http://arxiv.org/abs/2502.13999)|null|

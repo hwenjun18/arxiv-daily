@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.10
+## Updated on 2025.03.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -57,7 +57,7 @@ layout: default
 |**2025-03-02**|**Exploring fully-heavy tetraquarks through the CGAN framework: Mass and width**|M. Malekhosseini et.al.|[2503.00993](http://arxiv.org/abs/2503.00993)|null|
 |**2025-03-02**|**Using Synthetic Images to Augment Small Medical Image Datasets**|Minh H. Vu et.al.|[2503.00962](http://arxiv.org/abs/2503.00962)|null|
 |**2025-03-02**|**Cross Modality Medical Image Synthesis for Improving Liver Segmentation**|Muhammad Rafiq et.al.|[2503.00945](http://arxiv.org/abs/2503.00945)|null|
-|**2025-03-01**|**Synergy Between Sufficient Changes and Sparse Mixing Procedure for Disentangled Representation Learning**|Zijian Li et.al.|[2503.00639](http://arxiv.org/abs/2503.00639)|null|
+|**2025-03-01**|**Synergy Between Sufficient Changes and Sparse Mixing Procedure for Disentangled Representation Learning**|Zijian Li et.al.|[2503.00639](http://arxiv.org/abs/2503.00639)|**[link](https://github.com/jozerozero/Synergy_Disentanglement)**|
 |**2025-03-01**|**XIRVIO: Critic-guided Iterative Refinement for Visual-Inertial Odometry with Explainable Adaptive Weighting**|Chit Yuen Lam et.al.|[2503.00315](http://arxiv.org/abs/2503.00315)|null|
 |**2025-02-28**|**Seeing Eye to AI? Applying Deep-Feature-Based Similarity Metrics to Information Visualization**|Sheng Long et.al.|[2503.00228](http://arxiv.org/abs/2503.00228)|null|
 |**2025-02-28**|**Learning Vision-Based Neural Network Controllers with Semi-Probabilistic Safety Guarantees**|Xinhang Ma et.al.|[2503.00191](http://arxiv.org/abs/2503.00191)|null|
@@ -2165,7 +2165,7 @@ layout: default
 |**2025-03-06**|**Energy-Weighted Flow Matching for Offline Reinforcement Learning**|Shiyuan Zhang et.al.|[2503.04975](http://arxiv.org/abs/2503.04975)|null|
 |**2025-03-06**|**Toward Lightweight and Fast Decoders for Diffusion Models in Image and Video Generation**|Alexey Buzovkin et.al.|[2503.04871](http://arxiv.org/abs/2503.04871)|null|
 |**2025-03-06**|**Compositional World Knowledge leads to High Utility Synthetic data**|Sachit Gaudi et.al.|[2503.04687](http://arxiv.org/abs/2503.04687)|null|
-|**2025-03-06**|**The Best of Both Worlds: Integrating Language Models and Diffusion Models for Video Generation**|Aoxiong Yin et.al.|[2503.04606](http://arxiv.org/abs/2503.04606)|null|
+|**2025-03-08**|**The Best of Both Worlds: Integrating Language Models and Diffusion Models for Video Generation**|Aoxiong Yin et.al.|[2503.04606](http://arxiv.org/abs/2503.04606)|null|
 |**2025-03-06**|**How to Move Your Dragon: Text-to-Motion Synthesis for Large-Vocabulary Objects**|Wonkwang Lee et.al.|[2503.04257](http://arxiv.org/abs/2503.04257)|null|
 |**2025-03-06**|**Synthetic Data is an Elegant GIFT for Continual Vision-Language Models**|Bin Wu et.al.|[2503.04229](http://arxiv.org/abs/2503.04229)|null|
 |**2025-03-06**|**Energy-Guided Optimization for Personalized Image Editing with Pretrained Text-to-Image Diffusion Models**|Rui Jiang et.al.|[2503.04215](http://arxiv.org/abs/2503.04215)|null|
@@ -8675,7 +8675,7 @@ layout: default
 |**2025-02-26**|**Self-supervised conformal prediction for uncertainty quantification in Poisson imaging problems**|Bernardin Tamo Amougou et.al.|[2502.19194](http://arxiv.org/abs/2502.19194)|null|
 |**2025-02-26**|**Multi-level Attention-guided Graph Neural Network for Image Restoration**|Jiatao Jiang et.al.|[2502.19181](http://arxiv.org/abs/2502.19181)|null|
 |**2025-02-27**|**RetinaRegen: A Hybrid Model for Readability and Detail Restoration in Fundus Images**|Yuhan Tang et.al.|[2502.19153](http://arxiv.org/abs/2502.19153)|null|
-|**2025-02-26**|**Dynamic Degradation Decomposition Network for All-in-One Image Restoration**|Huiqiang Wang et.al.|[2502.19068](http://arxiv.org/abs/2502.19068)|null|
+|**2025-03-08**|**Dynamic Degradation Decomposition Network for All-in-One Image Restoration**|Huiqiang Wang et.al.|[2502.19068](http://arxiv.org/abs/2502.19068)|null|
 |**2025-02-26**|**Bayesian Optimization for Controlled Image Editing via LLMs**|Chengkun Cai et.al.|[2502.18116](http://arxiv.org/abs/2502.18116)|null|
 |**2025-02-25**|**KV-Edit: Training-Free Image Editing for Precise Background Preservation**|Tianrui Zhu et.al.|[2502.17363](http://arxiv.org/abs/2502.17363)|**[link](https://github.com/Xilluill/KV-Edit)**|
 |**2025-02-24**|**Splitting Regularized Wasserstein Proximal Algorithms for Nonsmooth Sampling Problems**|Fuqun Han et.al.|[2502.16773](http://arxiv.org/abs/2502.16773)|**[link](https://github.com/fq-han/brwp-splitting)**|

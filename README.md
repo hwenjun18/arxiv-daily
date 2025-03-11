@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.10
+## Updated on 2025.03.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -45,7 +45,7 @@
 |**2022-11-21**|**Towards Live 3D Reconstruction from Wearable Video: An Evaluation of V-SLAM, NeRF, and Videogrammetry Techniques**|David Ramirez et.al.|[2211.11836](http://arxiv.org/abs/2211.11836)|null|
 |**2022-11-14**|**Controllable GAN Synthesis Using Non-Rigid Structure-from-Motion**|René Haas et.al.|[2211.07195](http://arxiv.org/abs/2211.07195)|null|
 
-<p align=right>(<a href=#Updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250311>back to top</a>)</p>
 
 ## GAN
 
@@ -69,7 +69,7 @@
 |**2025-03-02**|**Exploring fully-heavy tetraquarks through the CGAN framework: Mass and width**|M. Malekhosseini et.al.|[2503.00993](http://arxiv.org/abs/2503.00993)|null|
 |**2025-03-02**|**Using Synthetic Images to Augment Small Medical Image Datasets**|Minh H. Vu et.al.|[2503.00962](http://arxiv.org/abs/2503.00962)|null|
 |**2025-03-02**|**Cross Modality Medical Image Synthesis for Improving Liver Segmentation**|Muhammad Rafiq et.al.|[2503.00945](http://arxiv.org/abs/2503.00945)|null|
-|**2025-03-01**|**Synergy Between Sufficient Changes and Sparse Mixing Procedure for Disentangled Representation Learning**|Zijian Li et.al.|[2503.00639](http://arxiv.org/abs/2503.00639)|null|
+|**2025-03-01**|**Synergy Between Sufficient Changes and Sparse Mixing Procedure for Disentangled Representation Learning**|Zijian Li et.al.|[2503.00639](http://arxiv.org/abs/2503.00639)|**[link](https://github.com/jozerozero/Synergy_Disentanglement)**|
 |**2025-03-01**|**XIRVIO: Critic-guided Iterative Refinement for Visual-Inertial Odometry with Explainable Adaptive Weighting**|Chit Yuen Lam et.al.|[2503.00315](http://arxiv.org/abs/2503.00315)|null|
 |**2025-02-28**|**Seeing Eye to AI? Applying Deep-Feature-Based Similarity Metrics to Information Visualization**|Sheng Long et.al.|[2503.00228](http://arxiv.org/abs/2503.00228)|null|
 |**2025-02-28**|**Learning Vision-Based Neural Network Controllers with Semi-Probabilistic Safety Guarantees**|Xinhang Ma et.al.|[2503.00191](http://arxiv.org/abs/2503.00191)|null|
@@ -2161,7 +2161,7 @@
 |**2023-03-14**|**3D Face Arbitrary Style Transfer**|Xiangwen Deng et.al.|[2303.07709](http://arxiv.org/abs/2303.07709)|null|
 |**2023-03-13**|**AGTGAN: Unpaired Image Translation for Photographic Ancient Character Generation**|Hongxiang Huang et.al.|[2303.07012](http://arxiv.org/abs/2303.07012)|**[link](https://github.com/hellomystery/agtgan)**|
 
-<p align=right>(<a href=#Updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250311>back to top</a>)</p>
 
 ## Diffusion Model
 
@@ -2179,7 +2179,7 @@
 |**2025-03-06**|**Energy-Weighted Flow Matching for Offline Reinforcement Learning**|Shiyuan Zhang et.al.|[2503.04975](http://arxiv.org/abs/2503.04975)|null|
 |**2025-03-06**|**Toward Lightweight and Fast Decoders for Diffusion Models in Image and Video Generation**|Alexey Buzovkin et.al.|[2503.04871](http://arxiv.org/abs/2503.04871)|null|
 |**2025-03-06**|**Compositional World Knowledge leads to High Utility Synthetic data**|Sachit Gaudi et.al.|[2503.04687](http://arxiv.org/abs/2503.04687)|null|
-|**2025-03-06**|**The Best of Both Worlds: Integrating Language Models and Diffusion Models for Video Generation**|Aoxiong Yin et.al.|[2503.04606](http://arxiv.org/abs/2503.04606)|null|
+|**2025-03-08**|**The Best of Both Worlds: Integrating Language Models and Diffusion Models for Video Generation**|Aoxiong Yin et.al.|[2503.04606](http://arxiv.org/abs/2503.04606)|null|
 |**2025-03-06**|**How to Move Your Dragon: Text-to-Motion Synthesis for Large-Vocabulary Objects**|Wonkwang Lee et.al.|[2503.04257](http://arxiv.org/abs/2503.04257)|null|
 |**2025-03-06**|**Synthetic Data is an Elegant GIFT for Continual Vision-Language Models**|Bin Wu et.al.|[2503.04229](http://arxiv.org/abs/2503.04229)|null|
 |**2025-03-06**|**Energy-Guided Optimization for Personalized Image Editing with Pretrained Text-to-Image Diffusion Models**|Rui Jiang et.al.|[2503.04215](http://arxiv.org/abs/2503.04215)|null|
@@ -8666,7 +8666,7 @@
 |**2023-03-15**|**DiffBEV: Conditional Diffusion Model for Bird's Eye View Perception**|Jiayu Zou et.al.|[2303.08333](http://arxiv.org/abs/2303.08333)|**[link](https://github.com/jiayuzou2020/diffbev)**|
 |**2023-03-16**|**VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation**|Zhengxiong Luo et.al.|[2303.08320](http://arxiv.org/abs/2303.08320)|null|
 
-<p align=right>(<a href=#Updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250311>back to top</a>)</p>
 
 ## Image Edit
 
@@ -8691,7 +8691,7 @@
 |**2025-02-26**|**Self-supervised conformal prediction for uncertainty quantification in Poisson imaging problems**|Bernardin Tamo Amougou et.al.|[2502.19194](http://arxiv.org/abs/2502.19194)|null|
 |**2025-02-26**|**Multi-level Attention-guided Graph Neural Network for Image Restoration**|Jiatao Jiang et.al.|[2502.19181](http://arxiv.org/abs/2502.19181)|null|
 |**2025-02-27**|**RetinaRegen: A Hybrid Model for Readability and Detail Restoration in Fundus Images**|Yuhan Tang et.al.|[2502.19153](http://arxiv.org/abs/2502.19153)|null|
-|**2025-02-26**|**Dynamic Degradation Decomposition Network for All-in-One Image Restoration**|Huiqiang Wang et.al.|[2502.19068](http://arxiv.org/abs/2502.19068)|null|
+|**2025-03-08**|**Dynamic Degradation Decomposition Network for All-in-One Image Restoration**|Huiqiang Wang et.al.|[2502.19068](http://arxiv.org/abs/2502.19068)|null|
 |**2025-02-26**|**Bayesian Optimization for Controlled Image Editing via LLMs**|Chengkun Cai et.al.|[2502.18116](http://arxiv.org/abs/2502.18116)|null|
 |**2025-02-25**|**KV-Edit: Training-Free Image Editing for Precise Background Preservation**|Tianrui Zhu et.al.|[2502.17363](http://arxiv.org/abs/2502.17363)|**[link](https://github.com/Xilluill/KV-Edit)**|
 |**2025-02-24**|**Splitting Regularized Wasserstein Proximal Algorithms for Nonsmooth Sampling Problems**|Fuqun Han et.al.|[2502.16773](http://arxiv.org/abs/2502.16773)|**[link](https://github.com/fq-han/brwp-splitting)**|
@@ -9861,7 +9861,7 @@
 |**2023-02-20**|**A Large Scale Homography Benchmark**|Daniel Barath et.al.|[2302.09997](http://arxiv.org/abs/2302.09997)|null|
 |**2023-02-19**|**LC-NeRF: Local Controllable Face Generation in Neural Randiance Field**|Wenyang Zhou et.al.|[2302.09486](http://arxiv.org/abs/2302.09486)|null|
 
-<p align=right>(<a href=#Updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250311>back to top</a>)</p>
 
 ## NeRF
 
@@ -10199,7 +10199,7 @@
 |**2022-12-30**|**NeRF-Gaze: A Head-Eye Redirection Parametric Model for Gaze Estimation**|Pengwei Yin et.al.|[2212.14710](http://arxiv.org/abs/2212.14710)|null|
 |**2023-03-21**|**Masked Wavelet Representation for Compact Neural Radiance Fields**|Daniel Rho et.al.|[2212.09069](http://arxiv.org/abs/2212.09069)|**[link](https://github.com/daniel03c1/masked_wavelet_nerf)**|
 
-<p align=right>(<a href=#Updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250311>back to top</a>)</p>
 
 ## Reshaping
 
@@ -10262,7 +10262,7 @@
 |**2022-05-13**|**F3A-GAN: Facial Flow for Face Animation with Generative Adversarial Networks**|Xintian Wu et.al.|[2205.06204](http://arxiv.org/abs/2205.06204)|null|
 |**2022-03-16**|**Efficient conditioned face animation using frontally-viewed embedding**|Maxime Oquab et.al.|[2203.08765](http://arxiv.org/abs/2203.08765)|null|
 
-<p align=right>(<a href=#Updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250311>back to top</a>)</p>
 
 ## Portrait 
 
@@ -10703,7 +10703,7 @@
 |**2023-03-01**|**DPE: Disentanglement of Pose and Expression for General Video Portrait Editing**|Youxin Pang et.al.|[2301.06281](http://arxiv.org/abs/2301.06281)|null|
 |**2023-01-03**|**StyleTalk: One-shot Talking Head Generation with Controllable Speaking Styles**|Yifeng Ma et.al.|[2301.01081](http://arxiv.org/abs/2301.01081)|**[link](https://github.com/fuxivirtualhuman/styletalk)**|
 
-<p align=right>(<a href=#Updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250311>back to top</a>)</p>
 
 ## Transfomer
 
@@ -10743,5 +10743,5 @@
 |**2012-01-21**|**Interior Static Stellar Model with Electric Charge as an Oscillator**|A. M. Baranov et.al.|[1201.4429](http://arxiv.org/abs/1201.4429)|null|
 |**2011-05-16**|**Exactness of the Euclidean algorithm and of the Rauzy induction on the space of interval exchange transfomations**|Tomasz Miernowski et.al.|[1104.3980](http://arxiv.org/abs/1104.3980)|null|
 
-<p align=right>(<a href=#Updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250311>back to top</a>)</p>
 

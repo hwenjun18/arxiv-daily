@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.12
+## Updated on 2025.03.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -47,7 +47,7 @@ layout: default
 |**2025-03-11**|**U-StyDiT: Ultra-high Quality Artistic Style Transfer Using Diffusion Transformers**|Zhanjie Zhang et.al.|[2503.08157](http://arxiv.org/abs/2503.08157)|null|
 |**2025-03-11**|**Exploring Bias in over 100 Text-to-Image Generative Models**|Jordan Vice et.al.|[2503.08012](http://arxiv.org/abs/2503.08012)|null|
 |**2025-03-10**|**Balanced Image Stylization with Style Matching Score**|Yuxin Jiang et.al.|[2503.07601](http://arxiv.org/abs/2503.07601)|null|
-|**2025-03-10**|**PersonaBooth: Personalized Text-to-Motion Generation**|Boeun Kim et.al.|[2503.07390](http://arxiv.org/abs/2503.07390)|null|
+|**2025-03-12**|**PersonaBooth: Personalized Text-to-Motion Generation**|Boeun Kim et.al.|[2503.07390](http://arxiv.org/abs/2503.07390)|null|
 |**2025-03-10**|**Inversion-Free Video Style Transfer with Trajectory Reset Attention Control and Content-Style Bridging**|Jiang Lin et.al.|[2503.07363](http://arxiv.org/abs/2503.07363)|null|
 |**2025-03-10**|**AttenST: A Training-Free Attention-Driven Style Transfer Framework with Pre-Trained Diffusion Models**|Bo Huang et.al.|[2503.07307](http://arxiv.org/abs/2503.07307)|null|
 |**2025-03-10**|**Generative method for aerodynamic optimization based on classifier-free guided denoising diffusion probabilistic model**|Shisong Deng et.al.|[2503.07056](http://arxiv.org/abs/2503.07056)|null|
@@ -2190,7 +2190,7 @@ layout: default
 |**2025-03-11**|**Bokeh Diffusion: Defocus Blur Control in Text-to-Image Diffusion Models**|Armando Fortes et.al.|[2503.08434](http://arxiv.org/abs/2503.08434)|null|
 |**2025-03-11**|**Using Powerful Prior Knowledge of Diffusion Model in Deep Unfolding Networks for Image Compressive Sensing**|Chen Liao et.al.|[2503.08429](http://arxiv.org/abs/2503.08429)|null|
 |**2025-03-11**|**AnyMoLe: Any Character Motion In-betweening Leveraging Video Diffusion Models**|Kwan Yun et.al.|[2503.08417](http://arxiv.org/abs/2503.08417)|**[link](https://github.com/kwanyun/AnyMoLe)**|
-|**2025-03-11**|**Layton: Latent Consistency Tokenizer for 1024-pixel Image Reconstruction and Generation by 256 Tokens**|Qingsong Xie et.al.|[2503.08377](http://arxiv.org/abs/2503.08377)|null|
+|**2025-03-12**|**Layton: Latent Consistency Tokenizer for 1024-pixel Image Reconstruction and Generation by 256 Tokens**|Qingsong Xie et.al.|[2503.08377](http://arxiv.org/abs/2503.08377)|null|
 |**2025-03-11**|**Pathology-Aware Adaptive Watermarking for Text-Driven Medical Image Synthesis**|Chanyoung Kim et.al.|[2503.08346](http://arxiv.org/abs/2503.08346)|null|
 |**2025-03-10**|**Denoising Score Distillation: From Noisy Diffusion Pretraining to One-Step High-Quality Generation**|Tianyu Chen et.al.|[2503.07578](http://arxiv.org/abs/2503.07578)|null|
 |**2025-03-10**|**Inductive Moment Matching**|Linqi Zhou et.al.|[2503.07565](http://arxiv.org/abs/2503.07565)|null|
@@ -8717,7 +8717,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-11**|**OmniPaint: Mastering Object-Oriented Editing via Disentangled Insertion-Removal Inpainting**|Yongsheng Yu et.al.|[2503.08677](http://arxiv.org/abs/2503.08677)|null|
+|**2025-03-12**|**OmniPaint: Mastering Object-Oriented Editing via Disentangled Insertion-Removal Inpainting**|Yongsheng Yu et.al.|[2503.08677](http://arxiv.org/abs/2503.08677)|null|
 |**2025-03-11**|**Bokeh Diffusion: Defocus Blur Control in Text-to-Image Diffusion Models**|Armando Fortes et.al.|[2503.08434](http://arxiv.org/abs/2503.08434)|null|
 |**2025-03-11**|**Aligning Text to Image in Diffusion Models is Easier Than You Think**|Jaa-Yeon Lee et.al.|[2503.08250](http://arxiv.org/abs/2503.08250)|null|
 |**2025-03-11**|**ObjectMover: Generative Object Movement with Video Prior**|Xin Yu et.al.|[2503.08037](http://arxiv.org/abs/2503.08037)|null|
@@ -8731,8 +8731,8 @@ layout: default
 |**2025-03-07**|**Towards Locally Explaining Prediction Behavior via Gradual Interventions and Measuring Property Gradients**|Niklas Penzel et.al.|[2503.05424](http://arxiv.org/abs/2503.05424)|null|
 |**2025-03-06**|**Energy-Guided Optimization for Personalized Image Editing with Pretrained Text-to-Image Diffusion Models**|Rui Jiang et.al.|[2503.04215](http://arxiv.org/abs/2503.04215)|null|
 |**2025-03-05**|**GuardDoor: Safeguarding Against Malicious Diffusion Editing via Protective Backdoors**|Yaopei Zeng et.al.|[2503.03944](http://arxiv.org/abs/2503.03944)|null|
-|**2025-03-03**|**Hyperspectral Image Restoration and Super-resolution with Physics-Aware Deep Learning for Biomedical Applications**|Yuchen Xiang et.al.|[2503.02908](http://arxiv.org/abs/2503.02908)|null|
-|**2025-03-04**|**ERetinex: Event Camera Meets Retinex Theory for Low-Light Image Enhancement**|Xuejian Guo et.al.|[2503.02484](http://arxiv.org/abs/2503.02484)|null|
+|**2025-03-03**|**Hyperspectral Image Restoration and Super-resolution with Physics-Aware Deep Learning for Biomedical Applications**|Yuchen Xiang et.al.|[2503.02908](http://arxiv.org/abs/2503.02908)|**[link](https://github.com/oycxyd/HyReS)**|
+|**2025-03-04**|**ERetinex: Event Camera Meets Retinex Theory for Low-Light Image Enhancement**|Xuejian Guo et.al.|[2503.02484](http://arxiv.org/abs/2503.02484)|**[link](https://github.com/lodew920/eretinex)**|
 |**2025-03-04**|**Semantic Prior Distillation with Vision Foundation Model for Enhanced Rapid Bone Scintigraphy Image Restoration**|Pengchen Liang et.al.|[2503.02321](http://arxiv.org/abs/2503.02321)|null|
 |**2025-03-04**|**h-Edit: Effective and Flexible Diffusion-Based Editing via Doob's h-Transform**|Toan Nguyen et.al.|[2503.02187](http://arxiv.org/abs/2503.02187)|null|
 |**2025-03-03**|**MRI super-resolution reconstruction using efficient diffusion probabilistic model with residual shifting**|Mojtaba Safari et.al.|[2503.01576](http://arxiv.org/abs/2503.01576)|**[link](https://github.com/mosaf/res-srdiff)**|
@@ -10327,7 +10327,7 @@ layout: default
 |**2025-03-07**|**MagicInfinite: Generating Infinite Talking Videos with Your Words and Voice**|Hongwei Yi et.al.|[2503.05978](http://arxiv.org/abs/2503.05978)|null|
 |**2025-03-07**|**Phase portraits of (2;1) reversible vector fields of low codimension**|C. Buzzi et.al.|[2503.05436](http://arxiv.org/abs/2503.05436)|null|
 |**2025-03-06**|**FREAK: Frequency-modulated High-fidelity and Real-time Audio-driven Talking Portrait Synthesis**|Ziqi Ni et.al.|[2503.04067](http://arxiv.org/abs/2503.04067)|null|
-|**2025-03-04**|**ttta: Tools for Temporal Text Analysis**|Kai-Robin Lange et.al.|[2503.02625](http://arxiv.org/abs/2503.02625)|null|
+|**2025-03-04**|**ttta: Tools for Temporal Text Analysis**|Kai-Robin Lange et.al.|[2503.02625](http://arxiv.org/abs/2503.02625)|**[link](https://github.com/k-rlange/ttta)**|
 |**2025-03-02**|**FaceShot: Bring Any Character into Life**|Junyao Gao et.al.|[2503.00740](http://arxiv.org/abs/2503.00740)|null|
 |**2025-02-27**|**High-Fidelity Relightable Monocular Portrait Animation with Lighting-Controllable Video Diffusion Model**|Mingtao Guo et.al.|[2502.19894](http://arxiv.org/abs/2502.19894)|**[link](https://github.com/MingtaoGuo/relightable-portrait-animation)**|
 |**2025-02-26**|**FLAP: Fully-controllable Audio-driven Portrait Video Generation through 3D head conditioned diffusion mode**|Lingzhou Mu et.al.|[2502.19455](http://arxiv.org/abs/2502.19455)|null|

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.13
+## Updated on 2025.03.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -57,7 +57,7 @@ layout: default
 |**2025-03-10**|**TIDE : Temporal-Aware Sparse Autoencoders for Interpretable Diffusion Transformers in Image Generation**|Victor Shea-Jay Huang et.al.|[2503.07050](http://arxiv.org/abs/2503.07050)|null|
 |**2025-03-10**|**SOYO: A Tuning-Free Approach for Video Style Morphing via Style-Adaptive Interpolation in Diffusion Models**|Haoyu Zheng et.al.|[2503.06998](http://arxiv.org/abs/2503.06998)|null|
 |**2025-03-09**|**Dr Genre: Reinforcement Learning from Decoupled LLM Feedback for Generic Text Rewriting**|Yufei Li et.al.|[2503.06781](http://arxiv.org/abs/2503.06781)|null|
-|**2025-03-09**|**X-GAN: A Generative AI-Powered Unsupervised Model for High-Precision Segmentation of Retinal Main Vessels toward Early Detection of Glaucoma**|Cheng Huang et.al.|[2503.06743](http://arxiv.org/abs/2503.06743)|null|
+|**2025-03-12**|**X-GAN: A Generative AI-Powered Unsupervised Model for High-Precision Segmentation of Retinal Main Vessels toward Early Detection of Glaucoma**|Cheng Huang et.al.|[2503.06743](http://arxiv.org/abs/2503.06743)|null|
 |**2025-03-08**|**GIN-Graph: A Generative Interpretation Network for Model-Level Explanation of Graph Neural Networks**|Xiao Yue et.al.|[2503.06352](http://arxiv.org/abs/2503.06352)|null|
 |**2025-03-08**|**Wireless Hallucination in Generative AI-enabled Communications: Concepts, Issues, and Solutions**|Xudong Wang et.al.|[2503.06149](http://arxiv.org/abs/2503.06149)|null|
 |**2025-03-07**|**PhysicsGen: Can Generative Models Learn from Images to Predict Complex Physical Relations?**|Martin Spitznagel et.al.|[2503.05333](http://arxiv.org/abs/2503.05333)|null|
@@ -8745,7 +8745,7 @@ layout: default
 |**2025-03-12**|**Prompt to Restore, Restore to Prompt: Cyclic Prompting for Universal Adverse Weather Removal**|Rongxin Liao et.al.|[2503.09013](http://arxiv.org/abs/2503.09013)|null|
 |**2025-03-11**|**QUIET-SR: Quantum Image Enhancement Transformer for Single Image Super-Resolution**|Siddhant Dutta et.al.|[2503.08759](http://arxiv.org/abs/2503.08759)|null|
 |**2025-03-12**|**OmniPaint: Mastering Object-Oriented Editing via Disentangled Insertion-Removal Inpainting**|Yongsheng Yu et.al.|[2503.08677](http://arxiv.org/abs/2503.08677)|null|
-|**2025-03-11**|**Bokeh Diffusion: Defocus Blur Control in Text-to-Image Diffusion Models**|Armando Fortes et.al.|[2503.08434](http://arxiv.org/abs/2503.08434)|null|
+|**2025-03-13**|**Bokeh Diffusion: Defocus Blur Control in Text-to-Image Diffusion Models**|Armando Fortes et.al.|[2503.08434](http://arxiv.org/abs/2503.08434)|null|
 |**2025-03-11**|**Aligning Text to Image in Diffusion Models is Easier Than You Think**|Jaa-Yeon Lee et.al.|[2503.08250](http://arxiv.org/abs/2503.08250)|null|
 |**2025-03-11**|**ObjectMover: Generative Object Movement with Video Prior**|Xin Yu et.al.|[2503.08037](http://arxiv.org/abs/2503.08037)|null|
 |**2025-03-11**|**CAD-VAE: Leveraging Correlation-Aware Latents for Comprehensive Fair Disentanglement**|Chenrui Ma et.al.|[2503.07938](http://arxiv.org/abs/2503.07938)|null|

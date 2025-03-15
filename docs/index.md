@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.14
+## Updated on 2025.03.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -48,7 +48,7 @@ layout: default
 |**2025-03-12**|**InteractEdit: Zero-Shot Editing of Human-Object Interactions in Images**|Jiun Tian Hoe et.al.|[2503.09130](http://arxiv.org/abs/2503.09130)|null|
 |**2025-03-12**|**Self-Consistent Equation-guided Neural Networks for Censored Time-to-Event Data**|Sehwan Kim et.al.|[2503.09097](http://arxiv.org/abs/2503.09097)|null|
 |**2025-03-11**|**Super-resolution of turbulent velocity and scalar fields using different scalar distributions**|Ali Shamooni et.al.|[2503.08834](http://arxiv.org/abs/2503.08834)|null|
-|**2025-03-11**|**YuE: Scaling Open Foundation Models for Long-Form Music Generation**|Ruibin Yuan et.al.|[2503.08638](http://arxiv.org/abs/2503.08638)|null|
+|**2025-03-11**|**YuE: Scaling Open Foundation Models for Long-Form Music Generation**|Ruibin Yuan et.al.|[2503.08638](http://arxiv.org/abs/2503.08638)|**[link](https://github.com/multimodal-art-projection/yue)**|
 |**2025-03-11**|**CellStyle: Improved Zero-Shot Cell Segmentation via Style Transfer**|Rüveyda Yilmaz et.al.|[2503.08603](http://arxiv.org/abs/2503.08603)|null|
 |**2025-03-11**|**DISTINGUISH Workflow: A New Paradigm of Dynamic Well Placement Using Generative Machine Learning**|Sergey Alyaev et.al.|[2503.08509](http://arxiv.org/abs/2503.08509)|null|
 |**2025-03-11**|**GAS-NeRF: Geometry-Aware Stylization of Dynamic Radiance Fields**|Nhat Phuong Anh Vu et.al.|[2503.08483](http://arxiv.org/abs/2503.08483)|null|

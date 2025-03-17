@@ -39,6 +39,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**PSF-4D: A Progressive Sampling Framework for View Consistent 4D Editing**|Hasan Iqbal et.al.|[2503.11044](http://arxiv.org/abs/2503.11044)|null|
+|**2025-03-13**|**Memory-Efficient 3D High-Resolution Medical Image Synthesis Using CRF-Guided GANs**|Mahshid Shiri et.al.|[2503.10899](http://arxiv.org/abs/2503.10899)|null|
+|**2025-03-10**|**Enhancing Retrieval for ESGLLM via ESG-CID -- A Disclosure Content Index Finetuning Dataset for Mapping GRI and ESRS**|Shafiuddin Rehan Ahmed et.al.|[2503.10674](http://arxiv.org/abs/2503.10674)|null|
 |**2025-03-13**|**ConsisLoRA: Enhancing Content and Style Consistency for LoRA-based Style Transfer**|Bolin Chen et.al.|[2503.10614](http://arxiv.org/abs/2503.10614)|null|
 |**2025-03-13**|**RoCo-Sim: Enhancing Roadside Collaborative Perception through Foreground Simulation**|Yuwen Du et.al.|[2503.10410](http://arxiv.org/abs/2503.10410)|**[link](https://github.com/duyuwen-duen/roco-sim)**|
 |**2025-03-13**|**MoEdit: On Learning Quantity Perception for Multi-object Image Editing**|Yanfeng Li et.al.|[2503.10112](http://arxiv.org/abs/2503.10112)|**[link](https://github.com/tear-kitty/moedit)**|
@@ -2181,6 +2184,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**Pathology Image Compression with Pre-trained Autoencoders**|Srikar Yellapragada et.al.|[2503.11591](http://arxiv.org/abs/2503.11591)|null|
+|**2025-03-14**|**Dynamics of a coupled nonlocal PDE-ODE system with spatial memory: well-posedness, stability, and bifurcation analysis**|Yurij Salmaniw et.al.|[2503.11550](http://arxiv.org/abs/2503.11550)|null|
+|**2025-03-14**|**TASTE-Rob: Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation**|Hongxiang Zhao et.al.|[2503.11423](http://arxiv.org/abs/2503.11423)|null|
+|**2025-03-14**|**MTV-Inpaint: Multi-Task Long Video Inpainting**|Shiyuan Yang et.al.|[2503.11412](http://arxiv.org/abs/2503.11412)|null|
+|**2025-03-14**|**Towards A Correct Usage of Cryptography in Semantic Watermarks for Diffusion Models**|Jonas Thietke et.al.|[2503.11404](http://arxiv.org/abs/2503.11404)|null|
+|**2025-03-14**|**BEVDiffLoc: End-to-End LiDAR Global Localization in BEV View based on Diffusion Model**|Ziyue Wang et.al.|[2503.11372](http://arxiv.org/abs/2503.11372)|null|
+|**2025-03-14**|**Safe-VAR: Safe Visual Autoregressive Model for Text-to-Image Generative Watermarking**|Ziyi Wang et.al.|[2503.11324](http://arxiv.org/abs/2503.11324)|null|
+|**2025-03-14**|**CyclePose -- Leveraging Cycle-Consistency for Annotation-Free Nuclei Segmentation in Fluorescence Microscopy**|Jonas Utz et.al.|[2503.11266](http://arxiv.org/abs/2503.11266)|null|
+|**2025-03-14**|**Noise Synthesis for Low-Light Image Denoising with Diffusion Models**|Liying Lu et.al.|[2503.11262](http://arxiv.org/abs/2503.11262)|null|
+|**2025-03-14**|**Towards Better Alignment: Training Diffusion Models with Reinforcement Learning Against Sparse Rewards**|Zijing Hu et.al.|[2503.11240](http://arxiv.org/abs/2503.11240)|null|
+|**2025-03-14**|**Cross-Modal Learning for Music-to-Music-Video Description Generation**|Zhuoyuan Mao et.al.|[2503.11190](http://arxiv.org/abs/2503.11190)|null|
+|**2025-03-14**|**Multi-Stage Generative Upscaler: Reconstructing Football Broadcast Images via Diffusion Models**|Luca Martini et.al.|[2503.11181](http://arxiv.org/abs/2503.11181)|null|
+|**2025-03-14**|**Neurons: Emulating the Human Visual Cortex Improves Fidelity and Interpretability in fMRI-to-Video Reconstruction**|Haonan Wang et.al.|[2503.11167](http://arxiv.org/abs/2503.11167)|null|
+|**2025-03-14**|**DriveGEN: Generalized and Robust 3D Detection in Driving via Controllable Text-to-Image Diffusion Generation**|Hongbin Lin et.al.|[2503.11122](http://arxiv.org/abs/2503.11122)|null|
+|**2025-03-14**|**Understanding Flatness in Generative Models: Its Role and Benefits**|Taehwan Lee et.al.|[2503.11078](http://arxiv.org/abs/2503.11078)|null|
+|**2025-03-14**|**Perceive, Understand and Restore: Real-World Image Super-Resolution with Autoregressive Multimodal Generative Models**|Hongyang Wei et.al.|[2503.11073](http://arxiv.org/abs/2503.11073)|null|
+|**2025-03-14**|**Harnessing Frequency Spectrum Insights for Image Copyright Protection Against Diffusion Models**|Zhenguang Liu et.al.|[2503.11071](http://arxiv.org/abs/2503.11071)|null|
+|**2025-03-14**|**Flow to the Mode: Mode-Seeking Diffusion Autoencoders for State-of-the-Art Image Tokenization**|Kyle Sargent et.al.|[2503.11056](http://arxiv.org/abs/2503.11056)|null|
+|**2025-03-14**|**LUSD: Localized Update Score Distillation for Text-Guided Image Editing**|Worameth Chinchuthakun et.al.|[2503.11054](http://arxiv.org/abs/2503.11054)|null|
+|**2025-03-14**|**InverseBench: Benchmarking Plug-and-Play Diffusion Priors for Inverse Problems in Physical Sciences**|Hongkai Zheng et.al.|[2503.11043](http://arxiv.org/abs/2503.11043)|null|
 |**2025-03-13**|**GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing**|Rongyao Fang et.al.|[2503.10639](http://arxiv.org/abs/2503.10639)|**[link](https://github.com/rongyaofang/got)**|
 |**2025-03-13**|**Studying Classifier(-Free) Guidance From a Classifier-Centric Perspective**|Xiaoming Zhao et.al.|[2503.10638](http://arxiv.org/abs/2503.10638)|null|
 |**2025-03-14**|**Distilling Diversity and Control in Diffusion Models**|Rohit Gandikota et.al.|[2503.10637](http://arxiv.org/abs/2503.10637)|null|
@@ -8765,6 +8788,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**LUSD: Localized Update Score Distillation for Text-Guided Image Editing**|Worameth Chinchuthakun et.al.|[2503.11054](http://arxiv.org/abs/2503.11054)|null|
+|**2025-03-14**|**InverseBench: Benchmarking Plug-and-Play Diffusion Priors for Inverse Problems in Physical Sciences**|Hongkai Zheng et.al.|[2503.11043](http://arxiv.org/abs/2503.11043)|null|
 |**2025-03-13**|**CoSTA $\ast$ : Cost-Sensitive Toolpath Agent for Multi-turn Image Editing**|Advait Gupta et.al.|[2503.10613](http://arxiv.org/abs/2503.10613)|**[link](https://github.com/tianyi-lab/CoSTAR)**|
 |**2025-03-13**|**EEdit : Rethinking the Spatial and Temporal Redundancy for Efficient Image Editing**|Zexuan Yan et.al.|[2503.10270](http://arxiv.org/abs/2503.10270)|**[link](https://github.com/yuriyanzexuan/eedit)**|
 |**2025-03-13**|**Hybrid Agents for Image Restoration**|Bingchen Li et.al.|[2503.10120](http://arxiv.org/abs/2503.10120)|null|
@@ -10382,6 +10407,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**RASA: Replace Anyone, Say Anything -- A Training-Free Framework for Audio-Driven and Universal Portrait Video Editing**|Tianrui Pan et.al.|[2503.11571](http://arxiv.org/abs/2503.11571)|null|
+|**2025-03-14**|**Deepfake Detection of Face Images based on a Convolutional Neural Network**|Lukas Kroiß et.al.|[2503.11389](http://arxiv.org/abs/2503.11389)|null|
 |**2025-03-13**|**Enhancing Facial Privacy Protection via Weakening Diffusion Purification**|Ali Salar et.al.|[2503.10350](http://arxiv.org/abs/2503.10350)|**[link](https://github.com/parham1998/facial-privacy-protection)**|
 |**2025-03-13**|**Semantic Latent Motion for Portrait Video Generation**|Qiyuan Zhang et.al.|[2503.10096](http://arxiv.org/abs/2503.10096)|null|
 |**2025-03-12**|**Revealing Unintentional Information Leakage in Low-Dimensional Facial Portrait Representations**|Kathleen Anderson et.al.|[2503.09306](http://arxiv.org/abs/2503.09306)|**[link](https://github.com/ka-anderson/pge-reconstruction)**|

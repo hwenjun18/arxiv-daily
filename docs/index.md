@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.18
+## Updated on 2025.03.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -10460,7 +10460,7 @@ layout: default
 |**2025-03-12**|**Revealing Unintentional Information Leakage in Low-Dimensional Facial Portrait Representations**|Kathleen Anderson et.al.|[2503.09306](http://arxiv.org/abs/2503.09306)|**[link](https://github.com/ka-anderson/pge-reconstruction)**|
 |**2025-03-11**|**Cubic Polynomial Maps with Periodic Critical Orbit, Part III: Tessellations and Orbit Portraits**|Araceli Bonifant et.al.|[2503.08868](http://arxiv.org/abs/2503.08868)|null|
 |**2025-03-16**|**Versatile Multimodal Controls for Whole-Body Talking Human Animation**|Zheng Qin et.al.|[2503.08714](http://arxiv.org/abs/2503.08714)|null|
-|**2025-03-11**|**High-Quality 3D Head Reconstruction from Any Single Portrait Image**|Jianfu Zhang et.al.|[2503.08516](http://arxiv.org/abs/2503.08516)|null|
+|**2025-03-18**|**High-Quality 3D Head Reconstruction from Any Single Portrait Image**|Jianfu Zhang et.al.|[2503.08516](http://arxiv.org/abs/2503.08516)|null|
 |**2025-03-11**|**Adv-CPG: A Customized Portrait Generation Framework with Facial Adversarial Attacks**|Junying Wang et.al.|[2503.08269](http://arxiv.org/abs/2503.08269)|null|
 |**2025-02-25**|**Calculus for Functions with Fuzzy Inputs and Outputs: Applications to Fuzzy Differential Equations**|Laécio Carvalho de Barros et.al.|[2503.07621](http://arxiv.org/abs/2503.07621)|null|
 |**2025-03-10**|**Global Portraits of Inflation in Nonsingular Variables**|Laur Järv et.al.|[2503.07544](http://arxiv.org/abs/2503.07544)|null|

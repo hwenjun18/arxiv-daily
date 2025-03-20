@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.19
+## Updated on 2025.03.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -51,7 +51,7 @@ layout: default
 |**2025-03-15**|**Lithium-ion Battery Capacity Prediction via Conditional Recurrent Generative Adversarial Network-based Time-Series Regeneration**|Myisha A. Chowdhury et.al.|[2503.12258](http://arxiv.org/abs/2503.12258)|null|
 |**2025-03-15**|**Snapmoji: Instant Generation of Animatable Dual-Stylized Avatars**|Eric M. Chen et.al.|[2503.11978](http://arxiv.org/abs/2503.11978)|null|
 |**2025-03-14**|**UStyle: Waterbody Style Transfer of Underwater Scenes by Depth-Guided Feature Synthesis**|Md Abu Bakr Siddique et.al.|[2503.11893](http://arxiv.org/abs/2503.11893)|null|
-|**2025-03-14**|**PSF-4D: A Progressive Sampling Framework for View Consistent 4D Editing**|Hasan Iqbal et.al.|[2503.11044](http://arxiv.org/abs/2503.11044)|null|
+|**2025-03-19**|**PSF-4D: A Progressive Sampling Framework for View Consistent 4D Editing**|Hasan Iqbal et.al.|[2503.11044](http://arxiv.org/abs/2503.11044)|null|
 |**2025-03-13**|**Memory-Efficient 3D High-Resolution Medical Image Synthesis Using CRF-Guided GANs**|Mahshid Shiri et.al.|[2503.10899](http://arxiv.org/abs/2503.10899)|null|
 |**2025-03-10**|**Enhancing Retrieval for ESGLLM via ESG-CID -- A Disclosure Content Index Finetuning Dataset for Mapping GRI and ESRS**|Shafiuddin Rehan Ahmed et.al.|[2503.10674](http://arxiv.org/abs/2503.10674)|null|
 |**2025-03-13**|**ConsisLoRA: Enhancing Content and Style Consistency for LoRA-based Style Transfer**|Bolin Chen et.al.|[2503.10614](http://arxiv.org/abs/2503.10614)|null|
@@ -2208,7 +2208,7 @@ layout: default
 |**2025-03-18**|**VEGGIE: Instructional Editing and Reasoning Video Concepts with Grounded Generation**|Shoubin Yu et.al.|[2503.14350](http://arxiv.org/abs/2503.14350)|null|
 |**2025-03-18**|**LeanVAE: An Ultra-Efficient Reconstruction VAE for Video Diffusion Models**|Yu Cheng et.al.|[2503.14325](http://arxiv.org/abs/2503.14325)|null|
 |**2025-03-18**|**Free-Lunch Color-Texture Disentanglement for Stylized Image Generation**|Jiang Qin et.al.|[2503.14275](http://arxiv.org/abs/2503.14275)|null|
-|**2025-03-18**|**CTSR: Controllable Fidelity-Realness Trade-off Distillation for Real-World Image Super Resolution**|Runyi Li et.al.|[2503.14272](http://arxiv.org/abs/2503.14272)|null|
+|**2025-03-19**|**CTSR: Controllable Fidelity-Realness Trade-off Distillation for Real-World Image Super Resolution**|Runyi Li et.al.|[2503.14272](http://arxiv.org/abs/2503.14272)|null|
 |**2025-03-18**|**CRCE: Coreference-Retention Concept Erasure in Text-to-Image Diffusion Models**|Yuyang Xue et.al.|[2503.14232](http://arxiv.org/abs/2503.14232)|null|
 |**2025-03-18**|**Stochastic Trajectory Prediction under Unstructured Constraints**|Hao Ma et.al.|[2503.14203](http://arxiv.org/abs/2503.14203)|null|
 |**2025-03-18**|**DefectFill: Realistic Defect Generation with Inpainting Diffusion Model for Visual Inspection**|Jaewoo Song et.al.|[2503.13985](http://arxiv.org/abs/2503.13985)|null|

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.23
+## Updated on 2025.03.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -2210,7 +2210,7 @@ layout: default
 |**2025-03-20**|**VerbDiff: Text-Only Diffusion Models with Enhanced Interaction Awareness**|SeungJu Cha et.al.|[2503.16406](http://arxiv.org/abs/2503.16406)|null|
 |**2025-03-20**|**ScalingNoise: Scaling Inference-Time Search for Generating Infinite Videos**|Haolin Yang et.al.|[2503.16400](http://arxiv.org/abs/2503.16400)|null|
 |**2025-03-20**|**Scale-wise Distillation of Diffusion Models**|Nikita Starodubcev et.al.|[2503.16397](http://arxiv.org/abs/2503.16397)|null|
-|**2025-03-20**|**SV4D 2.0: Enhancing Spatio-Temporal Consistency in Multi-View Video Diffusion for High-Quality 4D Generation**|Chun-Han Yao et.al.|[2503.16396](http://arxiv.org/abs/2503.16396)|null|
+|**2025-03-21**|**SV4D 2.0: Enhancing Spatio-Temporal Consistency in Multi-View Video Diffusion for High-Quality 4D Generation**|Chun-Han Yao et.al.|[2503.16396](http://arxiv.org/abs/2503.16396)|null|
 |**2025-03-20**|**Do Visual Imaginations Improve Vision-and-Language Navigation Agents?**|Akhil Perincherry et.al.|[2503.16394](http://arxiv.org/abs/2503.16394)|null|
 |**2025-03-20**|**LaPIG: Cross-Modal Generation of Paired Thermal and Visible Facial Images**|Leyang Wang et.al.|[2503.16376](http://arxiv.org/abs/2503.16376)|null|
 |**2025-03-20**|**Heat transfer and mixing in initiated Chemical Vapor Deposition analyzed by in-situ gas composition sensing**|Simon Shindler et.al.|[2503.16373](http://arxiv.org/abs/2503.16373)|null|
@@ -2218,7 +2218,7 @@ layout: default
 |**2025-03-20**|**Unleashing Vecset Diffusion Model for Fast Shape Generation**|Zeqiang Lai et.al.|[2503.16302](http://arxiv.org/abs/2503.16302)|null|
 |**2025-03-20**|**Diffusion-augmented Graph Contrastive Learning for Collaborative Filter**|Fan Huang et.al.|[2503.16290](http://arxiv.org/abs/2503.16290)|null|
 |**2025-03-20**|**SceneMI: Motion In-betweening for Modeling Human-Scene Interactions**|Inwoo Hwang et.al.|[2503.16289](http://arxiv.org/abs/2503.16289)|null|
-|**2025-03-20**|**Uni-3DAR: Unified 3D Generation and Understanding via Autoregression on Compressed Spatial Tokens**|Shuqi Lu et.al.|[2503.16278](http://arxiv.org/abs/2503.16278)|null|
+|**2025-03-21**|**Uni-3DAR: Unified 3D Generation and Understanding via Autoregression on Compressed Spatial Tokens**|Shuqi Lu et.al.|[2503.16278](http://arxiv.org/abs/2503.16278)|null|
 |**2025-03-20**|**Temporal Score Analysis for Understanding and Correcting Diffusion Artifacts**|Yu Cao et.al.|[2503.16218](http://arxiv.org/abs/2503.16218)|null|
 |**2025-03-20**|**Improving Discriminator Guidance in Diffusion Models**|Alexandre Verine et.al.|[2503.16117](http://arxiv.org/abs/2503.16117)|null|
 |**2025-03-20**|**Universal class of exactly solvable diffusions from space-time transformations**|Costantino Di Bello et.al.|[2503.16090](http://arxiv.org/abs/2503.16090)|null|
@@ -8894,7 +8894,7 @@ layout: default
 |**2025-03-20**|**FreeFlux: Understanding and Exploiting Layer-Specific Roles in RoPE-Based MMDiT for Versatile Image Editing**|Tianyi Wei et.al.|[2503.16153](http://arxiv.org/abs/2503.16153)|null|
 |**2025-03-20**|**Single Image Iterative Subject-driven Generation and Editing**|Yair Shpitzer et.al.|[2503.16025](http://arxiv.org/abs/2503.16025)|**[link](https://github.com/yairshp/SISO)**|
 |**2025-03-20**|**DIPLI: Deep Image Prior Lucky Imaging for Blind Astronomical Image Restoration**|Suraj Singh et.al.|[2503.15984](http://arxiv.org/abs/2503.15984)|null|
-|**2025-03-20**|**UniCoRN: Latent Diffusion-based Unified Controllable Image Restoration Network across Multiple Degradations**|Debabrata Mandal et.al.|[2503.15868](http://arxiv.org/abs/2503.15868)|null|
+|**2025-03-21**|**UniCoRN: Latent Diffusion-based Unified Controllable Image Restoration Network across Multiple Degradations**|Debabrata Mandal et.al.|[2503.15868](http://arxiv.org/abs/2503.15868)|null|
 |**2025-03-19**|**Multi-focal Conditioned Latent Diffusion for Person Image Synthesis**|Jiaqi Liu et.al.|[2503.15686](http://arxiv.org/abs/2503.15686)|null|
 |**2025-03-19**|**Image Restoration Models with Optimal Transport and Total Variation Regularization**|Weijia Huang et.al.|[2503.14947](http://arxiv.org/abs/2503.14947)|null|
 |**2025-03-18**|**ICE-Bench: A Unified and Comprehensive Benchmark for Image Creating and Editing**|Yulin Pan et.al.|[2503.14482](http://arxiv.org/abs/2503.14482)|null|
@@ -10134,7 +10134,7 @@ layout: default
 |**2025-03-15**|**REdiSplats: Ray Tracing for Editable Gaussian Splatting**|Krzysztof Byrski et.al.|[2503.12284](http://arxiv.org/abs/2503.12284)|null|
 |**2025-03-14**|**StyleMorpheus: A Style-Based 3D-Aware Morphable Face Model**|Peizhi Yan et.al.|[2503.11792](http://arxiv.org/abs/2503.11792)|null|
 |**2025-03-13**|**GroomLight: Hybrid Inverse Rendering for Relightable Human Hair Appearance Modeling**|Yang Zheng et.al.|[2503.10597](http://arxiv.org/abs/2503.10597)|null|
-|**2025-03-15**|**3D Student Splatting and Scooping**|Jialin Zhu et.al.|[2503.10148](http://arxiv.org/abs/2503.10148)|**[link](https://github.com/realcrane/student-splating-scooping)**|
+|**2025-03-21**|**3D Student Splatting and Scooping**|Jialin Zhu et.al.|[2503.10148](http://arxiv.org/abs/2503.10148)|**[link](https://github.com/realcrane/student-splating-scooping)**|
 |**2025-03-11**|**Acoustic Neural 3D Reconstruction Under Pose Drift**|Tianxiang Lin et.al.|[2503.08930](http://arxiv.org/abs/2503.08930)|null|
 |**2025-03-17**|**Uni-Gaussians: Unifying Camera and Lidar Simulation with Gaussians for Dynamic Driving Scenarios**|Zikang Yuan et.al.|[2503.08317](http://arxiv.org/abs/2503.08317)|null|
 |**2025-03-09**|**StructGS: Adaptive Spherical Harmonics and Rendering Enhancements for Superior 3D Gaussian Splatting**|Zexu Huang et.al.|[2503.06462](http://arxiv.org/abs/2503.06462)|null|

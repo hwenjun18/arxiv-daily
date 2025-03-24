@@ -51,6 +51,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-21**|**Vision Transformer Based Semantic Communications for Next Generation Wireless Networks**|Muhammad Ahmed Mohsin et.al.|[2503.17275](http://arxiv.org/abs/2503.17275)|null|
+|**2025-03-21**|**Generative adversarial framework to calibrate excursion set models for the 3D morphology of all-solid-state battery cathodes**|Orkun Furat et.al.|[2503.17171](http://arxiv.org/abs/2503.17171)|null|
+|**2025-03-21**|**HiFi-Stream: Streaming Speech Enhancement with Generative Adversarial Networks**|Ekaterina Dmitrieva et.al.|[2503.17141](http://arxiv.org/abs/2503.17141)|null|
+|**2025-03-21**|**DIDiffGes: Decoupled Semi-Implicit Diffusion Models for Real-time Gesture Generation from Speech**|Yongkang Cheng et.al.|[2503.17059](http://arxiv.org/abs/2503.17059)|null|
+|**2025-03-19**|**Causal Discovery and Counterfactual Reasoning to Optimize Persuasive Dialogue Policies**|Donghuo Zeng et.al.|[2503.16544](http://arxiv.org/abs/2503.16544)|null|
 |**2025-03-20**|**Multi-Prompt Style Interpolation for Fine-Grained Artistic Control**|Lei Chen et.al.|[2503.16133](http://arxiv.org/abs/2503.16133)|null|
 |**2025-03-20**|**Controllable Segmentation-Based Text-Guided Style Editing**|Jingwen Li et.al.|[2503.16129](http://arxiv.org/abs/2503.16129)|null|
 |**2025-03-20**|**SenseExpo: Efficient Autonomous Exploration with Prediction Information from Lightweight Neural Networks**|Haojia Gao et.al.|[2503.16000](http://arxiv.org/abs/2503.16000)|null|
@@ -60,7 +65,7 @@
 |**2025-03-19**|**Volumetric Reconstruction From Partial Views for Task-Oriented Grasping**|Fujian Yan et.al.|[2503.15167](http://arxiv.org/abs/2503.15167)|null|
 |**2025-03-19**|**Texture-Aware StarGAN for CT data harmonisation**|Francesco Di Feola et.al.|[2503.15058](http://arxiv.org/abs/2503.15058)|null|
 |**2025-03-19**|**ClimateGS: Real-Time Climate Simulation with 3D Gaussian Style Transfer**|Yuezhen Xie et.al.|[2503.14845](http://arxiv.org/abs/2503.14845)|null|
-|**2025-03-18**|**Anomaly-Flow: A Multi-domain Federated Generative Adversarial Network for Distributed Denial-of-Service Detection**|Leonardo Henrique de Melo et.al.|[2503.14618](http://arxiv.org/abs/2503.14618)|null|
+|**2025-03-18**|**Anomaly-Flow: A Multi-domain Federated Generative Adversarial Network for Distributed Denial-of-Service Detection**|Leonardo Henrique de Melo et.al.|[2503.14618](http://arxiv.org/abs/2503.14618)|**[link](https://github.com/c2dc/anomaly-flow)**|
 |**2025-03-18**|**Scale-Aware Contrastive Reverse Distillation for Unsupervised Medical Anomaly Detection**|Chunlei Li et.al.|[2503.13828](http://arxiv.org/abs/2503.13828)|**[link](https://github.com/medaitech/scrd4ad)**|
 |**2025-03-17**|**RainScaleGAN: a Conditional Generative Adversarial Network for Rainfall Downscaling**|Marcello Iotti et.al.|[2503.13316](http://arxiv.org/abs/2503.13316)|**[link](https://github.com/MclTTI/RainScaleGAN)**|
 |**2025-03-17**|**FNSE-SBGAN: Far-field Speech Enhancement with Schrodinger Bridge and Generative Adversarial Networks**|Tong Lei et.al.|[2503.12936](http://arxiv.org/abs/2503.12936)|**[link](https://github.com/Taltt/FNSE-SBGAN)**|
@@ -2220,6 +2225,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-21**|**Preference-Guided Diffusion for Multi-Objective Offline Optimization**|Yashas Annadani et.al.|[2503.17299](http://arxiv.org/abs/2503.17299)|null|
+|**2025-03-21**|**Deep End-to-End Posterior ENergy (DEEPEN) for image recovery**|Jyothi Rikhab Chand et.al.|[2503.17244](http://arxiv.org/abs/2503.17244)|null|
+|**2025-03-21**|**Leveraging Text-to-Image Generation for Handling Spurious Correlation**|Aryan Yazdan Parast et.al.|[2503.17226](http://arxiv.org/abs/2503.17226)|null|
+|**2025-03-21**|**UniCon: Unidirectional Information Flow for Effective Control of Large-Scale Diffusion Models**|Fanghua Yu et.al.|[2503.17221](http://arxiv.org/abs/2503.17221)|null|
+|**2025-03-21**|**FreeUV: Ground-Truth-Free Realistic Facial UV Texture Recovery via Cross-Assembly Inference Strategy**|Xingchao Yang et.al.|[2503.17197](http://arxiv.org/abs/2503.17197)|null|
+|**2025-03-21**|**D2C: Unlocking the Potential of Continuous Autoregressive Image Generation with Discrete Tokens**|Panpan Wang et.al.|[2503.17155](http://arxiv.org/abs/2503.17155)|null|
+|**2025-03-21**|**R2LDM: An Efficient 4D Radar Super-Resolution Framework Leveraging Diffusion Model**|Boyuan Zheng et.al.|[2503.17097](http://arxiv.org/abs/2503.17097)|null|
+|**2025-03-21**|**DIDiffGes: Decoupled Semi-Implicit Diffusion Models for Real-time Gesture Generation from Speech**|Yongkang Cheng et.al.|[2503.17059](http://arxiv.org/abs/2503.17059)|null|
+|**2025-03-21**|**Enabling Versatile Controls for Video Diffusion Models**|Xu Zhang et.al.|[2503.16983](http://arxiv.org/abs/2503.16983)|null|
+|**2025-03-21**|**Real-Time Diffusion Policies for Games: Enhancing Consistency Policies with Q-Ensembles**|Ruoqi Zhang et.al.|[2503.16978](http://arxiv.org/abs/2503.16978)|null|
+|**2025-03-21**|**Re-HOLD: Video Hand Object Interaction Reenactment via adaptive Layout-instructed Diffusion Model**|Yingying Fan et.al.|[2503.16942](http://arxiv.org/abs/2503.16942)|null|
+|**2025-03-21**|**When Preferences Diverge: Aligning Diffusion Models with Minority-Aware Adaptive DPO**|Lingfan Zhang et.al.|[2503.16921](http://arxiv.org/abs/2503.16921)|null|
+|**2025-03-21**|**Malliavin-Bismut Score-based Diffusion Models**|Ehsan Mirafzali et.al.|[2503.16917](http://arxiv.org/abs/2503.16917)|null|
+|**2025-03-21**|**Safe and Reliable Diffusion Models via Subspace Projection**|Huiqiang Chen et.al.|[2503.16835](http://arxiv.org/abs/2503.16835)|null|
+|**2025-03-21**|**Auto-Regressive Diffusion for Generating 3D Human-Object Interactions**|Zichen Geng et.al.|[2503.16801](http://arxiv.org/abs/2503.16801)|null|
+|**2025-03-20**|**WaveFM: A High-Fidelity and Efficient Vocoder Based on Flow Matching**|Tianze Luo et.al.|[2503.16689](http://arxiv.org/abs/2503.16689)|null|
+|**2025-03-20**|**Fed-NDIF: A Noise-Embedded Federated Diffusion Model For Low-Count Whole-Body PET Denoising**|Yinchi Zhou et.al.|[2503.16635](http://arxiv.org/abs/2503.16635)|null|
+|**2025-03-20**|**TriTex: Learning Texture from a Single Mesh via Triplane Semantic Features**|Dana Cohen-Bar et.al.|[2503.16630](http://arxiv.org/abs/2503.16630)|null|
+|**2025-03-20**|**A Recipe for Generating 3D Worlds From a Single Image**|Katja Schwarz et.al.|[2503.16611](http://arxiv.org/abs/2503.16611)|null|
 |**2025-03-20**|**DreamTexture: Shape from Virtual Texture with Analysis by Augmentation**|Ananta R. Bhattarai et.al.|[2503.16412](http://arxiv.org/abs/2503.16412)|null|
 |**2025-03-20**|**VerbDiff: Text-Only Diffusion Models with Enhanced Interaction Awareness**|SeungJu Cha et.al.|[2503.16406](http://arxiv.org/abs/2503.16406)|null|
 |**2025-03-20**|**ScalingNoise: Scaling Inference-Time Search for Generating Infinite Videos**|Haolin Yang et.al.|[2503.16400](http://arxiv.org/abs/2503.16400)|null|
@@ -8906,12 +8930,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-21**|**FFaceNeRF: Few-shot Face Editing in Neural Radiance Fields**|Kwan Yun et.al.|[2503.17095](http://arxiv.org/abs/2503.17095)|**[link](https://github.com/kwanyun/FFaceNeRF)**|
+|**2025-03-21**|**Vision-Language Gradient Descent-driven All-in-One Deep Unfolding Networks**|Haijin Zeng et.al.|[2503.16930](http://arxiv.org/abs/2503.16930)|null|
+|**2025-03-21**|**DCEdit: Dual-Level Controlled Image Editing via Precisely Localized Semantics**|Yihan Hu et.al.|[2503.16795](http://arxiv.org/abs/2503.16795)|null|
 |**2025-03-20**|**Efficient Bayesian Computation Using Plug-and-Play Priors for Poisson Inverse Problems**|Teresa Klatzer et.al.|[2503.16222](http://arxiv.org/abs/2503.16222)|null|
 |**2025-03-20**|**FreeFlux: Understanding and Exploiting Layer-Specific Roles in RoPE-Based MMDiT for Versatile Image Editing**|Tianyi Wei et.al.|[2503.16153](http://arxiv.org/abs/2503.16153)|null|
 |**2025-03-20**|**Single Image Iterative Subject-driven Generation and Editing**|Yair Shpitzer et.al.|[2503.16025](http://arxiv.org/abs/2503.16025)|**[link](https://github.com/yairshp/SISO)**|
 |**2025-03-20**|**DIPLI: Deep Image Prior Lucky Imaging for Blind Astronomical Image Restoration**|Suraj Singh et.al.|[2503.15984](http://arxiv.org/abs/2503.15984)|null|
 |**2025-03-21**|**UniCoRN: Latent Diffusion-based Unified Controllable Image Restoration Network across Multiple Degradations**|Debabrata Mandal et.al.|[2503.15868](http://arxiv.org/abs/2503.15868)|null|
-|**2025-03-19**|**Multi-focal Conditioned Latent Diffusion for Person Image Synthesis**|Jiaqi Liu et.al.|[2503.15686](http://arxiv.org/abs/2503.15686)|null|
+|**2025-03-19**|**Multi-focal Conditioned Latent Diffusion for Person Image Synthesis**|Jiaqi Liu et.al.|[2503.15686](http://arxiv.org/abs/2503.15686)|**[link](https://github.com/jqliu09/mcld)**|
 |**2025-03-19**|**Image Restoration Models with Optimal Transport and Total Variation Regularization**|Weijia Huang et.al.|[2503.14947](http://arxiv.org/abs/2503.14947)|null|
 |**2025-03-18**|**ICE-Bench: A Unified and Comprehensive Benchmark for Image Creating and Editing**|Yulin Pan et.al.|[2503.14482](http://arxiv.org/abs/2503.14482)|null|
 |**2025-03-18**|**SIR-DIFF: Sparse Image Sets Restoration with Multi-View Diffusion Model**|Yucheng Mao et.al.|[2503.14463](http://arxiv.org/abs/2503.14463)|null|
@@ -10558,7 +10585,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-19**|**DiffPortrait360: Consistent Portrait Diffusion for 360 View Synthesis**|Yuming Gu et.al.|[2503.15667](http://arxiv.org/abs/2503.15667)|null|
+|**2025-03-21**|**Higher-order dissimilarity measures for hypergraph comparison**|Cosimo Agostinelli et.al.|[2503.16959](http://arxiv.org/abs/2503.16959)|null|
+|**2025-03-21**|**HyperLoRA: Parameter-Efficient Adaptive Generation for Portrait Synthesis**|Mengtian Li et.al.|[2503.16944](http://arxiv.org/abs/2503.16944)|null|
+|**2025-03-19**|**DiffPortrait360: Consistent Portrait Diffusion for 360 View Synthesis**|Yuming Gu et.al.|[2503.15667](http://arxiv.org/abs/2503.15667)|**[link](https://github.com/freedomgu/diffportrait360)**|
 |**2025-03-20**|**VideoGen-of-Thought: Step-by-step generating multi-shot video with minimal manual intervention**|Mingzhe Zheng et.al.|[2503.15138](http://arxiv.org/abs/2503.15138)|null|
 |**2025-03-18**|**Lux Post Facto: Learning Portrait Performance Relighting with Conditional Video Diffusion and a Hybrid Dataset**|Yiqun Mei et.al.|[2503.14485](http://arxiv.org/abs/2503.14485)|null|
 |**2025-03-18**|**Multi-Harmonic Gridded 3D Deconvolution (MH3D) for Robust and Accurate Image Reconstruction in MPI for Single Axis Drive Field Scanners**|Toby Sanders et.al.|[2503.13802](http://arxiv.org/abs/2503.13802)|null|

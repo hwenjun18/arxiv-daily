@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.26
+## Updated on 2025.03.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -39,9 +39,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-25**|**AvatarArtist: Open-Domain 4D Avatarization**|Hongyu Liu et.al.|[2503.19906](http://arxiv.org/abs/2503.19906)|null|
-|**2025-03-25**|**In the Blink of an Eye: Instant Game Map Editing using a Generative-AI Smart Brush**|Vitaly Gnatyuk et.al.|[2503.19793](http://arxiv.org/abs/2503.19793)|null|
-|**2025-03-25**|**Interpretable Generative Models through Post-hoc Concept Bottlenecks**|Akshay Kulkarni et.al.|[2503.19377](http://arxiv.org/abs/2503.19377)|null|
+|**2025-03-26**|**AvatarArtist: Open-Domain 4D Avatarization**|Hongyu Liu et.al.|[2503.19906](http://arxiv.org/abs/2503.19906)|null|
+|**2025-03-26**|**In the Blink of an Eye: Instant Game Map Editing using a Generative-AI Smart Brush**|Vitaly Gnatyuk et.al.|[2503.19793](http://arxiv.org/abs/2503.19793)|null|
+|**2025-03-25**|**Interpretable Generative Models through Post-hoc Concept Bottlenecks**|Akshay Kulkarni et.al.|[2503.19377](http://arxiv.org/abs/2503.19377)|**[link](https://github.com/Trustworthy-ML-Lab/posthoc-generative-cbm)**|
 |**2025-03-25**|**Efficient Adversarial Detection Frameworks for Vehicle-to-Microgrid Services in Edge Computing**|Ahmed Omara et.al.|[2503.19318](http://arxiv.org/abs/2503.19318)|null|
 |**2025-03-25**|**Exploring Semantic Feature Discrimination for Perceptual Image Super-Resolution and Opinion-Unaware No-Reference Image Quality Assessment**|Guanglu Dong et.al.|[2503.19295](http://arxiv.org/abs/2503.19295)|null|
 |**2025-03-24**|**HingeRLC-GAN: Combating Mode Collapse with Hinge Loss and RLC Regularization**|Osman Goni et.al.|[2503.19074](http://arxiv.org/abs/2503.19074)|null|
@@ -2228,12 +2228,12 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-25**|**Learning 3D Object Spatial Relationships from Pre-trained 2D Diffusion Models**|Sangwon Beak et.al.|[2503.19914](http://arxiv.org/abs/2503.19914)|null|
 |**2025-03-25**|**PartRM: Modeling Part-Level Dynamics with Large Cross-State Reconstruction Model**|Mingju Gao et.al.|[2503.19913](http://arxiv.org/abs/2503.19913)|null|
-|**2025-03-25**|**AvatarArtist: Open-Domain 4D Avatarization**|Hongyu Liu et.al.|[2503.19906](http://arxiv.org/abs/2503.19906)|null|
+|**2025-03-26**|**AvatarArtist: Open-Domain 4D Avatarization**|Hongyu Liu et.al.|[2503.19906](http://arxiv.org/abs/2503.19906)|null|
 |**2025-03-25**|**ICE: Intrinsic Concept Extraction from a Single Image via Diffusion Models**|Fernando Julio Cendra et.al.|[2503.19902](http://arxiv.org/abs/2503.19902)|null|
 |**2025-03-25**|**Scaling Down Text Encoders of Text-to-Image Diffusion Models**|Lifu Wang et.al.|[2503.19897](http://arxiv.org/abs/2503.19897)|null|
 |**2025-03-25**|**FireEdit: Fine-grained Instruction-based Image Editing via Region-aware Vision Language Model**|Jun Zhou et.al.|[2503.19839](http://arxiv.org/abs/2503.19839)|null|
 |**2025-03-25**|**Unpaired Object-Level SAR-to-Optical Image Translation for Aircraft with Keypoints-Guided Diffusion Models**|Ruixi You et.al.|[2503.19798](http://arxiv.org/abs/2503.19798)|null|
-|**2025-03-25**|**In the Blink of an Eye: Instant Game Map Editing using a Generative-AI Smart Brush**|Vitaly Gnatyuk et.al.|[2503.19793](http://arxiv.org/abs/2503.19793)|null|
+|**2025-03-26**|**In the Blink of an Eye: Instant Game Map Editing using a Generative-AI Smart Brush**|Vitaly Gnatyuk et.al.|[2503.19793](http://arxiv.org/abs/2503.19793)|null|
 |**2025-03-25**|**SITA: Structurally Imperceptible and Transferable Adversarial Attacks for Stylized Image Generation**|Jingdan Kang et.al.|[2503.19791](http://arxiv.org/abs/2503.19791)|null|
 |**2025-03-25**|**Fine-Grained Erasure in Text-to-Image Diffusion-based Foundation Models**|Kartik Thakral et.al.|[2503.19783](http://arxiv.org/abs/2503.19783)|null|
 |**2025-03-25**|**PCM : Picard Consistency Model for Fast Parallel Sampling of Diffusion Models**|Junhyuk So et.al.|[2503.19731](http://arxiv.org/abs/2503.19731)|null|
@@ -2244,7 +2244,7 @@ layout: default
 |**2025-03-25**|**AccVideo: Accelerating Video Diffusion Model with Synthetic Dataset**|Haiyu Zhang et.al.|[2503.19462](http://arxiv.org/abs/2503.19462)|null|
 |**2025-03-25**|**Towards Robust Time-of-Flight Depth Denoising with Confidence-Aware Diffusion Model**|Changyong He et.al.|[2503.19448](http://arxiv.org/abs/2503.19448)|null|
 |**2025-03-25**|**Quantifying the Ease of Reproducing Training Data in Unconditional Diffusion Models**|Masaya Hasegawa et.al.|[2503.19429](http://arxiv.org/abs/2503.19429)|null|
-|**2025-03-25**|**Inference-Time Scaling for Flow Models via Stochastic Generation and Rollover Budget Forcing**|Jaihoon Kim et.al.|[2503.19385](http://arxiv.org/abs/2503.19385)|null|
+|**2025-03-26**|**Inference-Time Scaling for Flow Models via Stochastic Generation and Rollover Budget Forcing**|Jaihoon Kim et.al.|[2503.19385](http://arxiv.org/abs/2503.19385)|null|
 |**2025-03-25**|**MVPortrait: Text-Guided Motion and Emotion Control for Multi-view Vivid Portrait Animation**|Yukang Lin et.al.|[2503.19383](http://arxiv.org/abs/2503.19383)|null|
 |**2025-03-24**|**Target-Aware Video Diffusion Models**|Taeksoo Kim et.al.|[2503.18950](http://arxiv.org/abs/2503.18950)|null|
 |**2025-03-24**|**Training-free Diffusion Acceleration with Bottleneck Sampling**|Ye Tian et.al.|[2503.18940](http://arxiv.org/abs/2503.18940)|null|
@@ -10633,7 +10633,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-25**|**AvatarArtist: Open-Domain 4D Avatarization**|Hongyu Liu et.al.|[2503.19906](http://arxiv.org/abs/2503.19906)|null|
+|**2025-03-26**|**AvatarArtist: Open-Domain 4D Avatarization**|Hongyu Liu et.al.|[2503.19906](http://arxiv.org/abs/2503.19906)|null|
 |**2025-03-25**|**MVPortrait: Text-Guided Motion and Emotion Control for Multi-view Vivid Portrait Animation**|Yukang Lin et.al.|[2503.19383](http://arxiv.org/abs/2503.19383)|null|
 |**2025-03-25**|**Social Network User Profiling for Anomaly Detection Based on Graph Neural Networks**|Yiwei Zhang et.al.|[2503.19380](http://arxiv.org/abs/2503.19380)|null|
 |**2025-03-25**|**HunyuanPortrait: Implicit Condition Control for Enhanced Portrait Animation**|Zunnan Xu et.al.|[2503.18860](http://arxiv.org/abs/2503.18860)|null|

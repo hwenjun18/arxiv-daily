@@ -51,6 +51,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-27**|**Zero-Shot Visual Concept Blending Without Text Guidance**|Hiroya Makino et.al.|[2503.21277](http://arxiv.org/abs/2503.21277)|null|
+|**2025-03-27**|**Integrating Travel Behavior Forecasting and Generative Modeling for Predicting Future Urban Mobility and Spatial Transformations**|Eugene Denteh et.al.|[2503.21158](http://arxiv.org/abs/2503.21158)|null|
+|**2025-03-27**|**StyledStreets: Multi-style Street Simulator with Spatial and Temporal Consistency**|Yuyin Chen et.al.|[2503.21104](http://arxiv.org/abs/2503.21104)|null|
+|**2025-03-26**|**Text-Driven Voice Conversion via Latent State-Space Modeling**|Wen Li et.al.|[2503.20999](http://arxiv.org/abs/2503.20999)|null|
+|**2025-03-26**|**ReverBERT: A State Space Model for Efficient Text-Driven Speech Style Transfer**|Michael Brown et.al.|[2503.20992](http://arxiv.org/abs/2503.20992)|null|
+|**2025-03-26**|**Robust Federated Learning Against Poisoning Attacks: A GAN-Based Defense Framework**|Usama Zafar et.al.|[2503.20884](http://arxiv.org/abs/2503.20884)|**[link](https://github.com/SciML-FL/gan-filter)**|
+|**2025-03-25**|**Reflections on Diversity: A Real-time Virtual Mirror for Inclusive 3D Face Transformations**|Paraskevi Valergaki et.al.|[2503.20819](http://arxiv.org/abs/2503.20819)|null|
 |**2025-03-26**|**Pluggable Style Representation Learning for Multi-Style Transfer**|Hongda Liu et.al.|[2503.20368](http://arxiv.org/abs/2503.20368)|**[link](https://github.com/Chernobyllight/SaMST)**|
 |**2025-03-26**|**AvatarArtist: Open-Domain 4D Avatarization**|Hongyu Liu et.al.|[2503.19906](http://arxiv.org/abs/2503.19906)|null|
 |**2025-03-26**|**In the Blink of an Eye: Instant Game Map Editing using a Generative-AI Smart Brush**|Vitaly Gnatyuk et.al.|[2503.19793](http://arxiv.org/abs/2503.19793)|null|
@@ -2241,6 +2248,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-27**|**VideoMage: Multi-Subject and Motion Customization of Text-to-Video Diffusion Models**|Chi-Pin Huang et.al.|[2503.21781](http://arxiv.org/abs/2503.21781)|null|
+|**2025-03-27**|**StyleMotif: Multi-Modal Motion Stylization using Style-Content Cross Fusion**|Ziyu Guo et.al.|[2503.21775](http://arxiv.org/abs/2503.21775)|null|
+|**2025-03-27**|**Optimal Stepsize for Diffusion Sampling**|Jianning Pei et.al.|[2503.21774](http://arxiv.org/abs/2503.21774)|null|
+|**2025-03-27**|**Exploring the Evolution of Physics Cognition in Video Generation: A Survey**|Minghui Lin et.al.|[2503.21765](http://arxiv.org/abs/2503.21765)|null|
+|**2025-03-27**|**Progressive Rendering Distillation: Adapting Stable Diffusion for Instant Text-to-Mesh Generation without 3D Data**|Zhiyuan Ma et.al.|[2503.21694](http://arxiv.org/abs/2503.21694)|null|
+|**2025-03-27**|**Audio-driven Gesture Generation via Deviation Feature in the Latent Space**|Jiahui Chen et.al.|[2503.21616](http://arxiv.org/abs/2503.21616)|null|
+|**2025-03-27**|**Critical Iterative Denoising: A Discrete Generative Model Applied to Graphs**|Yoann Boget et.al.|[2503.21592](http://arxiv.org/abs/2503.21592)|null|
+|**2025-03-27**|**AlignDiff: Learning Physically-Grounded Camera Alignment via Diffusion**|Liuyue Xie et.al.|[2503.21581](http://arxiv.org/abs/2503.21581)|null|
+|**2025-03-27**|**SyncSDE: A Probabilistic Framework for Diffusion Synchronization**|Hyunjun Lee et.al.|[2503.21555](http://arxiv.org/abs/2503.21555)|null|
+|**2025-03-27**|**LOCATEdit: Graph Laplacian Optimized Cross Attention for Localized Text-Guided Image Editing**|Achint Soni et.al.|[2503.21541](http://arxiv.org/abs/2503.21541)|null|
+|**2025-03-27**|**Nonlinear Stability of Large-Period Traveling Waves Bifurcating from the Heteroclinic Loop in the FitzHugh-Nagumo Equation**|Ji Li et.al.|[2503.21509](http://arxiv.org/abs/2503.21509)|null|
+|**2025-03-27**|**Invert2Restore: Zero-Shot Degradation-Blind Image Restoration**|Hamadi Chihaoui et.al.|[2503.21486](http://arxiv.org/abs/2503.21486)|null|
+|**2025-03-27**|**Towards Generating Realistic 3D Semantic Training Data for Autonomous Driving**|Lucas Nunes et.al.|[2503.21449](http://arxiv.org/abs/2503.21449)|null|
+|**2025-03-27**|**Exploring the flavor structure of leptons via diffusion models**|Satsuki Nishimura et.al.|[2503.21432](http://arxiv.org/abs/2503.21432)|null|
+|**2025-03-27**|**Diffusion Image Prior**|Hamadi Chihaoui et.al.|[2503.21410](http://arxiv.org/abs/2503.21410)|null|
+|**2025-03-27**|**HORT: Monocular Hand-held Objects Reconstruction with Transformers**|Zerui Chen et.al.|[2503.21313](http://arxiv.org/abs/2503.21313)|null|
+|**2025-03-27**|**GenFusion: Closing the Loop between Reconstruction and Generation via Videos**|Sibo Wu et.al.|[2503.21219](http://arxiv.org/abs/2503.21219)|null|
+|**2025-03-27**|**ChatAnyone: Stylized Real-time Portrait Video Generation with Hierarchical Motion Diffusion Model**|Jinwei Qi et.al.|[2503.21144](http://arxiv.org/abs/2503.21144)|null|
+|**2025-03-27**|**Can Video Diffusion Model Reconstruct 4D Geometry?**|Jinjie Mai et.al.|[2503.21082](http://arxiv.org/abs/2503.21082)|null|
+|**2025-03-27**|**Efficient Multi-Instance Generation with Janus-Pro-Dirven Prompt Parsing**|Fan Qi et.al.|[2503.21069](http://arxiv.org/abs/2503.21069)|null|
 |**2025-03-26**|**Free4D: Tuning-free 4D Scene Generation with Spatial-Temporal Consistency**|Tianqi Liu et.al.|[2503.20785](http://arxiv.org/abs/2503.20785)|null|
 |**2025-03-26**|**FB-4D: Spatial-Temporal Coherent Dynamic 3D Content Generation with Feature Banks**|Jinwei Li et.al.|[2503.20784](http://arxiv.org/abs/2503.20784)|null|
 |**2025-03-26**|**RecTable: Fast Modeling Tabular Data with Rectified Flow**|Masane Fuchi et.al.|[2503.20731](http://arxiv.org/abs/2503.20731)|null|
@@ -9006,12 +9033,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-26**|**EditCLIP: Representation Learning for Image Editing**|Qian Wang et.al.|[2503.20318](http://arxiv.org/abs/2503.20318)|null|
+|**2025-03-27**|**LOCATEdit: Graph Laplacian Optimized Cross Attention for Localized Text-Guided Image Editing**|Achint Soni et.al.|[2503.21541](http://arxiv.org/abs/2503.21541)|null|
+|**2025-03-27**|**Invert2Restore: Zero-Shot Degradation-Blind Image Restoration**|Hamadi Chihaoui et.al.|[2503.21486](http://arxiv.org/abs/2503.21486)|null|
+|**2025-03-27**|**Diffusion Image Prior**|Hamadi Chihaoui et.al.|[2503.21410](http://arxiv.org/abs/2503.21410)|null|
+|**2025-03-26**|**EditCLIP: Representation Learning for Image Editing**|Qian Wang et.al.|[2503.20318](http://arxiv.org/abs/2503.20318)|**[link](https://github.com/qianwangx/editclip)**|
 |**2025-03-26**|**Devil is in the Uniformity: Exploring Diverse Learners within Transformer for Image Restoration**|Shihao Zhou et.al.|[2503.20174](http://arxiv.org/abs/2503.20174)|null|
 |**2025-03-25**|**FireEdit: Fine-grained Instruction-based Image Editing via Region-aware Vision Language Model**|Jun Zhou et.al.|[2503.19839](http://arxiv.org/abs/2503.19839)|null|
 |**2025-03-24**|**FDS: Frequency-Aware Denoising Score for Text-Guided Latent Diffusion Image Editing**|Yufan Ren et.al.|[2503.19191](http://arxiv.org/abs/2503.19191)|null|
-|**2025-03-25**|**Instruct-CLIP: Improving Instruction-Guided Image Editing with Automated Data Refinement Using Contrastive Learning**|Sherry X. Chen et.al.|[2503.18406](http://arxiv.org/abs/2503.18406)|null|
-|**2025-03-24**|**MaSS13K: A Matting-level Semantic Segmentation Benchmark**|Chenxi Xie et.al.|[2503.18364](http://arxiv.org/abs/2503.18364)|null|
+|**2025-03-25**|**Instruct-CLIP: Improving Instruction-Guided Image Editing with Automated Data Refinement Using Contrastive Learning**|Sherry X. Chen et.al.|[2503.18406](http://arxiv.org/abs/2503.18406)|**[link](https://github.com/sherryxtchen/instruct-clip)**|
+|**2025-03-24**|**MaSS13K: A Matting-level Semantic Segmentation Benchmark**|Chenxi Xie et.al.|[2503.18364](http://arxiv.org/abs/2503.18364)|**[link](https://github.com/xiechenxi99/mass13k)**|
 |**2025-03-23**|**Collaborating with AI Agents: Field Experiments on Teamwork, Productivity, and Performance**|Harang Ju et.al.|[2503.18238](http://arxiv.org/abs/2503.18238)|null|
 |**2025-03-23**|**Cat-AIR: Content and Task-Aware All-in-One Image Restoration**|Jiachen Jiang et.al.|[2503.17915](http://arxiv.org/abs/2503.17915)|null|
 |**2025-03-23**|**What Time Tells Us? An Explorative Study of Time Awareness Learned from Static Images**|Dongheng Lin et.al.|[2503.17899](http://arxiv.org/abs/2503.17899)|null|
@@ -10613,7 +10643,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-23**|**DiffusionTalker: Efficient and Compact Speech-Driven 3D Talking Head via Personalizer-Guided Distillation**|Peng Chen et.al.|[2503.18159](http://arxiv.org/abs/2503.18159)|null|
+|**2025-03-23**|**DiffusionTalker: Efficient and Compact Speech-Driven 3D Talking Head via Personalizer-Guided Distillation**|Peng Chen et.al.|[2503.18159](http://arxiv.org/abs/2503.18159)|**[link](https://github.com/chenvoid/diffusiontalker)**|
 |**2025-03-14**|**Cafe-Talk: Generating 3D Talking Face Animation with Multimodal Coarse- and Fine-grained Control**|Hejia Chen et.al.|[2503.14517](http://arxiv.org/abs/2503.14517)|null|
 |**2025-03-01**|**Towards High-fidelity 3D Talking Avatar with Personalized Dynamic Texture**|Xuanchen Li et.al.|[2503.00495](http://arxiv.org/abs/2503.00495)|null|
 |**2025-02-19**|**Bridging the Editing Gap in LLMs: FineEdit for Precise and Targeted Text Modifications**|Yiming Zeng et.al.|[2502.13358](http://arxiv.org/abs/2502.13358)|null|
@@ -10678,7 +10708,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-26**|**Leveraging Implicit Sentiments: Enhancing Reliability and Validity in Psychological Trait Evaluation of LLMs**|Huanhuan Ma et.al.|[2503.20182](http://arxiv.org/abs/2503.20182)|null|
+|**2025-03-27**|**ChatAnyone: Stylized Real-time Portrait Video Generation with Hierarchical Motion Diffusion Model**|Jinwei Qi et.al.|[2503.21144](http://arxiv.org/abs/2503.21144)|null|
+|**2025-03-26**|**Leveraging Implicit Sentiments: Enhancing Reliability and Validity in Psychological Trait Evaluation of LLMs**|Huanhuan Ma et.al.|[2503.20182](http://arxiv.org/abs/2503.20182)|**[link](https://github.com/dependentsign/csi)**|
 |**2025-03-26**|**AvatarArtist: Open-Domain 4D Avatarization**|Hongyu Liu et.al.|[2503.19906](http://arxiv.org/abs/2503.19906)|null|
 |**2025-03-25**|**MVPortrait: Text-Guided Motion and Emotion Control for Multi-view Vivid Portrait Animation**|Yukang Lin et.al.|[2503.19383](http://arxiv.org/abs/2503.19383)|null|
 |**2025-03-25**|**Social Network User Profiling for Anomaly Detection Based on Graph Neural Networks**|Yiwei Zhang et.al.|[2503.19380](http://arxiv.org/abs/2503.19380)|null|

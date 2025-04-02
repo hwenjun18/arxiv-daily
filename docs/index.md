@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.01
+## Updated on 2025.04.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -40,7 +40,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-31**|**Beyond a Single Mode: GAN Ensembles for Diverse Medical Data Generation**|Lorenzo Tronchin et.al.|[2503.24258](http://arxiv.org/abs/2503.24258)|null|
-|**2025-03-31**|**Time-Series Forecasting via Topological Information Supervised Framework with Efficient Topological Feature Learning**|ZiXin Lin et.al.|[2503.23757](http://arxiv.org/abs/2503.23757)|null|
+|**2025-04-01**|**Time-Series Forecasting via Topological Information Supervised Framework with Efficient Topological Feature Learning**|ZiXin Lin et.al.|[2503.23757](http://arxiv.org/abs/2503.23757)|null|
 |**2025-03-29**|**A GAN-Enhanced Deep Learning Framework for Rooftop Detection from Historical Aerial Imagery**|Pengyu Chen et.al.|[2503.23200](http://arxiv.org/abs/2503.23200)|null|
 |**2025-03-29**|**Advancing THz Radio Map Construction and Obstacle Sensing: An Integrated Generative Framework in ISAC**|Tianyu Hu et.al.|[2503.23055](http://arxiv.org/abs/2503.23055)|null|
 |**2025-03-26**|**Adaptive State-Space Mamba for Real-Time Sensor Data Anomaly Detection**|Alice Zhang et.al.|[2503.22743](http://arxiv.org/abs/2503.22743)|null|
@@ -51,7 +51,7 @@ layout: default
 |**2025-03-28**|**ABC-GS: Alignment-Based Controllable Style Transfer for 3D Gaussian Splatting**|Wenjie Liu et.al.|[2503.22218](http://arxiv.org/abs/2503.22218)|null|
 |**2025-03-28**|**Improving the generalization of deep learning models in the segmentation of mammography images**|Jan Hurtado et.al.|[2503.22052](http://arxiv.org/abs/2503.22052)|null|
 |**2025-03-27**|**Tune It Up: Music Genre Transfer and Prediction**|Fidan Samet et.al.|[2503.22008](http://arxiv.org/abs/2503.22008)|**[link](https://github.com/fidansamet/tune-it-up)**|
-|**2025-03-27**|**Zero-Shot Visual Concept Blending Without Text Guidance**|Hiroya Makino et.al.|[2503.21277](http://arxiv.org/abs/2503.21277)|null|
+|**2025-04-01**|**Zero-Shot Visual Concept Blending Without Text Guidance**|Hiroya Makino et.al.|[2503.21277](http://arxiv.org/abs/2503.21277)|null|
 |**2025-03-27**|**Integrating Travel Behavior Forecasting and Generative Modeling for Predicting Future Urban Mobility and Spatial Transformations**|Eugene Denteh et.al.|[2503.21158](http://arxiv.org/abs/2503.21158)|null|
 |**2025-03-27**|**StyledStreets: Multi-style Street Simulator with Spatial and Temporal Consistency**|Yuyin Chen et.al.|[2503.21104](http://arxiv.org/abs/2503.21104)|null|
 |**2025-03-26**|**Text-Driven Voice Conversion via Latent State-Space Modeling**|Wen Li et.al.|[2503.20999](http://arxiv.org/abs/2503.20999)|null|
@@ -2247,7 +2247,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-31**|**Enhancing Image Resolution of Solar Magnetograms: A Latent Diffusion Model Approach**|Francesco Pio Ramunno et.al.|[2503.24271](http://arxiv.org/abs/2503.24271)|null|
-|**2025-03-31**|**Visual Acoustic Fields**|Yuelei Li et.al.|[2503.24270](http://arxiv.org/abs/2503.24270)|null|
+|**2025-04-01**|**Visual Acoustic Fields**|Yuelei Li et.al.|[2503.24270](http://arxiv.org/abs/2503.24270)|null|
 |**2025-03-31**|**Controlled Latent Diffusion Models for 3D Porous Media Reconstruction**|Danilo Naiff et.al.|[2503.24083](http://arxiv.org/abs/2503.24083)|null|
 |**2025-03-31**|**DenseFormer: Learning Dense Depth Map from Sparse Depth and Image via Conditional Diffusion Model**|Ming Yuan et.al.|[2503.23993](http://arxiv.org/abs/2503.23993)|null|
 |**2025-03-31**|**JointTuner: Appearance-Motion Adaptive Joint Training for Customized Video Generation**|Fangda Chen et.al.|[2503.23951](http://arxiv.org/abs/2503.23951)|null|

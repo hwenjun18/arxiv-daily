@@ -39,6 +39,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-01**|**rPPG-SysDiaGAN: Systolic-Diastolic Feature Localization in rPPG Using Generative Adversarial Network with Multi-Domain Discriminator**|Banafsheh Adami et.al.|[2504.01220](http://arxiv.org/abs/2504.01220)|null|
+|**2025-04-01**|**Prompting Forgetting: Unlearning in GANs via Textual Guidance**|Piyush Nagasubramaniam et.al.|[2504.01218](http://arxiv.org/abs/2504.01218)|null|
+|**2025-04-01**|**Performative Drift Resistant Classification Using Generative Domain Adversarial Networks**|Maciej Makowski et.al.|[2504.01135](http://arxiv.org/abs/2504.01135)|null|
+|**2025-03-31**|**Coarse-to-Fine Learning for Multi-Pipette Localisation in Robot-Assisted In Vivo Patch-Clamp**|Lan Wei et.al.|[2504.01044](http://arxiv.org/abs/2504.01044)|null|
+|**2025-04-01**|**Data Cleansing for GANs**|Naoyuki Terashita et.al.|[2504.00603](http://arxiv.org/abs/2504.00603)|null|
+|**2025-04-01**|**Generalization-aware Remote Sensing Change Detection via Domain-agnostic Learning**|Qi Zang et.al.|[2504.00543](http://arxiv.org/abs/2504.00543)|null|
+|**2025-04-01**|**Galaxy Morphology Classification via Deep Semi-Supervised Learning with Limited Labeled Data**|Zhijian Luo et.al.|[2504.00500](http://arxiv.org/abs/2504.00500)|null|
 |**2025-03-31**|**Beyond a Single Mode: GAN Ensembles for Diverse Medical Data Generation**|Lorenzo Tronchin et.al.|[2503.24258](http://arxiv.org/abs/2503.24258)|**[link](https://github.com/ltronchin/gan-ensembles)**|
 |**2025-04-01**|**Time-Series Forecasting via Topological Information Supervised Framework with Efficient Topological Feature Learning**|ZiXin Lin et.al.|[2503.23757](http://arxiv.org/abs/2503.23757)|null|
 |**2025-03-29**|**A GAN-Enhanced Deep Learning Framework for Rooftop Detection from Historical Aerial Imagery**|Pengyu Chen et.al.|[2503.23200](http://arxiv.org/abs/2503.23200)|null|
@@ -2246,6 +2253,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-02**|**Diffusion-Guided Gaussian Splatting for Large-Scale Unconstrained 3D Reconstruction and Novel View Synthesis**|Niluthpol Chowdhury Mithun et.al.|[2504.01960](http://arxiv.org/abs/2504.01960)|null|
+|**2025-04-02**|**VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step**|Hanyang Wang et.al.|[2504.01956](http://arxiv.org/abs/2504.01956)|null|
+|**2025-04-02**|**A Unified Approach to Analysis and Design of Denoising Markov Models**|Yinuo Ren et.al.|[2504.01938](http://arxiv.org/abs/2504.01938)|null|
+|**2025-04-02**|**ILLUME+: Illuminating Unified MLLM with Dual Visual Tokenization and Diffusion Refinement**|Runhui Huang et.al.|[2504.01934](http://arxiv.org/abs/2504.01934)|null|
+|**2025-04-02**|**Multi-fidelity Parameter Estimation Using Conditional Diffusion Models**|Caroline Tatsuoka et.al.|[2504.01894](http://arxiv.org/abs/2504.01894)|null|
+|**2025-04-02**|**A Diffusion-Based Framework for Occluded Object Movement**|Zheng-Peng Duan et.al.|[2504.01873](http://arxiv.org/abs/2504.01873)|null|
+|**2025-04-02**|**Implicit Bias Injection Attacks against Text-to-Image Diffusion Models**|Huayang Huang et.al.|[2504.01819](http://arxiv.org/abs/2504.01819)|null|
+|**2025-04-02**|**The protein escape process at the ribosomal exit tunnel has conserved mechanisms across the domains of life**|Phuong Thuy Bui et.al.|[2504.01731](http://arxiv.org/abs/2504.01731)|null|
+|**2025-04-02**|**InvFussion: Bridging Supervised and Zero-shot Diffusion for Inverse Problems**|Noam Elata et.al.|[2504.01689](http://arxiv.org/abs/2504.01689)|null|
+|**2025-04-02**|**Instance Migration Diffusion for Nuclear Instance Segmentation in Pathology**|Lirui Qi et.al.|[2504.01577](http://arxiv.org/abs/2504.01577)|null|
+|**2025-04-02**|**Semi-Supervised Biomedical Image Segmentation via Diffusion Models and Teacher-Student Co-Training**|Luca Ciampi et.al.|[2504.01547](http://arxiv.org/abs/2504.01547)|null|
+|**2025-04-02**|**Hyperbolic Diffusion Recommender Model**|Meng Yuan et.al.|[2504.01541](http://arxiv.org/abs/2504.01541)|null|
+|**2025-04-02**|**Domain Guidance: A Simple Transfer Approach for a Pre-trained Diffusion Model**|Jincheng Zhong et.al.|[2504.01521](http://arxiv.org/abs/2504.01521)|null|
+|**2025-04-02**|**From Easy to Hard: Building a Shortcut for Differentially Private Image Synthesis**|Kecen Li et.al.|[2504.01395](http://arxiv.org/abs/2504.01395)|null|
+|**2025-04-02**|**Safeguarding Vision-Language Models: Mitigating Vulnerabilities to Gaussian Noise in Perturbation-based Attacks**|Jiawei Wang et.al.|[2504.01308](http://arxiv.org/abs/2504.01308)|null|
+|**2025-04-01**|**Prompting Forgetting: Unlearning in GANs via Textual Guidance**|Piyush Nagasubramaniam et.al.|[2504.01218](http://arxiv.org/abs/2504.01218)|null|
+|**2025-04-01**|**Articulated Kinematics Distillation from Video Diffusion Models**|Xuan Li et.al.|[2504.01204](http://arxiv.org/abs/2504.01204)|null|
+|**2025-04-01**|**Towards Sign Distance Function based Metamaterial Design: Neural Operator Transformer for Forward Prediction and Diffusion Models for Inverse Design**|Qibang Liu et.al.|[2504.01195](http://arxiv.org/abs/2504.01195)|null|
+|**2025-04-01**|**Neural Approaches to SAT Solving: Design Choices and Interpretability**|David Mojžíšek et.al.|[2504.01173](http://arxiv.org/abs/2504.01173)|null|
+|**2025-04-01**|**MixerMDM: Learnable Composition of Human Motion Diffusion Models**|Pablo Ruiz-Ponce et.al.|[2504.01019](http://arxiv.org/abs/2504.01019)|null|
 |**2025-03-31**|**Enhancing Image Resolution of Solar Magnetograms: A Latent Diffusion Model Approach**|Francesco Pio Ramunno et.al.|[2503.24271](http://arxiv.org/abs/2503.24271)|**[link](https://github.com/fpramunno/ldm_superresolution)**|
 |**2025-04-01**|**Visual Acoustic Fields**|Yuelei Li et.al.|[2503.24270](http://arxiv.org/abs/2503.24270)|null|
 |**2025-03-31**|**Controlled Latent Diffusion Models for 3D Porous Media Reconstruction**|Danilo Naiff et.al.|[2503.24083](http://arxiv.org/abs/2503.24083)|**[link](https://github.com/Lacadame/PoreGen)**|
@@ -9069,6 +9096,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-02**|**ILLUME+: Illuminating Unified MLLM with Dual Visual Tokenization and Diffusion Refinement**|Runhui Huang et.al.|[2504.01934](http://arxiv.org/abs/2504.01934)|null|
+|**2025-04-02**|**A Diffusion-Based Framework for Occluded Object Movement**|Zheng-Peng Duan et.al.|[2504.01873](http://arxiv.org/abs/2504.01873)|null|
+|**2025-04-02**|**Bridge the Gap between SNN and ANN for Image Restoration**|Xin Su et.al.|[2504.01755](http://arxiv.org/abs/2504.01755)|null|
+|**2025-04-01**|**Deconver: A Deconvolutional Network for Medical Image Segmentation**|Pooya Ashtari et.al.|[2504.00302](http://arxiv.org/abs/2504.00302)|null|
 |**2025-03-31**|**InstructRestore: Region-Customized Image Restoration with Human Instructions**|Shuaizheng Liu et.al.|[2503.24357](http://arxiv.org/abs/2503.24357)|**[link](https://github.com/shuaizhengliu/instructrestore)**|
 |**2025-03-31**|**AI2Agent: An End-to-End Framework for Deploying AI Projects as Autonomous Agents**|Jiaxiang Chen et.al.|[2503.23948](http://arxiv.org/abs/2503.23948)|null|
 |**2025-03-31**|**Training-Free Text-Guided Image Editing with Visual Autoregressive Model**|Yufei Wang et.al.|[2503.23897](http://arxiv.org/abs/2503.23897)|null|
@@ -10750,6 +10781,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-02**|**DreamActor-M1: Holistic, Expressive and Robust Human Image Animation with Hybrid Guidance**|Yuxuan Luo et.al.|[2504.01724](http://arxiv.org/abs/2504.01724)|null|
+|**2025-04-01**|**A New Approach to Motion Planning in 3D for a Dubins Vehicle: Special Case on a Sphere**|Deepak Prakash Kumar et.al.|[2504.01215](http://arxiv.org/abs/2504.01215)|null|
+|**2025-04-01**|**Time-optimal Convexified Reeds-Shepp Paths on a Sphere**|Sixu Li et.al.|[2504.00966](http://arxiv.org/abs/2504.00966)|null|
+|**2025-04-01**|**Beyond Wide-Angle Images: Unsupervised Video Portrait Correction via Spatiotemporal Diffusion Adaptation**|Wenbo Nie et.al.|[2504.00401](http://arxiv.org/abs/2504.00401)|null|
+|**2025-04-01**|**SPF-Portrait: Towards Pure Portrait Customization with Semantic Pollution-Free Fine-tuning**|Xiaole Xian et.al.|[2504.00396](http://arxiv.org/abs/2504.00396)|null|
 |**2025-03-30**|**MoCha: Towards Movie-Grade Talking Character Synthesis**|Cong Wei et.al.|[2503.23307](http://arxiv.org/abs/2503.23307)|null|
 |**2025-03-28**|**Follow Your Motion: A Generic Temporal Consistency Portrait Editing Framework with Trajectory Guidance**|Haijie Yang et.al.|[2503.22225](http://arxiv.org/abs/2503.22225)|null|
 |**2025-03-27**|**Parametric Shadow Control for Portrait Generationin Text-to-Image Diffusion Models**|Haoming Cai et.al.|[2503.21943](http://arxiv.org/abs/2503.21943)|null|

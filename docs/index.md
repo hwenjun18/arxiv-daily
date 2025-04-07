@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.06
+## Updated on 2025.04.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -2259,7 +2259,7 @@ layout: default
 |**2025-04-03**|**F-ViTA: Foundation Model Guided Visible to Thermal Translation**|Jay N. Paranjape et.al.|[2504.02801](http://arxiv.org/abs/2504.02801)|null|
 |**2025-04-03**|**Scene Splatter: Momentum 3D Scene Generation from Single Image with Video Diffusion Model**|Shengjun Zhang et.al.|[2504.02764](http://arxiv.org/abs/2504.02764)|null|
 |**2025-04-03**|**MD-ProjTex: Texturing 3D Shapes with Multi-Diffusion Projection**|Ahmet Burak Yildirim et.al.|[2504.02762](http://arxiv.org/abs/2504.02762)|null|
-|**2025-04-03**|**RBR4DNN: Requirements-based Testing of Neural Networks**|Nusrat Jahan Mozumder et.al.|[2504.02737](http://arxiv.org/abs/2504.02737)|null|
+|**2025-04-04**|**RBT4DNN: Requirements-based Testing of Neural Networks**|Nusrat Jahan Mozumder et.al.|[2504.02737](http://arxiv.org/abs/2504.02737)|null|
 |**2025-04-03**|**RoSMM: A Robust and Secure Multi-Modal Watermarking Framework for Diffusion Models**|ZhongLi Fang et.al.|[2504.02640](http://arxiv.org/abs/2504.02640)|null|
 |**2025-04-03**|**Bridging the Gap between Gaussian Diffusion Models and Universal Quantization for Image Compression**|Lucas Relic et.al.|[2504.02579](http://arxiv.org/abs/2504.02579)|null|
 |**2025-04-03**|**MAD: Makeup All-in-One with Cross-Domain Diffusion Model**|Bo-Kai Ruan et.al.|[2504.02545](http://arxiv.org/abs/2504.02545)|null|
@@ -10805,7 +10805,7 @@ layout: default
 |**2025-04-01**|**A New Approach to Motion Planning in 3D for a Dubins Vehicle: Special Case on a Sphere**|Deepak Prakash Kumar et.al.|[2504.01215](http://arxiv.org/abs/2504.01215)|null|
 |**2025-04-01**|**Time-optimal Convexified Reeds-Shepp Paths on a Sphere**|Sixu Li et.al.|[2504.00966](http://arxiv.org/abs/2504.00966)|**[link](https://github.com/sixuli97/optimal-spherical-convexified-reeds-shepp-paths)**|
 |**2025-04-01**|**Beyond Wide-Angle Images: Unsupervised Video Portrait Correction via Spatiotemporal Diffusion Adaptation**|Wenbo Nie et.al.|[2504.00401](http://arxiv.org/abs/2504.00401)|null|
-|**2025-04-01**|**SPF-Portrait: Towards Pure Portrait Customization with Semantic Pollution-Free Fine-tuning**|Xiaole Xian et.al.|[2504.00396](http://arxiv.org/abs/2504.00396)|null|
+|**2025-04-04**|**SPF-Portrait: Towards Pure Portrait Customization with Semantic Pollution-Free Fine-tuning**|Xiaole Xian et.al.|[2504.00396](http://arxiv.org/abs/2504.00396)|null|
 |**2025-03-30**|**MoCha: Towards Movie-Grade Talking Character Synthesis**|Cong Wei et.al.|[2503.23307](http://arxiv.org/abs/2503.23307)|null|
 |**2025-03-28**|**Follow Your Motion: A Generic Temporal Consistency Portrait Editing Framework with Trajectory Guidance**|Haijie Yang et.al.|[2503.22225](http://arxiv.org/abs/2503.22225)|null|
 |**2025-03-27**|**Parametric Shadow Control for Portrait Generationin Text-to-Image Diffusion Models**|Haoming Cai et.al.|[2503.21943](http://arxiv.org/abs/2503.21943)|null|

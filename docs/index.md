@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.10
+## Updated on 2025.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -2274,7 +2274,7 @@ layout: default
 |**2025-04-09**|**CasTex: Cascaded Text-to-Texture Synthesis via Explicit Texture Maps and Physically-Based Shading**|Mishan Aliev et.al.|[2504.06856](http://arxiv.org/abs/2504.06856)|null|
 |**2025-04-09**|**DyDiT++: Dynamic Diffusion Transformers for Efficient Visual Generation**|Wangbo Zhao et.al.|[2504.06803](http://arxiv.org/abs/2504.06803)|null|
 |**2025-04-09**|**DIMA: DIffusing Motion Artifacts for unsupervised correction in brain MRI images**|Paolo Angella et.al.|[2504.06767](http://arxiv.org/abs/2504.06767)|null|
-|**2025-04-09**|**Compass Control: Multi Object Orientation Control for Text-to-Image Generation**|Rishbuh Parihar et.al.|[2504.06752](http://arxiv.org/abs/2504.06752)|null|
+|**2025-04-10**|**Compass Control: Multi Object Orientation Control for Text-to-Image Generation**|Rishubh Parihar et.al.|[2504.06752](http://arxiv.org/abs/2504.06752)|null|
 |**2025-04-09**|**Probability Density Geodesics in Image Diffusion Latent Space**|Qingtao Yu et.al.|[2504.06675](http://arxiv.org/abs/2504.06675)|null|
 |**2025-04-09**|**RAGME: Retrieval Augmented Video Generation for Enhanced Motion Realism**|Elia Peruzzo et.al.|[2504.06672](http://arxiv.org/abs/2504.06672)|null|
 |**2025-04-09**|**Diffusion Factor Models: Generating High-Dimensional Returns with Factor Structure**|Minshuo Chen et.al.|[2504.06566](http://arxiv.org/abs/2504.06566)|null|

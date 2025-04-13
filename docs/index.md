@@ -2272,7 +2272,7 @@ layout: default
 |**2025-04-10**|**VisualCloze: A Universal Image Generation Framework via Visual In-Context Learning**|Zhong-Yu Li et.al.|[2504.07960](http://arxiv.org/abs/2504.07960)|null|
 |**2025-04-10**|**GenEAva: Generating Cartoon Avatars with Fine-Grained Facial Expressions from Realistic Diffusion-based Faces**|Hao Yu et.al.|[2504.07945](http://arxiv.org/abs/2504.07945)|null|
 |**2025-04-10**|**Optimal Control For Anti-Abeta Treatment in Alzheimer's Disease using a Reaction-Diffusion Model**|Wenrui Hao et.al.|[2504.07913](http://arxiv.org/abs/2504.07913)|null|
-|**2025-04-10**|**Revisiting Likelihood-Based Out-of-Distribution Detection by Modeling Representations**|Yifan Ding et.al.|[2504.07793](http://arxiv.org/abs/2504.07793)|null|
+|**2025-04-10**|**Revisiting Likelihood-Based Out-of-Distribution Detection by Modeling Representations**|Yifan Ding et.al.|[2504.07793](http://arxiv.org/abs/2504.07793)|**[link](https://github.com/limchaos/likelihood-ood)**|
 |**2025-04-10**|**Virtual-mask Informed Prior for Sparse-view Dual-Energy CT Reconstruction**|Zini Chen et.al.|[2504.07753](http://arxiv.org/abs/2504.07753)|null|
 |**2025-04-10**|**PhaseGen: A Diffusion-Based Approach for Complex-Valued MRI Data Generation**|Moritz Rempe et.al.|[2504.07560](http://arxiv.org/abs/2504.07560)|**[link](https://github.com/TIO-IKIM/PhaseGen)**|
 |**2025-04-10**|**STeP: A General and Scalable Framework for Solving Video Inverse Problems with Spatiotemporal Diffusion Priors**|Bingliang Zhang et.al.|[2504.07549](http://arxiv.org/abs/2504.07549)|null|
@@ -2280,9 +2280,9 @@ layout: default
 |**2025-04-10**|**Unifying and extending Diffusion Models through PDEs for solving Inverse Problems**|Agnimitra Dasgupta et.al.|[2504.07437](http://arxiv.org/abs/2504.07437)|null|
 |**2025-04-10**|**Conditional Data Synthesis Augmentation**|Xinyu Tian et.al.|[2504.07426](http://arxiv.org/abs/2504.07426)|null|
 |**2025-04-10**|**Routing to the Right Expertise: A Trustworthy Judge for Instruction-based Image Editing**|Chenxi Sun et.al.|[2504.07424](http://arxiv.org/abs/2504.07424)|null|
-|**2025-04-10**|**ID-Booth: Identity-consistent Face Generation with Diffusion Models**|Darian Tomašević et.al.|[2504.07392](http://arxiv.org/abs/2504.07392)|null|
-|**2025-04-10**|**Novel Diffusion Models for Multimodal 3D Hand Trajectory Prediction**|Junyi Ma et.al.|[2504.07375](http://arxiv.org/abs/2504.07375)|null|
-|**2025-04-09**|**MoEDiff-SR: Mixture of Experts-Guided Diffusion Model for Region-Adaptive MRI Super-Resolution**|Zhe Wang et.al.|[2504.07308](http://arxiv.org/abs/2504.07308)|null|
+|**2025-04-10**|**ID-Booth: Identity-consistent Face Generation with Diffusion Models**|Darian Tomašević et.al.|[2504.07392](http://arxiv.org/abs/2504.07392)|**[link](https://github.com/dariant/id-booth)**|
+|**2025-04-10**|**Novel Diffusion Models for Multimodal 3D Hand Trajectory Prediction**|Junyi Ma et.al.|[2504.07375](http://arxiv.org/abs/2504.07375)|**[link](https://github.com/irmvlab/mmtwin)**|
+|**2025-04-09**|**MoEDiff-SR: Mixture of Experts-Guided Diffusion Model for Region-Adaptive MRI Super-Resolution**|Zhe Wang et.al.|[2504.07308](http://arxiv.org/abs/2504.07308)|**[link](https://github.com/zwang78/moediff-sr)**|
 |**2025-04-09**|**MESA: Text-Driven Terrain Generation Using Latent Diffusion and Global Copernicus Data**|Paul Borne--Pons et.al.|[2504.07210](http://arxiv.org/abs/2504.07210)|null|
 |**2025-04-09**|**Latent Diffusion U-Net Representations Contain Positional Embeddings and Anomalies**|Jonas Loos et.al.|[2504.07008](http://arxiv.org/abs/2504.07008)|**[link](https://github.com/JonasLoos/sd-representation-anomalies)**|
 |**2025-04-09**|**PathSegDiff: Pathology Segmentation using Diffusion model representations**|Sachin Kumar Danisetty et.al.|[2504.06950](http://arxiv.org/abs/2504.06950)|null|
@@ -9201,7 +9201,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-10**|**Learning Universal Features for Generalizable Image Forgery Localization**|Hengrun Zhao et.al.|[2504.07462](http://arxiv.org/abs/2504.07462)|null|
+|**2025-04-10**|**Learning Universal Features for Generalizable Image Forgery Localization**|Hengrun Zhao et.al.|[2504.07462](http://arxiv.org/abs/2504.07462)|**[link](https://github.com/zhaohengrun/gifl)**|
 |**2025-04-10**|**Routing to the Right Expertise: A Trustworthy Judge for Instruction-based Image Editing**|Chenxi Sun et.al.|[2504.07424](http://arxiv.org/abs/2504.07424)|null|
 |**2025-04-09**|**Q-Agent: Quality-Driven Chain-of-Thought Image Restoration Agent through Robust Multimodal Large Language Model**|Yingjie Zhou et.al.|[2504.07148](http://arxiv.org/abs/2504.07148)|null|
 |**2025-04-09**|**Rethinking LayerNorm in Image Restoration Transformers**|MinKyu Lee et.al.|[2504.06629](http://arxiv.org/abs/2504.06629)|null|

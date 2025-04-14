@@ -39,6 +39,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-11**|**End-to-End Demonstration of Quantum Generative Adversarial Networks for Steel Microstructure Image Augmentation on a Trapped-Ion Quantum Computer**|Samwel Sekwao et.al.|[2504.08728](http://arxiv.org/abs/2504.08728)|null|
+|**2025-04-11**|**On the Design of Diffusion-based Neural Speech Codecs**|Pietro Foti et.al.|[2504.08470](http://arxiv.org/abs/2504.08470)|null|
+|**2025-04-11**|**Muon-Accelerated Attention Distillation for Real-Time Edge Synthesis via Optimized Latent Diffusion**|Weiye Chen et.al.|[2504.08451](http://arxiv.org/abs/2504.08451)|null|
+|**2025-04-11**|**DreamFuse: Adaptive Image Fusion with Diffusion Transformer**|Junjia Huang et.al.|[2504.08291](http://arxiv.org/abs/2504.08291)|null|
 |**2025-04-08**|**Secure Text Mail Encryption with Generative Adversarial Networks**|Alexej Schelle et.al.|[2504.07140](http://arxiv.org/abs/2504.07140)|null|
 |**2025-04-08**|**Explainable AI for building energy retrofitting under data scarcity**|Panagiota Rempi et.al.|[2504.06055](http://arxiv.org/abs/2504.06055)|null|
 |**2025-04-08**|**CKGAN: Training Generative Adversarial Networks Using Characteristic Kernel Integral Probability Metrics**|Kuntian Zhang et.al.|[2504.05945](http://arxiv.org/abs/2504.05945)|null|
@@ -2268,6 +2272,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-11**|**Seaweed-7B: Cost-Effective Training of Video Generation Foundation Model**|Team Seawead et.al.|[2504.08685](http://arxiv.org/abs/2504.08685)|null|
+|**2025-04-11**|**Training-free Guidance in Text-to-Video Generation via Multimodal Planning and Structured Noise Initialization**|Jialu Li et.al.|[2504.08641](http://arxiv.org/abs/2504.08641)|null|
+|**2025-04-11**|**Discretization Error Analysis of a High Order Unfitted Space-Time Method for moving domain problems**|Fabian Heimann et.al.|[2504.08608](http://arxiv.org/abs/2504.08608)|null|
+|**2025-04-11**|**Neural Fidelity Calibration for Informative Sim-to-Real Adaptation**|Youwei Yu et.al.|[2504.08604](http://arxiv.org/abs/2504.08604)|null|
+|**2025-04-11**|**ZipIR: Latent Pyramid Diffusion Transformer for High-Resolution Image Restoration**|Yongsheng Yu et.al.|[2504.08591](http://arxiv.org/abs/2504.08591)|null|
+|**2025-04-11**|**COP-GEN-Beta: Unified Generative Modelling of COPernicus Imagery Thumbnails**|Miguel Espinosa et.al.|[2504.08548](http://arxiv.org/abs/2504.08548)|null|
+|**2025-04-11**|**Discriminator-Free Direct Preference Optimization for Video Diffusion**|Haoran Cheng et.al.|[2504.08542](http://arxiv.org/abs/2504.08542)|null|
+|**2025-04-11**|**Cut-and-Splat: Leveraging Gaussian Splatting for Synthetic Data Generation**|Bram Vanherle et.al.|[2504.08473](http://arxiv.org/abs/2504.08473)|null|
+|**2025-04-11**|**On the Design of Diffusion-based Neural Speech Codecs**|Pietro Foti et.al.|[2504.08470](http://arxiv.org/abs/2504.08470)|null|
+|**2025-04-11**|**Muon-Accelerated Attention Distillation for Real-Time Edge Synthesis via Optimized Latent Diffusion**|Weiye Chen et.al.|[2504.08451](http://arxiv.org/abs/2504.08451)|null|
+|**2025-04-11**|**Diffusion Models for Robotic Manipulation: A Survey**|Rosa Wolf et.al.|[2504.08438](http://arxiv.org/abs/2504.08438)|null|
+|**2025-04-11**|**Single View Garment Reconstruction Using Diffusion Mapping Via Pattern Coordinates**|Ren Li et.al.|[2504.08353](http://arxiv.org/abs/2504.08353)|null|
+|**2025-04-11**|**Geometric Consistency Refinement for Single Image Novel View Synthesis via Test-Time Adaptation of Diffusion Models**|Josef Bengtson et.al.|[2504.08348](http://arxiv.org/abs/2504.08348)|null|
+|**2025-04-11**|**EasyGenNet: An Efficient Framework for Audio-Driven Gesture Video Generation Based on Diffusion Model**|Renda Li et.al.|[2504.08344](http://arxiv.org/abs/2504.08344)|null|
+|**2025-04-11**|**Palmprint De-Identification Using Diffusion Model for High-Quality and Diverse Synthesis**|Licheng Yan et.al.|[2504.08272](http://arxiv.org/abs/2504.08272)|null|
+|**2025-04-11**|**CoProSketch: Controllable and Progressive Sketch Generation with Diffusion Model**|Ruohao Zhan et.al.|[2504.08259](http://arxiv.org/abs/2504.08259)|null|
+|**2025-04-11**|**TokenMotion: Decoupled Motion Control via Token Disentanglement for Human-centric Video Generation**|Ruineng Li et.al.|[2504.08181](http://arxiv.org/abs/2504.08181)|null|
+|**2025-04-10**|**POEM: Precise Object-level Editing via MLLM control**|Marco Schouten et.al.|[2504.08111](http://arxiv.org/abs/2504.08111)|null|
+|**2025-04-10**|**ContrastiveGaussian: High-Fidelity 3D Generation with Contrastive Learning and Gaussian Splatting**|Junbang Liu et.al.|[2504.08100](http://arxiv.org/abs/2504.08100)|null|
+|**2025-04-10**|**Teaching Humans Subtle Differences with DIFFusion**|Mia Chiquier et.al.|[2504.08046](http://arxiv.org/abs/2504.08046)|null|
 |**2025-04-10**|**Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction**|Zeren Jiang et.al.|[2504.07961](http://arxiv.org/abs/2504.07961)|null|
 |**2025-04-10**|**VisualCloze: A Universal Image Generation Framework via Visual In-Context Learning**|Zhong-Yu Li et.al.|[2504.07960](http://arxiv.org/abs/2504.07960)|null|
 |**2025-04-10**|**GenEAva: Generating Cartoon Avatars with Fine-Grained Facial Expressions from Realistic Diffusion-based Faces**|Hao Yu et.al.|[2504.07945](http://arxiv.org/abs/2504.07945)|null|
@@ -9201,6 +9225,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-11**|**ZipIR: Latent Pyramid Diffusion Transformer for High-Resolution Image Restoration**|Yongsheng Yu et.al.|[2504.08591](http://arxiv.org/abs/2504.08591)|null|
+|**2025-04-11**|**CoProSketch: Controllable and Progressive Sketch Generation with Diffusion Model**|Ruohao Zhan et.al.|[2504.08259](http://arxiv.org/abs/2504.08259)|null|
+|**2025-04-11**|**VL-UR: Vision-Language-guided Universal Restoration of Images Degraded by Adverse Weather Conditions**|Ziyan Liu et.al.|[2504.08219](http://arxiv.org/abs/2504.08219)|null|
+|**2025-04-10**|**POEM: Precise Object-level Editing via MLLM control**|Marco Schouten et.al.|[2504.08111](http://arxiv.org/abs/2504.08111)|null|
 |**2025-04-10**|**Learning Universal Features for Generalizable Image Forgery Localization**|Hengrun Zhao et.al.|[2504.07462](http://arxiv.org/abs/2504.07462)|**[link](https://github.com/zhaohengrun/gifl)**|
 |**2025-04-10**|**Routing to the Right Expertise: A Trustworthy Judge for Instruction-based Image Editing**|Chenxi Sun et.al.|[2504.07424](http://arxiv.org/abs/2504.07424)|null|
 |**2025-04-09**|**Q-Agent: Quality-Driven Chain-of-Thought Image Restoration Agent through Robust Multimodal Large Language Model**|Yingjie Zhou et.al.|[2504.07148](http://arxiv.org/abs/2504.07148)|null|

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.14
+## Updated on 2025.04.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -43,7 +43,7 @@ layout: default
 |**2025-04-11**|**On the Design of Diffusion-based Neural Speech Codecs**|Pietro Foti et.al.|[2504.08470](http://arxiv.org/abs/2504.08470)|null|
 |**2025-04-11**|**Muon-Accelerated Attention Distillation for Real-Time Edge Synthesis via Optimized Latent Diffusion**|Weiye Chen et.al.|[2504.08451](http://arxiv.org/abs/2504.08451)|null|
 |**2025-04-11**|**DreamFuse: Adaptive Image Fusion with Diffusion Transformer**|Junjia Huang et.al.|[2504.08291](http://arxiv.org/abs/2504.08291)|null|
-|**2025-04-08**|**Secure Text Mail Encryption with Generative Adversarial Networks**|Alexej Schelle et.al.|[2504.07140](http://arxiv.org/abs/2504.07140)|null|
+|**2025-04-14**|**Secure Text Mail Encryption with Generative Adversarial Networks**|Alexej Schelle et.al.|[2504.07140](http://arxiv.org/abs/2504.07140)|null|
 |**2025-04-08**|**Explainable AI for building energy retrofitting under data scarcity**|Panagiota Rempi et.al.|[2504.06055](http://arxiv.org/abs/2504.06055)|null|
 |**2025-04-08**|**CKGAN: Training Generative Adversarial Networks Using Characteristic Kernel Integral Probability Metrics**|Kuntian Zhang et.al.|[2504.05945](http://arxiv.org/abs/2504.05945)|null|
 |**2025-04-07**|**Generative Adversarial Networks with Limited Data: A Survey and Benchmarking**|Omar De Mitri et.al.|[2504.05456](http://arxiv.org/abs/2504.05456)|null|

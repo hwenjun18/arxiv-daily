@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.19
+## Updated on 2025.04.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -45,7 +45,7 @@
 |**2022-11-21**|**Towards Live 3D Reconstruction from Wearable Video: An Evaluation of V-SLAM, NeRF, and Videogrammetry Techniques**|David Ramirez et.al.|[2211.11836](http://arxiv.org/abs/2211.11836)|null|
 |**2022-11-14**|**Controllable GAN Synthesis Using Non-Rigid Structure-from-Motion**|René Haas et.al.|[2211.07195](http://arxiv.org/abs/2211.07195)|null|
 
-<p align=right>(<a href=#Updated-on-20250419>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250420>back to top</a>)</p>
 
 ## GAN
 
@@ -61,7 +61,7 @@
 |**2025-04-15**|**Generative and Explainable AI for High-Dimensional Channel Estimation**|Nghia Thinh Nguyen et.al.|[2504.10775](http://arxiv.org/abs/2504.10775)|**[link](https://github.com/tnd-lab/Generative-and-Explainable-AI-for-High-Dimensional-Channel-Estimation)**|
 |**2025-04-14**|**Data Augmentation Through Random Style Replacement**|Qikai Yang et.al.|[2504.10563](http://arxiv.org/abs/2504.10563)|null|
 |**2025-04-14**|**Beyond the Generative Learning Trilemma: Generative Model Assessment in Data Scarcity Domains**|Marco Salmè et.al.|[2504.10555](http://arxiv.org/abs/2504.10555)|null|
-|**2025-04-15**|**Trade-offs in Privacy-Preserving Eye Tracking through Iris Obfuscation: A Benchmarking Study**|Mengdi Wang et.al.|[2504.10267](http://arxiv.org/abs/2504.10267)|**[link](https://gitlab.lrz.de/hctl/Iris-Obfuscation-Benchmark)**|
+|**2025-04-15**|**Trade-offs in Privacy-Preserving Eye Tracking through Iris Obfuscation: A Benchmarking Study**|Mengdi Wang et.al.|[2504.10267](http://arxiv.org/abs/2504.10267)|**[link](https://github.com/anonymwriter/iris-obfuscation-benchmark)**|
 |**2025-04-14**|**EquiVDM: Equivariant Video Diffusion Models with Temporally Consistent Noise**|Chao Liu et.al.|[2504.09789](http://arxiv.org/abs/2504.09789)|null|
 |**2025-04-12**|**No-Regret Generative Modeling via Parabolic Monge-Ampère PDE**|Nabarun Deb et.al.|[2504.09279](http://arxiv.org/abs/2504.09279)|null|
 |**2025-04-11**|**End-to-End Demonstration of Quantum Generative Adversarial Networks for Steel Microstructure Image Augmentation on a Trapped-Ion Quantum Computer**|Samwel Sekwao et.al.|[2504.08728](http://arxiv.org/abs/2504.08728)|null|
@@ -2293,20 +2293,20 @@
 |**2023-03-14**|**3D Face Arbitrary Style Transfer**|Xiangwen Deng et.al.|[2303.07709](http://arxiv.org/abs/2303.07709)|null|
 |**2023-03-13**|**AGTGAN: Unpaired Image Translation for Photographic Ancient Character Generation**|Hongxiang Huang et.al.|[2303.07012](http://arxiv.org/abs/2303.07012)|**[link](https://github.com/hellomystery/agtgan)**|
 
-<p align=right>(<a href=#Updated-on-20250419>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250420>back to top</a>)</p>
 
 ## Diffusion Model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-17**|**Personalized Text-to-Image Generation with Auto-Regressive Models**|Kaiyue Sun et.al.|[2504.13162](http://arxiv.org/abs/2504.13162)|null|
+|**2025-04-17**|**Personalized Text-to-Image Generation with Auto-Regressive Models**|Kaiyue Sun et.al.|[2504.13162](http://arxiv.org/abs/2504.13162)|**[link](https://github.com/kaiyuesun98/t2i-personalization-with-ar)**|
 |**2025-04-17**|**UniEdit-Flow: Unleashing Inversion and Editing in the Era of Flow Models**|Guanlong Jiao et.al.|[2504.13109](http://arxiv.org/abs/2504.13109)|null|
 |**2025-04-17**|**SkyReels-V2: Infinite-length Film Generative Model**|Guibin Chen et.al.|[2504.13074](http://arxiv.org/abs/2504.13074)|null|
-|**2025-04-17**|**TTRD3: Texture Transfer Residual Denoising Dual Diffusion Model for Remote Sensing Image Super-Resolution**|Yide Liu et.al.|[2504.13026](http://arxiv.org/abs/2504.13026)|null|
-|**2025-04-17**|**Image-Editing Specialists: An RLAIF Approach for Diffusion Models**|Elior Benarous et.al.|[2504.12833](http://arxiv.org/abs/2504.12833)|null|
+|**2025-04-17**|**TTRD3: Texture Transfer Residual Denoising Dual Diffusion Model for Remote Sensing Image Super-Resolution**|Yide Liu et.al.|[2504.13026](http://arxiv.org/abs/2504.13026)|**[link](https://github.com/led-666/ttrd3)**|
+|**2025-04-17**|**Image-Editing Specialists: An RLAIF Approach for Diffusion Models**|Elior Benarous et.al.|[2504.12833](http://arxiv.org/abs/2504.12833)|**[link](https://github.com/ebenarous/editspecialists)**|
 |**2025-04-17**|**Privacy Protection Against Personalized Text-to-Image Synthesis via Cross-image Consistency Constraints**|Guanyu Wang et.al.|[2504.12747](http://arxiv.org/abs/2504.12747)|null|
 |**2025-04-17**|**A0: An Affordance-Aware Hierarchical Model for General Robotic Manipulation**|Rongtao Xu et.al.|[2504.12636](http://arxiv.org/abs/2504.12636)|null|
-|**2025-04-17**|**Packing Input Frame Context in Next-Frame Prediction Models for Video Generation**|Lvmin Zhang et.al.|[2504.12626](http://arxiv.org/abs/2504.12626)|null|
+|**2025-04-17**|**Packing Input Frame Context in Next-Frame Prediction Models for Video Generation**|Lvmin Zhang et.al.|[2504.12626](http://arxiv.org/abs/2504.12626)|**[link](https://github.com/lllyasviel/framepack)**|
 |**2025-04-17**|**Prompt-Driven and Training-Free Forgetting Approach and Dataset for Large Language Models**|Zhenyu Yu et.al.|[2504.12574](http://arxiv.org/abs/2504.12574)|null|
 |**2025-04-16**|**Generalization through variance: how noise shapes inductive biases in diffusion models**|John J. Vastola et.al.|[2504.12532](http://arxiv.org/abs/2504.12532)|null|
 |**2025-04-16**|**Diffusion Based Robust LiDAR Place Recognition**|Benjamin Krummenacher et.al.|[2504.12412](http://arxiv.org/abs/2504.12412)|null|
@@ -9317,7 +9317,7 @@
 |**2023-03-15**|**DiffBEV: Conditional Diffusion Model for Bird's Eye View Perception**|Jiayu Zou et.al.|[2303.08333](http://arxiv.org/abs/2303.08333)|**[link](https://github.com/jiayuzou2020/diffbev)**|
 |**2023-03-16**|**VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation**|Zhengxiong Luo et.al.|[2303.08320](http://arxiv.org/abs/2303.08320)|null|
 
-<p align=right>(<a href=#Updated-on-20250419>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250420>back to top</a>)</p>
 
 ## Image Edit
 
@@ -9325,24 +9325,24 @@
 |---|---|---|---|---|
 |**2025-04-17**|**$\texttt{Complex-Edit}$ : CoT-Like Instruction Generation for Complexity-Controllable Image Editing Benchmark**|Siwei Yang et.al.|[2504.13143](http://arxiv.org/abs/2504.13143)|null|
 |**2025-04-17**|**UniEdit-Flow: Unleashing Inversion and Editing in the Era of Flow Models**|Guanlong Jiao et.al.|[2504.13109](http://arxiv.org/abs/2504.13109)|null|
-|**2025-04-17**|**Image-Editing Specialists: An RLAIF Approach for Diffusion Models**|Elior Benarous et.al.|[2504.12833](http://arxiv.org/abs/2504.12833)|null|
-|**2025-04-17**|**Saliency-Aware Diffusion Reconstruction for Effective Invisible Watermark Removal**|Inzamamul Alam et.al.|[2504.12809](http://arxiv.org/abs/2504.12809)|null|
+|**2025-04-17**|**Image-Editing Specialists: An RLAIF Approach for Diffusion Models**|Elior Benarous et.al.|[2504.12833](http://arxiv.org/abs/2504.12833)|**[link](https://github.com/ebenarous/editspecialists)**|
+|**2025-04-17**|**Saliency-Aware Diffusion Reconstruction for Effective Invisible Watermark Removal**|Inzamamul Alam et.al.|[2504.12809](http://arxiv.org/abs/2504.12809)|**[link](https://github.com/inzamamuldu/sadre)**|
 |**2025-04-17**|**SmartFreeEdit: Mask-Free Spatial-Aware Image Editing with Complex Instruction Understanding**|Qianqian Sun et.al.|[2504.12704](http://arxiv.org/abs/2504.12704)|null|
 |**2025-04-17**|**AdaQual-Diff: Diffusion-Based Image Restoration via Adaptive Quality Prompting**|Xin Su et.al.|[2504.12605](http://arxiv.org/abs/2504.12605)|null|
 |**2025-04-16**|**Deep Generative Models for Bayesian Inference on High-Rate Sensor Data: Applications in Automotive Radar and Medical Imaging**|Tristan S. W. Stevens et.al.|[2504.12154](http://arxiv.org/abs/2504.12154)|null|
 |**2025-04-16**|**Zooming In on Fakes: A Novel Dataset for Localized AI-Generated Image Detection with Forgery Amplification Approach**|Lvpan Cai et.al.|[2504.11922](http://arxiv.org/abs/2504.11922)|null|
 |**2025-04-16**|**HyperKING: Quantum-Classical Generative Adversarial Networks for Hyperspectral Image Restoration**|Chia-Hsiang Lin et.al.|[2504.11782](http://arxiv.org/abs/2504.11782)|null|
 |**2025-04-15**|**Efficient Medical Image Restoration via Reliability Guided Learning in Frequency Domain**|Pengcheng Zheng et.al.|[2504.11286](http://arxiv.org/abs/2504.11286)|null|
-|**2025-04-15**|**An Efficient and Mixed Heterogeneous Model for Image Restoration**|Yubin Gu et.al.|[2504.10967](http://arxiv.org/abs/2504.10967)|null|
-|**2025-04-14**|**Enhancing Image Restoration through Learning Context-Rich and Detail-Accurate Features**|Hu Gao et.al.|[2504.10558](http://arxiv.org/abs/2504.10558)|null|
-|**2025-04-14**|**Anchor Token Matching: Implicit Structure Locking for Training-free AR Image Editing**|Taihang Hu et.al.|[2504.10434](http://arxiv.org/abs/2504.10434)|null|
+|**2025-04-15**|**An Efficient and Mixed Heterogeneous Model for Image Restoration**|Yubin Gu et.al.|[2504.10967](http://arxiv.org/abs/2504.10967)|**[link](https://github.com/climbin/restormixer)**|
+|**2025-04-14**|**Enhancing Image Restoration through Learning Context-Rich and Detail-Accurate Features**|Hu Gao et.al.|[2504.10558](http://arxiv.org/abs/2504.10558)|**[link](https://github.com/tombs98/lcdnet)**|
+|**2025-04-14**|**Anchor Token Matching: Implicit Structure Locking for Training-free AR Image Editing**|Taihang Hu et.al.|[2504.10434](http://arxiv.org/abs/2504.10434)|**[link](https://github.com/hutaihang/atm)**|
 |**2025-04-14**|**PG-DPIR: An efficient plug-and-play method for high-count Poisson-Gaussian inverse problems**|Maud Biquard et.al.|[2504.10375](http://arxiv.org/abs/2504.10375)|null|
-|**2025-04-14**|**VibrantLeaves: A principled parametric image generator for training deep restoration models**|Raphael Achddou et.al.|[2504.10201](http://arxiv.org/abs/2504.10201)|null|
+|**2025-04-14**|**VibrantLeaves: A principled parametric image generator for training deep restoration models**|Raphael Achddou et.al.|[2504.10201](http://arxiv.org/abs/2504.10201)|**[link](https://github.com/rachddou/deadleavesplus)**|
 |**2025-04-14**|**Progressive Transfer Learning for Multi-Pass Fundus Image Restoration**|Uyen Phan et.al.|[2504.10025](http://arxiv.org/abs/2504.10025)|null|
-|**2025-04-14**|**Beyond Degradation Redundancy: Contrastive Prompt Learning for All-in-One Image Restoration**|Gang Wu et.al.|[2504.09973](http://arxiv.org/abs/2504.09973)|null|
-|**2025-04-13**|**SPICE: A Synergistic, Precise, Iterative, and Customizable Image Editing Workflow**|Kenan Tang et.al.|[2504.09697](http://arxiv.org/abs/2504.09697)|null|
+|**2025-04-14**|**Beyond Degradation Redundancy: Contrastive Prompt Learning for All-in-One Image Restoration**|Gang Wu et.al.|[2504.09973](http://arxiv.org/abs/2504.09973)|**[link](https://github.com/aitical/cplir)**|
+|**2025-04-13**|**SPICE: A Synergistic, Precise, Iterative, and Customizable Image Editing Workflow**|Kenan Tang et.al.|[2504.09697](http://arxiv.org/abs/2504.09697)|**[link](https://github.com/kenantang/spice)**|
 |**2025-04-13**|**Computationally iterative methods for salt-and-pepper denoising**|Jianwei Ke et.al.|[2504.09408](http://arxiv.org/abs/2504.09408)|null|
-|**2025-04-12**|**Beyond Degradation Conditions: All-in-One Image Restoration via HOG Transformers**|Jiawei Wu et.al.|[2504.09377](http://arxiv.org/abs/2504.09377)|null|
+|**2025-04-12**|**Beyond Degradation Conditions: All-in-One Image Restoration via HOG Transformers**|Jiawei Wu et.al.|[2504.09377](http://arxiv.org/abs/2504.09377)|**[link](https://github.com/fire-friend/hogformer)**|
 |**2025-04-11**|**ZipIR: Latent Pyramid Diffusion Transformer for High-Resolution Image Restoration**|Yongsheng Yu et.al.|[2504.08591](http://arxiv.org/abs/2504.08591)|null|
 |**2025-04-11**|**CoProSketch: Controllable and Progressive Sketch Generation with Diffusion Model**|Ruohao Zhan et.al.|[2504.08259](http://arxiv.org/abs/2504.08259)|null|
 |**2025-04-11**|**VL-UR: Vision-Language-guided Universal Restoration of Images Degraded by Adverse Weather Conditions**|Ziyan Liu et.al.|[2504.08219](http://arxiv.org/abs/2504.08219)|null|
@@ -10637,7 +10637,7 @@
 |**2023-02-20**|**A Large Scale Homography Benchmark**|Daniel Barath et.al.|[2302.09997](http://arxiv.org/abs/2302.09997)|null|
 |**2023-02-19**|**LC-NeRF: Local Controllable Face Generation in Neural Randiance Field**|Wenyang Zhou et.al.|[2302.09486](http://arxiv.org/abs/2302.09486)|null|
 
-<p align=right>(<a href=#Updated-on-20250419>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250420>back to top</a>)</p>
 
 ## NeRF
 
@@ -10991,13 +10991,13 @@
 |**2022-12-30**|**NeRF-Gaze: A Head-Eye Redirection Parametric Model for Gaze Estimation**|Pengwei Yin et.al.|[2212.14710](http://arxiv.org/abs/2212.14710)|null|
 |**2023-03-21**|**Masked Wavelet Representation for Compact Neural Radiance Fields**|Daniel Rho et.al.|[2212.09069](http://arxiv.org/abs/2212.09069)|**[link](https://github.com/daniel03c1/masked_wavelet_nerf)**|
 
-<p align=right>(<a href=#Updated-on-20250419>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250420>back to top</a>)</p>
 
 ## Reshaping
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-13**|**SPICE: A Synergistic, Precise, Iterative, and Customizable Image Editing Workflow**|Kenan Tang et.al.|[2504.09697](http://arxiv.org/abs/2504.09697)|null|
+|**2025-04-13**|**SPICE: A Synergistic, Precise, Iterative, and Customizable Image Editing Workflow**|Kenan Tang et.al.|[2504.09697](http://arxiv.org/abs/2504.09697)|**[link](https://github.com/kenantang/spice)**|
 |**2025-03-23**|**DiffusionTalker: Efficient and Compact Speech-Driven 3D Talking Head via Personalizer-Guided Distillation**|Peng Chen et.al.|[2503.18159](http://arxiv.org/abs/2503.18159)|**[link](https://github.com/chenvoid/diffusiontalker)**|
 |**2025-03-14**|**Cafe-Talk: Generating 3D Talking Face Animation with Multimodal Coarse- and Fine-grained Control**|Hejia Chen et.al.|[2503.14517](http://arxiv.org/abs/2503.14517)|null|
 |**2025-03-01**|**Towards High-fidelity 3D Talking Avatar with Personalized Dynamic Texture**|Xuanchen Li et.al.|[2503.00495](http://arxiv.org/abs/2503.00495)|null|
@@ -11058,7 +11058,7 @@
 |**2022-05-13**|**F3A-GAN: Facial Flow for Face Animation with Generative Adversarial Networks**|Xintian Wu et.al.|[2205.06204](http://arxiv.org/abs/2205.06204)|null|
 |**2022-03-16**|**Efficient conditioned face animation using frontally-viewed embedding**|Maxime Oquab et.al.|[2203.08765](http://arxiv.org/abs/2203.08765)|null|
 
-<p align=right>(<a href=#Updated-on-20250419>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250420>back to top</a>)</p>
 
 ## Portrait 
 
@@ -11542,7 +11542,7 @@
 |**2023-03-01**|**DPE: Disentanglement of Pose and Expression for General Video Portrait Editing**|Youxin Pang et.al.|[2301.06281](http://arxiv.org/abs/2301.06281)|null|
 |**2023-01-03**|**StyleTalk: One-shot Talking Head Generation with Controllable Speaking Styles**|Yifeng Ma et.al.|[2301.01081](http://arxiv.org/abs/2301.01081)|**[link](https://github.com/fuxivirtualhuman/styletalk)**|
 
-<p align=right>(<a href=#Updated-on-20250419>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250420>back to top</a>)</p>
 
 ## Transfomer
 
@@ -11582,5 +11582,5 @@
 |**2012-01-21**|**Interior Static Stellar Model with Electric Charge as an Oscillator**|A. M. Baranov et.al.|[1201.4429](http://arxiv.org/abs/1201.4429)|null|
 |**2011-05-16**|**Exactness of the Euclidean algorithm and of the Rauzy induction on the space of interval exchange transfomations**|Tomasz Miernowski et.al.|[1104.3980](http://arxiv.org/abs/1104.3980)|null|
 
-<p align=right>(<a href=#Updated-on-20250419>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250420>back to top</a>)</p>
 

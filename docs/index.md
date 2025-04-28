@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.27
+## Updated on 2025.04.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -50,7 +50,7 @@ layout: default
 |**2025-04-21**|**StyleMe3D: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians**|Cailin Zhuang et.al.|[2504.15281](http://arxiv.org/abs/2504.15281)|null|
 |**2025-04-21**|**Fast-Slow Co-advancing Optimizer: Toward Harmonious Adversarial Training of GAN**|Lin Wang et.al.|[2504.15099](http://arxiv.org/abs/2504.15099)|null|
 |**2025-04-20**|**IXGS-Intraoperative 3D Reconstruction from Sparse, Arbitrarily Posed Real X-rays**|Sascha Jecklin et.al.|[2504.14699](http://arxiv.org/abs/2504.14699)|null|
-|**2025-04-19**|**Learning and Generating Diverse Residential Load Patterns Using GAN with Weakly-Supervised Training and Weight Selection**|Xinyu Liang et.al.|[2504.14300](http://arxiv.org/abs/2504.14300)|null|
+|**2025-04-25**|**Learning and Generating Diverse Residential Load Patterns Using GAN with Weakly-Supervised Training and Weight Selection**|Xinyu Liang et.al.|[2504.14300](http://arxiv.org/abs/2504.14300)|null|
 |**2025-04-19**|**Can AI Recognize the Style of Art? Analyzing Aesthetics through the Lens of Style Transfer**|Yunha Yeo et.al.|[2504.14272](http://arxiv.org/abs/2504.14272)|null|
 |**2025-04-18**|**Collective Learning Mechanism based Optimal Transport Generative Adversarial Network for Non-parallel Voice Conversion**|Sandipan Dhar et.al.|[2504.13791](http://arxiv.org/abs/2504.13791)|null|
 |**2025-04-18**|**SupResDiffGAN a new approach for the Super-Resolution task**|Dawid Kopeć et.al.|[2504.13622](http://arxiv.org/abs/2504.13622)|null|

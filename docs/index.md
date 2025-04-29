@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.28
+## Updated on 2025.04.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -43,7 +43,7 @@ layout: default
 |**2025-04-24**|**CANet: ChronoAdaptive Network for Enhanced Long-Term Time Series Forecasting under Non-Stationarity**|Mert Sonmezer et.al.|[2504.17913](http://arxiv.org/abs/2504.17913)|null|
 |**2025-04-24**|**A Machine Learning Approach for Denoising and Upsampling HRTFs**|Xuyi Hu et.al.|[2504.17586](http://arxiv.org/abs/2504.17586)|null|
 |**2025-04-24**|**Towards Generalized and Training-Free Text-Guided Semantic Manipulation**|Yu Hong et.al.|[2504.17269](http://arxiv.org/abs/2504.17269)|null|
-|**2025-04-23**|**Statistical Guarantees in Synthetic Data through Conformal Adversarial Generation**|Rahul Vishwakarma et.al.|[2504.17058](http://arxiv.org/abs/2504.17058)|null|
+|**2025-04-25**|**Statistical Guarantees in Synthetic Data through Conformal Adversarial Generation**|Rahul Vishwakarma et.al.|[2504.17058](http://arxiv.org/abs/2504.17058)|null|
 |**2025-04-23**|**A Comprehensive Survey of Synthetic Tabular Data Generation**|Ruxue Shi et.al.|[2504.16506](http://arxiv.org/abs/2504.16506)|null|
 |**2025-04-22**|**Survey of Video Diffusion Models: Foundations, Implementations, and Applications**|Yimu Wang et.al.|[2504.16081](http://arxiv.org/abs/2504.16081)|null|
 |**2025-04-22**|**New Recipe for Semi-supervised Community Detection: Clique Annealing under Crystallization Kinetics**|Ling Cheng et.al.|[2504.15927](http://arxiv.org/abs/2504.15927)|null|
@@ -2311,10 +2311,10 @@ layout: default
 |**2025-04-25**|**Enhancing Privacy-Utility Trade-offs to Mitigate Memorization in Diffusion Models**|Chen Chen et.al.|[2504.18032](http://arxiv.org/abs/2504.18032)|null|
 |**2025-04-25**|**Diffusion-Driven Universal Model Inversion Attack for Face Recognition**|Hanrui Wang et.al.|[2504.18015](http://arxiv.org/abs/2504.18015)|null|
 |**2025-04-24**|**DCT-Shield: A Robust Frequency Domain Defense against Malicious Image Editing**|Aniruddha Bala et.al.|[2504.17894](http://arxiv.org/abs/2504.17894)|null|
-|**2025-04-24**|**Evolution Meets Diffusion: Efficient Neural Architecture Generation**|Bingye Zhou et.al.|[2504.17827](http://arxiv.org/abs/2504.17827)|null|
+|**2025-04-28**|**Evolution Meets Diffusion: Efficient Neural Architecture Generation**|Bingye Zhou et.al.|[2504.17827](http://arxiv.org/abs/2504.17827)|null|
 |**2025-04-24**|**Dual Prompting Image Restoration with Diffusion Transformers**|Dehong Kong et.al.|[2504.17825](http://arxiv.org/abs/2504.17825)|null|
 |**2025-04-24**|**LiDPM: Rethinking Point Diffusion for Lidar Scene Completion**|Tetiana Martyniuk et.al.|[2504.17791](http://arxiv.org/abs/2504.17791)|null|
-|**2025-04-24**|**Token-Shuffle: Towards High-Resolution Image Generation with Autoregressive Models**|Xu Ma et.al.|[2504.17789](http://arxiv.org/abs/2504.17789)|null|
+|**2025-04-27**|**Token-Shuffle: Towards High-Resolution Image Generation with Autoregressive Models**|Xu Ma et.al.|[2504.17789](http://arxiv.org/abs/2504.17789)|null|
 |**2025-04-24**|**polyGen: A Learning Framework for Atomic-level Polymer Structure Generation**|Ayush Jain et.al.|[2504.17656](http://arxiv.org/abs/2504.17656)|null|
 |**2025-04-24**|**Beyond Labels: Zero-Shot Diabetic Foot Ulcer Wound Segmentation with Self-attention Diffusion Models and the Potential for Text-Guided Customization**|Abderrachid Hamrani et.al.|[2504.17628](http://arxiv.org/abs/2504.17628)|null|
 |**2025-04-24**|**ESDiff: Encoding Strategy-inspired Diffusion Model with Few-shot Learning for Color Image Inpainting**|Junyan Zhang et.al.|[2504.17524](http://arxiv.org/abs/2504.17524)|null|
@@ -9411,7 +9411,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-24**|**DCT-Shield: A Robust Frequency Domain Defense against Malicious Image Editing**|Aniruddha Bala et.al.|[2504.17894](http://arxiv.org/abs/2504.17894)|null|
 |**2025-04-24**|**Dual Prompting Image Restoration with Diffusion Transformers**|Dehong Kong et.al.|[2504.17825](http://arxiv.org/abs/2504.17825)|null|
-|**2025-04-24**|**Step1X-Edit: A Practical Framework for General Image Editing**|Shiyu Liu et.al.|[2504.17761](http://arxiv.org/abs/2504.17761)|null|
+|**2025-04-28**|**Step1X-Edit: A Practical Framework for General Image Editing**|Shiyu Liu et.al.|[2504.17761](http://arxiv.org/abs/2504.17761)|null|
 |**2025-04-24**|**DPMambaIR:All-in-One Image Restoration via Degradation-Aware Prompt State Space Model**|Zhanwen Liu et.al.|[2504.17732](http://arxiv.org/abs/2504.17732)|null|
 |**2025-04-24**|**Generative Fields: Uncovering Hierarchical Feature Control for StyleGAN via Inverted Receptive Fields**|Zhuo He et.al.|[2504.17712](http://arxiv.org/abs/2504.17712)|null|
 |**2025-04-24**|**Inverse-Designed Metasurfaces for Wavefront Restoration in Under-Display Camera Systems**|Jaegang Jo et.al.|[2504.17368](http://arxiv.org/abs/2504.17368)|null|

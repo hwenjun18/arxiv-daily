@@ -51,6 +51,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-29**|**Digital Shielding for Cross-Domain Wi-Fi Signal Adaptation using Relativistic Average Generative Adversarial Network**|Danilo Avola et.al.|[2504.20568](http://arxiv.org/abs/2504.20568)|null|
+|**2025-04-29**|**Generate more than one child in your co-evolutionary semi-supervised learning GAN**|Francisco Sedeño et.al.|[2504.20560](http://arxiv.org/abs/2504.20560)|null|
 |**2025-04-28**|**DeeCLIP: A Robust and Generalizable Transformer-Based Framework for Detecting AI-Generated Images**|Mamadou Keita et.al.|[2504.19876](http://arxiv.org/abs/2504.19876)|null|
 |**2025-04-28**|**Transformation & Translation Occupancy Grid Mapping: 2-Dimensional Deep Learning Refined SLAM**|Leon Davies et.al.|[2504.19654](http://arxiv.org/abs/2504.19654)|null|
 |**2025-04-28**|**GAN-SLAM: Real-Time GAN Aided Floor Plan Creation Through SLAM**|Leon Davies et.al.|[2504.19653](http://arxiv.org/abs/2504.19653)|null|
@@ -2326,6 +2328,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-29**|**AI-GenBench: A New Ongoing Benchmark for AI-Generated Image Detection**|Lorenzo Pellegrini et.al.|[2504.20865](http://arxiv.org/abs/2504.20865)|null|
+|**2025-04-29**|**SoccerDiffusion: Toward Learning End-to-End Humanoid Robot Soccer from Gameplay Recordings**|Florian Vahl et.al.|[2504.20808](http://arxiv.org/abs/2504.20808)|null|
+|**2025-04-29**|**JTreeformer: Graph-Transformer via Latent-Diffusion Model for Molecular Generation**|Ji Shi et.al.|[2504.20770](http://arxiv.org/abs/2504.20770)|null|
+|**2025-04-29**|**DDPS: Discrete Diffusion Posterior Sampling for Paths in Layered Graphs**|Hao Luan et.al.|[2504.20754](http://arxiv.org/abs/2504.20754)|null|
+|**2025-04-29**|**LDPoly: Latent Diffusion for Polygonal Road Outline Extraction in Large-Scale Topographic Mapping**|Weiqin Jiao et.al.|[2504.20645](http://arxiv.org/abs/2504.20645)|null|
+|**2025-04-29**|**DiffusionRIR: Room Impulse Response Interpolation using Diffusion Models**|Sagi Della Torre et.al.|[2504.20625](http://arxiv.org/abs/2504.20625)|null|
+|**2025-04-29**|**TriniMark: A Robust Generative Speech Watermarking Method for Trinity-Level Attribution**|Yue Li et.al.|[2504.20532](http://arxiv.org/abs/2504.20532)|null|
+|**2025-04-29**|**Dynamic Attention Analysis for Backdoor Detection in Text-to-Image Diffusion Models**|Zhongqi Wang et.al.|[2504.20518](http://arxiv.org/abs/2504.20518)|null|
+|**2025-04-29**|**Reviving Any-Subset Autoregressive Models with Principled Parallel Sampling and Speculative Decoding**|Gabe Guo et.al.|[2504.20456](http://arxiv.org/abs/2504.20456)|null|
+|**2025-04-29**|**ADiff4TPP: Asynchronous Diffusion Models for Temporal Point Processes**|Amartya Mukherjee et.al.|[2504.20411](http://arxiv.org/abs/2504.20411)|null|
+|**2025-04-28**|**Image Interpolation with Score-based Riemannian Metrics of Diffusion Models**|Shinnosuke Saito et.al.|[2504.20288](http://arxiv.org/abs/2504.20288)|null|
+|**2025-04-28**|**Generative Diffusion Models for Resource Allocation in Wireless Networks**|Yigit Berkay Uslu et.al.|[2504.20277](http://arxiv.org/abs/2504.20277)|null|
+|**2025-04-28**|**Physics-Informed Diffusion Models for SAR Ship Wake Generation from Text Prompts**|Kamirul Kamirul et.al.|[2504.20241](http://arxiv.org/abs/2504.20241)|null|
+|**2025-04-28**|**Integration Flow Models**|Jingjing Wang et.al.|[2504.20179](http://arxiv.org/abs/2504.20179)|null|
 |**2025-04-28**|**DeeCLIP: A Robust and Generalizable Transformer-Based Framework for Detecting AI-Generated Images**|Mamadou Keita et.al.|[2504.19876](http://arxiv.org/abs/2504.19876)|null|
 |**2025-04-28**|**CoherenDream: Boosting Holistic Text Coherence in 3D Generation via Multimodal Large Language Models Feedback**|Chenhan Jiang et.al.|[2504.19860](http://arxiv.org/abs/2504.19860)|null|
 |**2025-04-28**|**Multimodal Conditioned Diffusive Time Series Forecasting**|Chen Su et.al.|[2504.19669](http://arxiv.org/abs/2504.19669)|null|
@@ -9451,6 +9467,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-29**|**In-Context Edit: Enabling Instructional Image Editing with In-Context Generation in Large Scale Diffusion Transformer**|Zechuan Zhang et.al.|[2504.20690](http://arxiv.org/abs/2504.20690)|null|
+|**2025-04-29**|**PixelHacker: Image Inpainting with Structural and Semantic Consistency**|Ziyang Xu et.al.|[2504.20438](http://arxiv.org/abs/2504.20438)|null|
 |**2025-04-27**|**Marine Snow Removal Using Internally Generated Pseudo Ground Truth**|Alexandra Malyugina et.al.|[2504.19289](http://arxiv.org/abs/2504.19289)|null|
 |**2025-04-27**|**Rendering Anywhere You See: Renderability Field-guided Gaussian Splatting**|Xiaofeng Jin et.al.|[2504.19261](http://arxiv.org/abs/2504.19261)|null|
 |**2025-04-27**|**CapsFake: A Multimodal Capsule Network for Detecting Instruction-Guided Deepfakes**|Tuan Nguyen et.al.|[2504.19212](http://arxiv.org/abs/2504.19212)|null|
@@ -11221,6 +11239,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-29**|**Real-time blow-up and connection graphs of rational vector fields on the Riemann sphere**|Bernold Fiedler et.al.|[2504.20503](http://arxiv.org/abs/2504.20503)|null|
 |**2025-04-29**|**IM-Portrait: Learning 3D-aware Video Diffusion for Photorealistic Talking Heads from Monocular Videos**|Yuan Li et.al.|[2504.19165](http://arxiv.org/abs/2504.19165)|null|
 |**2025-04-25**|**Dynamics of polynomial generalized Liénard system near the origin and infinity**|Jun Zhang et.al.|[2504.18438](http://arxiv.org/abs/2504.18438)|null|
 |**2025-04-25**|**Disentangle Identity, Cooperate Emotion: Correlation-Aware Emotional Talking Portrait Generation**|Weipeng Tan et.al.|[2504.18087](http://arxiv.org/abs/2504.18087)|null|

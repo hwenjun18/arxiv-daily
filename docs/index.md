@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.06
+## Updated on 2025.05.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -2328,14 +2328,14 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-05**|**Towards Dataset Copyright Evasion Attack against Personalized Text-to-Image Diffusion Models**|Kuofeng Gao et.al.|[2505.02824](http://arxiv.org/abs/2505.02824)|null|
 |**2025-05-05**|**Advancing Generalizable Tumor Segmentation with Anomaly-Aware Open-Vocabulary Attention Maps and Frozen Foundation Diffusion Models**|Yankai Jiang et.al.|[2505.02753](http://arxiv.org/abs/2505.02753)|null|
-|**2025-05-05**|**MCCD: Multi-Agent Collaboration-based Compositional Diffusion for Complex Text-to-Image Generation**|Mingcheng Li et.al.|[2505.02648](http://arxiv.org/abs/2505.02648)|null|
-|**2025-05-05**|**Resolving Memorization in Empirical Diffusion Model for Manifold Data in High-Dimensional Spaces**|Yang Lyu et.al.|[2505.02508](http://arxiv.org/abs/2505.02508)|null|
+|**2025-05-06**|**MCCD: Multi-Agent Collaboration-based Compositional Diffusion for Complex Text-to-Image Generation**|Mingcheng Li et.al.|[2505.02648](http://arxiv.org/abs/2505.02648)|null|
+|**2025-05-06**|**Resolving Memorization in Empirical Diffusion Model for Manifold Data in High-Dimensional Spaces**|Yang Lyu et.al.|[2505.02508](http://arxiv.org/abs/2505.02508)|null|
 |**2025-05-05**|**Ming-Lite-Uni: Advancements in Unified Architecture for Natural Multimodal Interaction**|Biao Gong et.al.|[2505.02471](http://arxiv.org/abs/2505.02471)|null|
 |**2025-05-05**|**Predicting the Dynamics of Complex System via Multiscale Diffusion Autoencoder**|Ruikun Li et.al.|[2505.02450](http://arxiv.org/abs/2505.02450)|null|
 |**2025-05-05**|**T2S: High-resolution Time Series Generation with Text-to-Series Diffusion Models**|Yunfeng Ge et.al.|[2505.02417](http://arxiv.org/abs/2505.02417)|null|
 |**2025-05-04**|**Enhancing AI Face Realism: Cost-Efficient Quality Improvement in Distilled Diffusion Models with a Fully Synthetic Dataset**|Jakub Wąsala et.al.|[2505.02255](http://arxiv.org/abs/2505.02255)|null|
 |**2025-05-04**|**Quantizing Diffusion Models from a Sampling-Aware Perspective**|Qian Zeng et.al.|[2505.02242](http://arxiv.org/abs/2505.02242)|null|
-|**2025-05-04**|**Regression s all you need for medical image translation**|Sebastian Rassmann et.al.|[2505.02048](http://arxiv.org/abs/2505.02048)|null|
+|**2025-05-06**|**Regression is all you need for medical image translation**|Sebastian Rassmann et.al.|[2505.02048](http://arxiv.org/abs/2505.02048)|null|
 |**2025-05-03**|**Discrete Spatial Diffusion: Intensity-Preserving Diffusion Modeling**|Javier E. Santos et.al.|[2505.01917](http://arxiv.org/abs/2505.01917)|null|
 |**2025-05-03**|**Rethinking Score Distilling Sampling for 3D Editing and Generation**|Xingyu Miao et.al.|[2505.01888](http://arxiv.org/abs/2505.01888)|null|
 |**2025-05-03**|**DualDiff: Dual-branch Diffusion Model for Autonomous Driving with Semantic Fusion**|Haoteng Li et.al.|[2505.01857](http://arxiv.org/abs/2505.01857)|null|
@@ -9535,7 +9535,7 @@ layout: default
 |**2025-04-26**|**REED-VAE: RE-Encode Decode Training for Iterative Image Editing with Diffusion Models**|Gal Almog et.al.|[2504.18989](http://arxiv.org/abs/2504.18989)|null|
 |**2025-04-24**|**DCT-Shield: A Robust Frequency Domain Defense against Malicious Image Editing**|Aniruddha Bala et.al.|[2504.17894](http://arxiv.org/abs/2504.17894)|null|
 |**2025-04-24**|**Dual Prompting Image Restoration with Diffusion Transformers**|Dehong Kong et.al.|[2504.17825](http://arxiv.org/abs/2504.17825)|null|
-|**2025-04-28**|**Step1X-Edit: A Practical Framework for General Image Editing**|Shiyu Liu et.al.|[2504.17761](http://arxiv.org/abs/2504.17761)|null|
+|**2025-05-06**|**Step1X-Edit: A Practical Framework for General Image Editing**|Shiyu Liu et.al.|[2504.17761](http://arxiv.org/abs/2504.17761)|null|
 |**2025-04-24**|**DPMambaIR:All-in-One Image Restoration via Degradation-Aware Prompt State Space Model**|Zhanwen Liu et.al.|[2504.17732](http://arxiv.org/abs/2504.17732)|null|
 |**2025-04-24**|**Generative Fields: Uncovering Hierarchical Feature Control for StyleGAN via Inverted Receptive Fields**|Zhuo He et.al.|[2504.17712](http://arxiv.org/abs/2504.17712)|null|
 |**2025-04-24**|**Inverse-Designed Metasurfaces for Wavefront Restoration in Under-Display Camera Systems**|Jaegang Jo et.al.|[2504.17368](http://arxiv.org/abs/2504.17368)|null|

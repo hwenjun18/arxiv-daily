@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.07
+## Updated on 2025.05.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -39,7 +39,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-04**|**Robust AI-Generated Face Detection with Imbalanced Data**|Yamini Sri Krubha et.al.|[2505.02182](http://arxiv.org/abs/2505.02182)|null|
+|**2025-05-04**|**Robust AI-Generated Face Detection with Imbalanced Data**|Yamini Sri Krubha et.al.|[2505.02182](http://arxiv.org/abs/2505.02182)|**[link](https://github.com/purdue-m2/sp_cup)**|
 |**2025-05-03**|**PhytoSynth: Leveraging Multi-modal Generative Models for Crop Disease Data Generation with Novel Benchmarking and Prompt Engineering Approach**|Nitin Rai et.al.|[2505.01823](http://arxiv.org/abs/2505.01823)|null|
 |**2025-05-02**|**Deep Learning-Enabled System Diagnosis in Microgrids: A Feature-Feedback GAN Approach**|Swetha Rani Kasimalla et.al.|[2505.01366](http://arxiv.org/abs/2505.01366)|null|
 |**2025-05-01**|**Data-Driven Optical To Thermal Inference in Pool Boiling Using Generative Adversarial Networks**|Qianxi Fu et.al.|[2505.00823](http://arxiv.org/abs/2505.00823)|null|
@@ -2328,13 +2328,13 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-06**|**CaRaFFusion: Improving 2D Semantic Segmentation with Camera-Radar Point Cloud Fusion and Zero-Shot Image Inpainting**|Huawei Sun et.al.|[2505.03679](http://arxiv.org/abs/2505.03679)|null|
 |**2025-05-06**|**Distribution-Conditional Generation: From Class Distribution to Creative Generation**|Fu Feng et.al.|[2505.03667](http://arxiv.org/abs/2505.03667)|null|
-|**2025-05-06**|**Bounding Box-Guided Diffusion for Synthesizing Industrial Images and Segmentation Map**|Alessandro Simoni et.al.|[2505.03623](http://arxiv.org/abs/2505.03623)|null|
-|**2025-05-06**|**PAHA: Parts-Aware Audio-Driven Human Animation with Diffusion Model**|Y. B. Wang et.al.|[2505.03603](http://arxiv.org/abs/2505.03603)|null|
+|**2025-05-06**|**Bounding Box-Guided Diffusion for Synthesizing Industrial Images and Segmentation Map**|Alessandro Simoni et.al.|[2505.03623](http://arxiv.org/abs/2505.03623)|**[link](https://github.com/covisionlab/diffusion_labeling)**|
+|**2025-05-07**|**PAHA: Parts-Aware Audio-Driven Human Animation with Diffusion Model**|Y. B. Wang et.al.|[2505.03603](http://arxiv.org/abs/2505.03603)|null|
 |**2025-05-06**|**A Comprehensive Survey of Large AI Models for Future Communications: Foundations, Applications and Challenges**|Feibo Jiang et.al.|[2505.03556](http://arxiv.org/abs/2505.03556)|null|
 |**2025-05-06**|**Phenotype-Guided Generative Model for High-Fidelity Cardiac MRI Synthesis: Advancing Pretraining and Clinical Applications**|Ziyu Li et.al.|[2505.03426](http://arxiv.org/abs/2505.03426)|null|
 |**2025-05-06**|**Safer Prompts: Reducing IP Risk in Visual Generative AI**|Lena Reissinger et.al.|[2505.03338](http://arxiv.org/abs/2505.03338)|null|
 |**2025-05-06**|**FLUX-Text: A Simple and Advanced Diffusion Transformer Baseline for Scene Text Editing**|Rui Lan et.al.|[2505.03329](http://arxiv.org/abs/2505.03329)|null|
-|**2025-05-06**|**Mamba-Diffusion Model with Learnable Wavelet for Controllable Symbolic Music Generation**|Jincheng Zhang et.al.|[2505.03314](http://arxiv.org/abs/2505.03314)|null|
+|**2025-05-06**|**Mamba-Diffusion Model with Learnable Wavelet for Controllable Symbolic Music Generation**|Jincheng Zhang et.al.|[2505.03314](http://arxiv.org/abs/2505.03314)|**[link](https://github.com/jinchengzhanggg/proffusion)**|
 |**2025-05-06**|**A piston to counteract diffusion: The influence of an inward-shifting boundary on the heat equation in half-space**|Samuel Tréton et.al.|[2505.03304](http://arxiv.org/abs/2505.03304)|null|
 |**2025-05-06**|**DiffVQA: Video Quality Assessment Using Diffusion Feature Extractor**|Wei-Ting Chen et.al.|[2505.03261](http://arxiv.org/abs/2505.03261)|null|
 |**2025-05-06**|**PiCo: Enhancing Text-Image Alignment with Improved Noise Selection and Precise Mask Control in Diffusion Models**|Chang Xie et.al.|[2505.03203](http://arxiv.org/abs/2505.03203)|null|
@@ -2343,7 +2343,7 @@ layout: default
 |**2025-05-06**|**Enhancing Glass Defect Detection with Diffusion Models: Addressing Imbalanced Datasets in Manufacturing Quality Control**|Sajjad Rezvani Boroujeni et.al.|[2505.03134](http://arxiv.org/abs/2505.03134)|null|
 |**2025-05-06**|**Not All Parameters Matter: Masking Diffusion Models for Enhancing Generation Ability**|Lei Wang et.al.|[2505.03097](http://arxiv.org/abs/2505.03097)|null|
 |**2025-05-05**|**Towards Dataset Copyright Evasion Attack against Personalized Text-to-Image Diffusion Models**|Kuofeng Gao et.al.|[2505.02824](http://arxiv.org/abs/2505.02824)|null|
-|**2025-05-05**|**Advancing Generalizable Tumor Segmentation with Anomaly-Aware Open-Vocabulary Attention Maps and Frozen Foundation Diffusion Models**|Yankai Jiang et.al.|[2505.02753](http://arxiv.org/abs/2505.02753)|null|
+|**2025-05-05**|**Advancing Generalizable Tumor Segmentation with Anomaly-Aware Open-Vocabulary Attention Maps and Frozen Foundation Diffusion Models**|Yankai Jiang et.al.|[2505.02753](http://arxiv.org/abs/2505.02753)|**[link](https://github.com/yankai96/diffugts)**|
 |**2025-05-06**|**MCCD: Multi-Agent Collaboration-based Compositional Diffusion for Complex Text-to-Image Generation**|Mingcheng Li et.al.|[2505.02648](http://arxiv.org/abs/2505.02648)|null|
 |**2025-05-06**|**Resolving Memorization in Empirical Diffusion Model for Manifold Data in High-Dimensional Spaces**|Yang Lyu et.al.|[2505.02508](http://arxiv.org/abs/2505.02508)|null|
 |**2025-05-05**|**Ming-Lite-Uni: Advancements in Unified Architecture for Natural Multimodal Interaction**|Biao Gong et.al.|[2505.02471](http://arxiv.org/abs/2505.02471)|null|
@@ -9533,8 +9533,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-05**|**Ming-Lite-Uni: Advancements in Unified Architecture for Natural Multimodal Interaction**|Biao Gong et.al.|[2505.02471](http://arxiv.org/abs/2505.02471)|null|
-|**2025-05-05**|**SuperEdit: Rectifying and Facilitating Supervision for Instruction-Based Image Editing**|Ming Li et.al.|[2505.02370](http://arxiv.org/abs/2505.02370)|null|
+|**2025-05-07**|**Ming-Lite-Uni: Advancements in Unified Architecture for Natural Multimodal Interaction**|Inclusion AI et.al.|[2505.02471](http://arxiv.org/abs/2505.02471)|**[link](https://github.com/inclusionai/ming)**|
+|**2025-05-05**|**SuperEdit: Rectifying and Facilitating Supervision for Instruction-Based Image Editing**|Ming Li et.al.|[2505.02370](http://arxiv.org/abs/2505.02370)|**[link](https://github.com/bytedance/superedit)**|
 |**2025-05-03**|**Multi-Scale Target-Aware Representation Learning for Fundus Image Enhancement**|Haofan Wu et.al.|[2505.01831](http://arxiv.org/abs/2505.01831)|null|
 |**2025-05-02**|**Deblurring fission fragment mass distributions**|Pierre Nzabahimana et.al.|[2505.01294](http://arxiv.org/abs/2505.01294)|null|
 |**2025-05-02**|**Improving Editability in Image Generation with Layer-wise Memory**|Daneul Kim et.al.|[2505.01079](http://arxiv.org/abs/2505.01079)|null|
@@ -9551,7 +9551,7 @@ layout: default
 |**2025-04-26**|**REED-VAE: RE-Encode Decode Training for Iterative Image Editing with Diffusion Models**|Gal Almog et.al.|[2504.18989](http://arxiv.org/abs/2504.18989)|null|
 |**2025-04-24**|**DCT-Shield: A Robust Frequency Domain Defense against Malicious Image Editing**|Aniruddha Bala et.al.|[2504.17894](http://arxiv.org/abs/2504.17894)|null|
 |**2025-04-24**|**Dual Prompting Image Restoration with Diffusion Transformers**|Dehong Kong et.al.|[2504.17825](http://arxiv.org/abs/2504.17825)|null|
-|**2025-05-06**|**Step1X-Edit: A Practical Framework for General Image Editing**|Shiyu Liu et.al.|[2504.17761](http://arxiv.org/abs/2504.17761)|null|
+|**2025-05-06**|**Step1X-Edit: A Practical Framework for General Image Editing**|Shiyu Liu et.al.|[2504.17761](http://arxiv.org/abs/2504.17761)|**[link](https://github.com/stepfun-ai/step1x-edit)**|
 |**2025-04-24**|**DPMambaIR:All-in-One Image Restoration via Degradation-Aware Prompt State Space Model**|Zhanwen Liu et.al.|[2504.17732](http://arxiv.org/abs/2504.17732)|null|
 |**2025-04-24**|**Generative Fields: Uncovering Hierarchical Feature Control for StyleGAN via Inverted Receptive Fields**|Zhuo He et.al.|[2504.17712](http://arxiv.org/abs/2504.17712)|null|
 |**2025-04-24**|**Inverse-Designed Metasurfaces for Wavefront Restoration in Under-Display Camera Systems**|Jaegang Jo et.al.|[2504.17368](http://arxiv.org/abs/2504.17368)|null|

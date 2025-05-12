@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.11
+## Updated on 2025.05.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -40,17 +40,17 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-08**|**Does CLIP perceive art the same way we do?**|Andrea Asperti et.al.|[2505.05229](http://arxiv.org/abs/2505.05229)|null|
-|**2025-05-08**|**FlexSpeech: Towards Stable, Controllable and Expressive Text-to-Speech**|Linhan Ma et.al.|[2505.05159](http://arxiv.org/abs/2505.05159)|null|
+|**2025-05-09**|**FlexSpeech: Towards Stable, Controllable and Expressive Text-to-Speech**|Linhan Ma et.al.|[2505.05159](http://arxiv.org/abs/2505.05159)|null|
 |**2025-05-07**|**RLMiniStyler: Light-weight RL Style Agent for Arbitrary Sequential Neural Style Generation**|Jing Hu et.al.|[2505.04424](http://arxiv.org/abs/2505.04424)|null|
 |**2025-05-07**|**A Large Language Model for Feasible and Diverse Population Synthesis**|Sung Yoo Lim et.al.|[2505.04196](http://arxiv.org/abs/2505.04196)|null|
-|**2025-05-08**|**MAISY: Motion-Aware Image SYnthesis for Medical Image Motion Correction**|Andrew Zhang et.al.|[2505.04105](http://arxiv.org/abs/2505.04105)|null|
+|**2025-05-09**|**MAISY: Motion-Aware Image SYnthesis for Medical Image Motion Correction**|Andrew Zhang et.al.|[2505.04105](http://arxiv.org/abs/2505.04105)|null|
 |**2025-05-06**|**nuGAN: Generative Adversarial Emulator for Cosmic Web with Neutrinos**|Neerav Kaushal et.al.|[2505.03936](http://arxiv.org/abs/2505.03936)|null|
 |**2025-05-06**|**Machine Learning: a Lecture Note**|Kyunghyun Cho et.al.|[2505.03861](http://arxiv.org/abs/2505.03861)|null|
 |**2025-05-04**|**Robust AI-Generated Face Detection with Imbalanced Data**|Yamini Sri Krubha et.al.|[2505.02182](http://arxiv.org/abs/2505.02182)|**[link](https://github.com/purdue-m2/sp_cup)**|
 |**2025-05-03**|**PhytoSynth: Leveraging Multi-modal Generative Models for Crop Disease Data Generation with Novel Benchmarking and Prompt Engineering Approach**|Nitin Rai et.al.|[2505.01823](http://arxiv.org/abs/2505.01823)|null|
 |**2025-05-02**|**Deep Learning-Enabled System Diagnosis in Microgrids: A Feature-Feedback GAN Approach**|Swetha Rani Kasimalla et.al.|[2505.01366](http://arxiv.org/abs/2505.01366)|null|
 |**2025-05-01**|**Data-Driven Optical To Thermal Inference in Pool Boiling Using Generative Adversarial Networks**|Qianxi Fu et.al.|[2505.00823](http://arxiv.org/abs/2505.00823)|null|
-|**2025-05-01**|**Steering Large Language Models with Register Analysis for Arbitrary Style Transfer**|Xinchen Yang et.al.|[2505.00679](http://arxiv.org/abs/2505.00679)|null|
+|**2025-05-09**|**Steering Large Language Models with Register Analysis for Arbitrary Style Transfer**|Xinchen Yang et.al.|[2505.00679](http://arxiv.org/abs/2505.00679)|null|
 |**2025-05-01**|**Stealth Signals: Multi-Discriminator GANs for Covert Communications Against Diverse Wardens**|Afan Ali et.al.|[2505.00399](http://arxiv.org/abs/2505.00399)|null|
 |**2025-05-01**|**GAN-based Generator of Adversarial Attack on Intelligent End-to-End Autoencoder-based Communication System**|Jianyuan Chen et.al.|[2505.00395](http://arxiv.org/abs/2505.00395)|null|
 |**2025-05-01**|**Denoising weak lensing mass maps with diffusion model: systematic comparison with generative adversarial network**|Shohei D. Aoyama et.al.|[2505.00345](http://arxiv.org/abs/2505.00345)|null|
@@ -11364,7 +11364,7 @@ layout: default
 |**2025-05-07**|**Personalized Risks and Regulatory Strategies of Large Language Models in Digital Advertising**|Haoyang Feng et.al.|[2505.04665](http://arxiv.org/abs/2505.04665)|null|
 |**2025-05-06**|**Generating Synthetic Data via Augmentations for Improved Facial Resemblance in DreamBooth and InstantID**|Koray Ulusan et.al.|[2505.03557](http://arxiv.org/abs/2505.03557)|null|
 |**2025-05-05**|**On the spin-orbit problem for highly elliptical orbits and recursive excitation**|Erica Scantamburlo et.al.|[2505.03028](http://arxiv.org/abs/2505.03028)|null|
-|**2025-05-04**|**Enhancing AI Face Realism: Cost-Efficient Quality Improvement in Distilled Diffusion Models with a Fully Synthetic Dataset**|Jakub Wąsala et.al.|[2505.02255](http://arxiv.org/abs/2505.02255)|null|
+|**2025-05-08**|**Enhancing AI Face Realism: Cost-Efficient Quality Improvement in Distilled Diffusion Models with a Fully Synthetic Dataset**|Jakub Wasala et.al.|[2505.02255](http://arxiv.org/abs/2505.02255)|null|
 |**2025-05-02**|**Value Portrait: Understanding Values of LLMs with Human-aligned Benchmark**|Jongwook Han et.al.|[2505.01015](http://arxiv.org/abs/2505.01015)|null|
 |**2025-05-01**|**Graph Privacy: A Heterogeneous Federated GNN for Trans-Border Financial Data Circulation**|Zhizhong Tan et.al.|[2505.00257](http://arxiv.org/abs/2505.00257)|null|
 |**2025-04-30**|**A generic dynamical system formulation for Bianchi-I cosmology with isotropic fluid in $f(Q)$ gravity**|Ghulam Murtaza et.al.|[2504.21757](http://arxiv.org/abs/2504.21757)|null|

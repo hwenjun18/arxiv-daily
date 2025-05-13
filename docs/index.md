@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.12
+## Updated on 2025.05.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -2348,11 +2348,11 @@ layout: default
 |**2025-05-09**|**Semantic-Space-Intervened Diffusive Alignment for Visual Classification**|Zixuan Li et.al.|[2505.05721](http://arxiv.org/abs/2505.05721)|null|
 |**2025-05-08**|**Unsupervised Blind Speech Separation with a Diffusion Prior**|Zhongweiyang Xu et.al.|[2505.05657](http://arxiv.org/abs/2505.05657)|**[link](https://github.com/arraydps/arraydps)**|
 |**2025-05-08**|**ReactDance: Progressive-Granular Representation for Long-Term Coherent Reactive Dance Generation**|Jingzhong Lin et.al.|[2505.05589](http://arxiv.org/abs/2505.05589)|null|
-|**2025-05-08**|**Prompt to Polyp: Clinically-Aware Medical Image Synthesis with Diffusion Models**|Mikhail Chaichuk et.al.|[2505.05573](http://arxiv.org/abs/2505.05573)|**[link](https://github.com/thundercondor/imageclefmed-medvqa-gi-2024-mmcp-team)**|
+|**2025-05-12**|**Prompt to Polyp: Medical Text-Conditioned Image Synthesis with Diffusion Models**|Mikhail Chaichuk et.al.|[2505.05573](http://arxiv.org/abs/2505.05573)|**[link](https://github.com/thundercondor/imageclefmed-medvqa-gi-2024-mmcp-team)**|
 |**2025-05-08**|**SVAD: From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation**|Yonwoo Choi et.al.|[2505.05475](http://arxiv.org/abs/2505.05475)|**[link](https://github.com/yc4ny/SVAD)**|
 |**2025-05-08**|**3D Scene Generation: A Survey**|Beichen Wen et.al.|[2505.05474](http://arxiv.org/abs/2505.05474)|**[link](https://github.com/hzxie/awesome-3d-scene-generation)**|
 |**2025-05-08**|**DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion**|Qitao Zhao et.al.|[2505.05473](http://arxiv.org/abs/2505.05473)|null|
-|**2025-05-08**|**Mogao: An Omni Foundation Model for Interleaved Multi-Modal Generation**|Chao Liao et.al.|[2505.05472](http://arxiv.org/abs/2505.05472)|null|
+|**2025-05-11**|**Mogao: An Omni Foundation Model for Interleaved Multi-Modal Generation**|Chao Liao et.al.|[2505.05472](http://arxiv.org/abs/2505.05472)|null|
 |**2025-05-08**|**Denoising Diffusion Probabilistic Models for Coastal Inundation Forecasting**|Kazi Ashik Islam et.al.|[2505.05381](http://arxiv.org/abs/2505.05381)|null|
 |**2025-05-08**|**Diffusion Model Quantization: A Review**|Qian Zeng et.al.|[2505.05215](http://arxiv.org/abs/2505.05215)|null|
 |**2025-05-08**|**EAM: Enhancing Anything with Diffusion Transformers for Blind Super-Resolution**|Haizhen Xie et.al.|[2505.05209](http://arxiv.org/abs/2505.05209)|null|
@@ -9595,9 +9595,9 @@ layout: default
 |**2025-05-08**|**A Preliminary Study for GPT-4o on Image Restoration**|Hao Yang et.al.|[2505.05621](http://arxiv.org/abs/2505.05621)|**[link](https://github.com/noxsine/gpt_restoration)**|
 |**2025-05-07**|**Image Restoration via Multi-domain Learning**|Xingyu Jiang et.al.|[2505.05504](http://arxiv.org/abs/2505.05504)|null|
 |**2025-05-08**|**SVAD: From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation**|Yonwoo Choi et.al.|[2505.05475](http://arxiv.org/abs/2505.05475)|**[link](https://github.com/yc4ny/SVAD)**|
-|**2025-05-08**|**Mogao: An Omni Foundation Model for Interleaved Multi-Modal Generation**|Chao Liao et.al.|[2505.05472](http://arxiv.org/abs/2505.05472)|null|
+|**2025-05-11**|**Mogao: An Omni Foundation Model for Interleaved Multi-Modal Generation**|Chao Liao et.al.|[2505.05472](http://arxiv.org/abs/2505.05472)|null|
 |**2025-05-08**|**EAM: Enhancing Anything with Diffusion Transformers for Blind Super-Resolution**|Haizhen Xie et.al.|[2505.05209](http://arxiv.org/abs/2505.05209)|null|
-|**2025-05-08**|**MDE-Edit: Masked Dual-Editing for Multi-Object Image Editing via Diffusion Models**|Hongyang Zhu et.al.|[2505.05101](http://arxiv.org/abs/2505.05101)|null|
+|**2025-05-12**|**MDE-Edit: Masked Dual-Editing for Multi-Object Image Editing via Diffusion Models**|Hongyang Zhu et.al.|[2505.05101](http://arxiv.org/abs/2505.05101)|null|
 |**2025-05-08**|**GlyphMastero: A Glyph Encoder for High-Fidelity Scene Text Editing**|Tong Wang et.al.|[2505.04915](http://arxiv.org/abs/2505.04915)|null|
 |**2025-05-07**|**Lay-Your-Scene: Natural Scene Layout Generation with Diffusion Transformers**|Divyansh Srivastava et.al.|[2505.04718](http://arxiv.org/abs/2505.04718)|null|
 |**2025-05-07**|**Multi-turn Consistent Image Editing**|Zijun Zhou et.al.|[2505.04320](http://arxiv.org/abs/2505.04320)|null|
@@ -11314,7 +11314,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-30**|**MagicPortrait: Temporally Consistent Face Reenactment with 3D Geometric Guidance**|Mengting Wei et.al.|[2504.21497](http://arxiv.org/abs/2504.21497)|null|
+|**2025-05-10**|**MagicPortrait: Temporally Consistent Face Reenactment with 3D Geometric Guidance**|Mengting Wei et.al.|[2504.21497](http://arxiv.org/abs/2504.21497)|null|
 |**2025-04-13**|**SPICE: A Synergistic, Precise, Iterative, and Customizable Image Editing Workflow**|Kenan Tang et.al.|[2504.09697](http://arxiv.org/abs/2504.09697)|**[link](https://github.com/kenantang/spice)**|
 |**2025-03-23**|**DiffusionTalker: Efficient and Compact Speech-Driven 3D Talking Head via Personalizer-Guided Distillation**|Peng Chen et.al.|[2503.18159](http://arxiv.org/abs/2503.18159)|**[link](https://github.com/chenvoid/diffusiontalker)**|
 |**2025-03-14**|**Cafe-Talk: Generating 3D Talking Face Animation with Multimodal Coarse- and Fine-grained Control**|Hejia Chen et.al.|[2503.14517](http://arxiv.org/abs/2503.14517)|null|

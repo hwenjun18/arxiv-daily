@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.13
+## Updated on 2025.05.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -2354,7 +2354,7 @@ layout: default
 |**2025-05-11**|**DAPE: Dual-Stage Parameter-Efficient Fine-Tuning for Consistent Video Editing with Diffusion Models**|Junhao Xia et.al.|[2505.07057](http://arxiv.org/abs/2505.07057)|null|
 |**2025-05-11**|**CMD: Controllable Multiview Diffusion for 3D Editing and Progressive Generation**|Peng Li et.al.|[2505.07003](http://arxiv.org/abs/2505.07003)|null|
 |**2025-05-11**|**Replay-Based Continual Learning with Dual-Layered Distillation and a Streamlined U-Net for Efficient Text-to-Image Generation**|Md. Naimur Asif Borno et.al.|[2505.06995](http://arxiv.org/abs/2505.06995)|null|
-|**2025-05-11**|**Unsupervised Learning for Class Distribution Mismatch**|Pan Du et.al.|[2505.06948](http://arxiv.org/abs/2505.06948)|null|
+|**2025-05-11**|**Unsupervised Learning for Class Distribution Mismatch**|Pan Du et.al.|[2505.06948](http://arxiv.org/abs/2505.06948)|**[link](https://github.com/ruc-dwbi-ml/research)**|
 |**2025-05-11**|**Near-Field Channel Estimation for XL-MIMO: A Deep Generative Model Guided by Side Information**|Zhenzhou Jin et.al.|[2505.06900](http://arxiv.org/abs/2505.06900)|null|
 |**2025-05-11**|**Image Classification Using a Diffusion Model as a Pre-Training Model**|Kosuke Ukita et.al.|[2505.06890](http://arxiv.org/abs/2505.06890)|null|
 |**2025-05-11**|**Topology Guidance: Controlling the Outputs of Generative Models via Vector Field Topology**|Xiaohan Wang et.al.|[2505.06804](http://arxiv.org/abs/2505.06804)|null|
@@ -10986,7 +10986,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-10**|**Gaussian Wave Splatting for Computer-Generated Holography**|Suyeon Choi et.al.|[2505.06582](http://arxiv.org/abs/2505.06582)|null|
 |**2025-05-09**|**RefRef: A Synthetic Dataset and Benchmark for Reconstructing Refractive and Reflective Objects**|Yue Yin et.al.|[2505.05848](http://arxiv.org/abs/2505.05848)|null|
-|**2025-05-07**|**SGCR: Spherical Gaussians for Efficient 3D Curve Reconstruction**|Xinran Yang et.al.|[2505.04668](http://arxiv.org/abs/2505.04668)|null|
+|**2025-05-07**|**SGCR: Spherical Gaussians for Efficient 3D Curve Reconstruction**|Xinran Yang et.al.|[2505.04668](http://arxiv.org/abs/2505.04668)|**[link](https://github.com/martinyxr/sgcr)**|
 |**2025-04-22**|**Pose Optimization for Autonomous Driving Datasets using Neural Rendering Models**|Quentin Herau et.al.|[2504.15776](http://arxiv.org/abs/2504.15776)|null|
 |**2025-04-23**|**SEGA: Drivable 3D Gaussian Head Avatar from a Single Image**|Chen Guo et.al.|[2504.14373](http://arxiv.org/abs/2504.14373)|null|
 |**2025-04-21**|**SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM**|Samuel Cerezo et.al.|[2504.13713](http://arxiv.org/abs/2504.13713)|**[link](https://github.com/samuel-cerezo/SLAM-Render)**|

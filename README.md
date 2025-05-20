@@ -51,6 +51,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**A Comprehensive Benchmarking Platform for Deep Generative Models in Molecular Design**|Adarsh Singh et.al.|[2505.12848](http://arxiv.org/abs/2505.12848)|null|
+|**2025-05-19**|**A Study on the Refining Handwritten Font by Mixing Font Styles**|Avinash Kumar et.al.|[2505.12834](http://arxiv.org/abs/2505.12834)|**[link](https://github.com/KumarAvinash44/FontFusionGAN)**|
+|**2025-05-19**|**SynDec: A Synthesize-then-Decode Approach for Arbitrary Textual Style Transfer via Large Language Models**|Han Sun et.al.|[2505.12821](http://arxiv.org/abs/2505.12821)|null|
+|**2025-05-18**|**Few-Shot Concept Unlearning with Low Rank Adaptation**|Udaya Shreyas et.al.|[2505.12395](http://arxiv.org/abs/2505.12395)|null|
+|**2025-05-17**|**Behind the Screens: Uncovering Bias in AI-Driven Video Interview Assessments Using Counterfactuals**|Dena F. Mujtaba et.al.|[2505.12114](http://arxiv.org/abs/2505.12114)|null|
+|**2025-05-17**|**Facial Recognition Leveraging Generative Adversarial Networks**|Zhongwen Li et.al.|[2505.11884](http://arxiv.org/abs/2505.11884)|null|
+|**2025-05-17**|**CL-BioGAN: Biologically-Inspired Cross-Domain Continual Learning for Hyperspectral Anomaly Detection**|Jianing Wang et.al.|[2505.11796](http://arxiv.org/abs/2505.11796)|null|
+|**2025-05-17**|**CL-CaGAN: Capsule differential adversarial continuous learning for cross-domain hyperspectral anomaly detection**|Jianing Wang et.al.|[2505.11793](http://arxiv.org/abs/2505.11793)|null|
+|**2025-05-16**|**Enhancing Network Anomaly Detection with Quantum GANs and Successive Data Injection for Multivariate Time Series**|Wajdi Hammami et.al.|[2505.11631](http://arxiv.org/abs/2505.11631)|null|
 |**2025-05-16**|**Improving Inference-Time Optimisation for Vocal Effects Style Transfer with a Gaussian Prior**|Chin-Yun Yu et.al.|[2505.11315](http://arxiv.org/abs/2505.11315)|null|
 |**2025-05-16**|**Deepfake Forensic Analysis: Source Dataset Attribution and Legal Implications of Synthetic Media Manipulation**|Massimiliano Cassia et.al.|[2505.11110](http://arxiv.org/abs/2505.11110)|null|
 |**2025-05-16**|**Generative Models in Computational Pathology: A Comprehensive Survey on Methods, Applications, and Challenges**|Yuan Zhang et.al.|[2505.10993](http://arxiv.org/abs/2505.10993)|null|
@@ -2365,6 +2374,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**Faster Video Diffusion with Trainable Sparse Attention**|Peiyuan Zhang et.al.|[2505.13389](http://arxiv.org/abs/2505.13389)|null|
+|**2025-05-19**|**Restoration Score Distillation: From Corrupted Diffusion Pretraining to One-Step High-Quality Generation**|Yasi Zhang et.al.|[2505.13377](http://arxiv.org/abs/2505.13377)|null|
+|**2025-05-19**|**Minimum-Excess-Work Guidance**|Christopher Kolloff et.al.|[2505.13375](http://arxiv.org/abs/2505.13375)|null|
+|**2025-05-19**|**One-Step Offline Distillation of Diffusion-based Models via Koopman Modeling**|Nimrod Berman et.al.|[2505.13358](http://arxiv.org/abs/2505.13358)|**[link](https://github.com/azencot-group/kdm)**|
+|**2025-05-19**|**FlowPure: Continuous Normalizing Flows for Adversarial Purification**|Elias Collaert et.al.|[2505.13280](http://arxiv.org/abs/2505.13280)|**[link](https://github.com/distrinet/flowpure)**|
+|**2025-05-19**|**Seeing the Unseen: How EMoE Unveils Bias in Text-to-Image Diffusion Models**|Lucas Berry et.al.|[2505.13273](http://arxiv.org/abs/2505.13273)|null|
+|**2025-05-19**|**Diffusion Models with Double Guidance: Generate with aggregated datasets**|Yanfeng Yang et.al.|[2505.13213](http://arxiv.org/abs/2505.13213)|null|
+|**2025-05-19**|**Higher fidelity perceptual image and video compression with a latent conditioned residual denoising diffusion model**|Jonas Brenig et.al.|[2505.13152](http://arxiv.org/abs/2505.13152)|**[link](https://github.com/jbrenig/rescdc)**|
+|**2025-05-19**|**Neurosymbolic Diffusion Models**|Emile van Krieken et.al.|[2505.13138](http://arxiv.org/abs/2505.13138)|null|
+|**2025-05-19**|**Constraint-Aware Diffusion Guidance for Robotics: Real-Time Obstacle Avoidance for Autonomous Racing**|Hao Ma et.al.|[2505.13131](http://arxiv.org/abs/2505.13131)|null|
+|**2025-05-19**|**Touch2Shape: Touch-Conditioned 3D Diffusion for Shape Exploration and Reconstruction**|Yuanbo Wang et.al.|[2505.13091](http://arxiv.org/abs/2505.13091)|null|
+|**2025-05-19**|**Anti-Inpainting: A Proactive Defense against Malicious Diffusion-based Inpainters under Unknown Conditions**|Yimao Guo et.al.|[2505.13023](http://arxiv.org/abs/2505.13023)|null|
+|**2025-05-19**|**LatentINDIGO: An INN-Guided Latent Diffusion Algorithm for Image Restoration**|Di You et.al.|[2505.12935](http://arxiv.org/abs/2505.12935)|null|
+|**2025-05-19**|**PhyDA: Physics-Guided Diffusion Models for Data Assimilation in Atmospheric Systems**|Hao Wang et.al.|[2505.12882](http://arxiv.org/abs/2505.12882)|null|
+|**2025-05-19**|**Confidence-Regulated Generative Diffusion Models for Reliable AI Agent Migration in Vehicular Metaverses**|Yingkai Kang et.al.|[2505.12710](http://arxiv.org/abs/2505.12710)|null|
+|**2025-05-19**|**CURE: Concept Unlearning via Orthogonal Representation Editing in Diffusion Models**|Shristi Das Biswas et.al.|[2505.12677](http://arxiv.org/abs/2505.12677)|null|
+|**2025-05-19**|**Few-Step Diffusion via Score identity Distillation**|Mingyuan Zhou et.al.|[2505.12674](http://arxiv.org/abs/2505.12674)|**[link](https://github.com/mingyuanzhou/sid-lsg)**|
+|**2025-05-19**|**Multi-View Wireless Sensing via Conditional Generative Learning: Framework and Model Design**|Ziqing Xing et.al.|[2505.12664](http://arxiv.org/abs/2505.12664)|null|
+|**2025-05-19**|**MVPainter: Accurate and Detailed 3D Texture Generation via Multi-View Diffusion with Geometric Control**|Mingqi Shao et.al.|[2505.12635](http://arxiv.org/abs/2505.12635)|null|
+|**2025-05-18**|**FreqSelect: Frequency-Aware fMRI-to-Image Reconstruction**|Junliang Ye et.al.|[2505.12552](http://arxiv.org/abs/2505.12552)|null|
 |**2025-05-16**|**QVGen: Pushing the Limit of Quantized Video Generative Models**|Yushi Huang et.al.|[2505.11497](http://arxiv.org/abs/2505.11497)|null|
 |**2025-05-16**|**Unsupervised Detection of Distribution Shift in Inverse Problems using Diffusion Models**|Shirin Shoushtari et.al.|[2505.11482](http://arxiv.org/abs/2505.11482)|null|
 |**2025-05-16**|**PSDiffusion: Harmonized Multi-Layer Image Generation via Layout and Appearance Alignment**|Dingbang Huang et.al.|[2505.11468](http://arxiv.org/abs/2505.11468)|null|
@@ -9712,6 +9741,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**Adaptive Image Restoration for Video Surveillance: A Real-Time Approach**|Muhammad Awais Amin et.al.|[2505.13130](http://arxiv.org/abs/2505.13130)|null|
+|**2025-05-19**|**LatentINDIGO: An INN-Guided Latent Diffusion Algorithm for Image Restoration**|Di You et.al.|[2505.12935](http://arxiv.org/abs/2505.12935)|null|
+|**2025-05-19**|**Towards a Universal Image Degradation Model via Content-Degradation Disentanglement**|Wenbo Yang et.al.|[2505.12860](http://arxiv.org/abs/2505.12860)|null|
+|**2025-05-19**|**Degradation-Aware Feature Perturbation for All-in-One Image Restoration**|Xiangpeng Tian et.al.|[2505.12630](http://arxiv.org/abs/2505.12630)|**[link](https://github.com/txphome/dfpir)**|
+|**2025-05-18**|**DragLoRA: Online Optimization of LoRA Adapters for Drag-based Image Editing in Diffusion Model**|Siwei Xia et.al.|[2505.12427](http://arxiv.org/abs/2505.12427)|**[link](https://github.com/sylvie-x/draglora)**|
+|**2025-05-18**|**Trustworthy Image Super-Resolution via Generative Pseudoinverse**|Andreas Floros et.al.|[2505.12375](http://arxiv.org/abs/2505.12375)|**[link](https://github.com/andreasfloros/trustworthy-super-resolution)**|
+|**2025-05-18**|**CompBench: Benchmarking Complex Instruction-guided Image Editing**|Bohan Jia et.al.|[2505.12200](http://arxiv.org/abs/2505.12200)|null|
+|**2025-05-16**|**X-Edit: Detecting and Localizing Edits in Images Altered by Text-Guided Diffusion Models**|Valentina Bazyleva et.al.|[2505.11753](http://arxiv.org/abs/2505.11753)|null|
 |**2025-05-16**|**GIE-Bench: Towards Grounded Evaluation for Text-Guided Image Editing**|Yusu Qian et.al.|[2505.11493](http://arxiv.org/abs/2505.11493)|null|
 |**2025-05-16**|**Diff-Unfolding: A Model-Based Score Learning Framework for Inverse Problems**|Yuanhao Wang et.al.|[2505.11393](http://arxiv.org/abs/2505.11393)|null|
 |**2025-05-15**|**torchmfbd: a flexible multi-object multi-frame blind deconvolution code**|A. Asensio Ramos et.al.|[2505.10639](http://arxiv.org/abs/2505.10639)|null|
@@ -11520,6 +11557,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-17**|**The dynamics of the Ehrhard-Müller system with invariant algebraic surfaces**|Jaume Llibre et.al.|[2505.12047](http://arxiv.org/abs/2505.12047)|null|
 |**2025-05-14**|**Test-Time Augmentation for Pose-invariant Face Recognition**|Jaemin Jung et.al.|[2505.09256](http://arxiv.org/abs/2505.09256)|null|
 |**2025-05-13**|**Phase-space analysis of an anisotropic universe in $f(Q,C)$ gravity**|Ghulam Murtaza et.al.|[2505.08274](http://arxiv.org/abs/2505.08274)|null|
 |**2025-05-12**|**Apple's Synthetic Defocus Noise Pattern: Characterization and Forensic Applications**|David Vázquez-Padín et.al.|[2505.07380](http://arxiv.org/abs/2505.07380)|null|

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.21
+## Updated on 2025.05.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -57,7 +57,7 @@ layout: default
 |**2025-05-17**|**CL-BioGAN: Biologically-Inspired Cross-Domain Continual Learning for Hyperspectral Anomaly Detection**|Jianing Wang et.al.|[2505.11796](http://arxiv.org/abs/2505.11796)|null|
 |**2025-05-17**|**CL-CaGAN: Capsule differential adversarial continuous learning for cross-domain hyperspectral anomaly detection**|Jianing Wang et.al.|[2505.11793](http://arxiv.org/abs/2505.11793)|null|
 |**2025-05-16**|**Enhancing Network Anomaly Detection with Quantum GANs and Successive Data Injection for Multivariate Time Series**|Wajdi Hammami et.al.|[2505.11631](http://arxiv.org/abs/2505.11631)|null|
-|**2025-05-16**|**Improving Inference-Time Optimisation for Vocal Effects Style Transfer with a Gaussian Prior**|Chin-Yun Yu et.al.|[2505.11315](http://arxiv.org/abs/2505.11315)|null|
+|**2025-05-16**|**Improving Inference-Time Optimisation for Vocal Effects Style Transfer with a Gaussian Prior**|Chin-Yun Yu et.al.|[2505.11315](http://arxiv.org/abs/2505.11315)|**[link](https://github.com/SonyResearch/diffvox)**|
 |**2025-05-16**|**Deepfake Forensic Analysis: Source Dataset Attribution and Legal Implications of Synthetic Media Manipulation**|Massimiliano Cassia et.al.|[2505.11110](http://arxiv.org/abs/2505.11110)|null|
 |**2025-05-16**|**Generative Models in Computational Pathology: A Comprehensive Survey on Methods, Applications, and Challenges**|Yuan Zhang et.al.|[2505.10993](http://arxiv.org/abs/2505.10993)|null|
 |**2025-05-15**|**ROIsGAN: A Region Guided Generative Adversarial Framework for Murine Hippocampal Subregion Segmentation**|Sayed Mehedi Azim et.al.|[2505.10687](http://arxiv.org/abs/2505.10687)|null|
@@ -2371,7 +2371,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-20**|**Training-Free Watermarking for Autoregressive Image Generation**|Yu Tong et.al.|[2505.14673](http://arxiv.org/abs/2505.14673)|null|
 |**2025-05-20**|**Dynadiff: Single-stage Decoding of Images from Continuously Evolving fMRI**|Marlène Careil et.al.|[2505.14556](http://arxiv.org/abs/2505.14556)|**[link](https://github.com/facebookresearch/dynadiff)**|
-|**2025-05-20**|**SparC: Sparse Representation and Construction for High-Resolution 3D Shapes Modeling**|Zhihao Li et.al.|[2505.14521](http://arxiv.org/abs/2505.14521)|null|
+|**2025-05-21**|**Sparc3D: Sparse Representation and Construction for High-Resolution 3D Shapes Modeling**|Zhihao Li et.al.|[2505.14521](http://arxiv.org/abs/2505.14521)|null|
 |**2025-05-20**|**Learning to Integrate Diffusion ODEs by Averaging the Derivatives**|Wenze Liu et.al.|[2505.14502](http://arxiv.org/abs/2505.14502)|null|
 |**2025-05-20**|**CtrlDiff: Boosting Large Diffusion Language Models with Dynamic Block Prediction and Controllable Generation**|Chihan Huang et.al.|[2505.14455](http://arxiv.org/abs/2505.14455)|null|
 |**2025-05-20**|**Compositional amortized inference for large-scale hierarchical Bayesian models**|Jonas Arruda et.al.|[2505.14429](http://arxiv.org/abs/2505.14429)|null|
@@ -2386,8 +2386,8 @@ layout: default
 |**2025-05-20**|**Scalable Autoregressive 3D Molecule Generation**|Austin H. Cheng et.al.|[2505.13791](http://arxiv.org/abs/2505.13791)|null|
 |**2025-05-19**|**Score-Based Training for Energy-Based TTS Models**|Wanli Sun et.al.|[2505.13771](http://arxiv.org/abs/2505.13771)|null|
 |**2025-05-19**|**Improving Compositional Generation with Diffusion Models Using Lift Scores**|Chenning Yu et.al.|[2505.13740](http://arxiv.org/abs/2505.13740)|**[link](https://github.com/rainorangelemon/complift)**|
-|**2025-05-19**|**Adaptive Diffusion Constrained Sampling for Bimanual Robot Manipulation**|Haolei Tong et.al.|[2505.13667](http://arxiv.org/abs/2505.13667)|null|
-|**2025-05-19**|**Faster Video Diffusion with Trainable Sparse Attention**|Peiyuan Zhang et.al.|[2505.13389](http://arxiv.org/abs/2505.13389)|null|
+|**2025-05-21**|**Adaptive Diffusion Constrained Sampling for Bimanual Robot Manipulation**|Haolei Tong et.al.|[2505.13667](http://arxiv.org/abs/2505.13667)|null|
+|**2025-05-21**|**Faster Video Diffusion with Trainable Sparse Attention**|Peiyuan Zhang et.al.|[2505.13389](http://arxiv.org/abs/2505.13389)|null|
 |**2025-05-19**|**Restoration Score Distillation: From Corrupted Diffusion Pretraining to One-Step High-Quality Generation**|Yasi Zhang et.al.|[2505.13377](http://arxiv.org/abs/2505.13377)|null|
 |**2025-05-20**|**Minimum-Excess-Work Guidance**|Christopher Kolloff et.al.|[2505.13375](http://arxiv.org/abs/2505.13375)|null|
 |**2025-05-20**|**One-Step Offline Distillation of Diffusion-based Models via Koopman Modeling**|Nimrod Berman et.al.|[2505.13358](http://arxiv.org/abs/2505.13358)|**[link](https://github.com/azencot-group/kdm)**|
@@ -9762,8 +9762,8 @@ layout: default
 |**2025-05-20**|**CompBench: Benchmarking Complex Instruction-guided Image Editing**|Bohan Jia et.al.|[2505.12200](http://arxiv.org/abs/2505.12200)|null|
 |**2025-05-16**|**X-Edit: Detecting and Localizing Edits in Images Altered by Text-Guided Diffusion Models**|Valentina Bazyleva et.al.|[2505.11753](http://arxiv.org/abs/2505.11753)|null|
 |**2025-05-16**|**GIE-Bench: Towards Grounded Evaluation for Text-Guided Image Editing**|Yusu Qian et.al.|[2505.11493](http://arxiv.org/abs/2505.11493)|null|
-|**2025-05-16**|**Diff-Unfolding: A Model-Based Score Learning Framework for Inverse Problems**|Yuanhao Wang et.al.|[2505.11393](http://arxiv.org/abs/2505.11393)|null|
-|**2025-05-15**|**torchmfbd: a flexible multi-object multi-frame blind deconvolution code**|A. Asensio Ramos et.al.|[2505.10639](http://arxiv.org/abs/2505.10639)|null|
+|**2025-05-20**|**Diff-Unfolding: A Model-Based Score Learning Framework for Inverse Problems**|Yuanhao Wang et.al.|[2505.11393](http://arxiv.org/abs/2505.11393)|null|
+|**2025-05-15**|**torchmfbd: a flexible multi-object multi-frame blind deconvolution code**|A. Asensio Ramos et.al.|[2505.10639](http://arxiv.org/abs/2505.10639)|**[link](https://github.com/aasensio/torchmfbd)**|
 |**2025-05-15**|**3D-Fixup: Advancing Photo Editing with 3D Priors**|Yen-Chi Cheng et.al.|[2505.10566](http://arxiv.org/abs/2505.10566)|null|
 |**2025-05-14**|**Don't Forget your Inverse DDIM for Image Editing**|Guillermo Gomez-Trenado et.al.|[2505.09571](http://arxiv.org/abs/2505.09571)|null|
 |**2025-05-15**|**IntrinsicEdit: Precise generative image manipulation in intrinsic space**|Linjie Lyu et.al.|[2505.08889](http://arxiv.org/abs/2505.08889)|null|
@@ -11140,7 +11140,7 @@ layout: default
 |**2025-05-13**|**A Survey of 3D Reconstruction with Event Cameras: From Event-based Geometry to Neural 3D Rendering**|Chuanzhi Xu et.al.|[2505.08438](http://arxiv.org/abs/2505.08438)|null|
 |**2025-05-13**|**SpNeRF: Memory Efficient Sparse Volumetric Neural Rendering Accelerator for Edge Devices**|Yipu Zhang et.al.|[2505.08191](http://arxiv.org/abs/2505.08191)|null|
 |**2025-05-10**|**Gaussian Wave Splatting for Computer-Generated Holography**|Suyeon Choi et.al.|[2505.06582](http://arxiv.org/abs/2505.06582)|null|
-|**2025-05-16**|**RefRef: A Synthetic Dataset and Benchmark for Reconstructing Refractive and Reflective Objects**|Yue Yin et.al.|[2505.05848](http://arxiv.org/abs/2505.05848)|null|
+|**2025-05-16**|**RefRef: A Synthetic Dataset and Benchmark for Reconstructing Refractive and Reflective Objects**|Yue Yin et.al.|[2505.05848](http://arxiv.org/abs/2505.05848)|**[link](https://github.com/yueyin27/refref)**|
 |**2025-05-07**|**SGCR: Spherical Gaussians for Efficient 3D Curve Reconstruction**|Xinran Yang et.al.|[2505.04668](http://arxiv.org/abs/2505.04668)|**[link](https://github.com/martinyxr/sgcr)**|
 |**2025-04-22**|**Pose Optimization for Autonomous Driving Datasets using Neural Rendering Models**|Quentin Herau et.al.|[2504.15776](http://arxiv.org/abs/2504.15776)|null|
 |**2025-04-23**|**SEGA: Drivable 3D Gaussian Head Avatar from a Single Image**|Chen Guo et.al.|[2504.14373](http://arxiv.org/abs/2504.14373)|null|
@@ -11502,7 +11502,7 @@ layout: default
 |**2025-03-23**|**DiffusionTalker: Efficient and Compact Speech-Driven 3D Talking Head via Personalizer-Guided Distillation**|Peng Chen et.al.|[2503.18159](http://arxiv.org/abs/2503.18159)|**[link](https://github.com/chenvoid/diffusiontalker)**|
 |**2025-03-14**|**Cafe-Talk: Generating 3D Talking Face Animation with Multimodal Coarse- and Fine-grained Control**|Hejia Chen et.al.|[2503.14517](http://arxiv.org/abs/2503.14517)|null|
 |**2025-03-01**|**Towards High-fidelity 3D Talking Avatar with Personalized Dynamic Texture**|Xuanchen Li et.al.|[2503.00495](http://arxiv.org/abs/2503.00495)|null|
-|**2025-02-19**|**Bridging the Editing Gap in LLMs: FineEdit for Precise and Targeted Text Modifications**|Yiming Zeng et.al.|[2502.13358](http://arxiv.org/abs/2502.13358)|null|
+|**2025-05-20**|**FineEdit: Unlock Instruction-Based Text Editing for LLMs**|Yiming Zeng et.al.|[2502.13358](http://arxiv.org/abs/2502.13358)|null|
 |**2025-02-16**|**Organometallic-Inorganic Hybrid MXenes with Tunable Superconductivity**|Qi Fan et.al.|[2502.11035](http://arxiv.org/abs/2502.11035)|null|
 |**2025-01-29**|**Learning Semantic Facial Descriptors for Accurate Face Animation**|Lei Zhu et.al.|[2501.17718](http://arxiv.org/abs/2501.17718)|null|
 |**2024-11-26**|**Pantograph: A Fluid and Typed Structure Editor**|Jacob Prinz et.al.|[2411.16571](http://arxiv.org/abs/2411.16571)|null|

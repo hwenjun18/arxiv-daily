@@ -39,6 +39,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-22**|**Power-Law Decay Loss for Large Language Model Finetuning: Focusing on Information Sparsity to Enhance Generation Quality**|Jintian Shao et.al.|[2505.16900](http://arxiv.org/abs/2505.16900)|null|
+|**2025-05-22**|**Synthesis of Ventilator Dyssynchrony Waveforms using a Hybrid Generative Model and a Lung Model**|Sagar Deep Deb et.al.|[2505.16462](http://arxiv.org/abs/2505.16462)|null|
+|**2025-05-22**|**UBGAN: Enhancing Coded Speech with Blind and Guided Bandwidth Extension**|Kishan Gupta et.al.|[2505.16404](http://arxiv.org/abs/2505.16404)|null|
+|**2025-05-22**|**Style Transfer with Diffusion Models for Synthetic-to-Real Domain Adaptation**|Estelle Chigot et.al.|[2505.16360](http://arxiv.org/abs/2505.16360)|null|
+|**2025-05-22**|**Paired and Unpaired Image to Image Translation using Generative Adversarial Networks**|Gaurav Kumar et.al.|[2505.16310](http://arxiv.org/abs/2505.16310)|null|
+|**2025-05-21**|**Image-to-Image Translation with Diffusion Transformers and CLIP-Based Image Conditioning**|Qiang Zhu et.al.|[2505.16001](http://arxiv.org/abs/2505.16001)|null|
+|**2025-05-21**|**Generative AI for Autonomous Driving: A Review**|Katharina Winter et.al.|[2505.15863](http://arxiv.org/abs/2505.15863)|null|
 |**2025-05-21**|**GT^2-GS: Geometry-aware Texture Transfer for Gaussian Splatting**|Wenjie Liu et.al.|[2505.15208](http://arxiv.org/abs/2505.15208)|null|
 |**2025-05-20**|**TCSinger 2: Customizable Multilingual Zero-shot Singing Voice Synthesis**|Yu Zhang et.al.|[2505.14910](http://arxiv.org/abs/2505.14910)|null|
 |**2025-05-20**|**Handloom Design Generation Using Generative Networks**|Rajat Kanti Bhattacharjee et.al.|[2505.14330](http://arxiv.org/abs/2505.14330)|null|
@@ -2371,6 +2378,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-22**|**When Are Concepts Erased From Diffusion Models?**|Kevin Lu et.al.|[2505.17013](http://arxiv.org/abs/2505.17013)|null|
+|**2025-05-22**|**Guided Diffusion Sampling on Function Spaces with Applications to PDEs**|Jiachen Yao et.al.|[2505.17004](http://arxiv.org/abs/2505.17004)|null|
+|**2025-05-22**|**Pursuing Temporal-Consistent Video Virtual Try-On via Dynamic Pose Interaction**|Dong Li et.al.|[2505.16980](http://arxiv.org/abs/2505.16980)|null|
+|**2025-05-22**|**Incorporating Visual Correspondence into Diffusion Model for Virtual Try-On**|Siqi Wan et.al.|[2505.16977](http://arxiv.org/abs/2505.16977)|null|
+|**2025-05-22**|**Creatively Upscaling Images with Global-Regional Priors**|Yurui Qian et.al.|[2505.16976](http://arxiv.org/abs/2505.16976)|null|
+|**2025-05-22**|**Bigger Isn't Always Memorizing: Early Stopping Overparameterized Diffusion Models**|Alessandro Favero et.al.|[2505.16959](http://arxiv.org/abs/2505.16959)|null|
+|**2025-05-22**|**LLaDA-V: Large Language Diffusion Models with Visual Instruction Tuning**|Zebin You et.al.|[2505.16933](http://arxiv.org/abs/2505.16933)|null|
+|**2025-05-22**|**T2I-ConBench: Text-to-Image Benchmark for Continual Post-training**|Zhehao Huang et.al.|[2505.16875](http://arxiv.org/abs/2505.16875)|null|
+|**2025-05-22**|**Training-Free Efficient Video Generation via Dynamic Token Carving**|Yuechen Zhang et.al.|[2505.16864](http://arxiv.org/abs/2505.16864)|null|
+|**2025-05-22**|**Conditional Panoramic Image Generation via Masked Autoregressive Modeling**|Chaoyang Wang et.al.|[2505.16862](http://arxiv.org/abs/2505.16862)|null|
+|**2025-05-22**|**LaViDa: A Large Diffusion Language Model for Multimodal Understanding**|Shufan Li et.al.|[2505.16839](http://arxiv.org/abs/2505.16839)|null|
+|**2025-05-22**|**From EduVisBench to EduVisAgent: A Benchmark and Multi-Agent Framework for Pedagogical Visualization**|Haonian Ji et.al.|[2505.16832](http://arxiv.org/abs/2505.16832)|null|
+|**2025-05-22**|**SEED: Speaker Embedding Enhancement Diffusion Model**|KiHyun Nam et.al.|[2505.16798](http://arxiv.org/abs/2505.16798)|null|
+|**2025-05-22**|**Learning Flexible Forward Trajectories for Masked Molecular Diffusion**|Hyunjin Seo et.al.|[2505.16790](http://arxiv.org/abs/2505.16790)|null|
+|**2025-05-22**|**Forward-only Diffusion Probabilistic Models**|Ziwei Luo et.al.|[2505.16733](http://arxiv.org/abs/2505.16733)|**[link](https://github.com/Algolzw/FoD)**|
+|**2025-05-22**|**Masked Conditioning for Deep Generative Models**|Phillip Mueller et.al.|[2505.16725](http://arxiv.org/abs/2505.16725)|null|
+|**2025-05-22**|**Towards Coordinate- and Dimension-Agnostic Machine Learning for Partial Differential Equations**|Trung V. Phan et.al.|[2505.16549](http://arxiv.org/abs/2505.16549)|null|
+|**2025-05-22**|**Joint Relational Database Generation via Graph-Conditional Diffusion Models**|Mohamed Amine Ketata et.al.|[2505.16527](http://arxiv.org/abs/2505.16527)|null|
+|**2025-05-22**|**Beyond Face Swapping: A Diffusion-Based Digital Human Benchmark for Multimodal Deepfake Detection**|Jiaxin Liu et.al.|[2505.16512](http://arxiv.org/abs/2505.16512)|null|
+|**2025-05-22**|**Consistent World Models via Foresight Diffusion**|Yu Zhang et.al.|[2505.16474](http://arxiv.org/abs/2505.16474)|null|
 |**2025-05-21**|**Leveraging the Powerful Attention of a Pre-trained Diffusion Model for Exemplar-based Image Colorization**|Satoshi Kosugi et.al.|[2505.15812](http://arxiv.org/abs/2505.15812)|**[link](https://github.com/satoshi-kosugi/powerful-attention)**|
 |**2025-05-21**|**Interspatial Attention for Efficient 4D Human Video Generation**|Ruizhi Shao et.al.|[2505.15800](http://arxiv.org/abs/2505.15800)|null|
 |**2025-05-21**|**VARD: Efficient and Dense Fine-Tuning for Diffusion Models with Value-based RL**|Fengyuan Dai et.al.|[2505.15791](http://arxiv.org/abs/2505.15791)|null|
@@ -9773,7 +9800,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-21**|**FragFake: A Dataset for Fine-Grained Detection of Edited Images with Vision Language Models**|Zhen Sun et.al.|[2505.15644](http://arxiv.org/abs/2505.15644)|null|
+|**2025-05-22**|**Forward-only Diffusion Probabilistic Models**|Ziwei Luo et.al.|[2505.16733](http://arxiv.org/abs/2505.16733)|**[link](https://github.com/Algolzw/FoD)**|
+|**2025-05-22**|**KRIS-Bench: Benchmarking Next-Level Intelligent Image Editing Models**|Yongliang Wu et.al.|[2505.16707](http://arxiv.org/abs/2505.16707)|null|
+|**2025-05-22**|**Clear Nights Ahead: Towards Multi-Weather Nighttime Image Restoration**|Yuetong Liu et.al.|[2505.16479](http://arxiv.org/abs/2505.16479)|null|
+|**2025-05-22**|**NTIRE 2025 challenge on Text to Image Generation Model Quality Assessment**|Shuhao Han et.al.|[2505.16314](http://arxiv.org/abs/2505.16314)|null|
+|**2025-05-22**|**Understanding Generative AI Capabilities in Everyday Image Editing Tasks**|Mohammad Reza Taesiri et.al.|[2505.16181](http://arxiv.org/abs/2505.16181)|null|
+|**2025-05-22**|**Deep Learning-Driven Ultra-High-Definition Image Restoration: A Survey**|Liyan Wang et.al.|[2505.16161](http://arxiv.org/abs/2505.16161)|null|
+|**2025-05-22**|**Breaking Complexity Barriers: High-Resolution Image Restoration with Rank Enhanced Linear Attention**|Yuang Ai et.al.|[2505.16157](http://arxiv.org/abs/2505.16157)|null|
+|**2025-05-21**|**FragFake: A Dataset for Fine-Grained Detection of Edited Images with Vision Language Models**|Zhen Sun et.al.|[2505.15644](http://arxiv.org/abs/2505.15644)|**[link](https://github.com/Vincent-HKUSTGZ/FragFake)**|
 |**2025-05-22**|**Continuous Representation Methods, Theories, and Applications: An Overview and Perspectives**|Yisi Luo et.al.|[2505.15222](http://arxiv.org/abs/2505.15222)|**[link](https://github.com/yisiluo/continuous-representation-zoo)**|
 |**2025-05-20**|**UHD Image Dehazing via anDehazeFormer with Atmospheric-aware KV Cache**|Pu Wang et.al.|[2505.14010](http://arxiv.org/abs/2505.14010)|null|
 |**2025-05-19**|**Adaptive Image Restoration for Video Surveillance: A Real-Time Approach**|Muhammad Awais Amin et.al.|[2505.13130](http://arxiv.org/abs/2505.13130)|null|

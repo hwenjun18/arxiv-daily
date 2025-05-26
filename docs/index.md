@@ -39,6 +39,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**Audio-to-Audio Emotion Conversion With Pitch And Duration Style Transfer**|Soumya Dutta et.al.|[2505.17655](http://arxiv.org/abs/2505.17655)|null|
+|**2025-05-23**|**Graph Style Transfer for Counterfactual Explainability**|Bardh Prenkaj et.al.|[2505.17542](http://arxiv.org/abs/2505.17542)|null|
 |**2025-05-23**|**Power-Law Decay Loss for Large Language Model Finetuning: Focusing on Information Sparsity to Enhance Generation Quality**|Jintian Shao et.al.|[2505.16900](http://arxiv.org/abs/2505.16900)|null|
 |**2025-05-22**|**Synthesis of Ventilator Dyssynchrony Waveforms using a Hybrid Generative Model and a Lung Model**|Sagar Deep Deb et.al.|[2505.16462](http://arxiv.org/abs/2505.16462)|null|
 |**2025-05-22**|**UBGAN: Enhancing Coded Speech with Blind and Guided Bandwidth Extension**|Kishan Gupta et.al.|[2505.16404](http://arxiv.org/abs/2505.16404)|null|
@@ -2378,6 +2380,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**Stochastic agent-based Monte Carlo simulations for reaction-diffusion models, population dynamics, and epidemic spreading**|Mohamed Swailem et.al.|[2505.18145](http://arxiv.org/abs/2505.18145)|null|
+|**2025-05-23**|**TokBench: Evaluating Your Visual Tokenizer before Visual Generation**|Junfeng Wu et.al.|[2505.18142](http://arxiv.org/abs/2505.18142)|null|
+|**2025-05-23**|**Towards more transferable adversarial attack in black-box manner**|Chun Tong Lei et.al.|[2505.18097](http://arxiv.org/abs/2505.18097)|null|
+|**2025-05-23**|**RestoreVAR: Visual Autoregressive Generation for All-in-One Image Restoration**|Sudarshan Rajagopalan et.al.|[2505.18047](http://arxiv.org/abs/2505.18047)|null|
+|**2025-05-23**|**Strictly Constrained Generative Modeling via Split Augmented Langevin Sampling**|Matthieu Blanke et.al.|[2505.18017](http://arxiv.org/abs/2505.18017)|null|
+|**2025-05-23**|**Segment Anyword: Mask Prompt Inversion for Open-Set Grounded Segmentation**|Zhihua Liu et.al.|[2505.17994](http://arxiv.org/abs/2505.17994)|null|
+|**2025-05-23**|**Diffusion Classifiers Understand Compositionality, but Conditions Apply**|Yujin Jeong et.al.|[2505.17955](http://arxiv.org/abs/2505.17955)|null|
+|**2025-05-23**|**Multi-Person Interaction Generation from Two-Person Motion Priors**|Wenning Xu et.al.|[2505.17860](http://arxiv.org/abs/2505.17860)|null|
+|**2025-05-23**|**Generative Data Augmentation for Object Point Cloud Segmentation**|Dekai Zhu et.al.|[2505.17783](http://arxiv.org/abs/2505.17783)|null|
+|**2025-05-23**|**TextFlux: An OCR-Free DiT Model for High-Fidelity Multilingual Scene Text Synthesis**|Yu Xie et.al.|[2505.17778](http://arxiv.org/abs/2505.17778)|null|
+|**2025-05-23**|**R-Genie: Reasoning-Guided Generative Image Editing**|Dong Zhang et.al.|[2505.17768](http://arxiv.org/abs/2505.17768)|null|
+|**2025-05-23**|**SeaLion: Semantic Part-Aware Latent Point Diffusion Models for 3D Generation**|Dekai Zhu et.al.|[2505.17721](http://arxiv.org/abs/2505.17721)|null|
+|**2025-05-23**|**Why Diffusion Models Don't Memorize: The Role of Implicit Dynamical Regularization in Training**|Tony Bonnaire et.al.|[2505.17638](http://arxiv.org/abs/2505.17638)|null|
+|**2025-05-23**|**Enhancing Fourier-based Doppler Resolution with Diffusion Models**|Denisa Qosja et.al.|[2505.17567](http://arxiv.org/abs/2505.17567)|null|
+|**2025-05-23**|**Model Already Knows the Best Noise: Bayesian Active Noise Selection via Attention in Video Diffusion Model**|Kwanyoung Kim et.al.|[2505.17561](http://arxiv.org/abs/2505.17561)|null|
+|**2025-05-23**|**Deeper Diffusion Models Amplify Bias**|Shahin Hakemi et.al.|[2505.17560](http://arxiv.org/abs/2505.17560)|null|
+|**2025-05-23**|**T2VUnlearning: A Concept Erasing Method for Text-to-Video Diffusion Models**|Xiaoyu Ye et.al.|[2505.17550](http://arxiv.org/abs/2505.17550)|null|
+|**2025-05-23**|**Spacetime Geometry of Denoising in Diffusion Models**|Rafał Karczewski et.al.|[2505.17517](http://arxiv.org/abs/2505.17517)|null|
+|**2025-05-23**|**Simultaneous Modeling of Protein Conformation and Dynamics via Autoregression**|Yuning Shen et.al.|[2505.17478](http://arxiv.org/abs/2505.17478)|null|
+|**2025-05-23**|**Variational Autoencoding Discrete Diffusion with Enhanced Dimensional Correlations Modeling**|Tianyu Xie et.al.|[2505.17384](http://arxiv.org/abs/2505.17384)|null|
 |**2025-05-22**|**When Are Concepts Erased From Diffusion Models?**|Kevin Lu et.al.|[2505.17013](http://arxiv.org/abs/2505.17013)|null|
 |**2025-05-22**|**Guided Diffusion Sampling on Function Spaces with Applications to PDEs**|Jiachen Yao et.al.|[2505.17004](http://arxiv.org/abs/2505.17004)|**[link](https://github.com/neuraloperator/fundps)**|
 |**2025-05-22**|**Pursuing Temporal-Consistent Video Virtual Try-On via Dynamic Pose Interaction**|Dong Li et.al.|[2505.16980](http://arxiv.org/abs/2505.16980)|null|
@@ -9800,6 +9822,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**RestoreVAR: Visual Autoregressive Generation for All-in-One Image Restoration**|Sudarshan Rajagopalan et.al.|[2505.18047](http://arxiv.org/abs/2505.18047)|null|
+|**2025-05-23**|**DetailFusion: A Dual-branch Framework with Detail Enhancement for Composed Image Retrieval**|Yuxin Yang et.al.|[2505.17796](http://arxiv.org/abs/2505.17796)|null|
+|**2025-05-23**|**R-Genie: Reasoning-Guided Generative Image Editing**|Dong Zhang et.al.|[2505.17768](http://arxiv.org/abs/2505.17768)|null|
+|**2025-05-23**|**MODEM: A Morton-Order Degradation Estimation Mechanism for Adverse Weather Image Recovery**|Hainuo Wang et.al.|[2505.17581](http://arxiv.org/abs/2505.17581)|null|
+|**2025-05-23**|**Dual Ascent Diffusion for Inverse Problems**|Minseo Kim et.al.|[2505.17353](http://arxiv.org/abs/2505.17353)|null|
 |**2025-05-22**|**Forward-only Diffusion Probabilistic Models**|Ziwei Luo et.al.|[2505.16733](http://arxiv.org/abs/2505.16733)|**[link](https://github.com/Algolzw/FoD)**|
 |**2025-05-22**|**KRIS-Bench: Benchmarking Next-Level Intelligent Image Editing Models**|Yongliang Wu et.al.|[2505.16707](http://arxiv.org/abs/2505.16707)|null|
 |**2025-05-22**|**Clear Nights Ahead: Towards Multi-Weather Nighttime Image Restoration**|Yuetong Liu et.al.|[2505.16479](http://arxiv.org/abs/2505.16479)|null|
@@ -11194,6 +11221,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**From Flight to Insight: Semantic 3D Reconstruction for Aerial Inspection via Gaussian Splatting and Language-Guided Segmentation**|Mahmoud Chick Zaouali et.al.|[2505.17402](http://arxiv.org/abs/2505.17402)|null|
+|**2025-05-22**|**Render-FM: A Foundation Model for Real-time Photorealistic Volumetric Rendering**|Zhongpai Gao et.al.|[2505.17338](http://arxiv.org/abs/2505.17338)|null|
 |**2025-05-21**|**EVA: Expressive Virtual Avatars from Multi-view Videos**|Hendrik Junkawitsch et.al.|[2505.15385](http://arxiv.org/abs/2505.15385)|null|
 |**2025-05-13**|**A Survey of 3D Reconstruction with Event Cameras: From Event-based Geometry to Neural 3D Rendering**|Chuanzhi Xu et.al.|[2505.08438](http://arxiv.org/abs/2505.08438)|null|
 |**2025-05-13**|**SpNeRF: Memory Efficient Sparse Volumetric Neural Rendering Accelerator for Edge Devices**|Yipu Zhang et.al.|[2505.08191](http://arxiv.org/abs/2505.08191)|null|
@@ -11621,6 +11650,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-21**|**Cultural Value Alignment in Large Language Models: A Prompt-based Analysis of Schwartz Values in Gemini, ChatGPT, and DeepSeek**|Robin Segerer et.al.|[2505.17112](http://arxiv.org/abs/2505.17112)|null|
 |**2025-05-17**|**The dynamics of the Ehrhard-Müller system with invariant algebraic surfaces**|Jaume Llibre et.al.|[2505.12047](http://arxiv.org/abs/2505.12047)|null|
 |**2025-05-14**|**Test-Time Augmentation for Pose-invariant Face Recognition**|Jaemin Jung et.al.|[2505.09256](http://arxiv.org/abs/2505.09256)|null|
 |**2025-05-13**|**Phase-space analysis of an anisotropic universe in $f(Q,C)$ gravity**|Ghulam Murtaza et.al.|[2505.08274](http://arxiv.org/abs/2505.08274)|null|

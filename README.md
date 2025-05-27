@@ -51,6 +51,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-26**|**Applications and Effect Evaluation of Generative Adversarial Networks in Semi-Supervised Learning**|Jiyu Hu et.al.|[2505.19522](http://arxiv.org/abs/2505.19522)|null|
+|**2025-05-24**|**Memory-Efficient Super-Resolution of 3D Micro-CT Images Using Octree-Based GANs: Enhancing Resolution and Segmentation Accuracy**|Evgeny Ugolkov et.al.|[2505.18664](http://arxiv.org/abs/2505.18664)|null|
+|**2025-05-24**|**ReflectGAN: Modeling Vegetation Effects for Soil Carbon Estimation from Satellite Imagery**|Dristi Datta et.al.|[2505.18546](http://arxiv.org/abs/2505.18546)|null|
 |**2025-05-23**|**Audio-to-Audio Emotion Conversion With Pitch And Duration Style Transfer**|Soumya Dutta et.al.|[2505.17655](http://arxiv.org/abs/2505.17655)|null|
 |**2025-05-23**|**Graph Style Transfer for Counterfactual Explainability**|Bardh Prenkaj et.al.|[2505.17542](http://arxiv.org/abs/2505.17542)|null|
 |**2025-05-23**|**Power-Law Decay Loss for Large Language Model Finetuning: Focusing on Information Sparsity to Enhance Generation Quality**|Jintian Shao et.al.|[2505.16900](http://arxiv.org/abs/2505.16900)|null|
@@ -2394,6 +2397,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-26**|**MolEditRL: Structure-Preserving Molecular Editing via Discrete Diffusion and Reinforcement Learning**|Yuanxin Zhuang et.al.|[2505.20131](http://arxiv.org/abs/2505.20131)|null|
+|**2025-05-26**|**Understanding Generalization in Diffusion Models via Probability Flow Distance**|Huijie Zhang et.al.|[2505.20123](http://arxiv.org/abs/2505.20123)|null|
+|**2025-05-26**|**Refining Few-Step Text-to-Multiview Diffusion via Reinforcement Learning**|Ziyi Zhang et.al.|[2505.20107](http://arxiv.org/abs/2505.20107)|null|
+|**2025-05-26**|**PAMD: Plausibility-Aware Motion Diffusion Model for Long Dance Generation**|Hongsong Wang et.al.|[2505.20056](http://arxiv.org/abs/2505.20056)|null|
+|**2025-05-26**|**Multimodal LLM-Guided Semantic Correction in Text-to-Image Diffusion**|Zheqi Lv et.al.|[2505.20053](http://arxiv.org/abs/2505.20053)|null|
+|**2025-05-26**|**ICDM: Interference Cancellation Diffusion Models for Wireless Semantic Communications**|Tong Wu et.al.|[2505.19983](http://arxiv.org/abs/2505.19983)|null|
+|**2025-05-26**|**UltraVSR: Achieving Ultra-Realistic Video Super-Resolution with Efficient One-Step Diffusion Space**|Yong Liu et.al.|[2505.19958](http://arxiv.org/abs/2505.19958)|null|
+|**2025-05-26**|**Harnessing the Power of Training-Free Techniques in Text-to-2D Generation for Text-to-3D Generation via Score Distillation Sampling**|Junhong Lee et.al.|[2505.19868](http://arxiv.org/abs/2505.19868)|null|
+|**2025-05-26**|**On a retarded stochastic system with discrete diffusion modeling life tables**|Tomás Caraballo et.al.|[2505.19835](http://arxiv.org/abs/2505.19835)|null|
+|**2025-05-26**|**TeViR: Text-to-Video Reward with Diffusion Models for Efficient Reinforcement Learning**|Yuhui Chen et.al.|[2505.19769](http://arxiv.org/abs/2505.19769)|null|
+|**2025-05-26**|**On some coupled local and nonlocal diffusion models**|Juan Pablo Borthagaray et.al.|[2505.19765](http://arxiv.org/abs/2505.19765)|null|
+|**2025-05-26**|**SAIL: Self-supervised Albedo Estimation from Real Images with a Latent Diffusion Model**|Hala Djeghim et.al.|[2505.19751](http://arxiv.org/abs/2505.19751)|null|
+|**2025-05-26**|**Extremum Flow Matching for Offline Goal Conditioned Reinforcement Learning**|Quentin Rouxel et.al.|[2505.19717](http://arxiv.org/abs/2505.19717)|null|
+|**2025-05-26**|**Knowledge-Aligned Counterfactual-Enhancement Diffusion Perception for Unsupervised Cross-Domain Visual Emotion Recognition**|Wen Yin et.al.|[2505.19694](http://arxiv.org/abs/2505.19694)|null|
+|**2025-05-26**|**Graph Guided Diffusion: Unified Guidance for Conditional Graph Generation**|Victor M. Tenorio et.al.|[2505.19685](http://arxiv.org/abs/2505.19685)|null|
+|**2025-05-26**|**Calibrating Pre-trained Language Classifiers on LLM-generated Noisy Labels via Iterative Refinement**|Liqin Ye et.al.|[2505.19675](http://arxiv.org/abs/2505.19675)|null|
+|**2025-05-26**|**ReDDiT: Rehashing Noise for Discrete Visual Generation**|Tianren Ma et.al.|[2505.19656](http://arxiv.org/abs/2505.19656)|null|
+|**2025-05-26**|**Accelerating Diffusion-based Text-to-Speech Model Training with Dual Modality Alignment**|Jeongsoo Choi et.al.|[2505.19595](http://arxiv.org/abs/2505.19595)|null|
+|**2025-05-26**|**On scalable and efficient training of diffusion samplers**|Minkyu Kim et.al.|[2505.19552](http://arxiv.org/abs/2505.19552)|null|
+|**2025-05-26**|**Unlocking the Power of Diffusion Models in Sequential Recommendation: A Simple and Effective Approach**|Jialei Chen et.al.|[2505.19544](http://arxiv.org/abs/2505.19544)|null|
 |**2025-05-23**|**Stochastic agent-based Monte Carlo simulations for reaction-diffusion models, population dynamics, and epidemic spreading**|Mohamed Swailem et.al.|[2505.18145](http://arxiv.org/abs/2505.18145)|null|
 |**2025-05-26**|**TokBench: Evaluating Your Visual Tokenizer before Visual Generation**|Junfeng Wu et.al.|[2505.18142](http://arxiv.org/abs/2505.18142)|null|
 |**2025-05-23**|**Towards more transferable adversarial attack in black-box manner**|Chun Tong Lei et.al.|[2505.18097](http://arxiv.org/abs/2505.18097)|null|
@@ -9838,6 +9861,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-26**|**StyleAR: Customizing Multimodal Autoregressive Model for Style-Aligned Text-to-Image Generation**|Yi Wu et.al.|[2505.19874](http://arxiv.org/abs/2505.19874)|null|
+|**2025-05-26**|**A Regularization-Guided Equivariant Approach for Image Restoration**|Yulu Bai et.al.|[2505.19799](http://arxiv.org/abs/2505.19799)|null|
+|**2025-05-25**|**Beyond Editing Pairs: Fine-Grained Instructional Image Editing via Multi-Scale Learnable Regions**|Chenrui Ma et.al.|[2505.19352](http://arxiv.org/abs/2505.19352)|null|
+|**2025-05-25**|**Benchmarking Laparoscopic Surgical Image Restoration and Beyond**|Jialun Pei et.al.|[2505.19161](http://arxiv.org/abs/2505.19161)|null|
+|**2025-05-25**|**MIND-Edit: MLLM Insight-Driven Editing via Language-Vision Projection**|Shuyu Wang et.al.|[2505.19149](http://arxiv.org/abs/2505.19149)|null|
+|**2025-05-25**|**Freqformer: Image-Demoiréing Transformer via Efficient Frequency Decomposition**|Xiaoyang Liu et.al.|[2505.19120](http://arxiv.org/abs/2505.19120)|null|
+|**2025-05-24**|**Affective Image Editing: Shaping Emotional Factors via Text Descriptions**|Peixuan Zhang et.al.|[2505.18699](http://arxiv.org/abs/2505.18699)|null|
+|**2025-05-24**|**Manifold-aware Representation Learning for Degradation-agnostic Image Restoration**|Bin Ren et.al.|[2505.18679](http://arxiv.org/abs/2505.18679)|null|
+|**2025-05-24**|**Improved Immiscible Diffusion: Accelerate Diffusion Training by Reducing Its Miscibility**|Yiheng Li et.al.|[2505.18521](http://arxiv.org/abs/2505.18521)|null|
 |**2025-05-23**|**RestoreVAR: Visual Autoregressive Generation for All-in-One Image Restoration**|Sudarshan Rajagopalan et.al.|[2505.18047](http://arxiv.org/abs/2505.18047)|null|
 |**2025-05-23**|**DetailFusion: A Dual-branch Framework with Detail Enhancement for Composed Image Retrieval**|Yuxin Yang et.al.|[2505.17796](http://arxiv.org/abs/2505.17796)|null|
 |**2025-05-23**|**R-Genie: Reasoning-Guided Generative Image Editing**|Dong Zhang et.al.|[2505.17768](http://arxiv.org/abs/2505.17768)|null|
@@ -11239,6 +11271,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-26**|**GoLF-NRT: Integrating Global Context and Local Geometry for Few-Shot View Synthesis**|You Wang et.al.|[2505.19813](http://arxiv.org/abs/2505.19813)|null|
 |**2025-05-23**|**From Flight to Insight: Semantic 3D Reconstruction for Aerial Inspection via Gaussian Splatting and Language-Guided Segmentation**|Mahmoud Chick Zaouali et.al.|[2505.17402](http://arxiv.org/abs/2505.17402)|null|
 |**2025-05-22**|**Render-FM: A Foundation Model for Real-time Photorealistic Volumetric Rendering**|Zhongpai Gao et.al.|[2505.17338](http://arxiv.org/abs/2505.17338)|null|
 |**2025-05-21**|**EVA: Expressive Virtual Avatars from Multi-view Videos**|Hendrik Junkawitsch et.al.|[2505.15385](http://arxiv.org/abs/2505.15385)|null|
@@ -11604,6 +11637,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-25**|**Is Architectural Complexity Overrated? Competitive and Interpretable Knowledge Graph Completion with RelatE**|Abhijit Chakraborty et.al.|[2505.18971](http://arxiv.org/abs/2505.18971)|null|
 |**2025-05-10**|**MagicPortrait: Temporally Consistent Face Reenactment with 3D Geometric Guidance**|Mengting Wei et.al.|[2504.21497](http://arxiv.org/abs/2504.21497)|**[link](https://github.com/weimengting/magicportrait)**|
 |**2025-04-13**|**SPICE: A Synergistic, Precise, Iterative, and Customizable Image Editing Workflow**|Kenan Tang et.al.|[2504.09697](http://arxiv.org/abs/2504.09697)|**[link](https://github.com/kenantang/spice)**|
 |**2025-03-23**|**DiffusionTalker: Efficient and Compact Speech-Driven 3D Talking Head via Personalizer-Guided Distillation**|Peng Chen et.al.|[2503.18159](http://arxiv.org/abs/2503.18159)|**[link](https://github.com/chenvoid/diffusiontalker)**|
@@ -11672,6 +11706,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-26**|**Agentic 3D Scene Generation with Spatially Contextualized VLMs**|Xinhang Liu et.al.|[2505.20129](http://arxiv.org/abs/2505.20129)|null|
+|**2025-05-26**|**How One Quiet Man Became Everyone's Sage: The Spiritual Recasting of Einstein**|Galina Weinstein et.al.|[2505.19695](http://arxiv.org/abs/2505.19695)|null|
+|**2025-05-25**|**Revival with Voice: Multi-modal Controllable Text-to-Speech Synthesis**|Minsu Kim et.al.|[2505.18972](http://arxiv.org/abs/2505.18972)|null|
 |**2025-05-21**|**Cultural Value Alignment in Large Language Models: A Prompt-based Analysis of Schwartz Values in Gemini, ChatGPT, and DeepSeek**|Robin Segerer et.al.|[2505.17112](http://arxiv.org/abs/2505.17112)|null|
 |**2025-05-17**|**The dynamics of the Ehrhard-Müller system with invariant algebraic surfaces**|Jaume Llibre et.al.|[2505.12047](http://arxiv.org/abs/2505.12047)|null|
 |**2025-05-14**|**Test-Time Augmentation for Pose-invariant Face Recognition**|Jaemin Jung et.al.|[2505.09256](http://arxiv.org/abs/2505.09256)|null|

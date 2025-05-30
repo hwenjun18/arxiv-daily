@@ -51,6 +51,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-29**|**PCA for Enhanced Cross-Dataset Generalizability in Breast Ultrasound Tumor Segmentation**|Christian Schmidt et.al.|[2505.23587](http://arxiv.org/abs/2505.23587)|null|
+|**2025-05-29**|**Score-based Generative Modeling for Conditional Independence Testing**|Yixin Ren et.al.|[2505.23309](http://arxiv.org/abs/2505.23309)|null|
+|**2025-05-29**|**Benchmarking ORCA PT-1 Boson Sampler in Simulation**|Jessica Park et.al.|[2505.23217](http://arxiv.org/abs/2505.23217)|null|
+|**2025-05-29**|**Pseudo Multi-Source Domain Generalization: Bridging the Gap Between Single and Multi-Source Domain Generalization**|Shohei Enomoto et.al.|[2505.23173](http://arxiv.org/abs/2505.23173)|null|
+|**2025-05-29**|**Implicit Inversion turns CLIP into a Decoder**|Antonio D'Orazio et.al.|[2505.23161](http://arxiv.org/abs/2505.23161)|null|
+|**2025-05-28**|**CLIPGaussian: Universal and Multimodal Style Transfer Based on Gaussian Splatting**|Kornel Howil et.al.|[2505.22854](http://arxiv.org/abs/2505.22854)|null|
 |**2025-05-28**|**TabularQGAN: A Quantum Generative Model for Tabular Data**|Pallavi Bhardwaj et.al.|[2505.22533](http://arxiv.org/abs/2505.22533)|null|
 |**2025-05-27**|**Facial Attribute Based Text Guided Face Anonymization**|Mustafa İzzet Muştu et.al.|[2505.21002](http://arxiv.org/abs/2505.21002)|null|
 |**2025-05-27**|**Spotlight-TTS: Spotlighting the Style via Voiced-Aware Style Extraction and Style Direction Adjustment for Expressive Text-to-Speech**|Nam-Gyu Kim et.al.|[2505.20868](http://arxiv.org/abs/2505.20868)|null|
@@ -2401,6 +2407,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-29**|**LoRAShop: Training-Free Multi-Concept Image Generation and Editing with Rectified Flow Transformers**|Yusuf Dalva et.al.|[2505.23758](http://arxiv.org/abs/2505.23758)|null|
+|**2025-05-29**|**DarkDiff: Advancing Low-Light Raw Enhancement by Retasking Diffusion Models for Camera ISP**|Amber Yijia Zheng et.al.|[2505.23743](http://arxiv.org/abs/2505.23743)|null|
+|**2025-05-29**|**LayerPeeler: Autoregressive Peeling for Layer-wise Image Vectorization**|Ronghuan Wu et.al.|[2505.23740](http://arxiv.org/abs/2505.23740)|null|
+|**2025-05-29**|**How Animals Dance (When You're Not Looking)**|Xiaojuan Wang et.al.|[2505.23738](http://arxiv.org/abs/2505.23738)|null|
+|**2025-05-29**|**DiffER: Categorical Diffusion for Chemical Retrosynthesis**|Sean Current et.al.|[2505.23721](http://arxiv.org/abs/2505.23721)|null|
+|**2025-05-29**|**ImmunoDiff: A Diffusion Model for Immunotherapy Response Prediction in Lung Cancer**|Moinak Bhattacharya et.al.|[2505.23675](http://arxiv.org/abs/2505.23675)|null|
+|**2025-05-29**|**OpenUni: A Simple Baseline for Unified Multimodal Understanding and Generation**|Size Wu et.al.|[2505.23661](http://arxiv.org/abs/2505.23661)|null|
+|**2025-05-29**|**VideoREPA: Learning Physics for Video Generation through Relational Alignment with Foundation Models**|Xiangdong Zhang et.al.|[2505.23656](http://arxiv.org/abs/2505.23656)|null|
+|**2025-05-29**|**Optimization-Free Diffusion Model -- A Perturbation Theory Approach**|Yuehaw Khoo et.al.|[2505.23652](http://arxiv.org/abs/2505.23652)|null|
+|**2025-05-29**|**ZeroSep: Separate Anything in Audio with Zero Training**|Chao Huang et.al.|[2505.23625](http://arxiv.org/abs/2505.23625)|null|
+|**2025-05-29**|**Inference-time Scaling of Diffusion Models through Classical Search**|Xiangcheng Zhang et.al.|[2505.23614](http://arxiv.org/abs/2505.23614)|null|
+|**2025-05-29**|**Muddit: Liberating Generation Beyond Text-to-Image with a Unified Discrete Diffusion Model**|Qingyu Shi et.al.|[2505.23606](http://arxiv.org/abs/2505.23606)|null|
+|**2025-05-29**|**Normalizing Flows are Capable Models for RL**|Raj Ghugare et.al.|[2505.23527](http://arxiv.org/abs/2505.23527)|null|
+|**2025-05-29**|**LAFR: Efficient Diffusion-based Blind Face Restoration via Latent Codebook Alignment Adapter**|Runyi Li et.al.|[2505.23462](http://arxiv.org/abs/2505.23462)|null|
+|**2025-05-29**|**Diffusion Guidance Is a Controllable Policy Improvement Operator**|Kevin Frans et.al.|[2505.23458](http://arxiv.org/abs/2505.23458)|null|
+|**2025-05-29**|**CryoCCD: Conditional Cycle-consistent Diffusion with Biophysical Modeling for Cryo-EM Synthesis**|Runmin Jiang et.al.|[2505.23444](http://arxiv.org/abs/2505.23444)|null|
+|**2025-05-29**|**Enhanced DACER Algorithm with High Diffusion Efficiency**|Yinuo Wang et.al.|[2505.23426](http://arxiv.org/abs/2505.23426)|null|
+|**2025-05-29**|**Diffusion Sampling Path Tells More: An Efficient Plug-and-Play Strategy for Sample Filtering**|Sixian Wang et.al.|[2505.23343](http://arxiv.org/abs/2505.23343)|null|
+|**2025-05-29**|**TRACE: Trajectory-Constrained Concept Erasure in Diffusion Models**|Finn Carter et.al.|[2505.23312](http://arxiv.org/abs/2505.23312)|null|
+|**2025-05-29**|**MGE-LDM: Joint Latent Diffusion for Simultaneous Music Generation and Source Extraction**|Yunkee Chae et.al.|[2505.23305](http://arxiv.org/abs/2505.23305)|null|
 |**2025-05-28**|**SPIRAL: Semantic-Aware Progressive LiDAR Scene Generation**|Dekai Zhu et.al.|[2505.22643](http://arxiv.org/abs/2505.22643)|null|
 |**2025-05-28**|**Principled Out-of-Distribution Generalization via Simplicity**|Jiawei Ge et.al.|[2505.22622](http://arxiv.org/abs/2505.22622)|null|
 |**2025-05-28**|**Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding**|Chengyue Wu et.al.|[2505.22618](http://arxiv.org/abs/2505.22618)|null|
@@ -9905,6 +9931,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-29**|**LoRAShop: Training-Free Multi-Concept Image Generation and Editing with Rectified Flow Transformers**|Yusuf Dalva et.al.|[2505.23758](http://arxiv.org/abs/2505.23758)|null|
+|**2025-05-29**|**Weakly-supervised Localization of Manipulated Image Regions Using Multi-resolution Learned Features**|Ziyong Wang et.al.|[2505.23586](http://arxiv.org/abs/2505.23586)|null|
+|**2025-05-29**|**Proximal Algorithm Unrolling: Flexible and Efficient Reconstruction Networks for Single-Pixel Imaging**|Ping Wang et.al.|[2505.23180](http://arxiv.org/abs/2505.23180)|null|
+|**2025-05-29**|**FlowAlign: Trajectory-Regularized, Inversion-Free Flow-based Image Editing**|Jeongsol Kim et.al.|[2505.23145](http://arxiv.org/abs/2505.23145)|null|
+|**2025-05-29**|**URWKV: Unified RWKV Model with Multi-state Perspective for Low-light Image Restoration**|Rui Xu et.al.|[2505.23068](http://arxiv.org/abs/2505.23068)|null|
+|**2025-05-29**|**EquiReg: Equivariance Regularized Diffusion for Inverse Problems**|Bahareh Tolooshams et.al.|[2505.22973](http://arxiv.org/abs/2505.22973)|null|
+|**2025-05-28**|**HiDream-I1: A High-Efficient Image Generative Foundation Model with Sparse Diffusion Transformer**|Qi Cai et.al.|[2505.22705](http://arxiv.org/abs/2505.22705)|null|
 |**2025-05-28**|**From Controlled Scenarios to Real-World: Cross-Domain Degradation Pattern Matching for All-in-One Image Restoration**|Junyu Fan et.al.|[2505.22284](http://arxiv.org/abs/2505.22284)|null|
 |**2025-05-28**|**Reference-Guided Identity Preserving Face Restoration**|Mo Zhou et.al.|[2505.21905](http://arxiv.org/abs/2505.21905)|null|
 |**2025-05-27**|**BaryIR: Learning Multi-Source Unified Representation in Continuous Barycenter Space for Generalizable All-in-One Image Restoration**|Xiaole Tang et.al.|[2505.21637](http://arxiv.org/abs/2505.21637)|null|
@@ -11324,6 +11357,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-29**|**AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views**|Lihan Jiang et.al.|[2505.23716](http://arxiv.org/abs/2505.23716)|null|
+|**2025-05-29**|**UrbanCraft: Urban View Extrapolation via Hierarchical Sem-Geometric Priors**|Tianhang Wang et.al.|[2505.23434](http://arxiv.org/abs/2505.23434)|null|
 |**2025-05-28**|**PS4PRO: Pixel-to-pixel Supervision for Photorealistic Rendering and Optimization**|Yezhi Shen et.al.|[2505.22616](http://arxiv.org/abs/2505.22616)|null|
 |**2025-05-28**|**RenderFormer: Transformer-based Neural Rendering of Triangle Meshes with Global Illumination**|Chong Zeng et.al.|[2505.21925](http://arxiv.org/abs/2505.21925)|**[link](https://github.com/microsoft/renderformer)**|
 |**2025-05-27**|**Generalizable and Relightable Gaussian Splatting for Human Novel View Synthesis**|Yipengjing Sun et.al.|[2505.21502](http://arxiv.org/abs/2505.21502)|null|
@@ -11762,6 +11797,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-29**|**Hallo4: High-Fidelity Dynamic Portrait Animation via Direct Preference Optimization and Temporal Motion Modulation**|Jiahao Cui et.al.|[2505.23525](http://arxiv.org/abs/2505.23525)|null|
+|**2025-05-29**|**Fooling the Watchers: Breaking AIGC Detectors via Semantic Prompt Attacks**|Run Hao et.al.|[2505.23192](http://arxiv.org/abs/2505.23192)|null|
+|**2025-05-28**|**VIGNETTE: Socially Grounded Bias Evaluation for Vision-Language Models**|Chahat Raj et.al.|[2505.22897](http://arxiv.org/abs/2505.22897)|**[link](https://github.com/chahatraj/Vignette)**|
 |**2025-05-28**|**Does the Forced Van der Pol Oscillator Exhibit Irregular Behavior?**|Samaira Tibrewal et.al.|[2505.22385](http://arxiv.org/abs/2505.22385)|null|
 |**2025-05-28**|**Global Dynamics Of Quadratic And Cubic Planar Quasi-homogeneous Differential Systems**|Jaume Llibre et.al.|[2505.21871](http://arxiv.org/abs/2505.21871)|null|
 |**2025-05-27**|**Nonlinear Stability and Dynamics of Supersonic Compressible Flows**|Symphony Chakraborty et.al.|[2505.21650](http://arxiv.org/abs/2505.21650)|null|

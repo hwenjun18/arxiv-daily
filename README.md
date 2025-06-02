@@ -51,6 +51,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**QGAN-based data augmentation for hybrid quantum-classical neural networks**|Run-Ze He et.al.|[2505.24780](http://arxiv.org/abs/2505.24780)|null|
 |**2025-05-29**|**PCA for Enhanced Cross-Dataset Generalizability in Breast Ultrasound Tumor Segmentation**|Christian Schmidt et.al.|[2505.23587](http://arxiv.org/abs/2505.23587)|null|
 |**2025-05-29**|**Score-based Generative Modeling for Conditional Independence Testing**|Yixin Ren et.al.|[2505.23309](http://arxiv.org/abs/2505.23309)|**[link](https://github.com/jinchenghou123/sgmcit)**|
 |**2025-05-29**|**Benchmarking ORCA PT-1 Boson Sampler in Simulation**|Jessica Park et.al.|[2505.23217](http://arxiv.org/abs/2505.23217)|null|
@@ -2407,6 +2408,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**AdaHuman: Animatable Detailed 3D Human Generation with Compositional Multiview Diffusion**|Yangyi Huang et.al.|[2505.24877](http://arxiv.org/abs/2505.24877)|null|
+|**2025-05-30**|**MiniMax-Remover: Taming Bad Noise Helps Video Object Removal**|Bojia Zi et.al.|[2505.24873](http://arxiv.org/abs/2505.24873)|null|
+|**2025-05-30**|**Accelerated Sampling from Masked Diffusion Models via Entropy Bounded Unmasking**|Heli Ben-Hamu et.al.|[2505.24857](http://arxiv.org/abs/2505.24857)|null|
+|**2025-05-30**|**RealDrive: Retrieval-Augmented Driving with Diffusion Models**|Wenhao Ding et.al.|[2505.24808](http://arxiv.org/abs/2505.24808)|null|
+|**2025-05-30**|**Generalization Dynamics of Linear Diffusion Models**|Claudia Merger et.al.|[2505.24769](http://arxiv.org/abs/2505.24769)|null|
+|**2025-05-30**|**A Composite Predictive-Generative Approach to Monaural Universal Speech Enhancement**|Jie Zhang et.al.|[2505.24576](http://arxiv.org/abs/2505.24576)|null|
+|**2025-05-30**|**UniGeo: Taming Video Diffusion for Unified Consistent Geometry Estimation**|Yang-Tian Sun et.al.|[2505.24521](http://arxiv.org/abs/2505.24521)|null|
+|**2025-05-30**|**EasyText: Controllable Diffusion Transformer for Multilingual Text Rendering**|Runnan Lu et.al.|[2505.24417](http://arxiv.org/abs/2505.24417)|null|
+|**2025-05-30**|**IRBridge: Solving Image Restoration Bridge with Pre-trained Generative Diffusion Models**|Hanting Wang et.al.|[2505.24406](http://arxiv.org/abs/2505.24406)|null|
+|**2025-05-30**|**Interpreting Large Text-to-Image Diffusion Models with Dictionary Learning**|Stepan Shabalin et.al.|[2505.24360](http://arxiv.org/abs/2505.24360)|null|
+|**2025-05-30**|**InteractAnything: Zero-shot Human Object Interaction Synthesis via LLM Feedback and Object Affordance Parsing**|Jinlu Zhang et.al.|[2505.24315](http://arxiv.org/abs/2505.24315)|null|
+|**2025-05-30**|**Category-aware EEG image generation based on wavelet transform and contrast semantic loss**|Enshang Zhang et.al.|[2505.24301](http://arxiv.org/abs/2505.24301)|null|
+|**2025-05-30**|**Large Language Models are Locally Linear Mappings**|James R. Golden et.al.|[2505.24293](http://arxiv.org/abs/2505.24293)|**[link](https://github.com/jamesgolden1/llms-are-llms)**|
+|**2025-05-30**|**MUSE: Model-Agnostic Tabular Watermarking via Multi-Sample Selection**|Liancheng Fang et.al.|[2505.24267](http://arxiv.org/abs/2505.24267)|null|
+|**2025-05-30**|**Generative AI for Urban Design: A Stepwise Approach Integrating Human Expertise with Multimodal Diffusion Models**|Mingyi He et.al.|[2505.24260](http://arxiv.org/abs/2505.24260)|null|
+|**2025-05-30**|**Interactive Video Generation via Domain Adaptation**|Ishaan Rawal et.al.|[2505.24253](http://arxiv.org/abs/2505.24253)|null|
+|**2025-05-30**|**LTM3D: Bridging Token Spaces for Conditional 3D Generation with Auto-Regressive Diffusion Framework**|Xin Kang et.al.|[2505.24245](http://arxiv.org/abs/2505.24245)|null|
+|**2025-05-30**|**Unleashing High-Quality Image Generation in Diffusion Sampling Using Second-Order Levenberg-Marquardt-Langevin**|Fangyikang Wang et.al.|[2505.24222](http://arxiv.org/abs/2505.24222)|null|
+|**2025-05-30**|**STORK: Improving the Fidelity of Mid-NFE Sampling for Diffusion and Flow Matching Models**|Zheng Tan et.al.|[2505.24210](http://arxiv.org/abs/2505.24210)|null|
+|**2025-05-30**|**Aligning Protein Conformation Ensemble Generation with Physical Feedback**|Jiarui Lu et.al.|[2505.24203](http://arxiv.org/abs/2505.24203)|null|
 |**2025-05-29**|**LoRAShop: Training-Free Multi-Concept Image Generation and Editing with Rectified Flow Transformers**|Yusuf Dalva et.al.|[2505.23758](http://arxiv.org/abs/2505.23758)|null|
 |**2025-05-29**|**DarkDiff: Advancing Low-Light Raw Enhancement by Retasking Diffusion Models for Camera ISP**|Amber Yijia Zheng et.al.|[2505.23743](http://arxiv.org/abs/2505.23743)|null|
 |**2025-05-29**|**LayerPeeler: Autoregressive Peeling for Layer-wise Image Vectorization**|Ronghuan Wu et.al.|[2505.23740](http://arxiv.org/abs/2505.23740)|null|
@@ -9931,6 +9952,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**IRBridge: Solving Image Restoration Bridge with Pre-trained Generative Diffusion Models**|Hanting Wang et.al.|[2505.24406](http://arxiv.org/abs/2505.24406)|null|
+|**2025-05-30**|**Boosting All-in-One Image Restoration via Self-Improved Privilege Learning**|Gang Wu et.al.|[2505.24207](http://arxiv.org/abs/2505.24207)|null|
+|**2025-05-29**|**Cora: Correspondence-aware image editing using few step diffusion**|Amirhossein Almohammadi et.al.|[2505.23907](http://arxiv.org/abs/2505.23907)|null|
 |**2025-05-29**|**LoRAShop: Training-Free Multi-Concept Image Generation and Editing with Rectified Flow Transformers**|Yusuf Dalva et.al.|[2505.23758](http://arxiv.org/abs/2505.23758)|null|
 |**2025-05-29**|**Weakly-supervised Localization of Manipulated Image Regions Using Multi-resolution Learned Features**|Ziyong Wang et.al.|[2505.23586](http://arxiv.org/abs/2505.23586)|null|
 |**2025-05-29**|**Proximal Algorithm Unrolling: Flexible and Efficient Reconstruction Networks for Single-Pixel Imaging**|Ping Wang et.al.|[2505.23180](http://arxiv.org/abs/2505.23180)|**[link](https://github.com/pwangcs/proxunroll)**|
@@ -11357,6 +11381,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-29**|**3DGEER: Exact and Efficient Volumetric Rendering with 3D Gaussians**|Zixun Huang et.al.|[2505.24053](http://arxiv.org/abs/2505.24053)|null|
 |**2025-05-29**|**AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views**|Lihan Jiang et.al.|[2505.23716](http://arxiv.org/abs/2505.23716)|null|
 |**2025-05-29**|**UrbanCraft: Urban View Extrapolation via Hierarchical Sem-Geometric Priors**|Tianhang Wang et.al.|[2505.23434](http://arxiv.org/abs/2505.23434)|null|
 |**2025-05-28**|**PS4PRO: Pixel-to-pixel Supervision for Photorealistic Rendering and Optimization**|Yezhi Shen et.al.|[2505.22616](http://arxiv.org/abs/2505.22616)|null|

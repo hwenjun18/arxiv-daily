@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.02
+## Updated on 2025.06.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -55,7 +55,7 @@ layout: default
 |**2025-05-24**|**ReflectGAN: Modeling Vegetation Effects for Soil Carbon Estimation from Satellite Imagery**|Dristi Datta et.al.|[2505.18546](http://arxiv.org/abs/2505.18546)|**[link](https://github.com/dristidatta/reflectgan)**|
 |**2025-05-23**|**Audio-to-Audio Emotion Conversion With Pitch And Duration Style Transfer**|Soumya Dutta et.al.|[2505.17655](http://arxiv.org/abs/2505.17655)|null|
 |**2025-05-23**|**Graph Style Transfer for Counterfactual Explainability**|Bardh Prenkaj et.al.|[2505.17542](http://arxiv.org/abs/2505.17542)|null|
-|**2025-05-27**|**Power-Law Decay Loss for Large Language Model Finetuning: Focusing on Information Sparsity to Enhance Generation Quality**|Jintian Shao et.al.|[2505.16900](http://arxiv.org/abs/2505.16900)|**[link](https://github.com/shaojintian/power_law_decay)**|
+|**2025-05-31**|**Power-Law Decay Loss for Large Language Model Finetuning: A Theory Perspective**|Jintian Shao et.al.|[2505.16900](http://arxiv.org/abs/2505.16900)|**[link](https://github.com/shaojintian/power_law_decay)**|
 |**2025-05-22**|**Synthesis of Ventilator Dyssynchrony Waveforms using a Hybrid Generative Model and a Lung Model**|Sagar Deep Deb et.al.|[2505.16462](http://arxiv.org/abs/2505.16462)|null|
 |**2025-05-22**|**UBGAN: Enhancing Coded Speech with Blind and Guided Bandwidth Extension**|Kishan Gupta et.al.|[2505.16404](http://arxiv.org/abs/2505.16404)|null|
 |**2025-05-22**|**Style Transfer with Diffusion Models for Synthetic-to-Real Domain Adaptation**|Estelle Chigot et.al.|[2505.16360](http://arxiv.org/abs/2505.16360)|**[link](https://github.com/echigot/cactif)**|

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.04
+## Updated on 2025.06.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -50,7 +50,7 @@ layout: default
 |**2025-05-29**|**Score-based Generative Modeling for Conditional Independence Testing**|Yixin Ren et.al.|[2505.23309](http://arxiv.org/abs/2505.23309)|**[link](https://github.com/jinchenghou123/sgmcit)**|
 |**2025-05-29**|**Benchmarking ORCA PT-1 Boson Sampler in Simulation**|Jessica Park et.al.|[2505.23217](http://arxiv.org/abs/2505.23217)|null|
 |**2025-05-29**|**Pseudo Multi-Source Domain Generalization: Bridging the Gap Between Single and Multi-Source Domain Generalization**|Shohei Enomoto et.al.|[2505.23173](http://arxiv.org/abs/2505.23173)|**[link](https://github.com/s-enmt/pseudodomainbed)**|
-|**2025-05-29**|**Implicit Inversion turns CLIP into a Decoder**|Antonio D'Orazio et.al.|[2505.23161](http://arxiv.org/abs/2505.23161)|**[link](https://github.com/omnai-lab/implicit-inversion)**|
+|**2025-06-04**|**Implicit Inversion turns CLIP into a Decoder**|Antonio D'Orazio et.al.|[2505.23161](http://arxiv.org/abs/2505.23161)|**[link](https://github.com/omnai-lab/implicit-inversion)**|
 |**2025-05-28**|**CLIPGaussian: Universal and Multimodal Style Transfer Based on Gaussian Splatting**|Kornel Howil et.al.|[2505.22854](http://arxiv.org/abs/2505.22854)|null|
 |**2025-05-28**|**TabularQGAN: A Quantum Generative Model for Tabular Data**|Pallavi Bhardwaj et.al.|[2505.22533](http://arxiv.org/abs/2505.22533)|null|
 |**2025-05-27**|**Facial Attribute Based Text Guided Face Anonymization**|Mustafa İzzet Muştu et.al.|[2505.21002](http://arxiv.org/abs/2505.21002)|null|
@@ -2419,7 +2419,7 @@ layout: default
 |**2025-06-03**|**Flexiffusion: Training-Free Segment-Wise Neural Architecture Search for Efficient Diffusion Models**|Hongtao Huang et.al.|[2506.02488](http://arxiv.org/abs/2506.02488)|null|
 |**2025-06-03**|**Generative Perception of Shape and Material from Differential Motion**|Xinran Nicole Han et.al.|[2506.02473](http://arxiv.org/abs/2506.02473)|null|
 |**2025-06-03**|**ANT: Adaptive Neural Temporal-Aware Text-to-Motion Model**|Wenshuo Chen et.al.|[2506.02452](http://arxiv.org/abs/2506.02452)|null|
-|**2025-06-03**|**SViMo: Synchronized Diffusion for Video and Motion Generation in Hand-object Interaction Scenarios**|Lingwei Dang et.al.|[2506.02444](http://arxiv.org/abs/2506.02444)|**[link](https://github.com/Droliven/SViMo_code)**|
+|**2025-06-04**|**SViMo: Synchronized Diffusion for Video and Motion Generation in Hand-object Interaction Scenarios**|Lingwei Dang et.al.|[2506.02444](http://arxiv.org/abs/2506.02444)|**[link](https://github.com/Droliven/SViMo_code)**|
 |**2025-05-30**|**AdaHuman: Animatable Detailed 3D Human Generation with Compositional Multiview Diffusion**|Yangyi Huang et.al.|[2505.24877](http://arxiv.org/abs/2505.24877)|null|
 |**2025-05-30**|**MiniMax-Remover: Taming Bad Noise Helps Video Object Removal**|Bojia Zi et.al.|[2505.24873](http://arxiv.org/abs/2505.24873)|null|
 |**2025-05-30**|**Accelerated Sampling from Masked Diffusion Models via Entropy Bounded Unmasking**|Heli Ben-Hamu et.al.|[2505.24857](http://arxiv.org/abs/2505.24857)|null|
@@ -9962,16 +9962,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-03**|**UniWorld: High-Resolution Semantic Encoders for Unified Visual Understanding and Generation**|Bin Lin et.al.|[2506.03147](http://arxiv.org/abs/2506.03147)|null|
+|**2025-06-04**|**UniWorld: High-Resolution Semantic Encoders for Unified Visual Understanding and Generation**|Bin Lin et.al.|[2506.03147](http://arxiv.org/abs/2506.03147)|null|
 |**2025-06-03**|**ByteMorph: Benchmarking Instruction-Guided Image Editing with Non-Rigid Motions**|Di Chang et.al.|[2506.03107](http://arxiv.org/abs/2506.03107)|null|
 |**2025-06-03**|**NTIRE 2025 XGC Quality Assessment Challenge: Methods and Results**|Xiaohong Liu et.al.|[2506.02875](http://arxiv.org/abs/2506.02875)|null|
 |**2025-06-03**|**ControlMambaIR: Conditional Controls with State-Space Model for Image Restoration**|Cheng Yang et.al.|[2506.02633](http://arxiv.org/abs/2506.02633)|null|
 |**2025-06-03**|**DCI: Dual-Conditional Inversion for Boosting Diffusion-Based Image Editing**|Zixiang Li et.al.|[2506.02560](http://arxiv.org/abs/2506.02560)|null|
 |**2025-06-03**|**RelationAdapter: Learning and Transferring Visual Relation with Diffusion Transformers**|Yan Gong et.al.|[2506.02528](http://arxiv.org/abs/2506.02528)|null|
-|**2025-06-02**|**NTIRE 2025 Challenge on RAW Image Restoration and Super-Resolution**|Marcos V. Conde et.al.|[2506.02197](http://arxiv.org/abs/2506.02197)|null|
+|**2025-06-04**|**NTIRE 2025 Challenge on RAW Image Restoration and Super-Resolution**|Marcos V. Conde et.al.|[2506.02197](http://arxiv.org/abs/2506.02197)|null|
 |**2025-06-02**|**IMAGHarmony: Controllable Image Editing with Consistent Object Quantity and Layout**|Fei Shen et.al.|[2506.01949](http://arxiv.org/abs/2506.01949)|null|
 |**2025-06-02**|**RAW Image Reconstruction from RGB on Smartphones. NTIRE 2025 Challenge Report**|Marcos V. Conde et.al.|[2506.01947](http://arxiv.org/abs/2506.01947)|null|
-|**2025-06-03**|**MedEBench: Revisiting Text-instructed Image Editing on Medical Domain**|Minghao Liu et.al.|[2506.01921](http://arxiv.org/abs/2506.01921)|null|
+|**2025-06-04**|**MedEBench: Revisiting Text-instructed Image Editing on Medical Domain**|Minghao Liu et.al.|[2506.01921](http://arxiv.org/abs/2506.01921)|null|
 |**2025-06-02**|**Unlocking Aha Moments via Reinforcement Learning: Advancing Collaborative Visual Comprehension and Generation**|Kaihang Pan et.al.|[2506.01480](http://arxiv.org/abs/2506.01480)|null|
 |**2025-06-02**|**DNAEdit: Direct Noise Alignment for Text-Guided Rectified Flow Editing**|Chenxi Xie et.al.|[2506.01430](http://arxiv.org/abs/2506.01430)|null|
 |**2025-06-02**|**NTIRE 2025 the 2nd Restore Any Image Model (RAIM) in the Wild Challenge**|Jie Liang et.al.|[2506.01394](http://arxiv.org/abs/2506.01394)|null|

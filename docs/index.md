@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.05
+## Updated on 2025.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -2405,12 +2405,12 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-04**|**Sounding that Object: Interactive Object-Aware Image to Audio Generation**|Tingle Li et.al.|[2506.04214](http://arxiv.org/abs/2506.04214)|null|
-|**2025-06-04**|**Diffusion Domain Teacher: Diffusion Guided Domain Adaptive Object Detector**|Boyong He et.al.|[2506.04211](http://arxiv.org/abs/2506.04211)|null|
+|**2025-06-04**|**Diffusion Domain Teacher: Diffusion Guided Domain Adaptive Object Detector**|Boyong He et.al.|[2506.04211](http://arxiv.org/abs/2506.04211)|**[link](https://github.com/heboyong/Diffusion-Domain-Teacher)**|
 |**2025-06-04**|**Image Editing As Programs with Diffusion Models**|Yujia Hu et.al.|[2506.04158](http://arxiv.org/abs/2506.04158)|null|
 |**2025-06-04**|**Global convergence rates in the relaxation limits for the compressible Euler and Euler-Maxwell systems in Sobolev spaces**|Timothée Crin-Barat et.al.|[2506.04103](http://arxiv.org/abs/2506.04103)|null|
 |**2025-06-04**|**A Generative Adaptive Replay Continual Learning Model for Temporal Knowledge Graph Reasoning**|Zhiyu Zhang et.al.|[2506.04083](http://arxiv.org/abs/2506.04083)|null|
 |**2025-06-04**|**Beyond water limitation in vegetation-autotoxicity patterning: a cross-diffusion model**|Francesco Giannino et.al.|[2506.03981](http://arxiv.org/abs/2506.03981)|null|
-|**2025-06-04**|**Solving Inverse Problems via Diffusion-Based Priors: An Approximation-Free Ensemble Sampling Approach**|Haoxuan Chen et.al.|[2506.03979](http://arxiv.org/abs/2506.03979)|null|
+|**2025-06-05**|**Solving Inverse Problems via Diffusion-Based Priors: An Approximation-Free Ensemble Sampling Approach**|Haoxuan Chen et.al.|[2506.03979](http://arxiv.org/abs/2506.03979)|null|
 |**2025-06-04**|**DiffCAP: Diffusion-based Cumulative Adversarial Purification for Vision Language Models**|Jia Fu et.al.|[2506.03933](http://arxiv.org/abs/2506.03933)|null|
 |**2025-06-04**|**Personalized MR-Informed Diffusion Models for 3D PET Image Reconstruction**|George Webber et.al.|[2506.03804](http://arxiv.org/abs/2506.03804)|null|
 |**2025-06-04**|**EmoArt: A Multidimensional Dataset for Emotion-Aware Artistic Generation**|Cheng Zhang et.al.|[2506.03652](http://arxiv.org/abs/2506.03652)|null|

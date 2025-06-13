@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.12
+## Updated on 2025.06.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -2436,7 +2436,7 @@ layout: default
 |**2025-06-11**|**Autoregressive Adversarial Post-Training for Real-Time Interactive Video Generation**|Shanchuan Lin et.al.|[2506.09350](http://arxiv.org/abs/2506.09350)|null|
 |**2025-06-11**|**What is the Cost of Differential Privacy for Deep Learning-Based Trajectory Generation?**|Erik Buchholz et.al.|[2506.09312](http://arxiv.org/abs/2506.09312)|**[link](https://github.com/erik-buchholz/CostOfTrajectoryPrivacy)**|
 |**2025-06-10**|**Cross-Frame Representation Alignment for Fine-Tuning Video Diffusion Models**|Sungwon Hwang et.al.|[2506.09229](http://arxiv.org/abs/2506.09229)|null|
-|**2025-06-10**|**LaDCast: A Latent Diffusion Model for Medium-Range Ensemble Weather Forecasting**|Yilin Zhuang et.al.|[2506.09193](http://arxiv.org/abs/2506.09193)|null|
+|**2025-06-10**|**LaDCast: A Latent Diffusion Model for Medium-Range Ensemble Weather Forecasting**|Yilin Zhuang et.al.|[2506.09193](http://arxiv.org/abs/2506.09193)|**[link](https://github.com/tonyzyl/ladcast)**|
 |**2025-06-10**|**MagCache: Fast Video Generation with Magnitude-Aware Cache**|Zehong Ma et.al.|[2506.09045](http://arxiv.org/abs/2506.09045)|null|
 |**2025-06-10**|**Diffuse and Disperse: Image Generation with Representation Regularization**|Runqian Wang et.al.|[2506.09027](http://arxiv.org/abs/2506.09027)|null|
 |**2025-06-10**|**HiSin: Efficient High-Resolution Sinogram Inpainting via Resolution-Guided Progressive Inference**|Jiaze E et.al.|[2506.08809](http://arxiv.org/abs/2506.08809)|null|
@@ -10088,7 +10088,7 @@ layout: default
 |**2025-06-06**|**FADE: Frequency-Aware Diffusion Model Factorization for Video Editing**|Yixuan Zhu et.al.|[2506.05934](http://arxiv.org/abs/2506.05934)|null|
 |**2025-06-06**|**NTIRE 2025 Challenge on HR Depth from Images of Specular and Transparent Surfaces**|Pierluigi Zama Ramirez et.al.|[2506.05815](http://arxiv.org/abs/2506.05815)|null|
 |**2025-06-05**|**UniRes: Universal Image Restoration for Complex Degradations**|Mo Zhou et.al.|[2506.05599](http://arxiv.org/abs/2506.05599)|null|
-|**2025-06-05**|**Towards Reliable Identification of Diffusion-based Image Manipulations**|Alex Costanzino et.al.|[2506.05466](http://arxiv.org/abs/2506.05466)|null|
+|**2025-06-12**|**Towards Reliable Identification of Diffusion-based Image Manipulations**|Alex Costanzino et.al.|[2506.05466](http://arxiv.org/abs/2506.05466)|null|
 |**2025-06-05**|**SeedVR2: One-Step Video Restoration via Diffusion Adversarial Post-Training**|Jianyi Wang et.al.|[2506.05301](http://arxiv.org/abs/2506.05301)|null|
 |**2025-06-06**|**SeedEdit 3.0: Fast and High-Quality Generative Image Editing**|Peng Wang et.al.|[2506.05083](http://arxiv.org/abs/2506.05083)|null|
 |**2025-06-05**|**Invisible Backdoor Triggers in Image Editing Model via Deep Watermarking**|Yu-Feng Chen et.al.|[2506.04879](http://arxiv.org/abs/2506.04879)|null|

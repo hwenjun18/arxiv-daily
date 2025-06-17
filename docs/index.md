@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.16
+## Updated on 2025.06.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -12050,7 +12050,7 @@ layout: default
 |**2025-05-27**|**Portraits of Charmoniumlike States**|Qingyang Liu et.al.|[2505.21193](http://arxiv.org/abs/2505.21193)|null|
 |**2025-05-26**|**Total-Editing: Head Avatar with Editable Appearance, Motion, and Lighting**|Yizhou Zhao et.al.|[2505.20582](http://arxiv.org/abs/2505.20582)|null|
 |**2025-05-26**|**Stability of two-dimensional SISO LTI system with bounded feedback gain that has bounded derivative**|Anton Ponomarev et.al.|[2505.20372](http://arxiv.org/abs/2505.20372)|null|
-|**2025-05-26**|**Agentic 3D Scene Generation with Spatially Contextualized VLMs**|Xinhang Liu et.al.|[2505.20129](http://arxiv.org/abs/2505.20129)|null|
+|**2025-06-16**|**Agentic 3D Scene Generation with Spatially Contextualized VLMs**|Xinhang Liu et.al.|[2505.20129](http://arxiv.org/abs/2505.20129)|null|
 |**2025-05-26**|**How One Quiet Man Became Everyone's Sage: The Spiritual Recasting of Einstein**|Galina Weinstein et.al.|[2505.19695](http://arxiv.org/abs/2505.19695)|null|
 |**2025-05-25**|**Revival with Voice: Multi-modal Controllable Text-to-Speech Synthesis**|Minsu Kim et.al.|[2505.18972](http://arxiv.org/abs/2505.18972)|null|
 |**2025-05-21**|**Cultural Value Alignment in Large Language Models: A Prompt-based Analysis of Schwartz Values in Gemini, ChatGPT, and DeepSeek**|Robin Segerer et.al.|[2505.17112](http://arxiv.org/abs/2505.17112)|null|

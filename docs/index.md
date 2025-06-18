@@ -39,6 +39,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**Fake it till You Make it: Reward Modeling as Discriminative Prediction**|Runtao Liu et.al.|[2506.13846](http://arxiv.org/abs/2506.13846)|null|
 |**2025-06-16**|**SA-LUT: Spatial Adaptive 4D Look-Up Table for Photorealistic Style Transfer**|Zerui Gong et.al.|[2506.13465](http://arxiv.org/abs/2506.13465)|null|
 |**2025-06-16**|**Overcoming Occlusions in the Wild: A Multi-Task Age Head Approach to Age Estimation**|Waqar Tanveer et.al.|[2506.13445](http://arxiv.org/abs/2506.13445)|null|
 |**2025-06-14**|**Towards Seamless Borders: A Method for Mitigating Inconsistencies in Image Inpainting and Outpainting**|Xingzhong Hou et.al.|[2506.12530](http://arxiv.org/abs/2506.12530)|null|
@@ -2425,6 +2426,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**CDP: Towards Robust Autoregressive Visuomotor Policy Learning via Causal Diffusion**|Jiahua Ma et.al.|[2506.14769](http://arxiv.org/abs/2506.14769)|null|
+|**2025-06-17**|**Cost-Aware Routing for Efficient Text-To-Image Generation**|Qinchan et.al.|[2506.14753](http://arxiv.org/abs/2506.14753)|null|
+|**2025-06-17**|**Iterative Camera-LiDAR Extrinsic Optimization via Surrogate Diffusion**|Ni Ou et.al.|[2506.14706](http://arxiv.org/abs/2506.14706)|null|
+|**2025-06-17**|**Risk Estimation of Knee Osteoarthritis Progression via Predictive Multi-task Modelling from Efficient Diffusion Model using X-ray Images**|David Butler et.al.|[2506.14560](http://arxiv.org/abs/2506.14560)|null|
+|**2025-06-17**|**DreamLight: Towards Harmonious and Consistent Image Relighting**|Yong Liu et.al.|[2506.14549](http://arxiv.org/abs/2506.14549)|null|
+|**2025-06-17**|**Using BDF schemes in the temporal integration of POD-ROM methods**|Bosco García-Archilla et.al.|[2506.14543](http://arxiv.org/abs/2506.14543)|null|
+|**2025-06-17**|**Reimagining Target-Aware Molecular Generation through Retrieval-Enhanced Aligned Diffusion**|Dong Xu et.al.|[2506.14488](http://arxiv.org/abs/2506.14488)|null|
+|**2025-06-17**|**LongLLaDA: Unlocking Long Context Capabilities in Diffusion LLMs**|Xiaoran Liu et.al.|[2506.14429](http://arxiv.org/abs/2506.14429)|null|
+|**2025-06-17**|**Causally Steered Diffusion for Automated Video Counterfactual Generation**|Nikos Spyrou et.al.|[2506.14404](http://arxiv.org/abs/2506.14404)|null|
+|**2025-06-17**|**Decoupled Classifier-Free Guidance for Counterfactual Diffusion Models**|Tian Xia et.al.|[2506.14399](http://arxiv.org/abs/2506.14399)|null|
+|**2025-06-17**|**FRIDU: Functional Map Refinement with Guided Image Diffusion**|Avigail Cohen Rimon et.al.|[2506.14322](http://arxiv.org/abs/2506.14322)|null|
+|**2025-06-17**|**CausalDiffTab: Mixed-Type Causal-Aware Diffusion for Tabular Data Generation**|Jia-Chen Zhang et.al.|[2506.14206](http://arxiv.org/abs/2506.14206)|null|
+|**2025-06-17**|**Meta-SurDiff: Classification Diffusion Model Optimized by Meta Learning is Reliable for Online Surgical Phase Recognition**|Yufei Li et.al.|[2506.14181](http://arxiv.org/abs/2506.14181)|null|
+|**2025-06-17**|**GAF: Gaussian Action Field as a Dvnamic World Model for Robotic Mlanipulation**|Ying Chai et.al.|[2506.14135](http://arxiv.org/abs/2506.14135)|null|
+|**2025-06-16**|**Diffusion-based Inverse Observation Model for Artificial Skin**|Ante Maric et.al.|[2506.13986](http://arxiv.org/abs/2506.13986)|null|
+|**2025-06-16**|**ASMR: Augmenting Life Scenario using Large Generative Models for Robotic Action Reflection**|Shang-Chi Tsai et.al.|[2506.13956](http://arxiv.org/abs/2506.13956)|null|
+|**2025-06-16**|**BlastDiffusion: A Latent Diffusion Model for Generating Synthetic Embryo Images to Address Data Scarcity in In Vitro Fertilization**|Alejandro Golfe et.al.|[2506.13843](http://arxiv.org/abs/2506.13843)|null|
 |**2025-06-16**|**Diagnosing and Improving Diffusion Models by Estimating the Optimal Loss Value**|Yixian Xu et.al.|[2506.13763](http://arxiv.org/abs/2506.13763)|null|
 |**2025-06-17**|**VideoPDE: Unified Generative PDE Solving via Video Inpainting Diffusion Models**|Edward Li et.al.|[2506.13754](http://arxiv.org/abs/2506.13754)|null|
 |**2025-06-16**|**MultiViT2: A Data-augmented Multimodal Neuroimaging Prediction Framework via Latent Diffusion Model**|Bi Yuda et.al.|[2506.13667](http://arxiv.org/abs/2506.13667)|null|
@@ -10134,6 +10152,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**Optimization-Based Image Restoration under Implementation Constraints in Optical Analog Circuits**|Taisei Kato et.al.|[2506.14624](http://arxiv.org/abs/2506.14624)|null|
+|**2025-06-17**|**Unsupervised Imaging Inverse Problems with Diffusion Distribution Matching**|Giacomo Meanti et.al.|[2506.14605](http://arxiv.org/abs/2506.14605)|null|
+|**2025-06-17**|**Exploring Diffusion with Test-Time Training on Efficient Image Restoration**|Rongchang Lu et.al.|[2506.14541](http://arxiv.org/abs/2506.14541)|null|
+|**2025-06-15**|**Balancing Preservation and Modification: A Region and Semantic Aware Metric for Instruction-Based Image Editing**|Zhuoying Li et.al.|[2506.13827](http://arxiv.org/abs/2506.13827)|null|
 |**2025-06-16**|**Exploiting the Exact Denoising Posterior Score in Training-Free Guidance of Diffusion Models**|Gregory Bellchambers et.al.|[2506.13614](http://arxiv.org/abs/2506.13614)|null|
 |**2025-06-16**|**AttentionDrag: Exploiting Latent Correlation Knowledge in Pre-trained Diffusion Models for Image Editing**|Biao Yang et.al.|[2506.13301](http://arxiv.org/abs/2506.13301)|null|
 |**2025-06-15**|**ComplexBench-Edit: Benchmarking Complex Instruction-Driven Image Editing via Compositional Dependencies**|Chenglin Wang et.al.|[2506.12830](http://arxiv.org/abs/2506.12830)|null|
@@ -12063,6 +12085,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**SyncTalk++: High-Fidelity and Efficient Synchronized Talking Heads Synthesis Using Gaussian Splatting**|Ziqiao Peng et.al.|[2506.14742](http://arxiv.org/abs/2506.14742)|null|
+|**2025-06-16**|**Disentangling 3D from Large Vision-Language Models for Controlled Portrait Generation**|Nick Yiwen Huang et.al.|[2506.14015](http://arxiv.org/abs/2506.14015)|null|
 |**2025-06-16**|**DicFace: Dirichlet-Constrained Variational Codebook Learning for Temporally Coherent Video Face Restoration**|Yan Chen et.al.|[2506.13355](http://arxiv.org/abs/2506.13355)|null|
 |**2025-06-09**|**From Geometry to Physics -- AZ: touches to the portrait**|Yurii Ignat'ev et.al.|[2506.08148](http://arxiv.org/abs/2506.08148)|null|
 |**2025-06-09**|**A Real-time 3D Desktop Display**|Livio Tenze et.al.|[2506.08064](http://arxiv.org/abs/2506.08064)|null|

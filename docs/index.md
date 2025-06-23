@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.22
+## Updated on 2025.06.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -2428,6 +2428,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-20**|**Emergent Temporal Correspondences from Video Diffusion Transformers**|Jisu Nam et.al.|[2506.17220](http://arxiv.org/abs/2506.17220)|null|
+|**2025-06-20**|**DreamCube: 3D Panorama Generation via Multi-plane Synchronization**|Yukun Huang et.al.|[2506.17206](http://arxiv.org/abs/2506.17206)|null|
+|**2025-06-20**|**Deep generative models as the probability transformation functions**|Vitalii Bondar et.al.|[2506.17171](http://arxiv.org/abs/2506.17171)|null|
+|**2025-06-20**|**MeDi: Metadata-Guided Diffusion Models for Mitigating Biases in Tumor Classification**|David Jacob Drexlin et.al.|[2506.17140](http://arxiv.org/abs/2506.17140)|null|
+|**2025-06-20**|**Consistent Sampling and Simulation: Molecular Dynamics with Energy-Based Diffusion Models**|Michael Plainer et.al.|[2506.17139](http://arxiv.org/abs/2506.17139)|null|
+|**2025-06-20**|**Assembler: Scalable 3D Part Assembly via Anchor Point Diffusion**|Wang Zhao et.al.|[2506.17074](http://arxiv.org/abs/2506.17074)|null|
+|**2025-06-20**|**Generative Modeling of Full-Atom Protein Conformations using Latent Diffusion on Graph Embeddings**|Aditya Sengar et.al.|[2506.17064](http://arxiv.org/abs/2506.17064)|null|
+|**2025-06-20**|**LSCD: Lomb-Scargle Conditioned Diffusion for Time series Imputation**|Elizabeth Fons et.al.|[2506.17039](http://arxiv.org/abs/2506.17039)|null|
+|**2025-06-20**|**Reward-Agnostic Prompt Optimization for Text-to-Image Diffusion Models**|Semin Kim et.al.|[2506.16853](http://arxiv.org/abs/2506.16853)|null|
+|**2025-06-20**|**Beyond Blur: A Fluid Perspective on Generative Diffusion Models**|Grzegorz Gruszczynski et.al.|[2506.16827](http://arxiv.org/abs/2506.16827)|null|
+|**2025-06-20**|**PQCAD-DM: Progressive Quantization and Calibration-Assisted Distillation for Extremely Efficient Diffusion Model**|Beomseok Ko et.al.|[2506.16776](http://arxiv.org/abs/2506.16776)|null|
+|**2025-06-20**|**Noise-Informed Diffusion-Generated Image Detection with Anomaly Attention**|Weinan Guan et.al.|[2506.16743](http://arxiv.org/abs/2506.16743)|null|
+|**2025-06-20**|**A Prior-Guided Joint Diffusion Model in Projection Domain for PET Tracer Conversion**|Fang Chen et.al.|[2506.16733](http://arxiv.org/abs/2506.16733)|null|
+|**2025-06-20**|**Fast and Stable Diffusion Planning through Variational Adaptive Weighting**|Zhiying Qiu et.al.|[2506.16688](http://arxiv.org/abs/2506.16688)|null|
+|**2025-06-19**|**DiffO: Single-step Diffusion for Image Compression at Ultra-Low Bitrates**|Chanung Park et.al.|[2506.16572](http://arxiv.org/abs/2506.16572)|null|
+|**2025-06-19**|**Hunyuan3D 2.5: Towards High-Fidelity 3D Assets Generation with Ultimate Details**|Zeqiang Lai et.al.|[2506.16504](http://arxiv.org/abs/2506.16504)|null|
+|**2025-06-19**|**Progressive Inference-Time Annealing of Diffusion Models for Sampling from Boltzmann Densities**|Tara Akhound-Sadegh et.al.|[2506.16471](http://arxiv.org/abs/2506.16471)|null|
+|**2025-06-19**|**Category-based Galaxy Image Generation via Diffusion Models**|Xingzhong Fan et.al.|[2506.16255](http://arxiv.org/abs/2506.16255)|null|
+|**2025-06-19**|**Can AI Dream of Unseen Galaxies? Conditional Diffusion Model for Galaxy Morphology Augmentation**|Chenrui Ma et.al.|[2506.16233](http://arxiv.org/abs/2506.16233)|null|
+|**2025-06-19**|**VideoGAN-based Trajectory Proposal for Automated Vehicles**|Annajoyce Mariani et.al.|[2506.16209](http://arxiv.org/abs/2506.16209)|null|
 |**2025-06-18**|**Nabla-R2D3: Effective and Efficient 3D Diffusion Alignment with 2D Rewards**|Qingming Liu et.al.|[2506.15684](http://arxiv.org/abs/2506.15684)|null|
 |**2025-06-18**|**Evolutionary Caching to Accelerate Your Off-the-Shelf Diffusion Model**|Anirud Aggarwal et.al.|[2506.15682](http://arxiv.org/abs/2506.15682)|**[link](https://github.com/aniaggarwal/ecad)**|
 |**2025-06-18**|**UniRelight: Learning Joint Decomposition and Synthesis for Video Relighting**|Kai He et.al.|[2506.15673](http://arxiv.org/abs/2506.15673)|null|
@@ -10173,6 +10193,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-20**|**Reversing Flow for Image Restoration**|Haina Qin et.al.|[2506.16961](http://arxiv.org/abs/2506.16961)|null|
+|**2025-06-20**|**Visual-Instructed Degradation Diffusion for All-in-One Image Restoration**|Wenyang Luo et.al.|[2506.16960](http://arxiv.org/abs/2506.16960)|null|
+|**2025-06-20**|**FOCUS: Unified Vision-Language Modeling for Interactive Editing Driven by Referential Segmentation**|Fan Yang et.al.|[2506.16806](http://arxiv.org/abs/2506.16806)|null|
+|**2025-06-20**|**RealSR-R1: Reinforcement Learning for Real-World Image Super-Resolution with Vision-Language Chain-of-Thought**|Junbo Qiao et.al.|[2506.16796](http://arxiv.org/abs/2506.16796)|null|
+|**2025-06-19**|**Arch-Router: Aligning LLM Routing with Human Preferences**|Co Tran et.al.|[2506.16655](http://arxiv.org/abs/2506.16655)|null|
+|**2025-06-19**|**MoiréXNet: Adaptive Multi-Scale Demoiréing with Linear Attention Test-Time Training and Truncated Flow Matching Prior**|Liangyan Li et.al.|[2506.15929](http://arxiv.org/abs/2506.15929)|null|
+|**2025-06-18**|**VectorEdits: A Dataset and Benchmark for Instruction-Based Editing of Vector Graphics**|Josef Kuchař et.al.|[2506.15903](http://arxiv.org/abs/2506.15903)|null|
+|**2025-06-16**|**ADAM-Dehaze: Adaptive Density-Aware Multi-Stage Dehazing for Improved Object Detection in Foggy Conditions**|Fatmah AlHindaassi et.al.|[2506.15837](http://arxiv.org/abs/2506.15837)|null|
 |**2025-06-17**|**Optimization-Based Image Restoration under Implementation Constraints in Optical Analog Circuits**|Taisei Kato et.al.|[2506.14624](http://arxiv.org/abs/2506.14624)|null|
 |**2025-06-17**|**Unsupervised Imaging Inverse Problems with Diffusion Distribution Matching**|Giacomo Meanti et.al.|[2506.14605](http://arxiv.org/abs/2506.14605)|**[link](https://github.com/inria-thoth/ddm4ip)**|
 |**2025-06-17**|**Exploring Diffusion with Test-Time Training on Efficient Image Restoration**|Rongchang Lu et.al.|[2506.14541](http://arxiv.org/abs/2506.14541)|null|
@@ -12107,6 +12135,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-20**|**Controllable and Expressive One-Shot Video Head Swapping**|Chaonan Ji et.al.|[2506.16852](http://arxiv.org/abs/2506.16852)|null|
+|**2025-06-16**|**EchoShot: Multi-Shot Portrait Video Generation**|Jiahao Wang et.al.|[2506.15838](http://arxiv.org/abs/2506.15838)|null|
 |**2025-06-17**|**SyncTalk++: High-Fidelity and Efficient Synchronized Talking Heads Synthesis Using Gaussian Splatting**|Ziqiao Peng et.al.|[2506.14742](http://arxiv.org/abs/2506.14742)|null|
 |**2025-06-16**|**Disentangling 3D from Large Vision-Language Models for Controlled Portrait Generation**|Nick Yiwen Huang et.al.|[2506.14015](http://arxiv.org/abs/2506.14015)|null|
 |**2025-06-16**|**DicFace: Dirichlet-Constrained Variational Codebook Learning for Temporally Coherent Video Face Restoration**|Yan Chen et.al.|[2506.13355](http://arxiv.org/abs/2506.13355)|null|

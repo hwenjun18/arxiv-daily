@@ -51,6 +51,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**Deep generative models as the probability transformation functions**|Vitalii Bondar et.al.|[2506.17171](http://arxiv.org/abs/2506.17171)|null|
+|**2025-06-20**|**Proportional Sensitivity in Generative Adversarial Network (GAN)-Augmented Brain Tumor Classification Using Convolutional Neural Network**|Mahin Montasir Afif et.al.|[2506.17165](http://arxiv.org/abs/2506.17165)|null|
+|**2025-06-20**|**ITO-Master: Inference-Time Optimization for Audio Effects Modeling of Music Mastering Processors**|Junghyun Koo et.al.|[2506.16889](http://arxiv.org/abs/2506.16889)|null|
+|**2025-06-19**|**Category-based Galaxy Image Generation via Diffusion Models**|Xingzhong Fan et.al.|[2506.16255](http://arxiv.org/abs/2506.16255)|null|
+|**2025-06-19**|**Synthetic ALS-EEG Data Augmentation for ALS Diagnosis Using Conditional WGAN with Weight Clipping**|Abdulvahap Mutlu et.al.|[2506.16243](http://arxiv.org/abs/2506.16243)|**[link](https://github.com/abdulvahapmutlu/als-synthetic-data-augmentation-wgan)**|
+|**2025-06-19**|**VideoGAN-based Trajectory Proposal for Automated Vehicles**|Annajoyce Mariani et.al.|[2506.16209](http://arxiv.org/abs/2506.16209)|null|
+|**2025-06-19**|**Integrating Generative Adversarial Networks and Convolutional Neural Networks for Enhanced Traffic Accidents Detection and Analysis**|Zhenghao Xi et.al.|[2506.16186](http://arxiv.org/abs/2506.16186)|null|
+|**2025-06-19**|**Efficient Blockchain-based Steganography via Backcalculating Generative Adversarial Network**|Zhuo Chen et.al.|[2506.16023](http://arxiv.org/abs/2506.16023)|null|
 |**2025-06-18**|**CWGAN-GP Augmented CAE for Jamming Detection in 5G-NR in Non-IID Datasets**|Samhita Kuili et.al.|[2506.15075](http://arxiv.org/abs/2506.15075)|null|
 |**2025-06-18**|**Break Stylistic Sophon: Are We Really Meant to Confine the Imagination in Style Transfer?**|Gary Song Yan et.al.|[2506.15033](http://arxiv.org/abs/2506.15033)|null|
 |**2025-06-16**|**Fake it till You Make it: Reward Modeling as Discriminative Prediction**|Runtao Liu et.al.|[2506.13846](http://arxiv.org/abs/2506.13846)|null|
@@ -2442,7 +2450,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-06-20**|**Emergent Temporal Correspondences from Video Diffusion Transformers**|Jisu Nam et.al.|[2506.17220](http://arxiv.org/abs/2506.17220)|null|
+|**2025-06-20**|**Emergent Temporal Correspondences from Video Diffusion Transformers**|Jisu Nam et.al.|[2506.17220](http://arxiv.org/abs/2506.17220)|**[link](https://github.com/cvlab-kaist/DiffTrack)**|
 |**2025-06-20**|**DreamCube: 3D Panorama Generation via Multi-plane Synchronization**|Yukun Huang et.al.|[2506.17206](http://arxiv.org/abs/2506.17206)|null|
 |**2025-06-20**|**Deep generative models as the probability transformation functions**|Vitalii Bondar et.al.|[2506.17171](http://arxiv.org/abs/2506.17171)|null|
 |**2025-06-20**|**MeDi: Metadata-Guided Diffusion Models for Mitigating Biases in Tumor Classification**|David Jacob Drexlin et.al.|[2506.17140](http://arxiv.org/abs/2506.17140)|null|
@@ -11700,6 +11708,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-19**|**R3eVision: A Survey on Robust Rendering, Restoration, and Enhancement for 3D Low-Level Vision**|Weeyoung Kwon et.al.|[2506.16262](http://arxiv.org/abs/2506.16262)|null|
 |**2025-06-17**|**Peering into the Unknown: Active View Selection with Neural Uncertainty Maps for 3D Reconstruction**|Zhengquan Zhang et.al.|[2506.14856](http://arxiv.org/abs/2506.14856)|null|
 |**2025-06-16**|**Audio-Visual Driven Compression for Low-Bitrate Talking Head Videos**|Riku Takahashi et.al.|[2506.13419](http://arxiv.org/abs/2506.13419)|null|
 |**2025-06-11**|**TransGI: Real-Time Dynamic Global Illumination With Object-Centric Neural Transfer Model**|Yijie Deng et.al.|[2506.09909](http://arxiv.org/abs/2506.09909)|null|

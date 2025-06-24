@@ -39,6 +39,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**Efficient Beam Selection for ISAC in Cell-Free Massive MIMO via Digital Twin-Assisted Deep Reinforcement Learning**|Jiexin Zhang et.al.|[2506.18560](http://arxiv.org/abs/2506.18560)|null|
+|**2025-06-23**|**GANs vs. Diffusion Models for virtual staining with the HER2match dataset**|Pascal Klöckner et.al.|[2506.18484](http://arxiv.org/abs/2506.18484)|null|
+|**2025-06-23**|**Transforming H&E images into IHC: A Variance-Penalized GAN for Precision Oncology**|Sara Rehmat et.al.|[2506.18371](http://arxiv.org/abs/2506.18371)|null|
+|**2025-06-23**|**Instability in Diffusion ODEs: An Explanation for Inaccurate Image Reconstruction**|Han Zhang et.al.|[2506.18290](http://arxiv.org/abs/2506.18290)|null|
+|**2025-06-22**|**Pattern-Based Phase-Separation of Tracer and Dispersed Phase Particles in Two-Phase Defocusing Particle Tracking Velocimetry**|Christian Sax et.al.|[2506.18157](http://arxiv.org/abs/2506.18157)|null|
+|**2025-06-22**|**Imputation of Longitudinal Data Using GANs: Challenges and Implications for Classification**|Sharon Torao Pingi et.al.|[2506.18007](http://arxiv.org/abs/2506.18007)|null|
+|**2025-06-22**|**A Survey of Quantum Generative Adversarial Networks: Architectures, Use Cases, and Real-World Implementations**|Mujahidul Islam et.al.|[2506.18002](http://arxiv.org/abs/2506.18002)|null|
+|**2025-06-21**|**Pix2Geomodel: A Next-Generation Reservoir Geomodeling with Property-to-Property Translation**|Abdulrahman Al-Fakih et.al.|[2506.17747](http://arxiv.org/abs/2506.17747)|null|
+|**2025-06-21**|**MTSIC: Multi-stage Transformer-based GAN for Spectral Infrared Image Colorization**|Tingting Liu et.al.|[2506.17540](http://arxiv.org/abs/2506.17540)|null|
 |**2025-06-20**|**Deep generative models as the probability transformation functions**|Vitalii Bondar et.al.|[2506.17171](http://arxiv.org/abs/2506.17171)|null|
 |**2025-06-20**|**Proportional Sensitivity in Generative Adversarial Network (GAN)-Augmented Brain Tumor Classification Using Convolutional Neural Network**|Mahin Montasir Afif et.al.|[2506.17165](http://arxiv.org/abs/2506.17165)|null|
 |**2025-06-20**|**ITO-Master: Inference-Time Optimization for Audio Effects Modeling of Music Mastering Processors**|Junghyun Koo et.al.|[2506.16889](http://arxiv.org/abs/2506.16889)|null|
@@ -2436,6 +2445,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**Audit & Repair: An Agentic Framework for Consistent Story Visualization in Text-to-Image Diffusion Models**|Kiymet Akdemir et.al.|[2506.18900](http://arxiv.org/abs/2506.18900)|null|
+|**2025-06-23**|**MinD: Unified Visual Imagination and Control via Hierarchical World Models**|Xiaowei Chi et.al.|[2506.18897](http://arxiv.org/abs/2506.18897)|null|
+|**2025-06-23**|**Let Your Video Listen to Your Music!**|Xinyu Zhang et.al.|[2506.18881](http://arxiv.org/abs/2506.18881)|null|
+|**2025-06-23**|**ViDAR: Video Diffusion-Aware 4D Reconstruction From Monocular Inputs**|Michal Nazarczuk et.al.|[2506.18792](http://arxiv.org/abs/2506.18792)|null|
+|**2025-06-23**|**TCDiff++: An End-to-end Trajectory-Controllable Diffusion Model for Harmonious Music-Driven Group Choreography**|Yuqin Dai et.al.|[2506.18671](http://arxiv.org/abs/2506.18671)|null|
+|**2025-06-23**|**GANs vs. Diffusion Models for virtual staining with the HER2match dataset**|Pascal Klöckner et.al.|[2506.18484](http://arxiv.org/abs/2506.18484)|null|
+|**2025-06-23**|**DIP: Unsupervised Dense In-Context Post-training of Visual Representations**|Sophia Sirko-Galouchenko et.al.|[2506.18463](http://arxiv.org/abs/2506.18463)|null|
+|**2025-06-23**|**CPAM: Context-Preserving Adaptive Manipulation for Zero-Shot Real Image Editing**|Dinh-Khoi Vo et.al.|[2506.18438](http://arxiv.org/abs/2506.18438)|null|
+|**2025-06-23**|**How Robust is Model Editing after Fine-Tuning? An Empirical Study on Text-to-Image Diffusion Models**|Feng He et.al.|[2506.18428](http://arxiv.org/abs/2506.18428)|null|
+|**2025-06-23**|**Generative Diffusion Receivers: Achieving Pilot-Efficient MIMO-OFDM Communications**|Yuzhi Yang et.al.|[2506.18419](http://arxiv.org/abs/2506.18419)|null|
+|**2025-06-23**|**Large-Scale Training Data Attribution for Music Generative Models via Unlearning**|Woosung Choi et.al.|[2506.18312](http://arxiv.org/abs/2506.18312)|null|
+|**2025-06-23**|**Instability in Diffusion ODEs: An Explanation for Inaccurate Image Reconstruction**|Han Zhang et.al.|[2506.18290](http://arxiv.org/abs/2506.18290)|null|
+|**2025-06-23**|**Adaptive Mask-guided K-space Diffusion for Accelerated MRI Reconstruction**|Qinrong Cai et.al.|[2506.18270](http://arxiv.org/abs/2506.18270)|null|
+|**2025-06-23**|**Morse: Dual-Sampling for Lossless Acceleration of Diffusion Models**|Chao Li et.al.|[2506.18251](http://arxiv.org/abs/2506.18251)|null|
+|**2025-06-23**|**Exact Conditional Score-Guided Generative Modeling for Amortized Inference in Uncertainty Quantification**|Zezhong Zhang et.al.|[2506.18227](http://arxiv.org/abs/2506.18227)|null|
+|**2025-06-23**|**American options valuation in time-dependent jump-diffusion models via integral equations and characteristic functions**|Andrey Itkin et.al.|[2506.18210](http://arxiv.org/abs/2506.18210)|null|
+|**2025-06-22**|**CDG-MAE: Learning Correspondences from Diffusion Generated Views**|Varun Belagali et.al.|[2506.18164](http://arxiv.org/abs/2506.18164)|null|
+|**2025-06-22**|**Targeted False Positive Synthesis via Detector-guided Adversarial Diffusion Attacker for Robust Polyp Detection**|Quan Zhou et.al.|[2506.18134](http://arxiv.org/abs/2506.18134)|null|
+|**2025-06-22**|**Enabling PSO-Secure Synthetic Data Sharing Using Diversity-Aware Diffusion Models**|Mischa Dombrowski et.al.|[2506.17975](http://arxiv.org/abs/2506.17975)|null|
+|**2025-06-22**|**GD-Retriever: Controllable Generative Text-Music Retrieval with Diffusion Models**|Julien Guinot et.al.|[2506.17886](http://arxiv.org/abs/2506.17886)|null|
 |**2025-06-23**|**Emergent Temporal Correspondences from Video Diffusion Transformers**|Jisu Nam et.al.|[2506.17220](http://arxiv.org/abs/2506.17220)|**[link](https://github.com/cvlab-kaist/DiffTrack)**|
 |**2025-06-20**|**DreamCube: 3D Panorama Generation via Multi-plane Synchronization**|Yukun Huang et.al.|[2506.17206](http://arxiv.org/abs/2506.17206)|null|
 |**2025-06-20**|**Deep generative models as the probability transformation functions**|Vitalii Bondar et.al.|[2506.17171](http://arxiv.org/abs/2506.17171)|null|
@@ -10201,6 +10230,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**OmniGen2: Exploration to Advanced Multimodal Generation**|Chenyuan Wu et.al.|[2506.18871](http://arxiv.org/abs/2506.18871)|null|
+|**2025-06-23**|**Enhancing Image Restoration Transformer via Adaptive Translation Equivariance**|JiaKui Hu et.al.|[2506.18520](http://arxiv.org/abs/2506.18520)|null|
+|**2025-06-23**|**CPAM: Context-Preserving Adaptive Manipulation for Zero-Shot Real Image Editing**|Dinh-Khoi Vo et.al.|[2506.18438](http://arxiv.org/abs/2506.18438)|null|
+|**2025-06-23**|**BSMamba: Brightness and Semantic Modeling for Long-Range Interaction in Low-Light Image Enhancement**|Tongshun Zhang et.al.|[2506.18346](http://arxiv.org/abs/2506.18346)|null|
+|**2025-06-23**|**Instability in Diffusion ODEs: An Explanation for Inaccurate Image Reconstruction**|Han Zhang et.al.|[2506.18290](http://arxiv.org/abs/2506.18290)|null|
 |**2025-06-20**|**Reversing Flow for Image Restoration**|Haina Qin et.al.|[2506.16961](http://arxiv.org/abs/2506.16961)|null|
 |**2025-06-20**|**Visual-Instructed Degradation Diffusion for All-in-One Image Restoration**|Wenyang Luo et.al.|[2506.16960](http://arxiv.org/abs/2506.16960)|null|
 |**2025-06-20**|**FOCUS: Unified Vision-Language Modeling for Interactive Editing Driven by Referential Segmentation**|Fan Yang et.al.|[2506.16806](http://arxiv.org/abs/2506.16806)|null|
@@ -12144,6 +12178,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**TC-Light: Temporally Consistent Relighting for Dynamic Long Videos**|Yang Liu et.al.|[2506.18904](http://arxiv.org/abs/2506.18904)|null|
 |**2025-06-20**|**Controllable and Expressive One-Shot Video Head Swapping**|Chaonan Ji et.al.|[2506.16852](http://arxiv.org/abs/2506.16852)|null|
 |**2025-06-16**|**EchoShot: Multi-Shot Portrait Video Generation**|Jiahao Wang et.al.|[2506.15838](http://arxiv.org/abs/2506.15838)|null|
 |**2025-06-17**|**SyncTalk++: High-Fidelity and Efficient Synchronized Talking Heads Synthesis Using Gaussian Splatting**|Ziqiao Peng et.al.|[2506.14742](http://arxiv.org/abs/2506.14742)|null|

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.25
+## Updated on 2025.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -2465,7 +2465,7 @@ layout: default
 |**2025-06-24**|**Training-Free Motion Customization for Distilled Video Generators with Adaptive Test-Time Distillation**|Jintao Rong et.al.|[2506.19348](http://arxiv.org/abs/2506.19348)|null|
 |**2025-06-24**|**Style Transfer: A Decade Survey**|Tianshan Zhang et.al.|[2506.19278](http://arxiv.org/abs/2506.19278)|null|
 |**2025-06-24**|**Continuous-variable Quantum Diffusion Model for State Generation and Restoration**|Haitao Huang et.al.|[2506.19270](http://arxiv.org/abs/2506.19270)|null|
-|**2025-06-23**|**A primer of optimal ergodic average control for an insurance company diffusion model**|Elizaveta Iashchenko et.al.|[2506.19134](http://arxiv.org/abs/2506.19134)|null|
+|**2025-06-25**|**A primer of optimal ergodic average control for an insurance company diffusion model**|Elizaveta Iashchenko et.al.|[2506.19134](http://arxiv.org/abs/2506.19134)|null|
 |**2025-06-23**|**Inverse-and-Edit: Effective and Fast Image Editing by Cycle Consistency Models**|Ilia Beletskii et.al.|[2506.19103](http://arxiv.org/abs/2506.19103)|null|
 |**2025-06-23**|**Audit & Repair: An Agentic Framework for Consistent Story Visualization in Text-to-Image Diffusion Models**|Kiymet Akdemir et.al.|[2506.18900](http://arxiv.org/abs/2506.18900)|null|
 |**2025-06-23**|**MinD: Unified Visual Imagination and Control via Hierarchical World Models**|Xiaowei Chi et.al.|[2506.18897](http://arxiv.org/abs/2506.18897)|null|
@@ -10256,7 +10256,7 @@ layout: default
 |**2025-06-24**|**SceneCrafter: Controllable Multi-View Driving Scene Editing**|Zehao Zhu et.al.|[2506.19488](http://arxiv.org/abs/2506.19488)|null|
 |**2025-06-24**|**NAADA: A Noise-Aware Attention Denoising Autoencoder for Dental Panoramic Radiographs**|Khuram Naveed et.al.|[2506.19387](http://arxiv.org/abs/2506.19387)|null|
 |**2025-06-23**|**Inverse-and-Edit: Effective and Fast Image Editing by Cycle Consistency Models**|Ilia Beletskii et.al.|[2506.19103](http://arxiv.org/abs/2506.19103)|null|
-|**2025-06-23**|**OmniGen2: Exploration to Advanced Multimodal Generation**|Chenyuan Wu et.al.|[2506.18871](http://arxiv.org/abs/2506.18871)|null|
+|**2025-06-25**|**OmniGen2: Exploration to Advanced Multimodal Generation**|Chenyuan Wu et.al.|[2506.18871](http://arxiv.org/abs/2506.18871)|null|
 |**2025-06-23**|**Enhancing Image Restoration Transformer via Adaptive Translation Equivariance**|JiaKui Hu et.al.|[2506.18520](http://arxiv.org/abs/2506.18520)|null|
 |**2025-06-23**|**CPAM: Context-Preserving Adaptive Manipulation for Zero-Shot Real Image Editing**|Dinh-Khoi Vo et.al.|[2506.18438](http://arxiv.org/abs/2506.18438)|null|
 |**2025-06-23**|**BSMamba: Brightness and Semantic Modeling for Long-Range Interaction in Low-Light Image Enhancement**|Tongshun Zhang et.al.|[2506.18346](http://arxiv.org/abs/2506.18346)|null|

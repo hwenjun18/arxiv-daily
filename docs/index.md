@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.26
+## Updated on 2025.06.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -56,7 +56,7 @@ layout: default
 |**2025-06-21**|**MTSIC: Multi-stage Transformer-based GAN for Spectral Infrared Image Colorization**|Tingting Liu et.al.|[2506.17540](http://arxiv.org/abs/2506.17540)|null|
 |**2025-06-20**|**Deep generative models as the probability transformation functions**|Vitalii Bondar et.al.|[2506.17171](http://arxiv.org/abs/2506.17171)|null|
 |**2025-06-20**|**Proportional Sensitivity in Generative Adversarial Network (GAN)-Augmented Brain Tumor Classification Using Convolutional Neural Network**|Mahin Montasir Afif et.al.|[2506.17165](http://arxiv.org/abs/2506.17165)|null|
-|**2025-06-20**|**ITO-Master: Inference-Time Optimization for Audio Effects Modeling of Music Mastering Processors**|Junghyun Koo et.al.|[2506.16889](http://arxiv.org/abs/2506.16889)|**[link](https://github.com/sonyresearch/ito-master)**|
+|**2025-06-26**|**ITO-Master: Inference-Time Optimization for Audio Effects Modeling of Music Mastering Processors**|Junghyun Koo et.al.|[2506.16889](http://arxiv.org/abs/2506.16889)|**[link](https://github.com/sonyresearch/ito-master)**|
 |**2025-06-19**|**Category-based Galaxy Image Generation via Diffusion Models**|Xingzhong Fan et.al.|[2506.16255](http://arxiv.org/abs/2506.16255)|null|
 |**2025-06-19**|**Synthetic ALS-EEG Data Augmentation for ALS Diagnosis Using Conditional WGAN with Weight Clipping**|Abdulvahap Mutlu et.al.|[2506.16243](http://arxiv.org/abs/2506.16243)|**[link](https://github.com/abdulvahapmutlu/als-synthetic-data-augmentation-wgan)**|
 |**2025-06-19**|**VideoGAN-based Trajectory Proposal for Automated Vehicles**|Annajoyce Mariani et.al.|[2506.16209](http://arxiv.org/abs/2506.16209)|**[link](https://github.com/ajmariani/video-gan-trajectories)**|
@@ -2453,7 +2453,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-25**|**EditP23: 3D Editing via Propagation of Image Prompts to Multi-View**|Roi Bar-On et.al.|[2506.20652](http://arxiv.org/abs/2506.20652)|null|
 |**2025-06-25**|**Telegrapher's Generative Model via Kac Flows**|Richard Duong et.al.|[2506.20641](http://arxiv.org/abs/2506.20641)|null|
-|**2025-06-25**|**DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation**|Shansan Gong et.al.|[2506.20639](http://arxiv.org/abs/2506.20639)|null|
+|**2025-06-26**|**DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation**|Shansan Gong et.al.|[2506.20639](http://arxiv.org/abs/2506.20639)|null|
 |**2025-06-25**|**MC for Agriculture: A Framework for Nature-inspired Sustainable Pest Control**|Fardad Vakilipoor et.al.|[2506.20637](http://arxiv.org/abs/2506.20637)|null|
 |**2025-06-25**|**Shape2Animal: Creative Animal Generation from Natural Silhouettes**|Quoc-Duy Tran et.al.|[2506.20616](http://arxiv.org/abs/2506.20616)|null|
 |**2025-06-25**|**Pay Less Attention to Deceptive Artifacts: Robust Detection of Compressed Deepfakes on Online Social Networks**|Manyi Li et.al.|[2506.20548](http://arxiv.org/abs/2506.20548)|null|

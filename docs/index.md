@@ -39,6 +39,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-30**|**Modelling effective electrical resistance in particle reinforced composites using Generative Adversarial Network**|Vinit Vijay Deshpande et.al.|[2506.23655](http://arxiv.org/abs/2506.23655)|null|
+|**2025-06-29**|**Federated Breast Cancer Detection Enhanced by Synthetic Ultrasound Image Augmentation**|Hongyi Pan et.al.|[2506.23334](http://arxiv.org/abs/2506.23334)|null|
 |**2025-06-30**|**Advancing Facial Stylization through Semantic Preservation Constraint and Pseudo-Paired Supervision**|Zhanyi Lu et.al.|[2506.22022](http://arxiv.org/abs/2506.22022)|null|
 |**2025-06-23**|**Performance of diverse evaluation metrics in NLP-based assessment and text generation of consumer complaints**|Peiheng Gao et.al.|[2506.21623](http://arxiv.org/abs/2506.21623)|null|
 |**2025-06-26**|**High-quality metalens enables minimally invasive CFB endoscopy**|Ruixiang Song et.al.|[2506.21379](http://arxiv.org/abs/2506.21379)|null|
@@ -2457,6 +2459,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-30**|**Epona: Autoregressive Diffusion World Model for Autonomous Driving**|Kaiwen Zhang et.al.|[2506.24113](http://arxiv.org/abs/2506.24113)|null|
+|**2025-06-30**|**Navigating with Annealing Guidance Scale in Diffusion Space**|Shai Yehezkel et.al.|[2506.24108](http://arxiv.org/abs/2506.24108)|null|
+|**2025-06-30**|**Imagine for Me: Creative Conceptual Blending of Real Images and Text via Blended Attention**|Wonwoong Cho et.al.|[2506.24085](http://arxiv.org/abs/2506.24085)|null|
+|**2025-06-30**|**Faster Diffusion Models via Higher-Order Approximation**|Gen Li et.al.|[2506.24042](http://arxiv.org/abs/2506.24042)|null|
+|**2025-06-30**|**Supervised Diffusion-Model-Based PET Image Reconstruction**|George Webber et.al.|[2506.24034](http://arxiv.org/abs/2506.24034)|null|
+|**2025-06-30**|**VMoBA: Mixture-of-Block Attention for Video Diffusion Models**|Jianzong Wu et.al.|[2506.23858](http://arxiv.org/abs/2506.23858)|null|
+|**2025-06-30**|**Controllable Reference-Based Real-World Remote Sensing Image Super-Resolution with Generative Diffusion Priors**|Ce Wang et.al.|[2506.23801](http://arxiv.org/abs/2506.23801)|null|
+|**2025-06-30**|**Radioactive Watermarks in Diffusion and Autoregressive Image Generative Models**|Michel Meintz et.al.|[2506.23731](http://arxiv.org/abs/2506.23731)|null|
+|**2025-06-30**|**Proteus-ID: ID-Consistent and Motion-Coherent Video Customization**|Guiyu Zhang et.al.|[2506.23729](http://arxiv.org/abs/2506.23729)|null|
+|**2025-06-30**|**MDPG: Multi-domain Diffusion Prior Guidance for MRI Reconstruction**|Lingtong Zhang et.al.|[2506.23701](http://arxiv.org/abs/2506.23701)|null|
+|**2025-06-30**|**A Unified Framework for Stealthy Adversarial Generation via Latent Optimization and Transferability Enhancement**|Gaozheng Pei et.al.|[2506.23676](http://arxiv.org/abs/2506.23676)|null|
+|**2025-06-30**|**Diffusion Model-based Data Augmentation Method for Fetal Head Ultrasound Segmentation**|Fangyijie Wang et.al.|[2506.23664](http://arxiv.org/abs/2506.23664)|null|
+|**2025-06-30**|**Blending Concepts with Text-to-Image Diffusion Models**|Lorenzo Olearo et.al.|[2506.23630](http://arxiv.org/abs/2506.23630)|null|
+|**2025-06-30**|**TurboVSR: Fantastic Video Upscalers and Where to Find Them**|Zhongdao Wang et.al.|[2506.23618](http://arxiv.org/abs/2506.23618)|null|
+|**2025-06-30**|**SG-LDM: Semantic-Guided LiDAR Generation via Latent-Aligned Diffusion**|Zhengkang Xiang et.al.|[2506.23606](http://arxiv.org/abs/2506.23606)|null|
+|**2025-06-30**|**Metadata, Wavelet, and Time Aware Diffusion Models for Satellite Image Super Resolution**|Luigi Sigillo et.al.|[2506.23566](http://arxiv.org/abs/2506.23566)|null|
+|**2025-06-30**|**Uncertainty-aware Diffusion and Reinforcement Learning for Joint Plane Localization and Anomaly Diagnosis in 3D Ultrasound**|Yuhao Huang et.al.|[2506.23538](http://arxiv.org/abs/2506.23538)|null|
+|**2025-06-30**|**WAVE: Warp-Based View Guidance for Consistent Novel View Synthesis Using a Single Image**|Jiwoo Park et.al.|[2506.23518](http://arxiv.org/abs/2506.23518)|null|
+|**2025-06-30**|**ViewPoint: Panoramic Video Generation with Pretrained Diffusion Models**|Zixun Fang et.al.|[2506.23513](http://arxiv.org/abs/2506.23513)|null|
+|**2025-06-30**|**MTADiffusion: Mask Text Alignment Diffusion Model for Object Inpainting**|Jun Huang et.al.|[2506.23482](http://arxiv.org/abs/2506.23482)|null|
 |**2025-06-27**|**Shape-for-Motion: Precise and Consistent Video Editing with 3D Proxy**|Yuhao Liu et.al.|[2506.22432](http://arxiv.org/abs/2506.22432)|null|
 |**2025-06-27**|**DiffSoundStream: Efficient Speech Tokenization via Diffusion Decoding**|Yang Yang et.al.|[2506.22362](http://arxiv.org/abs/2506.22362)|null|
 |**2025-06-27**|**OutDreamer: Video Outpainting with a Diffusion Transformer**|Linhao Zhong et.al.|[2506.22298](http://arxiv.org/abs/2506.22298)|null|
@@ -10310,6 +10332,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-30**|**A Unified Framework for Stealthy Adversarial Generation via Latent Optimization and Transferability Enhancement**|Gaozheng Pei et.al.|[2506.23676](http://arxiv.org/abs/2506.23676)|null|
+|**2025-06-30**|**TAG-WM: Tamper-Aware Generative Image Watermarking via Diffusion Inversion Sensitivity**|Yuzhuo Chen et.al.|[2506.23484](http://arxiv.org/abs/2506.23484)|null|
+|**2025-06-29**|**OmniVCus: Feedforward Subject-driven Video Customization with Multimodal Control Conditions**|Yuanhao Cai et.al.|[2506.23361](http://arxiv.org/abs/2506.23361)|null|
+|**2025-06-29**|**Double-Diffusion: Diffusion Conditioned Diffusion Probabilistic Model For Air Quality Prediction**|Hanlin Dong et.al.|[2506.23053](http://arxiv.org/abs/2506.23053)|null|
+|**2025-06-29**|**Ovis-U1 Technical Report**|Guo-Hua Wang et.al.|[2506.23044](http://arxiv.org/abs/2506.23044)|null|
+|**2025-06-28**|**Towards Explainable Bilingual Multimodal Misinformation Detection and Localization**|Yiwei He et.al.|[2506.22930](http://arxiv.org/abs/2506.22930)|null|
+|**2025-06-28**|**SemFaceEdit: Semantic Face Editing on Generative Radiance Manifolds**|Shashikant Verma et.al.|[2506.22833](http://arxiv.org/abs/2506.22833)|null|
 |**2025-06-27**|**EAMamba: Efficient All-Around Vision State Space Model for Image Restoration**|Yu-Cheng Lin et.al.|[2506.22246](http://arxiv.org/abs/2506.22246)|null|
 |**2025-06-27**|**GenEscape: Hierarchical Multi-Agent Generation of Escape Room Puzzles**|Mengyi Shan et.al.|[2506.21839](http://arxiv.org/abs/2506.21839)|null|
 |**2025-06-26**|**Elucidating and Endowing the Diffusion Training Paradigm for General Image Restoration**|Xin Lu et.al.|[2506.21722](http://arxiv.org/abs/2506.21722)|null|
@@ -11819,6 +11848,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-30**|**HiNeuS: High-fidelity Neural Surface Mitigating Low-texture and Reflective Ambiguity**|Yida Wang et.al.|[2506.23854](http://arxiv.org/abs/2506.23854)|null|
 |**2025-06-26**|**PhotonSplat: 3D Scene Reconstruction and Colorization from SPAD Sensors**|Sai Sri Teja et.al.|[2506.21680](http://arxiv.org/abs/2506.21680)|null|
 |**2025-06-24**|**ICP-3DGS: SfM-free 3D Gaussian Splatting for Large-scale Unbounded Scenes**|Chenhao Zhang et.al.|[2506.21629](http://arxiv.org/abs/2506.21629)|null|
 |**2025-06-23**|**R3eVision: A Survey on Robust Rendering, Restoration, and Enhancement for 3D Low-Level Vision**|Weeyoung Kwon et.al.|[2506.16262](http://arxiv.org/abs/2506.16262)|**[link](https://github.com/cmlab-korea/awesome-3d-low-level-vision)**|

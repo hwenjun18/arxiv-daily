@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.30
+## Updated on 2025.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -39,7 +39,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-27**|**Advancing Facial Stylization through Semantic Preservation Constraint and Pseudo-Paired Supervision**|Zhanyi Lu et.al.|[2506.22022](http://arxiv.org/abs/2506.22022)|null|
+|**2025-06-30**|**Advancing Facial Stylization through Semantic Preservation Constraint and Pseudo-Paired Supervision**|Zhanyi Lu et.al.|[2506.22022](http://arxiv.org/abs/2506.22022)|null|
 |**2025-06-23**|**Performance of diverse evaluation metrics in NLP-based assessment and text generation of consumer complaints**|Peiheng Gao et.al.|[2506.21623](http://arxiv.org/abs/2506.21623)|null|
 |**2025-06-26**|**High-quality metalens enables minimally invasive CFB endoscopy**|Ruixiang Song et.al.|[2506.21379](http://arxiv.org/abs/2506.21379)|null|
 |**2025-06-26**|**Generative Adversarial Evasion and Out-of-Distribution Detection for UAV Cyber-Attacks**|Deepak Kumar Panda et.al.|[2506.21142](http://arxiv.org/abs/2506.21142)|null|
@@ -12276,7 +12276,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-27**|**MirrorMe: Towards Realtime and High Fidelity Audio-Driven Halfbody Animation**|Dechao Meng et.al.|[2506.22065](http://arxiv.org/abs/2506.22065)|null|
-|**2025-06-27**|**Advancing Facial Stylization through Semantic Preservation Constraint and Pseudo-Paired Supervision**|Zhanyi Lu et.al.|[2506.22022](http://arxiv.org/abs/2506.22022)|null|
+|**2025-06-30**|**Advancing Facial Stylization through Semantic Preservation Constraint and Pseudo-Paired Supervision**|Zhanyi Lu et.al.|[2506.22022](http://arxiv.org/abs/2506.22022)|null|
 |**2025-06-26**|**Cosmology with Distinct Functions $f$ of the Non-metricity Scalar $Q$ : A Dynamical System Approach**|Promila Biswas et.al.|[2506.21646](http://arxiv.org/abs/2506.21646)|null|
 |**2025-06-23**|**Accurate identification of communication between multiple interacting neural populations**|Belle Liu et.al.|[2506.19094](http://arxiv.org/abs/2506.19094)|null|
 |**2025-06-23**|**TC-Light: Temporally Consistent Relighting for Dynamic Long Videos**|Yang Liu et.al.|[2506.18904](http://arxiv.org/abs/2506.18904)|null|

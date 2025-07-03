@@ -39,6 +39,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**Improving GANs by leveraging the quantum noise from real hardware**|Hongni Jin et.al.|[2507.01886](http://arxiv.org/abs/2507.01886)|null|
+|**2025-07-01**|**Surgical Neural Radiance Fields from One Image**|Alberto Neri et.al.|[2507.00969](http://arxiv.org/abs/2507.00969)|null|
+|**2025-07-01**|**GANs Secretly Perform Approximate Bayesian Model Selection**|Maurizio Filippone et.al.|[2507.00651](http://arxiv.org/abs/2507.00651)|null|
+|**2025-07-01**|**Physics-Aware Style Transfer for Adaptive Holographic Reconstruction**|Chanseok Lee et.al.|[2507.00482](http://arxiv.org/abs/2507.00482)|null|
+|**2025-06-30**|**Text-to-Level Diffusion Models With Various Text Encoders for Super Mario Bros**|Jacob Schrum et.al.|[2507.00184](http://arxiv.org/abs/2507.00184)|null|
+|**2025-06-30**|**Generating Heterogeneous Multi-dimensional Data : A Comparative Study**|Corbeau Michael et.al.|[2507.00090](http://arxiv.org/abs/2507.00090)|null|
 |**2025-06-30**|**Modelling effective electrical resistance in particle reinforced composites using Generative Adversarial Network**|Vinit Vijay Deshpande et.al.|[2506.23655](http://arxiv.org/abs/2506.23655)|null|
 |**2025-06-29**|**Federated Breast Cancer Detection Enhanced by Synthetic Ultrasound Image Augmentation**|Hongyi Pan et.al.|[2506.23334](http://arxiv.org/abs/2506.23334)|null|
 |**2025-06-30**|**Advancing Facial Stylization through Semantic Preservation Constraint and Pseudo-Paired Supervision**|Zhanyi Lu et.al.|[2506.22022](http://arxiv.org/abs/2506.22022)|null|
@@ -2459,6 +2465,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**FreeMorph: Tuning-Free Generalized Image Morphing with Diffusion Model**|Yukang Cao et.al.|[2507.01953](http://arxiv.org/abs/2507.01953)|null|
+|**2025-07-02**|**Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning**|Qingdong He et.al.|[2507.01908](http://arxiv.org/abs/2507.01908)|null|
+|**2025-07-02**|**Frontiers of Generative AI for Network Optimization: Theories, Limits, and Visions**|Bo Yang et.al.|[2507.01773](http://arxiv.org/abs/2507.01773)|null|
+|**2025-07-02**|**Vision-Aided ISAC in Low-Altitude Economy Networks via De-Diffused Visual Priors**|Yulan Gao et.al.|[2507.01574](http://arxiv.org/abs/2507.01574)|null|
+|**2025-07-02**|**Loss Functions in Diffusion Models: A Comparative Study**|Dibyanshu Kumar et.al.|[2507.01516](http://arxiv.org/abs/2507.01516)|null|
+|**2025-07-02**|**ReFlex: Text-Guided Editing of Real Images in Rectified Flow via Mid-Step Feature Extraction and Attention Adaptation**|Jimyeong Kim et.al.|[2507.01496](http://arxiv.org/abs/2507.01496)|null|
+|**2025-07-02**|**Representation Entanglement for Generation:Training Diffusion Transformers Is Much Easier Than You Think**|Ge Wu et.al.|[2507.01467](http://arxiv.org/abs/2507.01467)|null|
+|**2025-07-02**|**DiffMark: Diffusion-based Robust Watermark Against Deepfakes**|Chen Sun et.al.|[2507.01428](http://arxiv.org/abs/2507.01428)|null|
+|**2025-07-02**|**DocShaDiffusion: Diffusion Model in Latent Space for Document Image Shadow Removal**|Wenjie Liu et.al.|[2507.01422](http://arxiv.org/abs/2507.01422)|null|
+|**2025-07-02**|**Distributional Soft Actor-Critic with Diffusion Policy**|Tong Liu et.al.|[2507.01381](http://arxiv.org/abs/2507.01381)|null|
+|**2025-07-02**|**Efficient Kilometer-Scale Precipitation Downscaling with Conditional Wavelet Diffusion**|Chugang Yi et.al.|[2507.01354](http://arxiv.org/abs/2507.01354)|null|
+|**2025-07-02**|**Multi-User Generative Semantic Communication with Intent-Aware Semantic-Splitting Multiple Access**|Jiayi Lu et.al.|[2507.01333](http://arxiv.org/abs/2507.01333)|null|
+|**2025-07-02**|**SD-Acc: Accelerating Stable Diffusion through Phase-aware Sampling and Hardware Co-Optimizations**|Zhican Wang et.al.|[2507.01309](http://arxiv.org/abs/2507.01309)|null|
+|**2025-07-02**|**DiffusionLight-Turbo: Accelerated Light Probes for Free via Single-Pass Chrome Ball Inpainting**|Worameth Chinchuthakun et.al.|[2507.01305](http://arxiv.org/abs/2507.01305)|null|
+|**2025-07-02**|**Frequency Domain-Based Diffusion Model for Unpaired Image Dehazing**|Chengxu Liu et.al.|[2507.01275](http://arxiv.org/abs/2507.01275)|null|
+|**2025-07-01**|**Diffusion Explorer: Interactive Exploration of Diffusion Models**|Alec Helbling et.al.|[2507.01178](http://arxiv.org/abs/2507.01178)|null|
+|**2025-07-01**|**Bayesian Regression Analysis with the Drift-Diffusion Model**|Zekai Jin et.al.|[2507.01177](http://arxiv.org/abs/2507.01177)|null|
+|**2025-07-01**|**DAM-VSR: Disentanglement of Appearance and Motion for Video Super-Resolution**|Zhe Kong et.al.|[2507.01012](http://arxiv.org/abs/2507.01012)|null|
+|**2025-07-02**|**UniGlyph: Unified Segmentation-Conditioned Diffusion for Precise Visual Text Synthesis**|Yuanrui Wang et.al.|[2507.00992](http://arxiv.org/abs/2507.00992)|null|
+|**2025-07-01**|**Robotic Manipulation by Imitating Generated Videos Without Physical Demonstrations**|Shivansh Patel et.al.|[2507.00990](http://arxiv.org/abs/2507.00990)|null|
 |**2025-06-30**|**Epona: Autoregressive Diffusion World Model for Autonomous Driving**|Kaiwen Zhang et.al.|[2506.24113](http://arxiv.org/abs/2506.24113)|null|
 |**2025-06-30**|**Navigating with Annealing Guidance Scale in Diffusion Space**|Shai Yehezkel et.al.|[2506.24108](http://arxiv.org/abs/2506.24108)|null|
 |**2025-06-30**|**Imagine for Me: Creative Conceptual Blending of Real Images and Text via Blended Attention**|Wonwoong Cho et.al.|[2506.24085](http://arxiv.org/abs/2506.24085)|null|
@@ -10332,6 +10358,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning**|Qingdong He et.al.|[2507.01908](http://arxiv.org/abs/2507.01908)|null|
+|**2025-07-02**|**ReFlex: Text-Guided Editing of Real Images in Rectified Flow via Mid-Step Feature Extraction and Attention Adaptation**|Jimyeong Kim et.al.|[2507.01496](http://arxiv.org/abs/2507.01496)|null|
+|**2025-07-02**|**QC-OT: Optimal Transport with Quasiconformal Mapping**|Yuping Lv et.al.|[2507.01456](http://arxiv.org/abs/2507.01456)|null|
+|**2025-07-01**|**LD-RPS: Zero-Shot Unified Image Restoration via Latent Diffusion Recurrent Posterior Sampling**|Huaqiu Li et.al.|[2507.00790](http://arxiv.org/abs/2507.00790)|null|
+|**2025-07-01**|**Laplace-Mamba: Laplace Frequency Prior-Guided Mamba-CNN Fusion Network for Image Dehazing**|Yongzhen Wang et.al.|[2507.00501](http://arxiv.org/abs/2507.00501)|null|
 |**2025-06-30**|**A Unified Framework for Stealthy Adversarial Generation via Latent Optimization and Transferability Enhancement**|Gaozheng Pei et.al.|[2506.23676](http://arxiv.org/abs/2506.23676)|null|
 |**2025-06-30**|**TAG-WM: Tamper-Aware Generative Image Watermarking via Diffusion Inversion Sensitivity**|Yuzhuo Chen et.al.|[2506.23484](http://arxiv.org/abs/2506.23484)|null|
 |**2025-06-29**|**OmniVCus: Feedforward Subject-driven Video Customization with Multimodal Control Conditions**|Yuanhao Cai et.al.|[2506.23361](http://arxiv.org/abs/2506.23361)|null|
@@ -12305,6 +12336,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**FitzHugh-Naguma equation: from global dynamics to slow-fast syetem**|Alexandre A. P. Rodrigues et.al.|[2507.01623](http://arxiv.org/abs/2507.01623)|null|
 |**2025-06-27**|**MirrorMe: Towards Realtime and High Fidelity Audio-Driven Halfbody Animation**|Dechao Meng et.al.|[2506.22065](http://arxiv.org/abs/2506.22065)|null|
 |**2025-06-30**|**Advancing Facial Stylization through Semantic Preservation Constraint and Pseudo-Paired Supervision**|Zhanyi Lu et.al.|[2506.22022](http://arxiv.org/abs/2506.22022)|null|
 |**2025-06-26**|**Cosmology with Distinct Functions $f$ of the Non-metricity Scalar $Q$ : A Dynamical System Approach**|Promila Biswas et.al.|[2506.21646](http://arxiv.org/abs/2506.21646)|null|

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.02
+## Updated on 2025.07.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -12309,7 +12309,7 @@ layout: default
 |**2025-06-30**|**Advancing Facial Stylization through Semantic Preservation Constraint and Pseudo-Paired Supervision**|Zhanyi Lu et.al.|[2506.22022](http://arxiv.org/abs/2506.22022)|null|
 |**2025-06-26**|**Cosmology with Distinct Functions $f$ of the Non-metricity Scalar $Q$ : A Dynamical System Approach**|Promila Biswas et.al.|[2506.21646](http://arxiv.org/abs/2506.21646)|null|
 |**2025-06-23**|**Accurate identification of communication between multiple interacting neural populations**|Belle Liu et.al.|[2506.19094](http://arxiv.org/abs/2506.19094)|null|
-|**2025-06-23**|**TC-Light: Temporally Consistent Relighting for Dynamic Long Videos**|Yang Liu et.al.|[2506.18904](http://arxiv.org/abs/2506.18904)|null|
+|**2025-07-02**|**TC-Light: Temporally Coherent Generative Rendering for Realistic World Transfer**|Yang Liu et.al.|[2506.18904](http://arxiv.org/abs/2506.18904)|null|
 |**2025-06-20**|**Controllable and Expressive One-Shot Video Head Swapping**|Chaonan Ji et.al.|[2506.16852](http://arxiv.org/abs/2506.16852)|null|
 |**2025-06-16**|**EchoShot: Multi-Shot Portrait Video Generation**|Jiahao Wang et.al.|[2506.15838](http://arxiv.org/abs/2506.15838)|null|
 |**2025-06-17**|**SyncTalk++: High-Fidelity and Efficient Synchronized Talking Heads Synthesis Using Gaussian Splatting**|Ziqiao Peng et.al.|[2506.14742](http://arxiv.org/abs/2506.14742)|null|

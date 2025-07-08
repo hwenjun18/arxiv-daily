@@ -51,6 +51,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-07**|**VERITAS: Verification and Explanation of Realness in Images for Transparency in AI Systems**|Aadi Srivastava et.al.|[2507.05146](http://arxiv.org/abs/2507.05146)|null|
+|**2025-07-07**|**When do World Models Successfully Learn Dynamical Systems?**|Edmund Ross et.al.|[2507.04898](http://arxiv.org/abs/2507.04898)|null|
+|**2025-07-07**|**Efficacy of Image Similarity as a Metric for Augmenting Small Dataset Retinal Image Segmentation**|Thomas Wallace et.al.|[2507.04862](http://arxiv.org/abs/2507.04862)|null|
+|**2025-07-07**|**Hybrid Adversarial Spectral Loss Conditional Generative Adversarial Networks for Signal Data Augmentation in Ultra-precision Machining Surface Roughness Prediction**|Suiyan Shang et.al.|[2507.04665](http://arxiv.org/abs/2507.04665)|null|
+|**2025-07-06**|**Domain Generalizable Portrait Style Transfer**|Xinbo Wang et.al.|[2507.04243](http://arxiv.org/abs/2507.04243)|null|
+|**2025-07-04**|**Super-resolution of turbulent velocity fields in two-way coupled particle-laden flows**|Ali Shamooni et.al.|[2507.03567](http://arxiv.org/abs/2507.03567)|null|
+|**2025-07-04**|**Hybrid Quantum Generative Adversarial Networks To Inverse Design Metasurfaces For Incident Angle-Independent Unidirectional Transmission**|Sreeraj Rajan Warrier et.al.|[2507.03518](http://arxiv.org/abs/2507.03518)|null|
+|**2025-07-04**|**WETBench: A Benchmark for Detecting Task-Specific Machine-Generated Text on Wikipedia**|Gerrit Quaremba et.al.|[2507.03373](http://arxiv.org/abs/2507.03373)|null|
+|**2025-07-04**|**UltraDfeGAN: Detail-Enhancing Generative Adversarial Networks for High-Fidelity Functional Ultrasound Synthesis**|Zhuo Li et.al.|[2507.03341](http://arxiv.org/abs/2507.03341)|null|
 |**2025-07-03**|**AnyI2V: Animating Any Conditional Image with Motion Control**|Ziye Li et.al.|[2507.02857](http://arxiv.org/abs/2507.02857)|null|
 |**2025-07-07**|**Holistic Tokenizer for Autoregressive Image Generation**|Anlin Zheng et.al.|[2507.02358](http://arxiv.org/abs/2507.02358)|null|
 |**2025-07-03**|**Transformer-based EEG Decoding: A Survey**|Haodong Zhang et.al.|[2507.02320](http://arxiv.org/abs/2507.02320)|null|
@@ -2482,6 +2491,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-07**|**EmbodieDreamer: Advancing Real2Sim2Real Transfer for Policy Training via Embodied World Modeling**|Boyuan Wang et.al.|[2507.05198](http://arxiv.org/abs/2507.05198)|null|
+|**2025-07-07**|**SV-DRR: High-Fidelity Novel View X-Ray Synthesis Using Diffusion Model**|Chun Xie et.al.|[2507.05148](http://arxiv.org/abs/2507.05148)|null|
+|**2025-07-07**|**VERITAS: Verification and Explanation of Realness in Images for Transparency in AI Systems**|Aadi Srivastava et.al.|[2507.05146](http://arxiv.org/abs/2507.05146)|null|
+|**2025-07-07**|**MoDiT: Learning Highly Consistent 3D Motion Coefficients with Diffusion Transformer for Talking Head Generation**|Yucheng Wang et.al.|[2507.05092](http://arxiv.org/abs/2507.05092)|null|
+|**2025-07-07**|**AI-Driven Cytomorphology Image Synthesis for Medical Diagnostics**|Jan Carreras Boada et.al.|[2507.05063](http://arxiv.org/abs/2507.05063)|null|
+|**2025-07-07**|**A COMPASS to Model Comparison and Simulation-Based Inference in Galactic Chemical Evolution**|Berkay Gunes et.al.|[2507.05060](http://arxiv.org/abs/2507.05060)|null|
+|**2025-07-07**|**A Generative Diffusion Model for Amorphous Materials**|Kai Yang et.al.|[2507.05024](http://arxiv.org/abs/2507.05024)|null|
+|**2025-07-07**|**TLB-VFI: Temporal-Aware Latent Brownian Bridge Diffusion for Video Frame Interpolation**|Zonglin Lyu et.al.|[2507.04984](http://arxiv.org/abs/2507.04984)|null|
+|**2025-07-07**|**A diffusion model for light scattering in ejecta**|J. A. Don Jayamanne et.al.|[2507.04972](http://arxiv.org/abs/2507.04972)|null|
+|**2025-07-07**|**LAPS-Diff: A Diffusion-Based Framework for Singing Voice Synthesis With Language Aware Prosody-Style Guided Learning**|Sandipan Dhar et.al.|[2507.04966](http://arxiv.org/abs/2507.04966)|null|
+|**2025-07-07**|**DC-AR: Efficient Masked Autoregressive Image Generation with Deep Compression Hybrid Tokenizer**|Yecheng Wu et.al.|[2507.04947](http://arxiv.org/abs/2507.04947)|null|
+|**2025-07-07**|**Taming the Tri-Space Tension: ARC-Guided Hallucination Modeling and Control for Text-to-Image Generation**|Jianjiang Yang et.al.|[2507.04946](http://arxiv.org/abs/2507.04946)|null|
+|**2025-07-07**|**RainShift: A Benchmark for Precipitation Downscaling Across Geographies**|Paula Harder et.al.|[2507.04930](http://arxiv.org/abs/2507.04930)|null|
+|**2025-07-07**|**Object-centric Denoising Diffusion Models for Physical Reasoning**|Moritz Lange et.al.|[2507.04920](http://arxiv.org/abs/2507.04920)|null|
+|**2025-07-07**|**Music Boomerang: Reusing Diffusion Models for Data Augmentation and Audio Manipulation**|Alexander Fichtinger et.al.|[2507.04864](http://arxiv.org/abs/2507.04864)|null|
+|**2025-07-07**|**Discrete Diffusion Trajectory Alignment via Stepwise Decomposition**|Jiaqi Han et.al.|[2507.04832](http://arxiv.org/abs/2507.04832)|null|
+|**2025-07-07**|**GraphBrep: Learning B-Rep in Graph Structure for Efficient CAD Generation**|Weilin Lai et.al.|[2507.04765](http://arxiv.org/abs/2507.04765)|null|
+|**2025-07-07**|**Losing Control: Data Poisoning Attack on Guided Diffusion via ControlNet**|Raz Lapid et.al.|[2507.04726](http://arxiv.org/abs/2507.04726)|null|
+|**2025-07-07**|**Structure-Guided Diffusion Models for High-Fidelity Portrait Shadow Removal**|Wanchang Yu et.al.|[2507.04692](http://arxiv.org/abs/2507.04692)|null|
+|**2025-07-07**|**TeethGenerator: A two-stage framework for paired pre- and post-orthodontic 3D dental data generation**|Changsong Lei et.al.|[2507.04685](http://arxiv.org/abs/2507.04685)|null|
 |**2025-07-03**|**Less is Enough: Training-Free Video Diffusion Acceleration via Runtime-Adaptive Caching**|Xin Zhou et.al.|[2507.02860](http://arxiv.org/abs/2507.02860)|null|
 |**2025-07-03**|**AnyI2V: Animating Any Conditional Image with Motion Control**|Ziye Li et.al.|[2507.02857](http://arxiv.org/abs/2507.02857)|null|
 |**2025-07-03**|**USAD: An Unsupervised Data Augmentation Spatio-Temporal Attention Diffusion Network**|Ying Yu et.al.|[2507.02827](http://arxiv.org/abs/2507.02827)|null|
@@ -10397,6 +10426,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-07**|**Beyond Simple Edits: X-Planner for Complex Instruction-Based Image Editing**|Chun-Hsiao Yeh et.al.|[2507.05259](http://arxiv.org/abs/2507.05259)|null|
+|**2025-07-07**|**S $^2$ Edit: Text-Guided Image Editing with Precise Semantic and Spatial Control**|Xudong Liu et.al.|[2507.04584](http://arxiv.org/abs/2507.04584)|null|
+|**2025-07-06**|**Quick Bypass Mechanism of Zero-Shot Diffusion-Based Image Restoration**|Yu-Shan Tai et.al.|[2507.04207](http://arxiv.org/abs/2507.04207)|null|
+|**2025-07-04**|**Pose-Star: Anatomy-Aware Editing for Open-World Fashion Images**|Yuran Dong et.al.|[2507.03402](http://arxiv.org/abs/2507.03402)|null|
+|**2025-07-04**|**LACONIC: A 3D Layout Adapter for Controllable Image Creation**|Léopold Maillard et.al.|[2507.03257](http://arxiv.org/abs/2507.03257)|null|
 |**2025-07-02**|**Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning**|Qingdong He et.al.|[2507.01908](http://arxiv.org/abs/2507.01908)|null|
 |**2025-07-02**|**ReFlex: Text-Guided Editing of Real Images in Rectified Flow via Mid-Step Feature Extraction and Attention Adaptation**|Jimyeong Kim et.al.|[2507.01496](http://arxiv.org/abs/2507.01496)|null|
 |**2025-07-02**|**QC-OT: Optimal Transport with Quasiconformal Mapping**|Yuping Lv et.al.|[2507.01456](http://arxiv.org/abs/2507.01456)|null|
@@ -11920,6 +11954,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-06**|**Sat2City: 3D City Generation from A Single Satellite Image with Cascaded Latent Diffusion**|Tongyan Hua et.al.|[2507.04403](http://arxiv.org/abs/2507.04403)|null|
+|**2025-07-05**|**A3FR: Agile 3D Gaussian Splatting with Incremental Gaze Tracked Foveated Rendering in Virtual Reality**|Shuo Xin et.al.|[2507.04147](http://arxiv.org/abs/2507.04147)|null|
+|**2025-07-04**|**MoDA: Multi-modal Diffusion Architecture for Talking Head Generation**|Xinyang Li et.al.|[2507.03256](http://arxiv.org/abs/2507.03256)|null|
 |**2025-06-30**|**HiNeuS: High-fidelity Neural Surface Mitigating Low-texture and Reflective Ambiguity**|Yida Wang et.al.|[2506.23854](http://arxiv.org/abs/2506.23854)|null|
 |**2025-06-26**|**PhotonSplat: 3D Scene Reconstruction and Colorization from SPAD Sensors**|Sai Sri Teja et.al.|[2506.21680](http://arxiv.org/abs/2506.21680)|null|
 |**2025-06-24**|**ICP-3DGS: SfM-free 3D Gaussian Splatting for Large-scale Unbounded Scenes**|Chenhao Zhang et.al.|[2506.21629](http://arxiv.org/abs/2506.21629)|null|
@@ -12381,6 +12418,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-07**|**A portrait throughout perihelion of the NH $_2$ -rich interstellar comet 2I/Borisov**|Sophie E. Deam et.al.|[2507.05051](http://arxiv.org/abs/2507.05051)|null|
+|**2025-07-07**|**Profinite geometric iterated monodromy groups of postcritically finite polynomials in degree 3**|Mikhail Hlushchanka et.al.|[2507.05033](http://arxiv.org/abs/2507.05033)|null|
+|**2025-07-07**|**Structure-Guided Diffusion Models for High-Fidelity Portrait Shadow Removal**|Wanchang Yu et.al.|[2507.04692](http://arxiv.org/abs/2507.04692)|null|
+|**2025-07-06**|**Domain Generalizable Portrait Style Transfer**|Xinbo Wang et.al.|[2507.04243](http://arxiv.org/abs/2507.04243)|null|
+|**2025-07-05**|**Flux-Sculptor: Text-Driven Rich-Attribute Portrait Editing through Decomposed Spatial Flow Control**|Tianyao He et.al.|[2507.03979](http://arxiv.org/abs/2507.03979)|null|
+|**2025-07-05**|**Evaluating Adversarial Protections for Diffusion Personalization: A Comprehensive Study**|Kai Ye et.al.|[2507.03953](http://arxiv.org/abs/2507.03953)|null|
 |**2025-07-03**|**FitzHugh-Nagumo equation: from global dynamics to slow-fast system**|Alexandre A. P. Rodrigues et.al.|[2507.01623](http://arxiv.org/abs/2507.01623)|null|
 |**2025-06-27**|**MirrorMe: Towards Realtime and High Fidelity Audio-Driven Halfbody Animation**|Dechao Meng et.al.|[2506.22065](http://arxiv.org/abs/2506.22065)|null|
 |**2025-06-30**|**Advancing Facial Stylization through Semantic Preservation Constraint and Pseudo-Paired Supervision**|Zhanyi Lu et.al.|[2506.22022](http://arxiv.org/abs/2506.22022)|null|

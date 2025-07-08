@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.07
+## Updated on 2025.07.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -40,7 +40,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-03**|**AnyI2V: Animating Any Conditional Image with Motion Control**|Ziye Li et.al.|[2507.02857](http://arxiv.org/abs/2507.02857)|null|
-|**2025-07-03**|**Holistic Tokenizer for Autoregressive Image Generation**|Anlin Zheng et.al.|[2507.02358](http://arxiv.org/abs/2507.02358)|null|
+|**2025-07-07**|**Holistic Tokenizer for Autoregressive Image Generation**|Anlin Zheng et.al.|[2507.02358](http://arxiv.org/abs/2507.02358)|null|
 |**2025-07-03**|**Transformer-based EEG Decoding: A Survey**|Haodong Zhang et.al.|[2507.02320](http://arxiv.org/abs/2507.02320)|null|
 |**2025-07-02**|**Improving GANs by leveraging the quantum noise from real hardware**|Hongni Jin et.al.|[2507.01886](http://arxiv.org/abs/2507.01886)|null|
 |**2025-07-01**|**Surgical Neural Radiance Fields from One Image**|Alberto Neri et.al.|[2507.00969](http://arxiv.org/abs/2507.00969)|null|
@@ -2474,14 +2474,14 @@ layout: default
 |**2025-07-03**|**LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with TriMap Video Diffusion**|Fangfu Liu et.al.|[2507.02813](http://arxiv.org/abs/2507.02813)|null|
 |**2025-07-03**|**RichControl: Structure- and Appearance-Rich Training-Free Spatial Control for Text-to-Image Generation**|Liheng Zhang et.al.|[2507.02792](http://arxiv.org/abs/2507.02792)|null|
 |**2025-07-03**|**FairHuman: Boosting Hand and Face Quality in Human Image Generation with Minimum Potential Delay Fairness in Diffusion Models**|Yuxuan Wang et.al.|[2507.02714](http://arxiv.org/abs/2507.02714)|null|
-|**2025-07-03**|**UniMC: Taming Diffusion Transformer for Unified Keypoint-Guided Multi-Class Image Generation**|Qin Guo et.al.|[2507.02713](http://arxiv.org/abs/2507.02713)|null|
+|**2025-07-04**|**UniMC: Taming Diffusion Transformer for Unified Keypoint-Guided Multi-Class Image Generation**|Qin Guo et.al.|[2507.02713](http://arxiv.org/abs/2507.02713)|null|
 |**2025-07-03**|**APT: Adaptive Personalized Training for Diffusion Models with Limited Data**|JungWoo Chae et.al.|[2507.02687](http://arxiv.org/abs/2507.02687)|null|
 |**2025-07-03**|**Learning few-step posterior samplers by unfolding and distillation of diffusion models**|Charlesquin Kemajou Mbakam et.al.|[2507.02686](http://arxiv.org/abs/2507.02686)|null|
 |**2025-07-03**|**Guided Generation for Developable Antibodies**|Siqi Zhao et.al.|[2507.02670](http://arxiv.org/abs/2507.02670)|null|
 |**2025-07-03**|**Lost in Latent Space: An Empirical Study of Latent Diffusion Models for Physics Emulation**|François Rozet et.al.|[2507.02608](http://arxiv.org/abs/2507.02608)|null|
 |**2025-07-03**|**AC-Refiner: Efficient Arithmetic Circuit Optimization Using Conditional Diffusion Models**|Chenhao Xue et.al.|[2507.02598](http://arxiv.org/abs/2507.02598)|null|
 |**2025-07-03**|**Reconstructing Close Human Interaction with Appearance and Proxemics Reasoning**|Buzhen Huang et.al.|[2507.02565](http://arxiv.org/abs/2507.02565)|null|
-|**2025-07-03**|**AvatarMakeup: Realistic Makeup Transfer for 3D Animatable Head Avatars**|Yiming Zhong et.al.|[2507.02419](http://arxiv.org/abs/2507.02419)|null|
+|**2025-07-07**|**AvatarMakeup: Realistic Makeup Transfer for 3D Animatable Head Avatars**|Yiming Zhong et.al.|[2507.02419](http://arxiv.org/abs/2507.02419)|null|
 |**2025-07-03**|**PosDiffAE: Position-aware Diffusion Auto-encoder For High-Resolution Brain Tissue Classification Incorporating Artifact Restoration**|Ayantika Das et.al.|[2507.02405](http://arxiv.org/abs/2507.02405)|null|
 |**2025-07-03**|**Posterior Transition Modeling for Unsupervised Diffusion-Based Speech Enhancement**|Mostafa Sadeghi et.al.|[2507.02391](http://arxiv.org/abs/2507.02391)|null|
 |**2025-07-03**|**Offline Reinforcement Learning with Penalized Action Noise Injection**|JunHyeok Oh et.al.|[2507.02356](http://arxiv.org/abs/2507.02356)|null|
@@ -10384,7 +10384,7 @@ layout: default
 |**2025-07-02**|**Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning**|Qingdong He et.al.|[2507.01908](http://arxiv.org/abs/2507.01908)|null|
 |**2025-07-02**|**ReFlex: Text-Guided Editing of Real Images in Rectified Flow via Mid-Step Feature Extraction and Attention Adaptation**|Jimyeong Kim et.al.|[2507.01496](http://arxiv.org/abs/2507.01496)|null|
 |**2025-07-02**|**QC-OT: Optimal Transport with Quasiconformal Mapping**|Yuping Lv et.al.|[2507.01456](http://arxiv.org/abs/2507.01456)|null|
-|**2025-07-01**|**LD-RPS: Zero-Shot Unified Image Restoration via Latent Diffusion Recurrent Posterior Sampling**|Huaqiu Li et.al.|[2507.00790](http://arxiv.org/abs/2507.00790)|null|
+|**2025-07-04**|**LD-RPS: Zero-Shot Unified Image Restoration via Latent Diffusion Recurrent Posterior Sampling**|Huaqiu Li et.al.|[2507.00790](http://arxiv.org/abs/2507.00790)|null|
 |**2025-07-01**|**Laplace-Mamba: Laplace Frequency Prior-Guided Mamba-CNN Fusion Network for Image Dehazing**|Yongzhen Wang et.al.|[2507.00501](http://arxiv.org/abs/2507.00501)|null|
 |**2025-06-30**|**A Unified Framework for Stealthy Adversarial Generation via Latent Optimization and Transferability Enhancement**|Gaozheng Pei et.al.|[2506.23676](http://arxiv.org/abs/2506.23676)|null|
 |**2025-06-30**|**TAG-WM: Tamper-Aware Generative Image Watermarking via Diffusion Inversion Sensitivity**|Yuzhuo Chen et.al.|[2506.23484](http://arxiv.org/abs/2506.23484)|null|

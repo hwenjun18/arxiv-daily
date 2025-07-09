@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.08
+## Updated on 2025.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -43,13 +43,13 @@ layout: default
 |**2025-07-07**|**When do World Models Successfully Learn Dynamical Systems?**|Edmund Ross et.al.|[2507.04898](http://arxiv.org/abs/2507.04898)|null|
 |**2025-07-07**|**Efficacy of Image Similarity as a Metric for Augmenting Small Dataset Retinal Image Segmentation**|Thomas Wallace et.al.|[2507.04862](http://arxiv.org/abs/2507.04862)|null|
 |**2025-07-07**|**Hybrid Adversarial Spectral Loss Conditional Generative Adversarial Networks for Signal Data Augmentation in Ultra-precision Machining Surface Roughness Prediction**|Suiyan Shang et.al.|[2507.04665](http://arxiv.org/abs/2507.04665)|null|
-|**2025-07-06**|**Domain Generalizable Portrait Style Transfer**|Xinbo Wang et.al.|[2507.04243](http://arxiv.org/abs/2507.04243)|null|
+|**2025-07-08**|**Domain Generalizable Portrait Style Transfer**|Xinbo Wang et.al.|[2507.04243](http://arxiv.org/abs/2507.04243)|null|
 |**2025-07-04**|**Super-resolution of turbulent velocity fields in two-way coupled particle-laden flows**|Ali Shamooni et.al.|[2507.03567](http://arxiv.org/abs/2507.03567)|null|
 |**2025-07-04**|**Hybrid Quantum Generative Adversarial Networks To Inverse Design Metasurfaces For Incident Angle-Independent Unidirectional Transmission**|Sreeraj Rajan Warrier et.al.|[2507.03518](http://arxiv.org/abs/2507.03518)|null|
 |**2025-07-04**|**WETBench: A Benchmark for Detecting Task-Specific Machine-Generated Text on Wikipedia**|Gerrit Quaremba et.al.|[2507.03373](http://arxiv.org/abs/2507.03373)|null|
 |**2025-07-04**|**UltraDfeGAN: Detail-Enhancing Generative Adversarial Networks for High-Fidelity Functional Ultrasound Synthesis**|Zhuo Li et.al.|[2507.03341](http://arxiv.org/abs/2507.03341)|null|
 |**2025-07-03**|**AnyI2V: Animating Any Conditional Image with Motion Control**|Ziye Li et.al.|[2507.02857](http://arxiv.org/abs/2507.02857)|null|
-|**2025-07-07**|**Holistic Tokenizer for Autoregressive Image Generation**|Anlin Zheng et.al.|[2507.02358](http://arxiv.org/abs/2507.02358)|null|
+|**2025-07-08**|**Hita: Holistic Tokenizer for Autoregressive Image Generation**|Anlin Zheng et.al.|[2507.02358](http://arxiv.org/abs/2507.02358)|null|
 |**2025-07-03**|**Transformer-based EEG Decoding: A Survey**|Haodong Zhang et.al.|[2507.02320](http://arxiv.org/abs/2507.02320)|null|
 |**2025-07-02**|**Improving GANs by leveraging the quantum noise from real hardware**|Hongni Jin et.al.|[2507.01886](http://arxiv.org/abs/2507.01886)|null|
 |**2025-07-01**|**Surgical Neural Radiance Fields from One Image**|Alberto Neri et.al.|[2507.00969](http://arxiv.org/abs/2507.00969)|null|
@@ -2482,7 +2482,7 @@ layout: default
 |**2025-07-07**|**VERITAS: Verification and Explanation of Realness in Images for Transparency in AI Systems**|Aadi Srivastava et.al.|[2507.05146](http://arxiv.org/abs/2507.05146)|null|
 |**2025-07-07**|**MoDiT: Learning Highly Consistent 3D Motion Coefficients with Diffusion Transformer for Talking Head Generation**|Yucheng Wang et.al.|[2507.05092](http://arxiv.org/abs/2507.05092)|null|
 |**2025-07-07**|**AI-Driven Cytomorphology Image Synthesis for Medical Diagnostics**|Jan Carreras Boada et.al.|[2507.05063](http://arxiv.org/abs/2507.05063)|null|
-|**2025-07-07**|**A COMPASS to Model Comparison and Simulation-Based Inference in Galactic Chemical Evolution**|Berkay Gunes et.al.|[2507.05060](http://arxiv.org/abs/2507.05060)|null|
+|**2025-07-08**|**A COMPASS to Model Comparison and Simulation-Based Inference in Galactic Chemical Evolution**|Berkay Gunes et.al.|[2507.05060](http://arxiv.org/abs/2507.05060)|null|
 |**2025-07-07**|**A Generative Diffusion Model for Amorphous Materials**|Kai Yang et.al.|[2507.05024](http://arxiv.org/abs/2507.05024)|null|
 |**2025-07-07**|**TLB-VFI: Temporal-Aware Latent Brownian Bridge Diffusion for Video Frame Interpolation**|Zonglin Lyu et.al.|[2507.04984](http://arxiv.org/abs/2507.04984)|null|
 |**2025-07-07**|**A diffusion model for light scattering in ejecta**|J. A. Don Jayamanne et.al.|[2507.04972](http://arxiv.org/abs/2507.04972)|null|
@@ -12399,7 +12399,7 @@ layout: default
 |**2025-07-07**|**A portrait throughout perihelion of the NH $_2$ -rich interstellar comet 2I/Borisov**|Sophie E. Deam et.al.|[2507.05051](http://arxiv.org/abs/2507.05051)|null|
 |**2025-07-07**|**Profinite geometric iterated monodromy groups of postcritically finite polynomials in degree 3**|Mikhail Hlushchanka et.al.|[2507.05033](http://arxiv.org/abs/2507.05033)|null|
 |**2025-07-07**|**Structure-Guided Diffusion Models for High-Fidelity Portrait Shadow Removal**|Wanchang Yu et.al.|[2507.04692](http://arxiv.org/abs/2507.04692)|null|
-|**2025-07-06**|**Domain Generalizable Portrait Style Transfer**|Xinbo Wang et.al.|[2507.04243](http://arxiv.org/abs/2507.04243)|null|
+|**2025-07-08**|**Domain Generalizable Portrait Style Transfer**|Xinbo Wang et.al.|[2507.04243](http://arxiv.org/abs/2507.04243)|null|
 |**2025-07-05**|**Flux-Sculptor: Text-Driven Rich-Attribute Portrait Editing through Decomposed Spatial Flow Control**|Tianyao He et.al.|[2507.03979](http://arxiv.org/abs/2507.03979)|null|
 |**2025-07-05**|**Evaluating Adversarial Protections for Diffusion Personalization: A Comprehensive Study**|Kai Ye et.al.|[2507.03953](http://arxiv.org/abs/2507.03953)|null|
 |**2025-07-03**|**FitzHugh-Nagumo equation: from global dynamics to slow-fast system**|Alexandre A. P. Rodrigues et.al.|[2507.01623](http://arxiv.org/abs/2507.01623)|null|

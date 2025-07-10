@@ -51,6 +51,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**Advancing Offline Handwritten Text Recognition: A Systematic Review of Data Augmentation and Generation Techniques**|Yassin Hussein Rassul et.al.|[2507.06275](http://arxiv.org/abs/2507.06275)|null|
 |**2025-07-08**|**CAVGAN: Unifying Jailbreak and Defense of LLMs via Generative Adversarial Attacks on their Internal Representations**|Xiaohu Li et.al.|[2507.06043](http://arxiv.org/abs/2507.06043)|null|
 |**2025-07-07**|**Mastering Regional 3DGS: Locating, Initializing, and Editing with Diverse 2D Priors**|Lanqing Guo et.al.|[2507.05426](http://arxiv.org/abs/2507.05426)|null|
 |**2025-07-07**|**Enhancing Underwater Images Using Deep Learning with Subjective Image Quality Integration**|Jose M. Montero et.al.|[2507.05393](http://arxiv.org/abs/2507.05393)|null|
@@ -2494,6 +2495,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-09**|**Towards Multimodal Understanding via Stable Diffusion as a Task-Aware Feature Extractor**|Vatsal Agarwal et.al.|[2507.07106](http://arxiv.org/abs/2507.07106)|null|
+|**2025-07-09**|**Vision-Language-Vision Auto-Encoder: Scalable Knowledge Distillation from Diffusion Models**|Tiezheng Zhang et.al.|[2507.07104](http://arxiv.org/abs/2507.07104)|null|
+|**2025-07-09**|**Exact Evaluation of the Accuracy of Diffusion Models for Inverse Problems with Gaussian Data Distributions**|Emile Pierret et.al.|[2507.07008](http://arxiv.org/abs/2507.07008)|null|
+|**2025-07-09**|**DiffSpectra: Molecular Structure Elucidation from Spectra using Diffusion Models**|Liang Wang et.al.|[2507.06853](http://arxiv.org/abs/2507.06853)|null|
+|**2025-07-09**|**Democratizing High-Fidelity Co-Speech Gesture Video Generation**|Xu Yang et.al.|[2507.06812](http://arxiv.org/abs/2507.06812)|null|
+|**2025-07-09**|**Enhancing Diffusion Model Stability for Image Restoration via Gradient Management**|Hongjie Wu et.al.|[2507.06656](http://arxiv.org/abs/2507.06656)|null|
+|**2025-07-09**|**Diff $^2$ I2P: Differentiable Image-to-Point Cloud Registration with Diffusion Prior**|Juncheng Mu et.al.|[2507.06651](http://arxiv.org/abs/2507.06651)|null|
+|**2025-07-09**|**Denoising Multi-Beta VAE: Representation Learning for Disentanglement and Generation**|Anshuk Uppal et.al.|[2507.06613](http://arxiv.org/abs/2507.06613)|null|
+|**2025-07-09**|**MOST: Motion Diffusion Model for Rare Text via Temporal Clip Banzhaf Interaction**|Yin Wang et.al.|[2507.06590](http://arxiv.org/abs/2507.06590)|null|
+|**2025-07-09**|**Concept-TRAK: Understanding how diffusion models learn concepts through concept-level attribution**|Yonghyun Park et.al.|[2507.06547](http://arxiv.org/abs/2507.06547)|null|
+|**2025-07-09**|**Concept Unlearning by Modeling Key Steps of Diffusion Process**|Chaoshuo Zhang et.al.|[2507.06526](http://arxiv.org/abs/2507.06526)|null|
+|**2025-07-09**|**FedDifRC: Unlocking the Potential of Text-to-Image Diffusion Models in Heterogeneous Federated Learning**|Huan Wang et.al.|[2507.06482](http://arxiv.org/abs/2507.06482)|null|
+|**2025-07-08**|**FedPhD: Federated Pruning with Hierarchical Learning of Diffusion Models**|Qianyu Long et.al.|[2507.06449](http://arxiv.org/abs/2507.06449)|null|
+|**2025-07-08**|**Mitigating Multi-Sequence 3D Prostate MRI Data Scarcity through Domain Adaptation using Locally-Trained Latent Diffusion Models for Prostate Cancer Detection**|Emerson P. Grabke et.al.|[2507.06384](http://arxiv.org/abs/2507.06384)|null|
+|**2025-07-08**|**Too Human to Model:The Uncanny Valley of LLMs in Social Simulation -- When Generative Language Agents Misalign with Modelling Principles**|Yongchao Zeng et.al.|[2507.06310](http://arxiv.org/abs/2507.06310)|null|
 |**2025-07-08**|**Modern Methods in Associative Memory**|Dmitry Krotov et.al.|[2507.06211](http://arxiv.org/abs/2507.06211)|null|
 |**2025-07-08**|**CultureCLIP: Empowering CLIP with Cultural Awareness through Synthetic Images and Contextualized Captions**|Yuchen Huang et.al.|[2507.06210](http://arxiv.org/abs/2507.06210)|null|
 |**2025-07-08**|**A Survey on Latent Reasoning**|Rui-Jie Zhu et.al.|[2507.06203](http://arxiv.org/abs/2507.06203)|null|
@@ -10449,6 +10465,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-09**|**Enhancing Diffusion Model Stability for Image Restoration via Gradient Management**|Hongjie Wu et.al.|[2507.06656](http://arxiv.org/abs/2507.06656)|null|
 |**2025-07-08**|**2D Instance Editing in 3D Space**|Yuhuan Xie et.al.|[2507.05819](http://arxiv.org/abs/2507.05819)|null|
 |**2025-07-08**|**Kernel Density Steering: Inference-Time Scaling via Mode Seeking for Image Restoration**|Yuyang Hu et.al.|[2507.05604](http://arxiv.org/abs/2507.05604)|null|
 |**2025-07-07**|**Simulating Refractive Distortions and Weather-Induced Artifacts for Resource-Constrained Autonomous Perception**|Moseli Mots'oehli et.al.|[2507.05536](http://arxiv.org/abs/2507.05536)|null|
@@ -12445,6 +12462,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-09**|**4KAgent: Agentic Any Image to 4K Super-Resolution**|Yushen Zuo et.al.|[2507.07105](http://arxiv.org/abs/2507.07105)|null|
+|**2025-07-05**|**LoRAShield: Data-Free Editing Alignment for Secure Personalized LoRA Sharing**|Jiahao Chen et.al.|[2507.07056](http://arxiv.org/abs/2507.07056)|null|
 |**2025-07-07**|**A portrait throughout perihelion of the NH $_2$ -rich interstellar comet 2I/Borisov**|Sophie E. Deam et.al.|[2507.05051](http://arxiv.org/abs/2507.05051)|null|
 |**2025-07-07**|**Profinite geometric iterated monodromy groups of postcritically finite polynomials in degree 3**|Mikhail Hlushchanka et.al.|[2507.05033](http://arxiv.org/abs/2507.05033)|null|
 |**2025-07-07**|**Structure-Guided Diffusion Models for High-Fidelity Portrait Shadow Removal**|Wanchang Yu et.al.|[2507.04692](http://arxiv.org/abs/2507.04692)|null|

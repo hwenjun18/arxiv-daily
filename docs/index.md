@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.14
+## Updated on 2025.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -2491,12 +2491,12 @@ layout: default
 |**2025-07-11**|**Upsample What Matters: Region-Adaptive Latent Sampling for Accelerated Diffusion Transformers**|Wongi Jeong et.al.|[2507.08422](http://arxiv.org/abs/2507.08422)|null|
 |**2025-07-11**|**Inference-Time Scaling of Diffusion Language Models with Particle Gibbs Sampling**|Meihua Dang et.al.|[2507.08390](http://arxiv.org/abs/2507.08390)|null|
 |**2025-07-11**|**From Enhancement to Understanding: Build a Generalized Bridge for Low-light Vision via Semantically Consistent Unsupervised Fine-tuning**|Sen Wang et.al.|[2507.08380](http://arxiv.org/abs/2507.08380)|null|
-|**2025-07-11**|**Audio Inpanting using Discrete Diffusion Model**|Tali Dror et.al.|[2507.08333](http://arxiv.org/abs/2507.08333)|null|
+|**2025-07-14**|**Token-based Audio Inpainting via Discrete Diffusion**|Tali Dror et.al.|[2507.08333](http://arxiv.org/abs/2507.08333)|null|
 |**2025-07-10**|**Adaptive Diffusion Denoised Smoothing : Certified Robustness via Randomized Smoothing with Differentially Private Guided Denoising Diffusion**|Frederick Shpilevskiy et.al.|[2507.08163](http://arxiv.org/abs/2507.08163)|null|
 |**2025-07-10**|**Predicting Flow Dynamics using Diffusion Models**|Yannick Gachnang et.al.|[2507.08106](http://arxiv.org/abs/2507.08106)|null|
 |**2025-07-10**|**The relative importance of being Gaussian**|F. Alberto Grünbaum et.al.|[2507.08059](http://arxiv.org/abs/2507.08059)|null|
 |**2025-07-10**|**Geometry Forcing: Marrying Video Diffusion and 3D Representation for Consistent World Modeling**|Haoyu Wu et.al.|[2507.07982](http://arxiv.org/abs/2507.07982)|null|
-|**2025-07-10**|**Low Resource Reconstruction Attacks Through Benign Prompts**|Sol Yarkoni et.al.|[2507.07947](http://arxiv.org/abs/2507.07947)|null|
+|**2025-07-14**|**Low Resource Reconstruction Attacks Through Benign Prompts**|Sol Yarkoni et.al.|[2507.07947](http://arxiv.org/abs/2507.07947)|null|
 |**2025-07-11**|**Single-Step Latent Diffusion for Underwater Image Restoration**|Jiayi Wu et.al.|[2507.07878](http://arxiv.org/abs/2507.07878)|null|
 |**2025-07-10**|**Re-Bottleneck: Latent Re-Structuring for Neural Audio Autoencoders**|Dimitrios Bralios et.al.|[2507.07867](http://arxiv.org/abs/2507.07867)|null|
 |**2025-07-10**|**Benchmarking Content-Based Puzzle Solvers on Corrupted Jigsaw Puzzles**|Richard Dirauf et.al.|[2507.07828](http://arxiv.org/abs/2507.07828)|null|
@@ -12014,7 +12014,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-11**|**NeuralOS: Towards Simulating Operating Systems via Neural Generative Models**|Luke Rivard et.al.|[2507.08800](http://arxiv.org/abs/2507.08800)|null|
-|**2025-07-11**|**CLiFT: Compressive Light-Field Tokens for Compute-Efficient and Adaptive Neural Rendering**|Zhengqing Wang et.al.|[2507.08776](http://arxiv.org/abs/2507.08776)|null|
+|**2025-07-14**|**CLiFT: Compressive Light-Field Tokens for Compute-Efficient and Adaptive Neural Rendering**|Zhengqing Wang et.al.|[2507.08776](http://arxiv.org/abs/2507.08776)|null|
 |**2025-07-06**|**Sat2City: 3D City Generation from A Single Satellite Image with Cascaded Latent Diffusion**|Tongyan Hua et.al.|[2507.04403](http://arxiv.org/abs/2507.04403)|null|
 |**2025-07-05**|**A3FR: Agile 3D Gaussian Splatting with Incremental Gaze Tracked Foveated Rendering in Virtual Reality**|Shuo Xin et.al.|[2507.04147](http://arxiv.org/abs/2507.04147)|null|
 |**2025-07-04**|**MoDA: Multi-modal Diffusion Architecture for Talking Head Generation**|Xinyang Li et.al.|[2507.03256](http://arxiv.org/abs/2507.03256)|null|
@@ -12475,13 +12475,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-11**|**M2DAO-Talker: Harmonizing Multi-granular Motion Decoupling and Alternating Optimization for Talking-head Generation**|Kui Jiang et.al.|[2507.08307](http://arxiv.org/abs/2507.08307)|null|
+|**2025-07-14**|**M2DAO-Talker: Harmonizing Multi-granular Motion Decoupling and Alternating Optimization for Talking-head Generation**|Kui Jiang et.al.|[2507.08307](http://arxiv.org/abs/2507.08307)|null|
 |**2025-07-10**|**The JWST Weather Report: retrieving temperature variations, auroral heating, and static cloud coverage on SIMP-0136**|Evert Nasedkin et.al.|[2507.07772](http://arxiv.org/abs/2507.07772)|null|
 |**2025-07-09**|**4KAgent: Agentic Any Image to 4K Super-Resolution**|Yushen Zuo et.al.|[2507.07105](http://arxiv.org/abs/2507.07105)|null|
 |**2025-07-05**|**LoRAShield: Data-Free Editing Alignment for Secure Personalized LoRA Sharing**|Jiahao Chen et.al.|[2507.07056](http://arxiv.org/abs/2507.07056)|null|
 |**2025-07-07**|**A portrait throughout perihelion of the NH $_2$ -rich interstellar comet 2I/Borisov**|Sophie E. Deam et.al.|[2507.05051](http://arxiv.org/abs/2507.05051)|null|
 |**2025-07-07**|**Profinite geometric iterated monodromy groups of postcritically finite polynomials in degree 3**|Mikhail Hlushchanka et.al.|[2507.05033](http://arxiv.org/abs/2507.05033)|null|
-|**2025-07-07**|**Structure-Guided Diffusion Models for High-Fidelity Portrait Shadow Removal**|Wanchang Yu et.al.|[2507.04692](http://arxiv.org/abs/2507.04692)|null|
+|**2025-07-14**|**Structure-Guided Diffusion Models for High-Fidelity Portrait Shadow Removal**|Wanchang Yu et.al.|[2507.04692](http://arxiv.org/abs/2507.04692)|null|
 |**2025-07-08**|**Domain Generalizable Portrait Style Transfer**|Xinbo Wang et.al.|[2507.04243](http://arxiv.org/abs/2507.04243)|null|
 |**2025-07-05**|**Flux-Sculptor: Text-Driven Rich-Attribute Portrait Editing through Decomposed Spatial Flow Control**|Tianyao He et.al.|[2507.03979](http://arxiv.org/abs/2507.03979)|null|
 |**2025-07-05**|**Evaluating Adversarial Protections for Diffusion Personalization: A Comprehensive Study**|Kai Ye et.al.|[2507.03953](http://arxiv.org/abs/2507.03953)|null|

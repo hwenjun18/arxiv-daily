@@ -51,6 +51,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**Learning from Imperfect Data: Robust Inference of Dynamic Systems using Simulation-based Generative Model**|Hyunwoo Cho et.al.|[2507.10884](http://arxiv.org/abs/2507.10884)|null|
 |**2025-07-14**|**Transferring Styles for Reduced Texture Bias and Improved Robustness in Semantic Segmentation Networks**|Ben Hamscher et.al.|[2507.10239](http://arxiv.org/abs/2507.10239)|null|
 |**2025-07-13**|**AI-Enhanced Pediatric Pneumonia Detection: A CNN-Based Approach Using Data Augmentation and Generative Adversarial Networks (GANs)**|Abdul Manaf et.al.|[2507.09759](http://arxiv.org/abs/2507.09759)|null|
 |**2025-07-13**|**Hybrid Quantum-Classical Generative Adversarial Networks with Transfer Learning**|Asma Al-Othni et.al.|[2507.09706](http://arxiv.org/abs/2507.09706)|null|
@@ -2507,6 +2508,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**CATVis: Context-Aware Thought Visualization**|Tariq Mehmood et.al.|[2507.11522](http://arxiv.org/abs/2507.11522)|null|
+|**2025-07-15**|**HUG-VAS: A Hierarchical NURBS-Based Generative Model for Aortic Geometry Synthesis and Controllable Editing**|Pan Du et.al.|[2507.11474](http://arxiv.org/abs/2507.11474)|null|
+|**2025-07-15**|**Implementing Adaptations for Vision AutoRegressive Model**|Kaif Shaikh et.al.|[2507.11441](http://arxiv.org/abs/2507.11441)|null|
+|**2025-07-15**|**Ocean Diviner: A Diffusion-Augmented Reinforcement Learning for AUV Robust Control in the Underwater Tasks**|Weiyi Liu et.al.|[2507.11283](http://arxiv.org/abs/2507.11283)|null|
+|**2025-07-15**|**Latent Space Consistency for Sparse-View CT Reconstruction**|Duoyou Chen et.al.|[2507.11152](http://arxiv.org/abs/2507.11152)|null|
+|**2025-07-15**|**Human-Guided Shade Artifact Suppression in CBCT-to-MDCT Translation via Schrödinger Bridge with Conditional Diffusion**|Sung Ho Kang et.al.|[2507.11025](http://arxiv.org/abs/2507.11025)|null|
+|**2025-07-15**|**Robust ID-Specific Face Restoration via Alignment Learning**|Yushun Fang et.al.|[2507.10943](http://arxiv.org/abs/2507.10943)|null|
+|**2025-07-14**|**Visually grounded emotion regulation via diffusion models and user-driven reappraisal**|Edoardo Pinzuti et.al.|[2507.10861](http://arxiv.org/abs/2507.10861)|null|
 |**2025-07-14**|**MP1: Mean Flow Tames Policy Learning in 1-step for Robotic Manipulation**|Juyi Sheng et.al.|[2507.10543](http://arxiv.org/abs/2507.10543)|null|
 |**2025-07-14**|**Solving the compute crisis with physics-based ASICs**|Maxwell Aifer et.al.|[2507.10463](http://arxiv.org/abs/2507.10463)|null|
 |**2025-07-14**|**Parallel Sampling of Diffusion Models on $SO(3)$**|Yan-Ting Chen et.al.|[2507.10347](http://arxiv.org/abs/2507.10347)|null|
@@ -10521,6 +10530,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**EditGen: Harnessing Cross-Attention Control for Instruction-Based Auto-Regressive Audio Editing**|Vassilis Sioros et.al.|[2507.11096](http://arxiv.org/abs/2507.11096)|null|
+|**2025-07-14**|**Sparse Fine-Tuning of Transformers for Generative Tasks**|Wei Chen et.al.|[2507.10855](http://arxiv.org/abs/2507.10855)|null|
 |**2025-07-14**|**RefSTAR: Blind Facial Image Restoration with Reference Selection, Transfer, and Reconstruction**|Zhicun Yin et.al.|[2507.10470](http://arxiv.org/abs/2507.10470)|null|
 |**2025-07-14**|**On a class of forward-backward reaction-diffusion systems with local and nonlocal coupling for image restoration**|Yihui Tong et.al.|[2507.10393](http://arxiv.org/abs/2507.10393)|null|
 |**2025-07-14**|**LayLens: Improving Deepfake Understanding through Simplified Explanations**|Abhijeet Narang et.al.|[2507.10066](http://arxiv.org/abs/2507.10066)|null|

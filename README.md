@@ -51,6 +51,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**SHIELD: A Secure and Highly Enhanced Integrated Learning for Robust Deepfake Detection against Adversarial Attacks**|Kutub Uddin et.al.|[2507.13170](http://arxiv.org/abs/2507.13170)|null|
+|**2025-07-17**|**Multi-population GAN Training: Analyzing Co-Evolutionary Algorithms**|Walter P. Casas et.al.|[2507.13157](http://arxiv.org/abs/2507.13157)|null|
+|**2025-07-17**|**fastWDM3D: Fast and Accurate 3D Healthy Tissue Inpainting**|Alicia Durrer et.al.|[2507.13146](http://arxiv.org/abs/2507.13146)|null|
+|**2025-07-17**|**Adversarial attacks to image classification systems using evolutionary algorithms**|Sergio Nesmachnow et.al.|[2507.13136](http://arxiv.org/abs/2507.13136)|null|
+|**2025-07-17**|**A Distributed Generative AI Approach for Heterogeneous Multi-Domain Environments under Data Sharing constraints**|Youssef Tawfilis et.al.|[2507.12979](http://arxiv.org/abs/2507.12979)|null|
+|**2025-07-17**|**Pixel Perfect MegaMed: A Megapixel-Scale Vision-Language Foundation Model for Generating High Resolution Medical Images**|Zahra TehraniNasab et.al.|[2507.12698](http://arxiv.org/abs/2507.12698)|null|
 |**2025-07-16**|**FloGAN: Scenario-Based Urban Mobility Flow Generation via Conditional GANs and Dynamic Region Decoupling**|Seanglidet Yean et.al.|[2507.12053](http://arxiv.org/abs/2507.12053)|null|
 |**2025-07-16**|**A Multimodal Data Fusion Generative Adversarial Network for Real Time Underwater Sound Speed Field Construction**|Wei Huang et.al.|[2507.11812](http://arxiv.org/abs/2507.11812)|null|
 |**2025-07-15**|**Deep Generative Methods and Tire Architecture Design**|Fouad Oubari et.al.|[2507.11639](http://arxiv.org/abs/2507.11639)|null|
@@ -2511,6 +2517,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**Diffuman4D: 4D Consistent Human View Synthesis from Sparse-View Videos with Spatio-Temporal Diffusion Models**|Yudong Jin et.al.|[2507.13344](http://arxiv.org/abs/2507.13344)|null|
+|**2025-07-17**|**FashionPose: Text to Pose to Relight Image Generation for Personalized Fashion Visualization**|Chuancheng Shi et.al.|[2507.13311](http://arxiv.org/abs/2507.13311)|null|
+|**2025-07-17**|**DiffClean: Diffusion-based Makeup Removal for Accurate Age Estimation**|Ekta Balkrishna Gavas et.al.|[2507.13292](http://arxiv.org/abs/2507.13292)|null|
+|**2025-07-17**|**fastWDM3D: Fast and Accurate 3D Healthy Tissue Inpainting**|Alicia Durrer et.al.|[2507.13146](http://arxiv.org/abs/2507.13146)|null|
+|**2025-07-17**|**DiffOSeg: Omni Medical Image Segmentation via Multi-Expert Collaboration Diffusion Model**|Han Zhang et.al.|[2507.13087](http://arxiv.org/abs/2507.13087)|null|
+|**2025-07-17**|**Label-Consistent Dataset Distillation with Detector-Guided Refinement**|Yawen Zou et.al.|[2507.13074](http://arxiv.org/abs/2507.13074)|null|
+|**2025-07-17**|**Rethinking the Embodied Gap in Vision-and-Language Navigation: A Holistic Study of Physical and Visual Disparities**|Liuyi Wang et.al.|[2507.13019](http://arxiv.org/abs/2507.13019)|null|
+|**2025-07-17**|**From Variability To Accuracy: Conditional Bernoulli Diffusion Models with Consensus-Driven Correction for Thin Structure Segmentation**|Jinseo An et.al.|[2507.12985](http://arxiv.org/abs/2507.12985)|null|
+|**2025-07-17**|**Non-differentiable Reward Optimization for Diffusion-based Autonomous Motion Planning**|Giwon Lee et.al.|[2507.12977](http://arxiv.org/abs/2507.12977)|null|
+|**2025-07-17**|**RGB Pre-Training Enhanced Unobservable Feature Latent Diffusion Model for Spectral Reconstruction**|Keli Deng et.al.|[2507.12967](http://arxiv.org/abs/2507.12967)|null|
+|**2025-07-17**|**DMQ: Dissecting Outliers of Diffusion Models for Post-Training Quantization**|Dongyeun Lee et.al.|[2507.12933](http://arxiv.org/abs/2507.12933)|null|
+|**2025-07-17**|**Energy-Efficient RSMA-enabled Low-altitude MEC Optimization Via Generative AI-enhanced Deep Reinforcement Learning**|Xudong Wang et.al.|[2507.12910](http://arxiv.org/abs/2507.12910)|null|
+|**2025-07-17**|**Generalist Bimanual Manipulation via Foundation Video Diffusion Models**|Yao Feng et.al.|[2507.12898](http://arxiv.org/abs/2507.12898)|null|
+|**2025-07-16**|**Reconstruct, Inpaint, Finetune: Dynamic Novel-view Synthesis from Monocular Videos**|Kaihua Chen et.al.|[2507.12646](http://arxiv.org/abs/2507.12646)|null|
+|**2025-07-16**|**Zero Forcing on Iterated Graph Models**|Christopher Brice et.al.|[2507.12579](http://arxiv.org/abs/2507.12579)|null|
+|**2025-07-16**|**Sample Variance Denoising in Cylindrical 21-cm Power Spectra**|Daniela Breitman et.al.|[2507.12545](http://arxiv.org/abs/2507.12545)|null|
 |**2025-07-16**|**Unsupervised Monocular 3D Keypoint Discovery from Multi-View Diffusion Priors**|Subin Jeon et.al.|[2507.12336](http://arxiv.org/abs/2507.12336)|null|
 |**2025-07-17**|**Compositional Discrete Latent Code for High Fidelity, Productive Diffusion Models**|Samuel Lavoie et.al.|[2507.12318](http://arxiv.org/abs/2507.12318)|null|
 |**2025-07-16**|**FADE: Adversarial Concept Erasure in Flow Models**|Zixuan Fu et.al.|[2507.12283](http://arxiv.org/abs/2507.12283)|null|
@@ -12560,6 +12582,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**FantasyPortrait: Enhancing Multi-Character Portrait Animation with Expression-Augmented Diffusion Transformers**|Qiang Wang et.al.|[2507.12956](http://arxiv.org/abs/2507.12956)|null|
+|**2025-07-17**|**Think-Before-Draw: Decomposing Emotion Semantics & Fine-Grained Controllable Expressive Talking Head Generation**|Hanlei Shi et.al.|[2507.12761](http://arxiv.org/abs/2507.12761)|null|
 |**2025-07-16**|**ID-EA: Identity-driven Text Enhancement and Adaptation with Textual Inversion for Personalized Text-to-Image Generation**|Hyun-Jun Jin et.al.|[2507.11990](http://arxiv.org/abs/2507.11990)|null|
 |**2025-07-14**|**Bifurcation Analysis of 3D Filippov Systems around Cusp-Fold Singularities**|Oscar A. R. Cespedes et.al.|[2507.10514](http://arxiv.org/abs/2507.10514)|null|
 |**2025-07-14**|**SpeakerVid-5M: A Large-Scale High-Quality Dataset for Audio-Visual Dyadic Interactive Human Generation**|Youliang Zhang et.al.|[2507.09862](http://arxiv.org/abs/2507.09862)|null|
@@ -13111,6 +13135,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**Variance-Based Pruning for Accelerating and Compressing Trained Networks**|Uranik Berisha et.al.|[2507.12988](http://arxiv.org/abs/2507.12988)|null|
 |**2025-06-09**|**Attacking Attention of Foundation Models Disrupts Downstream Tasks**|Hondamunige Prasanna Silva et.al.|[2506.05394](http://arxiv.org/abs/2506.05394)|**[link](https://github.com/hondamunigeprasannasilva/attack-attention)**|
 |**2025-05-09**|**DiffLocks: Generating 3D Hair from a Single Image using Diffusion Models**|Radu Alexandru Rosu et.al.|[2505.06166](http://arxiv.org/abs/2505.06166)|null|
 |**2025-04-20**|**Frequency-domain Learning with Kernel Prior for Blind Image Deblurring**|Jixiang Sun et.al.|[2504.14664](http://arxiv.org/abs/2504.14664)|null|

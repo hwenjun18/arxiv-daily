@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.20
+## Updated on 2025.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -39,6 +39,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**MoDyGAN: Combining Molecular Dynamics With GANs to Investigate Protein Conformational Space**|Jingbo Liang et.al.|[2507.13950](http://arxiv.org/abs/2507.13950)|null|
+|**2025-07-18**|**Converting T1-weighted MRI from 3T to 7T quality using deep learning**|Malo Gicquel et.al.|[2507.13782](http://arxiv.org/abs/2507.13782)|null|
+|**2025-07-18**|**Tackling fake images in cybersecurity -- Interpretation of a StyleGAN and lifting its black-box**|Julia Laubmann et.al.|[2507.13722](http://arxiv.org/abs/2507.13722)|null|
+|**2025-07-18**|**TexGS-VolVis: Expressive Scene Editing for Volume Visualization via Textured Gaussian Splatting**|Kaiyuan Tang et.al.|[2507.13586](http://arxiv.org/abs/2507.13586)|null|
 |**2025-07-17**|**SHIELD: A Secure and Highly Enhanced Integrated Learning for Robust Deepfake Detection against Adversarial Attacks**|Kutub Uddin et.al.|[2507.13170](http://arxiv.org/abs/2507.13170)|null|
 |**2025-07-17**|**Multi-population GAN Training: Analyzing Co-Evolutionary Algorithms**|Walter P. Casas et.al.|[2507.13157](http://arxiv.org/abs/2507.13157)|null|
 |**2025-07-17**|**fastWDM3D: Fast and Accurate 3D Healthy Tissue Inpainting**|Alicia Durrer et.al.|[2507.13146](http://arxiv.org/abs/2507.13146)|null|
@@ -2503,6 +2507,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**CSD-VAR: Content-Style Decomposition in Visual Autoregressive Models**|Quang-Binh Nguyen et.al.|[2507.13984](http://arxiv.org/abs/2507.13984)|null|
+|**2025-07-18**|**Generalist Forecasting with Frozen Video Models via Latent Diffusion**|Jacob C Walker et.al.|[2507.13942](http://arxiv.org/abs/2507.13942)|null|
+|**2025-07-18**|**DynFaceRestore: Balancing Fidelity and Quality in Diffusion-Guided Blind Face Restoration with Dynamic Blur-Level Mapping and Guidance**|Huu-Phu Do et.al.|[2507.13797](http://arxiv.org/abs/2507.13797)|null|
+|**2025-07-18**|**Learning Spectral Diffusion Prior for Hyperspectral Image Reconstruction**|Mingyang Yu et.al.|[2507.13769](http://arxiv.org/abs/2507.13769)|null|
+|**2025-07-18**|**Can Synthetic Images Conquer Forgetting? Beyond Unexplored Doubts in Few-Shot Class-Incremental Learning**|Junsu Kim et.al.|[2507.13739](http://arxiv.org/abs/2507.13739)|null|
+|**2025-07-18**|**PoemTale Diffusion: Minimising Information Loss in Poem to Image Generation with Multi-Stage Prompt Refinement**|Sofia Jamil et.al.|[2507.13708](http://arxiv.org/abs/2507.13708)|null|
+|**2025-07-18**|**Efficient Burst Super-Resolution with One-step Diffusion**|Kento Kawai et.al.|[2507.13607](http://arxiv.org/abs/2507.13607)|null|
+|**2025-07-18**|**Learning Deblurring Texture Prior from Unpaired Data with Diffusion Model**|Chengxu Liu et.al.|[2507.13599](http://arxiv.org/abs/2507.13599)|null|
+|**2025-07-18**|**GIFT: Gradient-aware Immunization of diffusion models against malicious Fine-Tuning with safe concepts retention**|Amro Abdalla et.al.|[2507.13598](http://arxiv.org/abs/2507.13598)|null|
+|**2025-07-17**|**LoRA-Loop: Closing the Synthetic Replay Cycle for Continual VLM Learning**|Kaihong Wang et.al.|[2507.13568](http://arxiv.org/abs/2507.13568)|null|
 |**2025-07-17**|**Diffuman4D: 4D Consistent Human View Synthesis from Sparse-View Videos with Spatio-Temporal Diffusion Models**|Yudong Jin et.al.|[2507.13344](http://arxiv.org/abs/2507.13344)|null|
 |**2025-07-17**|**FashionPose: Text to Pose to Relight Image Generation for Personalized Fashion Visualization**|Chuancheng Shi et.al.|[2507.13311](http://arxiv.org/abs/2507.13311)|null|
 |**2025-07-17**|**DiffClean: Diffusion-based Makeup Removal for Accurate Age Estimation**|Ekta Balkrishna Gavas et.al.|[2507.13292](http://arxiv.org/abs/2507.13292)|null|
@@ -10556,6 +10570,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**NoHumansRequired: Autonomous High-Quality Image Editing Triplet Mining**|Maksim Kuprashevich et.al.|[2507.14119](http://arxiv.org/abs/2507.14119)|null|
+|**2025-07-18**|**Moodifier: MLLM-Enhanced Emotion-Driven Image Editing**|Jiarong Ye et.al.|[2507.14024](http://arxiv.org/abs/2507.14024)|null|
+|**2025-07-18**|**Global Modeling Matters: A Fast, Lightweight and Effective Baseline for Efficient Image Restoration**|Xingyu Jiang et.al.|[2507.13663](http://arxiv.org/abs/2507.13663)|null|
 |**2025-07-16**|**Unsupervised Part Discovery via Descriptor-Based Masked Image Restoration with Optimized Constraints**|Jiahao Xia et.al.|[2507.11985](http://arxiv.org/abs/2507.11985)|null|
 |**2025-07-14**|**Expert Operational GANS: Towards Real-Color Underwater Image Restoration**|Ozer Can Devecioglu et.al.|[2507.11562](http://arxiv.org/abs/2507.11562)|null|
 |**2025-07-15**|**EditGen: Harnessing Cross-Attention Control for Instruction-Based Auto-Regressive Audio Editing**|Vassilis Sioros et.al.|[2507.11096](http://arxiv.org/abs/2507.11096)|null|
@@ -12098,6 +12115,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**TimeNeRF: Building Generalizable Neural Radiance Fields across Time from Few-Shot Input Views**|Hsiang-Hui Hung et.al.|[2507.13929](http://arxiv.org/abs/2507.13929)|null|
 |**2025-07-11**|**NeuralOS: Towards Simulating Operating Systems via Neural Generative Models**|Luke Rivard et.al.|[2507.08800](http://arxiv.org/abs/2507.08800)|null|
 |**2025-07-14**|**CLiFT: Compressive Light-Field Tokens for Compute-Efficient and Adaptive Neural Rendering**|Zhengqing Wang et.al.|[2507.08776](http://arxiv.org/abs/2507.08776)|null|
 |**2025-07-06**|**Sat2City: 3D City Generation from A Single Satellite Image with Cascaded Latent Diffusion**|Tongyan Hua et.al.|[2507.04403](http://arxiv.org/abs/2507.04403)|null|

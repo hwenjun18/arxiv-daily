@@ -39,6 +39,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**Diffusion models for multivariate subsurface generation and efficient probabilistic inversion**|Roberto Miele et.al.|[2507.15809](http://arxiv.org/abs/2507.15809)|null|
+|**2025-07-21**|**Toward an event-level analysis of hadron structure using differential programming**|Kevin Braga et.al.|[2507.15768](http://arxiv.org/abs/2507.15768)|null|
+|**2025-07-21**|**Evaluating Text Style Transfer: A Nine-Language Benchmark for Text Detoxification**|Vitaly Protasov et.al.|[2507.15557](http://arxiv.org/abs/2507.15557)|null|
+|**2025-07-20**|**Deep Generative Models in Condition and Structural Health Monitoring: Opportunities, Limitations and Future Outlook**|Xin Yang et.al.|[2507.15026](http://arxiv.org/abs/2507.15026)|null|
+|**2025-07-19**|**GCC-Spam: Spam Detection via GAN, Contrastive Learning, and Character Similarity Networks**|Zixin Xu et.al.|[2507.14679](http://arxiv.org/abs/2507.14679)|null|
+|**2025-07-19**|**Agentic Satellite-Augmented Low-Altitude Economy and Terrestrial Networks: A Survey on Generative Approaches**|Xiaozheng Gao et.al.|[2507.14633](http://arxiv.org/abs/2507.14633)|null|
+|**2025-07-19**|**A Transformer-Based Conditional GAN with Multiple Instance Learning for UAV Signal Detection and Classification**|Haochen Liu et.al.|[2507.14592](http://arxiv.org/abs/2507.14592)|null|
+|**2025-07-19**|**Benchmarking GANs, Diffusion Models, and Flow Matching for T1w-to-T2w MRI Translation**|Andrea Moschetto et.al.|[2507.14575](http://arxiv.org/abs/2507.14575)|null|
+|**2025-07-19**|**IRGPT: Understanding Real-world Infrared Image with Bi-cross-modal Curriculum on Large-scale Benchmark**|Zhe Cao et.al.|[2507.14449](http://arxiv.org/abs/2507.14449)|null|
+|**2025-07-16**|**Diffusion-based translation between unpaired spontaneous premature neonatal EEG and fetal MEG**|Benoît Brebion et.al.|[2507.14224](http://arxiv.org/abs/2507.14224)|null|
 |**2025-07-18**|**MoDyGAN: Combining Molecular Dynamics With GANs to Investigate Protein Conformational Space**|Jingbo Liang et.al.|[2507.13950](http://arxiv.org/abs/2507.13950)|null|
 |**2025-07-18**|**Converting T1-weighted MRI from 3T to 7T quality using deep learning**|Malo Gicquel et.al.|[2507.13782](http://arxiv.org/abs/2507.13782)|null|
 |**2025-07-18**|**Tackling fake images in cybersecurity -- Interpretation of a StyleGAN and lifting its black-box**|Julia Laubmann et.al.|[2507.13722](http://arxiv.org/abs/2507.13722)|null|
@@ -2507,6 +2517,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**Diffusion Beats Autoregressive in Data-Constrained Settings**|Mihir Prabhudesai et.al.|[2507.15857](http://arxiv.org/abs/2507.15857)|null|
+|**2025-07-21**|**Diffusion models for multivariate subsurface generation and efficient probabilistic inversion**|Roberto Miele et.al.|[2507.15809](http://arxiv.org/abs/2507.15809)|null|
+|**2025-07-21**|**DiffuMeta: Algebraic Language Models for Inverse Design of Metamaterials via Diffusion Transformers**|Li Zheng et.al.|[2507.15753](http://arxiv.org/abs/2507.15753)|null|
+|**2025-07-21**|**TokensGen: Harnessing Condensed Tokens for Long Video Generation**|Wenqi Ouyang et.al.|[2507.15728](http://arxiv.org/abs/2507.15728)|null|
+|**2025-07-21**|**DiffPF: Differentiable Particle Filtering with Generative Sampling via Conditional Diffusion Models**|Ziyu Wan et.al.|[2507.15716](http://arxiv.org/abs/2507.15716)|null|
+|**2025-07-21**|**SustainDiffusion: Optimising the Social and Environmental Sustainability of Stable Diffusion Models**|Giordano d'Aloisio et.al.|[2507.15663](http://arxiv.org/abs/2507.15663)|null|
+|**2025-07-21**|**SegDT: A Diffusion Transformer-Based Segmentation Model for Medical Imaging**|Salah Eddine Bekhouche et.al.|[2507.15595](http://arxiv.org/abs/2507.15595)|null|
+|**2025-07-21**|**Ultrafast Spatial Hole Burning Dynamics in Monolayer WS2: Insights from Time-resolved Photoluminescence Spectroscopy**|Yichun Pan et.al.|[2507.15538](http://arxiv.org/abs/2507.15538)|null|
+|**2025-07-21**|**Blended Point Cloud Diffusion for Localized Text-guided Shape Editing**|Etai Sella et.al.|[2507.15399](http://arxiv.org/abs/2507.15399)|null|
+|**2025-07-21**|**Latent Space Synergy: Text-Guided Data Augmentation for Direct Diffusion Biomedical Segmentation**|Muhammad Aqeel et.al.|[2507.15361](http://arxiv.org/abs/2507.15361)|null|
+|**2025-07-21**|**RAD: Retrieval High-quality Demonstrations to Enhance Decision-making**|Lu Guo et.al.|[2507.15356](http://arxiv.org/abs/2507.15356)|null|
+|**2025-07-21**|**RoadFusion: Latent Diffusion Model for Pavement Defect Detection**|Muhammad Aqeel et.al.|[2507.15346](http://arxiv.org/abs/2507.15346)|null|
+|**2025-07-21**|**Exponential Runge-Kutta Galerkin finite element method for a reaction-diffusion system with nonsmooth initial data**|Runjie Zhang et.al.|[2507.15345](http://arxiv.org/abs/2507.15345)|null|
+|**2025-07-21**|**ExDD: Explicit Dual Distribution Learning for Surface Defect Detection via Diffusion Synthesis**|Muhammad Aqeel et.al.|[2507.15335](http://arxiv.org/abs/2507.15335)|null|
+|**2025-07-21**|**Conditional Video Generation for High-Efficiency Video Compression**|Fangqiu Yi et.al.|[2507.15269](http://arxiv.org/abs/2507.15269)|null|
+|**2025-07-21**|**CHORDS: Diffusion Sampling Accelerator with Multi-core Hierarchical ODE Solvers**|Jiaqi Han et.al.|[2507.15260](http://arxiv.org/abs/2507.15260)|null|
+|**2025-07-21**|**Improving Joint Embedding Predictive Architecture with Diffusion Noise**|Yuping Qiu et.al.|[2507.15216](http://arxiv.org/abs/2507.15216)|null|
+|**2025-07-21**|**MeshMamba: State Space Models for Articulated 3D Mesh Generation and Reconstruction**|Yusuke Yoshiyasu et.al.|[2507.15212](http://arxiv.org/abs/2507.15212)|null|
+|**2025-07-20**|**PET Image Reconstruction Using Deep Diffusion Image Prior**|Fumio Hashimoto et.al.|[2507.15078](http://arxiv.org/abs/2507.15078)|null|
+|**2025-07-20**|**StableAnimator++: Overcoming Pose Misalignment and Face Distortion for Human Image Animation**|Shuyuan Tu et.al.|[2507.15064](http://arxiv.org/abs/2507.15064)|null|
 |**2025-07-18**|**CSD-VAR: Content-Style Decomposition in Visual Autoregressive Models**|Quang-Binh Nguyen et.al.|[2507.13984](http://arxiv.org/abs/2507.13984)|null|
 |**2025-07-18**|**Generalist Forecasting with Frozen Video Models via Latent Diffusion**|Jacob C Walker et.al.|[2507.13942](http://arxiv.org/abs/2507.13942)|null|
 |**2025-07-18**|**DynFaceRestore: Balancing Fidelity and Quality in Diffusion-Guided Blind Face Restoration with Dynamic Blur-Level Mapping and Guidance**|Huu-Phu Do et.al.|[2507.13797](http://arxiv.org/abs/2507.13797)|null|
@@ -10570,6 +10600,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-20**|**Light Future: Multimodal Action Frame Prediction via InstructPix2Pix**|Zesen Zhong et.al.|[2507.14809](http://arxiv.org/abs/2507.14809)|null|
+|**2025-07-20**|**Exploring Scalable Unified Modeling for General Low-Level Vision**|Xiangyu Chen et.al.|[2507.14801](http://arxiv.org/abs/2507.14801)|null|
 |**2025-07-18**|**NoHumansRequired: Autonomous High-Quality Image Editing Triplet Mining**|Maksim Kuprashevich et.al.|[2507.14119](http://arxiv.org/abs/2507.14119)|null|
 |**2025-07-18**|**Moodifier: MLLM-Enhanced Emotion-Driven Image Editing**|Jiarong Ye et.al.|[2507.14024](http://arxiv.org/abs/2507.14024)|null|
 |**2025-07-18**|**Global Modeling Matters: A Fast, Lightweight and Effective Baseline for Efficient Image Restoration**|Xingyu Jiang et.al.|[2507.13663](http://arxiv.org/abs/2507.13663)|null|
@@ -12115,6 +12147,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**CylinderPlane: Nested Cylinder Representation for 3D-aware Image Generation**|Ru Jia et.al.|[2507.15606](http://arxiv.org/abs/2507.15606)|null|
+|**2025-07-21**|**GCC: A 3DGS Inference Architecture with Gaussian-Wise and Cross-Stage Conditional Processing**|Minnan Pei et.al.|[2507.15300](http://arxiv.org/abs/2507.15300)|null|
+|**2025-07-19**|**Real-Time Scene Reconstruction using Light Field Probes**|Yaru Liu et.al.|[2507.14624](http://arxiv.org/abs/2507.14624)|null|
 |**2025-07-18**|**TimeNeRF: Building Generalizable Neural Radiance Fields across Time from Few-Shot Input Views**|Hsiang-Hui Hung et.al.|[2507.13929](http://arxiv.org/abs/2507.13929)|null|
 |**2025-07-11**|**NeuralOS: Towards Simulating Operating Systems via Neural Generative Models**|Luke Rivard et.al.|[2507.08800](http://arxiv.org/abs/2507.08800)|null|
 |**2025-07-14**|**CLiFT: Compressive Light-Field Tokens for Compute-Efficient and Adaptive Neural Rendering**|Zhengqing Wang et.al.|[2507.08776](http://arxiv.org/abs/2507.08776)|null|
@@ -12509,6 +12544,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-19**|**Exp-Graph: How Connections Learn Facial Attributes in Graph-based Expression Recognition**|Nandani Sharma et.al.|[2507.14608](http://arxiv.org/abs/2507.14608)|null|
 |**2025-06-07**|**Beyond Surface Similarity: Evaluating LLM-Based Test Refactorings with Structural and Semantic Awareness**|Wendkûuni C. Ouédraogo et.al.|[2506.06767](http://arxiv.org/abs/2506.06767)|null|
 |**2025-06-02**|**Low-Rank Head Avatar Personalization with Registers**|Sai Tanmay Reddy Chakkera et.al.|[2506.01935](http://arxiv.org/abs/2506.01935)|null|
 |**2025-05-25**|**Is Architectural Complexity Overrated? Competitive and Interpretable Knowledge Graph Completion with RelatE**|Abhijit Chakraborty et.al.|[2505.18971](http://arxiv.org/abs/2505.18971)|null|

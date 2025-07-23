@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.22
+## Updated on 2025.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SFM
@@ -2529,7 +2529,7 @@ layout: default
 |**2025-07-21**|**Latent Space Synergy: Text-Guided Data Augmentation for Direct Diffusion Biomedical Segmentation**|Muhammad Aqeel et.al.|[2507.15361](http://arxiv.org/abs/2507.15361)|null|
 |**2025-07-21**|**RAD: Retrieval High-quality Demonstrations to Enhance Decision-making**|Lu Guo et.al.|[2507.15356](http://arxiv.org/abs/2507.15356)|null|
 |**2025-07-21**|**RoadFusion: Latent Diffusion Model for Pavement Defect Detection**|Muhammad Aqeel et.al.|[2507.15346](http://arxiv.org/abs/2507.15346)|null|
-|**2025-07-21**|**Exponential Runge-Kutta Galerkin finite element method for a reaction-diffusion system with nonsmooth initial data**|Runjie Zhang et.al.|[2507.15345](http://arxiv.org/abs/2507.15345)|null|
+|**2025-07-22**|**Exponential Runge-Kutta Galerkin finite element method for a reaction-diffusion system with nonsmooth initial data**|Runjie Zhang et.al.|[2507.15345](http://arxiv.org/abs/2507.15345)|null|
 |**2025-07-21**|**ExDD: Explicit Dual Distribution Learning for Surface Defect Detection via Diffusion Synthesis**|Muhammad Aqeel et.al.|[2507.15335](http://arxiv.org/abs/2507.15335)|null|
 |**2025-07-21**|**Conditional Video Generation for High-Efficiency Video Compression**|Fangqiu Yi et.al.|[2507.15269](http://arxiv.org/abs/2507.15269)|null|
 |**2025-07-21**|**CHORDS: Diffusion Sampling Accelerator with Multi-core Hierarchical ODE Solvers**|Jiaqi Han et.al.|[2507.15260](http://arxiv.org/abs/2507.15260)|null|
@@ -12148,7 +12148,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-21**|**CylinderPlane: Nested Cylinder Representation for 3D-aware Image Generation**|Ru Jia et.al.|[2507.15606](http://arxiv.org/abs/2507.15606)|null|
-|**2025-07-21**|**GCC: A 3DGS Inference Architecture with Gaussian-Wise and Cross-Stage Conditional Processing**|Minnan Pei et.al.|[2507.15300](http://arxiv.org/abs/2507.15300)|null|
+|**2025-07-22**|**GCC: A 3DGS Inference Architecture with Gaussian-Wise and Cross-Stage Conditional Processing**|Minnan Pei et.al.|[2507.15300](http://arxiv.org/abs/2507.15300)|null|
 |**2025-07-19**|**Real-Time Scene Reconstruction using Light Field Probes**|Yaru Liu et.al.|[2507.14624](http://arxiv.org/abs/2507.14624)|null|
 |**2025-07-18**|**TimeNeRF: Building Generalizable Neural Radiance Fields across Time from Few-Shot Input Views**|Hsiang-Hui Hung et.al.|[2507.13929](http://arxiv.org/abs/2507.13929)|null|
 |**2025-07-11**|**NeuralOS: Towards Simulating Operating Systems via Neural Generative Models**|Luke Rivard et.al.|[2507.08800](http://arxiv.org/abs/2507.08800)|null|
